@@ -1,0 +1,813 @@
+{
+    "id": 324,
+    "fetched_at": "Sun Dec 14 07:06:36 2025",
+    "metadata": {
+        "mal_id": 324,
+        "url": "https://myanimelist.net/anime/324/Kidou_Keisatsu_Patlabor__On_Television",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1739/144310.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1739/144310t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1739/144310l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1739/144310.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1739/144310t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1739/144310l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": "https://www.youtube-nocookie.com/embed/G2zsLRDbRmM?enablejsapi=1&wmode=opaque&autoplay=1",
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Kidou Keisatsu Patlabor: On Television"
+            },
+            {
+                "type": "Synonym",
+                "title": "Kido Keisatsu Patlabor"
+            },
+            {
+                "type": "Synonym",
+                "title": "Mobile Police Patlabor ON TELEVISION"
+            },
+            {
+                "type": "Japanese",
+                "title": "機動警察パトレイバー ON TELEVISION"
+            },
+            {
+                "type": "English",
+                "title": "Patlabor: The Mobile Police - The TV Series"
+            },
+            {
+                "type": "Spanish",
+                "title": "Patlabor"
+            },
+            {
+                "type": "French",
+                "title": "Patlabor : The Mobile Police"
+            }
+        ],
+        "title": "Kidou Keisatsu Patlabor: On Television",
+        "title_english": "Patlabor: The Mobile Police - The TV Series",
+        "title_japanese": "機動警察パトレイバー ON TELEVISION",
+        "title_synonyms": [
+            "Kido Keisatsu Patlabor",
+            "Mobile Police Patlabor ON TELEVISION"
+        ],
+        "type": "TV",
+        "source": "Original",
+        "episodes": 47,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "1989-10-11T00:00:00+00:00",
+            "to": "1990-09-26T00:00:00+00:00",
+            "prop": {
+                "from": {
+                    "day": 11,
+                    "month": 10,
+                    "year": 1989
+                },
+                "to": {
+                    "day": 26,
+                    "month": 9,
+                    "year": 1990
+                }
+            },
+            "string": "Oct 11, 1989 to Sep 26, 1990"
+        },
+        "duration": "24 min per ep",
+        "rating": "PG-13 - Teens 13 or older",
+        "score": 7.69,
+        "scored_by": 11378,
+        "rank": 1376,
+        "popularity": 3711,
+        "members": 45059,
+        "favorites": 491,
+        "synopsis": "In the future, advanced robotics has created heavy robots (\"labors\") for use in a variety of functions: construction, fire-fighting, military, and more. However, though the robots are only machines, their operators are also only human—and humans sometimes turn to crime. Since a heavy labor unit can be a dangerous weapon, the police of the future are set to fight fire with fire, using advanced patrol labor units, \"patlabors.\" This is the story of the Second Special Vehicles Division, a motley crew of patlabor policemen and women doing their best to fight crime and live a normal life.\n\n(Source: ANN)",
+        "background": "",
+        "season": "fall",
+        "year": 1989,
+        "broadcast": {
+            "day": null,
+            "time": null,
+            "timezone": null,
+            "string": "Unknown"
+        },
+        "producers": [
+            {
+                "mal_id": 577,
+                "type": "anime",
+                "name": "Tohokushinsha Film Corporation",
+                "url": "https://myanimelist.net/anime/producer/577/Tohokushinsha_Film_Corporation"
+            }
+        ],
+        "licensors": [
+            {
+                "mal_id": 284,
+                "type": "anime",
+                "name": "Central Park Media",
+                "url": "https://myanimelist.net/anime/producer/284/Central_Park_Media"
+            },
+            {
+                "mal_id": 490,
+                "type": "anime",
+                "name": "Maiden Japan",
+                "url": "https://myanimelist.net/anime/producer/490/Maiden_Japan"
+            }
+        ],
+        "studios": [
+            {
+                "mal_id": 14,
+                "type": "anime",
+                "name": "Sunrise",
+                "url": "https://myanimelist.net/anime/producer/14/Sunrise"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 4,
+                "type": "anime",
+                "name": "Comedy",
+                "url": "https://myanimelist.net/anime/genre/4/Comedy"
+            },
+            {
+                "mal_id": 24,
+                "type": "anime",
+                "name": "Sci-Fi",
+                "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [
+            {
+                "mal_id": 50,
+                "type": "anime",
+                "name": "Adult Cast",
+                "url": "https://myanimelist.net/anime/genre/50/Adult_Cast"
+            },
+            {
+                "mal_id": 18,
+                "type": "anime",
+                "name": "Mecha",
+                "url": "https://myanimelist.net/anime/genre/18/Mecha"
+            },
+            {
+                "mal_id": 48,
+                "type": "anime",
+                "name": "Workplace",
+                "url": "https://myanimelist.net/anime/genre/48/Workplace"
+            }
+        ],
+        "demographics": [],
+        "relations": [
+            {
+                "relation": "Sequel",
+                "entry": [
+                    {
+                        "mal_id": 1289,
+                        "type": "anime",
+                        "name": "Kidou Keisatsu Patlabor: New OVA",
+                        "url": "https://myanimelist.net/anime/1289/Kidou_Keisatsu_Patlabor__New_OVA"
+                    }
+                ]
+            },
+            {
+                "relation": "Adaptation",
+                "entry": [
+                    {
+                        "mal_id": 201,
+                        "type": "manga",
+                        "name": "Kidou Keisatsu Patlabor",
+                        "url": "https://myanimelist.net/manga/201/Kidou_Keisatsu_Patlabor"
+                    },
+                    {
+                        "mal_id": 90408,
+                        "type": "manga",
+                        "name": "Kidou Keisatsu Patlabor",
+                        "url": "https://myanimelist.net/manga/90408/Kidou_Keisatsu_Patlabor"
+                    }
+                ]
+            },
+            {
+                "relation": "Alternative Version",
+                "entry": [
+                    {
+                        "mal_id": 1288,
+                        "type": "anime",
+                        "name": "Kidou Keisatsu Patlabor",
+                        "url": "https://myanimelist.net/anime/1288/Kidou_Keisatsu_Patlabor"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [
+                "1: \"Sono Mama no Kimi de Ite (そのままの君でいて)\" by Yuuko Nitou (eps 1-34)",
+                "2: \"Condition Green ~Kikyuuhasshin~ (コンディション・グリーン~緊急発進~)\" by Hiroko Kasahara (eps 35-47)"
+            ],
+            "endings": [
+                "1: \"Midnight Blue (ミッドナイト・ブルー)\" by KISSME QUICK (eps 1-34)",
+                "2: \"Paradise no Kakuritsu (パラダイスの確率)\" by JA-JA (eps 35-47)"
+            ]
+        },
+        "external": [
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=778"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=59"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "http://en.wikipedia.org/wiki/Patlabor"
+            }
+        ],
+        "streaming": [
+            {
+                "name": "HIDIVE",
+                "url": "https://www.hidive.com/tv/patlabor-the-mobile-police-tv"
+            }
+        ]
+    },
+    "episodes": [
+        {
+            "mal_id": 1,
+            "url": null,
+            "title": "Ingram Activated",
+            "title_japanese": "イングラム起動",
+            "title_romanji": "Ingram Kidou ",
+            "aired": "1989-10-11T00:00:00+00:00",
+            "score": 4.37,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=440295"
+        },
+        {
+            "mal_id": 2,
+            "url": null,
+            "title": "Kanuka Has Come",
+            "title_japanese": "香貫花が来",
+            "title_romanji": "Kanuka ga Kita ",
+            "aired": "1989-10-18T00:00:00+00:00",
+            "score": 4.31,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=549623"
+        },
+        {
+            "mal_id": 3,
+            "url": null,
+            "title": "This Is SV2",
+            "title_japanese": "こちら特車二課",
+            "title_romanji": "Kochira Tokusha Nika ",
+            "aired": "1989-11-01T00:00:00+00:00",
+            "score": 4.42,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1247569"
+        },
+        {
+            "mal_id": 4,
+            "url": null,
+            "title": "Head to the Mountain of Mystery!",
+            "title_japanese": "魔の山へ行けっ!",
+            "title_romanji": "Ma no Yama e Ike! ",
+            "aired": "1989-11-08T00:00:00+00:00",
+            "score": 4.31,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1247651"
+        },
+        {
+            "mal_id": 5,
+            "url": null,
+            "title": "Runaway Labor X-10",
+            "title_japanese": "エックステン)",
+            "title_romanji": "Bousou Labor X10 (暴走レイバーX10",
+            "aired": "1989-11-15T00:00:00+00:00",
+            "score": 4.33,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1248301"
+        },
+        {
+            "mal_id": 6,
+            "url": null,
+            "title": "The Tower: SOS",
+            "title_japanese": "ザ・タワーSOS",
+            "title_romanji": "The Tower SOS ",
+            "aired": "1989-11-22T00:00:00+00:00",
+            "score": 4.5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1249655"
+        },
+        {
+            "mal_id": 7,
+            "url": null,
+            "title": "Glorious Type 97 Modified",
+            "title_japanese": "きゅうなな)式改",
+            "title_romanji": "Eikou no Kyuunanashiki-kai (栄光の97",
+            "aired": "1989-10-29T00:00:00+00:00",
+            "score": 4.4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1249779"
+        },
+        {
+            "mal_id": 8,
+            "url": null,
+            "title": "Elusive Green",
+            "title_japanese": "まぼろしの緑",
+            "title_romanji": "Maboroshi no Midori ",
+            "aired": "1989-12-06T00:00:00+00:00",
+            "score": 4.21,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1249829"
+        },
+        {
+            "mal_id": 9,
+            "url": null,
+            "title": "Red Labor Landing",
+            "title_japanese": "上陸 赤いレイバー",
+            "title_romanji": "Jouriku: Akai Labor ",
+            "aired": "1989-12-13T00:00:00+00:00",
+            "score": 4.29,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=553295"
+        },
+        {
+            "mal_id": 10,
+            "url": null,
+            "title": "Eve's Trap",
+            "title_japanese": "イヴの罠",
+            "title_romanji": "Eve no Wana ",
+            "aired": "1989-12-20T00:00:00+00:00",
+            "score": 4.54,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1253185"
+        },
+        {
+            "mal_id": 11,
+            "url": null,
+            "title": "Eve's Terror",
+            "title_japanese": "イヴの戦慄",
+            "title_romanji": "Eve no Senritsu ",
+            "aired": "1989-12-27T00:00:00+00:00",
+            "score": 4.4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=582077"
+        },
+        {
+            "mal_id": 12,
+            "url": null,
+            "title": "Ohta's One Troubled Afternoon",
+            "title_japanese": "太田 惑いの午後",
+            "title_romanji": "Oota: Madoi no Gogo ",
+            "aired": "1989-01-10T00:00:00+00:00",
+            "score": 4.41,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=553569"
+        },
+        {
+            "mal_id": 13,
+            "url": null,
+            "title": "Gently, Your Highness",
+            "title_japanese": "殿下 お手柔らかに",
+            "title_romanji": "Denka - Ote Yawaraka ni ",
+            "aired": "1990-01-17T00:00:00+00:00",
+            "score": 3.71,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1253241"
+        },
+        {
+            "mal_id": 14,
+            "url": null,
+            "title": "You Win",
+            "title_japanese": "あんたの勝ち!",
+            "title_romanji": "Anta no Kachi! ",
+            "aired": "1990-01-24T00:00:00+00:00",
+            "score": 4.68,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=553759"
+        },
+        {
+            "mal_id": 15,
+            "url": null,
+            "title": "The Whale That Sang a Song",
+            "title_japanese": "歌を唄ったクジラ",
+            "title_romanji": "Uta wo Utatta Kujira ",
+            "aired": "1990-01-31T00:00:00+00:00",
+            "score": 3.88,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1254009"
+        },
+        {
+            "mal_id": 16,
+            "url": null,
+            "title": "The Unit Crosses the Sea",
+            "title_japanese": "小隊 海を渡る",
+            "title_romanji": "Shoutai - Umi wo Wataru ",
+            "aired": "1990-02-07T00:00:00+00:00",
+            "score": 3.92,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1254601"
+        },
+        {
+            "mal_id": 17,
+            "url": null,
+            "title": "Target, Chief Goto",
+            "title_japanese": "目標は後藤隊長",
+            "title_romanji": "Mokuhyou wa Gotou Taichou ",
+            "aired": "1990-02-14T00:00:00+00:00",
+            "score": 4.52,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1254617"
+        },
+        {
+            "mal_id": 18,
+            "url": null,
+            "title": "I Love Noa-Senpa",
+            "title_japanese": "スキスキ野明先輩",
+            "title_romanji": "Suki Suki Noa-senpai ",
+            "aired": "1990-02-21T00:00:00+00:00",
+            "score": 4.43,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1254645"
+        },
+        {
+            "mal_id": 19,
+            "url": null,
+            "title": "Shadow in Geo-Front",
+            "title_japanese": "ジオフロントの影",
+            "title_romanji": "Geofront no Kage ",
+            "aired": "1990-02-28T00:00:00+00:00",
+            "score": 4.47,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=582917"
+        },
+        {
+            "mal_id": 20,
+            "url": null,
+            "title": "Movement in the Dark",
+            "title_japanese": "黒い胎動",
+            "title_romanji": "Kuroi Taidou ",
+            "aired": "1990-03-07T00:00:00+00:00",
+            "score": 4.36,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1254801"
+        },
+        {
+            "mal_id": 21,
+            "url": null,
+            "title": "Phantom Again",
+            "title_japanese": "ファントム)ふたたび",
+            "title_romanji": "Phantom Futatabi (亡霊",
+            "aired": "1990-03-14T00:00:00+00:00",
+            "score": 4.67,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1255019"
+        },
+        {
+            "mal_id": 22,
+            "url": null,
+            "title": "Labor and Flower",
+            "title_japanese": "花とレイバー",
+            "title_romanji": "Hana to Labor ",
+            "aired": "1990-03-21T00:00:00+00:00",
+            "score": 4.68,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=43504"
+        },
+        {
+            "mal_id": 23,
+            "url": null,
+            "title": "Kanuka's Report",
+            "title_japanese": "香貫花レポート",
+            "title_romanji": "Kanuka Report ",
+            "aired": "1990-04-04T00:00:00+00:00",
+            "score": 4.4,
+            "filler": false,
+            "recap": true,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1255405"
+        },
+        {
+            "mal_id": 24,
+            "url": null,
+            "title": "Farewell, Kanuka",
+            "title_japanese": "さらば香貫花",
+            "title_romanji": "Saraba Kanuka ",
+            "aired": "1990-04-11T00:00:00+00:00",
+            "score": 4.57,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1255427"
+        },
+        {
+            "mal_id": 25,
+            "url": null,
+            "title": "Storm of Spring",
+            "title_japanese": "春の嵐",
+            "title_romanji": "Haru no Arashi ",
+            "aired": "1990-04-18T00:00:00+00:00",
+            "score": 4.33,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1256127"
+        },
+        {
+            "mal_id": 26,
+            "url": null,
+            "title": "I'm Takeo Kumagami",
+            "title_japanese": "私が熊耳武緒です",
+            "title_romanji": "Watashi ga Kumagami Takeo desu ",
+            "aired": "1990-04-25T00:00:00+00:00",
+            "score": 4.32,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=555113"
+        },
+        {
+            "mal_id": 27,
+            "url": null,
+            "title": "A Calling Voice in the Darkness",
+            "title_japanese": "闇に呼ぶ声",
+            "title_romanji": "Yami ni Yobu Koe ",
+            "aired": "1990-05-02T00:00:00+00:00",
+            "score": 4.2,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1257409"
+        },
+        {
+            "mal_id": 28,
+            "url": null,
+            "title": "Suspicious Duo",
+            "title_japanese": "怪しいふたり",
+            "title_romanji": "Ayashii Futari ",
+            "aired": "1990-05-09T00:00:00+00:00",
+            "score": 4.64,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1258731"
+        },
+        {
+            "mal_id": 29,
+            "url": null,
+            "title": "SV2 Wiped Out!",
+            "title_japanese": "特車二課 壊滅す!",
+            "title_romanji": "Tokusha Nika Kaimetsu Su! ",
+            "aired": "1990-05-23T00:00:00+00:00",
+            "score": 4.5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1259247"
+        },
+        {
+            "mal_id": 30,
+            "url": null,
+            "title": "Griffon Was Here!",
+            "title_japanese": "グリフォン参上!",
+            "title_romanji": "Griffon Sanjou! ",
+            "aired": "1990-05-30T00:00:00+00:00",
+            "score": 4.5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1259287"
+        },
+        {
+            "mal_id": 31,
+            "url": null,
+            "title": "Tragedy in Rain",
+            "title_japanese": "雨の惨劇",
+            "title_romanji": "Ame no Sangeki ",
+            "aired": "1990-06-06T00:00:00+00:00",
+            "score": 4.88,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=556003"
+        },
+        {
+            "mal_id": 32,
+            "url": null,
+            "title": "Reunion",
+            "title_japanese": "再会",
+            "title_romanji": "Saikai ",
+            "aired": "1990-06-13T00:00:00+00:00",
+            "score": 4.8,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=584851"
+        },
+        {
+            "mal_id": 33,
+            "url": null,
+            "title": "Hounds of SCHAFT",
+            "title_japanese": "シャフトの犬たち",
+            "title_romanji": "Shaft no Inu-tachi ",
+            "aired": "1990-06-20T00:00:00+00:00",
+            "score": 4.75,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1259935"
+        },
+        {
+            "mal_id": 34,
+            "url": null,
+            "title": "The Battle of the Gate",
+            "title_japanese": "城門の戦い",
+            "title_romanji": "Joumon no Tatakai ",
+            "aired": "1990-06-27T00:00:00+00:00",
+            "score": 4.73,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1259945"
+        },
+        {
+            "mal_id": 35,
+            "url": null,
+            "title": "Griffon Down",
+            "title_japanese": "グリフォン墜つ",
+            "title_romanji": "Griffon Otsu! ",
+            "aired": "1990-07-04T00:00:00+00:00",
+            "score": 4.8,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1259955"
+        },
+        {
+            "mal_id": 36,
+            "url": null,
+            "title": "Noa’s Adventure",
+            "title_japanese": "野明の冒険",
+            "title_romanji": "Noa no Bouken ",
+            "aired": "1990-07-11T00:00:00+00:00",
+            "score": 4.42,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=556675"
+        },
+        {
+            "mal_id": 37,
+            "url": null,
+            "title": "I’m Selling Peace of Mind",
+            "title_japanese": "安心売ります",
+            "title_romanji": "Anshin Urimasu ",
+            "aired": "1990-07-18T00:00:00+00:00",
+            "score": 4.58,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1260413"
+        },
+        {
+            "mal_id": 38,
+            "url": null,
+            "title": "The Underground Mystery Tour",
+            "title_japanese": "地下迷宮物件",
+            "title_romanji": "Chika Meikyuu Bukken ",
+            "aired": "1990-07-25T00:00:00+00:00",
+            "score": 4.41,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1260453"
+        },
+        {
+            "mal_id": 39,
+            "url": null,
+            "title": "Economy Model Plans",
+            "title_japanese": "量産機計画",
+            "title_romanji": "Ryousanki Keikaku ",
+            "aired": "1990-08-01T00:00:00+00:00",
+            "score": 4.24,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1260461"
+        },
+        {
+            "mal_id": 40,
+            "url": null,
+            "title": "Orders of the Coast Guard",
+            "title_japanese": "沿岸警備命令",
+            "title_romanji": "Engan Keibi Meirei ",
+            "aired": "1990-08-08T00:00:00+00:00",
+            "score": 4.24,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1260797"
+        },
+        {
+            "mal_id": 41,
+            "url": null,
+            "title": "Save the Terrorists",
+            "title_japanese": "テロリストを救え",
+            "title_romanji": "Terrorist wo Sukue ",
+            "aired": "1990-08-15T00:00:00+00:00",
+            "score": 4.32,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1262927"
+        },
+        {
+            "mal_id": 42,
+            "url": null,
+            "title": "The Men Who Returned",
+            "title_japanese": "帰ってきた男たち",
+            "title_romanji": "Kaette Kita Otoko-tachi ",
+            "aired": "1990-08-22T00:00:00+00:00",
+            "score": 3.81,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1265527"
+        },
+        {
+            "mal_id": 43,
+            "url": null,
+            "title": "The Working Girl",
+            "title_japanese": "はたらくお嬢さん",
+            "title_romanji": "Hataraku Ojou-san ",
+            "aired": "1990-08-29T00:00:00+00:00",
+            "score": 4.35,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=585871"
+        },
+        {
+            "mal_id": 44,
+            "url": null,
+            "title": "Long Live CLAT",
+            "title_japanese": "CLATよ永遠に",
+            "title_romanji": "CLAT yo Eien ni ",
+            "aired": "1990-09-05T00:00:00+00:00",
+            "score": 4.63,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=557867"
+        },
+        {
+            "mal_id": 45,
+            "url": null,
+            "title": "Vocational Options",
+            "title_japanese": "職業選択の自由",
+            "title_romanji": "Shokugyou Sentaku no Jiyuu ",
+            "aired": "1990-09-12T00:00:00+00:00",
+            "score": 4.64,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1265543"
+        },
+        {
+            "mal_id": 46,
+            "url": null,
+            "title": "His Name is Zero",
+            "title_japanese": "その名はゼロ",
+            "title_romanji": "Sono Na wa Zero ",
+            "aired": "1990-09-19T00:00:00+00:00",
+            "score": 4.31,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1265549"
+        },
+        {
+            "mal_id": 47,
+            "url": null,
+            "title": "Condition Green",
+            "title_japanese": "コンディション・グリーン",
+            "title_romanji": "Condition Green ",
+            "aired": "1990-09-26T00:00:00+00:00",
+            "score": 4.59,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=557925"
+        }
+    ]
+}

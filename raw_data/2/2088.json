@@ -1,0 +1,163 @@
+{
+    "id": 2088,
+    "fetched_at": "Sun Dec 14 07:19:56 2025",
+    "metadata": {
+        "mal_id": 2088,
+        "url": "https://myanimelist.net/anime/2088/Nora",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1417/99272.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1417/99272t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1417/99272l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1417/99272.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1417/99272t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1417/99272l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Nora"
+            },
+            {
+                "type": "Japanese",
+                "title": "ノーラ"
+            }
+        ],
+        "title": "Nora",
+        "title_english": null,
+        "title_japanese": "ノーラ",
+        "title_synonyms": [],
+        "type": "OVA",
+        "source": "Manga",
+        "episodes": 1,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "1985-01-21T00:00:00+00:00",
+            "to": null,
+            "prop": {
+                "from": {
+                    "day": 21,
+                    "month": 1,
+                    "year": 1985
+                },
+                "to": {
+                    "day": null,
+                    "month": null,
+                    "year": null
+                }
+            },
+            "string": "Jan 21, 1985"
+        },
+        "duration": "56 min",
+        "rating": "PG-13 - Teens 13 or older",
+        "score": 4.31,
+        "scored_by": 1867,
+        "rank": 14346,
+        "popularity": 10102,
+        "members": 3954,
+        "favorites": 4,
+        "synopsis": "Nora is on vacation in a \"Holiday Inn\" space station. When the artificial gravity fails, the whole space resort becomes chaotic but she helps solve the problem. \n\n(Source: ANN)",
+        "background": "",
+        "season": null,
+        "year": null,
+        "broadcast": {
+            "day": null,
+            "time": null,
+            "timezone": null,
+            "string": null
+        },
+        "producers": [],
+        "licensors": [],
+        "studios": [
+            {
+                "mal_id": 426,
+                "type": "anime",
+                "name": "Filmlink International",
+                "url": "https://myanimelist.net/anime/producer/426/Filmlink_International"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 2,
+                "type": "anime",
+                "name": "Adventure",
+                "url": "https://myanimelist.net/anime/genre/2/Adventure"
+            },
+            {
+                "mal_id": 24,
+                "type": "anime",
+                "name": "Sci-Fi",
+                "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [
+            {
+                "mal_id": 29,
+                "type": "anime",
+                "name": "Space",
+                "url": "https://myanimelist.net/anime/genre/29/Space"
+            }
+        ],
+        "demographics": [],
+        "relations": [
+            {
+                "relation": "Sequel",
+                "entry": [
+                    {
+                        "mal_id": 9342,
+                        "type": "anime",
+                        "name": "Twinkle Nora Rock Me!",
+                        "url": "https://myanimelist.net/anime/9342/Twinkle_Nora_Rock_Me"
+                    }
+                ]
+            },
+            {
+                "relation": "Adaptation",
+                "entry": [
+                    {
+                        "mal_id": 88413,
+                        "type": "manga",
+                        "name": "Nora no Hakobune",
+                        "url": "https://myanimelist.net/manga/88413/Nora_no_Hakobune"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [],
+            "endings": [
+                "\"Yume Hikou (夢飛行)\" by Yuriko Yamamoto"
+            ]
+        },
+        "external": [
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=3988"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=1704"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": []
+}

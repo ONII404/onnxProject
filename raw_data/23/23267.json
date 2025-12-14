@@ -1,0 +1,130 @@
+{
+    "id": 23267,
+    "fetched_at": "Sun Dec 14 10:11:24 2025",
+    "metadata": {
+        "mal_id": 23267,
+        "url": "https://myanimelist.net/anime/23267/Osaru_no_Tairyou",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/11/60167.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/11/60167t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/11/60167l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/11/60167.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/11/60167t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/11/60167l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Osaru no Tairyou"
+            },
+            {
+                "type": "Japanese",
+                "title": "お猿の大漁"
+            }
+        ],
+        "title": "Osaru no Tairyou",
+        "title_english": null,
+        "title_japanese": "お猿の大漁",
+        "title_synonyms": [],
+        "type": "Movie",
+        "source": "Original",
+        "episodes": 1,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "1933-12-01T00:00:00+00:00",
+            "to": null,
+            "prop": {
+                "from": {
+                    "day": 1,
+                    "month": 12,
+                    "year": 1933
+                },
+                "to": {
+                    "day": null,
+                    "month": null,
+                    "year": null
+                }
+            },
+            "string": "Dec 1, 1933"
+        },
+        "duration": "10 min",
+        "rating": "G - All Ages",
+        "score": 5,
+        "scored_by": 396,
+        "rank": 13827,
+        "popularity": 15337,
+        "members": 895,
+        "favorites": 0,
+        "synopsis": null,
+        "background": "",
+        "season": null,
+        "year": null,
+        "broadcast": {
+            "day": null,
+            "time": null,
+            "timezone": null,
+            "string": null
+        },
+        "producers": [],
+        "licensors": [],
+        "studios": [],
+        "genres": [
+            {
+                "mal_id": 36,
+                "type": "anime",
+                "name": "Slice of Life",
+                "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [],
+        "demographics": [],
+        "relations": [
+            {
+                "relation": "Alternative Version",
+                "entry": [
+                    {
+                        "mal_id": 6851,
+                        "type": "anime",
+                        "name": "Kaitei no Boukun",
+                        "url": "https://myanimelist.net/anime/6851/Kaitei_no_Boukun"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [],
+            "endings": []
+        },
+        "external": [
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=6849"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "http://ja.wikipedia.org/wiki/%E6%9D%91%E7%94%B0%E5%AE%89%E5%8F%B8"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": []
+}

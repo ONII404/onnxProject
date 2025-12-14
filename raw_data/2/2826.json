@@ -1,0 +1,841 @@
+{
+    "id": 2826,
+    "fetched_at": "Sun Dec 14 07:32:20 2025",
+    "metadata": {
+        "mal_id": 2826,
+        "url": "https://myanimelist.net/anime/2826/Oz_no_Mahoutsukai_TV",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/13/64339.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/13/64339t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/13/64339l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/13/64339.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/13/64339t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/13/64339l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Oz no Mahoutsukai (TV)"
+            },
+            {
+                "type": "Synonym",
+                "title": "Oz no Mahoutsukai"
+            },
+            {
+                "type": "Synonym",
+                "title": "The Wizard of Oz"
+            },
+            {
+                "type": "Japanese",
+                "title": "オズの魔法使い"
+            },
+            {
+                "type": "English",
+                "title": "The Wonderful Wizard of Oz"
+            }
+        ],
+        "title": "Oz no Mahoutsukai (TV)",
+        "title_english": "The Wonderful Wizard of Oz",
+        "title_japanese": "オズの魔法使い",
+        "title_synonyms": [
+            "Oz no Mahoutsukai",
+            "The Wizard of Oz"
+        ],
+        "type": "TV",
+        "source": "Book",
+        "episodes": 52,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "1986-10-06T00:00:00+00:00",
+            "to": "1987-09-28T00:00:00+00:00",
+            "prop": {
+                "from": {
+                    "day": 6,
+                    "month": 10,
+                    "year": 1986
+                },
+                "to": {
+                    "day": 28,
+                    "month": 9,
+                    "year": 1987
+                }
+            },
+            "string": "Oct 6, 1986 to Sep 28, 1987"
+        },
+        "duration": "25 min per ep",
+        "rating": "G - All Ages",
+        "score": 6.7,
+        "scored_by": 1400,
+        "rank": 6081,
+        "popularity": 10552,
+        "members": 3418,
+        "favorites": 14,
+        "synopsis": "Dorothy and her canine pal Toto live a quiet life on a Kansas farm with Uncle Henry and Aunt Em. But one day, the little girl and her dog find themselves spirited away from the fields of Kansas, to the magical land of Oz! Dorothy and Toto meet many friends on the yellow-brick road to Emerald City, where she hopes to find a way home to Kansas-- but when she arrives, the city’s mysterious ruler, the Wizard of Oz, is not what she expects! The Wizard can help Dorothy get home, but at a daunting price: she and her friends the Tin Woodsman, the Scarecrow, and the Cowardly Lion must kill the Wicked Witch of the West and free the Winkies from her rule.\n\n(Source: Discotek Media)",
+        "background": "Oz no Mahoutsukai is based on the first three and the sixth books in the Oz series by L. Frank Baum. Due to the latter two books not having been in public domain at the time, the series had to take large liberties with the plot.",
+        "season": "fall",
+        "year": 1986,
+        "broadcast": {
+            "day": null,
+            "time": null,
+            "timezone": null,
+            "string": "Unknown"
+        },
+        "producers": [
+            {
+                "mal_id": 16,
+                "type": "anime",
+                "name": "TV Tokyo",
+                "url": "https://myanimelist.net/anime/producer/16/TV_Tokyo"
+            },
+            {
+                "mal_id": 1754,
+                "type": "anime",
+                "name": "Meruhensha",
+                "url": "https://myanimelist.net/anime/producer/1754/Meruhensha"
+            }
+        ],
+        "licensors": [
+            {
+                "mal_id": 467,
+                "type": "anime",
+                "name": "Discotek Media",
+                "url": "https://myanimelist.net/anime/producer/467/Discotek_Media"
+            }
+        ],
+        "studios": [
+            {
+                "mal_id": 226,
+                "type": "anime",
+                "name": "Panmedia",
+                "url": "https://myanimelist.net/anime/producer/226/Panmedia"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 2,
+                "type": "anime",
+                "name": "Adventure",
+                "url": "https://myanimelist.net/anime/genre/2/Adventure"
+            },
+            {
+                "mal_id": 10,
+                "type": "anime",
+                "name": "Fantasy",
+                "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [
+            {
+                "mal_id": 62,
+                "type": "anime",
+                "name": "Isekai",
+                "url": "https://myanimelist.net/anime/genre/62/Isekai"
+            }
+        ],
+        "demographics": [
+            {
+                "mal_id": 15,
+                "type": "anime",
+                "name": "Kids",
+                "url": "https://myanimelist.net/anime/genre/15/Kids"
+            }
+        ],
+        "relations": [
+            {
+                "relation": "Alternative Version",
+                "entry": [
+                    {
+                        "mal_id": 7876,
+                        "type": "anime",
+                        "name": "Oz no Mahoutsukai",
+                        "url": "https://myanimelist.net/anime/7876/Oz_no_Mahoutsukai"
+                    },
+                    {
+                        "mal_id": 3451,
+                        "type": "anime",
+                        "name": "Space Oz no Bouken",
+                        "url": "https://myanimelist.net/anime/3451/Space_Oz_no_Bouken"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [
+                "1: \"Fancy Girl (ファンシーガール)\" by Satoko Yamano",
+                "2: \"Fancy Girl (New Instrumental Theme)\" by K.S. Yoshimura and Takao Naoi"
+            ],
+            "endings": [
+                "\"Mahou no Crayon (魔法のクレヨン)\" by Kumiko Oosugi, Ema Oosugi"
+            ]
+        },
+        "external": [
+            {
+                "name": "Official Site",
+                "url": "http://enoki-films.co.jp/pro_wizardofoz.php"
+            },
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=3669"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=1499"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "http://en.wikipedia.org/wiki/The_Wonderful_Wizard_of_Oz_%281986_anime%29"
+            }
+        ],
+        "streaming": [
+            {
+                "name": "Crunchyroll",
+                "url": "http://www.crunchyroll.com/series-278012"
+            }
+        ]
+    },
+    "episodes": [
+        {
+            "mal_id": 1,
+            "url": "https://myanimelist.net/anime/2826/Oz_no_Mahoutsukai_TV/episode/1",
+            "title": "Dorothy and the Tornado",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 4.78,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1506521"
+        },
+        {
+            "mal_id": 2,
+            "url": "https://myanimelist.net/anime/2826/Oz_no_Mahoutsukai_TV/episode/2",
+            "title": "The Yellow Brick Road",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 4.33,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1506533"
+        },
+        {
+            "mal_id": 3,
+            "url": "https://myanimelist.net/anime/2826/Oz_no_Mahoutsukai_TV/episode/3",
+            "title": "A Journey Towards Hope",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2068030"
+        },
+        {
+            "mal_id": 4,
+            "url": "https://myanimelist.net/anime/2826/Oz_no_Mahoutsukai_TV/episode/4",
+            "title": "The Road of Tribulations",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 5,
+            "url": "https://myanimelist.net/anime/2826/Oz_no_Mahoutsukai_TV/episode/5",
+            "title": "Black Flower",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 6,
+            "url": "https://myanimelist.net/anime/2826/Oz_no_Mahoutsukai_TV/episode/6",
+            "title": "The Emerald City",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 7,
+            "url": "https://myanimelist.net/anime/2826/Oz_no_Mahoutsukai_TV/episode/7",
+            "title": "The Witch of the West",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 8,
+            "url": "https://myanimelist.net/anime/2826/Oz_no_Mahoutsukai_TV/episode/8",
+            "title": "The Struggle of the Winkies",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 9,
+            "url": "https://myanimelist.net/anime/2826/Oz_no_Mahoutsukai_TV/episode/9",
+            "title": "The Witch's Palace",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 10,
+            "url": "https://myanimelist.net/anime/2826/Oz_no_Mahoutsukai_TV/episode/10",
+            "title": "Desire for the Shoes",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 11,
+            "url": "https://myanimelist.net/anime/2826/Oz_no_Mahoutsukai_TV/episode/11",
+            "title": "Mombi and Tip",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 12,
+            "url": "https://myanimelist.net/anime/2826/Oz_no_Mahoutsukai_TV/episode/12",
+            "title": "The New King",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 13,
+            "url": "https://myanimelist.net/anime/2826/Oz_no_Mahoutsukai_TV/episode/13",
+            "title": "The True Oz",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 14,
+            "url": "https://myanimelist.net/anime/2826/Oz_no_Mahoutsukai_TV/episode/14",
+            "title": "Left Behind",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2068200"
+        },
+        {
+            "mal_id": 15,
+            "url": "https://myanimelist.net/anime/2826/Oz_no_Mahoutsukai_TV/episode/15",
+            "title": "Away to the South",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 16,
+            "url": "https://myanimelist.net/anime/2826/Oz_no_Mahoutsukai_TV/episode/16",
+            "title": "The Witch Glinda's Castle",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 17,
+            "url": "https://myanimelist.net/anime/2826/Oz_no_Mahoutsukai_TV/episode/17",
+            "title": "Glinda",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 18,
+            "url": "https://myanimelist.net/anime/2826/Oz_no_Mahoutsukai_TV/episode/18",
+            "title": "Kansas",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 19,
+            "url": "https://myanimelist.net/anime/2826/Oz_no_Mahoutsukai_TV/episode/19",
+            "title": "Once More to Oz",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 20,
+            "url": "https://myanimelist.net/anime/2826/Oz_no_Mahoutsukai_TV/episode/20",
+            "title": "Tip's a Father",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 21,
+            "url": "https://myanimelist.net/anime/2826/Oz_no_Mahoutsukai_TV/episode/21",
+            "title": "General Jinjur",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 22,
+            "url": "https://myanimelist.net/anime/2826/Oz_no_Mahoutsukai_TV/episode/22",
+            "title": "King Scarecrow's Escape",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 23,
+            "url": "https://myanimelist.net/anime/2826/Oz_no_Mahoutsukai_TV/episode/23",
+            "title": "Woodman, The King",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 24,
+            "url": "https://myanimelist.net/anime/2826/Oz_no_Mahoutsukai_TV/episode/24",
+            "title": "Mombi's Magic",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 25,
+            "url": "https://myanimelist.net/anime/2826/Oz_no_Mahoutsukai_TV/episode/25",
+            "title": "All Together",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 26,
+            "url": "https://myanimelist.net/anime/2826/Oz_no_Mahoutsukai_TV/episode/26",
+            "title": "The Gump",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 27,
+            "url": "https://myanimelist.net/anime/2826/Oz_no_Mahoutsukai_TV/episode/27",
+            "title": "Seeking Help",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 28,
+            "url": "https://myanimelist.net/anime/2826/Oz_no_Mahoutsukai_TV/episode/28",
+            "title": "The Emerald City Again",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 29,
+            "url": "https://myanimelist.net/anime/2826/Oz_no_Mahoutsukai_TV/episode/29",
+            "title": "The Wizard Mombi?",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 30,
+            "url": "https://myanimelist.net/anime/2826/Oz_no_Mahoutsukai_TV/episode/30",
+            "title": "Tip's Secret",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2068202"
+        },
+        {
+            "mal_id": 31,
+            "url": "https://myanimelist.net/anime/2826/Oz_no_Mahoutsukai_TV/episode/31",
+            "title": "Dorothy and Tik-Tok",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2069902"
+        },
+        {
+            "mal_id": 32,
+            "url": "https://myanimelist.net/anime/2826/Oz_no_Mahoutsukai_TV/episode/32",
+            "title": "Langwidere's Castle",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2093781"
+        },
+        {
+            "mal_id": 33,
+            "url": "https://myanimelist.net/anime/2826/Oz_no_Mahoutsukai_TV/episode/33",
+            "title": "Journey in the Desert",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 34,
+            "url": "https://myanimelist.net/anime/2826/Oz_no_Mahoutsukai_TV/episode/34",
+            "title": "Hen of the Desert",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 35,
+            "url": "https://myanimelist.net/anime/2826/Oz_no_Mahoutsukai_TV/episode/35",
+            "title": "The Edge of Oz",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 36,
+            "url": "https://myanimelist.net/anime/2826/Oz_no_Mahoutsukai_TV/episode/36",
+            "title": "Nomes of the Underground",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 37,
+            "url": "https://myanimelist.net/anime/2826/Oz_no_Mahoutsukai_TV/episode/37",
+            "title": "The King's Challenge",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 38,
+            "url": "https://myanimelist.net/anime/2826/Oz_no_Mahoutsukai_TV/episode/38",
+            "title": "The King's Favorite",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 39,
+            "url": "https://myanimelist.net/anime/2826/Oz_no_Mahoutsukai_TV/episode/39",
+            "title": "A Scary Room",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 40,
+            "url": "https://myanimelist.net/anime/2826/Oz_no_Mahoutsukai_TV/episode/40",
+            "title": "In Search of Light",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 41,
+            "url": "https://myanimelist.net/anime/2826/Oz_no_Mahoutsukai_TV/episode/41",
+            "title": "Above Ground Again",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 42,
+            "url": "https://myanimelist.net/anime/2826/Oz_no_Mahoutsukai_TV/episode/42",
+            "title": "The Nome Counterattack",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 43,
+            "url": "https://myanimelist.net/anime/2826/Oz_no_Mahoutsukai_TV/episode/43",
+            "title": "The Secret of the Emerald City",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 44,
+            "url": "https://myanimelist.net/anime/2826/Oz_no_Mahoutsukai_TV/episode/44",
+            "title": "The Land of the Cuttenclips",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 45,
+            "url": "https://myanimelist.net/anime/2826/Oz_no_Mahoutsukai_TV/episode/45",
+            "title": "Harvest in the Land of Oz",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 46,
+            "url": "https://myanimelist.net/anime/2826/Oz_no_Mahoutsukai_TV/episode/46",
+            "title": "The Fountain of Oblivion",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 47,
+            "url": "https://myanimelist.net/anime/2826/Oz_no_Mahoutsukai_TV/episode/47",
+            "title": "The Rampage of the Growleywog",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 48,
+            "url": "https://myanimelist.net/anime/2826/Oz_no_Mahoutsukai_TV/episode/48",
+            "title": "A Kinder Guph",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 49,
+            "url": "https://myanimelist.net/anime/2826/Oz_no_Mahoutsukai_TV/episode/49",
+            "title": "The Coronation",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 50,
+            "url": "https://myanimelist.net/anime/2826/Oz_no_Mahoutsukai_TV/episode/50",
+            "title": "The Nome King's Victory",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 51,
+            "url": "https://myanimelist.net/anime/2826/Oz_no_Mahoutsukai_TV/episode/51",
+            "title": "Dorothy Does Her Best",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 52,
+            "url": "https://myanimelist.net/anime/2826/Oz_no_Mahoutsukai_TV/episode/52",
+            "title": "Dear Old Kansas",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2141145"
+        }
+    ]
+}

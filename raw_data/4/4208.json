@@ -1,0 +1,812 @@
+{
+    "id": 4208,
+    "fetched_at": "Sun Dec 14 08:36:58 2025",
+    "metadata": {
+        "mal_id": 4208,
+        "url": "https://myanimelist.net/anime/4208/Tetsujin_28-gou_1980",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/5/46121.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/5/46121t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/5/46121l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/5/46121.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/5/46121t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/5/46121l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Tetsujin 28-gou (1980)"
+            },
+            {
+                "type": "Synonym",
+                "title": "New Tetsujin 28-go"
+            },
+            {
+                "type": "Synonym",
+                "title": "Tetsujin 28-go (1980)"
+            },
+            {
+                "type": "Synonym",
+                "title": "Tetsujin 28-go TV 2"
+            },
+            {
+                "type": "Synonym",
+                "title": "New Gigantor"
+            },
+            {
+                "type": "Synonym",
+                "title": "New Iron Man No.28"
+            },
+            {
+                "type": "Synonym",
+                "title": "Tetsujin 28: Follower of the Sun"
+            },
+            {
+                "type": "Japanese",
+                "title": "鉄人２８号 (1980)"
+            },
+            {
+                "type": "English",
+                "title": "The New Adventures of Gigantor"
+            }
+        ],
+        "title": "Tetsujin 28-gou (1980)",
+        "title_english": "The New Adventures of Gigantor",
+        "title_japanese": "鉄人２８号 (1980)",
+        "title_synonyms": [
+            "New Tetsujin 28-go",
+            "Tetsujin 28-go (1980)",
+            "Tetsujin 28-go TV 2",
+            "New Gigantor",
+            "New Iron Man No.28",
+            "Tetsujin 28: Follower of the Sun"
+        ],
+        "type": "TV",
+        "source": "Manga",
+        "episodes": 51,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "1980-10-03T00:00:00+00:00",
+            "to": "1981-09-25T00:00:00+00:00",
+            "prop": {
+                "from": {
+                    "day": 3,
+                    "month": 10,
+                    "year": 1980
+                },
+                "to": {
+                    "day": 25,
+                    "month": 9,
+                    "year": 1981
+                }
+            },
+            "string": "Oct 3, 1980 to Sep 25, 1981"
+        },
+        "duration": "23 min per ep",
+        "rating": "G - All Ages",
+        "score": 6.72,
+        "scored_by": 1221,
+        "rank": 5993,
+        "popularity": 10968,
+        "members": 3036,
+        "favorites": 9,
+        "synopsis": "Shotaro Kaneda is a young boy whose dead scientist father created the giant robot Tetsujin 28 after realizing the chances of attacks from outer galaxies. Shotaro has possession of the only controller, kept in an attaché case, which enables him to have direct command of the all mighty Tetsujin 28. If the controller goes into the hands of the enemy, this could lead Tetsujin 28 to fight for villains who want to destroy The Earth. Whenever peace in this world is threatened, Shotaro together with his friends, Dr. Shikishima, Detective Otsuka, must unleash the power of our metallic super hero.\n\n(Source: ANN)",
+        "background": "",
+        "season": "fall",
+        "year": 1980,
+        "broadcast": {
+            "day": "Fridays",
+            "time": "18:00",
+            "timezone": "Asia/Tokyo",
+            "string": "Fridays at 18:00 (JST)"
+        },
+        "producers": [
+            {
+                "mal_id": 1003,
+                "type": "anime",
+                "name": "Nippon Television Network",
+                "url": "https://myanimelist.net/anime/producer/1003/Nippon_Television_Network"
+            }
+        ],
+        "licensors": [
+            {
+                "mal_id": 467,
+                "type": "anime",
+                "name": "Discotek Media",
+                "url": "https://myanimelist.net/anime/producer/467/Discotek_Media"
+            }
+        ],
+        "studios": [
+            {
+                "mal_id": 65,
+                "type": "anime",
+                "name": "Tokyo Movie Shinsha",
+                "url": "https://myanimelist.net/anime/producer/65/Tokyo_Movie_Shinsha"
+            }
+        ],
+        "genres": [],
+        "explicit_genres": [],
+        "themes": [
+            {
+                "mal_id": 18,
+                "type": "anime",
+                "name": "Mecha",
+                "url": "https://myanimelist.net/anime/genre/18/Mecha"
+            }
+        ],
+        "demographics": [],
+        "relations": [
+            {
+                "relation": "Prequel",
+                "entry": [
+                    {
+                        "mal_id": 2686,
+                        "type": "anime",
+                        "name": "Tetsujin 28-gou",
+                        "url": "https://myanimelist.net/anime/2686/Tetsujin_28-gou"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [
+                "Tarou no Yuusha, Tetsujin 28-gou (太陽の使者・鉄人28号) - Gimmick"
+            ],
+            "endings": [
+                "1: \"Kibou ni Mukatte: Shoutarou no Theme (希望に向かって~正太郎のテーマ~; Toward's Hope: Shotaro's Theme)\" by Gimmick",
+                "2: \"Muteki no Tetsujin 28-gou (無敵の鉄人28号; Invincible Tetsujin 28)\" by Gimmick"
+            ]
+        },
+        "external": [
+            {
+                "name": "Official Site",
+                "url": "http://www.tms-e.com/library/old/tv/data/t_tetuji.html"
+            },
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=1672"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=2223"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "http://en.wikipedia.org/wiki/Tetsujin_28-go"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": [
+        {
+            "mal_id": 1,
+            "url": null,
+            "title": "The Plot to Steal the Sun",
+            "title_japanese": "太陽の使者!鉄人28号",
+            "title_romanji": "Taiyou no Shisha! Tetsujin 28-gou ",
+            "aired": "1980-10-03T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 2,
+            "url": null,
+            "title": "Hands of the Enemy",
+            "title_japanese": "奪われた鉄人!",
+            "title_romanji": "Ubawareta Tetsujin! ",
+            "aired": "1980-10-10T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 3,
+            "url": null,
+            "title": "Deadly Doctor Doom",
+            "title_japanese": "暴走特急をとめろ!",
+            "title_romanji": "Bousou Tokkyuu wo Tomero! ",
+            "aired": "1980-10-17T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 4,
+            "url": null,
+            "title": "The Robot Birdman",
+            "title_japanese": "恐怖の怪鳥群団",
+            "title_romanji": "Kyoufu no Kaichou Gundan ",
+            "aired": "1980-10-24T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 5,
+            "url": null,
+            "title": "The Phantom Robot",
+            "title_japanese": "謎の幽霊ロボット",
+            "title_romanji": "Nazo no Yuurei Robot ",
+            "aired": "1980-10-31T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 6,
+            "url": null,
+            "title": "Monster of the Deep",
+            "title_japanese": "エーゲ海の大怪獣!",
+            "title_romanji": "Aege-kai no Daikaijuu! ",
+            "aired": "1980-11-07T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 7,
+            "url": null,
+            "title": "The Crashing Satellite",
+            "title_japanese": "死を呼ぶ人工衛星",
+            "title_romanji": "Shi wo Yobu Jinkou Eisei ",
+            "aired": "1980-11-14T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 8,
+            "url": null,
+            "title": "The Dreaded Double Robot",
+            "title_japanese": "恐怖の殺人合体ロボ",
+            "title_romanji": "Kyoufu no Satsujin Gattai Robo ",
+            "aired": "1980-11-21T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 9,
+            "url": null,
+            "title": "Menace from Space",
+            "title_japanese": "鉄人対エイリアン!",
+            "title_romanji": "Tetsujin Tai Alien! ",
+            "aired": "1980-11-28T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 10,
+            "url": null,
+            "title": "Bitter Revenge",
+            "title_japanese": "鉄人の弱点を見た!",
+            "title_romanji": "Tetsujin no Jakuten wo Mita! ",
+            "aired": "1980-12-05T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 11,
+            "url": null,
+            "title": "The Invisible Enemy",
+            "title_japanese": "鉄人敗れる!",
+            "title_romanji": "Tetsujin Yabureru! ",
+            "aired": "1980-12-12T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 12,
+            "url": null,
+            "title": "The Robot Runners",
+            "title_japanese": "鉄人対鉄人",
+            "title_romanji": "Tetsujin Tai Tetsujin ",
+            "aired": "1980-12-19T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 13,
+            "url": null,
+            "title": "Will the Real Gigantor Please Stand Up?",
+            "title_japanese": "鉄人対正太郎",
+            "title_romanji": "Tetsujin Tai Shoutarou ",
+            "aired": "1980-12-26T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 14,
+            "url": null,
+            "title": "The Abominable Iceman",
+            "title_japanese": "北極の大決戦!",
+            "title_romanji": "Hokkyoku no Daikessen! ",
+            "aired": "1981-01-09T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 15,
+            "url": null,
+            "title": "The Dragon Master",
+            "title_japanese": "怪!幻のドラゴン",
+            "title_romanji": "Kai! Maboroshi no Dragon ",
+            "aired": "1981-01-16T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 16,
+            "url": null,
+            "title": "The Guardian of Evil",
+            "title_japanese": "復讐ロボ・ギルダー",
+            "title_romanji": "Fukushuu Robo Guilder ",
+            "aired": "1981-01-23T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 17,
+            "url": null,
+            "title": "The Manta Marauders",
+            "title_japanese": "でた!南海の大魔神",
+            "title_romanji": null,
+            "aired": "1981-01-30T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 18,
+            "url": null,
+            "title": "The Pirate Submarine",
+            "title_japanese": "巨大戦艦をたたけ!",
+            "title_romanji": "Kyodai Senkan wo Tatake! ",
+            "aired": "1981-02-06T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 19,
+            "url": null,
+            "title": "The Sting of the Scorpion",
+            "title_japanese": "地獄のサファリ・パニック!",
+            "title_romanji": "Jigoku no Safari Panic! ",
+            "aired": "1981-02-13T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 20,
+            "url": null,
+            "title": "The Fearsome Pharaoh",
+            "title_japanese": "大破壊!スフィンクスロボ",
+            "title_romanji": "Daihakai! Sphinx Robo ",
+            "aired": "1981-02-20T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 21,
+            "url": null,
+            "title": "The Shrinking Ray",
+            "title_japanese": "恐るべきワナを打ちやぶれ!",
+            "title_romanji": "Osorubeki Wana wo Uchiyabure! ",
+            "aired": "1981-02-27T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 22,
+            "url": null,
+            "title": "Kid Warriors",
+            "title_japanese": "ピンチ!たたかえない鉄人",
+            "title_romanji": "Pinch! Tatakaenai Tetsujin ",
+            "aired": "1981-03-06T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 23,
+            "url": null,
+            "title": "Red Devil",
+            "title_japanese": "激突!鉄人対ふくしゅう鬼",
+            "title_romanji": "Gekitotsu! Tetsujin Tai Fukushuuki ",
+            "aired": "1981-03-13T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 24,
+            "url": null,
+            "title": "The Fiery Robosaurus",
+            "title_japanese": "正太郎、宇宙からの大逆転!",
+            "title_romanji": "Shoutarou, Uchuu kara no Daigyakuten! ",
+            "aired": "1981-03-20T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 25,
+            "url": null,
+            "title": "Invaders from Space",
+            "title_japanese": "宇宙魔王現る!",
+            "title_romanji": "Uchuu Maou Arawaru! ",
+            "aired": "1981-03-27T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 26,
+            "url": null,
+            "title": "The Master of Space",
+            "title_japanese": "ブランチの最期",
+            "title_romanji": "Branch no Saigo ",
+            "aired": "1981-04-03T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 27,
+            "url": null,
+            "title": "The Great Garkonga",
+            "title_japanese": "キングコング対鉄人",
+            "title_romanji": "King Kong Tai Tetsujin ",
+            "aired": "1981-04-30T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 28,
+            "url": null,
+            "title": "The Pritheum Plot",
+            "title_japanese": "強敵!カンフーロボ",
+            "title_romanji": "Kyouteki! Kung Fu Robo ",
+            "aired": "1981-04-17T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 29,
+            "url": null,
+            "title": "The Crusader Robot",
+            "title_japanese": "ギネスブックへの挑戦",
+            "title_romanji": "Guinness Book e no Chousen ",
+            "aired": "1981-04-24T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 30,
+            "url": null,
+            "title": "The Scheme to Scorch the West",
+            "title_japanese": "決死のニトロ輸送!!",
+            "title_romanji": "Kesshi no Nitro Yusou! ",
+            "aired": "1981-05-01T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 31,
+            "url": null,
+            "title": "The Doomsday Comet",
+            "title_japanese": "要塞彗星の襲撃",
+            "title_romanji": null,
+            "aired": "1981-05-18T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 32,
+            "url": null,
+            "title": "The Thunder God",
+            "title_japanese": "死闘!白夜の対決",
+            "title_romanji": "Shitou! Byakuya no Taiketsu ",
+            "aired": "1981-05-15T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 33,
+            "url": null,
+            "title": "The Final Battle",
+            "title_japanese": "破壊された鉄人!",
+            "title_romanji": "Hakaisareta Tetsujin! ",
+            "aired": "1981-05-22T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 34,
+            "url": null,
+            "title": "The Robot Who Could Think",
+            "title_japanese": "最大の敵!ブラックオック",
+            "title_romanji": null,
+            "aired": "1981-05-29T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 35,
+            "url": null,
+            "title": "Blue Danger",
+            "title_japanese": "鉄人をとりもどせ!",
+            "title_romanji": "Tetsujin wo Torimodose! ",
+            "aired": "1981-06-05T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 36,
+            "url": null,
+            "title": "Robot on a Rampage",
+            "title_japanese": "宿命の対決!鉄人対オックス",
+            "title_romanji": "Shukumei no Taiketsu! Tetsujin Tai Ox ",
+            "aired": "1981-06-12T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 37,
+            "url": null,
+            "title": "Fall from the Sky",
+            "title_japanese": "伝説の巨人・鉄人28号",
+            "title_romanji": "Densetsu no Kyojin Tetsujin 28-gou ",
+            "aired": "1981-06-19T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 38,
+            "url": null,
+            "title": "The Awesome Alpha-Bot",
+            "title_japanese": "㊙（まるひ）指令!コンボイ作戦",
+            "title_romanji": "Maruhi Shirei! Convoy Sakusen ",
+            "aired": "1981-06-26T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 39,
+            "url": null,
+            "title": "The Boy from Second Earth",
+            "title_japanese": "魔獣王子めざめる!",
+            "title_romanji": "Majuu Ouji Mezameru! ",
+            "aired": "1981-07-03T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 40,
+            "url": null,
+            "title": "The Black Hole",
+            "title_japanese": "見た!魔王の正体",
+            "title_romanji": "Mita! Maou no Shoutai ",
+            "aired": "1981-07-10T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 41,
+            "url": null,
+            "title": "The Queen of Time",
+            "title_japanese": "鉄人が消えた!?",
+            "title_romanji": "Tetsujin ga Kieta!? ",
+            "aired": "1981-07-17T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 42,
+            "url": null,
+            "title": "The Curse of Dracula",
+            "title_japanese": "スリラーシリーズI 怪奇! ドラキュラのたたり",
+            "title_romanji": "Thriller Series I: Kaiki! Dracula no Tatari ",
+            "aired": "1981-07-24T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 43,
+            "url": null,
+            "title": "Z is for Zombie",
+            "title_japanese": "スリラーシリーズII 死神ゾンビに呪われた鉄人",
+            "title_romanji": "Thriller Series II: Shinigami Zombie ni Norowareta Tetsujin ",
+            "aired": "1981-07-31T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 44,
+            "url": null,
+            "title": "The Ghastly Ghost",
+            "title_japanese": "スリラーシリーズIII 幽霊の正体をあばけ!",
+            "title_romanji": "Thriller Series III: Yuurei no Shoutai wo Abake! ",
+            "aired": "1981-08-07T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 45,
+            "url": null,
+            "title": "Skeemer's Demons",
+            "title_japanese": "暴走!地獄の天使",
+            "title_romanji": "Bousou! Jigoku no Tenshi ",
+            "aired": "1981-08-14T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 46,
+            "url": null,
+            "title": "Trapped in the Past",
+            "title_japanese": "鉄人の不思議な旅",
+            "title_romanji": "Tetsujin no Fushigi na Tabi ",
+            "aired": "1981-08-21T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 47,
+            "url": null,
+            "title": "Gigantor for Sale",
+            "title_japanese": "鉄人売ります!",
+            "title_romanji": "Tetsujin Urimasu! ",
+            "aired": "1981-08-28T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 48,
+            "url": null,
+            "title": "The Space Fortress",
+            "title_japanese": "地球最大のピンチ!",
+            "title_romanji": "Chikyuu Saidai no Pinch! ",
+            "aired": "1981-09-04T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 49,
+            "url": null,
+            "title": "The Friend Turned Enemy",
+            "title_japanese": "さらば!ブラックオックス",
+            "title_romanji": "Saraba Black Ox ",
+            "aired": "1981-09-11T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 50,
+            "url": null,
+            "title": "The Battle to Save the Earth",
+            "title_japanese": "グーラ王子死す!",
+            "title_romanji": "Gula-ouji Shisu! ",
+            "aired": "1981-09-18T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 51,
+            "url": null,
+            "title": "The Sun That Never Shines",
+            "title_japanese": "銀河の王者!鉄人28号",
+            "title_romanji": "Ginga no Ouja! Tetsujin 28-gou ",
+            "aired": "1981-09-25T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        }
+    ]
+}

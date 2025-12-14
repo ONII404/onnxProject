@@ -1,0 +1,169 @@
+{
+    "id": 4394,
+    "fetched_at": "Sun Dec 14 08:39:10 2025",
+    "metadata": {
+        "mal_id": 4394,
+        "url": "https://myanimelist.net/anime/4394/Norakuro_Gochou",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/12/85244.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/12/85244t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/12/85244l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/12/85244.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/12/85244t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/12/85244l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Norakuro Gochou"
+            },
+            {
+                "type": "Synonym",
+                "title": "Norakuro Gocho"
+            },
+            {
+                "type": "Japanese",
+                "title": "のらくろ伍長"
+            },
+            {
+                "type": "English",
+                "title": "Corporal Norakuro"
+            }
+        ],
+        "title": "Norakuro Gochou",
+        "title_english": "Corporal Norakuro",
+        "title_japanese": "のらくろ伍長",
+        "title_synonyms": [
+            "Norakuro Gocho"
+        ],
+        "type": "Movie",
+        "source": "Manga",
+        "episodes": 1,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "1934-03-09T00:00:00+00:00",
+            "to": null,
+            "prop": {
+                "from": {
+                    "day": 9,
+                    "month": 3,
+                    "year": 1934
+                },
+                "to": {
+                    "day": null,
+                    "month": null,
+                    "year": null
+                }
+            },
+            "string": "Mar 9, 1934"
+        },
+        "duration": "10 min",
+        "rating": "G - All Ages",
+        "score": 5,
+        "scored_by": 755,
+        "rank": 13826,
+        "popularity": 13340,
+        "members": 1504,
+        "favorites": 0,
+        "synopsis": "The Fierce Canine Army has been given the day off, but Norakuro has no home to return to. After he goes to a yakitori (fried chicken) shop for a drink, he goes to the park to take a short nap. Just then, soldiers from the Mountain Monkey Army, who have stolen some secret documents, make their appearances and Norakuro goes after them in hot pursuit. When the Mountain Monkey troops appear to have made their escape in a hot air balloon, Norakuro, as a last desperate measure, climbs into a tube designed for launching fireworks and blasts himself right into the balloon. He retrieves the stolen documents, but the plot unfolds in an unexpected manner.\n\n(Source: AniDB)",
+        "background": "",
+        "season": null,
+        "year": null,
+        "broadcast": {
+            "day": null,
+            "time": null,
+            "timezone": null,
+            "string": null
+        },
+        "producers": [],
+        "licensors": [],
+        "studios": [],
+        "genres": [
+            {
+                "mal_id": 2,
+                "type": "anime",
+                "name": "Adventure",
+                "url": "https://myanimelist.net/anime/genre/2/Adventure"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [],
+        "demographics": [],
+        "relations": [
+            {
+                "relation": "Adaptation",
+                "entry": [
+                    {
+                        "mal_id": 27251,
+                        "type": "manga",
+                        "name": "Norakuro",
+                        "url": "https://myanimelist.net/manga/27251/Norakuro"
+                    }
+                ]
+            },
+            {
+                "relation": "Other",
+                "entry": [
+                    {
+                        "mal_id": 6850,
+                        "type": "anime",
+                        "name": "Norakuro Shoui: Nichiyoubi no Kaijiken",
+                        "url": "https://myanimelist.net/anime/6850/Norakuro_Shoui__Nichiyoubi_no_Kaijiken"
+                    },
+                    {
+                        "mal_id": 30019,
+                        "type": "anime",
+                        "name": "Norakuro Ittouhei",
+                        "url": "https://myanimelist.net/anime/30019/Norakuro_Ittouhei"
+                    },
+                    {
+                        "mal_id": 23013,
+                        "type": "anime",
+                        "name": "Norakuro",
+                        "url": "https://myanimelist.net/anime/23013/Norakuro"
+                    },
+                    {
+                        "mal_id": 16393,
+                        "type": "anime",
+                        "name": "Norakuro-kun",
+                        "url": "https://myanimelist.net/anime/16393/Norakuro-kun"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [],
+            "endings": []
+        },
+        "external": [
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=5925"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "http://en.wikipedia.org/wiki/Norakuro"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": []
+}

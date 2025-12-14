@@ -1,0 +1,858 @@
+{
+    "id": 2598,
+    "fetched_at": "Sun Dec 14 07:28:06 2025",
+    "metadata": {
+        "mal_id": 2598,
+        "url": "https://myanimelist.net/anime/2598/Juusenki_L-Gaim",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1312/148892.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1312/148892t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1312/148892l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1312/148892.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1312/148892t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1312/148892l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Juusenki L-Gaim"
+            },
+            {
+                "type": "Japanese",
+                "title": "重戦機エルガイム"
+            },
+            {
+                "type": "English",
+                "title": "Heavy Metal L-Gaim"
+            }
+        ],
+        "title": "Juusenki L-Gaim",
+        "title_english": "Heavy Metal L-Gaim",
+        "title_japanese": "重戦機エルガイム",
+        "title_synonyms": [],
+        "type": "TV",
+        "source": "Original",
+        "episodes": 54,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "1984-02-04T00:00:00+00:00",
+            "to": "1985-02-23T00:00:00+00:00",
+            "prop": {
+                "from": {
+                    "day": 4,
+                    "month": 2,
+                    "year": 1984
+                },
+                "to": {
+                    "day": 23,
+                    "month": 2,
+                    "year": 1985
+                }
+            },
+            "string": "Feb 4, 1984 to Feb 23, 1985"
+        },
+        "duration": "24 min per ep",
+        "rating": "PG-13 - Teens 13 or older",
+        "score": 6.78,
+        "scored_by": 1938,
+        "rank": 5628,
+        "popularity": 7611,
+        "members": 8357,
+        "favorites": 25,
+        "synopsis": "In the year 3990, the immortal Oldna Poseidal rules Pentagona, a war-torn solar system of five planets. Daba Myroad is a survivor of the Yaman Clan, just one of numerous native societies nearly wiped out by the tyrant. Living on the remote planet Koam with his friend Mirao Kyao, Daba possesses L-Gaim, a humanoid mecha known commonly as a \"Heavy Metal\" and the last known relic of the Yaman Clan. The pair befriend Fanneria Amu, an aspiring actress, and Lilith Fau, the last surviving fairy in Pentagona while on the run from a band of thieves attempting to steal L-Gaim.\n\nDaba promises to fulfill the dying wish of one of the thieves hunting him—an honorable act that leads him to the powerful merchant Amandara Kamandara. With their mission in sight, the ragtag group will face powerful adversaries and become entangled in a rebellion against Poseidal's reign.\n\n[Written by MAL Rewrite]",
+        "background": "",
+        "season": "winter",
+        "year": 1984,
+        "broadcast": {
+            "day": "Saturdays",
+            "time": "17:30",
+            "timezone": "Asia/Tokyo",
+            "string": "Saturdays at 17:30 (JST)"
+        },
+        "producers": [
+            {
+                "mal_id": 64,
+                "type": "anime",
+                "name": "Sotsu",
+                "url": "https://myanimelist.net/anime/producer/64/Sotsu"
+            },
+            {
+                "mal_id": 92,
+                "type": "anime",
+                "name": "Starchild Records",
+                "url": "https://myanimelist.net/anime/producer/92/Starchild_Records"
+            }
+        ],
+        "licensors": [],
+        "studios": [
+            {
+                "mal_id": 14,
+                "type": "anime",
+                "name": "Sunrise",
+                "url": "https://myanimelist.net/anime/producer/14/Sunrise"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 2,
+                "type": "anime",
+                "name": "Adventure",
+                "url": "https://myanimelist.net/anime/genre/2/Adventure"
+            },
+            {
+                "mal_id": 8,
+                "type": "anime",
+                "name": "Drama",
+                "url": "https://myanimelist.net/anime/genre/8/Drama"
+            },
+            {
+                "mal_id": 24,
+                "type": "anime",
+                "name": "Sci-Fi",
+                "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [
+            {
+                "mal_id": 18,
+                "type": "anime",
+                "name": "Mecha",
+                "url": "https://myanimelist.net/anime/genre/18/Mecha"
+            },
+            {
+                "mal_id": 29,
+                "type": "anime",
+                "name": "Space",
+                "url": "https://myanimelist.net/anime/genre/29/Space"
+            }
+        ],
+        "demographics": [],
+        "relations": [
+            {
+                "relation": "Summary",
+                "entry": [
+                    {
+                        "mal_id": 2599,
+                        "type": "anime",
+                        "name": "Juusenki L-Gaim I: Pentagona Window + Lady Gavlet",
+                        "url": "https://myanimelist.net/anime/2599/Juusenki_L-Gaim_I__Pentagona_Window___Lady_Gavlet"
+                    },
+                    {
+                        "mal_id": 2600,
+                        "type": "anime",
+                        "name": "Juusenki L-Gaim II: Farewell My Lovely + Pentagona Dolls",
+                        "url": "https://myanimelist.net/anime/2600/Juusenki_L-Gaim_II__Farewell_My_Lovely___Pentagona_Dolls"
+                    }
+                ]
+            },
+            {
+                "relation": "Other",
+                "entry": [
+                    {
+                        "mal_id": 19279,
+                        "type": "anime",
+                        "name": "Pony Metal U-GAIM Promotion Film",
+                        "url": "https://myanimelist.net/anime/19279/Pony_Metal_U-GAIM_Promotion_Film"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [
+                "1: \"L-Gaim~ TIME FOR L-GAIM (エルガイム-Time for L.GAIM-)\" by MIO (eps 1-25)",
+                "2: \"Kaze no No Reply (風のノー・リプライ)\" by Mami Ayukawa (eps 26-54)"
+            ],
+            "endings": [
+                "\"Starlight Shower (スターライト・シャワー)\" by MIO"
+            ]
+        },
+        "external": [
+            {
+                "name": "Official Site",
+                "url": "http://www.sunrise-inc.co.jp/datacard/card0022.htm"
+            },
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=522"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=878"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "http://en.wikipedia.org/wiki/Heavy_Metal_L-Gaim"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": [
+        {
+            "mal_id": 1,
+            "url": null,
+            "title": "Dreamers",
+            "title_japanese": "ドリーマーズ",
+            "title_romanji": "Dreamers ",
+            "aired": "1984-02-04T00:00:00+00:00",
+            "score": 3.95,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=513765"
+        },
+        {
+            "mal_id": 2,
+            "url": null,
+            "title": "Prearmo Scandal",
+            "title_japanese": "プリャーモ)",
+            "title_romanji": "Prearmo Scandal (スキャンダル・P",
+            "aired": "1984-02-11T00:00:00+00:00",
+            "score": 4.14,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=513781"
+        },
+        {
+            "mal_id": 3,
+            "url": null,
+            "title": "Coming Man",
+            "title_japanese": "カミング・マン",
+            "title_romanji": "Coming Man ",
+            "aired": "1984-02-18T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=514945"
+        },
+        {
+            "mal_id": 4,
+            "url": null,
+            "title": "The Connection",
+            "title_japanese": "ザ・コネクション",
+            "title_romanji": "The Connection ",
+            "aired": "1984-02-25T00:00:00+00:00",
+            "score": 4.19,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=520849"
+        },
+        {
+            "mal_id": 5,
+            "url": null,
+            "title": "Escape Run",
+            "title_japanese": "エスケープ・ラン",
+            "title_romanji": "Escape Run ",
+            "aired": "1984-03-03T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 6,
+            "url": null,
+            "title": "Sea Jack",
+            "title_japanese": "シー・ジャック",
+            "title_romanji": "Sea Jack ",
+            "aired": "1984-03-10T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 7,
+            "url": null,
+            "title": "Scramble",
+            "title_japanese": "スクランブル",
+            "title_romanji": "Scramble ",
+            "aired": "1984-03-17T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=522833"
+        },
+        {
+            "mal_id": 8,
+            "url": null,
+            "title": "Yaman Clan",
+            "title_japanese": "ヤーマン・クラン",
+            "title_romanji": "Yaman Clan ",
+            "aired": "1984-03-24T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 9,
+            "url": null,
+            "title": "Army Base",
+            "title_japanese": "アーミィ・ベース",
+            "title_romanji": "Army Base ",
+            "aired": "1984-03-31T00:00:00+00:00",
+            "score": 4.3,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1933106"
+        },
+        {
+            "mal_id": 10,
+            "url": null,
+            "title": "Time Limit",
+            "title_japanese": "タイム・リミット",
+            "title_romanji": "Time Limit ",
+            "aired": "1984-04-07T00:00:00+00:00",
+            "score": 4.36,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1607923"
+        },
+        {
+            "mal_id": 11,
+            "url": null,
+            "title": "Jealousy Game",
+            "title_japanese": "ジェラシー・ゲーム",
+            "title_romanji": "Jealousy Game ",
+            "aired": "1984-04-14T00:00:00+00:00",
+            "score": 4.33,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1608598"
+        },
+        {
+            "mal_id": 12,
+            "url": null,
+            "title": "Decoy Decoy",
+            "title_japanese": "ディコイ・ディコイ",
+            "title_romanji": "Decoy Decoy ",
+            "aired": "1984-04-21T00:00:00+00:00",
+            "score": 4.38,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1154717"
+        },
+        {
+            "mal_id": 13,
+            "url": null,
+            "title": "Contact",
+            "title_japanese": "コンタクト",
+            "title_romanji": "Contact ",
+            "aired": "1984-04-28T00:00:00+00:00",
+            "score": 4.45,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1609259"
+        },
+        {
+            "mal_id": 14,
+            "url": null,
+            "title": "Lady Poseidal",
+            "title_japanese": "レディ・ポセイダル",
+            "title_romanji": "Lady Poseidal ",
+            "aired": "1984-05-05T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 15,
+            "url": null,
+            "title": "Pride",
+            "title_japanese": "プライド",
+            "title_romanji": "Pride ",
+            "aired": "1984-05-19T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 16,
+            "url": null,
+            "title": "Broken Heart",
+            "title_japanese": "ブロークン・ハート",
+            "title_romanji": "Broken Heart ",
+            "aired": "1984-05-26T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 17,
+            "url": null,
+            "title": "Lime Light",
+            "title_japanese": "ライム・ライト",
+            "title_romanji": "Lime Light ",
+            "aired": "1984-06-02T00:00:00+00:00",
+            "score": 4.38,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1956376"
+        },
+        {
+            "mal_id": 18,
+            "url": null,
+            "title": "Gustgal Demo",
+            "title_japanese": "ガストガル・デモ",
+            "title_romanji": "Gustgal Demo ",
+            "aired": "1984-06-09T00:00:00+00:00",
+            "score": 4.33,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2152997"
+        },
+        {
+            "mal_id": 19,
+            "url": null,
+            "title": "Go and Come",
+            "title_japanese": "ゴーアンドカム",
+            "title_romanji": "Go and Come ",
+            "aired": "1984-06-16T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 20,
+            "url": null,
+            "title": "Star Dust",
+            "title_japanese": "スター・ダスト",
+            "title_romanji": "Star Dust ",
+            "aired": "1984-06-23T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 21,
+            "url": null,
+            "title": "The Tension",
+            "title_japanese": "ザ・テンション",
+            "title_romanji": "The Tension ",
+            "aired": "1984-06-30T00:00:00+00:00",
+            "score": 4.56,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1975685"
+        },
+        {
+            "mal_id": 22,
+            "url": null,
+            "title": "Quwasan Olibee",
+            "title_japanese": "クワサン・オリビー",
+            "title_romanji": "Quwasan Olibee ",
+            "aired": "1984-07-07T00:00:00+00:00",
+            "score": 4.67,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1975703"
+        },
+        {
+            "mal_id": 23,
+            "url": null,
+            "title": "General Clotho",
+            "title_japanese": "ゼネラル・クロソ",
+            "title_romanji": "General Clotho ",
+            "aired": "1984-07-14T00:00:00+00:00",
+            "score": 4.7,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1160357"
+        },
+        {
+            "mal_id": 24,
+            "url": null,
+            "title": "Asphy Heart",
+            "title_japanese": "アスフィー・ハート",
+            "title_romanji": "Asphy Heart ",
+            "aired": "1984-07-21T00:00:00+00:00",
+            "score": 4.17,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2153070"
+        },
+        {
+            "mal_id": 25,
+            "url": null,
+            "title": "Love Again",
+            "title_japanese": "ラブ・アゲイン",
+            "title_romanji": "Love Again ",
+            "aired": "1984-07-28T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 26,
+            "url": null,
+            "title": "Search II",
+            "title_japanese": "サーチII",
+            "title_romanji": "Search II ",
+            "aired": "1984-08-04T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 27,
+            "url": null,
+            "title": "Mistake Love",
+            "title_japanese": "ミステイク・ラブ",
+            "title_romanji": "Mistake Love ",
+            "aired": "1984-08-11T00:00:00+00:00",
+            "score": 4.43,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1976005"
+        },
+        {
+            "mal_id": 28,
+            "url": null,
+            "title": "Nei Crisis",
+            "title_japanese": "ネイ・クライシス",
+            "title_romanji": "Nei Crisis ",
+            "aired": "1984-08-18T00:00:00+00:00",
+            "score": 4.29,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1976109"
+        },
+        {
+            "mal_id": 29,
+            "url": null,
+            "title": "Cross Point",
+            "title_japanese": "クロス・ポイント",
+            "title_romanji": "Cross Point ",
+            "aired": "1984-08-25T00:00:00+00:00",
+            "score": 4.4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1976125"
+        },
+        {
+            "mal_id": 30,
+            "url": null,
+            "title": "Our Master",
+            "title_japanese": "アワ・マスター",
+            "title_romanji": "Our Master ",
+            "aired": "1984-09-01T00:00:00+00:00",
+            "score": 4.43,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1976177"
+        },
+        {
+            "mal_id": 31,
+            "url": null,
+            "title": "Catch War",
+            "title_japanese": "キャッチ・ウォー",
+            "title_romanji": "Catch War ",
+            "aired": "1984-09-08T00:00:00+00:00",
+            "score": 4.44,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1165487"
+        },
+        {
+            "mal_id": 32,
+            "url": null,
+            "title": "Flashing Nei",
+            "title_japanese": "フラッシング・ネイ",
+            "title_romanji": "Flashing Nei ",
+            "aired": "1984-09-15T00:00:00+00:00",
+            "score": 4.67,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2153747"
+        },
+        {
+            "mal_id": 33,
+            "url": null,
+            "title": "My Earth",
+            "title_japanese": "マイ・アース",
+            "title_romanji": "My Earth ",
+            "aired": "1984-09-22T00:00:00+00:00",
+            "score": 4.33,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1166183"
+        },
+        {
+            "mal_id": 34,
+            "url": null,
+            "title": "Leccee Mind",
+            "title_japanese": "レッシィ・マインド",
+            "title_romanji": "Leccee Mind ",
+            "aired": "1984-09-29T00:00:00+00:00",
+            "score": 4.5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2153750"
+        },
+        {
+            "mal_id": 35,
+            "url": null,
+            "title": "Peril Mission",
+            "title_japanese": "ペリル・ミッション",
+            "title_romanji": "Peril Mission ",
+            "aired": "1984-10-06T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2153811"
+        },
+        {
+            "mal_id": 36,
+            "url": null,
+            "title": "Old Soldier",
+            "title_japanese": "オールド・ソルジャー",
+            "title_romanji": "Old Soldier ",
+            "aired": "1984-10-13T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 37,
+            "url": null,
+            "title": "Olibee Crisis",
+            "title_japanese": "オリビー・クライシス",
+            "title_romanji": "Olibee Crisis ",
+            "aired": "1984-10-20T00:00:00+00:00",
+            "score": 4.88,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1167289"
+        },
+        {
+            "mal_id": 38,
+            "url": null,
+            "title": "Escape Giwaza",
+            "title_japanese": "エスケープ・ギワザ",
+            "title_romanji": "Escape Giwaza ",
+            "aired": "1984-10-27T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 39,
+            "url": null,
+            "title": "The Omen",
+            "title_japanese": "ザ・オーメン",
+            "title_romanji": "The Omen ",
+            "aired": "1984-11-03T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 40,
+            "url": null,
+            "title": "Full Flat",
+            "title_japanese": "フル・フラット",
+            "title_romanji": "Full Flat ",
+            "aired": "1984-11-10T00:00:00+00:00",
+            "score": 4.75,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1168765"
+        },
+        {
+            "mal_id": 41,
+            "url": null,
+            "title": "Spy in Spy",
+            "title_japanese": "スパイ・イン・スパイ",
+            "title_romanji": "Spy in Spy ",
+            "aired": "1984-11-17T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 42,
+            "url": null,
+            "title": "Young Passion",
+            "title_japanese": "ヤング・パッション",
+            "title_romanji": "Young Passion ",
+            "aired": "1984-11-24T00:00:00+00:00",
+            "score": 5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1169405"
+        },
+        {
+            "mal_id": 43,
+            "url": null,
+            "title": "Lady and Girl",
+            "title_japanese": "レディ&ガール",
+            "title_romanji": "Lady and Girl ",
+            "aired": "1984-12-01T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 44,
+            "url": null,
+            "title": "Picaresque Giwaza",
+            "title_japanese": "ピカレスク・ギワザ",
+            "title_romanji": "Picaresque Giwaza ",
+            "aired": "1984-12-08T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 45,
+            "url": null,
+            "title": "Lilith Memory",
+            "title_japanese": "リリス・メモリー",
+            "title_romanji": "Lilith Memory ",
+            "aired": "1984-12-15T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 46,
+            "url": null,
+            "title": "Quwasan Wave",
+            "title_japanese": "クワサン・ウェイブ",
+            "title_romanji": "Quwasan Wave ",
+            "aired": "1984-12-22T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 47,
+            "url": null,
+            "title": "Boys Boys",
+            "title_japanese": "ボーイズ・ボーイズ",
+            "title_romanji": "Boys Boys ",
+            "aired": "1984-12-29T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 48,
+            "url": null,
+            "title": "First Attack",
+            "title_japanese": "ファースト・アタック",
+            "title_romanji": "First Attack ",
+            "aired": "1985-01-12T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 49,
+            "url": null,
+            "title": "Lady Killer",
+            "title_japanese": "レディ・キラー",
+            "title_romanji": "Lady Killer ",
+            "aired": "1985-01-19T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 50,
+            "url": null,
+            "title": "Excite Amm",
+            "title_japanese": "エキサイト・アム",
+            "title_romanji": "Excite Amm ",
+            "aired": "1985-01-26T00:00:00+00:00",
+            "score": 4.44,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=570273"
+        },
+        {
+            "mal_id": 51,
+            "url": null,
+            "title": "My Love",
+            "title_japanese": "マイ・ラブ",
+            "title_romanji": "My Love ",
+            "aired": "1985-02-02T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 52,
+            "url": null,
+            "title": "Final Time",
+            "title_japanese": "ファイナル・タイム",
+            "title_romanji": "Final Time ",
+            "aired": "1985-02-09T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 53,
+            "url": null,
+            "title": "The Dictator",
+            "title_japanese": "ザ・ディクテイター",
+            "title_romanji": "The Dictator ",
+            "aired": "1985-02-16T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 54,
+            "url": null,
+            "title": "Dreamers Again",
+            "title_japanese": "ドリーマーズアゲン",
+            "title_romanji": "Dreamers Again ",
+            "aired": "1985-02-23T00:00:00+00:00",
+            "score": 3.85,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=570467"
+        }
+    ]
+}

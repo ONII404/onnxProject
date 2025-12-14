@@ -1,0 +1,168 @@
+{
+    "id": 9885,
+    "fetched_at": "Sun Dec 14 09:29:43 2025",
+    "metadata": {
+        "mal_id": 9885,
+        "url": "https://myanimelist.net/anime/9885/Shin_Bikkuriman",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1727/93730.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1727/93730t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1727/93730l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1727/93730.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1727/93730t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1727/93730l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Shin Bikkuriman"
+            },
+            {
+                "type": "Synonym",
+                "title": "New Bikkuriman"
+            },
+            {
+                "type": "Japanese",
+                "title": "新ビックリマン"
+            }
+        ],
+        "title": "Shin Bikkuriman",
+        "title_english": null,
+        "title_japanese": "新ビックリマン",
+        "title_synonyms": [
+            "New Bikkuriman"
+        ],
+        "type": "TV",
+        "source": "Other",
+        "episodes": 72,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "1989-04-09T00:00:00+00:00",
+            "to": "1990-08-26T00:00:00+00:00",
+            "prop": {
+                "from": {
+                    "day": 9,
+                    "month": 4,
+                    "year": 1989
+                },
+                "to": {
+                    "day": 26,
+                    "month": 8,
+                    "year": 1990
+                }
+            },
+            "string": "Apr 9, 1989 to Aug 26, 1990"
+        },
+        "duration": "25 min per ep",
+        "rating": "PG - Children",
+        "score": 5.7,
+        "scored_by": 478,
+        "rank": 11863,
+        "popularity": 14634,
+        "members": 1079,
+        "favorites": 2,
+        "synopsis": "The battle between angel and devil was finally over and there was peace around the world. One day, Angel Marco finds out that this world would be ruined in the near future. He must search the Holy Stone to save a world!\n\n(Source: Toei Animation)",
+        "background": "",
+        "season": "spring",
+        "year": 1989,
+        "broadcast": {
+            "day": "Sundays",
+            "time": "08:30",
+            "timezone": "Asia/Tokyo",
+            "string": "Sundays at 08:30 (JST)"
+        },
+        "producers": [],
+        "licensors": [],
+        "studios": [
+            {
+                "mal_id": 18,
+                "type": "anime",
+                "name": "Toei Animation",
+                "url": "https://myanimelist.net/anime/producer/18/Toei_Animation"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 4,
+                "type": "anime",
+                "name": "Comedy",
+                "url": "https://myanimelist.net/anime/genre/4/Comedy"
+            },
+            {
+                "mal_id": 10,
+                "type": "anime",
+                "name": "Fantasy",
+                "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [],
+        "demographics": [],
+        "relations": [
+            {
+                "relation": "Prequel",
+                "entry": [
+                    {
+                        "mal_id": 3909,
+                        "type": "anime",
+                        "name": "Bikkuriman",
+                        "url": "https://myanimelist.net/anime/3909/Bikkuriman"
+                    }
+                ]
+            },
+            {
+                "relation": "Sequel",
+                "entry": [
+                    {
+                        "mal_id": 6583,
+                        "type": "anime",
+                        "name": "Super Bikkuriman",
+                        "url": "https://myanimelist.net/anime/6583/Super_Bikkuriman"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [],
+            "endings": []
+        },
+        "external": [
+            {
+                "name": "Official Site",
+                "url": "http://www.toei-anim.co.jp/lineup/tv/bikkuri_man_2nd/"
+            },
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=2075"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=1218"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "http://ja.wikipedia.org/wiki/新ビックリマン"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": []
+}

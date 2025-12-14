@@ -1,0 +1,165 @@
+{
+    "id": 3259,
+    "fetched_at": "Sun Dec 14 08:21:42 2025",
+    "metadata": {
+        "mal_id": 3259,
+        "url": "https://myanimelist.net/anime/3259/Lemon_Angel_1988",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/2/5164.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/2/5164t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/2/5164l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/2/5164.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/2/5164t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/2/5164l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Lemon Angel (1988)"
+            },
+            {
+                "type": "Synonym",
+                "title": "Midnight Anime: Lemon Angel"
+            },
+            {
+                "type": "Japanese",
+                "title": "レモンエンジェル"
+            },
+            {
+                "type": "English",
+                "title": "Lemon Angel (1988)"
+            }
+        ],
+        "title": "Lemon Angel (1988)",
+        "title_english": "Lemon Angel (1988)",
+        "title_japanese": "レモンエンジェル",
+        "title_synonyms": [
+            "Midnight Anime: Lemon Angel"
+        ],
+        "type": "TV",
+        "source": "Other",
+        "episodes": 9,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "1988-02-03T00:00:00+00:00",
+            "to": "1988-03-30T00:00:00+00:00",
+            "prop": {
+                "from": {
+                    "day": 3,
+                    "month": 2,
+                    "year": 1988
+                },
+                "to": {
+                    "day": 30,
+                    "month": 3,
+                    "year": 1988
+                }
+            },
+            "string": "Feb 3, 1988 to Mar 30, 1988"
+        },
+        "duration": "3 min per ep",
+        "rating": "R+ - Mild Nudity",
+        "score": 5.75,
+        "scored_by": 788,
+        "rank": 11630,
+        "popularity": 11270,
+        "members": 2780,
+        "favorites": 2,
+        "synopsis": "The sequel of the Cream Lemon: Lemon Angel.",
+        "background": "",
+        "season": "winter",
+        "year": 1988,
+        "broadcast": {
+            "day": null,
+            "time": null,
+            "timezone": null,
+            "string": "Unknown"
+        },
+        "producers": [
+            {
+                "mal_id": 144,
+                "type": "anime",
+                "name": "Pony Canyon",
+                "url": "https://myanimelist.net/anime/producer/144/Pony_Canyon"
+            }
+        ],
+        "licensors": [],
+        "studios": [
+            {
+                "mal_id": 48,
+                "type": "anime",
+                "name": "AIC",
+                "url": "https://myanimelist.net/anime/producer/48/AIC"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 9,
+                "type": "anime",
+                "name": "Ecchi",
+                "url": "https://myanimelist.net/anime/genre/9/Ecchi"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [],
+        "demographics": [],
+        "relations": [
+            {
+                "relation": "Prequel",
+                "entry": [
+                    {
+                        "mal_id": 3205,
+                        "type": "anime",
+                        "name": "Cream Lemon: Lemon Angel",
+                        "url": "https://myanimelist.net/anime/3205/Cream_Lemon__Lemon_Angel"
+                    }
+                ]
+            },
+            {
+                "relation": "Sequel",
+                "entry": [
+                    {
+                        "mal_id": 3264,
+                        "type": "anime",
+                        "name": "Lemon Angel (1988/II)",
+                        "url": "https://myanimelist.net/anime/3264/Lemon_Angel_1988_II"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [],
+            "endings": []
+        },
+        "external": [
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=4211"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=381"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": []
+}

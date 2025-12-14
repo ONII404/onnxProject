@@ -1,0 +1,177 @@
+{
+    "id": 3129,
+    "fetched_at": "Sun Dec 14 08:19:34 2025",
+    "metadata": {
+        "mal_id": 3129,
+        "url": "https://myanimelist.net/anime/3129/Kaibutsu-kun",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/6/79850.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/6/79850t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/6/79850l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/6/79850.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/6/79850t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/6/79850l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Kaibutsu-kun"
+            },
+            {
+                "type": "Synonym",
+                "title": "Little Monster"
+            },
+            {
+                "type": "Synonym",
+                "title": "Little Kaibutsu"
+            },
+            {
+                "type": "Japanese",
+                "title": "怪物くん"
+            }
+        ],
+        "title": "Kaibutsu-kun",
+        "title_english": null,
+        "title_japanese": "怪物くん",
+        "title_synonyms": [
+            "Little Monster",
+            "Little Kaibutsu"
+        ],
+        "type": "TV",
+        "source": "Manga",
+        "episodes": 49,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "1968-04-21T00:00:00+00:00",
+            "to": "1969-03-23T00:00:00+00:00",
+            "prop": {
+                "from": {
+                    "day": 21,
+                    "month": 4,
+                    "year": 1968
+                },
+                "to": {
+                    "day": 23,
+                    "month": 3,
+                    "year": 1969
+                }
+            },
+            "string": "Apr 21, 1968 to Mar 23, 1969"
+        },
+        "duration": "25 min per ep",
+        "rating": "PG - Children",
+        "score": 6.58,
+        "scored_by": 1019,
+        "rank": 6818,
+        "popularity": 12286,
+        "members": 2091,
+        "favorites": 0,
+        "synopsis": "The prince of Kaibutsu Land, Kaibutsu-kun, decides to go to the human world as part of his training to become the King.\n\n(Source: ANN)",
+        "background": "",
+        "season": "spring",
+        "year": 1968,
+        "broadcast": {
+            "day": null,
+            "time": null,
+            "timezone": null,
+            "string": "Unknown"
+        },
+        "producers": [
+            {
+                "mal_id": 145,
+                "type": "anime",
+                "name": "TBS",
+                "url": "https://myanimelist.net/anime/producer/145/TBS"
+            }
+        ],
+        "licensors": [],
+        "studios": [
+            {
+                "mal_id": 435,
+                "type": "anime",
+                "name": "Studio Zero",
+                "url": "https://myanimelist.net/anime/producer/435/Studio_Zero"
+            },
+            {
+                "mal_id": 1846,
+                "type": "anime",
+                "name": "Tokyo Movie",
+                "url": "https://myanimelist.net/anime/producer/1846/Tokyo_Movie"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 4,
+                "type": "anime",
+                "name": "Comedy",
+                "url": "https://myanimelist.net/anime/genre/4/Comedy"
+            },
+            {
+                "mal_id": 14,
+                "type": "anime",
+                "name": "Horror",
+                "url": "https://myanimelist.net/anime/genre/14/Horror"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [],
+        "demographics": [],
+        "relations": [
+            {
+                "relation": "Alternative Version",
+                "entry": [
+                    {
+                        "mal_id": 3130,
+                        "type": "anime",
+                        "name": "Kaibutsu-kun (1980)",
+                        "url": "https://myanimelist.net/anime/3130/Kaibutsu-kun_1980"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [
+                "\"Ore wa Kaibutsu-kun Da (おれは怪物くんだ)\" by Masao Imanishi, Shingo Kanemoto, Hiroshi Ootake, Fuyumi Shiraishi"
+            ],
+            "endings": []
+        },
+        "external": [
+            {
+                "name": "Official Site",
+                "url": "http://www.tms-e.com/search/index.php?pdt_no=58"
+            },
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=5164"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=1850"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "http://en.wikipedia.org/wiki/The_Monster_Kid"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": []
+}

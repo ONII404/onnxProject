@@ -1,0 +1,932 @@
+{
+    "id": 121,
+    "fetched_at": "Sun Dec 14 12:39:07 2025",
+    "metadata": {
+        "mal_id": 121,
+        "url": "https://myanimelist.net/anime/121/Fullmetal_Alchemist",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/10/75815.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/10/75815t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/10/75815l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/10/75815.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/10/75815t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/10/75815l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Fullmetal Alchemist"
+            },
+            {
+                "type": "Synonym",
+                "title": "Hagane no Renkinjutsushi"
+            },
+            {
+                "type": "Synonym",
+                "title": "FMA"
+            },
+            {
+                "type": "Synonym",
+                "title": "Full Metal Alchemist"
+            },
+            {
+                "type": "Japanese",
+                "title": "鋼の錬金術師"
+            },
+            {
+                "type": "English",
+                "title": "Fullmetal Alchemist"
+            }
+        ],
+        "title": "Fullmetal Alchemist",
+        "title_english": "Fullmetal Alchemist",
+        "title_japanese": "鋼の錬金術師",
+        "title_synonyms": [
+            "Hagane no Renkinjutsushi",
+            "FMA",
+            "Full Metal Alchemist"
+        ],
+        "type": "TV",
+        "source": "Manga",
+        "episodes": 51,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "2003-10-04T00:00:00+00:00",
+            "to": "2004-10-02T00:00:00+00:00",
+            "prop": {
+                "from": {
+                    "day": 4,
+                    "month": 10,
+                    "year": 2003
+                },
+                "to": {
+                    "day": 2,
+                    "month": 10,
+                    "year": 2004
+                }
+            },
+            "string": "Oct 4, 2003 to Oct 2, 2004"
+        },
+        "duration": "24 min per ep",
+        "rating": "R - 17+ (violence & profanity)",
+        "score": 8.11,
+        "scored_by": 924054,
+        "rank": 540,
+        "popularity": 85,
+        "members": 1539877,
+        "favorites": 26686,
+        "synopsis": "Edward Elric, a young, brilliant alchemist, has lost much in his twelve-year life: when he and his brother Alphonse try to resurrect their dead mother through the forbidden act of human transmutation, Edward loses his brother as well as two of his limbs. With his supreme alchemy skills, Edward binds Alphonse's soul to a large suit of armor.\n\nA year later, Edward, now promoted to the fullmetal alchemist of the state, embarks on a journey with his younger brother to obtain the Philosopher's Stone. The fabled mythical object is rumored to be capable of amplifying an alchemist's abilities by leaps and bounds, thus allowing them to override the fundamental law of alchemy: to gain something, an alchemist must sacrifice something of equal value. Edward hopes to draw into the military's resources to find the fabled stone and restore his and Alphonse's bodies to normal. However, the Elric brothers soon discover that there is more to the legendary stone than meets the eye, as they are led to the epicenter of a far darker battle than they could have ever imagined.\n\n[Written by MAL Rewrite]",
+        "background": "Fullmetal Alchemist won the TV Feature Award in the 9th Animation Kobe Awards and was one of the Jury Recommended Works in the 2004 Japan Media Arts Festival in the anime division. As the manga was still on-going at the time, the anime midway through diverged from the manga. This led to it having an anime-only ending, unlike Fullmetal Alchemist: Brotherhood which would air years later. On July 31, 2016, FUNimation Entertainment's license to the series expired.",
+        "season": "fall",
+        "year": 2003,
+        "broadcast": {
+            "day": "Saturdays",
+            "time": "18:00",
+            "timezone": "Asia/Tokyo",
+            "string": "Saturdays at 18:00 (JST)"
+        },
+        "producers": [
+            {
+                "mal_id": 17,
+                "type": "anime",
+                "name": "Aniplex",
+                "url": "https://myanimelist.net/anime/producer/17/Aniplex"
+            },
+            {
+                "mal_id": 53,
+                "type": "anime",
+                "name": "Dentsu",
+                "url": "https://myanimelist.net/anime/producer/53/Dentsu"
+            },
+            {
+                "mal_id": 58,
+                "type": "anime",
+                "name": "Square Enix",
+                "url": "https://myanimelist.net/anime/producer/58/Square_Enix"
+            },
+            {
+                "mal_id": 143,
+                "type": "anime",
+                "name": "Mainichi Broadcasting System",
+                "url": "https://myanimelist.net/anime/producer/143/Mainichi_Broadcasting_System"
+            }
+        ],
+        "licensors": [
+            {
+                "mal_id": 102,
+                "type": "anime",
+                "name": "Funimation",
+                "url": "https://myanimelist.net/anime/producer/102/Funimation"
+            },
+            {
+                "mal_id": 493,
+                "type": "anime",
+                "name": "Aniplex of America",
+                "url": "https://myanimelist.net/anime/producer/493/Aniplex_of_America"
+            }
+        ],
+        "studios": [
+            {
+                "mal_id": 4,
+                "type": "anime",
+                "name": "Bones",
+                "url": "https://myanimelist.net/anime/producer/4/Bones"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 1,
+                "type": "anime",
+                "name": "Action",
+                "url": "https://myanimelist.net/anime/genre/1/Action"
+            },
+            {
+                "mal_id": 2,
+                "type": "anime",
+                "name": "Adventure",
+                "url": "https://myanimelist.net/anime/genre/2/Adventure"
+            },
+            {
+                "mal_id": 46,
+                "type": "anime",
+                "name": "Award Winning",
+                "url": "https://myanimelist.net/anime/genre/46/Award_Winning"
+            },
+            {
+                "mal_id": 8,
+                "type": "anime",
+                "name": "Drama",
+                "url": "https://myanimelist.net/anime/genre/8/Drama"
+            },
+            {
+                "mal_id": 10,
+                "type": "anime",
+                "name": "Fantasy",
+                "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [
+            {
+                "mal_id": 38,
+                "type": "anime",
+                "name": "Military",
+                "url": "https://myanimelist.net/anime/genre/38/Military"
+            }
+        ],
+        "demographics": [
+            {
+                "mal_id": 27,
+                "type": "anime",
+                "name": "Shounen",
+                "url": "https://myanimelist.net/anime/genre/27/Shounen"
+            }
+        ],
+        "relations": [
+            {
+                "relation": "Sequel",
+                "entry": [
+                    {
+                        "mal_id": 430,
+                        "type": "anime",
+                        "name": "Fullmetal Alchemist: The Conqueror of Shamballa",
+                        "url": "https://myanimelist.net/anime/430/Fullmetal_Alchemist__The_Conqueror_of_Shamballa"
+                    }
+                ]
+            },
+            {
+                "relation": "Adaptation",
+                "entry": [
+                    {
+                        "mal_id": 25,
+                        "type": "manga",
+                        "name": "Fullmetal Alchemist",
+                        "url": "https://myanimelist.net/manga/25/Fullmetal_Alchemist"
+                    },
+                    {
+                        "mal_id": 4658,
+                        "type": "manga",
+                        "name": "Fullmetal Alchemist",
+                        "url": "https://myanimelist.net/manga/4658/Fullmetal_Alchemist"
+                    }
+                ]
+            },
+            {
+                "relation": "Side Story",
+                "entry": [
+                    {
+                        "mal_id": 908,
+                        "type": "anime",
+                        "name": "Fullmetal Alchemist: Premium Collection",
+                        "url": "https://myanimelist.net/anime/908/Fullmetal_Alchemist__Premium_Collection"
+                    }
+                ]
+            },
+            {
+                "relation": "Summary",
+                "entry": [
+                    {
+                        "mal_id": 664,
+                        "type": "anime",
+                        "name": "Fullmetal Alchemist: Reflections",
+                        "url": "https://myanimelist.net/anime/664/Fullmetal_Alchemist__Reflections"
+                    }
+                ]
+            },
+            {
+                "relation": "Alternative Version",
+                "entry": [
+                    {
+                        "mal_id": 5114,
+                        "type": "anime",
+                        "name": "Fullmetal Alchemist: Brotherhood",
+                        "url": "https://myanimelist.net/anime/5114/Fullmetal_Alchemist__Brotherhood"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [
+                "1: \"Melissa (メリッサ)\" by Porno Graffitti (eps 2-13)",
+                "2: \"READY STEADY GO\" by L'Arc~en~Ciel (eps 14-25)",
+                "3: \"UNDO\" by Cool Joke (eps 26-41)",
+                "4: \"Rewrite (リライト)\" by Asian Kung-fu Generation (eps 42-51)"
+            ],
+            "endings": [
+                "1: \"Melissa (メリッサ)\" by Porno Graffitti (eps 1)",
+                "2: \"Kesenai Tsumi (消せない罪)\" by Nana Kitade (eps 2-13)",
+                "3: \"Tobira no Mukou e (扉の向こうへ)\" by YeLLOW Generation (eps 14-24)",
+                "4: \"Motherland\" by Crystal Kay (eps 26-41)",
+                "5: \"I Will\" by Sowelu (eps 42-51)"
+            ]
+        },
+        "external": [
+            {
+                "name": "Official Site",
+                "url": "http://www.hagaren.jp/"
+            },
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=979"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=2960"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "http://en.wikipedia.org/wiki/Fullmetal_Alchemist"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "https://ja.wikipedia.org/wiki/%E9%8B%BC%E3%81%AE%E9%8C%AC%E9%87%91%E8%A1%93%E5%B8%AB_%28%E3%82%A2%E3%83%8B%E3%83%A1%29"
+            },
+            {
+                "name": "Syoboi",
+                "url": "https://cal.syoboi.jp/tid/134"
+            }
+        ],
+        "streaming": [
+            {
+                "name": "Crunchyroll",
+                "url": "http://www.crunchyroll.com/series-284032"
+            },
+            {
+                "name": "Netflix",
+                "url": "https://www.netflix.com/"
+            }
+        ]
+    },
+    "episodes": [
+        {
+            "mal_id": 1,
+            "url": "https://myanimelist.net/anime/121/Fullmetal_Alchemist/episode/1",
+            "title": "To Challenge the Sun",
+            "title_japanese": "太陽に挑む者",
+            "title_romanji": "Taiyou ni Idomu Mono ",
+            "aired": "2003-10-04T00:00:00+00:00",
+            "score": 4.23,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=96785"
+        },
+        {
+            "mal_id": 2,
+            "url": "https://myanimelist.net/anime/121/Fullmetal_Alchemist/episode/2",
+            "title": "Body of the Sanctioned",
+            "title_japanese": "禁忌の身体",
+            "title_romanji": "Kinki no Karada ",
+            "aired": "2003-10-11T00:00:00+00:00",
+            "score": 4.21,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=57938"
+        },
+        {
+            "mal_id": 3,
+            "url": "https://myanimelist.net/anime/121/Fullmetal_Alchemist/episode/3",
+            "title": "Mother...",
+            "title_japanese": "おかあさん…",
+            "title_romanji": "Okaasan... ",
+            "aired": "2003-10-18T00:00:00+00:00",
+            "score": 4.37,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=87173"
+        },
+        {
+            "mal_id": 4,
+            "url": "https://myanimelist.net/anime/121/Fullmetal_Alchemist/episode/4",
+            "title": "A Forger's Love",
+            "title_japanese": "愛の錬成",
+            "title_romanji": "Ai no Rensei ",
+            "aired": "2003-10-25T00:00:00+00:00",
+            "score": 3.83,
+            "filler": true,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=87174"
+        },
+        {
+            "mal_id": 5,
+            "url": "https://myanimelist.net/anime/121/Fullmetal_Alchemist/episode/5",
+            "title": "The Man with the Mechanical Arm",
+            "title_japanese": "オートメイル)",
+            "title_romanji": "Shissou! Automail (疾走！機械鎧",
+            "aired": "2003-11-01T00:00:00+00:00",
+            "score": 4.35,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=64714"
+        },
+        {
+            "mal_id": 6,
+            "url": "https://myanimelist.net/anime/121/Fullmetal_Alchemist/episode/6",
+            "title": "The Alchemy Exam",
+            "title_japanese": "国家錬金術師資格試験",
+            "title_romanji": "Kokka Renkinjutsushi Shikaku Shiken ",
+            "aired": "2003-11-08T00:00:00+00:00",
+            "score": 4.49,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=49683"
+        },
+        {
+            "mal_id": 7,
+            "url": "https://myanimelist.net/anime/121/Fullmetal_Alchemist/episode/7",
+            "title": "Night of the Chimera's Cry",
+            "title_japanese": "合成獣が哭く夜",
+            "title_romanji": "Chimera ga Naku Yoru ",
+            "aired": "2003-11-15T00:00:00+00:00",
+            "score": 4.57,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=31708"
+        },
+        {
+            "mal_id": 8,
+            "url": "https://myanimelist.net/anime/121/Fullmetal_Alchemist/episode/8",
+            "title": "The Philosopher's Stone",
+            "title_japanese": "賢者の石",
+            "title_romanji": "Kenja no Ishi ",
+            "aired": "2003-11-22T00:00:00+00:00",
+            "score": 4.44,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=85650"
+        },
+        {
+            "mal_id": 9,
+            "url": "https://myanimelist.net/anime/121/Fullmetal_Alchemist/episode/9",
+            "title": "Be Thou for the People (\"The Dog of the Military's Silver Watch\")",
+            "title_japanese": "軍の狗の銀時計",
+            "title_romanji": "Gun no Inu no Gindokei ",
+            "aired": "2003-11-29T00:00:00+00:00",
+            "score": 4.39,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=48647"
+        },
+        {
+            "mal_id": 10,
+            "url": "https://myanimelist.net/anime/121/Fullmetal_Alchemist/episode/10",
+            "title": "The Phantom Thief",
+            "title_japanese": "怪盗サイレーン",
+            "title_romanji": "Kaitou Saireen ",
+            "aired": "2003-12-06T00:00:00+00:00",
+            "score": 3.94,
+            "filler": true,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=42802"
+        },
+        {
+            "mal_id": 11,
+            "url": "https://myanimelist.net/anime/121/Fullmetal_Alchemist/episode/11",
+            "title": "The Other Brothers Elric: Part 1",
+            "title_japanese": "砂礫の大地・前編",
+            "title_romanji": "Sareki no Daichi: Zenpen ",
+            "aired": "2003-12-13T00:00:00+00:00",
+            "score": 4.08,
+            "filler": true,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=48656"
+        },
+        {
+            "mal_id": 12,
+            "url": "https://myanimelist.net/anime/121/Fullmetal_Alchemist/episode/12",
+            "title": "The Other Brothers Elric: Part 2",
+            "title_japanese": "砂礫の大地・後編",
+            "title_romanji": "Sareki no Daichi: Kouhen ",
+            "aired": "2003-12-20T00:00:00+00:00",
+            "score": 4.12,
+            "filler": true,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=95556"
+        },
+        {
+            "mal_id": 13,
+            "url": "https://myanimelist.net/anime/121/Fullmetal_Alchemist/episode/13",
+            "title": "Fullmetal vs Flame",
+            "title_japanese": "焔VS鋼",
+            "title_romanji": "Honou vs Hagane ",
+            "aired": "2003-12-27T00:00:00+00:00",
+            "score": 4.27,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=95587"
+        },
+        {
+            "mal_id": 14,
+            "url": "https://myanimelist.net/anime/121/Fullmetal_Alchemist/episode/14",
+            "title": "Destruction's Right Hand",
+            "title_japanese": "破壊の右手",
+            "title_romanji": "Hakai no Migite ",
+            "aired": "2004-01-10T00:00:00+00:00",
+            "score": 4.37,
+            "filler": true,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=51674"
+        },
+        {
+            "mal_id": 15,
+            "url": "https://myanimelist.net/anime/121/Fullmetal_Alchemist/episode/15",
+            "title": "The Ishbal Massacre",
+            "title_japanese": "イシュヴァール虐殺",
+            "title_romanji": "Ishbal Gyakusatsu ",
+            "aired": "2004-01-17T00:00:00+00:00",
+            "score": 4.5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=95704"
+        },
+        {
+            "mal_id": 16,
+            "url": "https://myanimelist.net/anime/121/Fullmetal_Alchemist/episode/16",
+            "title": "That Which Is Lost",
+            "title_japanese": "失われたもの",
+            "title_romanji": "Ushinawareta Mono ",
+            "aired": "2004-01-24T00:00:00+00:00",
+            "score": 4.27,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=98233"
+        },
+        {
+            "mal_id": 17,
+            "url": "https://myanimelist.net/anime/121/Fullmetal_Alchemist/episode/17",
+            "title": "House of the Waiting Family",
+            "title_japanese": "家族の待つ家",
+            "title_romanji": "Kazoku no Matsu Ie ",
+            "aired": "2004-01-31T00:00:00+00:00",
+            "score": 4.52,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=58118"
+        },
+        {
+            "mal_id": 18,
+            "url": "https://myanimelist.net/anime/121/Fullmetal_Alchemist/episode/18",
+            "title": "Marcoh's Notes",
+            "title_japanese": "マルコー・ノート",
+            "title_romanji": "Marco Note ",
+            "aired": "2004-02-07T00:00:00+00:00",
+            "score": 4.38,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=98377"
+        },
+        {
+            "mal_id": 19,
+            "url": "https://myanimelist.net/anime/121/Fullmetal_Alchemist/episode/19",
+            "title": "The Truth Behind Truths",
+            "title_japanese": "真実の奥の奥",
+            "title_romanji": "Shinjitsu no Oku no Oku ",
+            "aired": "2004-02-14T00:00:00+00:00",
+            "score": 4.36,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=98445"
+        },
+        {
+            "mal_id": 20,
+            "url": "https://myanimelist.net/anime/121/Fullmetal_Alchemist/episode/20",
+            "title": "Soul of the Guardian",
+            "title_japanese": "守護者の魂",
+            "title_romanji": "Shugosha no Tamashii ",
+            "aired": "2004-02-21T00:00:00+00:00",
+            "score": 4.55,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=95842"
+        },
+        {
+            "mal_id": 21,
+            "url": "https://myanimelist.net/anime/121/Fullmetal_Alchemist/episode/21",
+            "title": "The Red Glow",
+            "title_japanese": "紅い輝き",
+            "title_romanji": "Akai Kagayaki ",
+            "aired": "2004-02-28T00:00:00+00:00",
+            "score": 4.59,
+            "filler": true,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=48967"
+        },
+        {
+            "mal_id": 22,
+            "url": "https://myanimelist.net/anime/121/Fullmetal_Alchemist/episode/22",
+            "title": "Created Human",
+            "title_japanese": "造られた人間",
+            "title_romanji": "Tsukurareta Ningen ",
+            "aired": "2004-03-06T00:00:00+00:00",
+            "score": 4.67,
+            "filler": true,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=31936"
+        },
+        {
+            "mal_id": 23,
+            "url": "https://myanimelist.net/anime/121/Fullmetal_Alchemist/episode/23",
+            "title": "Heart of Steel",
+            "title_japanese": "鋼のこころ",
+            "title_romanji": "Hagane no Kokoro ",
+            "aired": "2004-03-13T00:00:00+00:00",
+            "score": 4.38,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=48995"
+        },
+        {
+            "mal_id": 24,
+            "url": "https://myanimelist.net/anime/121/Fullmetal_Alchemist/episode/24",
+            "title": "Bonding Memories",
+            "title_japanese": "思い出の定着",
+            "title_romanji": "Omoide no Teichaku ",
+            "aired": "2004-03-20T00:00:00+00:00",
+            "score": 4.29,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=98616"
+        },
+        {
+            "mal_id": 25,
+            "url": "https://myanimelist.net/anime/121/Fullmetal_Alchemist/episode/25",
+            "title": "Words of Farewell",
+            "title_japanese": "別れの儀式",
+            "title_romanji": "Wakare no Gishiki ",
+            "aired": "2004-03-27T00:00:00+00:00",
+            "score": 4.7,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=98640"
+        },
+        {
+            "mal_id": 26,
+            "url": "https://myanimelist.net/anime/121/Fullmetal_Alchemist/episode/26",
+            "title": "Her Reason",
+            "title_japanese": "彼女の理由",
+            "title_romanji": "Kanojo no Riyuu ",
+            "aired": "2004-04-03T00:00:00+00:00",
+            "score": 4.08,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=58228"
+        },
+        {
+            "mal_id": 27,
+            "url": "https://myanimelist.net/anime/121/Fullmetal_Alchemist/episode/27",
+            "title": "Teacher",
+            "title_japanese": "センセイ",
+            "title_romanji": "Sensei ",
+            "aired": "2004-04-10T00:00:00+00:00",
+            "score": 4.44,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=98673"
+        },
+        {
+            "mal_id": 28,
+            "url": "https://myanimelist.net/anime/121/Fullmetal_Alchemist/episode/28",
+            "title": "All is One, One is All",
+            "title_japanese": "一は全、全は一",
+            "title_romanji": "Ichi wa Zen, Zen wa Ichi ",
+            "aired": "2004-04-17T00:00:00+00:00",
+            "score": 4.31,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=65164"
+        },
+        {
+            "mal_id": 29,
+            "url": "https://myanimelist.net/anime/121/Fullmetal_Alchemist/episode/29",
+            "title": "The Untainted Child",
+            "title_japanese": "汚れなき子ども",
+            "title_romanji": "Kegarenaki Kodomo ",
+            "aired": "2004-04-24T00:00:00+00:00",
+            "score": 4.53,
+            "filler": true,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=38177"
+        },
+        {
+            "mal_id": 30,
+            "url": "https://myanimelist.net/anime/121/Fullmetal_Alchemist/episode/30",
+            "title": "Assault on South Headquarters",
+            "title_japanese": "南方司令部襲撃",
+            "title_romanji": "Nanpou Shireibu Shuugeki ",
+            "aired": "2004-05-01T00:00:00+00:00",
+            "score": 4.3,
+            "filler": true,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=99224"
+        },
+        {
+            "mal_id": 31,
+            "url": "https://myanimelist.net/anime/121/Fullmetal_Alchemist/episode/31",
+            "title": "Sin",
+            "title_japanese": "罪",
+            "title_romanji": "Tsumi ",
+            "aired": "2004-05-08T00:00:00+00:00",
+            "score": 4.48,
+            "filler": true,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=90314"
+        },
+        {
+            "mal_id": 32,
+            "url": "https://myanimelist.net/anime/121/Fullmetal_Alchemist/episode/32",
+            "title": "Dante of the Deep Forest",
+            "title_japanese": "深い森のダンテ",
+            "title_romanji": "Fukai Mori no Dante ",
+            "aired": "2004-05-15T00:00:00+00:00",
+            "score": 4.19,
+            "filler": true,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=99283"
+        },
+        {
+            "mal_id": 33,
+            "url": "https://myanimelist.net/anime/121/Fullmetal_Alchemist/episode/33",
+            "title": "Al, Captured",
+            "title_japanese": "囚われたアル",
+            "title_romanji": "Torawareta Al ",
+            "aired": "2004-05-29T00:00:00+00:00",
+            "score": 4.26,
+            "filler": true,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=99331"
+        },
+        {
+            "mal_id": 34,
+            "url": "https://myanimelist.net/anime/121/Fullmetal_Alchemist/episode/34",
+            "title": "Theory of Avarice",
+            "title_japanese": "強欲の理論",
+            "title_romanji": "Gouyoku no Riron ",
+            "aired": "2004-06-05T00:00:00+00:00",
+            "score": 4.62,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=58261"
+        },
+        {
+            "mal_id": 35,
+            "url": "https://myanimelist.net/anime/121/Fullmetal_Alchemist/episode/35",
+            "title": "Reunion of the Fallen",
+            "title_japanese": "愚者の再会",
+            "title_romanji": "Gusha no Saikai ",
+            "aired": "2004-06-12T00:00:00+00:00",
+            "score": 4.17,
+            "filler": true,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=95999"
+        },
+        {
+            "mal_id": 36,
+            "url": "https://myanimelist.net/anime/121/Fullmetal_Alchemist/episode/36",
+            "title": "The Sinner Within",
+            "title_japanese": "我が内なる科人",
+            "title_romanji": "Waga Uchinaru Togabito ",
+            "aired": "2004-06-19T00:00:00+00:00",
+            "score": 4.3,
+            "filler": true,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=119589"
+        },
+        {
+            "mal_id": 37,
+            "url": "https://myanimelist.net/anime/121/Fullmetal_Alchemist/episode/37",
+            "title": "The Flame Alchemist, The Bachelor Lieutenant & The Mystery of Warehouse 13",
+            "title_japanese": "焔の錬金術師 戦う少尉さん 第十三倉庫の怪",
+            "title_romanji": "Honoo no Renkinjutsushi, Tatakau Shoui-san, Dai-Juusan Souko no Kai ",
+            "aired": "2004-06-26T00:00:00+00:00",
+            "score": 4.38,
+            "filler": true,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=49518"
+        },
+        {
+            "mal_id": 38,
+            "url": "https://myanimelist.net/anime/121/Fullmetal_Alchemist/episode/38",
+            "title": "With the River's Flow",
+            "title_japanese": "川の流れに",
+            "title_romanji": "Kawa no Nagare ni ",
+            "aired": "2004-07-03T00:00:00+00:00",
+            "score": 4.14,
+            "filler": true,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=97443"
+        },
+        {
+            "mal_id": 39,
+            "url": "https://myanimelist.net/anime/121/Fullmetal_Alchemist/episode/39",
+            "title": "Secret of Ishbal",
+            "title_japanese": "東方内戦",
+            "title_romanji": "Touhou Naisen ",
+            "aired": "2004-07-10T00:00:00+00:00",
+            "score": 4.35,
+            "filler": true,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=97455"
+        },
+        {
+            "mal_id": 40,
+            "url": "https://myanimelist.net/anime/121/Fullmetal_Alchemist/episode/40",
+            "title": "The Scar",
+            "title_japanese": "傷痕",
+            "title_romanji": "Kizuato ",
+            "aired": "2004-07-17T00:00:00+00:00",
+            "score": 4.6,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=97846"
+        },
+        {
+            "mal_id": 41,
+            "url": "https://myanimelist.net/anime/121/Fullmetal_Alchemist/episode/41",
+            "title": "Holy Mother",
+            "title_japanese": "聖母",
+            "title_romanji": "Seibo ",
+            "aired": "2004-07-24T00:00:00+00:00",
+            "score": 4.54,
+            "filler": true,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=99783"
+        },
+        {
+            "mal_id": 42,
+            "url": "https://myanimelist.net/anime/121/Fullmetal_Alchemist/episode/42",
+            "title": "His Name is Unknown",
+            "title_japanese": "彼の名を知らず",
+            "title_romanji": "Kare no Na wo Shirazu ",
+            "aired": "2004-07-24T00:00:00+00:00",
+            "score": 4.64,
+            "filler": true,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=35050"
+        },
+        {
+            "mal_id": 43,
+            "url": "https://myanimelist.net/anime/121/Fullmetal_Alchemist/episode/43",
+            "title": "The Stray Dog",
+            "title_japanese": "野良犬は逃げ出した",
+            "title_romanji": "Norainu wa Nigedashita ",
+            "aired": "2004-07-31T00:00:00+00:00",
+            "score": 4.49,
+            "filler": true,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=99888"
+        },
+        {
+            "mal_id": 44,
+            "url": "https://myanimelist.net/anime/121/Fullmetal_Alchemist/episode/44",
+            "title": "Hohenheim of Light",
+            "title_japanese": "光のホーエンハイム",
+            "title_romanji": "Hikari no Hohenheim ",
+            "aired": "2004-08-07T00:00:00+00:00",
+            "score": 4.63,
+            "filler": true,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=100011"
+        },
+        {
+            "mal_id": 45,
+            "url": "https://myanimelist.net/anime/121/Fullmetal_Alchemist/episode/45",
+            "title": "A Rotted Heart",
+            "title_japanese": "心を劣化させるもの",
+            "title_romanji": "Kokoro wo Rekkasaseru Mono ",
+            "aired": "2004-08-21T00:00:00+00:00",
+            "score": 4.39,
+            "filler": true,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=100084"
+        },
+        {
+            "mal_id": 46,
+            "url": "https://myanimelist.net/anime/121/Fullmetal_Alchemist/episode/46",
+            "title": "Human Transmutation",
+            "title_japanese": "人体錬成",
+            "title_romanji": "Jintai Rensei ",
+            "aired": "2004-08-28T00:00:00+00:00",
+            "score": 4.45,
+            "filler": true,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=97886"
+        },
+        {
+            "mal_id": 47,
+            "url": "https://myanimelist.net/anime/121/Fullmetal_Alchemist/episode/47",
+            "title": "Sealing the Homunculus",
+            "title_japanese": "ホムンクルス封印",
+            "title_romanji": "Homunculus Fuuin ",
+            "aired": "2004-09-04T00:00:00+00:00",
+            "score": 4.54,
+            "filler": true,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=98550"
+        },
+        {
+            "mal_id": 48,
+            "url": "https://myanimelist.net/anime/121/Fullmetal_Alchemist/episode/48",
+            "title": "Goodbye",
+            "title_japanese": "さようなら",
+            "title_romanji": "Sayounara ",
+            "aired": "2004-09-11T00:00:00+00:00",
+            "score": 4.49,
+            "filler": true,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=98561"
+        },
+        {
+            "mal_id": 49,
+            "url": "https://myanimelist.net/anime/121/Fullmetal_Alchemist/episode/49",
+            "title": "The Other Side of the Gate",
+            "title_japanese": "扉の向こうへ",
+            "title_romanji": "Tobira no Mukou e ",
+            "aired": "2004-09-18T00:00:00+00:00",
+            "score": 4.38,
+            "filler": true,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=98176"
+        },
+        {
+            "mal_id": 50,
+            "url": "https://myanimelist.net/anime/121/Fullmetal_Alchemist/episode/50",
+            "title": "Death",
+            "title_japanese": "死",
+            "title_romanji": "Shi ",
+            "aired": "2004-09-25T00:00:00+00:00",
+            "score": 4.62,
+            "filler": true,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=98285"
+        },
+        {
+            "mal_id": 51,
+            "url": "https://myanimelist.net/anime/121/Fullmetal_Alchemist/episode/51",
+            "title": "Laws and Promises",
+            "title_japanese": "ミュンヘン1921",
+            "title_romanji": "Munich 1921 ",
+            "aired": "2004-10-02T00:00:00+00:00",
+            "score": 4.24,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=58431"
+        }
+    ]
+}

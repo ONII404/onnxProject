@@ -1,0 +1,179 @@
+{
+    "id": 1504,
+    "fetched_at": "Sun Dec 14 07:15:00 2025",
+    "metadata": {
+        "mal_id": 1504,
+        "url": "https://myanimelist.net/anime/1504/Macross_Flash_Back_2012",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/5/11073.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/5/11073t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/5/11073l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/5/11073.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/5/11073t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/5/11073l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Macross Flash Back 2012"
+            },
+            {
+                "type": "Synonym",
+                "title": "Choujikuu Yousai Macross - Flash Back 2012"
+            },
+            {
+                "type": "Japanese",
+                "title": "超時空要塞マクロス FLASH BACK 2012"
+            },
+            {
+                "type": "English",
+                "title": "Super Dimension Fortress Macross Flash Back 2012"
+            }
+        ],
+        "title": "Macross Flash Back 2012",
+        "title_english": "Super Dimension Fortress Macross Flash Back 2012",
+        "title_japanese": "超時空要塞マクロス FLASH BACK 2012",
+        "title_synonyms": [
+            "Choujikuu Yousai Macross - Flash Back 2012"
+        ],
+        "type": "OVA",
+        "source": "Original",
+        "episodes": 1,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "1987-06-21T00:00:00+00:00",
+            "to": null,
+            "prop": {
+                "from": {
+                    "day": 21,
+                    "month": 6,
+                    "year": 1987
+                },
+                "to": {
+                    "day": null,
+                    "month": null,
+                    "year": null
+                }
+            },
+            "string": "Jun 21, 1987"
+        },
+        "duration": "29 min",
+        "rating": "R+ - Mild Nudity",
+        "score": 6.84,
+        "scored_by": 5263,
+        "rank": 5318,
+        "popularity": 6882,
+        "members": 10695,
+        "favorites": 8,
+        "synopsis": "Flash Back 2012 is Minmei's farewell concert. Featuring some of her best songs, the music is performed over various scenes and events taken from Macross TV as well as Macross \"Do You Remember Love\". Also included is a newly animated closing sequence showing the launch of Misa's colony vessel, the Megaroad-01, into space.\n\n(Source: ANN)",
+        "background": "",
+        "season": null,
+        "year": null,
+        "broadcast": {
+            "day": null,
+            "time": null,
+            "timezone": null,
+            "string": null
+        },
+        "producers": [
+            {
+                "mal_id": 351,
+                "type": "anime",
+                "name": "Big West",
+                "url": "https://myanimelist.net/anime/producer/351/Big_West"
+            }
+        ],
+        "licensors": [],
+        "studios": [
+            {
+                "mal_id": 103,
+                "type": "anime",
+                "name": "Tatsunoko Production",
+                "url": "https://myanimelist.net/anime/producer/103/Tatsunoko_Production"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 8,
+                "type": "anime",
+                "name": "Drama",
+                "url": "https://myanimelist.net/anime/genre/8/Drama"
+            },
+            {
+                "mal_id": 24,
+                "type": "anime",
+                "name": "Sci-Fi",
+                "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [
+            {
+                "mal_id": 18,
+                "type": "anime",
+                "name": "Mecha",
+                "url": "https://myanimelist.net/anime/genre/18/Mecha"
+            },
+            {
+                "mal_id": 38,
+                "type": "anime",
+                "name": "Military",
+                "url": "https://myanimelist.net/anime/genre/38/Military"
+            }
+        ],
+        "demographics": [],
+        "relations": [
+            {
+                "relation": "Full Story",
+                "entry": [
+                    {
+                        "mal_id": 1088,
+                        "type": "anime",
+                        "name": "Macross",
+                        "url": "https://myanimelist.net/anime/1088/Macross"
+                    },
+                    {
+                        "mal_id": 1089,
+                        "type": "anime",
+                        "name": "Macross: Do You Remember Love?",
+                        "url": "https://myanimelist.net/anime/1089/Macross__Do_You_Remember_Love"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [],
+            "endings": []
+        },
+        "external": [
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=2324"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=945"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": []
+}

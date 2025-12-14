@@ -1,0 +1,187 @@
+{
+    "id": 19959,
+    "fetched_at": "Sun Dec 14 10:01:28 2025",
+    "metadata": {
+        "mal_id": 19959,
+        "url": "https://myanimelist.net/anime/19959/Barbapapa_1977",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/3/53233.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/3/53233t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/3/53233l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/3/53233.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/3/53233t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/3/53233l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Barbapapa (1977)"
+            },
+            {
+                "type": "Japanese",
+                "title": "バーバパパ (1977)"
+            }
+        ],
+        "title": "Barbapapa (1977)",
+        "title_english": null,
+        "title_japanese": "バーバパパ (1977)",
+        "title_synonyms": [],
+        "type": "TV",
+        "source": "Picture book",
+        "episodes": 48,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "1977-04-30T00:00:00+00:00",
+            "to": "1977-06-14T00:00:00+00:00",
+            "prop": {
+                "from": {
+                    "day": 30,
+                    "month": 4,
+                    "year": 1977
+                },
+                "to": {
+                    "day": 14,
+                    "month": 6,
+                    "year": 1977
+                }
+            },
+            "string": "Apr 30, 1977 to Jun 14, 1977"
+        },
+        "duration": "5 min per ep",
+        "rating": "PG - Children",
+        "score": 5.82,
+        "scored_by": 422,
+        "rank": 11241,
+        "popularity": 14577,
+        "members": 1097,
+        "favorites": 0,
+        "synopsis": "Based on a series of children's books written in the 1970s by Annette Tison and Talus Taylor.\n\nAdding to the first serie from 1975, the second serie brings 48 new episodes.\n\n(Source: AniDB)",
+        "background": "",
+        "season": "spring",
+        "year": 1977,
+        "broadcast": {
+            "day": null,
+            "time": null,
+            "timezone": null,
+            "string": "Unknown"
+        },
+        "producers": [
+            {
+                "mal_id": 50,
+                "type": "anime",
+                "name": "KSS",
+                "url": "https://myanimelist.net/anime/producer/50/KSS"
+            }
+        ],
+        "licensors": [],
+        "studios": [
+            {
+                "mal_id": 363,
+                "type": "anime",
+                "name": "Topcraft",
+                "url": "https://myanimelist.net/anime/producer/363/Topcraft"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 4,
+                "type": "anime",
+                "name": "Comedy",
+                "url": "https://myanimelist.net/anime/genre/4/Comedy"
+            },
+            {
+                "mal_id": 10,
+                "type": "anime",
+                "name": "Fantasy",
+                "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [],
+        "demographics": [
+            {
+                "mal_id": 15,
+                "type": "anime",
+                "name": "Kids",
+                "url": "https://myanimelist.net/anime/genre/15/Kids"
+            }
+        ],
+        "relations": [
+            {
+                "relation": "Prequel",
+                "entry": [
+                    {
+                        "mal_id": 2823,
+                        "type": "anime",
+                        "name": "Barbapapa",
+                        "url": "https://myanimelist.net/anime/2823/Barbapapa"
+                    }
+                ]
+            },
+            {
+                "relation": "Alternative Setting",
+                "entry": [
+                    {
+                        "mal_id": 2824,
+                        "type": "anime",
+                        "name": "Barbapapa Sekai wo Mawaru",
+                        "url": "https://myanimelist.net/anime/2824/Barbapapa_Sekai_wo_Mawaru"
+                    }
+                ]
+            },
+            {
+                "relation": "Character",
+                "entry": [
+                    {
+                        "mal_id": 2824,
+                        "type": "anime",
+                        "name": "Barbapapa Sekai wo Mawaru",
+                        "url": "https://myanimelist.net/anime/2824/Barbapapa_Sekai_wo_Mawaru"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [],
+            "endings": []
+        },
+        "external": [
+            {
+                "name": "Official Site",
+                "url": "http://www.barbapapa.org/"
+            },
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=7501"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=1208"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "http://en.wikipedia.org/wiki/Barbapapa"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": []
+}

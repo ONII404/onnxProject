@@ -1,0 +1,1119 @@
+{
+    "id": 1985,
+    "fetched_at": "Sun Dec 14 07:18:17 2025",
+    "metadata": {
+        "mal_id": 1985,
+        "url": "https://myanimelist.net/anime/1985/UFO_Robo_Grendizer",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1440/127558.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1440/127558t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1440/127558l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1440/127558.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1440/127558t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1440/127558l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "UFO Robo Grendizer"
+            },
+            {
+                "type": "Synonym",
+                "title": "Atlas UFO Robot"
+            },
+            {
+                "type": "Synonym",
+                "title": "UFO Robot Goldrake"
+            },
+            {
+                "type": "Synonym",
+                "title": "UFO Robo Grandizer"
+            },
+            {
+                "type": "Synonym",
+                "title": "UFO Robot Goldorak"
+            },
+            {
+                "type": "Japanese",
+                "title": "UFOロボ グレンダイザー"
+            }
+        ],
+        "title": "UFO Robo Grendizer",
+        "title_english": null,
+        "title_japanese": "UFOロボ グレンダイザー",
+        "title_synonyms": [
+            "Atlas UFO Robot",
+            "UFO Robot Goldrake",
+            "UFO Robo Grandizer",
+            "UFO Robot Goldorak"
+        ],
+        "type": "TV",
+        "source": "Manga",
+        "episodes": 74,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "1975-10-05T00:00:00+00:00",
+            "to": "1977-02-27T00:00:00+00:00",
+            "prop": {
+                "from": {
+                    "day": 5,
+                    "month": 10,
+                    "year": 1975
+                },
+                "to": {
+                    "day": 27,
+                    "month": 2,
+                    "year": 1977
+                }
+            },
+            "string": "Oct 5, 1975 to Feb 27, 1977"
+        },
+        "duration": "25 min per ep",
+        "rating": "PG-13 - Teens 13 or older",
+        "score": 7.56,
+        "scored_by": 6416,
+        "rank": 1810,
+        "popularity": 6147,
+        "members": 14018,
+        "favorites": 151,
+        "synopsis": "Duke Fleed is a survivor of the Fleed Planet who is escaped to the Earth, onboard a mysterious \"spaceship\", where is raised by Dr. Umon as his adoptive son, and known as Daisuke Umon. Years after his arrival, he's faced with the threat of King Vega and his army, who want to conquer the Earth. With his friends Koji and Hikaru (and later his younger sister Maria Grace), Duke decides to fight back using his best weapon - the almighty Grendizer.",
+        "background": "",
+        "season": "fall",
+        "year": 1975,
+        "broadcast": {
+            "day": null,
+            "time": null,
+            "timezone": null,
+            "string": "Unknown"
+        },
+        "producers": [
+            {
+                "mal_id": 169,
+                "type": "anime",
+                "name": "Fuji TV",
+                "url": "https://myanimelist.net/anime/producer/169/Fuji_TV"
+            },
+            {
+                "mal_id": 921,
+                "type": "anime",
+                "name": "Dynamic Planning",
+                "url": "https://myanimelist.net/anime/producer/921/Dynamic_Planning"
+            }
+        ],
+        "licensors": [],
+        "studios": [
+            {
+                "mal_id": 18,
+                "type": "anime",
+                "name": "Toei Animation",
+                "url": "https://myanimelist.net/anime/producer/18/Toei_Animation"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 24,
+                "type": "anime",
+                "name": "Sci-Fi",
+                "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [
+            {
+                "mal_id": 18,
+                "type": "anime",
+                "name": "Mecha",
+                "url": "https://myanimelist.net/anime/genre/18/Mecha"
+            }
+        ],
+        "demographics": [],
+        "relations": [
+            {
+                "relation": "Adaptation",
+                "entry": [
+                    {
+                        "mal_id": 8558,
+                        "type": "manga",
+                        "name": "UFO Robo Grendizer",
+                        "url": "https://myanimelist.net/manga/8558/UFO_Robo_Grendizer"
+                    }
+                ]
+            },
+            {
+                "relation": "Side Story",
+                "entry": [
+                    {
+                        "mal_id": 4387,
+                        "type": "anime",
+                        "name": "UFO Robo Grendizer tai Great Mazinger",
+                        "url": "https://myanimelist.net/anime/4387/UFO_Robo_Grendizer_tai_Great_Mazinger"
+                    },
+                    {
+                        "mal_id": 3481,
+                        "type": "anime",
+                        "name": "Grendizer: Getter Robo G - Great Mazinger Kessen! Daikaijuu",
+                        "url": "https://myanimelist.net/anime/3481/Grendizer__Getter_Robo_G_-_Great_Mazinger_Kessen_Daikaijuu"
+                    }
+                ]
+            },
+            {
+                "relation": "Alternative Version",
+                "entry": [
+                    {
+                        "mal_id": 5620,
+                        "type": "anime",
+                        "name": "Uchuu Enban Dai-Sensou",
+                        "url": "https://myanimelist.net/anime/5620/Uchuu_Enban_Dai-Sensou"
+                    },
+                    {
+                        "mal_id": 31467,
+                        "type": "anime",
+                        "name": "Grendizer Giga",
+                        "url": "https://myanimelist.net/anime/31467/Grendizer_Giga"
+                    },
+                    {
+                        "mal_id": 56189,
+                        "type": "anime",
+                        "name": "Grendizer U",
+                        "url": "https://myanimelist.net/anime/56189/Grendizer_U"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [
+                "\"Tobe! Grendizer (とべ! グレンダイザー)\" by Isao Sasaki, Columbia Yurikago Kai"
+            ],
+            "endings": [
+                "\"Uchuu no Ouja Grendizer (宇宙の王者グレンダイザー)\" by Isao Sasaki, Koorogi '73"
+            ]
+        },
+        "external": [
+            {
+                "name": "Official Site",
+                "url": "http://www.toei-anim.co.jp/lineup/tv/grendaizer/"
+            },
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=962"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=1198"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "http://en.wikipedia.org/wiki/Grendizer"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": [
+        {
+            "mal_id": 1,
+            "url": null,
+            "title": "Kouji Kabuto and Duke Fleed",
+            "title_japanese": "兜甲児とデュークフリード",
+            "title_romanji": "Kabuto Kouji to Duke Fleed ",
+            "aired": "1975-10-05T00:00:00+00:00",
+            "score": 3.69,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=412845"
+        },
+        {
+            "mal_id": 2,
+            "url": null,
+            "title": "Ah! My Land That Was So Green",
+            "title_japanese": "ああ!! わが大地みどりなりき",
+            "title_romanji": "Aa!! Waga daichi midorinariki ",
+            "aired": "1975-10-12T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2180228"
+        },
+        {
+            "mal_id": 3,
+            "url": null,
+            "title": "Danger at the White Birch Ranch",
+            "title_japanese": "危機迫る白樺牧場",
+            "title_romanji": null,
+            "aired": "1975-10-19T00:00:00+00:00",
+            "score": 3.33,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2180759"
+        },
+        {
+            "mal_id": 4,
+            "url": null,
+            "title": "The Spirit of Youth Is Burning",
+            "title_japanese": "若き血潮は紅に燃ゆ",
+            "title_romanji": null,
+            "aired": "1975-10-26T00:00:00+00:00",
+            "score": 3.88,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2009428"
+        },
+        {
+            "mal_id": 5,
+            "url": null,
+            "title": "Love in the Evening of Glory",
+            "title_japanese": "炎の愛を夕陽に染めて",
+            "title_romanji": null,
+            "aired": "1975-11-02T00:00:00+00:00",
+            "score": 3.25,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2186567"
+        },
+        {
+            "mal_id": 6,
+            "url": null,
+            "title": "Fighting Spirit Kills The Sky / Saucer Beast Damudamu",
+            "title_japanese": "大空を斬る闘魂/円盤獣",
+            "title_romanji": null,
+            "aired": "1975-11-09T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2187320"
+        },
+        {
+            "mal_id": 7,
+            "url": null,
+            "title": "Even If It Costs My Life! / Saucer Beasts Gingin & Fuifui",
+            "title_japanese": "たとえ我が命つきるとも / 円盤獣・ギンギン & 円盤",
+            "title_romanji": null,
+            "aired": "1975-11-16T00:00:00+00:00",
+            "score": 4.33,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1545271"
+        },
+        {
+            "mal_id": 8,
+            "url": null,
+            "title": "The Warm, Green Earth / Saucer Beast Darudaru",
+            "title_japanese": "地球の緑はあたたかい / 円盤獣・ダルダル",
+            "title_romanji": null,
+            "aired": "1975-11-23T00:00:00+00:00",
+            "score": 3.83,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1923375"
+        },
+        {
+            "mal_id": 9,
+            "url": null,
+            "title": "Overcome the Forbidden Anger / Saucer Beast Jirujiru",
+            "title_japanese": "許されざる怒りを越えて / 円盤獣・ジルジル",
+            "title_romanji": "Yurusarezaru Ikari wo Koete ",
+            "aired": "1975-11-30T00:00:00+00:00",
+            "score": 4.29,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1923535"
+        },
+        {
+            "mal_id": 10,
+            "url": null,
+            "title": "Longing Beyond The Stars / Saucer Beast Guriguri",
+            "title_japanese": "あこがれは星の彼方に / 円盤獣・グリグリ",
+            "title_romanji": null,
+            "aired": "1975-12-07T00:00:00+00:00",
+            "score": 3.57,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1923558"
+        },
+        {
+            "mal_id": 11,
+            "url": null,
+            "title": "The Demon In The Black Sun!! / Saucer Beast Baribari",
+            "title_japanese": "黒い太陽の中の悪魔!! / 円盤獣・ガニガニ",
+            "title_romanji": null,
+            "aired": "1975-12-14T00:00:00+00:00",
+            "score": 4.25,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2198921"
+        },
+        {
+            "mal_id": 12,
+            "url": null,
+            "title": "The Girl Across The Rainbow Bridge / Saucer Beast Ganigani",
+            "title_japanese": "虹の橋を渡る少女 / 円盤獣・ガニガニ",
+            "title_romanji": null,
+            "aired": "1975-12-21T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1545540"
+        },
+        {
+            "mal_id": 13,
+            "url": null,
+            "title": "Grendizer Under Fire / Saucer Beast Gerugeru",
+            "title_japanese": "狙われたグレンダイザー / 円盤獣・ゲルゲル",
+            "title_romanji": null,
+            "aired": "1975-12-28T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 14,
+            "url": null,
+            "title": "Boss Borot Is Here!! / Saucer Beast Doridori",
+            "title_japanese": "ボスボロットがやって来た!! / 円盤獣・ドリドリ",
+            "title_romanji": null,
+            "aired": "1976-01-04T00:00:00+00:00",
+            "score": 4.11,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1493979"
+        },
+        {
+            "mal_id": 15,
+            "url": null,
+            "title": "A Letter To My Mother, Far, Far Away / Saucer Beast Garugaru",
+            "title_japanese": "遥かなる母への手紙 / 円盤獣・ガルガル",
+            "title_romanji": null,
+            "aired": "1976-01-11T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 16,
+            "url": null,
+            "title": "Here, A Bell Resonates With Love / Saucer Beast Furufuru",
+            "title_japanese": "こころにひびく愛の鐘 / 円盤獣・フルフル",
+            "title_romanji": null,
+            "aired": "1976-01-18T00:00:00+00:00",
+            "score": 3.5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1923611"
+        },
+        {
+            "mal_id": 17,
+            "url": null,
+            "title": "Save A Tiny Life! / Saucer Beast Gibagiba",
+            "title_japanese": "小さな生命を救え! / 円盤獣・ギバギバ",
+            "title_romanji": null,
+            "aired": "1976-01-25T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 18,
+            "url": null,
+            "title": "Launch! Secret Route 7 / Saucer Beast Gadegade",
+            "title_japanese": "発進! 秘密ルート7 / 円盤獣・ガデガデ",
+            "title_romanji": null,
+            "aired": "1976-02-01T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 19,
+            "url": null,
+            "title": "The Terrifying Aerolight! / Saucer Beast Gozugozu",
+            "title_japanese": "恐怖のエアロライト! / 円盤獣・ゴズゴズ",
+            "title_romanji": null,
+            "aired": "1976-02-08T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 20,
+            "url": null,
+            "title": "The Desperate Snowbound Escape Operation / Saucer Beast Bedobedo",
+            "title_japanese": "決死の雪山脱出作戦 / 円盤獣・ベドベド",
+            "title_romanji": null,
+            "aired": "1976-02-15T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 21,
+            "url": null,
+            "title": "Decisive Battle! The Shining Aurora / Saucer Beast Gedogedo",
+            "title_japanese": "決戦! オーロラの輝き / 円盤獣・ゲドゲド",
+            "title_romanji": null,
+            "aired": "1976-02-22T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 22,
+            "url": null,
+            "title": "The Courage of a Flower / Saucer Beast Girogiro",
+            "title_japanese": "花一輪の勇気 / 円盤獣・ギロギロ",
+            "title_romanji": null,
+            "aired": "1976-02-29T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 23,
+            "url": null,
+            "title": "Hikaru's Screaming Torrent / Saucer Beast Gisugisu",
+            "title_japanese": "激流に叫ぶひかる / 円盤獣・ギスギス",
+            "title_romanji": null,
+            "aired": "1976-03-07T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 24,
+            "url": null,
+            "title": "Watch Out, Duke Fleed! / Saucer Beast Dogudogu",
+            "title_japanese": "危うしデュークフリード! / 円盤獣・ドグドグ",
+            "title_romanji": null,
+            "aired": "1976-03-14T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 25,
+            "url": null,
+            "title": "The Flower of Love Shines In Space / Saucer Beast Daridari",
+            "title_japanese": "大空に輝く愛の花 / 円盤獣・ダリダリ",
+            "title_romanji": null,
+            "aired": "1976-03-21T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 26,
+            "url": null,
+            "title": "Skullmoon: Full Mobilization! / Saucer Beasts Uruuru, Gidogido & Hadohado",
+            "title_japanese": "スカルムーン総出撃! / 円盤獣・ウルウル, ギドギド & ハドハド",
+            "title_romanji": null,
+            "aired": "1976-03-28T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 27,
+            "url": null,
+            "title": "Onslaught! Grendizer / Saucer Beasts Uruuru & Hadohado",
+            "title_japanese": "猛攻撃! グレンダイザー / 円盤獣・ウルウル & ハドハド",
+            "title_romanji": null,
+            "aired": "1976-04-04T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 28,
+            "url": null,
+            "title": "The Devil's Bell Tolls At Midnight / Saucer Beast Beruberu",
+            "title_japanese": "闇夜に響く悪魔のベル / 円盤獣・ベルベル",
+            "title_romanji": null,
+            "aired": "1976-04-11T00:00:00+00:00",
+            "score": 3.71,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=414691"
+        },
+        {
+            "mal_id": 29,
+            "url": null,
+            "title": "Farewell, My Friend In Space! / Saucer Beast Deradera",
+            "title_japanese": "さらば 宇宙の友よ円盤獣・デラデラ",
+            "title_romanji": null,
+            "aired": "1976-04-18T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 30,
+            "url": null,
+            "title": "The Ballad Of A Red Scar / Saucer Beast Godagoda",
+            "title_japanese": "赤い傷跡のバラード / 円盤獣・ゴダゴダ",
+            "title_romanji": null,
+            "aired": "1976-04-25T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 31,
+            "url": null,
+            "title": "A Flower Blooms In The Sky! Boss' Friendship / Saucer Beast Rairai",
+            "title_japanese": "空に花咲け! ボスの友情 / 円盤獣・ライライ",
+            "title_romanji": null,
+            "aired": "1976-05-02T00:00:00+00:00",
+            "score": 4.5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1494893"
+        },
+        {
+            "mal_id": 32,
+            "url": null,
+            "title": "Shoot At Your Mother! / Saucer Beast Zauzau",
+            "title_japanese": "母に向って撃て! / 円盤獣・ザウザウ",
+            "title_romanji": null,
+            "aired": "1976-05-09T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 33,
+            "url": null,
+            "title": "Sure Kill! The Mutant's End / Saucer Beast Zarizari",
+            "title_japanese": "必殺! ミュータントの最後 / 円盤獣・ザリザリ",
+            "title_romanji": null,
+            "aired": "1976-05-16T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 34,
+            "url": null,
+            "title": "The Wolf's Tears Are Falling Stars / Saucer Beasts Gomegome & Gongon",
+            "title_japanese": "狼の涙は流れ星 / 円盤獣・ゴメゴメ & ゴンゴン",
+            "title_romanji": null,
+            "aired": "1976-05-23T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 35,
+            "url": null,
+            "title": "Fly! Double Spazer / Saucer Beast Bunbun",
+            "title_japanese": "飛べ! ダブルスペイザー / 円盤獣・ブンブン",
+            "title_romanji": null,
+            "aired": "1976-05-30T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 36,
+            "url": null,
+            "title": "An Oath To The Blazing Skies! / Saucer Beast Jirajira",
+            "title_japanese": "燃える大空の誓い! / 円盤獣・ジラジラ",
+            "title_romanji": null,
+            "aired": "1976-06-06T00:00:00+00:00",
+            "score": 4.8,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1495431"
+        },
+        {
+            "mal_id": 37,
+            "url": null,
+            "title": "Bet Everything On The Wings Of Life! / Saucer Beast Gangan",
+            "title_japanese": "翼にいのちをかけろ! / 円盤獣・ガンガン",
+            "title_romanji": null,
+            "aired": "1976-06-13T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1547233"
+        },
+        {
+            "mal_id": 38,
+            "url": null,
+            "title": "Hikaru, The Engagement of Tears / Saucer Beast Doidoi",
+            "title_japanese": "ひかる、涙のドッキング! / 円盤獣・ドイドイ",
+            "title_romanji": null,
+            "aired": "1976-06-20T00:00:00+00:00",
+            "score": 4.5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1924138"
+        },
+        {
+            "mal_id": 39,
+            "url": null,
+            "title": "Surprise Attack! The Assault Troops of Planet Vega / Saucer Beast Ullaulla",
+            "title_japanese": "奇襲! ベガ星突撃隊 / 円盤獣・ウラウラ",
+            "title_romanji": null,
+            "aired": "1976-06-27T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1547319"
+        },
+        {
+            "mal_id": 40,
+            "url": null,
+            "title": "An Intense Crash! The Sea is Blazing / Saucer Beast Boiboi",
+            "title_japanese": "激突!炎の海原 / 円盤獣・ブイブイ",
+            "title_romanji": "Gekitotsu! En no Unabara ",
+            "aired": "1976-07-04T00:00:00+00:00",
+            "score": 4.33,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1547331"
+        },
+        {
+            "mal_id": 41,
+            "url": null,
+            "title": "Marine Spazer, Intervene! / Saucer Beast Gamogamo",
+            "title_japanese": "マリンスペイザー出動せよ! / 円盤獣・ガモガモ",
+            "title_romanji": null,
+            "aired": "1976-07-11T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1547337"
+        },
+        {
+            "mal_id": 42,
+            "url": null,
+            "title": "Crisis! The Research Institute To The Rescue! / Saucer Beast Gaugau",
+            "title_japanese": "危機! 研究所よ立ち上がれ / 円盤獣・ガウガウ",
+            "title_romanji": null,
+            "aired": "1976-07-18T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1547341"
+        },
+        {
+            "mal_id": 43,
+            "url": null,
+            "title": "Meteorite Falls! Mysterious Islands / Saucer Beast Gumegume",
+            "title_japanese": "隕石落下!謎の孤島 / 円盤獣・グメグメ",
+            "title_romanji": "Senseki Rakka! Nazo no Kotou ",
+            "aired": "1976-07-25T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1547351"
+        },
+        {
+            "mal_id": 44,
+            "url": null,
+            "title": "Festival Night! Here Comes The Disc-Robot / Saucer Beast",
+            "title_japanese": "祭りの夜円盤獣が来る! / 円盤獣・ドズドズ",
+            "title_romanji": null,
+            "aired": "1976-08-01T00:00:00+00:00",
+            "score": 3.5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1547367"
+        },
+        {
+            "mal_id": 45,
+            "url": null,
+            "title": "Fire Up! The Drill Spazer / Vega Star Ants",
+            "title_japanese": "燃えろ! ドリルスペイザー / 円盤獣・ゴドゴド",
+            "title_romanji": null,
+            "aired": "1976-08-08T00:00:00+00:00",
+            "score": 3,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2011232"
+        },
+        {
+            "mal_id": 46,
+            "url": null,
+            "title": "The Sharks Falling From The Sky!! / Saucer Beast Garigari",
+            "title_japanese": "空からサメが降って来た!! / 円盤獣・ガリガリ",
+            "title_romanji": null,
+            "aired": "1976-08-15T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 47,
+            "url": null,
+            "title": "The Lake Erupts The Hell-Fire! / Saucer Beast Gadogado",
+            "title_japanese": "湖が地獄の火を吐いた! / 円盤獣・ガドガド",
+            "title_romanji": null,
+            "aired": "1976-08-22T00:00:00+00:00",
+            "score": 5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1924376"
+        },
+        {
+            "mal_id": 48,
+            "url": null,
+            "title": "The Demon In The Earth's Depths / Saucer Beast Dakudaku",
+            "title_japanese": "地の底に悪魔がいた! / 円盤獣・ダクダク",
+            "title_romanji": null,
+            "aired": "1976-08-29T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 49,
+            "url": null,
+            "title": "I Saw My Big Brother In The Crimson Sunset! / Saucer Beast Dekideki",
+            "title_japanese": "赤い夕陽に兄を見た! / 円盤獣・デキデキ",
+            "title_romanji": null,
+            "aired": "1976-09-05T00:00:00+00:00",
+            "score": 4.5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1547552"
+        },
+        {
+            "mal_id": 50,
+            "url": null,
+            "title": "Murder!! Eliminate Koji Kabuto! / Saucer Beast Fubifubi",
+            "title_japanese": "暗殺!! 兜甲児を消せ / 円盤獣・フビフビ",
+            "title_romanji": null,
+            "aired": "1976-09-12T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1924426"
+        },
+        {
+            "mal_id": 51,
+            "url": null,
+            "title": "It's Coming!! The Demon's Star / Saucer Beast Garegare",
+            "title_japanese": "大接近!! 悪魔の星 / 円盤獣・ガレガレ",
+            "title_romanji": null,
+            "aired": "1976-09-19T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 52,
+            "url": null,
+            "title": "The Massive Shift of The Vegan Army! / Saucer Beast Domodomo",
+            "title_japanese": "ベガ大王軍団大移動! / 円盤獣・ドモドモ",
+            "title_romanji": null,
+            "aired": "1976-09-26T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 53,
+            "url": null,
+            "title": "The Desperate Fight! Defeat King Gori (Vega Monster King Gori)",
+            "title_japanese": "ベガ獣・キングゴリ)",
+            "title_romanji": "(死闘! キングゴリを倒せ ",
+            "aired": "1976-10-03T00:00:00+00:00",
+            "score": 5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2011274"
+        },
+        {
+            "mal_id": 54,
+            "url": null,
+            "title": "Mysterious Terror! The Ocean Trench of Japan (Vega Monster Banibani)",
+            "title_japanese": "ベガ獣・バニバニ)",
+            "title_romanji": "(謎の恐怖! 日本海溝 ",
+            "aired": "1976-10-10T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 55,
+            "url": null,
+            "title": "Assault! The Mysterious Sinister Spheres (Vega Monster Guregure)",
+            "title_japanese": "ベガ獣・グレグレ)",
+            "title_romanji": "(恐怖! 悪魔の怪気球 ",
+            "aired": "1976-10-17T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 56,
+            "url": null,
+            "title": "The Warning of the Fake Scientist (Vega Monster Daidai)",
+            "title_japanese": "ベガ獣・ダイダイ)",
+            "title_romanji": "(危機を呼ぶ偽博士! ",
+            "aired": "1976-10-24T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 57,
+            "url": null,
+            "title": "Roar! My Monster (Vega Monster Budobudo)",
+            "title_japanese": "ベガ獣・ブドブド)",
+            "title_romanji": "(吼えろ! ぼくの怪獣 ",
+            "aired": "1976-10-31T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 58,
+            "url": null,
+            "title": "Grendizer, The Demon! (Vega Monster Benibeni)",
+            "title_japanese": "ベガ獣・ベニベニ)",
+            "title_romanji": "(悪魔にされたグレンダイザー! ",
+            "aired": "1976-11-07T00:00:00+00:00",
+            "score": 3,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1924587"
+        },
+        {
+            "mal_id": 59,
+            "url": null,
+            "title": "Ha! The Boy Commands (Vega Monster Dakidaki)",
+            "title_japanese": "ベガ獣・ダキダキ)",
+            "title_romanji": "(ああ! 少年コマンド隊 ",
+            "aired": "1976-11-14T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 60,
+            "url": null,
+            "title": "Tokyo Tower, 7PM: Explosion! (Vega Monster Zunezune)",
+            "title_japanese": "ベガ獣・ズネズネ)",
+            "title_romanji": "(午後七時東京タワー爆発!! ",
+            "aired": "1976-11-21T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 61,
+            "url": null,
+            "title": "The Great Spy Strategy! (Vega Monster Guwaguwa)",
+            "title_japanese": "ベガ獣・グワグワ)",
+            "title_romanji": "(特攻スパイ大作戦! ",
+            "aired": "1976-11-28T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 62,
+            "url": null,
+            "title": "Tremble! The Day of Cygnus has come (Vega Monster Goegoe)",
+            "title_japanese": "戦慄! 白鳥が来た日",
+            "title_romanji": null,
+            "aired": "1976-12-05T00:00:00+00:00",
+            "score": 3.67,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1924606"
+        },
+        {
+            "mal_id": 63,
+            "url": null,
+            "title": "Kirika, the young girl that disappeared in the snow (Vega Monster Zumezume)",
+            "title_japanese": "ベガ獣・ズメズメ)",
+            "title_romanji": "(雪に消えた少女キリカ ",
+            "aired": "1976-12-12T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 64,
+            "url": null,
+            "title": "Five minutes before Tokyo's total destruction! (Vega Monster Gudogudo)",
+            "title_japanese": "ベガ獣・グドグド)",
+            "title_romanji": "(東京全滅五分前! ",
+            "aired": "1976-12-19T00:00:00+00:00",
+            "score": 3,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1924629"
+        },
+        {
+            "mal_id": 65,
+            "url": null,
+            "title": "Koji Kabuto's Single Match (Vega Monster Zasuzasu)",
+            "title_japanese": "ベガ獣・ザスザス)",
+            "title_romanji": "(兜甲児一本勝負! ",
+            "aired": "1976-12-26T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 66,
+            "url": null,
+            "title": "(Undersea Base of Death - 400 M! (Vega Monster Waguwagu)",
+            "title_japanese": "ベガ獣・ワグワグ)",
+            "title_romanji": "(死の海底400M（メートル）! ",
+            "aired": "1977-01-02T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 67,
+            "url": null,
+            "title": "Suicidal Explosion of the Undersea Base (Vega Monster Ebeebe)",
+            "title_japanese": "ベガ獣・イブイブ)",
+            "title_romanji": "(決死の海底基地爆破 ",
+            "aired": "1977-01-09T00:00:00+00:00",
+            "score": 3.5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1924645"
+        },
+        {
+            "mal_id": 68,
+            "url": null,
+            "title": "Maria in the Blizzard (Vega Monster Buebue)",
+            "title_japanese": "ベガ獣・ブエブエ)",
+            "title_romanji": "(吹雪の中のマリア ",
+            "aired": "1977-01-16T00:00:00+00:00",
+            "score": 5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2011802"
+        },
+        {
+            "mal_id": 69,
+            "url": null,
+            "title": "Father Offers an Aurora of Love (Vega Monster Gaigai)",
+            "title_japanese": "ベガ獣・ガイガイ)",
+            "title_romanji": "(父に捧げる愛のオーロラ ",
+            "aired": "1977-01-23T00:00:00+00:00",
+            "score": 4.25,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1548189"
+        },
+        {
+            "mal_id": 70,
+            "url": null,
+            "title": "Tears from the deep of the heart (Vega Monster Gabigabi)",
+            "title_japanese": "ベガ獣・ガビガビ)",
+            "title_romanji": "(涙は胸の奥深く ",
+            "aired": "1977-01-30T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 71,
+            "url": null,
+            "title": "Tragedy of Elite Bodyguard Mors (Vega Monster Jigajiga)",
+            "title_japanese": "ベガ獣・ジガジガ)",
+            "title_romanji": "(悲劇の親衛隊長モルス ",
+            "aired": "1977-02-06T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 72,
+            "url": null,
+            "title": "Our so-distant home star",
+            "title_japanese": "はるかなる故郷の星",
+            "title_romanji": null,
+            "aired": "1977-02-13T00:00:00+00:00",
+            "score": 4.67,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2011833"
+        },
+        {
+            "mal_id": 73,
+            "url": null,
+            "title": "In the name of the beautiful Earth (Vega Monster Gragra)",
+            "title_japanese": "ベガ獣・グラグラ)",
+            "title_romanji": "(この美しい地球のために ",
+            "aired": "1977-02-20T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 74,
+            "url": null,
+            "title": "Shine forever! The two stars (Vega Monster Gragra)",
+            "title_japanese": "ベガ獣・グラグラ)",
+            "title_romanji": "(永遠に輝け! 二つの星 ",
+            "aired": "1977-02-27T00:00:00+00:00",
+            "score": 5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1548223"
+        }
+    ]
+}

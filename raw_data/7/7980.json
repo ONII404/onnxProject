@@ -1,0 +1,182 @@
+{
+    "id": 7980,
+    "fetched_at": "Sun Dec 14 09:14:04 2025",
+    "metadata": {
+        "mal_id": 7980,
+        "url": "https://myanimelist.net/anime/7980/Shin_Obake_no_Q-tarou",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/3/19488.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/3/19488t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/3/19488l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/3/19488.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/3/19488t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/3/19488l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Shin Obake no Q-tarou"
+            },
+            {
+                "type": "Synonym",
+                "title": "Shin Obake no Q-taro"
+            },
+            {
+                "type": "Synonym",
+                "title": "Obake no Q-taro (1971)"
+            },
+            {
+                "type": "Japanese",
+                "title": "新オバケのＱ太郎"
+            }
+        ],
+        "title": "Shin Obake no Q-tarou",
+        "title_english": null,
+        "title_japanese": "新オバケのＱ太郎",
+        "title_synonyms": [
+            "Shin Obake no Q-taro",
+            "Obake no Q-taro (1971)"
+        ],
+        "type": "TV",
+        "source": "Unknown",
+        "episodes": 70,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "1971-09-01T00:00:00+00:00",
+            "to": "1972-12-27T00:00:00+00:00",
+            "prop": {
+                "from": {
+                    "day": 1,
+                    "month": 9,
+                    "year": 1971
+                },
+                "to": {
+                    "day": 27,
+                    "month": 12,
+                    "year": 1972
+                }
+            },
+            "string": "Sep 1, 1971 to Dec 27, 1972"
+        },
+        "duration": "25 min per ep",
+        "rating": "G - All Ages",
+        "score": 5.86,
+        "scored_by": 376,
+        "rank": 11042,
+        "popularity": 15149,
+        "members": 942,
+        "favorites": 1,
+        "synopsis": "New misadventures of the dimwitted ghost Q-Tarou. \n\n(Source: AniDB)",
+        "background": "",
+        "season": "fall",
+        "year": 1971,
+        "broadcast": {
+            "day": "Wednesdays",
+            "time": "19:30",
+            "timezone": "Asia/Tokyo",
+            "string": "Wednesdays at 19:30 (JST)"
+        },
+        "producers": [],
+        "licensors": [],
+        "studios": [],
+        "genres": [
+            {
+                "mal_id": 4,
+                "type": "anime",
+                "name": "Comedy",
+                "url": "https://myanimelist.net/anime/genre/4/Comedy"
+            },
+            {
+                "mal_id": 37,
+                "type": "anime",
+                "name": "Supernatural",
+                "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [
+            {
+                "mal_id": 23,
+                "type": "anime",
+                "name": "School",
+                "url": "https://myanimelist.net/anime/genre/23/School"
+            }
+        ],
+        "demographics": [],
+        "relations": [
+            {
+                "relation": "Prequel",
+                "entry": [
+                    {
+                        "mal_id": 1547,
+                        "type": "anime",
+                        "name": "Obake no Q-tarou",
+                        "url": "https://myanimelist.net/anime/1547/Obake_no_Q-tarou"
+                    }
+                ]
+            },
+            {
+                "relation": "Sequel",
+                "entry": [
+                    {
+                        "mal_id": 7981,
+                        "type": "anime",
+                        "name": "Obake no Q-tarou (1985)",
+                        "url": "https://myanimelist.net/anime/7981/Obake_no_Q-tarou_1985"
+                    }
+                ]
+            },
+            {
+                "relation": "Adaptation",
+                "entry": [
+                    {
+                        "mal_id": 25187,
+                        "type": "manga",
+                        "name": "Obake no Q-tarou",
+                        "url": "https://myanimelist.net/manga/25187/Obake_no_Q-tarou"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [
+                "\"Obake no Q-tarou (オバケのQ太郎)\" by Junko Hori, New Royal (ニューロイヤル)"
+            ],
+            "endings": []
+        },
+        "external": [
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=2585"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=1731"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "http://en.wikipedia.org/wiki/Obake_no_Q-tarō"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": []
+}

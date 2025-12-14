@@ -1,0 +1,587 @@
+{
+    "id": 714,
+    "fetched_at": "Sun Dec 14 07:07:57 2025",
+    "metadata": {
+        "mal_id": 714,
+        "url": "https://myanimelist.net/anime/714/High_School_Kimengumi",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1146/106160.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1146/106160t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1146/106160l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1146/106160.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1146/106160t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1146/106160l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "High School! Kimengumi"
+            },
+            {
+                "type": "Synonym",
+                "title": "High School Funny-face Club"
+            },
+            {
+                "type": "Synonym",
+                "title": "Funny Faces in High School"
+            },
+            {
+                "type": "Japanese",
+                "title": "ハイスクール！奇面組"
+            },
+            {
+                "type": "English",
+                "title": "High School! Kimengumi"
+            },
+            {
+                "type": "French",
+                "title": "Le Collège Fou Fou Fou"
+            }
+        ],
+        "title": "High School! Kimengumi",
+        "title_english": "High School! Kimengumi",
+        "title_japanese": "ハイスクール！奇面組",
+        "title_synonyms": [
+            "High School Funny-face Club",
+            "Funny Faces in High School"
+        ],
+        "type": "TV",
+        "source": "Manga",
+        "episodes": 86,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "1985-10-20T00:00:00+00:00",
+            "to": "1987-10-03T00:00:00+00:00",
+            "prop": {
+                "from": {
+                    "day": 20,
+                    "month": 10,
+                    "year": 1985
+                },
+                "to": {
+                    "day": 3,
+                    "month": 10,
+                    "year": 1987
+                }
+            },
+            "string": "Oct 20, 1985 to Oct 3, 1987"
+        },
+        "duration": "25 min per ep",
+        "rating": "PG-13 - Teens 13 or older",
+        "score": 7.31,
+        "scored_by": 1837,
+        "rank": 2893,
+        "popularity": 9044,
+        "members": 5429,
+        "favorites": 28,
+        "synopsis": "A group of 5 male high school students that call themselves the funny-face group cause trouble at school with their crazy antics. \n\n(Source: AniDB)",
+        "background": "",
+        "season": "fall",
+        "year": 1985,
+        "broadcast": {
+            "day": null,
+            "time": null,
+            "timezone": null,
+            "string": "Unknown"
+        },
+        "producers": [
+            {
+                "mal_id": 390,
+                "type": "anime",
+                "name": "Tsuchida Productions",
+                "url": "https://myanimelist.net/anime/producer/390/Tsuchida_Productions"
+            },
+            {
+                "mal_id": 2981,
+                "type": "anime",
+                "name": "Omnibus Promotion",
+                "url": "https://myanimelist.net/anime/producer/2981/Omnibus_Promotion"
+            }
+        ],
+        "licensors": [],
+        "studios": [
+            {
+                "mal_id": 36,
+                "type": "anime",
+                "name": "Gallop",
+                "url": "https://myanimelist.net/anime/producer/36/Gallop"
+            },
+            {
+                "mal_id": 126,
+                "type": "anime",
+                "name": "Studio Comet",
+                "url": "https://myanimelist.net/anime/producer/126/Studio_Comet"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 4,
+                "type": "anime",
+                "name": "Comedy",
+                "url": "https://myanimelist.net/anime/genre/4/Comedy"
+            },
+            {
+                "mal_id": 22,
+                "type": "anime",
+                "name": "Romance",
+                "url": "https://myanimelist.net/anime/genre/22/Romance"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [
+            {
+                "mal_id": 57,
+                "type": "anime",
+                "name": "Gag Humor",
+                "url": "https://myanimelist.net/anime/genre/57/Gag_Humor"
+            },
+            {
+                "mal_id": 20,
+                "type": "anime",
+                "name": "Parody",
+                "url": "https://myanimelist.net/anime/genre/20/Parody"
+            },
+            {
+                "mal_id": 23,
+                "type": "anime",
+                "name": "School",
+                "url": "https://myanimelist.net/anime/genre/23/School"
+            }
+        ],
+        "demographics": [
+            {
+                "mal_id": 27,
+                "type": "anime",
+                "name": "Shounen",
+                "url": "https://myanimelist.net/anime/genre/27/Shounen"
+            }
+        ],
+        "relations": [
+            {
+                "relation": "Adaptation",
+                "entry": [
+                    {
+                        "mal_id": 7634,
+                        "type": "manga",
+                        "name": "High School! Kimengumi",
+                        "url": "https://myanimelist.net/manga/7634/High_School_Kimengumi"
+                    }
+                ]
+            },
+            {
+                "relation": "Side Story",
+                "entry": [
+                    {
+                        "mal_id": 5956,
+                        "type": "anime",
+                        "name": "High School! Kimengumi (Movie)",
+                        "url": "https://myanimelist.net/anime/5956/High_School_Kimengumi_Movie"
+                    }
+                ]
+            },
+            {
+                "relation": "Alternative Version",
+                "entry": [
+                    {
+                        "mal_id": 62804,
+                        "type": "anime",
+                        "name": "High School! Kimengumi (2026)",
+                        "url": "https://myanimelist.net/anime/62804/High_School_Kimengumi_2026"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [
+                "1: \"Ushiroyubi Sasaregumi\" by Ushiroyubi Sasaregumi (eps 1-23)",
+                "2: \"Zou-san no Scanty\" by Ushiroyubi Sasaregumi (eps 24-36)",
+                "3: \"Nagisa no 『・・・・・』 (Kagikakko)\" by Ushiroyubi Sasaregumi (eps 37-49)",
+                "4: \"Waza Ari!\" by Ushiroyubi Sasaregumi (eps 50-59)",
+                "5: \"Kashiko\" by Ushiroyubi Sasaregumi (eps 60-65)",
+                "6: \"Toki no Kawa wo Koete\" by Ushirogami Hikaretai (eps 66-8)",
+                "7: \"Anata wo Shiritai\" by Ushirogami Hikaretai (eps 79-86)"
+            ],
+            "endings": [
+                "1: \"Jogakusei no Ketsui\" by Ushiroyubi Sasaregumi (eps 1-8)",
+                "2: \"Banana no Namida\" by Ushiroyubi Sasaregumi (eps 9-23)",
+                "3: \"Nekojita Kokoro mo Koi no Uchi\" by Ushiroyubi Sasaregumi (eps 24-36)",
+                "4: \"Not Only ★ But Also\" by Ushiroyubi Sasaregumi (eps 37-49)",
+                "5: \"Chotto Karai Aitsu\" by Musukko Club (eps 50-59)",
+                "6: \"Pythagoras wo Buttobase\" by Ushiroyubi Sasaregumi (eps 60-65)",
+                "7: \"Ushirogami Hikaretai\" by Ushirogami Hikaretai (eps 66-78)",
+                "8: \"Tatsutori Ato wo Nigosazu\" by Ushirogami Hikaretai (eps 79-86)"
+            ]
+        },
+        "external": [
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=1356"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=1414"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "http://en.wikipedia.org/wiki/High_School!_Kimengumi"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": [
+        {
+            "mal_id": 1,
+            "url": null,
+            "title": "I Love Strange Faces. Come Forth! Kimen Flash!",
+            "title_japanese": "へんな顔だーいスキ でた! 奇面フラッシュ",
+            "title_romanji": "Hen na Kao Daisuki Deta! Kimen Flash ",
+            "aired": "1985-10-12T00:00:00+00:00",
+            "score": 4.1,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1756894"
+        },
+        {
+            "mal_id": 2,
+            "url": null,
+            "title": "Top Secret: A Test of Ikari's Sense of Justice",
+            "title_japanese": "まるひ)いかりの正義感テスト",
+            "title_romanji": "Maruhi Ikari no Seigikan Test (秘",
+            "aired": "1985-10-19T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 3,
+            "url": null,
+            "title": "Aim for Koushien!? Supermen Abnormal Baseball",
+            "title_japanese": "めざせ甲子園!? 超人変態ベースボール",
+            "title_romanji": "Mezase Koshien!? Choujin Hentai Baseball ",
+            "aired": "1985-10-26T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 4,
+            "url": null,
+            "title": "The Trial Before Winter Vacation / Making a Mid-winter Sick Visit",
+            "title_japanese": "冬休み前の試練 / 寒中お見舞い申しあげます",
+            "title_romanji": "Fuyuyasumi Mae no Shiren / Kanchuu Omimai Moushiagemasu ",
+            "aired": "1985-11-02T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 5,
+            "url": null,
+            "title": "A Beeline to Highschool! And Sorry for Dropping Out",
+            "title_japanese": "高校一直線! もう落第はごめんだ",
+            "title_romanji": "Koukou Icchokusen! Mou Rakudai wa Gomen da ",
+            "aired": "1985-11-09T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 6,
+            "url": null,
+            "title": "SPARKLE Flash!! It's the First Year for Both Students and Teacher / Afternoon of the Rebellious Girls",
+            "title_japanese": "ピッカピカ!! 生徒も教師も一年生 / あまのじゃくな女の午後",
+            "title_romanji": "Pikka-pika!! Seito mo Kyoushi mo Ichinensei / Amanojaku na Onna no Gogo ",
+            "aired": "1985-12-12T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 7,
+            "url": null,
+            "title": "Ah!! Intramural Basketball Tournament",
+            "title_japanese": "ああ!! 低レベル校内バスケット大会",
+            "title_romanji": "Aa!! Tei-level Kounai Basket Taikai ",
+            "aired": "1985-12-14T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 8,
+            "url": null,
+            "title": "The Terrifying Bicycle Chicken Race / Prank Phone Calls You Must Not Imitate",
+            "title_japanese": "恐怖の自転車チキンレース / マネしちゃいけないイタズラ電話",
+            "title_romanji": "Kyoufu no Jitensha Chicken Race / Maneshicha Ikenai Itazura Denwa ",
+            "aired": "1985-12-21T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 9,
+            "url": null,
+            "title": "Embarassing New Year's Resolutions! New Year's Karuta Tournament / Nice to Meet You! Lassie the Strange Dog",
+            "title_japanese": "ハジのかき初め! 新春カルタ大会 / よろしく! 迷犬ラッシー!?",
+            "title_romanji": "Haji no Kakizome! Shinshun Karuta Taikai / Yoroshiku! Meiken Lassie!? ",
+            "aired": "1986-01-04T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 10,
+            "url": null,
+            "title": "Howl at the Full Moon! Wolfboy Joe!!",
+            "title_japanese": "満月に吠えろ! オオカミ少年のジョー!!",
+            "title_romanji": "Mangetsu ni Hoero! Ookami Shounen no Joe!! ",
+            "aired": "1986-01-11T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 11,
+            "url": null,
+            "title": "The Kindness Gag Effect / My Body's Frozen! The Decisive Battle on the Snow",
+            "title_japanese": "親切心のギャグ効果 / 身も凍る! 雪上大決戦",
+            "title_romanji": "Shinsetsushin no Gag Kouka / Mi mo Kouru! Setsujou Daikessen ",
+            "aired": "1986-01-18T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 12,
+            "url": null,
+            "title": "The Century's Proven Intramural Marathon Victory Methods!!",
+            "title_japanese": "世紀の校内マラソン必勝法!!",
+            "title_romanji": "Seiki no Kounai Marathon Hisshouhou!! ",
+            "aired": "1986-01-25T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 13,
+            "url": null,
+            "title": "Familiar with Love Comedies? Yui-chan's Lover Application Period / The Whole Gang Appointed to Assist at the Bath House!",
+            "title_japanese": "ラブコメしてますか? 唯ちゃん恋人募集中 / 全員銭湯配置につけ!",
+            "title_romanji": "Love Come Shitemasuka? Yui-chan Koibito Bushuuchuu / Zen'in Sentou Haichi ni Tsuke! ",
+            "aired": "1986-02-01T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 14,
+            "url": null,
+            "title": "It's a Man's Perogative!? Bizarro Lassie's Madonna Competition / Like Cutting Valentines",
+            "title_japanese": "男はつらいよ!? 迷犬ラッシーのマドンナ争奪戦!! / かってにバレンタイン",
+            "title_romanji": "Otoko wa Tsurai yo!? Meiken Lassie no Madonna Soudatsusen!! / Katte ni Valentine ",
+            "aired": "1986-02-08T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 15,
+            "url": null,
+            "title": "The Tale of Smitten Chie-chan's Early Spring Love / Rival! Harumage Don Approaches",
+            "title_japanese": "ときめき千絵ちゃん早春恋愛記 / ライバル! 春曲鈍接近",
+            "title_romanji": "Tokimeki Chie-chan Soushun Ren'aiki / Rival! Harukyoku Don Sekkin ",
+            "aired": "1986-02-15T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 16,
+            "url": null,
+            "title": "Deranged Soccer!?",
+            "title_japanese": "変態サッカー!? 逆転秘技シャトルループ",
+            "title_romanji": "Hentai Soccer!? Gyakuten Higi Shuttle Loop ",
+            "aired": "1986-02-22T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 17,
+            "url": null,
+            "title": "Spring is the Best!? The Naive, Hot-blooded Teacher Arrives!!",
+            "title_japanese": "春一番!? 純情・熱血先生がやって来た!!",
+            "title_romanji": "Haruichiban!? Junjou Nekketsu Sensei ga Yattekita!! ",
+            "aired": "1986-03-01T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 18,
+            "url": null,
+            "title": "The Troublemaking Transfer Student / The Epic Funny-face Club Spy Battle",
+            "title_japanese": "人さわがせな転入生 / 奇面組スパイ大作戦",
+            "title_romanji": "Hitosawagase na Tennyuusei / Kimengumi Spy Daisakusen ",
+            "aired": "1986-03-08T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 19,
+            "url": null,
+            "title": "Farewell, Gou-kun / Springtime Totally Strange Examination",
+            "title_japanese": "さらば豪くん / 春の定期ヘンタイ度検査",
+            "title_romanji": "Saraba Gou-kun / Haru no Teiki Hentaido Kensa ",
+            "aired": "1986-03-15T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 20,
+            "url": null,
+            "title": "The Omiai Destruction Strategy / Don-chan's Spring Vacation Family Don-chan Outcry",
+            "title_japanese": "ち)ドンチャンさわぎ!",
+            "title_romanji": "Omiai Gekimetsu Sakusen / Haruyasumi Don-chan Chi Donchansawagi! (お見合いゲキメツ作戦 / 春休み鈍ちゃん家",
+            "aired": "1986-03-22T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 21,
+            "url": null,
+            "title": "Odd Dog Lassie's Lifesaving / Rei-kun Is an Annoying Bug!",
+            "title_japanese": "迷犬ラッシー人命救助 / 零クンはおじゃま虫!?",
+            "title_romanji": "Meiken Lassie Jinmei Kyuujo / Rei-kun wa Ojamamushi!? ",
+            "aired": "1986-03-29T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 22,
+            "url": null,
+            "title": "The Tale of Loyal Dog Lassie / Dai Monohoshi: A Spring Transvestite?",
+            "title_japanese": "忠犬ラッシー物語 / 物星大・春なのにオカマですか?",
+            "title_romanji": "Chuuken Lassie Monogatari / Monohoshi Dai: Haru na no ni Okama desu ka? ",
+            "aired": "1986-04-12T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 23,
+            "url": null,
+            "title": "Let's Go! Seat-taking Battle Riding the Commuter Train Today, Too / Odd Dog Lassie's Exciting First Year Student",
+            "title_japanese": "レッツ豪! 席取り合戦通学電車は今日も行く / 迷犬ラッシーのドキドキ一年生",
+            "title_romanji": "Let's Gou! Sekitorigassen Tsuugaku Densha wa Kyou mo Iku / Meiken Lassie no Dokidoki Ichinensei ",
+            "aired": "1986-04-19T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 24,
+            "url": null,
+            "title": "Jin Daima's Hurrah for Tasty Little Things / The Library Is in Utter Confusion",
+            "title_japanese": "大間仁おいしんぼ万才 / 図書室はてんやわんや",
+            "title_romanji": "Ouma Hitoshi Oishinbo Mansai / Toshishitsu wa Tenyawanya ",
+            "aired": "1986-05-03T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 25,
+            "url": null,
+            "title": "Yui-chan, Beloved Transfer Student / Kiyoshi Shusse, the Pervert of Justice",
+            "title_japanese": "唯ちゃん恋しや転校生 / 正義のスケベ出瀬潔",
+            "title_romanji": "Yui-chan Koishi ya Tenkousei / Seigi no Sukebe Shusse Kiyoshi ",
+            "aired": "1986-05-10T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 26,
+            "url": null,
+            "title": "June Bride: Ikari-sensei's Happy Wedding Ceremony",
+            "title_japanese": "6月の花嫁 伊狩せんせのハッピー結婚式",
+            "title_romanji": "Rokugatsu no Hanayome Ikari-sense no Happy Kekkonshiki ",
+            "aired": "1986-05-17T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 27,
+            "url": null,
+            "title": "Kiri-chan Is an Honors Student /Jidai-sensei, Legendary Hothead",
+            "title_japanese": "霧ちゃんは優等生 / 事代せんせ熱血伝",
+            "title_romanji": "Kiri-chan wa Yuutousei / Kotoshiro-sense Nekkatsuden ",
+            "aired": "1986-05-24T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 28,
+            "url": null,
+            "title": "I Really Hate Cake! / The Terrible Appendicitis",
+            "title_japanese": "ケーキなんか大キライだ / 悲惨な盲腸炎",
+            "title_romanji": "Cake Nanka Daikirai Da / Hisan na Mouchouen ",
+            "aired": "1986-05-31T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        }
+    ]
+}

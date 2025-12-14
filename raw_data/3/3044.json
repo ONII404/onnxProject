@@ -1,0 +1,884 @@
+{
+    "id": 3044,
+    "fetched_at": "Sun Dec 14 08:17:51 2025",
+    "metadata": {
+        "mal_id": 3044,
+        "url": "https://myanimelist.net/anime/3044/Tetsuwan_Atom_1980",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1967/129099.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1967/129099t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1967/129099l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1967/129099.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1967/129099t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1967/129099l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": "https://www.youtube-nocookie.com/embed/0G4_sC0SBps?enablejsapi=1&wmode=opaque&autoplay=1",
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Tetsuwan Atom (1980)"
+            },
+            {
+                "type": "Synonym",
+                "title": "Astro Boy"
+            },
+            {
+                "type": "Synonym",
+                "title": "Astroboy"
+            },
+            {
+                "type": "Japanese",
+                "title": "鉄腕アトム"
+            },
+            {
+                "type": "English",
+                "title": "Astro Boy (1980)"
+            },
+            {
+                "type": "French",
+                "title": "Astro Le Petit Robot"
+            }
+        ],
+        "title": "Tetsuwan Atom (1980)",
+        "title_english": "Astro Boy (1980)",
+        "title_japanese": "鉄腕アトム",
+        "title_synonyms": [
+            "Astro Boy",
+            "Astroboy"
+        ],
+        "type": "TV",
+        "source": "Manga",
+        "episodes": 52,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "1980-10-01T00:00:00+00:00",
+            "to": "1981-12-23T00:00:00+00:00",
+            "prop": {
+                "from": {
+                    "day": 1,
+                    "month": 10,
+                    "year": 1980
+                },
+                "to": {
+                    "day": 23,
+                    "month": 12,
+                    "year": 1981
+                }
+            },
+            "string": "Oct 1, 1980 to Dec 23, 1981"
+        },
+        "duration": "24 min per ep",
+        "rating": "G - All Ages",
+        "score": 7.17,
+        "scored_by": 6984,
+        "rank": 3683,
+        "popularity": 5754,
+        "members": 16672,
+        "favorites": 108,
+        "synopsis": "Set in a future where machines have advanced to the point of autonomy and become a point of major contention in the political and social realms, Astro Boy (1980) chronicles the struggles of a crime-fighting young robot named Atom. Created in the image of his enigmatic inventor's deceased son, Atom survives rough beginnings, getting saved and adopted by the benevolent Dr. Ochanomizu. In his pursuit of justice, Atom finds himself in the midst of numerous clashes with various factions, and is often faced with the harsh realities of the world.\n\n[Written by MAL Rewrite]",
+        "background": "The original Japanese version of the series ran for 52 episodes while the English version ran for a reduced 51 episodes, as the first two episodes were combined into one, resulting in the omission of the entire backstory of the main antagonist. This creates issues when the antagonist appears later in the series, and the anime refers back to the events which were cut. (Source: Astro Boy Wiki and Wikipedia)",
+        "season": "fall",
+        "year": 1980,
+        "broadcast": {
+            "day": "Wednesdays",
+            "time": "19:00",
+            "timezone": "Asia/Tokyo",
+            "string": "Wednesdays at 19:00 (JST)"
+        },
+        "producers": [
+            {
+                "mal_id": 1003,
+                "type": "anime",
+                "name": "Nippon Television Network",
+                "url": "https://myanimelist.net/anime/producer/1003/Nippon_Television_Network"
+            }
+        ],
+        "licensors": [
+            {
+                "mal_id": 467,
+                "type": "anime",
+                "name": "Discotek Media",
+                "url": "https://myanimelist.net/anime/producer/467/Discotek_Media"
+            },
+            {
+                "mal_id": 947,
+                "type": "anime",
+                "name": "Manga Entertainment",
+                "url": "https://myanimelist.net/anime/producer/947/Manga_Entertainment"
+            }
+        ],
+        "studios": [
+            {
+                "mal_id": 200,
+                "type": "anime",
+                "name": "Tezuka Productions",
+                "url": "https://myanimelist.net/anime/producer/200/Tezuka_Productions"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 1,
+                "type": "anime",
+                "name": "Action",
+                "url": "https://myanimelist.net/anime/genre/1/Action"
+            },
+            {
+                "mal_id": 2,
+                "type": "anime",
+                "name": "Adventure",
+                "url": "https://myanimelist.net/anime/genre/2/Adventure"
+            },
+            {
+                "mal_id": 24,
+                "type": "anime",
+                "name": "Sci-Fi",
+                "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [],
+        "demographics": [
+            {
+                "mal_id": 27,
+                "type": "anime",
+                "name": "Shounen",
+                "url": "https://myanimelist.net/anime/genre/27/Shounen"
+            }
+        ],
+        "relations": [
+            {
+                "relation": "Prequel",
+                "entry": [
+                    {
+                        "mal_id": 33371,
+                        "type": "anime",
+                        "name": "Atom: The Beginning",
+                        "url": "https://myanimelist.net/anime/33371/Atom__The_Beginning"
+                    }
+                ]
+            },
+            {
+                "relation": "Adaptation",
+                "entry": [
+                    {
+                        "mal_id": 728,
+                        "type": "manga",
+                        "name": "Tetsuwan Atom",
+                        "url": "https://myanimelist.net/manga/728/Tetsuwan_Atom"
+                    }
+                ]
+            },
+            {
+                "relation": "Side Story",
+                "entry": [
+                    {
+                        "mal_id": 54081,
+                        "type": "anime",
+                        "name": "Uchuu Senchi Kyuugou SOS: Tetsuwan Atom to Kangaeru Minna no Mirai",
+                        "url": "https://myanimelist.net/anime/54081/Uchuu_Senchi_Kyuugou_SOS__Tetsuwan_Atom_to_Kangaeru_Minna_no_Mirai"
+                    }
+                ]
+            },
+            {
+                "relation": "Alternative Version",
+                "entry": [
+                    {
+                        "mal_id": 2747,
+                        "type": "anime",
+                        "name": "Tetsuwan Atom",
+                        "url": "https://myanimelist.net/anime/2747/Tetsuwan_Atom"
+                    },
+                    {
+                        "mal_id": 17965,
+                        "type": "anime",
+                        "name": "Tetsuwan Atom: Ao Kishi no Kan",
+                        "url": "https://myanimelist.net/anime/17965/Tetsuwan_Atom__Ao_Kishi_no_Kan"
+                    },
+                    {
+                        "mal_id": 971,
+                        "type": "anime",
+                        "name": "Astro Boy: Tetsuwan Atom",
+                        "url": "https://myanimelist.net/anime/971/Astro_Boy__Tetsuwan_Atom"
+                    },
+                    {
+                        "mal_id": 17959,
+                        "type": "anime",
+                        "name": "Tetsuwan Atom: Atom Tanjou no Himitsu",
+                        "url": "https://myanimelist.net/anime/17959/Tetsuwan_Atom__Atom_Tanjou_no_Himitsu"
+                    },
+                    {
+                        "mal_id": 40377,
+                        "type": "anime",
+                        "name": "Robot Atom",
+                        "url": "https://myanimelist.net/anime/40377/Robot_Atom"
+                    },
+                    {
+                        "mal_id": 40367,
+                        "type": "anime",
+                        "name": "Go! Go! Atom",
+                        "url": "https://myanimelist.net/anime/40367/Go_Go_Atom"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [
+                "\"Tetsuwan Atom (鉄腕アトム)\" by Atoms (アトムズ)"
+            ],
+            "endings": [
+                "1: \"Mirai ni Mukatte: New Tetsuwan Atom (未来に向かって~ニュー鉄腕アトム~)\" by ANKH (eps 1-13,15-29,31-44,46-52)",
+                "2: \"Uran no Theme (ウランのテーマ)\" by Urans (ウランズ) (eps 14,30,45)"
+            ]
+        },
+        "external": [
+            {
+                "name": "Official Site",
+                "url": "http://en.tezuka.co.jp/anime/sakuhin/ts/ts017.html"
+            },
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=1446"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=388"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "http://en.wikipedia.org/wiki/Astro_Boy_(1980_TV_series)"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": [
+        {
+            "mal_id": 1,
+            "url": null,
+            "title": "The Birth Of Atom",
+            "title_japanese": "アトム誕生",
+            "title_romanji": "Atom Tanjou ",
+            "aired": "1980-10-01T00:00:00+00:00",
+            "score": 3.94,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1731964"
+        },
+        {
+            "mal_id": 2,
+            "url": null,
+            "title": "Atom vs. Atlas",
+            "title_japanese": "アトム対アトラス",
+            "title_romanji": "Atom tai Atlas ",
+            "aired": "1980-10-08T00:00:00+00:00",
+            "score": 3.23,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1731973"
+        },
+        {
+            "mal_id": 3,
+            "url": null,
+            "title": "The Robot Circus",
+            "title_japanese": "ロボットサーカス",
+            "title_romanji": "Robot Circus ",
+            "aired": "1980-10-15T00:00:00+00:00",
+            "score": 4.36,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1731974"
+        },
+        {
+            "mal_id": 4,
+            "url": null,
+            "title": "Saving our Classmate",
+            "title_japanese": "クラスメートを救え!",
+            "title_romanji": "Classmate wo Sukue! ",
+            "aired": "1980-10-22T00:00:00+00:00",
+            "score": 4.4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2129980"
+        },
+        {
+            "mal_id": 5,
+            "url": null,
+            "title": "Atom vs. Atlas 2: The Resurrection of Atlas",
+            "title_japanese": "アトム対アトラス・2 アトラス復活",
+            "title_romanji": "Atom Tai Atlas 2: Atlas Fukkatsu ",
+            "aired": "1980-10-29T00:00:00+00:00",
+            "score": 4.2,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2094440"
+        },
+        {
+            "mal_id": 6,
+            "url": null,
+            "title": "Robot Island",
+            "title_japanese": "ロボットランド",
+            "title_romanji": "Robot Land ",
+            "aired": "1980-11-05T00:00:00+00:00",
+            "score": 4.17,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2094444"
+        },
+        {
+            "mal_id": 7,
+            "url": null,
+            "title": "Frankenstein",
+            "title_japanese": "フランケンシュタイン",
+            "title_romanji": "Frankenstein ",
+            "aired": "1980-11-12T00:00:00+00:00",
+            "score": 3.6,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2094867"
+        },
+        {
+            "mal_id": 8,
+            "url": null,
+            "title": "Red Cat",
+            "title_japanese": "赤いネコ",
+            "title_romanji": "Akai Neko ",
+            "aired": "1980-11-19T00:00:00+00:00",
+            "score": 3.6,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2094870"
+        },
+        {
+            "mal_id": 9,
+            "url": null,
+            "title": "Atom vs. Atlas 3: Crystal of the Desert",
+            "title_japanese": "アトム対アトラス・3 砂漠のクリスタル",
+            "title_romanji": "Atom Tai Atlas 3: Sabaku no Crystal ",
+            "aired": "1980-11-26T00:00:00+00:00",
+            "score": 3.6,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2095054"
+        },
+        {
+            "mal_id": 10,
+            "url": null,
+            "title": "The Vehicle, White Planet",
+            "title_japanese": "白い惑星号",
+            "title_romanji": "Shiroi Wakusei Gou ",
+            "aired": "1980-12-03T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2095057"
+        },
+        {
+            "mal_id": 11,
+            "url": null,
+            "title": "Rag the Robot President",
+            "title_japanese": "ロボット大統領",
+            "title_romanji": "Robot Daitouryou ",
+            "aired": "1980-12-10T00:00:00+00:00",
+            "score": 3.75,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2095251"
+        },
+        {
+            "mal_id": 12,
+            "url": null,
+            "title": "Damdam's Neck",
+            "title_japanese": "ダムダムの首",
+            "title_romanji": "Damdam no Kubi ",
+            "aired": "1980-12-17T00:00:00+00:00",
+            "score": 3.2,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2095257"
+        },
+        {
+            "mal_id": 13,
+            "url": null,
+            "title": "Denkou the Invisible Robot",
+            "title_japanese": "電光人間",
+            "title_romanji": "Denkou Ningen ",
+            "aired": "1980-12-24T00:00:00+00:00",
+            "score": 3.6,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1800061"
+        },
+        {
+            "mal_id": 14,
+            "url": null,
+            "title": "Tomboy Uran",
+            "title_japanese": "ウランはおてんば娘",
+            "title_romanji": "Uran wa Otenba Musume ",
+            "aired": "1981-01-07T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2095442"
+        },
+        {
+            "mal_id": 15,
+            "url": null,
+            "title": "Robio and Robiet",
+            "title_japanese": "ロビオとロビエット",
+            "title_romanji": "Robio to Robiet ",
+            "aired": "1981-01-14T00:00:00+00:00",
+            "score": 3.5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2095584"
+        },
+        {
+            "mal_id": 16,
+            "url": null,
+            "title": "Astro Fights Aliens",
+            "title_japanese": "火星隊長",
+            "title_romanji": "Kaisei Taichou ",
+            "aired": "1981-01-21T00:00:00+00:00",
+            "score": 3.6,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2095588"
+        },
+        {
+            "mal_id": 17,
+            "url": null,
+            "title": "SOS on the Space Shuttle",
+            "title_japanese": "スペースシャトルSOS",
+            "title_romanji": "Space Shuttle SOS ",
+            "aired": "1981-01-28T00:00:00+00:00",
+            "score": 2.5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2095753"
+        },
+        {
+            "mal_id": 18,
+            "url": null,
+            "title": "Atom vs. Atlas IV: The Menacing Comet",
+            "title_japanese": "アトム対アトラス・4 恐怖のすい星",
+            "title_romanji": "Atom Tai Atlas 4: Kyoufu no Suisei ",
+            "aired": "1981-02-04T00:00:00+00:00",
+            "score": 2.6,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2095756"
+        },
+        {
+            "mal_id": 19,
+            "url": null,
+            "title": "The Devil's Balloon",
+            "title_japanese": "悪魔の風船",
+            "title_romanji": "Akuma no Fuusen ",
+            "aired": "1981-02-11T00:00:00+00:00",
+            "score": 2.75,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2095978"
+        },
+        {
+            "mal_id": 21,
+            "url": null,
+            "title": "The Wreck of the Titan",
+            "title_japanese": "イワンのバカ",
+            "title_romanji": "Ivan no Baka ",
+            "aired": "1981-02-25T00:00:00+00:00",
+            "score": 3.75,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2096240"
+        },
+        {
+            "mal_id": 22,
+            "url": null,
+            "title": "The Robot Who Lied",
+            "title_japanese": "うそつきロボット",
+            "title_romanji": "Usotsuki Robot ",
+            "aired": "1981-03-04T00:00:00+00:00",
+            "score": 2.75,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2096244"
+        },
+        {
+            "mal_id": 23,
+            "url": null,
+            "title": "The Girl from Alsore",
+            "title_japanese": "アルソアから来た少女",
+            "title_romanji": "Alsore kara Kita Shoujo ",
+            "aired": "1981-03-11T00:00:00+00:00",
+            "score": 3.5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1761162"
+        },
+        {
+            "mal_id": 24,
+            "url": null,
+            "title": "The Biggest Robot on Earth Part 1",
+            "title_japanese": "地上最大のロボット・前編",
+            "title_romanji": "Chijou Saidai no Robot Zenpen ",
+            "aired": "1981-03-18T00:00:00+00:00",
+            "score": 4.25,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2096426"
+        },
+        {
+            "mal_id": 25,
+            "url": null,
+            "title": "The Biggest Robot on Earth Part 2",
+            "title_japanese": "地上最大のロボット・後編",
+            "title_romanji": "Chijou Saidai no Robot Kouhen ",
+            "aired": "1981-03-25T00:00:00+00:00",
+            "score": 4.2,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2097004"
+        },
+        {
+            "mal_id": 26,
+            "url": null,
+            "title": "Atom vs. Atlas 5: The Violent Gang Gadem",
+            "title_japanese": "アトム対アトラス・5 暴走族ガデム",
+            "title_romanji": "Atom Tai Atlas 5: Bousouzoku Gadem ",
+            "aired": "1981-04-01T00:00:00+00:00",
+            "score": 3.25,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2097009"
+        },
+        {
+            "mal_id": 27,
+            "url": null,
+            "title": "Black Jack's Great Strategy",
+            "title_japanese": "ブラックジャックの大作戦",
+            "title_romanji": "Black Jack no Daisakusen ",
+            "aired": "1981-04-08T00:00:00+00:00",
+            "score": 4.11,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=47235"
+        },
+        {
+            "mal_id": 28,
+            "url": null,
+            "title": "The Great Adventure of Little Robot Sam",
+            "title_japanese": "ちびロボサムの大冒険",
+            "title_romanji": "Chibi Robo Sam no Daibouken ",
+            "aired": "1981-04-29T00:00:00+00:00",
+            "score": 3.25,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2097191"
+        },
+        {
+            "mal_id": 29,
+            "url": null,
+            "title": "Atom vs. Atlas 6: The King of the Ice",
+            "title_japanese": "アトム対アトラス・6 氷の中の帝王",
+            "title_romanji": "Atom Tai Atlas 6: Koori no Naka no Teiou ",
+            "aired": "1981-05-06T00:00:00+00:00",
+            "score": 3.2,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2097363"
+        },
+        {
+            "mal_id": 30,
+            "url": null,
+            "title": "Uran and Uran",
+            "title_japanese": "ウランちゃんとウランちゃん",
+            "title_romanji": "Uran-chan to Uran-chan ",
+            "aired": "1981-05-13T00:00:00+00:00",
+            "score": 3,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2097366"
+        },
+        {
+            "mal_id": 31,
+            "url": null,
+            "title": "Dash in a Storm!",
+            "title_japanese": "嵐の中を突っ走れ",
+            "title_romanji": "Arashi no Naka wo Tsuppashire! ",
+            "aired": "1981-06-03T00:00:00+00:00",
+            "score": 3,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2097639"
+        },
+        {
+            "mal_id": 32,
+            "url": null,
+            "title": "Cleopatra's Mystery",
+            "title_japanese": "クレオパトラの謎",
+            "title_romanji": "Cleopatra no Nazo ",
+            "aired": "1981-06-17T00:00:00+00:00",
+            "score": 3.75,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2097643"
+        },
+        {
+            "mal_id": 33,
+            "url": null,
+            "title": "Atom vs. Atlas 7: The Runaway Marine Express",
+            "title_japanese": "アトム対アトラス・7 地下鉄大暴走",
+            "title_romanji": "Atom Tai Atlas 7: Chikatetsu Daibousou ",
+            "aired": "1981-07-01T00:00:00+00:00",
+            "score": 3.5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2097867"
+        },
+        {
+            "mal_id": 34,
+            "url": null,
+            "title": "The Little Elephant Pete",
+            "title_japanese": "子象プーラ",
+            "title_romanji": "Kozou Pura ",
+            "aired": "1981-07-08T00:00:00+00:00",
+            "score": 3.33,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2097868"
+        },
+        {
+            "mal_id": 35,
+            "url": null,
+            "title": "The Secret of Wasp Island",
+            "title_japanese": "ミツバチ島の秘密",
+            "title_romanji": "Mitsubachi-tou no Himitsu ",
+            "aired": "1981-07-15T00:00:00+00:00",
+            "score": 3.8,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2098082"
+        },
+        {
+            "mal_id": 36,
+            "url": null,
+            "title": "The Monster of Clockwork",
+            "title_japanese": "クラーケンの怪物",
+            "title_romanji": "Kuraken no Kaibutsu ",
+            "aired": "1981-07-22T00:00:00+00:00",
+            "score": 3.5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2098087"
+        },
+        {
+            "mal_id": 37,
+            "url": null,
+            "title": "Lila in Parable Island",
+            "title_japanese": "ポチョムポチョム島のルミ",
+            "title_romanji": "Pochom-pochom-tou no Rumy ",
+            "aired": "1981-08-05T00:00:00+00:00",
+            "score": 3.4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2098229"
+        },
+        {
+            "mal_id": 38,
+            "url": null,
+            "title": "Atom vs. Atlas 8: Destruction of the Satellite! The Proton Gun",
+            "title_japanese": "アトム対アトラス・8 衛星破壊!プロトン砲)",
+            "title_romanji": "Atom Tai Atlas 8: Eisei Hakai! Proton Hou ",
+            "aired": "1981-08-19T00:00:00+00:00",
+            "score": 3.75,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2098235"
+        },
+        {
+            "mal_id": 39,
+            "url": null,
+            "title": "The Artificial Sun",
+            "title_japanese": "盗まれた太陽",
+            "title_romanji": "Nusumareta Taiyou ",
+            "aired": "1981-09-02T00:00:00+00:00",
+            "score": 2.67,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2098402"
+        },
+        {
+            "mal_id": 40,
+            "url": null,
+            "title": "Black Looks",
+            "title_japanese": "ブラックルックス",
+            "title_romanji": "Black Looks ",
+            "aired": "1981-09-16T00:00:00+00:00",
+            "score": 3.33,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2098410"
+        },
+        {
+            "mal_id": 41,
+            "url": null,
+            "title": "The Devil Garon",
+            "title_japanese": "魔神ガロン",
+            "title_romanji": "Majin Garon ",
+            "aired": "1981-09-23T00:00:00+00:00",
+            "score": 3.33,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2098552"
+        },
+        {
+            "mal_id": 42,
+            "url": null,
+            "title": "Hurry! You Three Second-Rate Knights!",
+            "title_japanese": "進め!ガラクタ三銃士!",
+            "title_romanji": "Susume! Garakuta Sanjuushi ",
+            "aired": "1981-10-14T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2098556"
+        },
+        {
+            "mal_id": 43,
+            "url": null,
+            "title": "Atom vs. Atlas 9: Remember Atlas",
+            "title_japanese": "アトム対アトラス・9 アトラスよ永遠に",
+            "title_romanji": "Atom Tai Atlas 9: Atlas yo Eien ni ",
+            "aired": "1981-10-21T00:00:00+00:00",
+            "score": 4.33,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2098698"
+        },
+        {
+            "mal_id": 44,
+            "url": null,
+            "title": "The Magical Ice Leopard",
+            "title_japanese": "宇宙ヒョウ",
+            "title_romanji": "Uchuu Hyou ",
+            "aired": "1981-10-28T00:00:00+00:00",
+            "score": 3.33,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2098703"
+        },
+        {
+            "mal_id": 45,
+            "url": null,
+            "title": "Uran's God",
+            "title_japanese": "ウランちゃんの神様",
+            "title_romanji": "Uran-chan no Kamisama ",
+            "aired": "1981-11-04T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2098857"
+        },
+        {
+            "mal_id": 46,
+            "url": null,
+            "title": "Space Airport R45",
+            "title_japanese": "宇宙空港R-45",
+            "title_romanji": "Uchuu Kuukou R-45 ",
+            "aired": "1981-11-11T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2098864"
+        },
+        {
+            "mal_id": 47,
+            "url": null,
+            "title": "Spaceship in Imminent Danger",
+            "title_japanese": "飛行船 危機一髪!",
+            "title_romanji": "Hikousen Kikiippatsu! ",
+            "aired": "1981-11-18T00:00:00+00:00",
+            "score": 2.5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2099069"
+        },
+        {
+            "mal_id": 48,
+            "url": null,
+            "title": "Boulder of a Human-Face",
+            "title_japanese": "人面岩",
+            "title_romanji": "Jinmen Iwa ",
+            "aired": "1981-11-25T00:00:00+00:00",
+            "score": 3,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2099074"
+        },
+        {
+            "mal_id": 49,
+            "url": null,
+            "title": "Drake's Revenge",
+            "title_japanese": "ウランは殺し屋が好き",
+            "title_romanji": "Uran wa Koroshiya ga Suki ",
+            "aired": "1981-12-02T00:00:00+00:00",
+            "score": 3,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2099240"
+        },
+        {
+            "mal_id": 50,
+            "url": null,
+            "title": "The Devil's Place in Ordin",
+            "title_japanese": "オーディンの大魔境",
+            "title_romanji": "Odin no Daimakyou ",
+            "aired": "1981-12-09T00:00:00+00:00",
+            "score": 3.5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2099242"
+        },
+        {
+            "mal_id": 51,
+            "url": null,
+            "title": "Rage of the Sphinx",
+            "title_japanese": "スフインクスの怒り",
+            "title_romanji": "Sphinx no Ikari ",
+            "aired": "1981-12-16T00:00:00+00:00",
+            "score": 3,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2099243"
+        },
+        {
+            "mal_id": 52,
+            "url": null,
+            "title": "Atom and Nuka",
+            "title_japanese": "アトムの初恋",
+            "title_romanji": "Atom no Hatsukoi ",
+            "aired": "1981-12-23T00:00:00+00:00",
+            "score": 4.4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2099248"
+        }
+    ]
+}

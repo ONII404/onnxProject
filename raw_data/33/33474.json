@@ -1,0 +1,165 @@
+{
+    "id": 33474,
+    "fetched_at": "Sun Dec 14 10:52:35 2025",
+    "metadata": {
+        "mal_id": 33474,
+        "url": "https://myanimelist.net/anime/33474/Haha_wo_Tazunete_Sanzenri_Movie",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/5/80489.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/5/80489t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/5/80489l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/5/80489.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/5/80489t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/5/80489l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Haha wo Tazunete Sanzenri (Movie)"
+            },
+            {
+                "type": "Synonym",
+                "title": "From the Apennines to the Andes: The Movie"
+            },
+            {
+                "type": "Synonym",
+                "title": "Marco"
+            },
+            {
+                "type": "Japanese",
+                "title": "母をたずねて三千里"
+            }
+        ],
+        "title": "Haha wo Tazunete Sanzenri (Movie)",
+        "title_english": null,
+        "title_japanese": "母をたずねて三千里",
+        "title_synonyms": [
+            "From the Apennines to the Andes: The Movie",
+            "Marco"
+        ],
+        "type": "Movie",
+        "source": "Book",
+        "episodes": 1,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "1980-07-19T00:00:00+00:00",
+            "to": null,
+            "prop": {
+                "from": {
+                    "day": 19,
+                    "month": 7,
+                    "year": 1980
+                },
+                "to": {
+                    "day": null,
+                    "month": null,
+                    "year": null
+                }
+            },
+            "string": "Jul 19, 1980"
+        },
+        "duration": "1 hr 47 min",
+        "rating": "G - All Ages",
+        "score": 6.54,
+        "scored_by": 195,
+        "rank": 7071,
+        "popularity": 16213,
+        "members": 716,
+        "favorites": 0,
+        "synopsis": "A compilation film of the Haha wo Tazunete Sanzenri series. Due to a box office slump, the film aired only for 1 week in theaters.",
+        "background": "",
+        "season": null,
+        "year": null,
+        "broadcast": {
+            "day": null,
+            "time": null,
+            "timezone": null,
+            "string": null
+        },
+        "producers": [],
+        "licensors": [],
+        "studios": [
+            {
+                "mal_id": 22,
+                "type": "anime",
+                "name": "Nippon Animation",
+                "url": "https://myanimelist.net/anime/producer/22/Nippon_Animation"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 2,
+                "type": "anime",
+                "name": "Adventure",
+                "url": "https://myanimelist.net/anime/genre/2/Adventure"
+            },
+            {
+                "mal_id": 8,
+                "type": "anime",
+                "name": "Drama",
+                "url": "https://myanimelist.net/anime/genre/8/Drama"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [
+            {
+                "mal_id": 13,
+                "type": "anime",
+                "name": "Historical",
+                "url": "https://myanimelist.net/anime/genre/13/Historical"
+            }
+        ],
+        "demographics": [],
+        "relations": [
+            {
+                "relation": "Parent Story",
+                "entry": [
+                    {
+                        "mal_id": 1663,
+                        "type": "anime",
+                        "name": "Haha wo Tazunete Sanzenri",
+                        "url": "https://myanimelist.net/anime/1663/Haha_wo_Tazunete_Sanzenri"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [],
+            "endings": []
+        },
+        "external": [
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=4751"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=22397"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/3000_Leagues_in_Search_of_Mother#Movie_versions"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": []
+}

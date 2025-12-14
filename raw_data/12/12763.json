@@ -1,0 +1,162 @@
+{
+    "id": 12763,
+    "fetched_at": "Sun Dec 14 09:41:05 2025",
+    "metadata": {
+        "mal_id": 12763,
+        "url": "https://myanimelist.net/anime/12763/0-sen_Hayato",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/6/35847.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/6/35847t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/6/35847l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/6/35847.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/6/35847t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/6/35847l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "0-sen Hayato"
+            },
+            {
+                "type": "Synonym",
+                "title": "Zero-sen Hayato"
+            },
+            {
+                "type": "Japanese",
+                "title": "0戦はやと"
+            }
+        ],
+        "title": "0-sen Hayato",
+        "title_english": null,
+        "title_japanese": "0戦はやと",
+        "title_synonyms": [
+            "Zero-sen Hayato"
+        ],
+        "type": "TV",
+        "source": "Manga",
+        "episodes": 38,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "1964-01-21T00:00:00+00:00",
+            "to": "1964-10-27T00:00:00+00:00",
+            "prop": {
+                "from": {
+                    "day": 21,
+                    "month": 1,
+                    "year": 1964
+                },
+                "to": {
+                    "day": 27,
+                    "month": 10,
+                    "year": 1964
+                }
+            },
+            "string": "Jan 21, 1964 to Oct 27, 1964"
+        },
+        "duration": "15 min per ep",
+        "rating": "PG-13 - Teens 13 or older",
+        "score": 5.96,
+        "scored_by": 252,
+        "rank": 10488,
+        "popularity": 13930,
+        "members": 1288,
+        "favorites": 4,
+        "synopsis": "The adventures of a zero fighter pilot during World War II. \n\n(Source: AniDB)",
+        "background": "",
+        "season": "winter",
+        "year": 1964,
+        "broadcast": {
+            "day": null,
+            "time": null,
+            "timezone": null,
+            "string": "Unknown"
+        },
+        "producers": [
+            {
+                "mal_id": 985,
+                "type": "anime",
+                "name": "P Productions",
+                "url": "https://myanimelist.net/anime/producer/985/P_Productions"
+            }
+        ],
+        "licensors": [],
+        "studios": [],
+        "genres": [],
+        "explicit_genres": [],
+        "themes": [
+            {
+                "mal_id": 13,
+                "type": "anime",
+                "name": "Historical",
+                "url": "https://myanimelist.net/anime/genre/13/Historical"
+            },
+            {
+                "mal_id": 38,
+                "type": "anime",
+                "name": "Military",
+                "url": "https://myanimelist.net/anime/genre/38/Military"
+            }
+        ],
+        "demographics": [],
+        "relations": [
+            {
+                "relation": "Prequel",
+                "entry": [
+                    {
+                        "mal_id": 33978,
+                        "type": "anime",
+                        "name": "0-sen Hayato Pilot",
+                        "url": "https://myanimelist.net/anime/33978/0-sen_Hayato_Pilot"
+                    }
+                ]
+            },
+            {
+                "relation": "Adaptation",
+                "entry": [
+                    {
+                        "mal_id": 142304,
+                        "type": "manga",
+                        "name": "0-sen Hayato",
+                        "url": "https://myanimelist.net/manga/142304/0-sen_Hayato"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [
+                "\"0-sen Hayato (0戦はやと)\" by Vocal Shop"
+            ],
+            "endings": []
+        },
+        "external": [
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=5121"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=1626"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": []
+}

@@ -1,0 +1,536 @@
+{
+    "id": 26,
+    "fetched_at": "Sun Dec 14 12:32:00 2025",
+    "metadata": {
+        "mal_id": 26,
+        "url": "https://myanimelist.net/anime/26/Texhnolyze",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1027/131977.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1027/131977t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1027/131977l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1027/131977.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1027/131977t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1027/131977l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": "https://www.youtube-nocookie.com/embed/Z19QTGvwg9I?enablejsapi=1&wmode=opaque&autoplay=1",
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Texhnolyze"
+            },
+            {
+                "type": "Synonym",
+                "title": "Technolyze"
+            },
+            {
+                "type": "Japanese",
+                "title": "TEXHNOLYZE"
+            },
+            {
+                "type": "English",
+                "title": "Texhnolyze"
+            }
+        ],
+        "title": "Texhnolyze",
+        "title_english": "Texhnolyze",
+        "title_japanese": "TEXHNOLYZE",
+        "title_synonyms": [
+            "Technolyze"
+        ],
+        "type": "TV",
+        "source": "Original",
+        "episodes": 22,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "2003-04-17T00:00:00+00:00",
+            "to": "2003-09-25T00:00:00+00:00",
+            "prop": {
+                "from": {
+                    "day": 17,
+                    "month": 4,
+                    "year": 2003
+                },
+                "to": {
+                    "day": 25,
+                    "month": 9,
+                    "year": 2003
+                }
+            },
+            "string": "Apr 17, 2003 to Sep 25, 2003"
+        },
+        "duration": "23 min per ep",
+        "rating": "R+ - Mild Nudity",
+        "score": 7.75,
+        "scored_by": 62316,
+        "rank": 1215,
+        "popularity": 966,
+        "members": 281073,
+        "favorites": 5569,
+        "synopsis": "In the dark underground city of Lux, people live in fear and despair under the rule of various criminal factions. Almost secluded from the surface, the gangs' only interaction with the outer world is their mining operation of \"raffia,\" which is the raison d'être of the city.\n\nAvailable only in Lux, this rare substance is the basis of \"texhnolyze\" transplants that permit humans to replace parts of their body with cybernetic prostheses. The latter have the particularity not to trigger an immune response in their hosts and the \"Class\" has the privilege to conduct research on them. This elusive organization, also in charge of the raffia production, delegates its executive authority to a group called Organo led by Keigo Oonishi—a self-righteous man with texhnolyzed legs who is rumored to hear the \"voice of the city.\"\n\nThe fragile balance of powers in Lux is disturbed when a mysterious visitor named Kazuho Yoshii begins committing a series of crimes that puts the gangs at each other's throats. In the midst of the chaos, new actors emerge: Ichise, an ex-boxer mutilated by Organo and recently texhnolyzed by Eriko \"Doc\" Kamata; and Ran, a young florist who can see the future. While Lux steadily plunges into insanity, both Ichise and Ran find themselves involved in the greatest crisis the city has ever faced.\n\n[Written by MAL Rewrite]",
+        "background": "Texhnolyze was released on DVD in six volumes by Geneon Entertainment Inc. from April 6, 2004 to February 22, 2005. Funimation Entertainment later republished the series in a complete DVD collection on August 28, 2012.",
+        "season": "spring",
+        "year": 2003,
+        "broadcast": {
+            "day": "Thursdays",
+            "time": "03:28",
+            "timezone": "Asia/Tokyo",
+            "string": "Thursdays at 03:28 (JST)"
+        },
+        "producers": [
+            {
+                "mal_id": 86,
+                "type": "anime",
+                "name": "Group TAC",
+                "url": "https://myanimelist.net/anime/producer/86/Group_TAC"
+            },
+            {
+                "mal_id": 160,
+                "type": "anime",
+                "name": "Rondo Robe",
+                "url": "https://myanimelist.net/anime/producer/160/Rondo_Robe"
+            },
+            {
+                "mal_id": 169,
+                "type": "anime",
+                "name": "Fuji TV",
+                "url": "https://myanimelist.net/anime/producer/169/Fuji_TV"
+            },
+            {
+                "mal_id": 204,
+                "type": "anime",
+                "name": "Pioneer LDC",
+                "url": "https://myanimelist.net/anime/producer/204/Pioneer_LDC"
+            },
+            {
+                "mal_id": 211,
+                "type": "anime",
+                "name": "Rakuonsha",
+                "url": "https://myanimelist.net/anime/producer/211/Rakuonsha"
+            },
+            {
+                "mal_id": 1459,
+                "type": "anime",
+                "name": "Geneon Entertainment USA",
+                "url": "https://myanimelist.net/anime/producer/1459/Geneon_Entertainment_USA"
+            }
+        ],
+        "licensors": [
+            {
+                "mal_id": 102,
+                "type": "anime",
+                "name": "Funimation",
+                "url": "https://myanimelist.net/anime/producer/102/Funimation"
+            }
+        ],
+        "studios": [
+            {
+                "mal_id": 11,
+                "type": "anime",
+                "name": "Madhouse",
+                "url": "https://myanimelist.net/anime/producer/11/Madhouse"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 5,
+                "type": "anime",
+                "name": "Avant Garde",
+                "url": "https://myanimelist.net/anime/genre/5/Avant_Garde"
+            },
+            {
+                "mal_id": 8,
+                "type": "anime",
+                "name": "Drama",
+                "url": "https://myanimelist.net/anime/genre/8/Drama"
+            },
+            {
+                "mal_id": 7,
+                "type": "anime",
+                "name": "Mystery",
+                "url": "https://myanimelist.net/anime/genre/7/Mystery"
+            },
+            {
+                "mal_id": 24,
+                "type": "anime",
+                "name": "Sci-Fi",
+                "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+            },
+            {
+                "mal_id": 41,
+                "type": "anime",
+                "name": "Suspense",
+                "url": "https://myanimelist.net/anime/genre/41/Suspense"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [
+            {
+                "mal_id": 50,
+                "type": "anime",
+                "name": "Adult Cast",
+                "url": "https://myanimelist.net/anime/genre/50/Adult_Cast"
+            },
+            {
+                "mal_id": 68,
+                "type": "anime",
+                "name": "Organized Crime",
+                "url": "https://myanimelist.net/anime/genre/68/Organized_Crime"
+            },
+            {
+                "mal_id": 40,
+                "type": "anime",
+                "name": "Psychological",
+                "url": "https://myanimelist.net/anime/genre/40/Psychological"
+            }
+        ],
+        "demographics": [],
+        "relations": [
+            {
+                "relation": "Summary",
+                "entry": [
+                    {
+                        "mal_id": 41068,
+                        "type": "anime",
+                        "name": "Texhnolyze: Revisit",
+                        "url": "https://myanimelist.net/anime/41068/Texhnolyze__Revisit"
+                    }
+                ]
+            },
+            {
+                "relation": "Other",
+                "entry": [
+                    {
+                        "mal_id": 39284,
+                        "type": "anime",
+                        "name": "Tsuki no Uta",
+                        "url": "https://myanimelist.net/anime/39284/Tsuki_no_Uta"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [
+                "\"Guardian Angel (Xavier's Edit)\" by Juno Reactor (eps 1-20,22)"
+            ],
+            "endings": [
+                "1: \"Tsuki no Uta (月の詩)\" by Gackt (eps 1-21)",
+                "2: \"Walking Through the Empty Age\" by Yoko Ishida (eps 22)"
+            ]
+        },
+        "external": [
+            {
+                "name": "Official Site",
+                "url": "http://www.geneon-ent.co.jp/rondorobe/anime/TEXHNOLYZE/"
+            },
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=673"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=2304"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "http://en.wikipedia.org/wiki/Texhnolyze"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "https://ja.wikipedia.org/wiki/TEXHNOLYZE"
+            },
+            {
+                "name": "Syoboi",
+                "url": "https://cal.syoboi.jp/tid/11"
+            }
+        ],
+        "streaming": [
+            {
+                "name": "Crunchyroll",
+                "url": "http://www.crunchyroll.com/series-273333"
+            }
+        ]
+    },
+    "episodes": [
+        {
+            "mal_id": 1,
+            "url": "https://myanimelist.net/anime/26/Texhnolyze/episode/1",
+            "title": "Stranger",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": "2003-04-17T00:00:00+00:00",
+            "score": 3.8,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=83837"
+        },
+        {
+            "mal_id": 2,
+            "url": "https://myanimelist.net/anime/26/Texhnolyze/episode/2",
+            "title": "Forfeiture",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": "2003-04-24T00:00:00+00:00",
+            "score": 4.16,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=75288"
+        },
+        {
+            "mal_id": 3,
+            "url": "https://myanimelist.net/anime/26/Texhnolyze/episode/3",
+            "title": "Texhnophile",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": "2003-05-01T00:00:00+00:00",
+            "score": 4.2,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=129484"
+        },
+        {
+            "mal_id": 4,
+            "url": "https://myanimelist.net/anime/26/Texhnolyze/episode/4",
+            "title": "Synapse",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": "2003-05-07T00:00:00+00:00",
+            "score": 4.3,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=131570"
+        },
+        {
+            "mal_id": 5,
+            "url": "https://myanimelist.net/anime/26/Texhnolyze/episode/5",
+            "title": "Loiter",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": "2003-05-15T00:00:00+00:00",
+            "score": 4.26,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=131674"
+        },
+        {
+            "mal_id": 6,
+            "url": "https://myanimelist.net/anime/26/Texhnolyze/episode/6",
+            "title": "Repetition",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": "2003-05-22T00:00:00+00:00",
+            "score": 4.33,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=131682"
+        },
+        {
+            "mal_id": 7,
+            "url": "https://myanimelist.net/anime/26/Texhnolyze/episode/7",
+            "title": "Plot",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": "2003-05-29T00:00:00+00:00",
+            "score": 4.51,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=131686"
+        },
+        {
+            "mal_id": 8,
+            "url": "https://myanimelist.net/anime/26/Texhnolyze/episode/8",
+            "title": "Crucible",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": "2003-06-05T00:00:00+00:00",
+            "score": 4.29,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=131694"
+        },
+        {
+            "mal_id": 9,
+            "url": "https://myanimelist.net/anime/26/Texhnolyze/episode/9",
+            "title": "Wiggle",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": "2003-06-12T00:00:00+00:00",
+            "score": 4.21,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=151134"
+        },
+        {
+            "mal_id": 10,
+            "url": "https://myanimelist.net/anime/26/Texhnolyze/episode/10",
+            "title": "Conclusion",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": "2003-06-26T00:00:00+00:00",
+            "score": 4.55,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=8729"
+        },
+        {
+            "mal_id": 11,
+            "url": "https://myanimelist.net/anime/26/Texhnolyze/episode/11",
+            "title": "Vagrant",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": "2003-07-03T00:00:00+00:00",
+            "score": 4.31,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=61100"
+        },
+        {
+            "mal_id": 12,
+            "url": "https://myanimelist.net/anime/26/Texhnolyze/episode/12",
+            "title": "Precognition",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": "2003-07-17T00:00:00+00:00",
+            "score": 4.38,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=131944"
+        },
+        {
+            "mal_id": 13,
+            "url": "https://myanimelist.net/anime/26/Texhnolyze/episode/13",
+            "title": "Vista",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": "2003-07-24T00:00:00+00:00",
+            "score": 4.46,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=131959"
+        },
+        {
+            "mal_id": 14,
+            "url": "https://myanimelist.net/anime/26/Texhnolyze/episode/14",
+            "title": "Rejection",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": "2003-07-31T00:00:00+00:00",
+            "score": 4.37,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=278339"
+        },
+        {
+            "mal_id": 15,
+            "url": "https://myanimelist.net/anime/26/Texhnolyze/episode/15",
+            "title": "Shapes",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": "2003-08-14T00:00:00+00:00",
+            "score": 4.37,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=203675"
+        },
+        {
+            "mal_id": 16,
+            "url": "https://myanimelist.net/anime/26/Texhnolyze/episode/16",
+            "title": "Strain",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": "2003-08-21T00:00:00+00:00",
+            "score": 4.52,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=284850"
+        },
+        {
+            "mal_id": 17,
+            "url": "https://myanimelist.net/anime/26/Texhnolyze/episode/17",
+            "title": "Dependence",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": "2003-09-04T00:00:00+00:00",
+            "score": 4.58,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=141855"
+        },
+        {
+            "mal_id": 18,
+            "url": "https://myanimelist.net/anime/26/Texhnolyze/episode/18",
+            "title": "Throne",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": "2003-09-11T00:00:00+00:00",
+            "score": 4.57,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=203917"
+        },
+        {
+            "mal_id": 19,
+            "url": "https://myanimelist.net/anime/26/Texhnolyze/episode/19",
+            "title": "Heavenward",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": "2003-09-11T00:00:00+00:00",
+            "score": 4.62,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=203970"
+        },
+        {
+            "mal_id": 20,
+            "url": "https://myanimelist.net/anime/26/Texhnolyze/episode/20",
+            "title": "Hades",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": "2003-09-11T00:00:00+00:00",
+            "score": 4.55,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=203975"
+        },
+        {
+            "mal_id": 21,
+            "url": "https://myanimelist.net/anime/26/Texhnolyze/episode/21",
+            "title": "Encephalopathy",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": "2003-09-18T00:00:00+00:00",
+            "score": 4.57,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=203978"
+        },
+        {
+            "mal_id": 22,
+            "url": "https://myanimelist.net/anime/26/Texhnolyze/episode/22",
+            "title": "Myth",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": "2003-09-25T00:00:00+00:00",
+            "score": 4.48,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=31646"
+        }
+    ]
+}

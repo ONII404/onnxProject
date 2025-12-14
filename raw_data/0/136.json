@@ -1,0 +1,985 @@
+{
+    "id": 136,
+    "fetched_at": "Sun Dec 14 12:40:38 2025",
+    "metadata": {
+        "mal_id": 136,
+        "url": "https://myanimelist.net/anime/136/Hunter_x_Hunter",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1305/132237.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1305/132237t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1305/132237l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1305/132237.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1305/132237t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1305/132237l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Hunter x Hunter"
+            },
+            {
+                "type": "Synonym",
+                "title": "HxH"
+            },
+            {
+                "type": "Japanese",
+                "title": "HUNTER×HUNTER（ハンター×ハンター）"
+            },
+            {
+                "type": "English",
+                "title": "Hunter x Hunter"
+            },
+            {
+                "type": "Spanish",
+                "title": "Hunter X Hunter: Cazadores de Tesoros"
+            }
+        ],
+        "title": "Hunter x Hunter",
+        "title_english": "Hunter x Hunter",
+        "title_japanese": "HUNTER×HUNTER（ハンター×ハンター）",
+        "title_synonyms": [
+            "HxH"
+        ],
+        "type": "TV",
+        "source": "Manga",
+        "episodes": 62,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "1999-10-16T00:00:00+00:00",
+            "to": "2001-03-31T00:00:00+00:00",
+            "prop": {
+                "from": {
+                    "day": 16,
+                    "month": 10,
+                    "year": 1999
+                },
+                "to": {
+                    "day": 31,
+                    "month": 3,
+                    "year": 2001
+                }
+            },
+            "string": "Oct 16, 1999 to Mar 31, 2001"
+        },
+        "duration": "23 min per ep",
+        "rating": "PG-13 - Teens 13 or older",
+        "score": 8.43,
+        "scored_by": 309414,
+        "rank": 193,
+        "popularity": 381,
+        "members": 636791,
+        "favorites": 11979,
+        "synopsis": "Hunters are specialized in a wide variety of fields, ranging from treasure hunting to cooking. They have access to otherwise unavailable funds and information that allow them to pursue their dreams and interests. However, being a hunter is a special privilege, only attained by taking a deadly exam with an extremely low success rate.\n\nGon Freecss, a 12-year-old boy with the hope of finding his missing father, sets out on a quest to take the Hunter Exam. Along the way, he picks up three companions who also aim to take the dangerous test: the revenge-seeking Kurapika, aspiring doctor Leorio Paladiknight, and a mischievous child the same age as Gon, Killua Zoldyck.\n\nAs the four aspiring hunters embark on a perilous adventure, they fight for their dreams while defying the odds.\n\n[Written by MAL Rewrite]",
+        "background": "",
+        "season": "fall",
+        "year": 1999,
+        "broadcast": {
+            "day": "Saturdays",
+            "time": "18:00",
+            "timezone": "Asia/Tokyo",
+            "string": "Saturdays at 18:00 (JST)"
+        },
+        "producers": [
+            {
+                "mal_id": 169,
+                "type": "anime",
+                "name": "Fuji TV",
+                "url": "https://myanimelist.net/anime/producer/169/Fuji_TV"
+            }
+        ],
+        "licensors": [
+            {
+                "mal_id": 119,
+                "type": "anime",
+                "name": "VIZ Media",
+                "url": "https://myanimelist.net/anime/producer/119/VIZ_Media"
+            }
+        ],
+        "studios": [
+            {
+                "mal_id": 22,
+                "type": "anime",
+                "name": "Nippon Animation",
+                "url": "https://myanimelist.net/anime/producer/22/Nippon_Animation"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 1,
+                "type": "anime",
+                "name": "Action",
+                "url": "https://myanimelist.net/anime/genre/1/Action"
+            },
+            {
+                "mal_id": 2,
+                "type": "anime",
+                "name": "Adventure",
+                "url": "https://myanimelist.net/anime/genre/2/Adventure"
+            },
+            {
+                "mal_id": 10,
+                "type": "anime",
+                "name": "Fantasy",
+                "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [],
+        "demographics": [
+            {
+                "mal_id": 27,
+                "type": "anime",
+                "name": "Shounen",
+                "url": "https://myanimelist.net/anime/genre/27/Shounen"
+            }
+        ],
+        "relations": [
+            {
+                "relation": "Sequel",
+                "entry": [
+                    {
+                        "mal_id": 137,
+                        "type": "anime",
+                        "name": "Hunter x Hunter: Original Video Animation",
+                        "url": "https://myanimelist.net/anime/137/Hunter_x_Hunter__Original_Video_Animation"
+                    }
+                ]
+            },
+            {
+                "relation": "Adaptation",
+                "entry": [
+                    {
+                        "mal_id": 26,
+                        "type": "manga",
+                        "name": "Hunter x Hunter",
+                        "url": "https://myanimelist.net/manga/26/Hunter_x_Hunter"
+                    }
+                ]
+            },
+            {
+                "relation": "Side Story",
+                "entry": [
+                    {
+                        "mal_id": 10189,
+                        "type": "anime",
+                        "name": "Hunter x Hunter Pilot",
+                        "url": "https://myanimelist.net/anime/10189/Hunter_x_Hunter_Pilot"
+                    }
+                ]
+            },
+            {
+                "relation": "Alternative Version",
+                "entry": [
+                    {
+                        "mal_id": 11061,
+                        "type": "anime",
+                        "name": "Hunter x Hunter (2011)",
+                        "url": "https://myanimelist.net/anime/11061/Hunter_x_Hunter_2011"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [
+                "1: \"Ohayou (おはよう)\" by Keno (eps 1-48)",
+                "2: \"Taiyou wa Yoru mo Kagayaku (太陽は夜も輝く)\" by Wino (eps 49-62)"
+            ],
+            "endings": [
+                "1: \"Kaze no Uta; Song of the Wind\" by Minako Honda (eps 1-31)",
+                "2: \"E-Jan - Do You Feel Like I Feel\" by Masato Nagai (eps 32-52)",
+                "3: \"Hotaru\" by Masato Nagai (eps 53-62)"
+            ]
+        },
+        "external": [
+            {
+                "name": "Official Site",
+                "url": "http://www.nippon-animation.co.jp/na/hunter/"
+            },
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=132"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=1134"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Hunter_%C3%97_Hunter_(1999_TV_series)"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "https://ja.wikipedia.org/wiki/HUNTER%C3%97HUNTER_(1999%E5%B9%B4%E3%81%AE%E3%82%A2%E3%83%8B%E3%83%A1)"
+            },
+            {
+                "name": "Syoboi",
+                "url": "https://cal.syoboi.jp/tid/927"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": [
+        {
+            "mal_id": 1,
+            "url": null,
+            "title": "A Boy Setting Out for a Journey × Leaving Behind the Sound of the Wind",
+            "title_japanese": "旅行く少年×風の音を残して",
+            "title_romanji": "Tabi iku Shounen × Kaze no Oto wo Nokoshite ",
+            "aired": "1999-10-16T00:00:00+00:00",
+            "score": 4.2,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=41681"
+        },
+        {
+            "mal_id": 2,
+            "url": null,
+            "title": "Encounter × Hesitation × Departure",
+            "title_japanese": "出会い×とまどい×出航",
+            "title_romanji": "Deai × Tomadoi × Shukkou ",
+            "aired": "1999-10-23T00:00:00+00:00",
+            "score": 4.18,
+            "filler": true,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=41682"
+        },
+        {
+            "mal_id": 3,
+            "url": null,
+            "title": "Pride × Stormy Water × Duel",
+            "title_japanese": "プライド×荒海×決闘",
+            "title_romanji": "Pride × Araumi × Kettou ",
+            "aired": "1999-10-30T00:00:00+00:00",
+            "score": 4.21,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=41782"
+        },
+        {
+            "mal_id": 4,
+            "url": null,
+            "title": "Decision × Shortcut × Detour",
+            "title_japanese": "選択×近道×まわり道",
+            "title_romanji": "Sentaku × Chikamichi × Mawari Michi ",
+            "aired": "1999-11-06T00:00:00+00:00",
+            "score": 4.18,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=41788"
+        },
+        {
+            "mal_id": 5,
+            "url": null,
+            "title": "Lies × Truth? × Kiriko",
+            "title_japanese": "ウソ×ホント？×キリコ",
+            "title_romanji": "Uso × Honto? × Kiriko ",
+            "aired": "1999-11-13T00:00:00+00:00",
+            "score": 4.16,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=6561"
+        },
+        {
+            "mal_id": 6,
+            "url": null,
+            "title": "Steak × Marathon × The Exam Starts",
+            "title_japanese": "ステーキ×マラソン×試験開始",
+            "title_romanji": "Steak × Marathon × Shiken Kaishi ",
+            "aired": "1999-11-20T00:00:00+00:00",
+            "score": 4.18,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=6574"
+        },
+        {
+            "mal_id": 7,
+            "url": null,
+            "title": "Trauma × Limit × Sweet Trap",
+            "title_japanese": "トラウマ×限界×甘いワナ",
+            "title_romanji": "Trauma × Genkai × Amai Wana ",
+            "aired": "1999-11-27T00:00:00+00:00",
+            "score": 4.17,
+            "filler": true,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=6575"
+        },
+        {
+            "mal_id": 8,
+            "url": null,
+            "title": "Conjurer × Smile × Beasts Beware",
+            "title_japanese": "奇術師×ほほえみ×猛獣注意",
+            "title_romanji": "Kijutsushi × Hohoemi × Moujuu Chuui ",
+            "aired": "1999-12-04T00:00:00+00:00",
+            "score": 4.18,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=6580"
+        },
+        {
+            "mal_id": 9,
+            "url": null,
+            "title": "Menchi × Furious × Second Phase?",
+            "title_japanese": "メンチ×マジギレ×二次試験？",
+            "title_romanji": "Menchi × Majigire × Niji Shiken ",
+            "aired": "1999-12-11T00:00:00+00:00",
+            "score": 4.06,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=6582"
+        },
+        {
+            "mal_id": 10,
+            "url": null,
+            "title": "Failing × Panic × Heavenly Voice",
+            "title_japanese": "赤点×パニック×天の声",
+            "title_romanji": "Akaten × Panic × Ten no koe ",
+            "aired": "1999-12-18T00:00:00+00:00",
+            "score": 4.14,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=6585"
+        },
+        {
+            "mal_id": 11,
+            "url": null,
+            "title": "Exploration × Guts × Stowaway",
+            "title_japanese": "探検×スポ根×密航者",
+            "title_romanji": "Tanken × Supokon × Mikkousha ",
+            "aired": "2000-01-08T00:00:00+00:00",
+            "score": 4.23,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=6586"
+        },
+        {
+            "mal_id": 12,
+            "url": null,
+            "title": "Good Boy? × Bad Boy? × Killua",
+            "title_japanese": "良い子？×悪い子？×キルア",
+            "title_romanji": "Ii ko? × Warui ko? × Killua ",
+            "aired": "2000-01-15T00:00:00+00:00",
+            "score": 4.2,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=6678"
+        },
+        {
+            "mal_id": 13,
+            "url": null,
+            "title": "Pro × Con × Trap",
+            "title_japanese": "賛成×反対×落とし穴",
+            "title_romanji": "Sansei × Hantai × Otoshiana ",
+            "aired": "2000-01-20T00:00:00+00:00",
+            "score": 4.2,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=6725"
+        },
+        {
+            "mal_id": 14,
+            "url": null,
+            "title": "Candles × Policy × Dispute",
+            "title_japanese": "ローソク×ポリシー×なかまわ割れ",
+            "title_romanji": "Rooson × Polishii × Nakamawa Ware ",
+            "aired": "2000-01-29T00:00:00+00:00",
+            "score": 4.14,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=6728"
+        },
+        {
+            "mal_id": 15,
+            "url": null,
+            "title": "Fleeting × Life × Majitani",
+            "title_japanese": "はかない×いのち×マジタニ",
+            "title_romanji": "Hakanai × Inochi × Majitani ",
+            "aired": "2000-02-05T00:00:00+00:00",
+            "score": 4.18,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=6806"
+        },
+        {
+            "mal_id": 16,
+            "url": null,
+            "title": "Rock × Scissors × Heart",
+            "title_japanese": "グー×チョキ×ハート",
+            "title_romanji": "Guu × Choki × Heart ",
+            "aired": "2000-02-12T00:00:00+00:00",
+            "score": 4.47,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=13609"
+        },
+        {
+            "mal_id": 17,
+            "url": null,
+            "title": "Three People? × Five People? × Last Choice",
+            "title_japanese": "３人？×５人？×最後の選択",
+            "title_romanji": "Sannin? × Gonin? × Saigo no Sentaku ",
+            "aired": "2000-02-19T00:00:00+00:00",
+            "score": 4.23,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=104520"
+        },
+        {
+            "mal_id": 18,
+            "url": null,
+            "title": "Treasure × Memory × Cramped Hotel Room",
+            "title_japanese": "お宝×思い出×ホテルの小部屋",
+            "title_romanji": "Otakara × Omoide × Hoteru no Kobeya ",
+            "aired": "2000-02-26T00:00:00+00:00",
+            "score": 4.24,
+            "filler": true,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=60781"
+        },
+        {
+            "mal_id": 19,
+            "url": null,
+            "title": "Stranded × Log Book × Soaked",
+            "title_japanese": "バラバラ×日誌×水びたし",
+            "title_romanji": "Barabara × Nisshi × Mizubitashi ",
+            "aired": "2000-03-04T00:00:00+00:00",
+            "score": 4.13,
+            "filler": true,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=104521"
+        },
+        {
+            "mal_id": 20,
+            "url": null,
+            "title": "Big Waves × Big Cannon × Huge Rush",
+            "title_japanese": "大波×大砲×大あわて",
+            "title_romanji": "Oonami × Taihou × Ooawate ",
+            "aired": "2000-03-11T00:00:00+00:00",
+            "score": 4.51,
+            "filler": true,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=64380"
+        },
+        {
+            "mal_id": 21,
+            "url": null,
+            "title": "Fourth Phase × Forty-Four × Number of Death",
+            "title_japanese": "第４次×４４×死のナンバー",
+            "title_romanji": "Daiyonji × Yonjuuyon × Shi no Number ",
+            "aired": "2000-03-18T00:00:00+00:00",
+            "score": 4.19,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=42604"
+        },
+        {
+            "mal_id": 22,
+            "url": null,
+            "title": "Found × Hide × Caught Up",
+            "title_japanese": "見つけた×かくれた×追いついた",
+            "title_romanji": "Mitsuketa × Kakureta × Oitsuita ",
+            "aired": "2000-03-25T00:00:00+00:00",
+            "score": 4.52,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=104523"
+        },
+        {
+            "mal_id": 23,
+            "url": null,
+            "title": "Hisoka × Crash × Gon",
+            "title_japanese": "ヒソカ×激突×ゴン",
+            "title_romanji": "Hisoka × Gekitotsu × Gon ",
+            "aired": "2000-04-01T00:00:00+00:00",
+            "score": 4.55,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=104524"
+        },
+        {
+            "mal_id": 24,
+            "url": null,
+            "title": "Damage × Reunion × Courage",
+            "title_japanese": "ダメージ×再会×からげんき",
+            "title_romanji": "Damage × Saikai × Karagenki ",
+            "aired": "2000-04-15T00:00:00+00:00",
+            "score": 3.86,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=104525"
+        },
+        {
+            "mal_id": 25,
+            "url": null,
+            "title": "Slither × Stinger × In The Cave",
+            "title_japanese": "ニョロ×チク×穴の中",
+            "title_romanji": "Nyoro × Chiku × Ana no Naka ",
+            "aired": "2000-04-22T00:00:00+00:00",
+            "score": 4.26,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=104527"
+        },
+        {
+            "mal_id": 26,
+            "url": null,
+            "title": "Chairman × Interview × Written Exam",
+            "title_japanese": "会長×面接×ペーパーテスト",
+            "title_romanji": "Kaichou × Mensetsu × Paper Test ",
+            "aired": "2000-05-06T00:00:00+00:00",
+            "score": 4.35,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=42691"
+        },
+        {
+            "mal_id": 27,
+            "url": null,
+            "title": "Hisoka × Kurapika × Spider's Whisper",
+            "title_japanese": "ヒソカ×クラピカ×蜘蛛の囁き",
+            "title_romanji": "Hisoka × Kurapika × Kumo no Sasayaki ",
+            "aired": "2000-05-13T00:00:00+00:00",
+            "score": 4.42,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=104528"
+        },
+        {
+            "mal_id": 28,
+            "url": null,
+            "title": "Chatting × Excuses × Endurance",
+            "title_japanese": "おしゃべり×ヘリクツ×根くらべ",
+            "title_romanji": "Oshayberi × Herikutsu × Konkurabe ",
+            "aired": "2000-05-20T00:00:00+00:00",
+            "score": 4.46,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=104530"
+        },
+        {
+            "mal_id": 29,
+            "url": null,
+            "title": "Pass × Fail × Exam Over",
+            "title_japanese": "合格！×失格？×試験終了",
+            "title_romanji": "Goukaku! × Shikkaku? × Shiken Shuuryou ",
+            "aired": "2000-05-27T00:00:00+00:00",
+            "score": 4.32,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=104532"
+        },
+        {
+            "mal_id": 30,
+            "url": null,
+            "title": "Killua × Disqualified × Forced Out",
+            "title_japanese": "キルア×リタイア×強制送還",
+            "title_romanji": "Killua × Ritaia × Kyousei Soukan ",
+            "aired": "2000-06-03T00:00:00+00:00",
+            "score": 4.62,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=42739"
+        },
+        {
+            "mal_id": 31,
+            "url": null,
+            "title": "Disband × Party × Unpleasant Ties",
+            "title_japanese": "解散×パーティ×くされ縁",
+            "title_romanji": "Kaisan × Party × Kusare En ",
+            "aired": "2000-06-10T00:00:00+00:00",
+            "score": 4.37,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=42746"
+        },
+        {
+            "mal_id": 32,
+            "url": null,
+            "title": "Sightseeing × Landmark × Killua's House",
+            "title_japanese": "観光×名所×キルアんち",
+            "title_romanji": "Kankou × Meisho × Killua-nchi ",
+            "aired": "2000-06-17T00:00:00+00:00",
+            "score": 4.35,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=42749"
+        },
+        {
+            "mal_id": 33,
+            "url": null,
+            "title": "Training × Hound × Exhausted",
+            "title_japanese": "特訓×猟犬×バタンキュー",
+            "title_romanji": "Tokkun × Ryouken × Batankyuu ",
+            "aired": "2000-07-01T00:00:00+00:00",
+            "score": 4.37,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=318861"
+        },
+        {
+            "mal_id": 34,
+            "url": null,
+            "title": "Skateboard × Apprentice × Honesty",
+            "title_japanese": "スケボー×見習い×本当の気持ち",
+            "title_romanji": "Sukebou × Minarai × Hontou no Kimochi ",
+            "aired": "2000-07-15T00:00:00+00:00",
+            "score": 4.19,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=160061"
+        },
+        {
+            "mal_id": 35,
+            "url": null,
+            "title": "Killua × Punishment × Family Meeting",
+            "title_japanese": "キルア×おしおき×家族会議",
+            "title_romanji": "Killua × Oshioki × Kazoku Kaigi ",
+            "aired": "2000-07-22T00:00:00+00:00",
+            "score": 4.38,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=124262"
+        },
+        {
+            "mal_id": 36,
+            "url": null,
+            "title": "Coin Toss × Reunion × Change of Clothes",
+            "title_japanese": "コイン×再会×おめしかえ",
+            "title_romanji": "Coin × Saikai × Omeshikae ",
+            "aired": "2000-08-08T00:00:00+00:00",
+            "score": 4.3,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=42880"
+        },
+        {
+            "mal_id": 37,
+            "url": null,
+            "title": "Heaven × Fight × Training",
+            "title_japanese": "天空×ファイト×武者修行",
+            "title_romanji": "Tenkuu × Fight × Mushashugyou ",
+            "aired": "2000-08-19T00:00:00+00:00",
+            "score": 4.37,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=308325"
+        },
+        {
+            "mal_id": 38,
+            "url": null,
+            "title": "\"Nen\" × Nen × Nen?",
+            "title_japanese": "燃×念×ネン？",
+            "title_romanji": "\"Nen\" × Nen × Nen? ",
+            "aired": "2000-09-09T00:00:00+00:00",
+            "score": 4.42,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=318961"
+        },
+        {
+            "mal_id": 39,
+            "url": null,
+            "title": "Secret Trick × Registration × The Battle Begins",
+            "title_japanese": "裏ワザ×登録×バトル開始",
+            "title_romanji": "Uchiwaza × Touroku × Battle Kaishi ",
+            "aired": "2000-09-16T00:00:00+00:00",
+            "score": 4.31,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=318965"
+        },
+        {
+            "mal_id": 40,
+            "url": null,
+            "title": "Two Months × Break × Just In Case",
+            "title_japanese": "二ヶ月×お休み×念には念を",
+            "title_romanji": "Nikkagetsu × Oyasumi × Nen ni wa Nen wo ",
+            "aired": "2000-09-23T00:00:00+00:00",
+            "score": 4.35,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=308361"
+        },
+        {
+            "mal_id": 41,
+            "url": null,
+            "title": "Bungee × Punch × One Round Battle",
+            "title_japanese": "バンジー×パンチ×一本勝負",
+            "title_romanji": "Bangee × Punch × Ippanshoubu ",
+            "aired": "2000-09-30T00:00:00+00:00",
+            "score": 4.44,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=149493"
+        },
+        {
+            "mal_id": 42,
+            "url": null,
+            "title": "Hisoka's Love × Showdown × Gon's Resolve",
+            "title_japanese": "ヒソカの愛×決着×ゴンの本気",
+            "title_romanji": "Hisoka no ai × Kecchaku × Gon no Honki ",
+            "aired": "2000-10-21T00:00:00+00:00",
+            "score": 4.57,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=319197"
+        },
+        {
+            "mal_id": 43,
+            "url": null,
+            "title": "Talent × Agony × Killer Instinct",
+            "title_japanese": "才能×苦悩×ころしの本能",
+            "title_romanji": "Sainou × Kunou × Koroshi no Honnou ",
+            "aired": "2000-10-28T00:00:00+00:00",
+            "score": 4.43,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=42993"
+        },
+        {
+            "mal_id": 44,
+            "url": null,
+            "title": "Small Fry × Clean Up × Exam Over!?",
+            "title_japanese": "雑魚×おかたずけ×試験終了！？",
+            "title_romanji": "Zako × Okatazuke × Shiken Shuuryou!? ",
+            "aired": "2000-11-04T00:00:00+00:00",
+            "score": 4.51,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=7084"
+        },
+        {
+            "mal_id": 45,
+            "url": null,
+            "title": "Limitation × Vow × Chain of Judgment",
+            "title_japanese": "制約×誓約×戒めの鎖",
+            "title_romanji": "Seiyaku × Seiyaku × Imashime no Kusari ",
+            "aired": "2000-11-11T00:00:00+00:00",
+            "score": 4.54,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=168037"
+        },
+        {
+            "mal_id": 46,
+            "url": null,
+            "title": "I'm Home × Welcome Back × I'm Killua",
+            "title_japanese": "ただいま×おかえり×ぼくキルア",
+            "title_romanji": "Tadaima × Okaeri × Boku Killua ",
+            "aired": "2000-11-18T00:00:00+00:00",
+            "score": 4.55,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=43017"
+        },
+        {
+            "mal_id": 47,
+            "url": null,
+            "title": "Dad × Top Secret × Confession",
+            "title_japanese": "父×マル秘×告白",
+            "title_romanji": "Chichi × Maruhi × Kokuhaku ",
+            "aired": "2000-11-25T00:00:00+00:00",
+            "score": 4.35,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=122514"
+        },
+        {
+            "mal_id": 48,
+            "url": null,
+            "title": "Kurapika × Black Eyes × First Job",
+            "title_japanese": "クラピカ×黒い眼×最初の仕事",
+            "title_romanji": "Kurapika × Kuroi Me × Saisho no Shigoto ",
+            "aired": "2000-12-02T00:00:00+00:00",
+            "score": 4.46,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=319445"
+        },
+        {
+            "mal_id": 49,
+            "url": null,
+            "title": "Heart Tone × Kurapika × Dowsing",
+            "title_japanese": "心音×クラピカ×ダウジング",
+            "title_romanji": "Shinon × Kurapika × Dowsing ",
+            "aired": "2000-12-09T00:00:00+00:00",
+            "score": 4.14,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=233293"
+        },
+        {
+            "mal_id": 50,
+            "url": null,
+            "title": "Killua × Big Fortune × Hunter's Tavern",
+            "title_japanese": "キルア×一攫千金×狩人の酒場ハンターサイト",
+            "title_romanji": "Killua × Ikkaku Senkin × Karyudo no Sakaba Hunter Saito ",
+            "aired": "2000-12-16T00:00:00+00:00",
+            "score": 4.46,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=319481"
+        },
+        {
+            "mal_id": 51,
+            "url": null,
+            "title": "Spider × Yorknew × Assemble",
+            "title_japanese": "クモ×ヨークシン×全員集合",
+            "title_romanji": "Kumo x Yookushin x Zenin Shuugou ",
+            "aired": "2000-12-23T00:00:00+00:00",
+            "score": 4.47,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=319511"
+        },
+        {
+            "mal_id": 52,
+            "url": null,
+            "title": "Underground Auction × Annihilation × Machinegun",
+            "title_japanese": "地下競売（アングラ）×全滅×マシンガン",
+            "title_romanji": "Chika Kyoubai Angura × Zenmetsu × Machinegun ",
+            "aired": "2001-01-13T00:00:00+00:00",
+            "score": 4.46,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=319557"
+        },
+        {
+            "mal_id": 53,
+            "url": null,
+            "title": "Phantom Troupe × The Shadow Beasts × Community",
+            "title_japanese": "旅団×陰獣×コミュニティ",
+            "title_romanji": "Ryodan × Injuu × Community ",
+            "aired": "2001-01-20T00:00:00+00:00",
+            "score": 4.5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=319571"
+        },
+        {
+            "mal_id": 54,
+            "url": null,
+            "title": "Hisoka × Alliance × Spider Hunting",
+            "title_japanese": "ヒソカ×同盟×クモ退治",
+            "title_romanji": "Hisoka × Doumei × Kumo Taiji ",
+            "aired": "2001-01-27T00:00:00+00:00",
+            "score": 4.63,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=319603"
+        },
+        {
+            "mal_id": 55,
+            "url": null,
+            "title": "Uvo × Kurapika × Melody of Determination",
+            "title_japanese": "ウボォー×クラピカ×覚悟の旋律",
+            "title_romanji": "Uvo × Kurapika × Kakugo no Senritsu ",
+            "aired": "2001-02-03T00:00:00+00:00",
+            "score": 4.54,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=319629"
+        },
+        {
+            "mal_id": 56,
+            "url": null,
+            "title": "Scarlet Eyes × Duel × Cost of Life",
+            "title_japanese": "緋の眼×決闘×命の代償",
+            "title_romanji": "Hi no Me × Kettou × Inochi no Daishou ",
+            "aired": "2001-02-10T00:00:00+00:00",
+            "score": 4.69,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=319643"
+        },
+        {
+            "mal_id": 57,
+            "url": null,
+            "title": "Gon × Treasure × Dangerous Man",
+            "title_japanese": "ゴン×お宝×危うい男",
+            "title_romanji": "Gon × Otakara × Oyaui Otoko ",
+            "aired": "2001-02-17T00:00:00+00:00",
+            "score": 4.11,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=319821"
+        },
+        {
+            "mal_id": 58,
+            "url": null,
+            "title": "Gon × Killua × Deadly Chase",
+            "title_japanese": "ゴン×キルア×命がけの尾行",
+            "title_romanji": "Gon × Kirua × Inochi ga ke no Bikou ",
+            "aired": "2001-02-24T00:00:00+00:00",
+            "score": 4.7,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=319875"
+        },
+        {
+            "mal_id": 59,
+            "url": null,
+            "title": "Nest of Spiders × Captive × Killing Technique",
+            "title_japanese": "蜘蛛の巣×とらわれ×殺し技",
+            "title_romanji": "Kumo no Su × Toraware × Koroshi Waza ",
+            "aired": "2001-03-03T00:00:00+00:00",
+            "score": 4.68,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=363667"
+        },
+        {
+            "mal_id": 60,
+            "url": null,
+            "title": "Kurapika × Assassination Team × Zoldyck",
+            "title_japanese": "クラピカ×暗殺団×ゾルディック",
+            "title_romanji": "Kurapika × Ansatsudan × Zorudikku ",
+            "aired": "2001-03-10T00:00:00+00:00",
+            "score": 4.71,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=43189"
+        },
+        {
+            "mal_id": 61,
+            "url": null,
+            "title": "Spider Rendezvous × Zoldyck Family × Final Battle",
+            "title_japanese": "クモ集結×ゾル家×最終決戦の時",
+            "title_romanji": "Kumo Shuuketsu × Zoru ke × Saishuu Kessen no Toki ",
+            "aired": "2001-03-17T00:00:00+00:00",
+            "score": 4.58,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=264785"
+        },
+        {
+            "mal_id": 62,
+            "url": null,
+            "title": "Kurapika × Friends × End of Spiders",
+            "title_japanese": "クラピカ×仲間×クモの最期",
+            "title_romanji": "Kurapika × Nakama × Kumo no Saigo ",
+            "aired": "2001-03-31T00:00:00+00:00",
+            "score": 4.55,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=43200"
+        }
+    ]
+}

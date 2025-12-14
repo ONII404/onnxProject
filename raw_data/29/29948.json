@@ -1,0 +1,132 @@
+{
+    "id": 29948,
+    "fetched_at": "Sun Dec 14 10:39:09 2025",
+    "metadata": {
+        "mal_id": 29948,
+        "url": "https://myanimelist.net/anime/29948/Chibikuro_Sambo_to_Futago_no_Otouto",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/5/71843.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/5/71843t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/5/71843l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/5/71843.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/5/71843t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/5/71843l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Chibikuro Sambo to Futago no Otouto"
+            },
+            {
+                "type": "Synonym",
+                "title": "Little Black Sambo and his Twin Brother"
+            },
+            {
+                "type": "Japanese",
+                "title": "ちびくろさんぼとふたごのおとうと"
+            }
+        ],
+        "title": "Chibikuro Sambo to Futago no Otouto",
+        "title_english": null,
+        "title_japanese": "ちびくろさんぼとふたごのおとうと",
+        "title_synonyms": [
+            "Little Black Sambo and his Twin Brother"
+        ],
+        "type": "Movie",
+        "source": "Original",
+        "episodes": 1,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "1957-03-01T00:00:00+00:00",
+            "to": null,
+            "prop": {
+                "from": {
+                    "day": 1,
+                    "month": 3,
+                    "year": 1957
+                },
+                "to": {
+                    "day": null,
+                    "month": null,
+                    "year": null
+                }
+            },
+            "string": "Mar 1957"
+        },
+        "duration": "20 min",
+        "rating": "G - All Ages",
+        "score": null,
+        "scored_by": null,
+        "rank": 20669,
+        "popularity": 18685,
+        "members": 447,
+        "favorites": 0,
+        "synopsis": "A short puppet animation movie.",
+        "background": "",
+        "season": null,
+        "year": null,
+        "broadcast": {
+            "day": null,
+            "time": null,
+            "timezone": null,
+            "string": null
+        },
+        "producers": [],
+        "licensors": [],
+        "studios": [],
+        "genres": [],
+        "explicit_genres": [],
+        "themes": [],
+        "demographics": [
+            {
+                "mal_id": 15,
+                "type": "anime",
+                "name": "Kids",
+                "url": "https://myanimelist.net/anime/genre/15/Kids"
+            }
+        ],
+        "relations": [
+            {
+                "relation": "Prequel",
+                "entry": [
+                    {
+                        "mal_id": 29947,
+                        "type": "anime",
+                        "name": "Chibikuro Sambo no Tora Taiji",
+                        "url": "https://myanimelist.net/anime/29947/Chibikuro_Sambo_no_Tora_Taiji"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [],
+            "endings": []
+        },
+        "external": [
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=6951"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": []
+}

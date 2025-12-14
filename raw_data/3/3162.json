@@ -1,0 +1,755 @@
+{
+    "id": 3162,
+    "fetched_at": "Sun Dec 14 08:20:17 2025",
+    "metadata": {
+        "mal_id": 3162,
+        "url": "https://myanimelist.net/anime/3162/Makiba_no_Shoujo_Katri",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1227/98642.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1227/98642t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1227/98642l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1227/98642.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1227/98642t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1227/98642l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Makiba no Shoujo Katri"
+            },
+            {
+                "type": "Japanese",
+                "title": "牧場の少女カトリ"
+            },
+            {
+                "type": "English",
+                "title": "Katri, Girl of the Meadows"
+            },
+            {
+                "type": "Spanish",
+                "title": "Katoli"
+            }
+        ],
+        "title": "Makiba no Shoujo Katri",
+        "title_english": "Katri, Girl of the Meadows",
+        "title_japanese": "牧場の少女カトリ",
+        "title_synonyms": [],
+        "type": "TV",
+        "source": "Novel",
+        "episodes": 49,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "1984-01-08T00:00:00+00:00",
+            "to": "1984-12-23T00:00:00+00:00",
+            "prop": {
+                "from": {
+                    "day": 8,
+                    "month": 1,
+                    "year": 1984
+                },
+                "to": {
+                    "day": 23,
+                    "month": 12,
+                    "year": 1984
+                }
+            },
+            "string": "Jan 8, 1984 to Dec 23, 1984"
+        },
+        "duration": "25 min per ep",
+        "rating": "G - All Ages",
+        "score": 6.98,
+        "scored_by": 1752,
+        "rank": 4647,
+        "popularity": 9265,
+        "members": 5101,
+        "favorites": 21,
+        "synopsis": "This series tells the story of 9 year-old Katri, a  girl who lives on a farm in Finland with her grandparents. Katri's mother has been away in Germany for three years.  The farm is not doing well, so to help support her family, she goes to work on a neighboring farm. Katri faces many struggles and challenges.",
+        "background": "",
+        "season": "winter",
+        "year": 1984,
+        "broadcast": {
+            "day": null,
+            "time": null,
+            "timezone": null,
+            "string": "Unknown"
+        },
+        "producers": [],
+        "licensors": [],
+        "studios": [
+            {
+                "mal_id": 22,
+                "type": "anime",
+                "name": "Nippon Animation",
+                "url": "https://myanimelist.net/anime/producer/22/Nippon_Animation"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 2,
+                "type": "anime",
+                "name": "Adventure",
+                "url": "https://myanimelist.net/anime/genre/2/Adventure"
+            },
+            {
+                "mal_id": 8,
+                "type": "anime",
+                "name": "Drama",
+                "url": "https://myanimelist.net/anime/genre/8/Drama"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [
+            {
+                "mal_id": 13,
+                "type": "anime",
+                "name": "Historical",
+                "url": "https://myanimelist.net/anime/genre/13/Historical"
+            }
+        ],
+        "demographics": [],
+        "relations": [
+            {
+                "relation": "Summary",
+                "entry": [
+                    {
+                        "mal_id": 25073,
+                        "type": "anime",
+                        "name": "Makiba no Shoujo Katri Specials",
+                        "url": "https://myanimelist.net/anime/25073/Makiba_no_Shoujo_Katri_Specials"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [
+                "\"Love with You ~ai no present~\" by Chie Kobayashi"
+            ],
+            "endings": [
+                "\"Kaze no komoriuta\" by Chie Kobayashi"
+            ]
+        },
+        "external": [
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=2299"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=443"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "http://en.wikipedia.org/wiki/Makiba_no_Shoujo_Katori"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": [
+        {
+            "mal_id": 1,
+            "url": null,
+            "title": "Goodbyes",
+            "title_japanese": "別れ",
+            "title_romanji": "Wakare ",
+            "aired": "1984-01-08T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 2,
+            "url": null,
+            "title": "Friends",
+            "title_japanese": "友だち",
+            "title_romanji": "Tomodachi ",
+            "aired": "1984-01-15T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 3,
+            "url": null,
+            "title": "Spring Storm",
+            "title_japanese": "春のあらし",
+            "title_romanji": "Haru no Arashi ",
+            "aired": "1984-01-22T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 4,
+            "url": null,
+            "title": "Decision",
+            "title_japanese": "決意",
+            "title_romanji": "Ketsui ",
+            "aired": "1984-01-29T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 5,
+            "url": null,
+            "title": "Time of Separation",
+            "title_japanese": "出発",
+            "title_romanji": "Shuppatsu ",
+            "aired": "1984-02-05T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 6,
+            "url": null,
+            "title": "The Master",
+            "title_japanese": "主人",
+            "title_romanji": "Shujin ",
+            "aired": "1984-02-12T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 7,
+            "url": null,
+            "title": "The Madam",
+            "title_japanese": "奥様",
+            "title_romanji": "Okusama ",
+            "aired": "1984-02-19T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 8,
+            "url": null,
+            "title": "The Acciden",
+            "title_japanese": "災難",
+            "title_romanji": "Sainan ",
+            "aired": "1984-02-26T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 9,
+            "url": null,
+            "title": "Affection",
+            "title_japanese": "愛情",
+            "title_romanji": "Aijou ",
+            "aired": "1984-03-04T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 10,
+            "url": null,
+            "title": "The Promise",
+            "title_japanese": "約束",
+            "title_romanji": "Yakusoku ",
+            "aired": "1984-03-11T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 11,
+            "url": null,
+            "title": "The Fight",
+            "title_japanese": "喧嘩",
+            "title_romanji": "Kenka ",
+            "aired": "1984-03-18T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 12,
+            "url": null,
+            "title": "The Letter",
+            "title_japanese": "手紙",
+            "title_romanji": "Tegami ",
+            "aired": "1984-03-25T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2189156"
+        },
+        {
+            "mal_id": 13,
+            "url": null,
+            "title": "A Wonderful Present",
+            "title_japanese": "素敵な贈物",
+            "title_romanji": "Suteki na Okurimono ",
+            "aired": "1984-04-01T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 14,
+            "url": null,
+            "title": "My First Invitation",
+            "title_japanese": "はじめての招待",
+            "title_romanji": "Hajimete no Shoutai ",
+            "aired": "1984-04-08T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 15,
+            "url": null,
+            "title": "An Unexpected Payment",
+            "title_japanese": "おもいがけないお給料",
+            "title_romanji": "Omoigakenai Okyuuryou ",
+            "aired": "1984-04-15T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 16,
+            "url": null,
+            "title": "The Little Lost Lamb",
+            "title_japanese": "迷子になった羊",
+            "title_romanji": "Maigo ni Natta Hitsuji ",
+            "aired": "1984-04-22T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 17,
+            "url": null,
+            "title": "Day of the extermination of wolves",
+            "title_japanese": "狼を退治する日",
+            "title_romanji": "Ookami wo Taijisuru Hi ",
+            "aired": "1984-04-29T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 18,
+            "url": null,
+            "title": "Two Fires",
+            "title_japanese": "二つの火事",
+            "title_romanji": "Futatsu no Kaji ",
+            "aired": "1984-05-06T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 19,
+            "url": null,
+            "title": "Room Mate",
+            "title_japanese": "隣どうし",
+            "title_romanji": "Tonaridoushi ",
+            "aired": "1984-05-13T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 20,
+            "url": null,
+            "title": "Incoming person, outgoing person",
+            "title_japanese": "来た人と去る人",
+            "title_romanji": "Kita Hito to Saru Hito ",
+            "aired": "1984-05-20T00:00:00+00:00",
+            "score": 5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1948422"
+        },
+        {
+            "mal_id": 21,
+            "url": null,
+            "title": "Abel targetted",
+            "title_japanese": "アベルが狙われた",
+            "title_romanji": "Aberu ga Nerawareta ",
+            "aired": "1984-05-27T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 22,
+            "url": null,
+            "title": "While waiting for spring",
+            "title_japanese": "春を待ちながら",
+            "title_romanji": "Haru wo Machinagara ",
+            "aired": "1984-06-03T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 23,
+            "url": null,
+            "title": "The bear and the cattle, which one is stronger",
+            "title_japanese": "熊と牛はどちらが強いか",
+            "title_romanji": "Kuma to Ushi wa Dochira ga Tsuyoi ka ",
+            "aired": "1984-06-17T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 24,
+            "url": null,
+            "title": "A meeting and a parting",
+            "title_japanese": "出会いと別れ",
+            "title_romanji": "Deai to Wakare ",
+            "aired": "1984-06-24T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 25,
+            "url": null,
+            "title": "Event at the Island",
+            "title_japanese": "島での出来事",
+            "title_romanji": "Shima de no Dekigoto ",
+            "aired": "1984-07-01T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 26,
+            "url": null,
+            "title": "The person who saved u",
+            "title_japanese": "助けてくれた人",
+            "title_romanji": "Tasukete Kureta Hito ",
+            "aired": "1984-07-08T00:00:00+00:00",
+            "score": 5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1865090"
+        },
+        {
+            "mal_id": 27,
+            "url": null,
+            "title": "Growing City",
+            "title_japanese": "都会育ち",
+            "title_romanji": "Tokai Sodachi ",
+            "aired": "1984-07-15T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 28,
+            "url": null,
+            "title": "New Life",
+            "title_japanese": "新しい生活",
+            "title_romanji": "Atarashii Seikatsu ",
+            "aired": "1984-07-21T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 29,
+            "url": null,
+            "title": "Seeing dreams",
+            "title_japanese": "夢を見ていた",
+            "title_romanji": "Yume wo Mite Ita ",
+            "aired": "1984-07-28T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 30,
+            "url": null,
+            "title": "Like a majestic swan",
+            "title_japanese": "美しい白鳥のように",
+            "title_romanji": "Utsukushii Hakuchou no You ni ",
+            "aired": "1984-08-12T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 31,
+            "url": null,
+            "title": "Book delivered by mail",
+            "title_japanese": "本が送られて来た",
+            "title_romanji": "Hon ga Okurarete Kita ",
+            "aired": "1984-08-19T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 32,
+            "url": null,
+            "title": "Magical book and the devil",
+            "title_japanese": "魔法の本と悪魔",
+            "title_romanji": "Mahou no Hon to Akuma ",
+            "aired": "1984-08-26T00:00:00+00:00",
+            "score": 5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1865530"
+        },
+        {
+            "mal_id": 33,
+            "url": null,
+            "title": "Joy and sadness",
+            "title_japanese": "喜びと悲しみ",
+            "title_romanji": "Yorokobi to Kanashimi ",
+            "aired": "1984-09-02T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 34,
+            "url": null,
+            "title": "Going to Helsinki",
+            "title_japanese": "ヘルシンキ行き",
+            "title_romanji": "Helsinki Iki ",
+            "aired": "1984-09-09T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 35,
+            "url": null,
+            "title": "Father and Daughte",
+            "title_japanese": "父と娘",
+            "title_romanji": "Chichi to Musume ",
+            "aired": "1984-09-16T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 36,
+            "url": null,
+            "title": "The Big Decision",
+            "title_japanese": "奥様の決意",
+            "title_romanji": "Oku-sama no Ketsui ",
+            "aired": "1984-09-23T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 37,
+            "url": null,
+            "title": "Abel Astray",
+            "title_japanese": "迷子のアベル",
+            "title_romanji": "Maigo no Abel ",
+            "aired": "1984-09-30T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 38,
+            "url": null,
+            "title": "Every Road",
+            "title_japanese": "それぞれの道",
+            "title_romanji": "Sorezore no Michi ",
+            "aired": "1984-10-07T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 39,
+            "url": null,
+            "title": "Party at Harma's mansion",
+            "title_japanese": "ハルマ屋敷のパーティ",
+            "title_romanji": "Haruma Yashiki no Party ",
+            "aired": "1984-10-14T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 40,
+            "url": null,
+            "title": "On the road",
+            "title_japanese": "道づれ",
+            "title_romanji": "Michizure ",
+            "aired": "1984-10-21T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 41,
+            "url": null,
+            "title": "Citizens of Turku",
+            "title_japanese": "トゥルクの人々",
+            "title_romanji": "Turku no Hitobito ",
+            "aired": "1984-10-28T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 42,
+            "url": null,
+            "title": "Picture-book without pictures",
+            "title_japanese": "絵のない絵本",
+            "title_romanji": "E no nai Ehon ",
+            "aired": "1984-11-04T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 43,
+            "url": null,
+            "title": "Road a car!",
+            "title_japanese": "自動車に乗った!",
+            "title_romanji": "Jidousha ni Notta! ",
+            "aired": "1984-11-11T00:00:00+00:00",
+            "score": 5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1865948"
+        },
+        {
+            "mal_id": 44,
+            "url": null,
+            "title": "Obnoxious Girl",
+            "title_japanese": "にくらしい娘",
+            "title_romanji": "Nikurashii Musume ",
+            "aired": "1984-11-18T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 45,
+            "url": null,
+            "title": "Tiresome day",
+            "title_japanese": "疲れた一日",
+            "title_romanji": "Tsukareta Ichinichi ",
+            "aired": "1984-11-25T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 46,
+            "url": null,
+            "title": "Beautiful thing",
+            "title_japanese": "美しいもの",
+            "title_romanji": "Utsukushii Mono ",
+            "aired": "1984-12-02T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 47,
+            "url": null,
+            "title": "Souvenir bag",
+            "title_japanese": "お土産のランドセル",
+            "title_romanji": "Omiyage no Ransel ",
+            "aired": "1984-12-09T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 48,
+            "url": null,
+            "title": "Ah! School Entrance",
+            "title_japanese": "ああ入学",
+            "title_romanji": "Aa Nyuugaku ",
+            "aired": "1984-12-16T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 49,
+            "url": null,
+            "title": "Mother's return",
+            "title_japanese": "おかあさんの帰国",
+            "title_romanji": "Okaasan no Kikoku ",
+            "aired": "1984-12-23T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        }
+    ]
+}

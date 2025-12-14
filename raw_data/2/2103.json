@@ -1,0 +1,172 @@
+{
+    "id": 2103,
+    "fetched_at": "Sun Dec 14 07:20:12 2025",
+    "metadata": {
+        "mal_id": 2103,
+        "url": "https://myanimelist.net/anime/2103/TO-Y",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1070/148136.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1070/148136t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1070/148136l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1070/148136.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1070/148136t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1070/148136l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "TO-Y"
+            },
+            {
+                "type": "Japanese",
+                "title": "トーイ"
+            }
+        ],
+        "title": "TO-Y",
+        "title_english": null,
+        "title_japanese": "トーイ",
+        "title_synonyms": [],
+        "type": "OVA",
+        "source": "Manga",
+        "episodes": 1,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "1987-10-01T00:00:00+00:00",
+            "to": null,
+            "prop": {
+                "from": {
+                    "day": 1,
+                    "month": 10,
+                    "year": 1987
+                },
+                "to": {
+                    "day": null,
+                    "month": null,
+                    "year": null
+                }
+            },
+            "string": "Oct 1, 1987"
+        },
+        "duration": "53 min",
+        "rating": "R+ - Mild Nudity",
+        "score": 6.23,
+        "scored_by": 1912,
+        "rank": 8959,
+        "popularity": 9025,
+        "members": 5455,
+        "favorites": 19,
+        "synopsis": "To-Y Fujii is the frontman of GASP, a band rapidly growing in popularity in Tokyo's underground punk scene. Just when it seems like the band has gotten their big break and booked a major venue, an executive from the large Koyama Productions tries to scout To-Y as a solo act. Unwilling to abandon his bandmates, he boldly declares that he does not need Koyama's support. However, when the spurned executive starts to put obstacles in their way, To-Y must decide if his integrity is worth holding on to.\n\n[Written by MAL Rewrite]",
+        "background": "",
+        "season": null,
+        "year": null,
+        "broadcast": {
+            "day": null,
+            "time": null,
+            "timezone": null,
+            "string": null
+        },
+        "producers": [
+            {
+                "mal_id": 757,
+                "type": "anime",
+                "name": "Sony Music Entertainment",
+                "url": "https://myanimelist.net/anime/producer/757/Sony_Music_Entertainment"
+            },
+            {
+                "mal_id": 1480,
+                "type": "anime",
+                "name": "CBS Sony Group",
+                "url": "https://myanimelist.net/anime/producer/1480/CBS_Sony_Group"
+            }
+        ],
+        "licensors": [],
+        "studios": [
+            {
+                "mal_id": 36,
+                "type": "anime",
+                "name": "Gallop",
+                "url": "https://myanimelist.net/anime/producer/36/Gallop"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 8,
+                "type": "anime",
+                "name": "Drama",
+                "url": "https://myanimelist.net/anime/genre/8/Drama"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [
+            {
+                "mal_id": 19,
+                "type": "anime",
+                "name": "Music",
+                "url": "https://myanimelist.net/anime/genre/19/Music"
+            }
+        ],
+        "demographics": [
+            {
+                "mal_id": 27,
+                "type": "anime",
+                "name": "Shounen",
+                "url": "https://myanimelist.net/anime/genre/27/Shounen"
+            }
+        ],
+        "relations": [
+            {
+                "relation": "Adaptation",
+                "entry": [
+                    {
+                        "mal_id": 24531,
+                        "type": "manga",
+                        "name": "TO-Y",
+                        "url": "https://myanimelist.net/manga/24531/TO-Y"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [
+                "\"Lemon no Yuuki\" by Psy-S"
+            ],
+            "endings": [
+                "\"CUBIC LOVERS\" by Psy-S"
+            ]
+        },
+        "external": [
+            {
+                "name": "Official Site",
+                "url": "http://www.cjas.org/~leng/to-y.htm"
+            },
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=2922"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=827"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": []
+}

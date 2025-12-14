@@ -1,0 +1,147 @@
+{
+    "id": 19751,
+    "fetched_at": "Sun Dec 14 10:00:31 2025",
+    "metadata": {
+        "mal_id": 19751,
+        "url": "https://myanimelist.net/anime/19751/Gu-Gu_Ganmo_Movie",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1694/148729.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1694/148729t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1694/148729l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1694/148729.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1694/148729t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1694/148729l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Gu-Gu Ganmo (Movie)"
+            },
+            {
+                "type": "Synonym",
+                "title": "Gu-Gu Ganmo (1985)"
+            },
+            {
+                "type": "Japanese",
+                "title": "GU-GU ガンモ"
+            }
+        ],
+        "title": "Gu-Gu Ganmo (Movie)",
+        "title_english": null,
+        "title_japanese": "GU-GU ガンモ",
+        "title_synonyms": [
+            "Gu-Gu Ganmo (1985)"
+        ],
+        "type": "Movie",
+        "source": "Manga",
+        "episodes": 1,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "1985-03-16T00:00:00+00:00",
+            "to": null,
+            "prop": {
+                "from": {
+                    "day": 16,
+                    "month": 3,
+                    "year": 1985
+                },
+                "to": {
+                    "day": null,
+                    "month": null,
+                    "year": null
+                }
+            },
+            "string": "Mar 16, 1985"
+        },
+        "duration": "45 min",
+        "rating": "PG - Children",
+        "score": null,
+        "scored_by": null,
+        "rank": 21661,
+        "popularity": 17764,
+        "members": 523,
+        "favorites": 0,
+        "synopsis": "Movie version that lampooned several Japanese Folklore Tales, including that of Princess Kaguya.\n\nBased on a manga by Hosono Fujihiko, serialised in Weekly Shounen Sunday.\n\n(Source: AniDB)",
+        "background": "",
+        "season": null,
+        "year": null,
+        "broadcast": {
+            "day": null,
+            "time": null,
+            "timezone": null,
+            "string": null
+        },
+        "producers": [],
+        "licensors": [],
+        "studios": [
+            {
+                "mal_id": 18,
+                "type": "anime",
+                "name": "Toei Animation",
+                "url": "https://myanimelist.net/anime/producer/18/Toei_Animation"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 4,
+                "type": "anime",
+                "name": "Comedy",
+                "url": "https://myanimelist.net/anime/genre/4/Comedy"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [],
+        "demographics": [],
+        "relations": [
+            {
+                "relation": "Alternative Version",
+                "entry": [
+                    {
+                        "mal_id": 3020,
+                        "type": "anime",
+                        "name": "Gu-Gu Ganmo",
+                        "url": "https://myanimelist.net/anime/3020/Gu-Gu_Ganmo"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [
+                "\"Ganmo Doki! (ガンモ・ドキッ!)\" by Susie Matsubara"
+            ],
+            "endings": [
+                "\"Hyopokon Kankei (ヒョコポン関係)\" by Susie Matsubara"
+            ]
+        },
+        "external": [
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=2039"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=3671"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": []
+}

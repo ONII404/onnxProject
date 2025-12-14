@@ -1,0 +1,391 @@
+{
+    "id": 394,
+    "fetched_at": "Sun Dec 14 13:04:47 2025",
+    "metadata": {
+        "mal_id": 394,
+        "url": "https://myanimelist.net/anime/394/Ai_Yori_Aoshi__Enishi",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/10/71425.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/10/71425t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/10/71425l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/10/71425.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/10/71425t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/10/71425l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Ai Yori Aoshi: Enishi"
+            },
+            {
+                "type": "Synonym",
+                "title": "Bluer Than Indigo: Fate"
+            },
+            {
+                "type": "Japanese",
+                "title": "藍より青し～縁～"
+            },
+            {
+                "type": "English",
+                "title": "Ai Yori Aoshi: Enishi"
+            }
+        ],
+        "title": "Ai Yori Aoshi: Enishi",
+        "title_english": "Ai Yori Aoshi: Enishi",
+        "title_japanese": "藍より青し～縁～",
+        "title_synonyms": [
+            "Bluer Than Indigo: Fate"
+        ],
+        "type": "TV",
+        "source": "Manga",
+        "episodes": 12,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "2003-10-13T00:00:00+00:00",
+            "to": "2003-12-29T00:00:00+00:00",
+            "prop": {
+                "from": {
+                    "day": 13,
+                    "month": 10,
+                    "year": 2003
+                },
+                "to": {
+                    "day": 29,
+                    "month": 12,
+                    "year": 2003
+                }
+            },
+            "string": "Oct 13, 2003 to Dec 29, 2003"
+        },
+        "duration": "23 min per ep",
+        "rating": "PG-13 - Teens 13 or older",
+        "score": 7.11,
+        "scored_by": 33775,
+        "rank": 3979,
+        "popularity": 3109,
+        "members": 61857,
+        "favorites": 87,
+        "synopsis": "Two years after meeting Aoi, Kaoru and gang are still up to their normal habits. Kaoru now in grad school and the tenants being as rowdy as ever what will become of Aoi and Kaoru's love.\n\nTwo years has passed since Aoi and Kaoru were freed from the bonds of their families. They continue to live their normal lives with their usual friends in their house.",
+        "background": "",
+        "season": "fall",
+        "year": 2003,
+        "broadcast": {
+            "day": "Mondays",
+            "time": "01:00",
+            "timezone": "Asia/Tokyo",
+            "string": "Mondays at 01:00 (JST)"
+        },
+        "producers": [
+            {
+                "mal_id": 160,
+                "type": "anime",
+                "name": "Rondo Robe",
+                "url": "https://myanimelist.net/anime/producer/160/Rondo_Robe"
+            },
+            {
+                "mal_id": 166,
+                "type": "anime",
+                "name": "Movic",
+                "url": "https://myanimelist.net/anime/producer/166/Movic"
+            },
+            {
+                "mal_id": 745,
+                "type": "anime",
+                "name": "Cosmic Ray",
+                "url": "https://myanimelist.net/anime/producer/745/Cosmic_Ray"
+            }
+        ],
+        "licensors": [
+            {
+                "mal_id": 102,
+                "type": "anime",
+                "name": "Funimation",
+                "url": "https://myanimelist.net/anime/producer/102/Funimation"
+            },
+            {
+                "mal_id": 1459,
+                "type": "anime",
+                "name": "Geneon Entertainment USA",
+                "url": "https://myanimelist.net/anime/producer/1459/Geneon_Entertainment_USA"
+            }
+        ],
+        "studios": [
+            {
+                "mal_id": 7,
+                "type": "anime",
+                "name": "J.C.Staff",
+                "url": "https://myanimelist.net/anime/producer/7/JCStaff"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 4,
+                "type": "anime",
+                "name": "Comedy",
+                "url": "https://myanimelist.net/anime/genre/4/Comedy"
+            },
+            {
+                "mal_id": 8,
+                "type": "anime",
+                "name": "Drama",
+                "url": "https://myanimelist.net/anime/genre/8/Drama"
+            },
+            {
+                "mal_id": 22,
+                "type": "anime",
+                "name": "Romance",
+                "url": "https://myanimelist.net/anime/genre/22/Romance"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [
+            {
+                "mal_id": 35,
+                "type": "anime",
+                "name": "Harem",
+                "url": "https://myanimelist.net/anime/genre/35/Harem"
+            }
+        ],
+        "demographics": [
+            {
+                "mal_id": 42,
+                "type": "anime",
+                "name": "Seinen",
+                "url": "https://myanimelist.net/anime/genre/42/Seinen"
+            }
+        ],
+        "relations": [
+            {
+                "relation": "Prequel",
+                "entry": [
+                    {
+                        "mal_id": 53,
+                        "type": "anime",
+                        "name": "Ai Yori Aoshi",
+                        "url": "https://myanimelist.net/anime/53/Ai_Yori_Aoshi"
+                    }
+                ]
+            },
+            {
+                "relation": "Adaptation",
+                "entry": [
+                    {
+                        "mal_id": 75,
+                        "type": "manga",
+                        "name": "Ai yori Aoshi",
+                        "url": "https://myanimelist.net/manga/75/Ai_yori_Aoshi"
+                    }
+                ]
+            },
+            {
+                "relation": "Side Story",
+                "entry": [
+                    {
+                        "mal_id": 3266,
+                        "type": "anime",
+                        "name": "Ai Yori Aoshi: Enishi - Miyuki",
+                        "url": "https://myanimelist.net/anime/3266/Ai_Yori_Aoshi__Enishi_-_Miyuki"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [
+                "\"Takaramono (Treasure)\" by Yoko Ishida"
+            ],
+            "endings": [
+                "1: \"I do!\" by The Indigo (eps 1-8,10-11)",
+                "2: \"presence\" by the Indigo (eps 9)",
+                "3: \"Towa no Hana (Eternal Flower)\" by Yoko Ishida (eps 12)"
+            ]
+        },
+        "external": [
+            {
+                "name": "Official Site",
+                "url": "http://www.aiyoriaoshi.com/enishi/"
+            },
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=1059"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=2568"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "http://en.wikipedia.org/wiki/Ai_Yori_Aoshi_Enishi"
+            }
+        ],
+        "streaming": [
+            {
+                "name": "Crunchyroll",
+                "url": "http://www.crunchyroll.com/series-274361"
+            }
+        ]
+    },
+    "episodes": [
+        {
+            "mal_id": 1,
+            "url": "https://myanimelist.net/anime/394/Ai_Yori_Aoshi__Enishi/episode/1",
+            "title": "Spring Blossom",
+            "title_japanese": "桜春",
+            "title_romanji": "Oushun ",
+            "aired": "2003-10-13T00:00:00+00:00",
+            "score": 4.38,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=89917"
+        },
+        {
+            "mal_id": 2,
+            "url": "https://myanimelist.net/anime/394/Ai_Yori_Aoshi__Enishi/episode/2",
+            "title": "Friends",
+            "title_japanese": "友垣",
+            "title_romanji": "Tomogaki ",
+            "aired": "2003-10-20T00:00:00+00:00",
+            "score": 4.24,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=89950"
+        },
+        {
+            "mal_id": 3,
+            "url": "https://myanimelist.net/anime/394/Ai_Yori_Aoshi__Enishi/episode/3",
+            "title": "Tennis",
+            "title_japanese": "庭球",
+            "title_romanji": "Teikyuu ",
+            "aired": "2003-10-27T00:00:00+00:00",
+            "score": 4.48,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=89956"
+        },
+        {
+            "mal_id": 4,
+            "url": "https://myanimelist.net/anime/394/Ai_Yori_Aoshi__Enishi/episode/4",
+            "title": "Phantom",
+            "title_japanese": "怪",
+            "title_romanji": "Mononoke ",
+            "aired": "2003-11-03T00:00:00+00:00",
+            "score": 4.25,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=89962"
+        },
+        {
+            "mal_id": 5,
+            "url": "https://myanimelist.net/anime/394/Ai_Yori_Aoshi__Enishi/episode/5",
+            "title": "Piano",
+            "title_japanese": "洋琴",
+            "title_romanji": "Youkin ",
+            "aired": "2003-11-10T00:00:00+00:00",
+            "score": 4.14,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=89966"
+        },
+        {
+            "mal_id": 6,
+            "url": "https://myanimelist.net/anime/394/Ai_Yori_Aoshi__Enishi/episode/6",
+            "title": "Journey",
+            "title_japanese": "道程",
+            "title_romanji": "Doutei ",
+            "aired": "2003-11-17T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=89972"
+        },
+        {
+            "mal_id": 7,
+            "url": "https://myanimelist.net/anime/394/Ai_Yori_Aoshi__Enishi/episode/7",
+            "title": "Summer Resort",
+            "title_japanese": "避暑",
+            "title_romanji": "Hisho ",
+            "aired": "2003-11-24T00:00:00+00:00",
+            "score": 4.53,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=89982"
+        },
+        {
+            "mal_id": 8,
+            "url": "https://myanimelist.net/anime/394/Ai_Yori_Aoshi__Enishi/episode/8",
+            "title": "Fish and Water",
+            "title_japanese": "水魚",
+            "title_romanji": "Suigyo ",
+            "aired": "2003-12-01T00:00:00+00:00",
+            "score": 4.25,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=90001"
+        },
+        {
+            "mal_id": 9,
+            "url": "https://myanimelist.net/anime/394/Ai_Yori_Aoshi__Enishi/episode/9",
+            "title": "White",
+            "title_japanese": "白妙",
+            "title_romanji": "Shirotae ",
+            "aired": "2003-12-08T00:00:00+00:00",
+            "score": 4.6,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=90002"
+        },
+        {
+            "mal_id": 10,
+            "url": "https://myanimelist.net/anime/394/Ai_Yori_Aoshi__Enishi/episode/10",
+            "title": "Bathrobe",
+            "title_japanese": "湯帷子",
+            "title_romanji": "Yukatabira ",
+            "aired": "2003-12-15T00:00:00+00:00",
+            "score": 4.52,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=90013"
+        },
+        {
+            "mal_id": 11,
+            "url": "https://myanimelist.net/anime/394/Ai_Yori_Aoshi__Enishi/episode/11",
+            "title": "Moonlight",
+            "title_japanese": "月光",
+            "title_romanji": "Gekkou ",
+            "aired": "2003-12-22T00:00:00+00:00",
+            "score": 4.56,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=90425"
+        },
+        {
+            "mal_id": 12,
+            "url": "https://myanimelist.net/anime/394/Ai_Yori_Aoshi__Enishi/episode/12",
+            "title": "Bonds",
+            "title_japanese": "絆",
+            "title_romanji": "Kizuna ",
+            "aired": "2003-12-29T00:00:00+00:00",
+            "score": 3.98,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=90432"
+        }
+    ]
+}

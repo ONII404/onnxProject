@@ -1,0 +1,557 @@
+{
+    "id": 120,
+    "fetched_at": "Sun Dec 14 12:39:02 2025",
+    "metadata": {
+        "mal_id": 120,
+        "url": "https://myanimelist.net/anime/120/Fruits_Basket",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/4/75204.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/4/75204t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/4/75204l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/4/75204.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/4/75204t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/4/75204l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Fruits Basket"
+            },
+            {
+                "type": "Synonym",
+                "title": "Furuba"
+            },
+            {
+                "type": "Japanese",
+                "title": "フルーツバスケット"
+            },
+            {
+                "type": "English",
+                "title": "Fruits Basket"
+            }
+        ],
+        "title": "Fruits Basket",
+        "title_english": "Fruits Basket",
+        "title_japanese": "フルーツバスケット",
+        "title_synonyms": [
+            "Furuba"
+        ],
+        "type": "TV",
+        "source": "Manga",
+        "episodes": 26,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "2001-07-05T00:00:00+00:00",
+            "to": "2001-12-27T00:00:00+00:00",
+            "prop": {
+                "from": {
+                    "day": 5,
+                    "month": 7,
+                    "year": 2001
+                },
+                "to": {
+                    "day": 27,
+                    "month": 12,
+                    "year": 2001
+                }
+            },
+            "string": "Jul 5, 2001 to Dec 27, 2001"
+        },
+        "duration": "24 min per ep",
+        "rating": "PG-13 - Teens 13 or older",
+        "score": 7.69,
+        "scored_by": 292537,
+        "rank": 1397,
+        "popularity": 435,
+        "members": 562281,
+        "favorites": 9902,
+        "synopsis": "After the accident in which she lost her mother, 16-year-old Tooru moves in with her grandfather, but due to his home being renovated, is unable to continue living with him. Claiming she will find someone to stay with but also fearing the criticism of her family and not wanting to burden any of her friends, Tooru resorts to secretly living on her own in a tent in the woods.\n\nOne night on her way back from work, she finds her tent buried underneath a landslide. Yuki Souma, the \"prince\" of her school, and his cousin Shigure Souma, a famous author, stumble across Tooru's situation and invite her to stay with them until her grandfather's home renovations are complete.\n\nUpon arriving at the Souma house, Tooru discovers their secret: if a Souma is hugged by someone of the opposite gender, they temporarily transform into one of the animals of the zodiac! However, this strange phenomenon is no laughing matter; rather, it is a terrible curse that holds a dark history. As she continues her journey, meeting more members of the zodiac family, will Tooru's kindhearted yet resilient nature be enough to prepare her for what lies behind the Souma household's doors?\n\n[Written by MAL Rewrite]",
+        "background": "Fruits Basket won the 2001 Animage's Anime Grand Prix Award.",
+        "season": "summer",
+        "year": 2001,
+        "broadcast": {
+            "day": "Thursdays",
+            "time": "18:00",
+            "timezone": "Asia/Tokyo",
+            "string": "Thursdays at 18:00 (JST)"
+        },
+        "producers": [
+            {
+                "mal_id": 16,
+                "type": "anime",
+                "name": "TV Tokyo",
+                "url": "https://myanimelist.net/anime/producer/16/TV_Tokyo"
+            },
+            {
+                "mal_id": 139,
+                "type": "anime",
+                "name": "Nihon Ad Systems",
+                "url": "https://myanimelist.net/anime/producer/139/Nihon_Ad_Systems"
+            },
+            {
+                "mal_id": 1344,
+                "type": "anime",
+                "name": "King Records",
+                "url": "https://myanimelist.net/anime/producer/1344/King_Records"
+            }
+        ],
+        "licensors": [
+            {
+                "mal_id": 102,
+                "type": "anime",
+                "name": "Funimation",
+                "url": "https://myanimelist.net/anime/producer/102/Funimation"
+            }
+        ],
+        "studios": [
+            {
+                "mal_id": 37,
+                "type": "anime",
+                "name": "Studio Deen",
+                "url": "https://myanimelist.net/anime/producer/37/Studio_Deen"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 8,
+                "type": "anime",
+                "name": "Drama",
+                "url": "https://myanimelist.net/anime/genre/8/Drama"
+            },
+            {
+                "mal_id": 22,
+                "type": "anime",
+                "name": "Romance",
+                "url": "https://myanimelist.net/anime/genre/22/Romance"
+            },
+            {
+                "mal_id": 37,
+                "type": "anime",
+                "name": "Supernatural",
+                "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [
+            {
+                "mal_id": 64,
+                "type": "anime",
+                "name": "Love Polygon",
+                "url": "https://myanimelist.net/anime/genre/64/Love_Polygon"
+            },
+            {
+                "mal_id": 23,
+                "type": "anime",
+                "name": "School",
+                "url": "https://myanimelist.net/anime/genre/23/School"
+            }
+        ],
+        "demographics": [
+            {
+                "mal_id": 25,
+                "type": "anime",
+                "name": "Shoujo",
+                "url": "https://myanimelist.net/anime/genre/25/Shoujo"
+            }
+        ],
+        "relations": [
+            {
+                "relation": "Adaptation",
+                "entry": [
+                    {
+                        "mal_id": 102,
+                        "type": "manga",
+                        "name": "Fruits Basket",
+                        "url": "https://myanimelist.net/manga/102/Fruits_Basket"
+                    }
+                ]
+            },
+            {
+                "relation": "Alternative Version",
+                "entry": [
+                    {
+                        "mal_id": 38680,
+                        "type": "anime",
+                        "name": "Fruits Basket 1st Season",
+                        "url": "https://myanimelist.net/anime/38680/Fruits_Basket_1st_Season"
+                    },
+                    {
+                        "mal_id": 40417,
+                        "type": "anime",
+                        "name": "Fruits Basket 2nd Season",
+                        "url": "https://myanimelist.net/anime/40417/Fruits_Basket_2nd_Season"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [
+                "\"For Fruits Basket (For フルーツバスケット)\" by Ritsuko Okazaki"
+            ],
+            "endings": [
+                "1: \"Chiisana Inori (小さな祈り)\" by Ritsuko Okazaki (eps 1-24,26)",
+                "2: \"Serenade (セレナーデ) Pf Solo Ver.\" by Ritsuko Okazaki (eps 25)"
+            ]
+        },
+        "external": [
+            {
+                "name": "Official Site",
+                "url": "http://www.tv-tokyo.co.jp/anime/fruits_basket/"
+            },
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=34"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=348"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "http://en.wikipedia.org/wiki/Fruits_Basket"
+            }
+        ],
+        "streaming": [
+            {
+                "name": "Crunchyroll",
+                "url": "http://www.crunchyroll.com/series-283087"
+            },
+            {
+                "name": "Netflix",
+                "url": "https://www.netflix.com/"
+            }
+        ]
+    },
+    "episodes": [
+        {
+            "mal_id": 1,
+            "url": "https://myanimelist.net/anime/120/Fruits_Basket/episode/1",
+            "title": "The Strangest Day",
+            "title_japanese": "第一話…",
+            "title_romanji": "Dai Ichi Wa... ",
+            "aired": "2001-07-05T00:00:00+00:00",
+            "score": 4.22,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=9028"
+        },
+        {
+            "mal_id": 2,
+            "url": "https://myanimelist.net/anime/120/Fruits_Basket/episode/2",
+            "title": "The Souma Curse",
+            "title_japanese": "第二話…",
+            "title_romanji": "Dai Ni Wa... ",
+            "aired": "2001-07-12T00:00:00+00:00",
+            "score": 4.24,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=82110"
+        },
+        {
+            "mal_id": 3,
+            "url": "https://myanimelist.net/anime/120/Fruits_Basket/episode/3",
+            "title": "All Shapes and Sizes",
+            "title_japanese": "第三話…",
+            "title_romanji": "Dai San Wa... ",
+            "aired": "2001-07-19T00:00:00+00:00",
+            "score": 4.27,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=43326"
+        },
+        {
+            "mal_id": 4,
+            "url": "https://myanimelist.net/anime/120/Fruits_Basket/episode/4",
+            "title": "Here Comes Kagura!",
+            "title_japanese": "第四話…",
+            "title_romanji": "Dai Yon Wa... ",
+            "aired": "2001-07-26T00:00:00+00:00",
+            "score": 4.1,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=43328"
+        },
+        {
+            "mal_id": 5,
+            "url": "https://myanimelist.net/anime/120/Fruits_Basket/episode/5",
+            "title": "A Rice Ball in a Fruits Basket",
+            "title_japanese": "第五話…",
+            "title_romanji": "Dai Go Wa... ",
+            "aired": "2001-08-02T00:00:00+00:00",
+            "score": 4.54,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=43364"
+        },
+        {
+            "mal_id": 6,
+            "url": "https://myanimelist.net/anime/120/Fruits_Basket/episode/6",
+            "title": "Invincible Friendship",
+            "title_japanese": "第六話…",
+            "title_romanji": "Dai Roku Wa... ",
+            "aired": "2001-08-09T00:00:00+00:00",
+            "score": 4.51,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=43484"
+        },
+        {
+            "mal_id": 7,
+            "url": "https://myanimelist.net/anime/120/Fruits_Basket/episode/7",
+            "title": "A Plum on the Back",
+            "title_japanese": "第七話…",
+            "title_romanji": "Dai Nana Wa... ",
+            "aired": "2001-08-16T00:00:00+00:00",
+            "score": 4.38,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=44106"
+        },
+        {
+            "mal_id": 8,
+            "url": "https://myanimelist.net/anime/120/Fruits_Basket/episode/8",
+            "title": "Don't Cry, for the Snow will Surely Melt",
+            "title_japanese": "第八話…",
+            "title_romanji": "Dai Hachi Wa... ",
+            "aired": "2001-08-23T00:00:00+00:00",
+            "score": 4.68,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=44107"
+        },
+        {
+            "mal_id": 9,
+            "url": "https://myanimelist.net/anime/120/Fruits_Basket/episode/9",
+            "title": "A Solitary New Year",
+            "title_japanese": "第九話…",
+            "title_romanji": "Dai Kyuu Wa... ",
+            "aired": "2001-08-30T00:00:00+00:00",
+            "score": 4.54,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=44165"
+        },
+        {
+            "mal_id": 10,
+            "url": "https://myanimelist.net/anime/120/Fruits_Basket/episode/10",
+            "title": "Make It Clear If It's Black or White",
+            "title_japanese": "第十話…",
+            "title_romanji": "Dai Juu Wa... ",
+            "aired": "2001-09-06T00:00:00+00:00",
+            "score": 4.47,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=14528"
+        },
+        {
+            "mal_id": 11,
+            "url": "https://myanimelist.net/anime/120/Fruits_Basket/episode/11",
+            "title": "Everybody Loves Chocolate",
+            "title_japanese": "第十一話…",
+            "title_romanji": "Dai Juuichi Wa... ",
+            "aired": "2001-09-13T00:00:00+00:00",
+            "score": 4.48,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=44299"
+        },
+        {
+            "mal_id": 12,
+            "url": "https://myanimelist.net/anime/120/Fruits_Basket/episode/12",
+            "title": "White Day",
+            "title_japanese": "第十二話…",
+            "title_romanji": "Dai Juuni Wa... ",
+            "aired": "2001-09-20T00:00:00+00:00",
+            "score": 4.39,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=44517"
+        },
+        {
+            "mal_id": 13,
+            "url": "https://myanimelist.net/anime/120/Fruits_Basket/episode/13",
+            "title": "A New School Term Starts!",
+            "title_japanese": "第十三話…",
+            "title_romanji": "Dai Juusan Wa... ",
+            "aired": "2001-09-27T00:00:00+00:00",
+            "score": 4.61,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=44518"
+        },
+        {
+            "mal_id": 14,
+            "url": "https://myanimelist.net/anime/120/Fruits_Basket/episode/14",
+            "title": "The Adult's Episode: Yuki's a Messed up Snake!",
+            "title_japanese": "第十四話…",
+            "title_romanji": "Dai Juuyon Wa... ",
+            "aired": "2001-10-04T00:00:00+00:00",
+            "score": 4.47,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=44667"
+        },
+        {
+            "mal_id": 15,
+            "url": "https://myanimelist.net/anime/120/Fruits_Basket/episode/15",
+            "title": "There are No Memories It's OK to Forget",
+            "title_japanese": "第十五話…",
+            "title_romanji": "Dai Juugo Wa... ",
+            "aired": "2001-10-11T00:00:00+00:00",
+            "score": 4.72,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=44768"
+        },
+        {
+            "mal_id": 16,
+            "url": "https://myanimelist.net/anime/120/Fruits_Basket/episode/16",
+            "title": "If We've Three, Then We Don't Need to Fear Jason",
+            "title_japanese": "第十六話…",
+            "title_romanji": "Dai Juuroku Wa... ",
+            "aired": "2001-10-18T00:00:00+00:00",
+            "score": 4.38,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=58603"
+        },
+        {
+            "mal_id": 17,
+            "url": "https://myanimelist.net/anime/120/Fruits_Basket/episode/17",
+            "title": "It's Because I've Been Loved That I've Become Stronger",
+            "title_japanese": "第十七話…",
+            "title_romanji": "Dai Juunana Wa... ",
+            "aired": "2001-10-25T00:00:00+00:00",
+            "score": 4.72,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=14622"
+        },
+        {
+            "mal_id": 18,
+            "url": "https://myanimelist.net/anime/120/Fruits_Basket/episode/18",
+            "title": "The Strongest Tag: The Cursed Electric Wave Brother and Sister",
+            "title_japanese": "第十八話…",
+            "title_romanji": "Dai Juuhachi Wa... ",
+            "aired": "2001-11-01T00:00:00+00:00",
+            "score": 4.32,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=10755"
+        },
+        {
+            "mal_id": 19,
+            "url": "https://myanimelist.net/anime/120/Fruits_Basket/episode/19",
+            "title": "The Source of Cheer Can Be Affected by Colds Too",
+            "title_japanese": "第十九話…",
+            "title_romanji": "Dai Juukyuu Wa... ",
+            "aired": "2001-11-08T00:00:00+00:00",
+            "score": 4.64,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=59104"
+        },
+        {
+            "mal_id": 20,
+            "url": "https://myanimelist.net/anime/120/Fruits_Basket/episode/20",
+            "title": "Ayame's Secret Life",
+            "title_japanese": "第二十話…",
+            "title_romanji": "Dai Nijuu Wa... ",
+            "aired": "2001-11-15T00:00:00+00:00",
+            "score": 4.12,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=59330"
+        },
+        {
+            "mal_id": 21,
+            "url": "https://myanimelist.net/anime/120/Fruits_Basket/episode/21",
+            "title": "Sophist Boy Has Captured the Prince",
+            "title_japanese": "第二十一話…",
+            "title_romanji": "Dai Nijuuichi Wa... ",
+            "aired": "2001-11-22T00:00:00+00:00",
+            "score": 4.15,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=59337"
+        },
+        {
+            "mal_id": 22,
+            "url": "https://myanimelist.net/anime/120/Fruits_Basket/episode/22",
+            "title": "Prince Yuki Fan Club",
+            "title_japanese": "第二十二話…",
+            "title_romanji": "Dai Nijuuni Wa... ",
+            "aired": "2001-11-29T00:00:00+00:00",
+            "score": 3.22,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=59801"
+        },
+        {
+            "mal_id": 23,
+            "url": "https://myanimelist.net/anime/120/Fruits_Basket/episode/23",
+            "title": "Is the Rumored Ri That Mother's Daughter?",
+            "title_japanese": "第二十三話…",
+            "title_romanji": "Dai Nijuusan Wa... ",
+            "aired": "2001-12-06T00:00:00+00:00",
+            "score": 3.87,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=59922"
+        },
+        {
+            "mal_id": 24,
+            "url": "https://myanimelist.net/anime/120/Fruits_Basket/episode/24",
+            "title": "The Curse of the Cat",
+            "title_japanese": "第二十四話…",
+            "title_romanji": "Dai Nijuuyon Wa... ",
+            "aired": "2001-12-13T00:00:00+00:00",
+            "score": 4.43,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=59964"
+        },
+        {
+            "mal_id": 25,
+            "url": "https://myanimelist.net/anime/120/Fruits_Basket/episode/25",
+            "title": "True Form",
+            "title_japanese": "第二十五話…",
+            "title_romanji": "Dai Nijuugo Wa... ",
+            "aired": "2001-12-20T00:00:00+00:00",
+            "score": 4.37,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=83921"
+        },
+        {
+            "mal_id": 26,
+            "url": "https://myanimelist.net/anime/120/Fruits_Basket/episode/26",
+            "title": "Let's Go Home",
+            "title_japanese": "最終回…",
+            "title_romanji": "Saishuukai... ",
+            "aired": "2001-12-27T00:00:00+00:00",
+            "score": 4.15,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=11409"
+        }
+    ]
+}

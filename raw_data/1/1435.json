@@ -1,0 +1,215 @@
+{
+    "id": 1435,
+    "fetched_at": "Sun Dec 14 07:13:51 2025",
+    "metadata": {
+        "mal_id": 1435,
+        "url": "https://myanimelist.net/anime/1435/Lupin_III__Lupin_vs_Fukusei-ningen",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/11/34211.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/11/34211t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/11/34211l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/11/34211.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/11/34211t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/11/34211l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Lupin III: Lupin vs. Fukusei-ningen"
+            },
+            {
+                "type": "Synonym",
+                "title": "Rupan Sansei"
+            },
+            {
+                "type": "Synonym",
+                "title": "Lupin III: Lupin vs The Human Clone"
+            },
+            {
+                "type": "Japanese",
+                "title": "ルパンvs複製人間"
+            },
+            {
+                "type": "English",
+                "title": "Lupin III: The Mystery of Mamo"
+            },
+            {
+                "type": "French",
+                "title": "Edgar de la Camb. Secret de Mamo"
+            }
+        ],
+        "title": "Lupin III: Lupin vs. Fukusei-ningen",
+        "title_english": "Lupin III: The Mystery of Mamo",
+        "title_japanese": "ルパンvs複製人間",
+        "title_synonyms": [
+            "Rupan Sansei",
+            "Lupin III: Lupin vs The Human Clone"
+        ],
+        "type": "Movie",
+        "source": "Manga",
+        "episodes": 1,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "1978-12-16T00:00:00+00:00",
+            "to": null,
+            "prop": {
+                "from": {
+                    "day": 16,
+                    "month": 12,
+                    "year": 1978
+                },
+                "to": {
+                    "day": null,
+                    "month": null,
+                    "year": null
+                }
+            },
+            "string": "Dec 16, 1978"
+        },
+        "duration": "1 hr 42 min",
+        "rating": "R+ - Mild Nudity",
+        "score": 7.03,
+        "scored_by": 8404,
+        "rank": 4386,
+        "popularity": 5849,
+        "members": 15914,
+        "favorites": 67,
+        "synopsis": "Lupin, the master thief/spy/Jack of all Trades, has been executed, but he is still alive, and not even Lupin himself knows how that is possible. While trying to figure out, however, he and his gang are thrust into a conspiracy involving clones, Lupin's un-trustworthy rival Fujiko, and a miniature madman's plot to take over the world.\n\n(Source: ANN)",
+        "background": "",
+        "season": null,
+        "year": null,
+        "broadcast": {
+            "day": null,
+            "time": null,
+            "timezone": null,
+            "string": null
+        },
+        "producers": [],
+        "licensors": [
+            {
+                "mal_id": 467,
+                "type": "anime",
+                "name": "Discotek Media",
+                "url": "https://myanimelist.net/anime/producer/467/Discotek_Media"
+            },
+            {
+                "mal_id": 1459,
+                "type": "anime",
+                "name": "Geneon Entertainment USA",
+                "url": "https://myanimelist.net/anime/producer/1459/Geneon_Entertainment_USA"
+            },
+            {
+                "mal_id": 2518,
+                "type": "anime",
+                "name": "Streamline Pictures",
+                "url": "https://myanimelist.net/anime/producer/2518/Streamline_Pictures"
+            }
+        ],
+        "studios": [
+            {
+                "mal_id": 65,
+                "type": "anime",
+                "name": "Tokyo Movie Shinsha",
+                "url": "https://myanimelist.net/anime/producer/65/Tokyo_Movie_Shinsha"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 1,
+                "type": "anime",
+                "name": "Action",
+                "url": "https://myanimelist.net/anime/genre/1/Action"
+            },
+            {
+                "mal_id": 2,
+                "type": "anime",
+                "name": "Adventure",
+                "url": "https://myanimelist.net/anime/genre/2/Adventure"
+            },
+            {
+                "mal_id": 4,
+                "type": "anime",
+                "name": "Comedy",
+                "url": "https://myanimelist.net/anime/genre/4/Comedy"
+            },
+            {
+                "mal_id": 7,
+                "type": "anime",
+                "name": "Mystery",
+                "url": "https://myanimelist.net/anime/genre/7/Mystery"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [
+            {
+                "mal_id": 50,
+                "type": "anime",
+                "name": "Adult Cast",
+                "url": "https://myanimelist.net/anime/genre/50/Adult_Cast"
+            }
+        ],
+        "demographics": [
+            {
+                "mal_id": 42,
+                "type": "anime",
+                "name": "Seinen",
+                "url": "https://myanimelist.net/anime/genre/42/Seinen"
+            }
+        ],
+        "relations": [
+            {
+                "relation": "Parent Story",
+                "entry": [
+                    {
+                        "mal_id": 1425,
+                        "type": "anime",
+                        "name": "Lupin III: Part II",
+                        "url": "https://myanimelist.net/anime/1425/Lupin_III__Part_II"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [],
+            "endings": []
+        },
+        "external": [
+            {
+                "name": "Official Site",
+                "url": "http://www.tms-e.com/library/old/movie/data/m_mamo.html"
+            },
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=823"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=1040"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "http://en.wikipedia.org/wiki/Mystery_of_Mamo"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": []
+}

@@ -1,0 +1,169 @@
+{
+    "id": 34826,
+    "fetched_at": "Sun Dec 14 10:55:08 2025",
+    "metadata": {
+        "mal_id": 34826,
+        "url": "https://myanimelist.net/anime/34826/Maple_Town_Monogatari_Movie",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1148/145183.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1148/145183t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1148/145183l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1148/145183.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1148/145183t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1148/145183l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Maple Town Monogatari (Movie)"
+            },
+            {
+                "type": "Synonym",
+                "title": "Maple Town Stories Movie"
+            },
+            {
+                "type": "Synonym",
+                "title": "Maple Town Stories (1986)"
+            },
+            {
+                "type": "Japanese",
+                "title": "メイプルタウン物語"
+            }
+        ],
+        "title": "Maple Town Monogatari (Movie)",
+        "title_english": null,
+        "title_japanese": "メイプルタウン物語",
+        "title_synonyms": [
+            "Maple Town Stories Movie",
+            "Maple Town Stories (1986)"
+        ],
+        "type": "Movie",
+        "source": "Original",
+        "episodes": 1,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "1986-07-12T00:00:00+00:00",
+            "to": null,
+            "prop": {
+                "from": {
+                    "day": 12,
+                    "month": 7,
+                    "year": 1986
+                },
+                "to": {
+                    "day": null,
+                    "month": null,
+                    "year": null
+                }
+            },
+            "string": "Jul 12, 1986"
+        },
+        "duration": "26 min",
+        "rating": "G - All Ages",
+        "score": null,
+        "scored_by": null,
+        "rank": 18525,
+        "popularity": 16821,
+        "members": 623,
+        "favorites": 0,
+        "synopsis": null,
+        "background": "",
+        "season": null,
+        "year": null,
+        "broadcast": {
+            "day": null,
+            "time": null,
+            "timezone": null,
+            "string": null
+        },
+        "producers": [],
+        "licensors": [],
+        "studios": [
+            {
+                "mal_id": 18,
+                "type": "anime",
+                "name": "Toei Animation",
+                "url": "https://myanimelist.net/anime/producer/18/Toei_Animation"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 10,
+                "type": "anime",
+                "name": "Fantasy",
+                "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+            },
+            {
+                "mal_id": 36,
+                "type": "anime",
+                "name": "Slice of Life",
+                "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [
+            {
+                "mal_id": 51,
+                "type": "anime",
+                "name": "Anthropomorphic",
+                "url": "https://myanimelist.net/anime/genre/51/Anthropomorphic"
+            }
+        ],
+        "demographics": [],
+        "relations": [
+            {
+                "relation": "Parent Story",
+                "entry": [
+                    {
+                        "mal_id": 2223,
+                        "type": "anime",
+                        "name": "Maple Town Monogatari",
+                        "url": "https://myanimelist.net/anime/2223/Maple_Town_Monogatari"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [],
+            "endings": []
+        },
+        "external": [
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=2080"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=3663"
+            },
+            {
+                "name": "Allcinema",
+                "url": "http://anison.info/data/program/2198.html"
+            },
+            {
+                "name": "Allcinema",
+                "url": "https://www.allcinema.net/cinema/149828"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": []
+}

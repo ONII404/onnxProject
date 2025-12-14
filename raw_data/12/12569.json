@@ -1,0 +1,170 @@
+{
+    "id": 12569,
+    "fetched_at": "Sun Dec 14 09:40:35 2025",
+    "metadata": {
+        "mal_id": 12569,
+        "url": "https://myanimelist.net/anime/12569/Himitsu_no_Akko-chan_Movie",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/9/35227.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/9/35227t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/9/35227l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/9/35227.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/9/35227t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/9/35227l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Himitsu no Akko-chan (Movie)"
+            },
+            {
+                "type": "Synonym",
+                "title": "Himitsu no Akko-chan (1989)"
+            },
+            {
+                "type": "Synonym",
+                "title": "Secret Little Akko"
+            },
+            {
+                "type": "Japanese",
+                "title": "ひみつのアッコちゃん"
+            }
+        ],
+        "title": "Himitsu no Akko-chan (Movie)",
+        "title_english": null,
+        "title_japanese": "ひみつのアッコちゃん",
+        "title_synonyms": [
+            "Himitsu no Akko-chan (1989)",
+            "Secret Little Akko"
+        ],
+        "type": "Movie",
+        "source": "Unknown",
+        "episodes": 1,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "1989-03-13T00:00:00+00:00",
+            "to": null,
+            "prop": {
+                "from": {
+                    "day": 13,
+                    "month": 3,
+                    "year": 1989
+                },
+                "to": {
+                    "day": null,
+                    "month": null,
+                    "year": null
+                }
+            },
+            "string": "Mar 13, 1989"
+        },
+        "duration": "25 min",
+        "rating": "G - All Ages",
+        "score": 6.05,
+        "scored_by": 315,
+        "rank": 10033,
+        "popularity": 14616,
+        "members": 1085,
+        "favorites": 0,
+        "synopsis": "Taisho's father plans to construct an apartment building on a vacant land he owns behind his own house. The spot is a playing field for the kids in the neighborhood who will fight to keep it as it is.\n\n(Source: ANN)",
+        "background": "",
+        "season": null,
+        "year": null,
+        "broadcast": {
+            "day": null,
+            "time": null,
+            "timezone": null,
+            "string": null
+        },
+        "producers": [],
+        "licensors": [],
+        "studios": [
+            {
+                "mal_id": 18,
+                "type": "anime",
+                "name": "Toei Animation",
+                "url": "https://myanimelist.net/anime/producer/18/Toei_Animation"
+            }
+        ],
+        "genres": [],
+        "explicit_genres": [],
+        "themes": [
+            {
+                "mal_id": 23,
+                "type": "anime",
+                "name": "School",
+                "url": "https://myanimelist.net/anime/genre/23/School"
+            }
+        ],
+        "demographics": [
+            {
+                "mal_id": 25,
+                "type": "anime",
+                "name": "Shoujo",
+                "url": "https://myanimelist.net/anime/genre/25/Shoujo"
+            }
+        ],
+        "relations": [
+            {
+                "relation": "Sequel",
+                "entry": [
+                    {
+                        "mal_id": 12971,
+                        "type": "anime",
+                        "name": "Himitsu no Akko-chan: Umi da! Obake da!! Natsu Matsuri",
+                        "url": "https://myanimelist.net/anime/12971/Himitsu_no_Akko-chan__Umi_da_Obake_da_Natsu_Matsuri"
+                    }
+                ]
+            },
+            {
+                "relation": "Parent Story",
+                "entry": [
+                    {
+                        "mal_id": 3838,
+                        "type": "anime",
+                        "name": "Himitsu no Akko-chan 2",
+                        "url": "https://myanimelist.net/anime/3838/Himitsu_no_Akko-chan_2"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [
+                "\"Himitsu no Akko-chan (ひみつのアッコちゃん)\" by Mitsuko Horie"
+            ],
+            "endings": [
+                "\"Don't You...?\" by Time Five (タイム・ファイブ), Mitsuko Horie"
+            ]
+        },
+        "external": [
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=1896"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=3682"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": []
+}

@@ -1,0 +1,197 @@
+{
+    "id": 6303,
+    "fetched_at": "Sun Dec 14 08:57:16 2025",
+    "metadata": {
+        "mal_id": 6303,
+        "url": "https://myanimelist.net/anime/6303/Perman",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/7/53743.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/7/53743t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/7/53743l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/7/53743.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/7/53743t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/7/53743l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Perman"
+            },
+            {
+                "type": "Synonym",
+                "title": "Paaman"
+            },
+            {
+                "type": "Synonym",
+                "title": "Paman"
+            },
+            {
+                "type": "Synonym",
+                "title": "Superkid"
+            },
+            {
+                "type": "Japanese",
+                "title": "パーマン"
+            }
+        ],
+        "title": "Perman",
+        "title_english": null,
+        "title_japanese": "パーマン",
+        "title_synonyms": [
+            "Paaman",
+            "Paman",
+            "Superkid"
+        ],
+        "type": "TV",
+        "source": "Manga",
+        "episodes": 54,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "1967-04-02T00:00:00+00:00",
+            "to": "1968-04-14T00:00:00+00:00",
+            "prop": {
+                "from": {
+                    "day": 2,
+                    "month": 4,
+                    "year": 1967
+                },
+                "to": {
+                    "day": 14,
+                    "month": 4,
+                    "year": 1968
+                }
+            },
+            "string": "Apr 2, 1967 to Apr 14, 1968"
+        },
+        "duration": "25 min per ep",
+        "rating": "PG - Children",
+        "score": 6.6,
+        "scored_by": 2898,
+        "rank": 6728,
+        "popularity": 9361,
+        "members": 4937,
+        "favorites": 16,
+        "synopsis": "After Mitsuo receives a mask from a retiring superhero, he becomes Perman.\n\n(Source: AniDB)",
+        "background": "",
+        "season": "spring",
+        "year": 1967,
+        "broadcast": {
+            "day": null,
+            "time": null,
+            "timezone": null,
+            "string": "Unknown"
+        },
+        "producers": [
+            {
+                "mal_id": 65,
+                "type": "anime",
+                "name": "Tokyo Movie Shinsha",
+                "url": "https://myanimelist.net/anime/producer/65/Tokyo_Movie_Shinsha"
+            },
+            {
+                "mal_id": 435,
+                "type": "anime",
+                "name": "Studio Zero",
+                "url": "https://myanimelist.net/anime/producer/435/Studio_Zero"
+            }
+        ],
+        "licensors": [],
+        "studios": [],
+        "genres": [
+            {
+                "mal_id": 2,
+                "type": "anime",
+                "name": "Adventure",
+                "url": "https://myanimelist.net/anime/genre/2/Adventure"
+            },
+            {
+                "mal_id": 4,
+                "type": "anime",
+                "name": "Comedy",
+                "url": "https://myanimelist.net/anime/genre/4/Comedy"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [],
+        "demographics": [],
+        "relations": [
+            {
+                "relation": "Sequel",
+                "entry": [
+                    {
+                        "mal_id": 11595,
+                        "type": "anime",
+                        "name": "Perman (1983)",
+                        "url": "https://myanimelist.net/anime/11595/Perman_1983"
+                    }
+                ]
+            },
+            {
+                "relation": "Adaptation",
+                "entry": [
+                    {
+                        "mal_id": 119326,
+                        "type": "manga",
+                        "name": "Perman",
+                        "url": "https://myanimelist.net/manga/119326/Perman"
+                    }
+                ]
+            },
+            {
+                "relation": "Side Story",
+                "entry": [
+                    {
+                        "mal_id": 20185,
+                        "type": "anime",
+                        "name": "Pa-Pa-Pa the ★ Movie: Perman",
+                        "url": "https://myanimelist.net/anime/20185/Pa-Pa-Pa_the_★_Movie__Perman"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [
+                "\"Bokura no Perman (ぼくらのパーマン)\" by Ishikawa Susumu, Katsue Miwa"
+            ],
+            "endings": []
+        },
+        "external": [
+            {
+                "name": "Official Site",
+                "url": "http://www.tms-e.com/library/old/tv/data/t_pa_man.html"
+            },
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=3205"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=1438"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "http://en.wikipedia.org/wiki/Perman"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": []
+}

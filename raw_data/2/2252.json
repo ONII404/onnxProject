@@ -1,0 +1,756 @@
+{
+    "id": 2252,
+    "fetched_at": "Sun Dec 14 07:22:20 2025",
+    "metadata": {
+        "mal_id": 2252,
+        "url": "https://myanimelist.net/anime/2252/Devilman",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/9/72913.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/9/72913t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/9/72913l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/9/72913.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/9/72913t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/9/72913l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Devilman"
+            },
+            {
+                "type": "Synonym",
+                "title": "Debiruman"
+            },
+            {
+                "type": "Japanese",
+                "title": "デビルマン"
+            }
+        ],
+        "title": "Devilman",
+        "title_english": null,
+        "title_japanese": "デビルマン",
+        "title_synonyms": [
+            "Debiruman"
+        ],
+        "type": "TV",
+        "source": "Manga",
+        "episodes": 39,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "1972-07-08T00:00:00+00:00",
+            "to": "1973-04-07T00:00:00+00:00",
+            "prop": {
+                "from": {
+                    "day": 8,
+                    "month": 7,
+                    "year": 1972
+                },
+                "to": {
+                    "day": 7,
+                    "month": 4,
+                    "year": 1973
+                }
+            },
+            "string": "Jul 8, 1972 to Apr 7, 1973"
+        },
+        "duration": "25 min per ep",
+        "rating": "R - 17+ (violence & profanity)",
+        "score": 6.51,
+        "scored_by": 8758,
+        "rank": 7239,
+        "popularity": 4091,
+        "members": 37206,
+        "favorites": 144,
+        "synopsis": "Devilman features Akira Fudo, a shy and timid teenager who has gone mountain climbing in the Himalayas with his father. While in the middle of the expedition, both father and son are killed in a tragic accident. Akira's body is found and possessed by the demon soldier Devilman, who uses his new human form as a disguise in order to fulfill his mission of causing chaos on Earth in order to pave the way for a demonic invasion of the planet.\n\nBefore his mission can begin in earnest, Devilman meets Akira's childhood friend Miki Makimura and quickly falls in love with her. Devilman resolves to protect Miki and humanity as a whole by battling against his fellow demons. Demon Tribe leader Zennon becomes greatly angered at Devilman's betrayal and is quick to send Devilman's former comrades to destroy him. The other demons soon learn that Miki is precious to Devilman and he must now work to protect her, as well as protect himself. Will the power of love be able to overcome that of true evil?",
+        "background": "",
+        "season": "summer",
+        "year": 1972,
+        "broadcast": {
+            "day": "Saturdays",
+            "time": "20:30",
+            "timezone": "Asia/Tokyo",
+            "string": "Saturdays at 20:30 (JST)"
+        },
+        "producers": [
+            {
+                "mal_id": 921,
+                "type": "anime",
+                "name": "Dynamic Planning",
+                "url": "https://myanimelist.net/anime/producer/921/Dynamic_Planning"
+            }
+        ],
+        "licensors": [
+            {
+                "mal_id": 467,
+                "type": "anime",
+                "name": "Discotek Media",
+                "url": "https://myanimelist.net/anime/producer/467/Discotek_Media"
+            }
+        ],
+        "studios": [
+            {
+                "mal_id": 18,
+                "type": "anime",
+                "name": "Toei Animation",
+                "url": "https://myanimelist.net/anime/producer/18/Toei_Animation"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 1,
+                "type": "anime",
+                "name": "Action",
+                "url": "https://myanimelist.net/anime/genre/1/Action"
+            },
+            {
+                "mal_id": 14,
+                "type": "anime",
+                "name": "Horror",
+                "url": "https://myanimelist.net/anime/genre/14/Horror"
+            },
+            {
+                "mal_id": 37,
+                "type": "anime",
+                "name": "Supernatural",
+                "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [
+            {
+                "mal_id": 6,
+                "type": "anime",
+                "name": "Mythology",
+                "url": "https://myanimelist.net/anime/genre/6/Mythology"
+            }
+        ],
+        "demographics": [
+            {
+                "mal_id": 27,
+                "type": "anime",
+                "name": "Shounen",
+                "url": "https://myanimelist.net/anime/genre/27/Shounen"
+            }
+        ],
+        "relations": [
+            {
+                "relation": "Sequel",
+                "entry": [
+                    {
+                        "mal_id": 1341,
+                        "type": "anime",
+                        "name": "Violence Jack: Harem Bomber-hen",
+                        "url": "https://myanimelist.net/anime/1341/Violence_Jack__Harem_Bomber-hen"
+                    }
+                ]
+            },
+            {
+                "relation": "Adaptation",
+                "entry": [
+                    {
+                        "mal_id": 1474,
+                        "type": "manga",
+                        "name": "Devilman",
+                        "url": "https://myanimelist.net/manga/1474/Devilman"
+                    }
+                ]
+            },
+            {
+                "relation": "Spin-Off",
+                "entry": [
+                    {
+                        "mal_id": 1629,
+                        "type": "anime",
+                        "name": "Devilman Lady",
+                        "url": "https://myanimelist.net/anime/1629/Devilman_Lady"
+                    }
+                ]
+            },
+            {
+                "relation": "Summary",
+                "entry": [
+                    {
+                        "mal_id": 35952,
+                        "type": "anime",
+                        "name": "Devilman Memorial",
+                        "url": "https://myanimelist.net/anime/35952/Devilman_Memorial"
+                    }
+                ]
+            },
+            {
+                "relation": "Alternative Version",
+                "entry": [
+                    {
+                        "mal_id": 2354,
+                        "type": "anime",
+                        "name": "Devilman: Tanjou-hen",
+                        "url": "https://myanimelist.net/anime/2354/Devilman__Tanjou-hen"
+                    },
+                    {
+                        "mal_id": 2356,
+                        "type": "anime",
+                        "name": "Amon: Devilman Mokushiroku",
+                        "url": "https://myanimelist.net/anime/2356/Amon__Devilman_Mokushiroku"
+                    },
+                    {
+                        "mal_id": 35120,
+                        "type": "anime",
+                        "name": "Devilman: Crybaby",
+                        "url": "https://myanimelist.net/anime/35120/Devilman__Crybaby"
+                    }
+                ]
+            },
+            {
+                "relation": "Character",
+                "entry": [
+                    {
+                        "mal_id": 3898,
+                        "type": "anime",
+                        "name": "Mazinger Z tai Devilman",
+                        "url": "https://myanimelist.net/anime/3898/Mazinger_Z_tai_Devilman"
+                    }
+                ]
+            },
+            {
+                "relation": "Other",
+                "entry": [
+                    {
+                        "mal_id": 2692,
+                        "type": "anime",
+                        "name": "CB Chara Go Nagai World",
+                        "url": "https://myanimelist.net/anime/2692/CB_Chara_Go_Nagai_World"
+                    },
+                    {
+                        "mal_id": 1628,
+                        "type": "anime",
+                        "name": "Maou Dante",
+                        "url": "https://myanimelist.net/anime/1628/Maou_Dante"
+                    },
+                    {
+                        "mal_id": 55324,
+                        "type": "anime",
+                        "name": "Devilman Pilot Film",
+                        "url": "https://myanimelist.net/anime/55324/Devilman_Pilot_Film"
+                    },
+                    {
+                        "mal_id": 31050,
+                        "type": "anime",
+                        "name": "Cyborg 009 VS Devilman",
+                        "url": "https://myanimelist.net/anime/31050/Cyborg_009_VS_Devilman"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [
+                "\"Devilman no Uta (デビルマンのうた)\" by Keizou Toda"
+            ],
+            "endings": [
+                "\"Kyou mo Doko ka de Devilman (今日もどこかでデビルマン)\" by Keizou Toda"
+            ]
+        },
+        "external": [
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=1236"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=578"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Devilman#Animated_adpations"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": [
+        {
+            "mal_id": 1,
+            "url": null,
+            "title": "Resurrection of The Demon Tribe",
+            "title_japanese": "悪魔族復活",
+            "title_romanji": "Akumazoku Fukkatsu ",
+            "aired": "1972-07-08T00:00:00+00:00",
+            "score": 3.8,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=299541"
+        },
+        {
+            "mal_id": 2,
+            "url": null,
+            "title": "Demon Sirène",
+            "title_japanese": "妖獣シレーヌ",
+            "title_romanji": "Youjuu Silene ",
+            "aired": "1972-07-15T00:00:00+00:00",
+            "score": 3.92,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1589818"
+        },
+        {
+            "mal_id": 3,
+            "url": null,
+            "title": "Demon Gelge",
+            "title_japanese": "妖獣ゲルゲ",
+            "title_romanji": "Youjuu Gelge ",
+            "aired": "1972-07-29T00:00:00+00:00",
+            "score": 3.76,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=300120"
+        },
+        {
+            "mal_id": 4,
+            "url": null,
+            "title": "Demon General Zannin",
+            "title_japanese": "魔将軍ザンニン",
+            "title_romanji": "Ma Shougun Zannin ",
+            "aired": "1972-08-05T00:00:00+00:00",
+            "score": 3.75,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1589853"
+        },
+        {
+            "mal_id": 5,
+            "url": null,
+            "title": "The Sleeping Beauty Zoldova",
+            "title_japanese": "眠れる美女ゾルドバ",
+            "title_romanji": "Nemureru Bijo Zoldova ",
+            "aired": "1972-08-12T00:00:00+00:00",
+            "score": 3.92,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1539236"
+        },
+        {
+            "mal_id": 6,
+            "url": null,
+            "title": "The Head of Rokfel",
+            "title_japanese": "ロクフェルの首",
+            "title_romanji": "Rockfel no Kubi ",
+            "aired": "1972-08-19T00:00:00+00:00",
+            "score": 3.7,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1492226"
+        },
+        {
+            "mal_id": 7,
+            "url": null,
+            "title": "The Terrifying Puppeteer Zulu",
+            "title_japanese": "恐怖の人形使いズール",
+            "title_romanji": "Kyoufu no Ningyoutsukai Zulu ",
+            "aired": "1972-08-26T00:00:00+00:00",
+            "score": 4.11,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1590042"
+        },
+        {
+            "mal_id": 8,
+            "url": null,
+            "title": "Iyamon and Bau",
+            "title_japanese": "イヤモンとバウウ",
+            "title_romanji": "Iyamon to Bau ",
+            "aired": "1972-09-02T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1540009"
+        },
+        {
+            "mal_id": 9,
+            "url": null,
+            "title": "Brainwave Demon Gondroma",
+            "title_japanese": "脳波妖獣ゴンドローマ",
+            "title_romanji": "Nouha Youjuu Gondroma ",
+            "aired": "1972-09-09T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1590056"
+        },
+        {
+            "mal_id": 10,
+            "url": null,
+            "title": "Demon Gandye, The Walking Eye",
+            "title_japanese": "妖獣ガンデエ眼が歩く",
+            "title_romanji": "Youjuu Gande: Me ga Ugoku ",
+            "aired": "1972-09-16T00:00:00+00:00",
+            "score": 3.5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1590157"
+        },
+        {
+            "mal_id": 11,
+            "url": null,
+            "title": "The Bewitching Scarlet Flower, Lafleur",
+            "title_japanese": "真紅の妖花ラフレール",
+            "title_romanji": "Shinkou no Youjuu: Lafleur ",
+            "aired": "1972-09-23T00:00:00+00:00",
+            "score": 3.67,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=310439"
+        },
+        {
+            "mal_id": 12,
+            "url": null,
+            "title": "The Fiery Beast Firam",
+            "title_japanese": "火炎妖獣ファイアム",
+            "title_romanji": "Kaen Youjuu Firam ",
+            "aired": "1972-09-30T00:00:00+00:00",
+            "score": 3.44,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1590180"
+        },
+        {
+            "mal_id": 13,
+            "url": null,
+            "title": "The Proud Mermaim",
+            "title_japanese": "誇り高きマーメイム",
+            "title_romanji": "Hokori Takaki Mermaim ",
+            "aired": "1972-10-07T00:00:00+00:00",
+            "score": 3.83,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1590290"
+        },
+        {
+            "mal_id": 14,
+            "url": null,
+            "title": "Challenge at the Realm of Ice",
+            "title_japanese": "氷の国への挑戦",
+            "title_romanji": "Kouri no Kuni e no Chousen ",
+            "aired": "1972-10-14T00:00:00+00:00",
+            "score": 3.71,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1590292"
+        },
+        {
+            "mal_id": 15,
+            "url": null,
+            "title": "Demon Beast Evine, Thousands of Arms",
+            "title_japanese": "妖獣エバイン千本の腕",
+            "title_romanji": "Youjuu Evine, Senbon no Ude ",
+            "aired": "1972-10-21T00:00:00+00:00",
+            "score": 4.17,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=365229"
+        },
+        {
+            "mal_id": 16,
+            "url": null,
+            "title": "Dwelling in Darkness, Demon Jenny",
+            "title_japanese": "闇に棲む妖獣ジェニー",
+            "title_romanji": "Yami Ni Sumu, Youjuu Jenny ",
+            "aired": "1972-10-28T00:00:00+00:00",
+            "score": 4.33,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1590381"
+        },
+        {
+            "mal_id": 17,
+            "url": null,
+            "title": "Stamp Demon Dagon",
+            "title_japanese": "切手妖獣ダゴン",
+            "title_romanji": "Kitte Youjuu Dagon ",
+            "aired": "1972-11-04T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1590386"
+        },
+        {
+            "mal_id": 18,
+            "url": null,
+            "title": "The Silver Mayako",
+            "title_japanese": "銀色の魔矢子",
+            "title_romanji": "Giniro no Mayako ",
+            "aired": "1972-11-11T00:00:00+00:00",
+            "score": 3.8,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1590392"
+        },
+        {
+            "mal_id": 19,
+            "url": null,
+            "title": "Demon Adal, The Puppet Scheme",
+            "title_japanese": "妖獣アダル 人形作戦",
+            "title_romanji": "Youjuu Adal, Ningyou Sakusen ",
+            "aired": "1972-11-18T00:00:00+00:00",
+            "score": 4.67,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1590398"
+        },
+        {
+            "mal_id": 20,
+            "url": null,
+            "title": "Farewell, Demon Drango",
+            "title_japanese": "さらば妖獣ドランゴ",
+            "title_romanji": "Saraba, Youjuu Drango ",
+            "aired": "1972-11-25T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1590490"
+        },
+        {
+            "mal_id": 21,
+            "url": null,
+            "title": "Demon Doro Loves Humans",
+            "title_japanese": "妖獣ドローは人間が好き",
+            "title_romanji": "Youjuu Doro wa Ningen ga Suki ",
+            "aired": "1972-12-02T00:00:00+00:00",
+            "score": 4.29,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1590492"
+        },
+        {
+            "mal_id": 22,
+            "url": null,
+            "title": "Demon Mughal, The Illusionist",
+            "title_japanese": "妖獣ムガール 幻影の魔術師",
+            "title_romanji": "Youjuu Mughal, Genei no Majutsushi ",
+            "aired": "1972-12-09T00:00:00+00:00",
+            "score": 3.78,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=410429"
+        },
+        {
+            "mal_id": 23,
+            "url": null,
+            "title": "Demon Bera, The Mystery of Tibet",
+            "title_japanese": "妖獣ベラ チベットの怪",
+            "title_romanji": "Youjuu Bera, Chibetto no kai ",
+            "aired": "1972-12-16T00:00:00+00:00",
+            "score": 4.14,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1590508"
+        },
+        {
+            "mal_id": 24,
+            "url": null,
+            "title": "Demon Giacon, The Living Specter",
+            "title_japanese": "妖獣ジャコン 生きている幽霊",
+            "title_romanji": "Youjuu Giacon, Iki Teiru Yuurei ",
+            "aired": "1972-12-23T00:00:00+00:00",
+            "score": 4.33,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1590609"
+        },
+        {
+            "mal_id": 25,
+            "url": null,
+            "title": "Evil General Muzan, The Great School Assault",
+            "title_japanese": "妖将軍ムザン 学園大襲撃",
+            "title_romanji": "Youshougun Muzan, Gakuen Dai Shuugeki ",
+            "aired": "1972-12-30T00:00:00+00:00",
+            "score": 4.14,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1590614"
+        },
+        {
+            "mal_id": 26,
+            "url": null,
+            "title": "Demon of the Snow, Lala",
+            "title_japanese": "白銀の妖獣ララ",
+            "title_romanji": "Hakugin no Youjuu, Lala ",
+            "aired": "1973-01-06T00:00:00+00:00",
+            "score": 3.6,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1590621"
+        },
+        {
+            "mal_id": 27,
+            "url": null,
+            "title": "Demon Jewel, Limitless Desires",
+            "title_japanese": "妖獣ジュエル 果てなき欲望",
+            "title_romanji": "Youjuu Jewel, Hate Naki Yokubou ",
+            "aired": "1973-01-13T00:00:00+00:00",
+            "score": 4.2,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1590626"
+        },
+        {
+            "mal_id": 28,
+            "url": null,
+            "title": "Demon Miniyon, The Devil's Pendant",
+            "title_japanese": "妖獣ミニヨン 悪魔のペンダント",
+            "title_romanji": "Youjuu Miniyon, Akuma no Pendant ",
+            "aired": "1973-01-20T00:00:00+00:00",
+            "score": 3.83,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1590632"
+        },
+        {
+            "mal_id": 29,
+            "url": null,
+            "title": "Demon Kenetos, The Mysterious Necklace",
+            "title_japanese": "妖獣ケネトス 謎のネックレス",
+            "title_romanji": "Youjuu Kenetos, Nazo no Necklace ",
+            "aired": "1972-01-27T00:00:00+00:00",
+            "score": 4.5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1590720"
+        },
+        {
+            "mal_id": 30,
+            "url": null,
+            "title": "Demon Phizele, The Insane Shadow",
+            "title_japanese": "妖獣ファイゼル 影に狂う",
+            "title_romanji": "Youjuu Phizele, Kage Ni Kuruu ",
+            "aired": "1973-02-03T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1590722"
+        },
+        {
+            "mal_id": 31,
+            "url": null,
+            "title": "Demon Kilskey, The Crimson Tornado",
+            "title_japanese": "妖獣キルスキイ 真紅の旋風",
+            "title_romanji": "Youjuu Kilskey, Shinku no Senpuu ",
+            "aired": "1973-02-10T00:00:00+00:00",
+            "score": 4.83,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1590725"
+        },
+        {
+            "mal_id": 32,
+            "url": null,
+            "title": "Demon Aurora, The Sparkling Prison",
+            "title_japanese": "妖獣オーロラ 輝く牢獄",
+            "title_romanji": "Youjuu Aurora, Kagayaku Rouugouku ",
+            "aired": "1973-02-17T00:00:00+00:00",
+            "score": 3.86,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1590728"
+        },
+        {
+            "mal_id": 33,
+            "url": null,
+            "title": "Demon Weathers, The Sun's Revolt",
+            "title_japanese": "妖獣ウエザース 太陽の反乱",
+            "title_romanji": "Youjuu Weathers, Taiyou no Hanran ",
+            "aired": "1973-02-24T00:00:00+00:00",
+            "score": 4.17,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1590736"
+        },
+        {
+            "mal_id": 34,
+            "url": null,
+            "title": "Demon Alron, The Terrifying Maxi Dress",
+            "title_japanese": "妖獣アルロン 恐怖のマキシ",
+            "title_romanji": "Youjuu Alron, Kyoufu no Maxi ",
+            "aired": "1973-03-03T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1497158"
+        },
+        {
+            "mal_id": 35,
+            "url": null,
+            "title": "Demon Marshal Lacock, The Frozen School",
+            "title_japanese": "妖元帥レイコック 凍れる学園",
+            "title_romanji": "Yougensui Lacock, Koure Ru Gakuen ",
+            "aired": "1973-03-10T00:00:00+00:00",
+            "score": 4.17,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1497167"
+        },
+        {
+            "mal_id": 36,
+            "url": null,
+            "title": "Demon Magdler, The Flying Lava",
+            "title_japanese": "妖獣マグドラー 空とぶ溶岩",
+            "title_romanji": "Youjuu Magdler, Sora Tobu Yougan ",
+            "aired": "1973-03-17T00:00:00+00:00",
+            "score": 3.56,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1590838"
+        },
+        {
+            "mal_id": 37,
+            "url": null,
+            "title": "Demon Wooddow, The Enraged Greenery",
+            "title_japanese": "妖獣ウッドドウ 怒れる緑",
+            "title_romanji": "Youjuu Wooddow, Okoreru Midori ",
+            "aired": "1973-03-24T00:00:00+00:00",
+            "score": 4.8,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1590845"
+        },
+        {
+            "mal_id": 38,
+            "url": null,
+            "title": "Demon Dremoon, The Moon is Hell",
+            "title_japanese": "妖獣ドリムーン 月は地獄だ",
+            "title_romanji": "Youjuu Dorimoon: Tsuki wa Jigoku Da! ",
+            "aired": "1973-03-31T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=456839"
+        },
+        {
+            "mal_id": 39,
+            "url": null,
+            "title": "Demon God, The Miracles of God",
+            "title_japanese": "妖獣ゴッド 神の奇蹟",
+            "title_romanji": "Youjuu God: Kami no Kiseki ",
+            "aired": "1973-04-07T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=318339"
+        }
+    ]
+}

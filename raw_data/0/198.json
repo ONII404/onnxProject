@@ -1,0 +1,533 @@
+{
+    "id": 198,
+    "fetched_at": "Sun Dec 14 12:46:19 2025",
+    "metadata": {
+        "mal_id": 198,
+        "url": "https://myanimelist.net/anime/198/Speed_Grapher",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/13/12343.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/13/12343t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/13/12343l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/13/12343.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/13/12343t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/13/12343l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": "https://www.youtube-nocookie.com/embed/gxluGU_jnBs?enablejsapi=1&wmode=opaque&autoplay=1",
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Speed Grapher"
+            },
+            {
+                "type": "Japanese",
+                "title": "スピードグラファー"
+            },
+            {
+                "type": "English",
+                "title": "Speed Grapher"
+            }
+        ],
+        "title": "Speed Grapher",
+        "title_english": "Speed Grapher",
+        "title_japanese": "スピードグラファー",
+        "title_synonyms": [],
+        "type": "TV",
+        "source": "Original",
+        "episodes": 24,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "2005-04-08T00:00:00+00:00",
+            "to": "2005-09-30T00:00:00+00:00",
+            "prop": {
+                "from": {
+                    "day": 8,
+                    "month": 4,
+                    "year": 2005
+                },
+                "to": {
+                    "day": 30,
+                    "month": 9,
+                    "year": 2005
+                }
+            },
+            "string": "Apr 8, 2005 to Sep 30, 2005"
+        },
+        "duration": "23 min per ep",
+        "rating": "R+ - Mild Nudity",
+        "score": 7.29,
+        "scored_by": 43067,
+        "rank": 2997,
+        "popularity": 2018,
+        "members": 123354,
+        "favorites": 636,
+        "synopsis": "Ten years after the Bubble War, the dichotomy between the rich and the poor in the world becomes more prominent and Japan is no exception. The rich seek to satisfy their desires and derive pleasure for themselves, and Tokyo has materialized into such a city as a result. Saiga, once a war photographer, works for Hibara Ginza in the capitalist state of Tokyo. He infiltrates the Roppongi Club, a secretive base located in the red light district of the city, to collect information about them. However, he was caught in the process and brought forward to a girl called Kagura who was in the midst of a ritual. His contact with Kagura awakens his special ability: the power to make things explode when photographed. In order to unravel the mystery behind the Roppongi Club and Kagura, Saiga begins his solitary battle.",
+        "background": "",
+        "season": "spring",
+        "year": 2005,
+        "broadcast": {
+            "day": "Fridays",
+            "time": "02:40",
+            "timezone": "Asia/Tokyo",
+            "string": "Fridays at 02:40 (JST)"
+        },
+        "producers": [
+            {
+                "mal_id": 55,
+                "type": "anime",
+                "name": "TV Asahi",
+                "url": "https://myanimelist.net/anime/producer/55/TV_Asahi"
+            },
+            {
+                "mal_id": 211,
+                "type": "anime",
+                "name": "Rakuonsha",
+                "url": "https://myanimelist.net/anime/producer/211/Rakuonsha"
+            },
+            {
+                "mal_id": 318,
+                "type": "anime",
+                "name": "WAO World",
+                "url": "https://myanimelist.net/anime/producer/318/WAO_World"
+            },
+            {
+                "mal_id": 416,
+                "type": "anime",
+                "name": "TAP",
+                "url": "https://myanimelist.net/anime/producer/416/TAP"
+            },
+            {
+                "mal_id": 2963,
+                "type": "anime",
+                "name": "Future Vision Music",
+                "url": "https://myanimelist.net/anime/producer/2963/Future_Vision_Music"
+            }
+        ],
+        "licensors": [
+            {
+                "mal_id": 102,
+                "type": "anime",
+                "name": "Funimation",
+                "url": "https://myanimelist.net/anime/producer/102/Funimation"
+            }
+        ],
+        "studios": [
+            {
+                "mal_id": 3,
+                "type": "anime",
+                "name": "Gonzo",
+                "url": "https://myanimelist.net/anime/producer/3/Gonzo"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 1,
+                "type": "anime",
+                "name": "Action",
+                "url": "https://myanimelist.net/anime/genre/1/Action"
+            },
+            {
+                "mal_id": 7,
+                "type": "anime",
+                "name": "Mystery",
+                "url": "https://myanimelist.net/anime/genre/7/Mystery"
+            },
+            {
+                "mal_id": 41,
+                "type": "anime",
+                "name": "Suspense",
+                "url": "https://myanimelist.net/anime/genre/41/Suspense"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [
+            {
+                "mal_id": 50,
+                "type": "anime",
+                "name": "Adult Cast",
+                "url": "https://myanimelist.net/anime/genre/50/Adult_Cast"
+            },
+            {
+                "mal_id": 58,
+                "type": "anime",
+                "name": "Gore",
+                "url": "https://myanimelist.net/anime/genre/58/Gore"
+            },
+            {
+                "mal_id": 68,
+                "type": "anime",
+                "name": "Organized Crime",
+                "url": "https://myanimelist.net/anime/genre/68/Organized_Crime"
+            },
+            {
+                "mal_id": 40,
+                "type": "anime",
+                "name": "Psychological",
+                "url": "https://myanimelist.net/anime/genre/40/Psychological"
+            },
+            {
+                "mal_id": 31,
+                "type": "anime",
+                "name": "Super Power",
+                "url": "https://myanimelist.net/anime/genre/31/Super_Power"
+            }
+        ],
+        "demographics": [],
+        "relations": [
+            {
+                "relation": "Adaptation",
+                "entry": [
+                    {
+                        "mal_id": 5434,
+                        "type": "manga",
+                        "name": "Speed Grapher",
+                        "url": "https://myanimelist.net/manga/5434/Speed_Grapher"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [
+                "\"Girls on Film\" by Duran Duran",
+                "\"Shutter Speed\" by Shinkichi Mitsumune [U.S. Version]"
+            ],
+            "endings": [
+                "1: \"Hinageshi no Oka (Hill of Poppies)\" by Shione Yukawa (eps 1-12)",
+                "2: \"Break the Cocoon\" by Yoriko (eps 13-24)"
+            ]
+        },
+        "external": [
+            {
+                "name": "Official Site",
+                "url": "https://www.gonzo.co.jp/works/speed-grapher/index.html"
+            },
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=2696"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=4579"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Speed_Grapher#Anime"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "https://ja.wikipedia.org/wiki/SPEED_GRAPHER"
+            },
+            {
+                "name": "Syoboi",
+                "url": "https://cal.syoboi.jp/tid/607"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": [
+        {
+            "mal_id": 1,
+            "url": "https://myanimelist.net/anime/198/Speed_Grapher/episode/1",
+            "title": "Depravity City",
+            "title_japanese": "背徳都市",
+            "title_romanji": "Haitoku Toshi ",
+            "aired": "2005-04-08T00:00:00+00:00",
+            "score": 4.2,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=30060"
+        },
+        {
+            "mal_id": 2,
+            "url": "https://myanimelist.net/anime/198/Speed_Grapher/episode/2",
+            "title": "Goddess of Greed",
+            "title_japanese": "唸る札束",
+            "title_romanji": "Unaru Satsutaba ",
+            "aired": "2005-04-15T00:00:00+00:00",
+            "score": 4.36,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=30064"
+        },
+        {
+            "mal_id": 3,
+            "url": "https://myanimelist.net/anime/198/Speed_Grapher/episode/3",
+            "title": "Film Like a Bullet",
+            "title_japanese": "写殺爆撮",
+            "title_romanji": "Shasatsu Bakusatsu ",
+            "aired": "2005-04-22T00:00:00+00:00",
+            "score": 4.32,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=30066"
+        },
+        {
+            "mal_id": 4,
+            "url": "https://myanimelist.net/anime/198/Speed_Grapher/episode/4",
+            "title": "Lethal Headshot",
+            "title_japanese": "略奪少女",
+            "title_romanji": "Ryakudatsu Shoujo ",
+            "aired": "2005-04-29T00:00:00+00:00",
+            "score": 4.34,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=271696"
+        },
+        {
+            "mal_id": 5,
+            "url": "https://myanimelist.net/anime/198/Speed_Grapher/episode/5",
+            "title": "Best Friend of Diamonds",
+            "title_japanese": "ダイヤモンド夫人",
+            "title_romanji": "Diamond Fujin ",
+            "aired": "2005-05-06T00:00:00+00:00",
+            "score": 4.32,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=271856"
+        },
+        {
+            "mal_id": 6,
+            "url": "https://myanimelist.net/anime/198/Speed_Grapher/episode/6",
+            "title": "Out of Focus",
+            "title_japanese": "さよならダイヤモンド夫人",
+            "title_romanji": "Sayonara Diamond Fujin ",
+            "aired": "2005-05-13T00:00:00+00:00",
+            "score": 4.27,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=271861"
+        },
+        {
+            "mal_id": 7,
+            "url": "https://myanimelist.net/anime/198/Speed_Grapher/episode/7",
+            "title": "The Big Picture",
+            "title_japanese": "猟奇ドリル",
+            "title_romanji": "Ryouki Drill ",
+            "aired": "2005-05-20T00:00:00+00:00",
+            "score": 4.45,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=272003"
+        },
+        {
+            "mal_id": 8,
+            "url": "https://myanimelist.net/anime/198/Speed_Grapher/episode/8",
+            "title": "Dentophobia",
+            "title_japanese": "神楽のともし灯",
+            "title_romanji": "Kagura no Tomoshibi ",
+            "aired": "2005-05-27T00:00:00+00:00",
+            "score": 4.31,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=294418"
+        },
+        {
+            "mal_id": 9,
+            "url": "https://myanimelist.net/anime/198/Speed_Grapher/episode/9",
+            "title": "Into the Bath",
+            "title_japanese": "湯殿にて",
+            "title_romanji": "Yudono nite ",
+            "aired": "2005-06-03T00:00:00+00:00",
+            "score": 4.28,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=272779"
+        },
+        {
+            "mal_id": 10,
+            "url": "https://myanimelist.net/anime/198/Speed_Grapher/episode/10",
+            "title": "Suitengu Cometh",
+            "title_japanese": "水天宮来る",
+            "title_romanji": "Suitenguu Kuru ",
+            "aired": "2005-06-10T00:00:00+00:00",
+            "score": 4.38,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=272781"
+        },
+        {
+            "mal_id": 11,
+            "url": "https://myanimelist.net/anime/198/Speed_Grapher/episode/11",
+            "title": "Mother Critical",
+            "title_japanese": "ハハキトク スグカエレ",
+            "title_romanji": "Haha Kitoku Sugu Kaere ",
+            "aired": "2005-06-17T00:00:00+00:00",
+            "score": 4.09,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=272936"
+        },
+        {
+            "mal_id": 12,
+            "url": "https://myanimelist.net/anime/198/Speed_Grapher/episode/12",
+            "title": "Left Hand Lullaby",
+            "title_japanese": "左手に抱かれて眠れ",
+            "title_romanji": "Hidarite ni Dakarete Nemure ",
+            "aired": "2005-06-24T00:00:00+00:00",
+            "score": 4.26,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=275906"
+        },
+        {
+            "mal_id": 13,
+            "url": "https://myanimelist.net/anime/198/Speed_Grapher/episode/13",
+            "title": "Ginza the Lawless",
+            "title_japanese": "銀座番外地",
+            "title_romanji": "Ginza Bangaichi ",
+            "aired": "2005-07-01T00:00:00+00:00",
+            "score": 3.94,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=294708"
+        },
+        {
+            "mal_id": 14,
+            "url": "https://myanimelist.net/anime/198/Speed_Grapher/episode/14",
+            "title": "The Wedding Photographer",
+            "title_japanese": "人妻神楽",
+            "title_romanji": "Hitozuma Kagura ",
+            "aired": "2005-07-08T00:00:00+00:00",
+            "score": 4.22,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=294712"
+        },
+        {
+            "mal_id": 15,
+            "url": "https://myanimelist.net/anime/198/Speed_Grapher/episode/15",
+            "title": "Hell is a Wet Woman",
+            "title_japanese": "濡れ女地獄",
+            "title_romanji": "Nureonna Jigoku ",
+            "aired": "2005-07-22T00:00:00+00:00",
+            "score": 4.03,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=31314"
+        },
+        {
+            "mal_id": 16,
+            "url": "https://myanimelist.net/anime/198/Speed_Grapher/episode/16",
+            "title": "Audit the Wicked",
+            "title_japanese": "半期決算報告",
+            "title_romanji": "Hanki Kessan Houkoku ",
+            "aired": "2005-08-12T00:00:00+00:00",
+            "score": 2.67,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=273432"
+        },
+        {
+            "mal_id": 17,
+            "url": "https://myanimelist.net/anime/198/Speed_Grapher/episode/17",
+            "title": "The Reaper and the Nouveau Riche",
+            "title_japanese": "死神成金",
+            "title_romanji": "Shinigami Narikin ",
+            "aired": "2005-08-19T00:00:00+00:00",
+            "score": 4.58,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=273443"
+        },
+        {
+            "mal_id": 18,
+            "url": "https://myanimelist.net/anime/198/Speed_Grapher/episode/18",
+            "title": "Fates and Fists",
+            "title_japanese": "第三局",
+            "title_romanji": "Daisankyoku ",
+            "aired": "2005-08-26T00:00:00+00:00",
+            "score": 3.7,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=276107"
+        },
+        {
+            "mal_id": 19,
+            "url": "https://myanimelist.net/anime/198/Speed_Grapher/episode/19",
+            "title": "Lips and Lies",
+            "title_japanese": "嘘とくちびる",
+            "title_romanji": "Uso to Kuchibiru ",
+            "aired": "2005-09-02T00:00:00+00:00",
+            "score": 4.34,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=294871"
+        },
+        {
+            "mal_id": 20,
+            "url": "https://myanimelist.net/anime/198/Speed_Grapher/episode/20",
+            "title": "Good Vibrations",
+            "title_japanese": "グッドバイブレーション",
+            "title_romanji": "Good Vibrations ",
+            "aired": "2005-09-09T00:00:00+00:00",
+            "score": 4.25,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=273783"
+        },
+        {
+            "mal_id": 21,
+            "url": "https://myanimelist.net/anime/198/Speed_Grapher/episode/21",
+            "title": "All Hail the Glutton",
+            "title_japanese": "総理の朝食",
+            "title_romanji": "Souri no Choushoku ",
+            "aired": "2005-09-16T00:00:00+00:00",
+            "score": 4.2,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=294875"
+        },
+        {
+            "mal_id": 22,
+            "url": "https://myanimelist.net/anime/198/Speed_Grapher/episode/22",
+            "title": "Money, Money, Money",
+            "title_japanese": "オカネクダサイ",
+            "title_romanji": "Okane Kudasai ",
+            "aired": "2005-09-23T00:00:00+00:00",
+            "score": 4.72,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=274101"
+        },
+        {
+            "mal_id": 23,
+            "url": "https://myanimelist.net/anime/198/Speed_Grapher/episode/23",
+            "title": "Tender Grave",
+            "title_japanese": "札束の墓標",
+            "title_romanji": "Satsutaba no Bohyou ",
+            "aired": "2005-09-30T00:00:00+00:00",
+            "score": 4.59,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=295028"
+        },
+        {
+            "mal_id": 24,
+            "url": "https://myanimelist.net/anime/198/Speed_Grapher/episode/24",
+            "title": "The Roppongi Crisis",
+            "title_japanese": "六本木クライシス",
+            "title_romanji": "Roppongi Crisis ",
+            "aired": "2005-09-30T00:00:00+00:00",
+            "score": 4.27,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=109199"
+        }
+    ]
+}

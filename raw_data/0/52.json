@@ -1,0 +1,538 @@
+{
+    "id": 52,
+    "fetched_at": "Sun Dec 14 12:33:25 2025",
+    "metadata": {
+        "mal_id": 52,
+        "url": "https://myanimelist.net/anime/52/Kidou_Tenshi_Angelic_Layer",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1192/113699.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1192/113699t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1192/113699l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1192/113699.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1192/113699t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1192/113699l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Kidou Tenshi Angelic Layer"
+            },
+            {
+                "type": "Japanese",
+                "title": "機動天使エンジェリックレイヤー"
+            },
+            {
+                "type": "English",
+                "title": "Battle Doll Angelic Layer"
+            },
+            {
+                "type": "German",
+                "title": "Angelic Layer"
+            },
+            {
+                "type": "French",
+                "title": "Angelic Layer"
+            }
+        ],
+        "title": "Kidou Tenshi Angelic Layer",
+        "title_english": "Battle Doll Angelic Layer",
+        "title_japanese": "機動天使エンジェリックレイヤー",
+        "title_synonyms": [],
+        "type": "TV",
+        "source": "Manga",
+        "episodes": 26,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "2001-04-01T00:00:00+00:00",
+            "to": "2001-09-23T00:00:00+00:00",
+            "prop": {
+                "from": {
+                    "day": 1,
+                    "month": 4,
+                    "year": 2001
+                },
+                "to": {
+                    "day": 23,
+                    "month": 9,
+                    "year": 2001
+                }
+            },
+            "string": "Apr 1, 2001 to Sep 23, 2001"
+        },
+        "duration": "24 min per ep",
+        "rating": "PG-13 - Teens 13 or older",
+        "score": 7.26,
+        "scored_by": 29918,
+        "rank": 3154,
+        "popularity": 3105,
+        "members": 61944,
+        "favorites": 329,
+        "synopsis": "12-year-old Misaki Suzuhara has just gotten involved in Angelic Layer, a battling game using electronic dolls called angels. Even as a newbie, Misaki shows advanced skills as she meets new friends and enters Angelic Layer tournaments to fight the greatest Angelic Layer champions of the nation.",
+        "background": "",
+        "season": "spring",
+        "year": 2001,
+        "broadcast": {
+            "day": "Sundays",
+            "time": "17:20",
+            "timezone": "Asia/Tokyo",
+            "string": "Sundays at 17:20 (JST)"
+        },
+        "producers": [
+            {
+                "mal_id": 53,
+                "type": "anime",
+                "name": "Dentsu",
+                "url": "https://myanimelist.net/anime/producer/53/Dentsu"
+            },
+            {
+                "mal_id": 717,
+                "type": "anime",
+                "name": "TV Tokyo Music",
+                "url": "https://myanimelist.net/anime/producer/717/TV_Tokyo_Music"
+            }
+        ],
+        "licensors": [
+            {
+                "mal_id": 97,
+                "type": "anime",
+                "name": "ADV Films",
+                "url": "https://myanimelist.net/anime/producer/97/ADV_Films"
+            },
+            {
+                "mal_id": 376,
+                "type": "anime",
+                "name": "Sentai Filmworks",
+                "url": "https://myanimelist.net/anime/producer/376/Sentai_Filmworks"
+            }
+        ],
+        "studios": [
+            {
+                "mal_id": 4,
+                "type": "anime",
+                "name": "Bones",
+                "url": "https://myanimelist.net/anime/producer/4/Bones"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 46,
+                "type": "anime",
+                "name": "Award Winning",
+                "url": "https://myanimelist.net/anime/genre/46/Award_Winning"
+            },
+            {
+                "mal_id": 4,
+                "type": "anime",
+                "name": "Comedy",
+                "url": "https://myanimelist.net/anime/genre/4/Comedy"
+            },
+            {
+                "mal_id": 8,
+                "type": "anime",
+                "name": "Drama",
+                "url": "https://myanimelist.net/anime/genre/8/Drama"
+            },
+            {
+                "mal_id": 24,
+                "type": "anime",
+                "name": "Sci-Fi",
+                "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [
+            {
+                "mal_id": 11,
+                "type": "anime",
+                "name": "Strategy Game",
+                "url": "https://myanimelist.net/anime/genre/11/Strategy_Game"
+            }
+        ],
+        "demographics": [
+            {
+                "mal_id": 27,
+                "type": "anime",
+                "name": "Shounen",
+                "url": "https://myanimelist.net/anime/genre/27/Shounen"
+            }
+        ],
+        "relations": [
+            {
+                "relation": "Adaptation",
+                "entry": [
+                    {
+                        "mal_id": 80,
+                        "type": "manga",
+                        "name": "Angelic Layer",
+                        "url": "https://myanimelist.net/manga/80/Angelic_Layer"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [
+                "\"Be My Angel\" by Enomoto Atsuko"
+            ],
+            "endings": [
+                "1: \"The Starry Sky\" by HAL",
+                "2: \"Ame Agari\" by Matsushita Moeco"
+            ]
+        },
+        "external": [
+            {
+                "name": "Official Site",
+                "url": "http://mv.avex.jp/angelic/"
+            },
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=170"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=400"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "http://en.wikipedia.org/wiki/Angelic_Layer"
+            }
+        ],
+        "streaming": [
+            {
+                "name": "HIDIVE",
+                "url": "https://www.hidive.com/tv/angelic-layer"
+            }
+        ]
+    },
+    "episodes": [
+        {
+            "mal_id": 1,
+            "url": null,
+            "title": "How Do You Do? My Very Own Angel!",
+            "title_japanese": "はじめまして! 私だけのエンジェル",
+            "title_romanji": "Hajimemashite! Watashi dake no Angel ",
+            "aired": "2001-04-01T00:00:00+00:00",
+            "score": 4.25,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=66075"
+        },
+        {
+            "mal_id": 2,
+            "url": null,
+            "title": "Do Your Best, Hikaru! It’s Your First Fight!",
+            "title_japanese": "がんばれヒカル! はじめてのファイト!!",
+            "title_romanji": "Ganbare Hikaru! Hajimete no Fight!! ",
+            "aired": "2001-04-08T00:00:00+00:00",
+            "score": 4.03,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=66077"
+        },
+        {
+            "mal_id": 3,
+            "url": null,
+            "title": "Who Are You? Misaki's Nervous Lesson",
+            "title_japanese": "あなたは誰? みさきのドキドキレッスン",
+            "title_romanji": "Anata wa Dare? Misaki no Dokidoki Lesson ",
+            "aired": "2001-04-15T00:00:00+00:00",
+            "score": 4.46,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=66080"
+        },
+        {
+            "mal_id": 4,
+            "url": null,
+            "title": "The Day an Angel Flew Down",
+            "title_japanese": "天使が舞いおりた日",
+            "title_romanji": "Tenshi ga Maiorita Hi ",
+            "aired": "2001-04-22T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=66085"
+        },
+        {
+            "mal_id": 5,
+            "url": null,
+            "title": "I Don’t Want to Lose! I’m Believing in Hikaru!",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 4.11,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=68002"
+        },
+        {
+            "mal_id": 6,
+            "url": null,
+            "title": "Suzuka, the Speed of Light! Hatoko’s Declaration of Rivalry!",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 4.1,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=170912"
+        },
+        {
+            "mal_id": 7,
+            "url": null,
+            "title": "Fight at the Edge… Misaki’s Last Chance",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 4.32,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=320227"
+        },
+        {
+            "mal_id": 8,
+            "url": null,
+            "title": "Misaki vs Misaki? A Dangerous Classmate",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 3.9,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=320225"
+        },
+        {
+            "mal_id": 9,
+            "url": null,
+            "title": "Sing, Misaki! Is the Deus an Idol?!",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 4.18,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=320235"
+        },
+        {
+            "mal_id": 10,
+            "url": null,
+            "title": "Mean Sisters! Hikaru, the Target",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 3.95,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=320245"
+        },
+        {
+            "mal_id": 11,
+            "url": null,
+            "title": "Finish It Off! Hikaru & Mao’s Important Game",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 4.38,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=320253"
+        },
+        {
+            "mal_id": 12,
+            "url": null,
+            "title": "Misako & Kotaro, Their Exciting Date",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1168783"
+        },
+        {
+            "mal_id": 13,
+            "url": null,
+            "title": "Pure White Blanch, Kaede’s Smile",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 3.92,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=432373"
+        },
+        {
+            "mal_id": 14,
+            "url": null,
+            "title": "I Won’t Give up! and an Angel Was Born",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 4.25,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=463601"
+        },
+        {
+            "mal_id": 15,
+            "url": null,
+            "title": "Shirahime Versus Suzuka! Secret of the Ice Machine",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 4.13,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=630609"
+        },
+        {
+            "mal_id": 16,
+            "url": null,
+            "title": "The Final Game! Hikaru’s Last Attack",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 4.15,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=100666"
+        },
+        {
+            "mal_id": 17,
+            "url": null,
+            "title": "I’ve Made My Mind up On You! the One Misaki Selected",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 4.05,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=100719"
+        },
+        {
+            "mal_id": 18,
+            "url": null,
+            "title": "Many Strong Opponents! the Nation Games of Everyone’s Dreams",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 3.81,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=100724"
+        },
+        {
+            "mal_id": 19,
+            "url": null,
+            "title": "System Down! Decisive Fight On a Ship in a Storm",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1596437"
+        },
+        {
+            "mal_id": 20,
+            "url": null,
+            "title": "Is Icchan the Enemy? the Puzzling Second Game!",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 3.81,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=100733"
+        },
+        {
+            "mal_id": 21,
+            "url": null,
+            "title": "Summertime at the Sea! Someone Is in Love With Someone!",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 4.06,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=100865"
+        },
+        {
+            "mal_id": 22,
+            "url": null,
+            "title": "Suddenly Just the Two of Us, Secret Double Dates",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 4.18,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=100868"
+        },
+        {
+            "mal_id": 23,
+            "url": null,
+            "title": "Break up the Magic Wall! Misaki Versus Ohjiro",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 4.29,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=100871"
+        },
+        {
+            "mal_id": 24,
+            "url": null,
+            "title": "Reach Misaki! This Thought Goes Over the Rainbow!",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 4.36,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=100876"
+        },
+        {
+            "mal_id": 25,
+            "url": null,
+            "title": "Reunion of Destiny, Angels Wet With Tears",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 4.6,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=321149"
+        },
+        {
+            "mal_id": 26,
+            "url": null,
+            "title": "Angel Wings! Please Guide Me & Hikaru!",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 4.23,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=100885"
+        }
+    ]
+}

@@ -1,0 +1,137 @@
+{
+    "id": 32626,
+    "fetched_at": "Sun Dec 14 10:50:06 2025",
+    "metadata": {
+        "mal_id": 32626,
+        "url": "https://myanimelist.net/anime/32626/Kozaru_no_Buranko",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/8/78332.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/8/78332t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/8/78332l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/8/78332.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/8/78332t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/8/78332l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Kozaru no Buranko"
+            },
+            {
+                "type": "Synonym",
+                "title": "Little Monkey on a Swing"
+            },
+            {
+                "type": "Japanese",
+                "title": "こざるのぶらんこ"
+            }
+        ],
+        "title": "Kozaru no Buranko",
+        "title_english": null,
+        "title_japanese": "こざるのぶらんこ",
+        "title_synonyms": [
+            "Little Monkey on a Swing"
+        ],
+        "type": "Movie",
+        "source": "Picture book",
+        "episodes": 1,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "1959-12-01T00:00:00+00:00",
+            "to": null,
+            "prop": {
+                "from": {
+                    "day": 1,
+                    "month": 12,
+                    "year": 1959
+                },
+                "to": {
+                    "day": null,
+                    "month": null,
+                    "year": null
+                }
+            },
+            "string": "Dec 1959"
+        },
+        "duration": "11 min",
+        "rating": "G - All Ages",
+        "score": 5.12,
+        "scored_by": 217,
+        "rank": 13639,
+        "popularity": 17383,
+        "members": 561,
+        "favorites": 0,
+        "synopsis": "A monkey helps rescue forest animals during a fire.",
+        "background": "",
+        "season": null,
+        "year": null,
+        "broadcast": {
+            "day": null,
+            "time": null,
+            "timezone": null,
+            "string": null
+        },
+        "producers": [
+            {
+                "mal_id": 198,
+                "type": "anime",
+                "name": "Gakken",
+                "url": "https://myanimelist.net/anime/producer/198/Gakken"
+            },
+            {
+                "mal_id": 1091,
+                "type": "anime",
+                "name": "Gakken Eigakyoku",
+                "url": "https://myanimelist.net/anime/producer/1091/Gakken_Eigakyoku"
+            }
+        ],
+        "licensors": [],
+        "studios": [],
+        "genres": [],
+        "explicit_genres": [],
+        "themes": [],
+        "demographics": [
+            {
+                "mal_id": 15,
+                "type": "anime",
+                "name": "Kids",
+                "url": "https://myanimelist.net/anime/genre/15/Kids"
+            }
+        ],
+        "relations": [],
+        "theme": {
+            "openings": [],
+            "endings": []
+        },
+        "external": [
+            {
+                "name": "Official Site",
+                "url": "http://gakken.co.jp/campaign/70th/archives/"
+            },
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=7026"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": []
+}

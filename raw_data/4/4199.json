@@ -1,0 +1,180 @@
+{
+    "id": 4199,
+    "fetched_at": "Sun Dec 14 08:36:48 2025",
+    "metadata": {
+        "mal_id": 4199,
+        "url": "https://myanimelist.net/anime/4199/Entaku_no_Kishi_Monogatari__Moero_Arthur",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1064/154099.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1064/154099t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1064/154099l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1064/154099.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1064/154099t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1064/154099l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Entaku no Kishi Monogatari: Moero Arthur"
+            },
+            {
+                "type": "Synonym",
+                "title": "King Arthur"
+            },
+            {
+                "type": "Synonym",
+                "title": "King Arthur and the Knights of the Round Table"
+            },
+            {
+                "type": "Synonym",
+                "title": "Prinz Arthus"
+            },
+            {
+                "type": "Japanese",
+                "title": "円卓の騎士物語　燃えろアーサー"
+            }
+        ],
+        "title": "Entaku no Kishi Monogatari: Moero Arthur",
+        "title_english": null,
+        "title_japanese": "円卓の騎士物語　燃えろアーサー",
+        "title_synonyms": [
+            "King Arthur",
+            "King Arthur and the Knights of the Round Table",
+            "Prinz Arthus"
+        ],
+        "type": "TV",
+        "source": "Unknown",
+        "episodes": 30,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "1979-09-09T00:00:00+00:00",
+            "to": "1980-03-30T00:00:00+00:00",
+            "prop": {
+                "from": {
+                    "day": 9,
+                    "month": 9,
+                    "year": 1979
+                },
+                "to": {
+                    "day": 30,
+                    "month": 3,
+                    "year": 1980
+                }
+            },
+            "string": "Sep 9, 1979 to Mar 30, 1980"
+        },
+        "duration": "24 min per ep",
+        "rating": "PG-13 - Teens 13 or older",
+        "score": 6.34,
+        "scored_by": 884,
+        "rank": 8314,
+        "popularity": 11815,
+        "members": 2391,
+        "favorites": 5,
+        "synopsis": "After his parents are killed by the Evil Lavic, Arthur is a contender to become King of all Britain. Arthur and his brave knights embark on a quest for the Holy Shield – the only hope to beat Lavic and unify the kingdom.\n\n(Source: Toei Animation)",
+        "background": "",
+        "season": "fall",
+        "year": 1979,
+        "broadcast": {
+            "day": "Sundays",
+            "time": "19:00",
+            "timezone": "Asia/Tokyo",
+            "string": "Sundays at 19:00 (JST)"
+        },
+        "producers": [],
+        "licensors": [],
+        "studios": [
+            {
+                "mal_id": 18,
+                "type": "anime",
+                "name": "Toei Animation",
+                "url": "https://myanimelist.net/anime/producer/18/Toei_Animation"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 2,
+                "type": "anime",
+                "name": "Adventure",
+                "url": "https://myanimelist.net/anime/genre/2/Adventure"
+            },
+            {
+                "mal_id": 8,
+                "type": "anime",
+                "name": "Drama",
+                "url": "https://myanimelist.net/anime/genre/8/Drama"
+            },
+            {
+                "mal_id": 22,
+                "type": "anime",
+                "name": "Romance",
+                "url": "https://myanimelist.net/anime/genre/22/Romance"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [
+            {
+                "mal_id": 13,
+                "type": "anime",
+                "name": "Historical",
+                "url": "https://myanimelist.net/anime/genre/13/Historical"
+            }
+        ],
+        "demographics": [],
+        "relations": [
+            {
+                "relation": "Sequel",
+                "entry": [
+                    {
+                        "mal_id": 4614,
+                        "type": "anime",
+                        "name": "Moero Arthur: Hakuba no Ouji",
+                        "url": "https://myanimelist.net/anime/4614/Moero_Arthur__Hakuba_no_Ouji"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [
+                "\"Kibou yo Sore wa (希望よそれは)\" by Koorogi '73, Isao Sasaki"
+            ],
+            "endings": [
+                "\"Hana no Naka no Hana ( 花のなかの花)\" by Mitsuko Horie, Koorogi '73"
+            ]
+        },
+        "external": [
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=1920"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=2194"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "http://en.wikipedia.org/wiki/King_Arthur_%28TV_series%29"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": []
+}

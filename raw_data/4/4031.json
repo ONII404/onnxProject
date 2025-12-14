@@ -1,0 +1,185 @@
+{
+    "id": 4031,
+    "fetched_at": "Sun Dec 14 08:34:13 2025",
+    "metadata": {
+        "mal_id": 4031,
+        "url": "https://myanimelist.net/anime/4031/Sakigake_Otokojuku_Movie",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1672/94168.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1672/94168t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1672/94168l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1672/94168.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1672/94168t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1672/94168l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Sakigake!! Otokojuku Movie"
+            },
+            {
+                "type": "Synonym",
+                "title": "Valiantly Forge Ahead!! Men's Cram School (1988)"
+            },
+            {
+                "type": "Japanese",
+                "title": "魁!!男塾"
+            },
+            {
+                "type": "English",
+                "title": "Charge!! Men's Private School"
+            }
+        ],
+        "title": "Sakigake!! Otokojuku Movie",
+        "title_english": "Charge!! Men's Private School",
+        "title_japanese": "魁!!男塾",
+        "title_synonyms": [
+            "Valiantly Forge Ahead!! Men's Cram School (1988)"
+        ],
+        "type": "Movie",
+        "source": "Manga",
+        "episodes": 1,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "1988-07-23T00:00:00+00:00",
+            "to": null,
+            "prop": {
+                "from": {
+                    "day": 23,
+                    "month": 7,
+                    "year": 1988
+                },
+                "to": {
+                    "day": null,
+                    "month": null,
+                    "year": null
+                }
+            },
+            "string": "Jul 23, 1988"
+        },
+        "duration": "1 hr 14 min",
+        "rating": "PG-13 - Teens 13 or older",
+        "score": 6.62,
+        "scored_by": 1503,
+        "rank": 6577,
+        "popularity": 10537,
+        "members": 3441,
+        "favorites": 5,
+        "synopsis": "Otokojuku, a private school for juvenile delinquents that were previously expelled from normal schools. At this school, Japanese chivalry is taught through the feudal and military fundamentals. Similar to an action film, the classes are overwhelmed by violence. Only those who survive it become true men.\n(Source: Animenfo)",
+        "background": "",
+        "season": null,
+        "year": null,
+        "broadcast": {
+            "day": null,
+            "time": null,
+            "timezone": null,
+            "string": null
+        },
+        "producers": [],
+        "licensors": [],
+        "studios": [
+            {
+                "mal_id": 18,
+                "type": "anime",
+                "name": "Toei Animation",
+                "url": "https://myanimelist.net/anime/producer/18/Toei_Animation"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 1,
+                "type": "anime",
+                "name": "Action",
+                "url": "https://myanimelist.net/anime/genre/1/Action"
+            },
+            {
+                "mal_id": 4,
+                "type": "anime",
+                "name": "Comedy",
+                "url": "https://myanimelist.net/anime/genre/4/Comedy"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [
+            {
+                "mal_id": 55,
+                "type": "anime",
+                "name": "Delinquents",
+                "url": "https://myanimelist.net/anime/genre/55/Delinquents"
+            },
+            {
+                "mal_id": 17,
+                "type": "anime",
+                "name": "Martial Arts",
+                "url": "https://myanimelist.net/anime/genre/17/Martial_Arts"
+            },
+            {
+                "mal_id": 23,
+                "type": "anime",
+                "name": "School",
+                "url": "https://myanimelist.net/anime/genre/23/School"
+            }
+        ],
+        "demographics": [
+            {
+                "mal_id": 27,
+                "type": "anime",
+                "name": "Shounen",
+                "url": "https://myanimelist.net/anime/genre/27/Shounen"
+            }
+        ],
+        "relations": [
+            {
+                "relation": "Prequel",
+                "entry": [
+                    {
+                        "mal_id": 2903,
+                        "type": "anime",
+                        "name": "Sakigake!! Otokojuku",
+                        "url": "https://myanimelist.net/anime/2903/Sakigake_Otokojuku"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [],
+            "endings": [
+                "\"Cool Eyes\" by Byakkotai"
+            ]
+        },
+        "external": [
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=2071"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=3842"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "http://en.wikipedia.org/wiki/Sakigake!!_Otokojuku"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": []
+}

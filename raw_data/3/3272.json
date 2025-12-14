@@ -1,0 +1,1911 @@
+{
+    "id": 3272,
+    "fetched_at": "Sun Dec 14 08:21:55 2025",
+    "metadata": {
+        "mal_id": 3272,
+        "url": "https://myanimelist.net/anime/3272/Kinnikuman",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/5/5182.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/5/5182t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/5/5182l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/5/5182.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/5/5182t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/5/5182l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Kinnikuman"
+            },
+            {
+                "type": "Synonym",
+                "title": "Muscleman"
+            },
+            {
+                "type": "Synonym",
+                "title": "Musculman"
+            },
+            {
+                "type": "Japanese",
+                "title": "キン肉マン"
+            }
+        ],
+        "title": "Kinnikuman",
+        "title_english": null,
+        "title_japanese": "キン肉マン",
+        "title_synonyms": [
+            "Muscleman",
+            "Musculman"
+        ],
+        "type": "TV",
+        "source": "Manga",
+        "episodes": 137,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "1983-04-03T00:00:00+00:00",
+            "to": "1986-10-01T00:00:00+00:00",
+            "prop": {
+                "from": {
+                    "day": 3,
+                    "month": 4,
+                    "year": 1983
+                },
+                "to": {
+                    "day": 1,
+                    "month": 10,
+                    "year": 1986
+                }
+            },
+            "string": "Apr 3, 1983 to Oct 1, 1986"
+        },
+        "duration": "24 min per ep",
+        "rating": "PG-13 - Teens 13 or older",
+        "score": 7.21,
+        "scored_by": 4762,
+        "rank": 3410,
+        "popularity": 5975,
+        "members": 15055,
+        "favorites": 91,
+        "synopsis": "Kinnikuman is a superhero... a bad one. Then one day a person named Meat tells Kinnikuman that he is the prince of an alien planet. Kinnikuman must save the day numerous times fighting evil chiyojins and competing in tournaments to prove himself to his family and to gain respect and money.",
+        "background": "",
+        "season": "spring",
+        "year": 1983,
+        "broadcast": {
+            "day": null,
+            "time": null,
+            "timezone": null,
+            "string": "Unknown"
+        },
+        "producers": [
+            {
+                "mal_id": 1003,
+                "type": "anime",
+                "name": "Nippon Television Network",
+                "url": "https://myanimelist.net/anime/producer/1003/Nippon_Television_Network"
+            }
+        ],
+        "licensors": [],
+        "studios": [
+            {
+                "mal_id": 18,
+                "type": "anime",
+                "name": "Toei Animation",
+                "url": "https://myanimelist.net/anime/producer/18/Toei_Animation"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 4,
+                "type": "anime",
+                "name": "Comedy",
+                "url": "https://myanimelist.net/anime/genre/4/Comedy"
+            },
+            {
+                "mal_id": 30,
+                "type": "anime",
+                "name": "Sports",
+                "url": "https://myanimelist.net/anime/genre/30/Sports"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [
+            {
+                "mal_id": 54,
+                "type": "anime",
+                "name": "Combat Sports",
+                "url": "https://myanimelist.net/anime/genre/54/Combat_Sports"
+            }
+        ],
+        "demographics": [
+            {
+                "mal_id": 27,
+                "type": "anime",
+                "name": "Shounen",
+                "url": "https://myanimelist.net/anime/genre/27/Shounen"
+            }
+        ],
+        "relations": [
+            {
+                "relation": "Sequel",
+                "entry": [
+                    {
+                        "mal_id": 3273,
+                        "type": "anime",
+                        "name": "Kinnikuman (Movie)",
+                        "url": "https://myanimelist.net/anime/3273/Kinnikuman_Movie"
+                    },
+                    {
+                        "mal_id": 3281,
+                        "type": "anime",
+                        "name": "Kinnikuman: Kinnikusei Oui Soudatsu-hen",
+                        "url": "https://myanimelist.net/anime/3281/Kinnikuman__Kinnikusei_Oui_Soudatsu-hen"
+                    }
+                ]
+            },
+            {
+                "relation": "Adaptation",
+                "entry": [
+                    {
+                        "mal_id": 2845,
+                        "type": "manga",
+                        "name": "Kinnikuman",
+                        "url": "https://myanimelist.net/manga/2845/Kinnikuman"
+                    }
+                ]
+            },
+            {
+                "relation": "Side Story",
+                "entry": [
+                    {
+                        "mal_id": 3280,
+                        "type": "anime",
+                        "name": "Kinnikuman: Kessen! Shichinin no Choujin tai Uchuu Nobushi",
+                        "url": "https://myanimelist.net/anime/3280/Kinnikuman__Kessen_Shichinin_no_Choujin_tai_Uchuu_Nobushi"
+                    },
+                    {
+                        "mal_id": 3274,
+                        "type": "anime",
+                        "name": "Kinnikuman: Ooabare! Seigi Choujin",
+                        "url": "https://myanimelist.net/anime/3274/Kinnikuman__Ooabare_Seigi_Choujin"
+                    },
+                    {
+                        "mal_id": 3275,
+                        "type": "anime",
+                        "name": "Kinnikuman: Seigi Choujin vs. Kodai Choujin",
+                        "url": "https://myanimelist.net/anime/3275/Kinnikuman__Seigi_Choujin_vs_Kodai_Choujin"
+                    }
+                ]
+            },
+            {
+                "relation": "Character",
+                "entry": [
+                    {
+                        "mal_id": 39310,
+                        "type": "anime",
+                        "name": "Kinnikuman no Koutsuu Anzen",
+                        "url": "https://myanimelist.net/anime/39310/Kinnikuman_no_Koutsuu_Anzen"
+                    },
+                    {
+                        "mal_id": 4427,
+                        "type": "anime",
+                        "name": "Tatakae!! Ramenman",
+                        "url": "https://myanimelist.net/anime/4427/Tatakae_Ramenman"
+                    }
+                ]
+            },
+            {
+                "relation": "Other",
+                "entry": [
+                    {
+                        "mal_id": 60970,
+                        "type": "anime",
+                        "name": "Do/Ou x Kinnikuman CM",
+                        "url": "https://myanimelist.net/anime/60970/Do_Ou_x_Kinnikuman_CM"
+                    },
+                    {
+                        "mal_id": 61267,
+                        "type": "anime",
+                        "name": "Kinnikuman x Cup Noodles: Power Up shita Pro-hen",
+                        "url": "https://myanimelist.net/anime/61267/Kinnikuman_x_Cup_Noodles__Power_Up_shita_Pro-hen"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [
+                "1: \"Kinnikuman Go Fight!\" by Akira Kushida (eps 1-65)",
+                "2: \"Honoo no Kinnikuman (Blazing Kinnikuman)\" by Akira Kushida (eps 66-124)",
+                "3: \"Kinnikuman Senpuu (Sensation)\" by Akira Kushida (eps 125-137)"
+            ],
+            "endings": [
+                "1: \"Niku 2x9 Rock 'n Roll\" by Akira Kushida (eps 1-65)",
+                "2: \"Kinniku-Mambo\" by Akira Kamiya (eps 66-96,107-124)",
+                "3: \"Kinnikuman Ondo\" by Akira Kamiya & Minori Matsushima (eps 97-106)",
+                "4: \"Kinnikuman Club\" by Akira Kamiya (eps 125-137)"
+            ]
+        },
+        "external": [
+            {
+                "name": "Official Site",
+                "url": "http://www.toei-anim.co.jp/lineup/tv/kinniku/"
+            },
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=1930"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=1513"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "http://en.wikipedia.org/wiki/Kinnikuman"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": [
+        {
+            "mal_id": 1,
+            "url": null,
+            "title": "Messenger From Planet Kinniku / The Man From America",
+            "title_japanese": "キン肉星からの使者の巻／アメリカからきた男の巻",
+            "title_romanji": "Kinniku-sei kara no Shisha no Maki / America kara Kita Otoko no Maki ",
+            "aired": "1983-04-03T00:00:00+00:00",
+            "score": 3.78,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1940364"
+        },
+        {
+            "mal_id": 2,
+            "url": null,
+            "title": "The Target is Nessie! / Save Planet Kinniku!",
+            "title_japanese": "標的はネッシー！の巻／キン肉星を救え！の巻",
+            "title_romanji": "Hyouteki wa Neshii! No Maki / Kinniku-sei wo Sukue! No Maki ",
+            "aired": "1983-04-10T00:00:00+00:00",
+            "score": 4.25,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2185643"
+        },
+        {
+            "mal_id": 3,
+            "url": null,
+            "title": "Space Monster Invasion / Kinnikuman's Great Hustle",
+            "title_japanese": "宇宙怪獣襲来の巻／キン肉マン大ハッスルの巻",
+            "title_romanji": "Uchuu Kaijuu Shuurai no Maki / Kinnikuman Dai Hustle no Maki ",
+            "aired": "1983-04-17T00:00:00+00:00",
+            "score": 3.58,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1940610"
+        },
+        {
+            "mal_id": 4,
+            "url": null,
+            "title": "Groovy Natsuko / Annoying Part-Time Jobs",
+            "title_japanese": "翔んでるナツコの巻／アルバイトはつらいよの巻",
+            "title_romanji": "Tonderu Natsuko no Maki / Arubaito wa Tsurai yo no Maki ",
+            "aired": "1983-04-24T00:00:00+00:00",
+            "score": 3.88,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1940623"
+        },
+        {
+            "mal_id": 5,
+            "url": null,
+            "title": "Kinkotsuman and The Battle of Flesh and Blood / Kinnikuman's Broken Heart",
+            "title_japanese": "キン骨マンと骨肉の争いの巻／キン肉マン失恋の巻",
+            "title_romanji": "Kinkotsuman to Kouniku no Orasoi no Maki / Kinnikuman Shitsuren no Maki ",
+            "aired": "1983-05-01T00:00:00+00:00",
+            "score": 3.5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2191051"
+        },
+        {
+            "mal_id": 6,
+            "url": null,
+            "title": "Kinnikuman is Sexy!? / The Competition's Japanese Representative",
+            "title_japanese": "モテモテ！？キン肉マンの巻／日本代表になりたいの巻",
+            "title_romanji": "Motemote!? Kinnikuman no Maki / Nippon Daihyou ni Naritai no Maki ",
+            "aired": "1983-05-08T00:00:00+00:00",
+            "score": 4.29,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1945798"
+        },
+        {
+            "mal_id": 7,
+            "url": null,
+            "title": "Hero Olympic Volume / Kinkotsuman's Wanna Volume",
+            "title_japanese": "ヒーローオリンピックの巻／キン骨マンのワナの巻",
+            "title_romanji": "Hero Olympic no Maki / Kinkotsuman no Wana no Maki ",
+            "aired": "1983-05-15T00:00:00+00:00",
+            "score": 4.38,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1945807"
+        },
+        {
+            "mal_id": 8,
+            "url": null,
+            "title": "Space Marathon Volume / Decisive Battle Royal Volume",
+            "title_japanese": "宇宙マラソンの巻／決戦バトルロイヤルの巻",
+            "title_romanji": "Uchuu Marathon no Maki / Kessen Battle Royal no Maki ",
+            "aired": "1983-05-22T00:00:00+00:00",
+            "score": 4.67,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2107847"
+        },
+        {
+            "mal_id": 9,
+            "url": null,
+            "title": "Natsuko Giant Volume / Hidden Secret Volume",
+            "title_japanese": "ナツコ巨人になるの巻／かくされた秘密の巻",
+            "title_romanji": "Natsuko Kyojin ni Naru no Maki / Kakusareta Himitsu no Maki ",
+            "aired": "1983-05-29T00:00:00+00:00",
+            "score": 4.5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2193385"
+        },
+        {
+            "mal_id": 10,
+            "url": null,
+            "title": "Gong Final Tournament Volume / Dangerous Terryman Volume",
+            "title_japanese": "ゴング決勝トーナメントの巻／危うしテリーマンの巻",
+            "title_romanji": "Gong Kesshou Tournament no Maki / Ayaushi Terryman no Maki ",
+            "aired": "1983-06-05T00:00:00+00:00",
+            "score": 4.5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1947178"
+        },
+        {
+            "mal_id": 11,
+            "url": null,
+            "title": "Great Reversal Volume / Ice Deathmatch Volume",
+            "title_japanese": "大逆転の巻／氷上デスマッチの巻",
+            "title_romanji": "Dai Gyakuten no Maki / Hishou Deathmatch no Maki ",
+            "aired": "1983-06-12T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2239454"
+        },
+        {
+            "mal_id": 12,
+            "url": null,
+            "title": "Death Camel Clutch Volume / Look! This Western Soul Volume",
+            "title_japanese": "死のキャメルクラッチの巻／見よ！この西部魂の巻",
+            "title_romanji": "Shi no Camel Clutch no Maki / Miyo! Ko no Seibu Tamashii no Maki ",
+            "aired": "1983-06-19T00:00:00+00:00",
+            "score": 4.5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2108872"
+        },
+        {
+            "mal_id": 13,
+            "url": null,
+            "title": "Terryman Transforming into a Devil Volume / Deadly Boston Club Volume",
+            "title_japanese": "テリーマン悪魔に変身の巻／必殺ボストンクラブの巻",
+            "title_romanji": "Terryman Akuma ni Henshin no Maki / Hissatsu Boston Club no Maki ",
+            "aired": "1983-06-26T00:00:00+00:00",
+            "score": 4.75,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2108880"
+        },
+        {
+            "mal_id": 14,
+            "url": null,
+            "title": "Zangaku Alien Appears! Volume / Kinnikuman - Final Advance Volume",
+            "title_japanese": "ザンギャク星人現る！の巻／キン肉マン・決勝進出の巻",
+            "title_romanji": "Zangyaku Seijin Ganzuru! No Maki / Kinnikuman: Kesshou Shinshuu no Maki ",
+            "aired": "1983-07-03T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 15,
+            "url": null,
+            "title": "Snow Mountain Secret Special Training Volume / Ramenman Ramen Volume",
+            "title_japanese": "雪山秘密特訓の巻／ラーメンマン大暴れの巻",
+            "title_romanji": "Yuki Yama Himitsu Tokkun no Maki / Ramenman Dai Abare no Maki ",
+            "aired": "1983-07-10T00:00:00+00:00",
+            "score": 4.6,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2109251"
+        },
+        {
+            "mal_id": 16,
+            "url": null,
+            "title": "Let's Go! Combat Style Volume / It Came Out! Human Rocket Volume",
+            "title_japanese": "行くぞ！戦闘スタイルの巻／出た！人間ロケットの巻",
+            "title_romanji": "Ikuzo! Sentou Style no Maki / Deta! Ningen Rocket no Maki ",
+            "aired": "1983-07-17T00:00:00+00:00",
+            "score": 5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2109271"
+        },
+        {
+            "mal_id": 17,
+            "url": null,
+            "title": "Fear! Robin Special Move Volume / Death Course Volume",
+            "title_japanese": "恐怖！ロビン必殺技の巻／死のコースの巻",
+            "title_romanji": "Kyoufu! Robin Hissatsu Waza no Maki / Shi no Course no Maki ",
+            "aired": "1983-07-24T00:00:00+00:00",
+            "score": 5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2109446"
+        },
+        {
+            "mal_id": 18,
+            "url": null,
+            "title": "Denkianma's Hell Volume / Kinnikuman Reversal? Volume",
+            "title_japanese": "電気アンマの地獄だぜの巻／キン肉マン逆転なるか？の巻",
+            "title_romanji": "Denki Anma no Jigoku daze no Maki / Kinnikuman Gyakuten Naru ka? No Maki ",
+            "aired": "1983-07-31T00:00:00+00:00",
+            "score": 4.86,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1947418"
+        },
+        {
+            "mal_id": 19,
+            "url": null,
+            "title": "Kinnikuman Flying to the World Volume / Hawaii! The Mystery of the Turtle Volume",
+            "title_japanese": "世界へ翔くキン肉マンの巻／ハワイ！カメハメの謎の巻",
+            "title_romanji": "Sekai e Kaku Kinnikuman no Maki / Hawaii! Kamehame no Nazo no Maki ",
+            "aired": "1983-08-07T00:00:00+00:00",
+            "score": 4.4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2109462"
+        },
+        {
+            "mal_id": 20,
+            "url": null,
+            "title": "7 Seconds Fall! Volume / No Rope Deathmatch Volume",
+            "title_japanese": "７秒フォール！の巻／ノーロープデスマッチの巻",
+            "title_romanji": "7-Byou Fall! No Maki / No Rope Deathmatch no Maki ",
+            "aired": "1983-08-14T00:00:00+00:00",
+            "score": 4.67,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2109467"
+        },
+        {
+            "mal_id": 21,
+            "url": null,
+            "title": "Fight One-shot Kinnikuman Volume / Special Move, Furinkazan Volume",
+            "title_japanese": "ファイト一発キン肉マンの巻／必殺技・風林火山の巻",
+            "title_romanji": "Fight Ippatsu Kinnikuman no Maki / Hissatsu Waza: Fuurinkazan no Maki ",
+            "aired": "1983-08-28T00:00:00+00:00",
+            "score": 4.67,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2109630"
+        },
+        {
+            "mal_id": 22,
+            "url": null,
+            "title": "Defeat the Superhuman Alliance! Volume / Dangerous Suguru Volume",
+            "title_japanese": "超人同盟を倒せ！の巻／危うしスグルの巻",
+            "title_romanji": "Choujin Domei wo Taose! No Maki / Ayaushi Suguru no Maki ",
+            "aired": "1983-09-04T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 23,
+            "url": null,
+            "title": "A Horrifying Magician Appears Volume / Fourth Murder Technique Volume",
+            "title_japanese": "恐怖のマジシャン登場の巻／４番目の殺人技の巻",
+            "title_romanji": "Kyoufu no Magician Tojou no Maki / 4 Banme no Satsujin Waza no Maki ",
+            "aired": "1983-09-11T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 24,
+            "url": null,
+            "title": "Tendoon vs. Kinnikuman Volume / Skull Pose Secret Volume",
+            "title_japanese": "テンドーン対キン肉マンの巻／スカルポーズの秘密の巻",
+            "title_romanji": "Tendoon Tai Kinnikuman no Maki / Skull Pose no Himitsu no Maki ",
+            "aired": "1983-09-18T00:00:00+00:00",
+            "score": 4.6,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2110514"
+        },
+        {
+            "mal_id": 25,
+            "url": null,
+            "title": "Robin Mask Re-appearance Volume / Duel! Amazon Great Valley Volume",
+            "title_japanese": "ロビンマスク再登場の巻／決闘！アマゾン大渓谷の巻",
+            "title_romanji": "Robin Mask Saitoujou no Maki / Kettou! Amazon Daikeikoku no Maki ",
+            "aired": "1983-09-25T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2110669"
+        },
+        {
+            "mal_id": 26,
+            "url": null,
+            "title": "Hell's Aerial Deathmatch Volume / Robin Mask's Last Volume",
+            "title_japanese": "地獄の空中デスマッチの巻／ロビンマスクの最後の巻",
+            "title_romanji": "Jigoku no Kuuchuu Deathmatch no Maki / Robin Mask no Saigo no Maki ",
+            "aired": "1983-10-02T00:00:00+00:00",
+            "score": 4.67,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2110850"
+        },
+        {
+            "mal_id": 27,
+            "url": null,
+            "title": "Superhuman Olympics Again Volume / Superhuman Rixman Appears Volume",
+            "title_japanese": "再び超人オリンピックの巻／怪力リキシマン登場の巻",
+            "title_romanji": "Futatabi Choujin Olympics no Maki / Kairiki Rixman Toujou no Maki ",
+            "aired": "1983-10-09T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 28,
+            "url": null,
+            "title": "Superhuman Sieving Volume / Challenge the Gasoline Pool Volume",
+            "title_japanese": "超人ふるい落としの巻／ガソリンプールに挑戦の巻",
+            "title_romanji": "Choujin Furui Otoshi no Maki / Gasoline Pool ni Chousen no Maki ",
+            "aired": "1983-10-16T00:00:00+00:00",
+            "score": 5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2111223"
+        },
+        {
+            "mal_id": 29,
+            "url": null,
+            "title": "Kinniku Version, Love and Youth Volume / Shinkansen Bullet Train Volume",
+            "title_japanese": "キン肉版・愛と青春の巻／新幹線をケッとばせの巻",
+            "title_romanji": "Kinnikuban: Ai to Seishun no Maki / Shikansen wo Kettobase no Maki ",
+            "aired": "1983-10-23T00:00:00+00:00",
+            "score": 5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2071519"
+        },
+        {
+            "mal_id": 30,
+            "url": null,
+            "title": "Final Qualifying - Superman Drop Valley Volume / Death Roller Game Volume",
+            "title_japanese": "最終予選・超人落しの谷の巻／死のローラーゲームの巻",
+            "title_romanji": "Saishuu Yosen: Choujin Otoshi no Tani no Maki / Shi no Roller Game no Maki ",
+            "aired": "1983-10-30T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 31,
+            "url": null,
+            "title": "Death Fight in Front of the Goal Volume / Superman is a Pachinko Ball Volume",
+            "title_japanese": "ゴール前の死闘の巻／超人はパチンコ玉の巻",
+            "title_romanji": "Goal Sen no Shitou no Maki / Choujin wa Pachinko Tama no Maki ",
+            "aired": "1983-11-06T00:00:00+00:00",
+            "score": 5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2111867"
+        },
+        {
+            "mal_id": 32,
+            "url": null,
+            "title": "Warsman Iron Claws Volume / Did You See It! Row Compaction Killing Method Volume",
+            "title_japanese": "ウォーズマン・鉄のツメの巻／見たか！ロウ固め殺法の巻",
+            "title_romanji": "Warsman: Tetsu no Tsume no Maki / Mitaka! Rou Katame Satsuhou no Maki ",
+            "aired": "1983-11-13T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 33,
+            "url": null,
+            "title": "Brocken Jr.'s Challenge Volume / It Came Out! Kinnikuman Special Move Volume",
+            "title_japanese": "ブロッケンＪｒの挑戦の巻／出た！キン肉マン必殺技の巻",
+            "title_romanji": "Brocken Jr. no Chousen no Maki / Deta! Kinnikuman Hissatsu Waza no Maki ",
+            "aired": "1983-11-20T00:00:00+00:00",
+            "score": 5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2112287"
+        },
+        {
+            "mal_id": 34,
+            "url": null,
+            "title": "Concrete Deathmatch Volume / Brocken Jr. Onslaught Volume",
+            "title_japanese": "コンクリーデスマッチの巻／ブロッケンＪｒ猛攻の巻",
+            "title_romanji": "Concrete Deathmatch no Maki / Brocken Jr Moukou no Maki ",
+            "aired": "1983-11-27T00:00:00+00:00",
+            "score": 5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2112589"
+        },
+        {
+            "mal_id": 35,
+            "url": null,
+            "title": "Secret Technique: Great Wall of China Volume / US-Soviet Superhuman Clash! Volume",
+            "title_japanese": "秘技・万里の長城の巻／米ソ超人激突！の巻",
+            "title_romanji": "Higi: Banri no Choujou no Maki / Beiso Choujin Gekitotsu! no Maki ",
+            "aired": "1983-12-04T00:00:00+00:00",
+            "score": 5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2112972"
+        },
+        {
+            "mal_id": 36,
+            "url": null,
+            "title": "Benkyman's Trap Volume / Ramenman is a True Superhuman Volume",
+            "title_japanese": "ベンキーマンの罠の巻／ラーメンマンは真の超人の巻",
+            "title_romanji": "Benkyman no Wana no Maki / Ramenman wa Shinno Choujin no Maki ",
+            "aired": "1983-12-11T00:00:00+00:00",
+            "score": 5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2112982"
+        },
+        {
+            "mal_id": 37,
+            "url": null,
+            "title": "Sumou Superman Riximan's Volume / Put it on the Brink! Volume",
+            "title_japanese": "スモウ超人リキシマンの巻／土俵際にかけろ！の巻",
+            "title_romanji": "Sumou Choujin Rixman no Maki / Dohyougiwa ni Kakero! no Maki ",
+            "aired": "1983-12-18T00:00:00+00:00",
+            "score": 4.8,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2112998"
+        },
+        {
+            "mal_id": 38,
+            "url": null,
+            "title": "Coffin Deathmatch Volume / Fighting Machine Superman Volume",
+            "title_japanese": "棺桶デスマッチの巻／戦う機械超人の巻",
+            "title_romanji": "Kanoke Deathmatch no Maki / Tatatkau Kikai Choujin no Maki ",
+            "aired": "1984-01-08T00:00:00+00:00",
+            "score": 5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2113150"
+        },
+        {
+            "mal_id": 39,
+            "url": null,
+            "title": "Death Bear Claw Volume / Scramble Soft Return Volume",
+            "title_japanese": "死のベアークローの巻／スクランブル・ソフト返しの巻",
+            "title_romanji": "Shi no Bear Claw no Maki / Scramble: Soft Kashi no Maki ",
+            "aired": "1984-01-08T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 40,
+            "url": null,
+            "title": "Masked Deathmatch! Volume / Oath with Ramenman Volume",
+            "title_japanese": "覆面はぎデスマッチ！の巻／ラーメンマンとの誓いの巻",
+            "title_romanji": "Fukumen Hagi Deathmatch! no Maki / Ramenman to no Chikai no Maki ",
+            "aired": "1984-01-15T00:00:00+00:00",
+            "score": 5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2113464"
+        },
+        {
+            "mal_id": 41,
+            "url": null,
+            "title": "Paro: Breaking the Special Volume / It Came Out! Kinniku Buster Volume",
+            "title_japanese": "パロ・スペシャルを破れの巻／出た！キン肉バスターの巻",
+            "title_romanji": "Paro: Special wo Yabure no Maki / Deta! Kinniku Buster no Maki ",
+            "aired": "1984-01-22T00:00:00+00:00",
+            "score": 5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2113796"
+        },
+        {
+            "mal_id": 42,
+            "url": null,
+            "title": "The Day of the Decisive Battle is Coming! Volume / What is Barracuda!? Volume",
+            "title_japanese": "決戦の日きたる！の巻／バラクーダの正体は！？の巻",
+            "title_romanji": "Kessen no Hi Kitaru! no Maki / Barracuda no Shoutai wa!? no Maki ",
+            "aired": "1984-01-29T00:00:00+00:00",
+            "score": 5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2113801"
+        },
+        {
+            "mal_id": 43,
+            "url": null,
+            "title": "Fear! Computer Superman Volume / Torn Mask Volume",
+            "title_japanese": "恐怖！コンピュータ超人の巻／引き裂かれたマスクの巻",
+            "title_romanji": "Kyoufu! Computer Choujin no Maki / Hikisa Kareta Mask no Maki ",
+            "aired": "1984-02-05T00:00:00+00:00",
+            "score": 5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2113965"
+        },
+        {
+            "mal_id": 44,
+            "url": null,
+            "title": "Secret: Kinnikuman Volume / The Biggest Pinch! Volume",
+            "title_japanese": "極意・キン肉ガードの巻／最大のピンチ！の巻",
+            "title_romanji": "Gokui: Kinniku Guard no Maki / Saidai no Pinch! no Maki ",
+            "aired": "1984-02-12T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 45,
+            "url": null,
+            "title": "Robin Mask's Revenge Volume / Burning Inner Strength! Volume",
+            "title_japanese": "ロビンマスクの復讐の巻／火事場のクソ力！の巻",
+            "title_romanji": "Robin Mask no Fukushuu no Maki / Kajiba no Kuso Chikara! No Maki ",
+            "aired": "1984-02-19T00:00:00+00:00",
+            "score": 5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2114155"
+        },
+        {
+            "mal_id": 46,
+            "url": null,
+            "title": "90 Minutes of Death Fight! One Game Volume / Give up!? Kinnikuman Volume",
+            "title_japanese": "死闘９０分！一本勝負の巻／ギブアップ！？キン肉マンの巻",
+            "title_romanji": "Shitou 90-fun! Ipponshoubu no Maki / Give Up!? Kinnikuman no Maki ",
+            "aired": "1984-02-26T00:00:00+00:00",
+            "score": 5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2114163"
+        },
+        {
+            "mal_id": 47,
+            "url": null,
+            "title": "The Soul of Fire That Calls a Miracle!! Volume 9 / First in History! V2 Volume",
+            "title_japanese": "奇跡を呼ぶ炎の魂！！の巻９／史上初！Ｖ２の巻",
+            "title_romanji": "Kiseki wo Yobu Honou no Tamashii!! No Maki / Shijou Hatsu! V2 no Maki ",
+            "aired": "1984-03-04T00:00:00+00:00",
+            "score": 5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2114317"
+        },
+        {
+            "mal_id": 48,
+            "url": null,
+            "title": "Appearance!! Seven Devil Superman Volume / Dismembered Meat Volume",
+            "title_japanese": "出現！！七人の悪魔超人の巻／バラバラにされたミートの巻",
+            "title_romanji": "Shuuban!! Shichinin no Akuma Choujin no Maki / Barabara ni Sareta Meat no Maki ",
+            "aired": "1984-03-11T00:00:00+00:00",
+            "score": 4.67,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2114451"
+        },
+        {
+            "mal_id": 49,
+            "url": null,
+            "title": "The Devil Superman Series Beginning Volume / Hell's Stuck Seking Volume",
+            "title_japanese": "悪魔超人シリーズ始まるの巻／地獄のステカセキングの巻",
+            "title_romanji": "Akuma Choujin Series Hajimaru no Maki / Jigoku no Sutekase Kingu no Maki ",
+            "aired": "1984-03-18T00:00:00+00:00",
+            "score": 5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2114585"
+        },
+        {
+            "mal_id": 50,
+            "url": null,
+            "title": "Devil's Symphony Volume / Secret Technique! Three-Quarter Killing Volume",
+            "title_japanese": "悪魔のシンフォニーの巻／秘技！三分殺しの巻",
+            "title_romanji": "Akuma no Symphony no Maki / Higi! Sanpun Koroshi no Maki ",
+            "aired": "1984-03-25T00:00:00+00:00",
+            "score": 4.67,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2114707"
+        },
+        {
+            "mal_id": 51,
+            "url": null,
+            "title": "Devil Superman Black Hole Volume / Dreadful 4D Wrestling Volume",
+            "title_japanese": "悪魔超人ブラックホールの巻／戦慄の四次元レスリングの巻",
+            "title_romanji": "Akuma Choujin Black Hole no Maki / Senritsu no Yojigen Wrestling no Maki ",
+            "aired": "1984-04-01T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 52,
+            "url": null,
+            "title": "Shadow Killer! Alternate Technique Volume / Life or Death!? Dark Pit Volume",
+            "title_japanese": "影の殺し屋！分身技の巻／生か死か！？暗黒の落し穴の巻",
+            "title_romanji": "Kage no Koroshiya! Bunshin Waza no Maki / Ika Shika!? Ankoku no Otoshiana no Maki ",
+            "aired": "1984-04-08T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 53,
+            "url": null,
+            "title": "Hooray!! Yellow Hole Volume / I'm Immortal Forever!! Volume",
+            "title_japanese": "やった！！イエローホールの巻／私は永遠に不滅です！！の巻",
+            "title_romanji": "Yatta! Yellow Hole no Maki / Watashi wa Eien ni Fumetsu desu!! no Maki ",
+            "aired": "1984-04-15T00:00:00+00:00",
+            "score": 4.67,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2115040"
+        },
+        {
+            "mal_id": 54,
+            "url": null,
+            "title": "Idol Superman Vs. Devil Superman Volume / Total Attack!! Devil Superman Volume",
+            "title_japanese": "アイドル超人対悪魔超人の巻／総攻撃！！悪魔超人の巻",
+            "title_romanji": "Idol Choujin Tai Akuma Choujin no Maki / Soukougeki!! Akuma Choujin no Maki ",
+            "aired": "1984-04-22T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 55,
+            "url": null,
+            "title": "Fearful Devil Tom Boy Volume / Underwater Operation Volume",
+            "title_japanese": "恐怖のデビルトムボーイの巻／水中大作戦の巻",
+            "title_romanji": "Kyoufu no Devil Tom Boy no Maki / Suichuu Daisakusen no Maki ",
+            "aired": "1984-04-29T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 56,
+            "url": null,
+            "title": "Fear!! Mummy Package Volume / Special Move!! Kiba Hell Volume",
+            "title_japanese": "恐怖！！ミイラパッケージの巻／必殺技！！キバ地獄の巻",
+            "title_romanji": "Kyoufu!! Miira Package no Maki / Hissatsu Waza!! Kiba Jigoku no Maki ",
+            "aired": "1984-05-06T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 57,
+            "url": null,
+            "title": "What is the True Identity of the Mysterious Superhuman!? Volume / Legendary Treasure Sword: Bear Claw Volume",
+            "title_japanese": "謎の超人の正体は！？の巻／伝家の宝刀・ベアクローの巻",
+            "title_romanji": "Nazo no Choujin no Shoutai wa!? no Maki / Denka no Houtou: Bear Claw no Maki ",
+            "aired": "1984-05-13T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 58,
+            "url": null,
+            "title": "Revived Human Heart Volume / Double Bear Claw Volume",
+            "title_japanese": "甦った人間の心の巻／ダブルベアクローの巻",
+            "title_romanji": "Yomigaetta Ningen no Kokoro no Maki / Double Bear Claw no Maki ",
+            "aired": "1984-05-20T00:00:00+00:00",
+            "score": 5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2116007"
+        },
+        {
+            "mal_id": 59,
+            "url": null,
+            "title": "Terryman Who Fell to the Bottom of the Valley / Mysterious Red Spots! Volume",
+            "title_japanese": "谷底に落ちたテリーマン／謎の赤い斑点！の巻",
+            "title_romanji": "Tanisoko ni Ochita Terryman / Nazo no Akai Hanten! no Maki ",
+            "aired": "1984-05-27T00:00:00+00:00",
+            "score": 5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2116014"
+        },
+        {
+            "mal_id": 60,
+            "url": null,
+            "title": "Devil Superhuman Blood Volume / Intense St. Helens Eruption Volume",
+            "title_japanese": "悪魔超人血しばりの巻／強烈セントへレンズ噴火の巻",
+            "title_romanji": "Akuma Choujin Chi Shibari no Maki / Kyourotsu Sento Helens Funka no Maki ",
+            "aired": "1984-06-03T00:00:00+00:00",
+            "score": 5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2116419"
+        },
+        {
+            "mal_id": 61,
+            "url": null,
+            "title": "Save Meet Kinnikuman Volume / Mysterious Superman Mongolian Man Volume",
+            "title_japanese": "ミートを救えキン肉マンの巻／謎の超人モンゴルマンの巻",
+            "title_romanji": "Meet wo Sukue Kinnikuman no Maki / Nazo no Choujin Mongolman no Maki ",
+            "aired": "1984-06-10T00:00:00+00:00",
+            "score": 5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2116423"
+        },
+        {
+            "mal_id": 62,
+            "url": null,
+            "title": "Hell Shower Volume / Fully Open! 10 Million Power Volume",
+            "title_japanese": "地獄のシャワーの巻／全開！1000万パワーの巻",
+            "title_romanji": "Jigoku no Shower no Maki / Zenkai! 1000-man Power no Maki ",
+            "aired": "1984-06-17T00:00:00+00:00",
+            "score": 5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2116427"
+        },
+        {
+            "mal_id": 63,
+            "url": null,
+            "title": "The Secret of the Long Horn Volume / Reverse Injection of Fire the Place Volume",
+            "title_japanese": "ロングホーンの秘密の巻／火事場の逆噴射の巻",
+            "title_romanji": "Long Horn no Himitsu no Maki / Kajiba no Gyakufunsha no Maki ",
+            "aired": "1984-06-24T00:00:00+00:00",
+            "score": 5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2116617"
+        },
+        {
+            "mal_id": 64,
+            "url": null,
+            "title": "Rolled Out of the Torn / Ring! New Kinniku Buster Volume",
+            "title_japanese": "切り裂かれたリングの巻／出た！新キン肉バスターの巻",
+            "title_romanji": "Kiri Chikareta Ring no Maki / Deta! Shin Kinniku Buster no Maki ",
+            "aired": "1984-07-01T00:00:00+00:00",
+            "score": 5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2117490"
+        },
+        {
+            "mal_id": 65,
+            "url": null,
+            "title": "1 Second Before the Time Limit!! Volume / Ring is a Man's Friendship Volume",
+            "title_japanese": "タイムリミット１秒前！！の巻／リングは男の友情の巻",
+            "title_romanji": "Time Limit 1-byoumae!! no Maki / Ring wa Otoko no Yuujou no Maki ",
+            "aired": "1984-07-08T00:00:00+00:00",
+            "score": 4.67,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2117753"
+        },
+        {
+            "mal_id": 66,
+            "url": null,
+            "title": "Legendary Golden Mask Volume / Devil Knight Challenge Volume",
+            "title_japanese": "伝説の黄金マスクの巻／悪魔騎士の挑戦の巻",
+            "title_romanji": "Densetsu no Kogane Mask no Maki / Akuma Kishi no Chousen no Maki ",
+            "aired": "1984-10-07T00:00:00+00:00",
+            "score": 4.5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2117955"
+        },
+        {
+            "mal_id": 67,
+            "url": null,
+            "title": "Mysterious! Crocodile Hell Volume / Molting Superman Snigger Volume",
+            "title_japanese": "怪奇！ワニ地獄の巻／脱皮超人スニゲーターの巻",
+            "title_romanji": "Kaiki! Wani Jigoku no Maki / Dappi Choujin Snigger no Maki ",
+            "aired": "1984-10-14T00:00:00+00:00",
+            "score": 5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2118140"
+        },
+        {
+            "mal_id": 68,
+            "url": null,
+            "title": "Evil!! Frill-necked Lizard Volume / Snigger's True Identity Volume",
+            "title_japanese": "凶悪！！エリマキトカゲの巻／スニゲーターの正体の巻",
+            "title_romanji": "Kyouaku!! Erimakitokage no Maki / Snigger no Shoutai no Maki ",
+            "aired": "1984-10-21T00:00:00+00:00",
+            "score": 5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2118317"
+        },
+        {
+            "mal_id": 69,
+            "url": null,
+            "title": "A Silver Mask that Calls for Miracles Volume / I'll Give You a Life Volume",
+            "title_japanese": "奇蹟を呼ぶ銀マスク の巻／命あげます土俵入り の巻",
+            "title_romanji": "Kiseki wo Yobu Shirogane Mask no Maki / Inochi Age Masu Dohyou Iri no Maki ",
+            "aired": "1984-10-28T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 70,
+            "url": null,
+            "title": "Space Hell Planet Man Volume / Justice Superhuman Extinction?! Volume",
+            "title_japanese": "宇宙地獄プラネットマン の巻／正義超人全滅か？！の巻",
+            "title_romanji": "Uchuu Jigoku Planet Man no Maki / Seigi Choujin Zenmetsu ka?! no Maki ",
+            "aired": "1984-11-04T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 71,
+            "url": null,
+            "title": "Jeronimo's Takebi Volume / Chase to the Bottom of Hell Volume",
+            "title_japanese": "ジェロニモのおたけび の巻／地獄の底まで追いかけろ の巻",
+            "title_romanji": "Jeronimo no Otakebi no Maki / Jigoku no Soko Made oi Kakero no Maki ",
+            "aired": "1984-11-11T00:00:00+00:00",
+            "score": 5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2121514"
+        },
+        {
+            "mal_id": 72,
+            "url": null,
+            "title": "Five-fold Ring of Death Volume / Counterattack! Junkman Volume",
+            "title_japanese": "死の五重リング の巻／反撃！ジャンクマン の巻",
+            "title_romanji": "Shi no Gojuu Ring no Maki / Hangeki! Junkman no Maki ",
+            "aired": "1984-11-18T00:00:00+00:00",
+            "score": 5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2121951"
+        },
+        {
+            "mal_id": 73,
+            "url": null,
+            "title": "Did You See It! This Robin Tactical Volume / The Ninja Spider Thread Binding Volume",
+            "title_japanese": "見たか！このロビン戦法 の巻／ザ・ニンジャくも糸縛り の巻",
+            "title_romanji": "Mitaka! Kono Robin Senpou no Maki / The Ninja Kumoito Shibari no Maki ",
+            "aired": "1984-11-25T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 74,
+            "url": null,
+            "title": "It Came Out! Berlin's Red Rain Volume / Hell Technique Ashura Buster Volume",
+            "title_japanese": "出た！ベルリンの赤い雨 の巻／地獄技アシュラバスター の巻",
+            "title_romanji": "Yatta! Berlin no Akai Ame no Maki / Jigoku Waza Ashura Buster no Maki ",
+            "aired": "1984-12-02T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 75,
+            "url": null,
+            "title": "Both Arms Robbed Volume / Danger! Warsman Volume",
+            "title_japanese": "奪われた両腕 の巻／危うし！ウォーズマン の巻",
+            "title_romanji": "Ubawareta Moroude no Maki / Ayaushi! Warsman no Maki ",
+            "aired": "1984-12-09T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 76,
+            "url": null,
+            "title": "Terryman Prepared to Die Volume / Onslaught! Jeronimo Volume",
+            "title_japanese": "死を覚悟したテリーマン の巻／猛攻！ジェロニモ の巻",
+            "title_romanji": "Shi wo Kakugo Shita Terryman no Maki / Moukou! Jeronimo no Maki ",
+            "aired": "1984-12-16T00:00:00+00:00",
+            "score": 5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2123806"
+        },
+        {
+            "mal_id": 77,
+            "url": null,
+            "title": "Murder Technique Hell Pyramid Volume / Immortal Superhuman Soul Volume",
+            "title_japanese": "殺人技地獄のピラミッド の巻／不死身の超人魂 の巻",
+            "title_romanji": "Satsujin Waza Jigoku no Pyramid no Maki / Fujimi no Choujin Tamashii no Maki ",
+            "aired": "1984-12-23T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 78,
+            "url": null,
+            "title": "Golden Mask Nazo Volume / Akuma Shogun Appearance Volume",
+            "title_japanese": "黄金マスクのナゾ の巻／悪魔将軍登場 の巻",
+            "title_romanji": "Kogane Mask no Nazo no Maki / Akuma Shougun Toujou no Maki ",
+            "aired": "1984-12-30T00:00:00+00:00",
+            "score": 5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2127166"
+        },
+        {
+            "mal_id": 79,
+            "url": null,
+            "title": "Explode! Hell's Decapitation Volume / Resurrection! Buffaloman Volume",
+            "title_japanese": "炸裂！地獄の断頭台 の巻／復活！バッファローマン の巻",
+            "title_romanji": "Sakuretsu! Jigoku no Dantoudai no Maki / Fukkatsu! Buffaloman no Maki ",
+            "aired": "1985-01-06T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 80,
+            "url": null,
+            "title": "Spider Web Hell That Calls a Storm Volume / Tear! Kinniku Buster Volume",
+            "title_japanese": "嵐を呼ぶクモの巣地獄 の巻／破れたり！キン肉バスター の巻",
+            "title_romanji": "Arashi wo Yobu Kumo no su Jigoku no Maki / Yaburetari! Kinniku Buster no Maki ",
+            "aired": "1985-01-13T00:00:00+00:00",
+            "score": 4.75,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2137101"
+        },
+        {
+            "mal_id": 81,
+            "url": null,
+            "title": "Defeat Ashura Buster Volume / Buffaloman Rebellion! Volume",
+            "title_japanese": "アシュラバスターを破れ の巻／バッファローマン反逆！の巻",
+            "title_romanji": "Ashura Buster wo Yabure no Maki / Buffaloman Hangyaku! no Maki ",
+            "aired": "1985-01-20T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 82,
+            "url": null,
+            "title": "Special Training! New Special Move!! Volume / Direct Hit! Skull Crash Volume",
+            "title_japanese": "猛特訓！新必殺技！！の巻／直撃！スカルクラッシュ の巻",
+            "title_romanji": "Moutokkun! Shin Hissatsuwaza!! No Maki / Choukugeki! Skull Crash no Maki ",
+            "aired": "1985-01-27T00:00:00+00:00",
+            "score": 5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2138154"
+        },
+        {
+            "mal_id": 83,
+            "url": null,
+            "title": "Akuma Shogun is a Soft Body Superhuman Volume / Neokin Meat Buster Explosion Volume",
+            "title_japanese": "悪魔将軍は軟体超人 の巻／ネオキン肉バスター炸裂 の巻",
+            "title_romanji": "Akuma Shougun wa Nantai Choujin no Maki / Neo Kinniku Buster Sakuretsu no Maki ",
+            "aired": "1985-02-03T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 84,
+            "url": null,
+            "title": "Explosive Diamond Power Volume / Fireplace Megaton Punch Volume",
+            "title_japanese": "炸裂ダイアモンドパワー の巻／火事場のメガトンパンチ の巻",
+            "title_romanji": "Sakuretsu Diamond Power no Maki / Kajiba no Megaton Punch no Maki ",
+            "aired": "1985-02-10T00:00:00+00:00",
+            "score": 5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2138918"
+        },
+        {
+            "mal_id": 85,
+            "url": null,
+            "title": "Survival Deathmatch Volume / Chairman Friendship Volume",
+            "title_japanese": "生き残りデスマッチ の巻／委員長の友情 の巻",
+            "title_romanji": "Ikinokori Deathmatch no Maki / Iinchou no Yuujou no Maki ",
+            "aired": "1985-02-17T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 86,
+            "url": null,
+            "title": "Kinnikuman Vs. Akuma Shogun Volume / Victory of Justice and Friendship Volume",
+            "title_japanese": "キン肉マンVS悪魔将軍 の巻／正義と友情の勝利 の巻",
+            "title_romanji": "Kinnikuman VS Akuma Shougun no Maki / Seigi to Yuujou no Shouri no Maki ",
+            "aired": "1985-02-24T00:00:00+00:00",
+            "score": 5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2138933"
+        },
+        {
+            "mal_id": 87,
+            "url": null,
+            "title": "Dream Tag Tournament Volume / Challenge! Three Barriers Volume",
+            "title_japanese": "夢のタッグトーナメント の巻／挑戦！三つの関門 の巻",
+            "title_romanji": "Yume no Tag Tournament no Maki / Chousen! Mittsu no Kanmon no Maki ",
+            "aired": "1985-04-07T00:00:00+00:00",
+            "score": 5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2139084"
+        },
+        {
+            "mal_id": 88,
+            "url": null,
+            "title": "Kinnikuman Great Appearance Volume / Rampage! Hell Duo Volume",
+            "title_japanese": "キン肉マングレート登場 の巻／大暴れ！地獄のコンビ の巻",
+            "title_romanji": "Kinnikuman Great Toujou no Maki / Daiabare! Jigoku no Konbi no Maki ",
+            "aired": "1985-04-14T00:00:00+00:00",
+            "score": 4.75,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2146245"
+        },
+        {
+            "mal_id": 89,
+            "url": null,
+            "title": "Awesome Four-Dimensional Trap Volume / Dangerous! Kinnikuman Great Volume",
+            "title_japanese": "恐るべし四次元のワナ の巻／危うし！キン肉マングレート の巻",
+            "title_romanji": "Osorubeshi! Yojigen no Wana no Maki / Ayaushi! Kinnikuman Great no Maki ",
+            "aired": "1985-04-21T00:00:00+00:00",
+            "score": 5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2151079"
+        },
+        {
+            "mal_id": 90,
+            "url": null,
+            "title": "Amazing Mass Lucking Volume / Dread! Perfect Superman Volume",
+            "title_japanese": "驚異マッスルドッキング の巻／戦慄！完璧超人 の巻",
+            "title_romanji": "Kyoui Mass Lucking no Maki / Senritsu! Kanpeki Choujin no Maki ",
+            "aired": "1985-04-21T00:00:00+00:00",
+            "score": 5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2151085"
+        },
+        {
+            "mal_id": 91,
+            "url": null,
+            "title": "Blood-Blowing Hell Screwdriver Volume / The Leader Appears! Volume",
+            "title_japanese": "血を吹く地獄のネジ廻し の巻／首領（どん）出現！の巻",
+            "title_romanji": "Chi wo Fuku Jigoku no Neji Mawashi no Maki / Shuryou Shutsugen no Maki ",
+            "aired": "1985-04-28T00:00:00+00:00",
+            "score": 5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2151351"
+        },
+        {
+            "mal_id": 92,
+            "url": null,
+            "title": "Big the Martial Arts Volume / Rough Technique! Robin Special Volume",
+            "title_japanese": "ビッグ・ザ・武道の正体 の巻／荒技！ロビンスペシャル の巻",
+            "title_romanji": "Big the Budou no Shoutai no Maki / Arawaza! Robin Special no Maki ",
+            "aired": "1985-05-05T00:00:00+00:00",
+            "score": 5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2151486"
+        },
+        {
+            "mal_id": 93,
+            "url": null,
+            "title": "Peeled Mask Volume / Counterattack! Robin Mask Volume",
+            "title_japanese": "はがされたマスク の巻／逆襲！ロビンマスク の巻",
+            "title_romanji": "Hagasareta Mask no Maki / Gyakushuu! Robin Mask no Maki ",
+            "aired": "1985-05-12T00:00:00+00:00",
+            "score": 4.67,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2151635"
+        },
+        {
+            "mal_id": 94,
+            "url": null,
+            "title": "Birth of New Terryman Volume / Eat! Tatsumaki Hell Volume",
+            "title_japanese": "ニュー・テリーマン誕生 の巻／食らえ！竜巻地獄 の巻",
+            "title_romanji": "New Terryman Tanjou no Maki / Kurae! Tatsumaki Jigoku no Maki ",
+            "aired": "1985-05-19T00:00:00+00:00",
+            "score": 4.86,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1958950"
+        },
+        {
+            "mal_id": 95,
+            "url": null,
+            "title": "Cursed Roller Operation Volume / Hell Sand Dumpling Volume",
+            "title_japanese": "呪いのローラー作戦 の巻／地獄の砂団子 の巻",
+            "title_romanji": "Noroi no Roller Sakusen no Maki / Jigoku no Suna Dango no Maki ",
+            "aired": "1985-05-26T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 96,
+            "url": null,
+            "title": "Terryman Revived Volume / Bloodthirsty Devil Combination Volume",
+            "title_japanese": "テリーマン甦る の巻／血に飢えた悪魔コンビ の巻",
+            "title_romanji": "Terryman Yomigaeru no Maki / Chi ni Ueta Akuma Konbi no Maki ",
+            "aired": "1985-06-02T00:00:00+00:00",
+            "score": 4.75,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2152129"
+        },
+        {
+            "mal_id": 97,
+            "url": null,
+            "title": "Hell's Crossline Explosion Volume / Kinniku Man Great's Identity Volume",
+            "title_japanese": "地獄のクロスライン炸裂 の巻／キン肉マングレートの正体 の巻",
+            "title_romanji": "Jigoku no Crossline Sakuretsu no Maki / Kinnikuman Great no Shoutai no Maki ",
+            "aired": "1985-06-09T00:00:00+00:00",
+            "score": 4.75,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2152163"
+        },
+        {
+            "mal_id": 98,
+            "url": null,
+            "title": "Semi-Final Begins! Volume / Lumber Jack Deathmatch Volume",
+            "title_japanese": "準決勝始まる！の巻／ランバージャックデスマッチ の巻",
+            "title_romanji": "Junkesshou Hajimaru! no Maki / Lumber Jack Deathmatch no Maki ",
+            "aired": "1985-06-16T00:00:00+00:00",
+            "score": 4.67,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2152265"
+        },
+        {
+            "mal_id": 99,
+            "url": null,
+            "title": "Terryman's Volume of Anguish / Kinnikuman Great Revival Volume",
+            "title_japanese": "苦悩のテリーマン の巻／キン肉マングレート復活 の巻",
+            "title_romanji": "Kunou no Terryman no Maki / Kinnikuman Great Fukkatsu no Maki ",
+            "aired": "1985-06-23T00:00:00+00:00",
+            "score": 4.75,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2152273"
+        },
+        {
+            "mal_id": 100,
+            "url": null,
+            "title": "Sunshine Magnum Volume / Secret! The Raccoon Dog Sleep Killing Method Volume",
+            "title_japanese": "サンシャインマグナム の巻／極意！タヌキ寝入り殺法 の巻",
+            "title_romanji": "Sunshine Magnum no Maki / Gokui! Tanukineiri Satsu Shubou no Maki ",
+            "aired": "1985-06-30T00:00:00+00:00",
+            "score": 4.8,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2152276"
+        },
+        {
+            "mal_id": 101,
+            "url": null,
+            "title": "Makai Prince Volume / Horror Ashura Fireball Volume",
+            "title_japanese": "魔界のプリンス の巻／恐怖のアシュラ火玉弾 の巻",
+            "title_romanji": "Makai no Prince no Maki / Kyoufu no Ashura Hidama Tama no Maki ",
+            "aired": "1985-07-07T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 102,
+            "url": null,
+            "title": "Torn or Cursed Roller Volume / Akuma Shogun Lives!? Volume",
+            "title_japanese": "破れたり呪いのローラー の巻／悪魔将軍よみがえる！？の巻",
+            "title_romanji": "Yabure Tari Noroi no Roller no Maki / Akuma Shougun Yomigaeru!? no Maki ",
+            "aired": "1985-07-14T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 103,
+            "url": null,
+            "title": "Burning Devil Spiritual Volume / Ashraman Crying! Volume",
+            "title_japanese": "燃えあがる悪魔霊術 の巻／アシュラマン泣く！の巻",
+            "title_romanji": "Moeagaru Akuma Reijutsu no Maki / Ashraman Naku! no Maki ",
+            "aired": "1985-07-21T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 104,
+            "url": null,
+            "title": "Friendship Combination Volume / Sunshine Last Volume",
+            "title_japanese": "友情のコンビネーション の巻／サンシャインの最後 の巻",
+            "title_romanji": "Yuujou no Combination no Maki / Sunshine no Saigo no Maki ",
+            "aired": "1985-07-28T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 105,
+            "url": null,
+            "title": "Cruel! Wire Fence Match Volume / Danger! Mongolman Volume",
+            "title_japanese": "残酷！鉄条網マッチ の巻／危うし！モンゴルマン の巻",
+            "title_romanji": "Zangoku! Tetsujoumou Matchi no Maki / Ayaushi! Mongolman no Maki ",
+            "aired": "1985-08-04T00:00:00+00:00",
+            "score": 5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2182023"
+        },
+        {
+            "mal_id": 106,
+            "url": null,
+            "title": "Revived Long Horn Volume / Collapse! Mountain Ring Volume",
+            "title_japanese": "甦ったロングホーン の巻／崩壊！マウンテンリング の巻",
+            "title_romanji": "Yomigaetta Long Horn no Maki / Houkai! Mountain Ring no Maki ",
+            "aired": "1985-08-11T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 107,
+            "url": null,
+            "title": "Pyramid Ring Appears! Volume / Hokkaido Jump Out Into the Air! Volume",
+            "title_japanese": "ピラミッドリング出現！の巻／北海道空中に飛び出す！の巻",
+            "title_romanji": "Pyramid Ring Shotsugen! no Maki / Hokkaidou Kuuchuu ni Tobidasu! no Maki ",
+            "aired": "1985-08-18T00:00:00+00:00",
+            "score": 5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2182142"
+        },
+        {
+            "mal_id": 108,
+            "url": null,
+            "title": "Pyramid Ring Mystery Volume / Deadly! Thunder Saber Volume",
+            "title_japanese": "ピラミッドリングの謎 の巻／必殺！サンダーサーベル の巻",
+            "title_romanji": "Pyramid Ring no Nazo no Maki / Hissatsu! Thunder Saber no Maki ",
+            "aired": "1985-10-06T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 109,
+            "url": null,
+            "title": "Buffaloman's Friendship Volume / Geomagnetic Storm Cross Bomber Volume",
+            "title_japanese": "バッファローマンの友情 の巻／磁気嵐クロスボンバー の巻",
+            "title_romanji": "Buffaloman no Yuujou no Maki / Jikiarashi Cross Bomber no Maki ",
+            "aired": "1985-10-13T00:00:00+00:00",
+            "score": 5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2182177"
+        },
+        {
+            "mal_id": 110,
+            "url": null,
+            "title": "Ramenman Does Not Die! Volume / Kinnikuman's Robbed Arm Volume",
+            "title_japanese": "ラーメンマンは死なず！の巻／奪われたキン肉マンの腕 の巻",
+            "title_romanji": "Ramenman Washi Nazu! no Maki / Ubawareta Kinnikuman no Maki ",
+            "aired": "1985-10-20T00:00:00+00:00",
+            "score": 4.33,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2182246"
+        },
+        {
+            "mal_id": 111,
+            "url": null,
+            "title": "Friendship Longhorn Volume / Final! Sword Deathmatch Volume",
+            "title_japanese": "友情のロングホーン の巻／決勝！ソードデスマッチ の巻",
+            "title_romanji": "Yuujou no Longhorn no Maki / Kesshou! Sword Deathmatch no Maki ",
+            "aired": "1985-10-27T00:00:00+00:00",
+            "score": 5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2182555"
+        },
+        {
+            "mal_id": 112,
+            "url": null,
+            "title": "Unlimited Three-Game Volume / Fire Field Brain Play Volume",
+            "title_japanese": "無制限三本勝負 の巻／火事場の頭脳プレー の巻",
+            "title_romanji": "Museigen Sanponshoubu no Maki / Kajiba no Zonou Play no Maki ",
+            "aired": "1985-11-03T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 113,
+            "url": null,
+            "title": "Mask Hunting, 30 Seconds Remaining Volume / Explosion! Magnetic Crash Volume",
+            "title_japanese": "マスク狩り・残り30秒 の巻／炸裂！磁気クラッシュ の巻",
+            "title_romanji": "Mask Gari: Noiri 30 Byou no Maki / Sakuretsu! Jiki Crash no Maki ",
+            "aired": "1985-11-10T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 114,
+            "url": null,
+            "title": "First Defeat! Volume / Ashraman's Friendship Volume",
+            "title_japanese": "初の敗北！の巻／アシュラマンの友情 の巻",
+            "title_romanji": "Hatsu no Haiboku! no Maki / Ashraman no Yuujou no Maki ",
+            "aired": "1985-11-17T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 115,
+            "url": null,
+            "title": "Revival! The Machine Guns Volume / Mask the End Volume",
+            "title_japanese": "復活！ザ・マシンガンズ の巻／マスク・ジ・エンド の巻",
+            "title_romanji": "Fukkatsu! The Machine Guns no Maki / Mask the End no Maki ",
+            "aired": "1985-11-24T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 116,
+            "url": null,
+            "title": "Saw! Kinnikuman's Real Face Volume / Neptune King Appearance Volume",
+            "title_japanese": "見た！キン肉マンの素顔 の巻／ネプチューンキング出現 の巻",
+            "title_romanji": "Mita! Kinnikuman no Sugao no Maki / Neptune King Shutsugen no Maki ",
+            "aired": "1985-12-01T00:00:00+00:00",
+            "score": 5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2183081"
+        },
+        {
+            "mal_id": 117,
+            "url": null,
+            "title": "Comb Sashimi! Terryman Volume / Friendship Power that Calls for Miracles Volume",
+            "title_japanese": "くし刺し！テリーマン の巻／奇跡を呼ぶ友情パワー の巻",
+            "title_romanji": "Kushizashi! Terryman no Maki / Kiseki wo Yobu Yuujou Power no Maki ",
+            "aired": "1985-12-08T00:00:00+00:00",
+            "score": 5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2183091"
+        },
+        {
+            "mal_id": 118,
+            "url": null,
+            "title": "Uneven Bars in the Fire Place Volume / Apollo Window Mystery Volume",
+            "title_japanese": "火事場の段違い平行棒 の巻／アポロンウィンドウの謎 の巻",
+            "title_romanji": "Kajiba no Danchigai Heikoubu no Maki / Apollo Window no Nazo no Maki ",
+            "aired": "1985-12-15T00:00:00+00:00",
+            "score": 5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2183309"
+        },
+        {
+            "mal_id": 119,
+            "url": null,
+            "title": "Lock the Keyhole-Shaped Tumulus Volume / A Shining Trophy! Volume",
+            "title_japanese": "前方後円墳に鍵をかけろ の巻／光り輝くトロフィー！の巻",
+            "title_romanji": "Zenpoukou Enbun ni Kagi wo Kakero no Maki / Hikari Kagayuki Trophy! no Maki ",
+            "aired": "1985-12-22T00:00:00+00:00",
+            "score": 5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2183439"
+        },
+        {
+            "mal_id": 120,
+            "url": null,
+            "title": "Prince Kinnikumaru - Overturning Volume / The Psycho Superhuman Corps Appears Volume",
+            "title_japanese": "プリンスキン肉丸・転覆 の巻／ザ・サイコー超人軍団出現 の巻",
+            "title_romanji": "Prince Kinniku Maru: Tenpuku no Maki / The Psycho Choujin Gunden Shutsugen no Maki ",
+            "aired": "1986-01-05T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 121,
+            "url": null,
+            "title": "Warrior Yamakhan Appears Volume / Transforming Superhuman Kareiyasu Volume",
+            "title_japanese": "軍師ヤマカーン登場 の巻／変身超人カレイヤス の巻",
+            "title_romanji": "Gunshi Yamakhan Toujou no Maki / Henshin Choujin Kareiyasu no Maki ",
+            "aired": "1986-01-12T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 122,
+            "url": null,
+            "title": "Melted Kinnikuman Volume / Great Battle! Where is Mali? Volume",
+            "title_japanese": "溶かされたキン肉マン の巻／大乱戦！マリはどこに？の巻",
+            "title_romanji": "Youka Sareta Kinnikuman no Maki / Dairansen! Mari wa Dokoni? no Maki ",
+            "aired": "1986-01-19T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 123,
+            "url": null,
+            "title": "It Came Out! Psycho Jaws Volume / One-On-One Combat with Yamakhan Volume",
+            "title_japanese": "出た！サイコージョーズ の巻／ヤマカーンとの一騎打ち の巻",
+            "title_romanji": "Deta! Psycho Jaws no Maki / Yamakhan to no Ikkiuchi no Maki ",
+            "aired": "1986-01-26T00:00:00+00:00",
+            "score": 5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2183736"
+        },
+        {
+            "mal_id": 124,
+            "url": null,
+            "title": "Strongest! Psycho Warp Volume / Justice Superman, Be Eternal! Volume / Big Superman Fight",
+            "title_japanese": "最強！サイコーワープ の巻／正義超人よ・永遠なれ！の巻／超人ビッグファイト",
+            "title_romanji": "Saikyou! Psycho Warp no Maki / Seigi Choujin yo - Eien Nare! No Maki / Choujin Big Fight ",
+            "aired": "1986-02-02T00:00:00+00:00",
+            "score": 5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2183808"
+        },
+        {
+            "mal_id": 125,
+            "url": null,
+            "title": "2 Kinnikumen!? Volume / Protect! Sword of Justice Volume",
+            "title_japanese": "２人のキン肉マン あれっ！？の巻／守れ！正義の剣（つるぎ）の巻",
+            "title_romanji": "2-nin no Kinnikuman!? No Maki / Mamore! Seigi no Ken no Maki ",
+            "aired": "1986-04-22T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2220239"
+        },
+        {
+            "mal_id": 126,
+            "url": null,
+            "title": "Coffin Delivery Man Dirty Baron Volume / The Ring of Hell with Sparks Volume",
+            "title_japanese": "棺桶配達人ダーティバロン の巻／火花散る地獄のリング の巻",
+            "title_romanji": "Kanoke Haitatsunin Dirty Baron no Maki / Hibana Chiru Jigoku no Ring no Maki ",
+            "aired": "1986-04-29T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2220689"
+        },
+        {
+            "mal_id": 127,
+            "url": null,
+            "title": "Dormant Volcano Explosion!? Volume / Wild Bakuto of Night Fog Volume",
+            "title_japanese": "休火山大爆発！？の巻／夜霧のワイルドバクト の巻",
+            "title_romanji": "Kyuukazan Dai Bakuhatsu!? No Maki / Yogiri no Wild Bakuto no Maki ",
+            "aired": "1986-05-20T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 128,
+            "url": null,
+            "title": "Evil!! Bakuto Trump Card Volume / Dirty Baron Lives Volume",
+            "title_japanese": "極悪！！バクトトランプ の巻／生きていたダーティバロン の巻",
+            "title_romanji": "Gokuaku!! Bakuto Trump no Maki / Iki Dei ta Dirty Baron no Maki ",
+            "aired": "1986-05-27T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 129,
+            "url": null,
+            "title": "3D Trump Cards of Horror Volume / Shreds! Terryman Volume",
+            "title_japanese": "恐怖の三次元トランプ の巻／ズタボロ！テリーマン の巻",
+            "title_romanji": "Kyoufu no Sanjigen Trump no Maki / Zutaboro! Terryman no Saki ",
+            "aired": "1986-06-17T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 130,
+            "url": null,
+            "title": "Impact! New Long Horn Volume / Buffaloman Who Became a Devil Volume",
+            "title_japanese": "衝撃！ニューロングホーン の巻／悪魔になったバッファローマン の巻",
+            "title_romanji": "Shuugeki! New Long Horn no Maki / Akuma ni Natta Buffaloman no Maki ",
+            "aired": "1986-07-01T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 131,
+            "url": null,
+            "title": "Ramenman's Determination Volume / Special Move - Guangzhou Water Wheel Volume",
+            "title_japanese": "ラーメンマンの決意 の巻／必殺技・広州大水車 の巻",
+            "title_romanji": "Ramenman no Ketsui no Maki / Hissatsu Waza: Koushuu Dai Suisha no Maki ",
+            "aired": "1986-07-15T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 132,
+            "url": null,
+            "title": "Skewers! Ramenman Volume / Sichuan - Great Rising Dragon! Volume",
+            "title_japanese": "串刺し！ラーメンマン の巻／四川・大昇竜！の巻",
+            "title_romanji": "Kushizashi! Ramenman no Maki / Shisen: Dai Shouryuu! No Maki ",
+            "aired": "1986-07-22T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 133,
+            "url": null,
+            "title": "It's a Disadvantage! Anomalous Tag Match Volume / Sky Devil's Great Monster Volume",
+            "title_japanese": "不利だっ！変則タッグマッチ の巻／スカイデビルの大怪獣 の巻",
+            "title_romanji": "Furi Daa! Hensoku Tag Match no Maki / Sky Devil no Dai Kaijuu no Maki ",
+            "aired": "1986-07-29T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 134,
+            "url": null,
+            "title": "Desperate! Robin Mask Volume / Bulldoggy Killing a Thousand People Volume",
+            "title_japanese": "絶体絶命！ロビンマスク の巻／千人咬み殺しのブルドッキー の巻",
+            "title_romanji": "Zettaizetsumei! Robin Mask no Maki / Sanningami Koroshi no Bulldoggy no Maki ",
+            "aired": "1986-09-02T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 135,
+            "url": null,
+            "title": "Get Angry! Brocken Jr. Volume / Threat! Reaper's Seven Tools Volume",
+            "title_japanese": "怒れ！ブロッケンＪｒの巻／脅威！死神の七つ道具 の巻",
+            "title_romanji": "Ikare! Brocken Jr no Maki / Kyoui! Shinigami no Nanatsu Dougu no Maki ",
+            "aired": "1986-09-16T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 136,
+            "url": null,
+            "title": "Look! The Great Decisive Battle of the Century Volume / Burning Inner Strength +α Volume",
+            "title_japanese": "見よ！世紀の一大決戦 の巻／火事場のクソ力＋α の巻",
+            "title_romanji": "Miyo! Seiki no Ichidai Kessen no Maki / Kajiba no Kuso Chikara no Maki ",
+            "aired": "1986-09-23T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 137,
+            "url": null,
+            "title": "Long Horn Turbulence! Volume / Whose Hand is the Sword of Justice!? Volume",
+            "title_japanese": "ロングホーン乱れ打ち！の巻／正義の剣はだれの手に！？の巻",
+            "title_romanji": "Long Horn Midare Uchi! No Maki / Seigi no Ken wa Dare no Teni!? No Maki ",
+            "aired": "1986-10-01T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2217861"
+        }
+    ]
+}

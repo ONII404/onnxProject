@@ -1,0 +1,364 @@
+{
+    "id": 321,
+    "fetched_at": "Sun Dec 14 12:57:53 2025",
+    "metadata": {
+        "mal_id": 321,
+        "url": "https://myanimelist.net/anime/321/Najica_Dengeki_Sakusen",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/11/22210.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/11/22210t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/11/22210l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/11/22210.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/11/22210t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/11/22210l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Najica Dengeki Sakusen"
+            },
+            {
+                "type": "Japanese",
+                "title": "ナジカ電撃作戦"
+            },
+            {
+                "type": "English",
+                "title": "Najica Blitz Tactics"
+            },
+            {
+                "type": "German",
+                "title": "Najica Blitz Tactics"
+            },
+            {
+                "type": "French",
+                "title": "Najica Blitz Tactics"
+            }
+        ],
+        "title": "Najica Dengeki Sakusen",
+        "title_english": "Najica Blitz Tactics",
+        "title_japanese": "ナジカ電撃作戦",
+        "title_synonyms": [],
+        "type": "TV",
+        "source": "Original",
+        "episodes": 12,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "2001-10-05T00:00:00+00:00",
+            "to": "2001-12-27T00:00:00+00:00",
+            "prop": {
+                "from": {
+                    "day": 5,
+                    "month": 10,
+                    "year": 2001
+                },
+                "to": {
+                    "day": 27,
+                    "month": 12,
+                    "year": 2001
+                }
+            },
+            "string": "Oct 5, 2001 to Dec 27, 2001"
+        },
+        "duration": "23 min per ep",
+        "rating": "R+ - Mild Nudity",
+        "score": 5.96,
+        "scored_by": 6788,
+        "rank": 10515,
+        "popularity": 5755,
+        "members": 16657,
+        "favorites": 17,
+        "synopsis": "Najica Hiiragi, perfumer and secret agent, is sent out on a number of recovery missions to round up rogue humaritts, androids with combat abilities. Najica is assigned a humaritt partner, Lila, whom Najica is to groom as an agent and receive assistance from along the way. As Najica grows to accept Lila, each new mission they embark on reveals more and more about the capabilities and mysterious origins of the humaritts.\n\n(Source: ANN)",
+        "background": "",
+        "season": "fall",
+        "year": 2001,
+        "broadcast": {
+            "day": "Fridays",
+            "time": "01:40",
+            "timezone": "Asia/Tokyo",
+            "string": "Fridays at 01:40 (JST)"
+        },
+        "producers": [
+            {
+                "mal_id": 42,
+                "type": "anime",
+                "name": "GDH",
+                "url": "https://myanimelist.net/anime/producer/42/GDH"
+            },
+            {
+                "mal_id": 108,
+                "type": "anime",
+                "name": "Media Factory",
+                "url": "https://myanimelist.net/anime/producer/108/Media_Factory"
+            },
+            {
+                "mal_id": 323,
+                "type": "anime",
+                "name": "Nippon Columbia",
+                "url": "https://myanimelist.net/anime/producer/323/Nippon_Columbia"
+            }
+        ],
+        "licensors": [
+            {
+                "mal_id": 97,
+                "type": "anime",
+                "name": "ADV Films",
+                "url": "https://myanimelist.net/anime/producer/97/ADV_Films"
+            }
+        ],
+        "studios": [
+            {
+                "mal_id": 24,
+                "type": "anime",
+                "name": "Studio Fantasia",
+                "url": "https://myanimelist.net/anime/producer/24/Studio_Fantasia"
+            },
+            {
+                "mal_id": 827,
+                "type": "anime",
+                "name": "Amber Film Works",
+                "url": "https://myanimelist.net/anime/producer/827/Amber_Film_Works"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 1,
+                "type": "anime",
+                "name": "Action",
+                "url": "https://myanimelist.net/anime/genre/1/Action"
+            },
+            {
+                "mal_id": 4,
+                "type": "anime",
+                "name": "Comedy",
+                "url": "https://myanimelist.net/anime/genre/4/Comedy"
+            },
+            {
+                "mal_id": 24,
+                "type": "anime",
+                "name": "Sci-Fi",
+                "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+            },
+            {
+                "mal_id": 9,
+                "type": "anime",
+                "name": "Ecchi",
+                "url": "https://myanimelist.net/anime/genre/9/Ecchi"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [],
+        "demographics": [],
+        "relations": [
+            {
+                "relation": "Adaptation",
+                "entry": [
+                    {
+                        "mal_id": 2910,
+                        "type": "manga",
+                        "name": "Najica Dengeki Sakusen",
+                        "url": "https://myanimelist.net/manga/2910/Najica_Dengeki_Sakusen"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [
+                "\"Najica\" by Diligent Circle of Ekoda"
+            ],
+            "endings": [
+                "\"Body & Mind\" by Harada Natsumi"
+            ]
+        },
+        "external": [
+            {
+                "name": "Official Site",
+                "url": "http://www.mediafactory.co.jp/anime/najica/"
+            },
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=413"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=420"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "http://en.wikipedia.org/wiki/Najica_Blitz_Tactics"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "https://ja.wikipedia.org/wiki/%E3%83%8A%E3%82%B8%E3%82%AB%E9%9B%BB%E6%92%83%E4%BD%9C%E6%88%A6"
+            },
+            {
+                "name": "Syoboi",
+                "url": "https://cal.syoboi.jp/tid/1681"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": [
+        {
+            "mal_id": 1,
+            "url": null,
+            "title": "A Magnificent Secret Agent with a Rose in her Hand",
+            "title_japanese": "華麗なるエージェントは 一輪の薔薇と共に",
+            "title_romanji": null,
+            "aired": "2001-10-05T00:00:00+00:00",
+            "score": 4.27,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=428597"
+        },
+        {
+            "mal_id": 2,
+            "url": null,
+            "title": "A Pretty Partner with a Gun in her Hands",
+            "title_japanese": "可憐なパートナーは美しき弾丸と共に",
+            "title_romanji": null,
+            "aired": "2001-10-12T00:00:00+00:00",
+            "score": 4.43,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=428609"
+        },
+        {
+            "mal_id": 3,
+            "url": null,
+            "title": "Ugly Relics in the Jet Black Darkness",
+            "title_japanese": "醜悪なる遺物は漆黒の闇と共に",
+            "title_romanji": null,
+            "aired": "2001-10-19T00:00:00+00:00",
+            "score": 4.29,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=428619"
+        },
+        {
+            "mal_id": 4,
+            "url": null,
+            "title": "The Fictitious Star with a Sweet Trap-like Perfume",
+            "title_japanese": "スター)は甘い罠の香りと共に",
+            "title_romanji": "(偽りの星",
+            "aired": "2001-10-26T00:00:00+00:00",
+            "score": 4.86,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=428637"
+        },
+        {
+            "mal_id": 5,
+            "url": null,
+            "title": "A Crimson Horizon Appears with an Empty Dream",
+            "title_japanese": "深紅に染まる水平線ははかなき夢と共に",
+            "title_romanji": null,
+            "aired": "2001-11-02T00:00:00+00:00",
+            "score": 4.25,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=428655"
+        },
+        {
+            "mal_id": 6,
+            "url": null,
+            "title": "The Beautiful Eye of the Wild Beast Appears with the Shadow of Loneliness",
+            "title_japanese": "美しき野獣の瞳は孤独の影と共に",
+            "title_romanji": null,
+            "aired": "2001-11-09T00:00:00+00:00",
+            "score": 4.29,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=428675"
+        },
+        {
+            "mal_id": 7,
+            "url": null,
+            "title": "The Bullet of Murderous Intent Appears with a Dry Smilee",
+            "title_japanese": "殺意の弾丸は乾いた微笑みと共に",
+            "title_romanji": null,
+            "aired": "2001-11-22T00:00:00+00:00",
+            "score": 4.17,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=428685"
+        },
+        {
+            "mal_id": 8,
+            "url": null,
+            "title": "The Sky of the Desire Appears with the Flame by the Battle",
+            "title_japanese": "欲望の空は戦い渦巻く炎と共に",
+            "title_romanji": null,
+            "aired": "2001-11-29T00:00:00+00:00",
+            "score": 4.2,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=428703"
+        },
+        {
+            "mal_id": 9,
+            "url": null,
+            "title": "A Brave Lion in the Desert Appears with the Goddess of the Destiny",
+            "title_japanese": "勇壮なる砂漠の獅子は女神と共に",
+            "title_romanji": null,
+            "aired": "2001-12-06T00:00:00+00:00",
+            "score": 3.86,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=428715"
+        },
+        {
+            "mal_id": 10,
+            "url": null,
+            "title": "The Terminal Station of the Fight Appears with Dangerous Love",
+            "title_japanese": "闘いの終着駅は危険な愛と共に",
+            "title_romanji": null,
+            "aired": "2001-12-13T00:00:00+00:00",
+            "score": 4.5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=428727"
+        },
+        {
+            "mal_id": 11,
+            "url": null,
+            "title": "The Sad Parting Mission with Girl's Sincerity",
+            "title_japanese": "惜別のミッションを少女のまごころと共に",
+            "title_romanji": null,
+            "aired": "2001-12-20T00:00:00+00:00",
+            "score": 4.6,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=429055"
+        },
+        {
+            "mal_id": 12,
+            "url": null,
+            "title": "A Splendid Agent has the Rose of the Encounter in the Mind",
+            "title_japanese": "華麗なるエージェントは邂逅の薔薇を心に",
+            "title_romanji": null,
+            "aired": "2001-12-27T00:00:00+00:00",
+            "score": 3.63,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=429067"
+        }
+    ]
+}

@@ -1,0 +1,144 @@
+{
+    "id": 37714,
+    "fetched_at": "Sun Dec 14 11:20:46 2025",
+    "metadata": {
+        "mal_id": 37714,
+        "url": "https://myanimelist.net/anime/37714/Shin_Manga_Naruhodo_Monogatari",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1129/91822.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1129/91822t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1129/91822l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1129/91822.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1129/91822t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1129/91822l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Shin Manga Naruhodo Monogatari"
+            },
+            {
+                "type": "Japanese",
+                "title": "新まんがなるほど物語"
+            }
+        ],
+        "title": "Shin Manga Naruhodo Monogatari",
+        "title_english": null,
+        "title_japanese": "新まんがなるほど物語",
+        "title_synonyms": [],
+        "type": "TV",
+        "source": "Unknown",
+        "episodes": 40,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "1988-04-02T00:00:00+00:00",
+            "to": "1989-01-28T00:00:00+00:00",
+            "prop": {
+                "from": {
+                    "day": 2,
+                    "month": 4,
+                    "year": 1988
+                },
+                "to": {
+                    "day": 28,
+                    "month": 1,
+                    "year": 1989
+                }
+            },
+            "string": "Apr 2, 1988 to Jan 28, 1989"
+        },
+        "duration": "20 min per ep",
+        "rating": null,
+        "score": null,
+        "scored_by": null,
+        "rank": 15104,
+        "popularity": 20347,
+        "members": 328,
+        "favorites": 0,
+        "synopsis": null,
+        "background": "",
+        "season": "spring",
+        "year": 1988,
+        "broadcast": {
+            "day": null,
+            "time": null,
+            "timezone": null,
+            "string": "Unknown"
+        },
+        "producers": [],
+        "licensors": [],
+        "studios": [],
+        "genres": [],
+        "explicit_genres": [],
+        "themes": [
+            {
+                "mal_id": 56,
+                "type": "anime",
+                "name": "Educational",
+                "url": "https://myanimelist.net/anime/genre/56/Educational"
+            }
+        ],
+        "demographics": [
+            {
+                "mal_id": 15,
+                "type": "anime",
+                "name": "Kids",
+                "url": "https://myanimelist.net/anime/genre/15/Kids"
+            }
+        ],
+        "relations": [
+            {
+                "relation": "Prequel",
+                "entry": [
+                    {
+                        "mal_id": 10137,
+                        "type": "anime",
+                        "name": "Manga Naruhodo Monogatari",
+                        "url": "https://myanimelist.net/anime/10137/Manga_Naruhodo_Monogatari"
+                    }
+                ]
+            },
+            {
+                "relation": "Sequel",
+                "entry": [
+                    {
+                        "mal_id": 10138,
+                        "type": "anime",
+                        "name": "Manga Hajimete Omoshiro Juku",
+                        "url": "https://myanimelist.net/anime/10138/Manga_Hajimete_Omoshiro_Juku"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [],
+            "endings": []
+        },
+        "external": [
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=7547"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": []
+}

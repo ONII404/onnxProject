@@ -1,0 +1,324 @@
+{
+    "id": 22893,
+    "fetched_at": "Sun Dec 14 10:08:49 2025",
+    "metadata": {
+        "mal_id": 22893,
+        "url": "https://myanimelist.net/anime/22893/Mon_Cheri_CoCo",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1852/109506.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1852/109506t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1852/109506l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1852/109506.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1852/109506t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1852/109506l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Mon Cheri CoCo"
+            },
+            {
+                "type": "Synonym",
+                "title": "Mon Chéri Coco"
+            },
+            {
+                "type": "Japanese",
+                "title": "モンシェリCOCO"
+            },
+            {
+                "type": "English",
+                "title": "My Dear Coco"
+            }
+        ],
+        "title": "Mon Cheri CoCo",
+        "title_english": "My Dear Coco",
+        "title_japanese": "モンシェリCOCO",
+        "title_synonyms": [
+            "Mon Chéri Coco"
+        ],
+        "type": "TV",
+        "source": "Manga",
+        "episodes": 13,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "1972-08-27T00:00:00+00:00",
+            "to": "1972-11-26T00:00:00+00:00",
+            "prop": {
+                "from": {
+                    "day": 27,
+                    "month": 8,
+                    "year": 1972
+                },
+                "to": {
+                    "day": 26,
+                    "month": 11,
+                    "year": 1972
+                }
+            },
+            "string": "Aug 27, 1972 to Nov 26, 1972"
+        },
+        "duration": "25 min per ep",
+        "rating": "G - All Ages",
+        "score": 6.31,
+        "scored_by": 125,
+        "rank": 8472,
+        "popularity": 13082,
+        "members": 1629,
+        "favorites": 6,
+        "synopsis": "A young woman aims to become a famous fashion designer.\n\n(Source: AniDB)",
+        "background": "",
+        "season": "summer",
+        "year": 1972,
+        "broadcast": {
+            "day": "Sundays",
+            "time": "19:30",
+            "timezone": "Asia/Tokyo",
+            "string": "Sundays at 19:30 (JST)"
+        },
+        "producers": [
+            {
+                "mal_id": 145,
+                "type": "anime",
+                "name": "TBS",
+                "url": "https://myanimelist.net/anime/producer/145/TBS"
+            }
+        ],
+        "licensors": [],
+        "studios": [
+            {
+                "mal_id": 2948,
+                "type": "anime",
+                "name": "Nippon TV Douga",
+                "url": "https://myanimelist.net/anime/producer/2948/Nippon_TV_Douga"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 22,
+                "type": "anime",
+                "name": "Romance",
+                "url": "https://myanimelist.net/anime/genre/22/Romance"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [],
+        "demographics": [
+            {
+                "mal_id": 25,
+                "type": "anime",
+                "name": "Shoujo",
+                "url": "https://myanimelist.net/anime/genre/25/Shoujo"
+            }
+        ],
+        "relations": [
+            {
+                "relation": "Adaptation",
+                "entry": [
+                    {
+                        "mal_id": 68619,
+                        "type": "manga",
+                        "name": "Mon Cheri CoCo",
+                        "url": "https://myanimelist.net/manga/68619/Mon_Cheri_CoCo"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [
+                "\"Mon Cheri CoCo (モンシェリーCoCo)\" by Mayuko Nakajima (中島まゆ子)"
+            ],
+            "endings": []
+        },
+        "external": [
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=5490"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=2629"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "http://ja.wikipedia.org/wiki/%E3%83%A2%E3%83%B3%E3%82%B7%E3%82%A7%E3%83%AACoCo"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": [
+        {
+            "mal_id": 1,
+            "url": null,
+            "title": "Cute Girl",
+            "title_japanese": "かわいいあの子",
+            "title_romanji": "Kawaii Ano Ko ",
+            "aired": "1972-08-27T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 2,
+            "url": null,
+            "title": "CoCo's Cake",
+            "title_japanese": "ココのケーキやさん",
+            "title_romanji": "CoCo no Cake-ya-san ",
+            "aired": "1972-09-03T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 3,
+            "url": null,
+            "title": "I'm a Designer",
+            "title_japanese": "わたしはデザイナー",
+            "title_romanji": "Watashi wa Designer ",
+            "aired": "1972-09-10T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 4,
+            "url": null,
+            "title": "Someone Who Can't Be Forgotten",
+            "title_japanese": "わすれられないひと",
+            "title_romanji": "Wasure Rarenai Hito ",
+            "aired": "1972-09-17T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 5,
+            "url": null,
+            "title": "Cry When You Want To Cry",
+            "title_japanese": "泣きたい時は泣こう",
+            "title_romanji": "Nakitai Toki wa Nakou ",
+            "aired": "1972-10-01T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 6,
+            "url": null,
+            "title": "A Chance is Coming",
+            "title_japanese": "チャンス到来",
+            "title_romanji": "Chance Tourai ",
+            "aired": "1972-10-08T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 7,
+            "url": null,
+            "title": "A Mean Fashion Show",
+            "title_japanese": "いじわるなファッションショー",
+            "title_romanji": "Ijiwaru na Fashion Show ",
+            "aired": "1972-10-15T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 8,
+            "url": null,
+            "title": "Goodbye Again",
+            "title_japanese": "もう一度さようなら",
+            "title_romanji": "Mou Ichido Sayonara ",
+            "aired": "1972-10-22T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 9,
+            "url": null,
+            "title": "Pinch, Attack!",
+            "title_japanese": "ピンチだアタック!",
+            "title_romanji": "Pinch da Attack! ",
+            "aired": "1972-10-29T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 10,
+            "url": null,
+            "title": "I'm Not a Child Anymore",
+            "title_japanese": "もう子どもじゃない",
+            "title_romanji": "Mou Kodomo Janai ",
+            "aired": "1972-11-05T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 11,
+            "url": null,
+            "title": "Makeover Strategy",
+            "title_japanese": "じゃまをするなら変身作戦",
+            "title_romanji": "Jama wo Suru nara Henshin Sakusen ",
+            "aired": "1972-11-12T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 12,
+            "url": null,
+            "title": "Visiting Mother in Japan",
+            "title_japanese": "母をたずねて日本へ",
+            "title_romanji": "Haha wo Tazunete Nihon e ",
+            "aired": "1972-11-19T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 13,
+            "url": null,
+            "title": "Happiness From Kyoto to Paris",
+            "title_japanese": "しあわせは京都からパリへ",
+            "title_romanji": "Shiawase wa Kyoto kara Paris e ",
+            "aired": "1972-11-26T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        }
+    ]
+}

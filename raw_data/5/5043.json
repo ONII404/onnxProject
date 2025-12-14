@@ -1,0 +1,177 @@
+{
+    "id": 5043,
+    "fetched_at": "Sun Dec 14 08:44:52 2025",
+    "metadata": {
+        "mal_id": 5043,
+        "url": "https://myanimelist.net/anime/5043/Hurricane_Live_2032",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1936/152384.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1936/152384t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1936/152384l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1936/152384.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1936/152384t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1936/152384l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Hurricane Live! 2032"
+            },
+            {
+                "type": "Synonym",
+                "title": "Bubblegum Crisis: Hurricane Live! (1988 version)"
+            },
+            {
+                "type": "Japanese",
+                "title": "バブルガムクライシス Hurricane Live! 2032"
+            }
+        ],
+        "title": "Hurricane Live! 2032",
+        "title_english": null,
+        "title_japanese": "バブルガムクライシス Hurricane Live! 2032",
+        "title_synonyms": [
+            "Bubblegum Crisis: Hurricane Live! (1988 version)"
+        ],
+        "type": "Special",
+        "source": "Original",
+        "episodes": 6,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "1988-04-24T00:00:00+00:00",
+            "to": null,
+            "prop": {
+                "from": {
+                    "day": 24,
+                    "month": 4,
+                    "year": 1988
+                },
+                "to": {
+                    "day": null,
+                    "month": null,
+                    "year": null
+                }
+            },
+            "string": "Apr 24, 1988"
+        },
+        "duration": "4 min per ep",
+        "rating": "PG-13 - Teens 13 or older",
+        "score": 6.72,
+        "scored_by": 1043,
+        "rank": 5959,
+        "popularity": 11145,
+        "members": 2893,
+        "favorites": 3,
+        "synopsis": "Elements of the Bubblegum Crisis series in an MTV-styled rock video. Clips from the series are combined with the music of Kinuko Omori and the Knight Sabers.\n\n(Source: Facets Multimedia)",
+        "background": "",
+        "season": null,
+        "year": null,
+        "broadcast": {
+            "day": null,
+            "time": null,
+            "timezone": null,
+            "string": null
+        },
+        "producers": [
+            {
+                "mal_id": 220,
+                "type": "anime",
+                "name": "Youmex",
+                "url": "https://myanimelist.net/anime/producer/220/Youmex"
+            }
+        ],
+        "licensors": [],
+        "studios": [
+            {
+                "mal_id": 48,
+                "type": "anime",
+                "name": "AIC",
+                "url": "https://myanimelist.net/anime/producer/48/AIC"
+            },
+            {
+                "mal_id": 72,
+                "type": "anime",
+                "name": "Artmic",
+                "url": "https://myanimelist.net/anime/producer/72/Artmic"
+            }
+        ],
+        "genres": [],
+        "explicit_genres": [],
+        "themes": [
+            {
+                "mal_id": 50,
+                "type": "anime",
+                "name": "Adult Cast",
+                "url": "https://myanimelist.net/anime/genre/50/Adult_Cast"
+            },
+            {
+                "mal_id": 19,
+                "type": "anime",
+                "name": "Music",
+                "url": "https://myanimelist.net/anime/genre/19/Music"
+            }
+        ],
+        "demographics": [],
+        "relations": [
+            {
+                "relation": "Sequel",
+                "entry": [
+                    {
+                        "mal_id": 5036,
+                        "type": "anime",
+                        "name": "Hurricane Live! 2033",
+                        "url": "https://myanimelist.net/anime/5036/Hurricane_Live_2033"
+                    }
+                ]
+            },
+            {
+                "relation": "Full Story",
+                "entry": [
+                    {
+                        "mal_id": 1347,
+                        "type": "anime",
+                        "name": "Bubblegum Crisis",
+                        "url": "https://myanimelist.net/anime/1347/Bubblegum_Crisis"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [],
+            "endings": []
+        },
+        "external": [
+            {
+                "name": "Official Site",
+                "url": "http://www.anime-int.com/works/bubblegum/crisis/"
+            },
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=68"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "http://en.wikipedia.org/wiki/Bubblegum_Crisis"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": []
+}

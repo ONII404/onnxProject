@@ -1,0 +1,174 @@
+{
+    "id": 8677,
+    "fetched_at": "Sun Dec 14 09:20:31 2025",
+    "metadata": {
+        "mal_id": 8677,
+        "url": "https://myanimelist.net/anime/8677/Sangokushi_1985",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1843/103238.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1843/103238t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1843/103238l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1843/103238.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1843/103238t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1843/103238l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Sangokushi (1985)"
+            },
+            {
+                "type": "Synonym",
+                "title": "Romance of the Three Kingdoms"
+            },
+            {
+                "type": "Synonym",
+                "title": "Sangokushi I"
+            },
+            {
+                "type": "Synonym",
+                "title": "Sangokushi (special)"
+            },
+            {
+                "type": "Japanese",
+                "title": "三国志"
+            }
+        ],
+        "title": "Sangokushi (1985)",
+        "title_english": null,
+        "title_japanese": "三国志",
+        "title_synonyms": [
+            "Romance of the Three Kingdoms",
+            "Sangokushi I",
+            "Sangokushi (special)"
+        ],
+        "type": "TV Special",
+        "source": "Unknown",
+        "episodes": 1,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "1985-03-20T00:00:00+00:00",
+            "to": null,
+            "prop": {
+                "from": {
+                    "day": 20,
+                    "month": 3,
+                    "year": 1985
+                },
+                "to": {
+                    "day": null,
+                    "month": null,
+                    "year": null
+                }
+            },
+            "string": "Mar 20, 1985"
+        },
+        "duration": "1 hr 33 min",
+        "rating": "R+ - Mild Nudity",
+        "score": 6.24,
+        "scored_by": 390,
+        "rank": 8938,
+        "popularity": 13612,
+        "members": 1400,
+        "favorites": 3,
+        "synopsis": "An anime special based on the Romance of the Three Kingdoms novel. Aired on NTV.",
+        "background": "",
+        "season": null,
+        "year": null,
+        "broadcast": {
+            "day": null,
+            "time": null,
+            "timezone": null,
+            "string": null
+        },
+        "producers": [],
+        "licensors": [],
+        "studios": [
+            {
+                "mal_id": 247,
+                "type": "anime",
+                "name": "Shin-Ei Animation",
+                "url": "https://myanimelist.net/anime/producer/247/Shin-Ei_Animation"
+            }
+        ],
+        "genres": [],
+        "explicit_genres": [],
+        "themes": [
+            {
+                "mal_id": 13,
+                "type": "anime",
+                "name": "Historical",
+                "url": "https://myanimelist.net/anime/genre/13/Historical"
+            }
+        ],
+        "demographics": [],
+        "relations": [
+            {
+                "relation": "Sequel",
+                "entry": [
+                    {
+                        "mal_id": 8678,
+                        "type": "anime",
+                        "name": "Sangokushi II: Amakakeru Otoko-tachi",
+                        "url": "https://myanimelist.net/anime/8678/Sangokushi_II__Amakakeru_Otoko-tachi"
+                    }
+                ]
+            },
+            {
+                "relation": "Alternative Version",
+                "entry": [
+                    {
+                        "mal_id": 970,
+                        "type": "anime",
+                        "name": "Yokoyama Mitsuteru Sangokushi",
+                        "url": "https://myanimelist.net/anime/970/Yokoyama_Mitsuteru_Sangokushi"
+                    },
+                    {
+                        "mal_id": 7696,
+                        "type": "anime",
+                        "name": "Sangokushi: Dai Ichi Bu - Eiyuu-tachi no Yoake",
+                        "url": "https://myanimelist.net/anime/7696/Sangokushi__Dai_Ichi_Bu_-_Eiyuu-tachi_no_Yoake"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [],
+            "endings": []
+        },
+        "external": [
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=7713"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=7011"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "http://ja.wikipedia.org/wiki/三国志_(日本テレビ)"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": []
+}

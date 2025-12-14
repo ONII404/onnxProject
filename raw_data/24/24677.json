@@ -1,0 +1,145 @@
+{
+    "id": 24677,
+    "fetched_at": "Sun Dec 14 10:15:24 2025",
+    "metadata": {
+        "mal_id": 24677,
+        "url": "https://myanimelist.net/anime/24677/Gegege_no_Kitarou__Kitarou_Tanjou-hen",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/4/63529.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/4/63529t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/4/63529l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/4/63529.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/4/63529t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/4/63529l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Gegege no Kitarou: Kitarou Tanjou-hen"
+            },
+            {
+                "type": "Synonym",
+                "title": "Kitaro Tanjo Hen"
+            },
+            {
+                "type": "Japanese",
+                "title": "鬼太郎的誕生"
+            }
+        ],
+        "title": "Gegege no Kitarou: Kitarou Tanjou-hen",
+        "title_english": null,
+        "title_japanese": "鬼太郎的誕生",
+        "title_synonyms": [
+            "Kitaro Tanjo Hen"
+        ],
+        "type": "TV Special",
+        "source": "Manga",
+        "episodes": 1,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "1980-01-01T00:00:00+00:00",
+            "to": null,
+            "prop": {
+                "from": {
+                    "day": 1,
+                    "month": 1,
+                    "year": 1980
+                },
+                "to": {
+                    "day": null,
+                    "month": null,
+                    "year": null
+                }
+            },
+            "string": "1980"
+        },
+        "duration": "3 min",
+        "rating": "G - All Ages",
+        "score": 5.84,
+        "scored_by": 157,
+        "rank": 11163,
+        "popularity": 16649,
+        "members": 650,
+        "favorites": 1,
+        "synopsis": "A short special \"Birth of Kitarou\" aired in 1980.",
+        "background": "",
+        "season": null,
+        "year": null,
+        "broadcast": {
+            "day": null,
+            "time": null,
+            "timezone": null,
+            "string": null
+        },
+        "producers": [],
+        "licensors": [],
+        "studios": [
+            {
+                "mal_id": 18,
+                "type": "anime",
+                "name": "Toei Animation",
+                "url": "https://myanimelist.net/anime/producer/18/Toei_Animation"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 37,
+                "type": "anime",
+                "name": "Supernatural",
+                "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [],
+        "demographics": [],
+        "relations": [
+            {
+                "relation": "Adaptation",
+                "entry": [
+                    {
+                        "mal_id": 10499,
+                        "type": "manga",
+                        "name": "GeGeGe no Kitarou",
+                        "url": "https://myanimelist.net/manga/10499/GeGeGe_no_Kitarou"
+                    }
+                ]
+            },
+            {
+                "relation": "Parent Story",
+                "entry": [
+                    {
+                        "mal_id": 5688,
+                        "type": "anime",
+                        "name": "Gegege no Kitarou (1968)",
+                        "url": "https://myanimelist.net/anime/5688/Gegege_no_Kitarou_1968"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [],
+            "endings": []
+        },
+        "external": [],
+        "streaming": []
+    },
+    "episodes": []
+}

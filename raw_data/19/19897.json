@@ -1,0 +1,164 @@
+{
+    "id": 19897,
+    "fetched_at": "Sun Dec 14 10:01:02 2025",
+    "metadata": {
+        "mal_id": 19897,
+        "url": "https://myanimelist.net/anime/19897/Ohayou_Spank_Movie",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/2/53059.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/2/53059t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/2/53059l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/2/53059.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/2/53059t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/2/53059l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Ohayou! Spank (Movie)"
+            },
+            {
+                "type": "Synonym",
+                "title": "Ohayo! Spank (Movie)"
+            },
+            {
+                "type": "Japanese",
+                "title": "おはよう! スパンク"
+            }
+        ],
+        "title": "Ohayou! Spank (Movie)",
+        "title_english": null,
+        "title_japanese": "おはよう! スパンク",
+        "title_synonyms": [
+            "Ohayo! Spank (Movie)"
+        ],
+        "type": "Movie",
+        "source": "Manga",
+        "episodes": 1,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "1982-03-13T00:00:00+00:00",
+            "to": null,
+            "prop": {
+                "from": {
+                    "day": 13,
+                    "month": 3,
+                    "year": 1982
+                },
+                "to": {
+                    "day": null,
+                    "month": null,
+                    "year": null
+                }
+            },
+            "string": "Mar 13, 1982"
+        },
+        "duration": "1 hr 39 min",
+        "rating": "G - All Ages",
+        "score": 5.89,
+        "scored_by": 183,
+        "rank": 10874,
+        "popularity": 15096,
+        "members": 955,
+        "favorites": 0,
+        "synopsis": "Based on the shoujo manga by Yukimuro Shun'ichi and Takanashi Shizue serialised in Nakayoshi. \n\n(Source: AniDB)",
+        "background": "",
+        "season": null,
+        "year": null,
+        "broadcast": {
+            "day": null,
+            "time": null,
+            "timezone": null,
+            "string": null
+        },
+        "producers": [],
+        "licensors": [],
+        "studios": [
+            {
+                "mal_id": 73,
+                "type": "anime",
+                "name": "TMS Entertainment",
+                "url": "https://myanimelist.net/anime/producer/73/TMS_Entertainment"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 4,
+                "type": "anime",
+                "name": "Comedy",
+                "url": "https://myanimelist.net/anime/genre/4/Comedy"
+            },
+            {
+                "mal_id": 22,
+                "type": "anime",
+                "name": "Romance",
+                "url": "https://myanimelist.net/anime/genre/22/Romance"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [],
+        "demographics": [],
+        "relations": [
+            {
+                "relation": "Adaptation",
+                "entry": [
+                    {
+                        "mal_id": 8344,
+                        "type": "manga",
+                        "name": "Ohayou! Spank",
+                        "url": "https://myanimelist.net/manga/8344/Ohayou_Spank"
+                    }
+                ]
+            },
+            {
+                "relation": "Parent Story",
+                "entry": [
+                    {
+                        "mal_id": 2912,
+                        "type": "anime",
+                        "name": "Ohayou! Spank",
+                        "url": "https://myanimelist.net/anime/2912/Ohayou_Spank"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [],
+            "endings": []
+        },
+        "external": [
+            {
+                "name": "Official Site",
+                "url": "http://www.tms-e.com/library/old/movie/data/m_spank.html"
+            },
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=7615"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=7854"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": []
+}

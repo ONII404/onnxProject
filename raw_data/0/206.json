@@ -1,0 +1,575 @@
+{
+    "id": 206,
+    "fetched_at": "Sun Dec 14 12:47:04 2025",
+    "metadata": {
+        "mal_id": 206,
+        "url": "https://myanimelist.net/anime/206/Lodoss-tou_Senki__Eiyuu_Kishi_Den",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1065/92495.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1065/92495t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1065/92495l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1065/92495.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1065/92495t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1065/92495l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Lodoss-tou Senki: Eiyuu Kishi Den"
+            },
+            {
+                "type": "Synonym",
+                "title": "Record of Lodoss War TV"
+            },
+            {
+                "type": "Japanese",
+                "title": "ロードス島戦記　英雄騎士伝"
+            },
+            {
+                "type": "English",
+                "title": "Record of Lodoss War: Chronicles of the Heroic Knight"
+            },
+            {
+                "type": "Spanish",
+                "title": "Las Crónicas de Lodoss Los Ovas"
+            },
+            {
+                "type": "French",
+                "title": "Chroniques de la Guerre de Lodoss: La Légende du Chevalier Heroïque"
+            }
+        ],
+        "title": "Lodoss-tou Senki: Eiyuu Kishi Den",
+        "title_english": "Record of Lodoss War: Chronicles of the Heroic Knight",
+        "title_japanese": "ロードス島戦記　英雄騎士伝",
+        "title_synonyms": [
+            "Record of Lodoss War TV"
+        ],
+        "type": "TV",
+        "source": "Novel",
+        "episodes": 27,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "1998-04-01T00:00:00+00:00",
+            "to": "1998-09-30T00:00:00+00:00",
+            "prop": {
+                "from": {
+                    "day": 1,
+                    "month": 4,
+                    "year": 1998
+                },
+                "to": {
+                    "day": 30,
+                    "month": 9,
+                    "year": 1998
+                }
+            },
+            "string": "Apr 1, 1998 to Sep 30, 1998"
+        },
+        "duration": "23 min per ep",
+        "rating": "PG-13 - Teens 13 or older",
+        "score": 7.11,
+        "scored_by": 12678,
+        "rank": 4004,
+        "popularity": 4012,
+        "members": 38822,
+        "favorites": 145,
+        "synopsis": "Five years after the death of the Emperor of Marmo in the War of Heroes, Parn is now the Free Knight of Lodoss, he and his old allies now famous through the land. However, the Emperor's right-hand man, Ashram, seeks the scepter of domination to re-unify Lodoss under his former leader's banner. Meanwhile, beyond his attempts at conquest lies a more sinister force beginning to set the stage for the resurrection of the goddess of death and destruction...\n\n(Source: ANN)",
+        "background": "",
+        "season": "spring",
+        "year": 1998,
+        "broadcast": {
+            "day": "Wednesdays",
+            "time": "18:00",
+            "timezone": "Asia/Tokyo",
+            "string": "Wednesdays at 18:00 (JST)"
+        },
+        "producers": [
+            {
+                "mal_id": 113,
+                "type": "anime",
+                "name": "Kadokawa Shoten",
+                "url": "https://myanimelist.net/anime/producer/113/Kadokawa_Shoten"
+            },
+            {
+                "mal_id": 127,
+                "type": "anime",
+                "name": "Yomiko Advertising",
+                "url": "https://myanimelist.net/anime/producer/127/Yomiko_Advertising"
+            },
+            {
+                "mal_id": 165,
+                "type": "anime",
+                "name": "Marubeni",
+                "url": "https://myanimelist.net/anime/producer/165/Marubeni"
+            }
+        ],
+        "licensors": [
+            {
+                "mal_id": 102,
+                "type": "anime",
+                "name": "Funimation",
+                "url": "https://myanimelist.net/anime/producer/102/Funimation"
+            },
+            {
+                "mal_id": 284,
+                "type": "anime",
+                "name": "Central Park Media",
+                "url": "https://myanimelist.net/anime/producer/284/Central_Park_Media"
+            }
+        ],
+        "studios": [
+            {
+                "mal_id": 48,
+                "type": "anime",
+                "name": "AIC",
+                "url": "https://myanimelist.net/anime/producer/48/AIC"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 1,
+                "type": "anime",
+                "name": "Action",
+                "url": "https://myanimelist.net/anime/genre/1/Action"
+            },
+            {
+                "mal_id": 2,
+                "type": "anime",
+                "name": "Adventure",
+                "url": "https://myanimelist.net/anime/genre/2/Adventure"
+            },
+            {
+                "mal_id": 8,
+                "type": "anime",
+                "name": "Drama",
+                "url": "https://myanimelist.net/anime/genre/8/Drama"
+            },
+            {
+                "mal_id": 10,
+                "type": "anime",
+                "name": "Fantasy",
+                "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+            },
+            {
+                "mal_id": 22,
+                "type": "anime",
+                "name": "Romance",
+                "url": "https://myanimelist.net/anime/genre/22/Romance"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [],
+        "demographics": [],
+        "relations": [
+            {
+                "relation": "Adaptation",
+                "entry": [
+                    {
+                        "mal_id": 1619,
+                        "type": "manga",
+                        "name": "Lodoss-tou Senki: Eiyuu Kishi Den",
+                        "url": "https://myanimelist.net/manga/1619/Lodoss-tou_Senki__Eiyuu_Kishi_Den"
+                    }
+                ]
+            },
+            {
+                "relation": "Summary",
+                "entry": [
+                    {
+                        "mal_id": 2840,
+                        "type": "anime",
+                        "name": "Youkoso Lodoss-tou e!",
+                        "url": "https://myanimelist.net/anime/2840/Youkoso_Lodoss-tou_e"
+                    }
+                ]
+            },
+            {
+                "relation": "Alternative Version",
+                "entry": [
+                    {
+                        "mal_id": 207,
+                        "type": "anime",
+                        "name": "Lodoss-tou Senki",
+                        "url": "https://myanimelist.net/anime/207/Lodoss-tou_Senki"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [
+                "\"Kiseki no Umi\" (Sea of Miracles) by Maaya Sakamoto"
+            ],
+            "endings": [
+                "\"Hikari no Suashi\" by Akino arai"
+            ]
+        },
+        "external": [
+            {
+                "name": "Official Site",
+                "url": "http://www.anime-int.com/works/index.html?years=1998&?type=tv&?initial=r"
+            },
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=137"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=471"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "http://en.wikipedia.org/wiki/Lodoss#Anime"
+            }
+        ],
+        "streaming": [
+            {
+                "name": "Crunchyroll",
+                "url": "http://www.crunchyroll.com/series-276345"
+            }
+        ]
+    },
+    "episodes": [
+        {
+            "mal_id": 1,
+            "url": "https://myanimelist.net/anime/206/Lodoss-tou_Senki__Eiyuu_Kishi_Den/episode/1",
+            "title": "The Free Knight... A New Legend Begins",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 3.6,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=316281"
+        },
+        {
+            "mal_id": 2,
+            "url": "https://myanimelist.net/anime/206/Lodoss-tou_Senki__Eiyuu_Kishi_Den/episode/2",
+            "title": "Dragon... The Guardian of the Lost History",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 4.04,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=316569"
+        },
+        {
+            "mal_id": 3,
+            "url": "https://myanimelist.net/anime/206/Lodoss-tou_Senki__Eiyuu_Kishi_Den/episode/3",
+            "title": "King... The Long Sought Hero",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 3.73,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=316804"
+        },
+        {
+            "mal_id": 4,
+            "url": "https://myanimelist.net/anime/206/Lodoss-tou_Senki__Eiyuu_Kishi_Den/episode/4",
+            "title": "Pirates... The Ship of Dark Ambitions",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 3.83,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=316806"
+        },
+        {
+            "mal_id": 5,
+            "url": "https://myanimelist.net/anime/206/Lodoss-tou_Senki__Eiyuu_Kishi_Den/episode/5",
+            "title": "Demon Sword... The Power to Crush Souls",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 3.33,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=316858"
+        },
+        {
+            "mal_id": 6,
+            "url": "https://myanimelist.net/anime/206/Lodoss-tou_Senki__Eiyuu_Kishi_Den/episode/6",
+            "title": "Heart... Tears Reborn",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 3.69,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=316874"
+        },
+        {
+            "mal_id": 7,
+            "url": "https://myanimelist.net/anime/206/Lodoss-tou_Senki__Eiyuu_Kishi_Den/episode/7",
+            "title": "Death... A Gentle Heart Bequeathed",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 4.47,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=316888"
+        },
+        {
+            "mal_id": 8,
+            "url": "https://myanimelist.net/anime/206/Lodoss-tou_Senki__Eiyuu_Kishi_Den/episode/8",
+            "title": "The Scepter of Domination... The Dream of a United Lodoss",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=316896"
+        },
+        {
+            "mal_id": 9,
+            "url": "https://myanimelist.net/anime/206/Lodoss-tou_Senki__Eiyuu_Kishi_Den/episode/9",
+            "title": "The Young Knight... Tested Strength",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 3.88,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=317175"
+        },
+        {
+            "mal_id": 10,
+            "url": "https://myanimelist.net/anime/206/Lodoss-tou_Senki__Eiyuu_Kishi_Den/episode/10",
+            "title": "Recovery... A Mission Assigned",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 3.93,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=317197"
+        },
+        {
+            "mal_id": 11,
+            "url": "https://myanimelist.net/anime/206/Lodoss-tou_Senki__Eiyuu_Kishi_Den/episode/11",
+            "title": "Light... A Girl Guided by the Gods",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 3.31,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=318009"
+        },
+        {
+            "mal_id": 12,
+            "url": "https://myanimelist.net/anime/206/Lodoss-tou_Senki__Eiyuu_Kishi_Den/episode/12",
+            "title": "Sallying Forth... Pursuing a Dark Shadow",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 3.31,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=322105"
+        },
+        {
+            "mal_id": 13,
+            "url": "https://myanimelist.net/anime/206/Lodoss-tou_Senki__Eiyuu_Kishi_Den/episode/13",
+            "title": "Nightmare... The Creeping Dark Power",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 3.75,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=322313"
+        },
+        {
+            "mal_id": 14,
+            "url": "https://myanimelist.net/anime/206/Lodoss-tou_Senki__Eiyuu_Kishi_Den/episode/14",
+            "title": "Doorway... The Truth Proclaimed",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 3.67,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=322803"
+        },
+        {
+            "mal_id": 15,
+            "url": "https://myanimelist.net/anime/206/Lodoss-tou_Senki__Eiyuu_Kishi_Den/episode/15",
+            "title": "An Old Enemy... Reunion with the Black Knight",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=323823"
+        },
+        {
+            "mal_id": 16,
+            "url": "https://myanimelist.net/anime/206/Lodoss-tou_Senki__Eiyuu_Kishi_Den/episode/16",
+            "title": "The Holy City... Pursuing a Clue",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 3.92,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=324143"
+        },
+        {
+            "mal_id": 17,
+            "url": "https://myanimelist.net/anime/206/Lodoss-tou_Senki__Eiyuu_Kishi_Den/episode/17",
+            "title": "Decision... An Option Compelled",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 3.93,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=325919"
+        },
+        {
+            "mal_id": 18,
+            "url": "https://myanimelist.net/anime/206/Lodoss-tou_Senki__Eiyuu_Kishi_Den/episode/18",
+            "title": "Mission... The Path One Follows",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 4.23,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=327221"
+        },
+        {
+            "mal_id": 19,
+            "url": "https://myanimelist.net/anime/206/Lodoss-tou_Senki__Eiyuu_Kishi_Den/episode/19",
+            "title": "Reunion... In a Distant War-torn Land",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 4.25,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1903955"
+        },
+        {
+            "mal_id": 20,
+            "url": "https://myanimelist.net/anime/206/Lodoss-tou_Senki__Eiyuu_Kishi_Den/episode/20",
+            "title": "Counterattack... The Stolen Last Hope",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 4.37,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=328475"
+        },
+        {
+            "mal_id": 21,
+            "url": "https://myanimelist.net/anime/206/Lodoss-tou_Senki__Eiyuu_Kishi_Den/episode/21",
+            "title": "A Vow... A Step Towards the Future",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 3.36,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1903968"
+        },
+        {
+            "mal_id": 22,
+            "url": "https://myanimelist.net/anime/206/Lodoss-tou_Senki__Eiyuu_Kishi_Den/episode/22",
+            "title": "Liberation... A Path Opened",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 4.1,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1689195"
+        },
+        {
+            "mal_id": 23,
+            "url": "https://myanimelist.net/anime/206/Lodoss-tou_Senki__Eiyuu_Kishi_Den/episode/23",
+            "title": "Landing… The Terrifying Dark Island",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1689350"
+        },
+        {
+            "mal_id": 24,
+            "url": "https://myanimelist.net/anime/206/Lodoss-tou_Senki__Eiyuu_Kishi_Den/episode/24",
+            "title": "The Witch... The One Who Maintains the Balance of Power",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 4.06,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1691052"
+        },
+        {
+            "mal_id": 25,
+            "url": "https://myanimelist.net/anime/206/Lodoss-tou_Senki__Eiyuu_Kishi_Den/episode/25",
+            "title": "Decision... The Black Knight's Option",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 4.21,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1964204"
+        },
+        {
+            "mal_id": 26,
+            "url": "https://myanimelist.net/anime/206/Lodoss-tou_Senki__Eiyuu_Kishi_Den/episode/26",
+            "title": "Destruction... The Evil God Released",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 3.45,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1964210"
+        },
+        {
+            "mal_id": 27,
+            "url": "https://myanimelist.net/anime/206/Lodoss-tou_Senki__Eiyuu_Kishi_Den/episode/27",
+            "title": "Hero... The Birth of a New Knight",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 4.19,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=480825"
+        }
+    ]
+}

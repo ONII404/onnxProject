@@ -1,0 +1,145 @@
+{
+    "id": 35529,
+    "fetched_at": "Sun Dec 14 11:06:15 2025",
+    "metadata": {
+        "mal_id": 35529,
+        "url": "https://myanimelist.net/anime/35529/Kkachi_ae_Nalgae",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/3/85637.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/3/85637t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/3/85637l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/3/85637.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/3/85637t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/3/85637l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Kkachi ae Nalgae"
+            },
+            {
+                "type": "Synonym",
+                "title": "Wandering Kkachi 2"
+            },
+            {
+                "type": "Japanese",
+                "title": "까치의 날개"
+            }
+        ],
+        "title": "Kkachi ae Nalgae",
+        "title_english": null,
+        "title_japanese": "까치의 날개",
+        "title_synonyms": [
+            "Wandering Kkachi 2"
+        ],
+        "type": "TV Special",
+        "source": "Original",
+        "episodes": 1,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "1988-01-02T00:00:00+00:00",
+            "to": null,
+            "prop": {
+                "from": {
+                    "day": 2,
+                    "month": 1,
+                    "year": 1988
+                },
+                "to": {
+                    "day": null,
+                    "month": null,
+                    "year": null
+                }
+            },
+            "string": "Jan 2, 1988"
+        },
+        "duration": "1 hr 20 min",
+        "rating": "G - All Ages",
+        "score": null,
+        "scored_by": null,
+        "rank": 17942,
+        "popularity": 20693,
+        "members": 308,
+        "favorites": 0,
+        "synopsis": "A direct sequel to Tteodori Kkachi.",
+        "background": "",
+        "season": null,
+        "year": null,
+        "broadcast": {
+            "day": null,
+            "time": null,
+            "timezone": null,
+            "string": null
+        },
+        "producers": [],
+        "licensors": [],
+        "studios": [],
+        "genres": [
+            {
+                "mal_id": 8,
+                "type": "anime",
+                "name": "Drama",
+                "url": "https://myanimelist.net/anime/genre/8/Drama"
+            },
+            {
+                "mal_id": 30,
+                "type": "anime",
+                "name": "Sports",
+                "url": "https://myanimelist.net/anime/genre/30/Sports"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [
+            {
+                "mal_id": 77,
+                "type": "anime",
+                "name": "Team Sports",
+                "url": "https://myanimelist.net/anime/genre/77/Team_Sports"
+            }
+        ],
+        "demographics": [],
+        "relations": [
+            {
+                "relation": "Prequel",
+                "entry": [
+                    {
+                        "mal_id": 35528,
+                        "type": "anime",
+                        "name": "Tteodori Kkachi",
+                        "url": "https://myanimelist.net/anime/35528/Tteodori_Kkachi"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [],
+            "endings": []
+        },
+        "external": [
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=8284"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": []
+}

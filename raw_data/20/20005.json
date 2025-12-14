@@ -1,0 +1,135 @@
+{
+    "id": 20005,
+    "fetched_at": "Sun Dec 14 10:03:00 2025",
+    "metadata": {
+        "mal_id": 20005,
+        "url": "https://myanimelist.net/anime/20005/Pinch_to_Punch",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/9/53315.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/9/53315t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/9/53315l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/9/53315.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/9/53315t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/9/53315l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Pinch to Punch"
+            },
+            {
+                "type": "Synonym",
+                "title": "Pinch & Punch"
+            },
+            {
+                "type": "Japanese",
+                "title": "ピンチとパンチ"
+            }
+        ],
+        "title": "Pinch to Punch",
+        "title_english": null,
+        "title_japanese": "ピンチとパンチ",
+        "title_synonyms": [
+            "Pinch & Punch"
+        ],
+        "type": "TV",
+        "source": "Unknown",
+        "episodes": 156,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "1969-09-29T00:00:00+00:00",
+            "to": "1970-03-28T00:00:00+00:00",
+            "prop": {
+                "from": {
+                    "day": 29,
+                    "month": 9,
+                    "year": 1969
+                },
+                "to": {
+                    "day": 28,
+                    "month": 3,
+                    "year": 1970
+                }
+            },
+            "string": "Sep 29, 1969 to Mar 28, 1970"
+        },
+        "duration": "5 min per ep",
+        "rating": "G - All Ages",
+        "score": null,
+        "scored_by": null,
+        "rank": 19523,
+        "popularity": 17198,
+        "members": 580,
+        "favorites": 0,
+        "synopsis": "A comedy about two goofy twins in the armed forces.\n\n(Source: AniDB)",
+        "background": "",
+        "season": "fall",
+        "year": 1969,
+        "broadcast": {
+            "day": null,
+            "time": null,
+            "timezone": null,
+            "string": "Unknown"
+        },
+        "producers": [
+            {
+                "mal_id": 169,
+                "type": "anime",
+                "name": "Fuji TV",
+                "url": "https://myanimelist.net/anime/producer/169/Fuji_TV"
+            }
+        ],
+        "licensors": [],
+        "studios": [],
+        "genres": [
+            {
+                "mal_id": 4,
+                "type": "anime",
+                "name": "Comedy",
+                "url": "https://myanimelist.net/anime/genre/4/Comedy"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [],
+        "demographics": [],
+        "relations": [],
+        "theme": {
+            "openings": [],
+            "endings": []
+        },
+        "external": [
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=4946"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=1699"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "http://ja.wikipedia.org/wiki/%E3%83%94%E3%83%B3%E3%83%81%E3%81%A8%E3%83%91%E3%83%B3%E3%83%81"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": []
+}

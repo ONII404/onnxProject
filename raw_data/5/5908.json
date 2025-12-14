@@ -1,0 +1,225 @@
+{
+    "id": 5908,
+    "fetched_at": "Sun Dec 14 08:54:19 2025",
+    "metadata": {
+        "mal_id": 5908,
+        "url": "https://myanimelist.net/anime/5908/Chinpui",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/11/74871.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/11/74871t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/11/74871l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/11/74871.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/11/74871t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/11/74871l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Chinpui"
+            },
+            {
+                "type": "Synonym",
+                "title": "Timpui"
+            },
+            {
+                "type": "Japanese",
+                "title": "チンプイ"
+            }
+        ],
+        "title": "Chinpui",
+        "title_english": null,
+        "title_japanese": "チンプイ",
+        "title_synonyms": [
+            "Timpui"
+        ],
+        "type": "TV",
+        "source": "Manga",
+        "episodes": 56,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "1989-02-11T00:00:00+00:00",
+            "to": "1991-04-18T00:00:00+00:00",
+            "prop": {
+                "from": {
+                    "day": 11,
+                    "month": 2,
+                    "year": 1989
+                },
+                "to": {
+                    "day": 18,
+                    "month": 4,
+                    "year": 1991
+                }
+            },
+            "string": "Feb 11, 1989 to Apr 18, 1991"
+        },
+        "duration": "24 min per ep",
+        "rating": "G - All Ages",
+        "score": 6.38,
+        "scored_by": 1212,
+        "rank": 8071,
+        "popularity": 11829,
+        "members": 2382,
+        "favorites": 6,
+        "synopsis": "TV anime show based on the manga by F. Fujio Fujiko.",
+        "background": "",
+        "season": "winter",
+        "year": 1989,
+        "broadcast": {
+            "day": null,
+            "time": null,
+            "timezone": null,
+            "string": "Unknown"
+        },
+        "producers": [
+            {
+                "mal_id": 55,
+                "type": "anime",
+                "name": "TV Asahi",
+                "url": "https://myanimelist.net/anime/producer/55/TV_Asahi"
+            },
+            {
+                "mal_id": 142,
+                "type": "anime",
+                "name": "Asatsu DK",
+                "url": "https://myanimelist.net/anime/producer/142/Asatsu_DK"
+            }
+        ],
+        "licensors": [],
+        "studios": [
+            {
+                "mal_id": 247,
+                "type": "anime",
+                "name": "Shin-Ei Animation",
+                "url": "https://myanimelist.net/anime/producer/247/Shin-Ei_Animation"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 4,
+                "type": "anime",
+                "name": "Comedy",
+                "url": "https://myanimelist.net/anime/genre/4/Comedy"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [],
+        "demographics": [],
+        "relations": [
+            {
+                "relation": "Adaptation",
+                "entry": [
+                    {
+                        "mal_id": 42177,
+                        "type": "manga",
+                        "name": "Chinpui",
+                        "url": "https://myanimelist.net/manga/42177/Chinpui"
+                    }
+                ]
+            },
+            {
+                "relation": "Side Story",
+                "entry": [
+                    {
+                        "mal_id": 10039,
+                        "type": "anime",
+                        "name": "Chinpui Specials",
+                        "url": "https://myanimelist.net/anime/10039/Chinpui_Specials"
+                    },
+                    {
+                        "mal_id": 10040,
+                        "type": "anime",
+                        "name": "Chinpui: Eri-sama Katsudou Daishashin",
+                        "url": "https://myanimelist.net/anime/10040/Chinpui__Eri-sama_Katsudou_Daishashin"
+                    }
+                ]
+            },
+            {
+                "relation": "Character",
+                "entry": [
+                    {
+                        "mal_id": 59850,
+                        "type": "anime",
+                        "name": "Doraemon & Chinpui: Eri-sama Ai no Present Daisakusen",
+                        "url": "https://myanimelist.net/anime/59850/Doraemon___Chinpui__Eri-sama_Ai_no_Present_Daisakusen"
+                    },
+                    {
+                        "mal_id": 59855,
+                        "type": "anime",
+                        "name": "Doraemon & F-Chara All Stars: Getsumen Race de Dai-Pinch!?",
+                        "url": "https://myanimelist.net/anime/59855/Doraemon___F-Chara_All_Stars__Getsumen_Race_de_Dai-Pinch"
+                    },
+                    {
+                        "mal_id": 59857,
+                        "type": "anime",
+                        "name": "Doraemon & F-Chara All Stars: Sukoshi Fushigi Express",
+                        "url": "https://myanimelist.net/anime/59857/Doraemon___F-Chara_All_Stars__Sukoshi_Fushigi_Express"
+                    },
+                    {
+                        "mal_id": 59859,
+                        "type": "anime",
+                        "name": "Doraemon & F-Chara All Stars: Yume no Machi, F Land",
+                        "url": "https://myanimelist.net/anime/59859/Doraemon___F-Chara_All_Stars__Yume_no_Machi_F_Land"
+                    }
+                ]
+            },
+            {
+                "relation": "Other",
+                "entry": [
+                    {
+                        "mal_id": 61162,
+                        "type": "anime",
+                        "name": "Chinpui: Eri-sama no Good Luck",
+                        "url": "https://myanimelist.net/anime/61162/Chinpui__Eri-sama_no_Good_Luck"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [
+                "\"Onegai Chinpui (お願いチンプイ)\" by Junko Uchida"
+            ],
+            "endings": [
+                "\"Cinderella Nanka ni Naritakunai (シンデレラなんかになりたくない)\" by Kenji Yamamoto"
+            ]
+        },
+        "external": [
+            {
+                "name": "Official Site",
+                "url": "http://www.shin-ei-animation.jp/chinpui/"
+            },
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=5227"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=1259"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "https://ja.wikipedia.org/wiki/%E3%83%81%E3%83%B3%E3%83%97%E3%82%A4"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": []
+}

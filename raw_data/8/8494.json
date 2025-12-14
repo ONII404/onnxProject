@@ -1,0 +1,158 @@
+{
+    "id": 8494,
+    "fetched_at": "Sun Dec 14 09:18:23 2025",
+    "metadata": {
+        "mal_id": 8494,
+        "url": "https://myanimelist.net/anime/8494/Kikansha_Yaemon__D51_no_Daibouken",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/9/22652.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/9/22652t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/9/22652l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/9/22652.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/9/22652t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/9/22652l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Kikansha Yaemon: D51 no Daibouken"
+            },
+            {
+                "type": "Synonym",
+                "title": "The Great Adventures of Kikansha Yaemon D51"
+            },
+            {
+                "type": "Japanese",
+                "title": "D51の大冒険 きかんしゃやえもん"
+            }
+        ],
+        "title": "Kikansha Yaemon: D51 no Daibouken",
+        "title_english": null,
+        "title_japanese": "D51の大冒険 きかんしゃやえもん",
+        "title_synonyms": [
+            "The Great Adventures of Kikansha Yaemon D51"
+        ],
+        "type": "Movie",
+        "source": "Picture book",
+        "episodes": 1,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "1974-03-16T00:00:00+00:00",
+            "to": null,
+            "prop": {
+                "from": {
+                    "day": 16,
+                    "month": 3,
+                    "year": 1974
+                },
+                "to": {
+                    "day": null,
+                    "month": null,
+                    "year": null
+                }
+            },
+            "string": "Mar 16, 1974"
+        },
+        "duration": "1 hr 2 min",
+        "rating": null,
+        "score": 5.6,
+        "scored_by": 158,
+        "rank": 12309,
+        "popularity": 17036,
+        "members": 596,
+        "favorites": 2,
+        "synopsis": "Traditionally animated movie based on a bestseller picture book by Agawa Hiroyuki, illustrated by Okabe Fuyuhiko and published in 1959 by Iwanami Shoten Publishing.",
+        "background": "",
+        "season": null,
+        "year": null,
+        "broadcast": {
+            "day": null,
+            "time": null,
+            "timezone": null,
+            "string": null
+        },
+        "producers": [],
+        "licensors": [],
+        "studios": [
+            {
+                "mal_id": 18,
+                "type": "anime",
+                "name": "Toei Animation",
+                "url": "https://myanimelist.net/anime/producer/18/Toei_Animation"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 10,
+                "type": "anime",
+                "name": "Fantasy",
+                "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [],
+        "demographics": [
+            {
+                "mal_id": 15,
+                "type": "anime",
+                "name": "Kids",
+                "url": "https://myanimelist.net/anime/genre/15/Kids"
+            }
+        ],
+        "relations": [
+            {
+                "relation": "Alternative Version",
+                "entry": [
+                    {
+                        "mal_id": 8492,
+                        "type": "anime",
+                        "name": "Kikansha Yaemon",
+                        "url": "https://myanimelist.net/anime/8492/Kikansha_Yaemon"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [],
+            "endings": []
+        },
+        "external": [
+            {
+                "name": "Official Site",
+                "url": "http://www.toei-anim.co.jp/lineup/movie/movie_kikansha/"
+            },
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=2219"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=3580"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "http://ja.wikipedia.org/wiki/きかんしゃやえもん_D51の大冒険"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": []
+}

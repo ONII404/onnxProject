@@ -1,0 +1,875 @@
+{
+    "id": 129,
+    "fetched_at": "Sun Dec 14 12:39:57 2025",
+    "metadata": {
+        "mal_id": 129,
+        "url": "https://myanimelist.net/anime/129/Gensoumaden_Saiyuuki",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/11/75282.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/11/75282t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/11/75282l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/11/75282.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/11/75282t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/11/75282l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Gensoumaden Saiyuuki"
+            },
+            {
+                "type": "Synonym",
+                "title": "Gensou Maden Saiyuki"
+            },
+            {
+                "type": "Japanese",
+                "title": "幻想魔伝 最遊記"
+            },
+            {
+                "type": "English",
+                "title": "Saiyuki"
+            },
+            {
+                "type": "German",
+                "title": "Saiyuki"
+            },
+            {
+                "type": "Spanish",
+                "title": "Saiyuki"
+            }
+        ],
+        "title": "Gensoumaden Saiyuuki",
+        "title_english": "Saiyuki",
+        "title_japanese": "幻想魔伝 最遊記",
+        "title_synonyms": [
+            "Gensou Maden Saiyuki"
+        ],
+        "type": "TV",
+        "source": "Manga",
+        "episodes": 50,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "2000-04-04T00:00:00+00:00",
+            "to": "2001-03-27T00:00:00+00:00",
+            "prop": {
+                "from": {
+                    "day": 4,
+                    "month": 4,
+                    "year": 2000
+                },
+                "to": {
+                    "day": 27,
+                    "month": 3,
+                    "year": 2001
+                }
+            },
+            "string": "Apr 4, 2000 to Mar 27, 2001"
+        },
+        "duration": "23 min per ep",
+        "rating": "R - 17+ (violence & profanity)",
+        "score": 7.54,
+        "scored_by": 22134,
+        "rank": 1901,
+        "popularity": 3192,
+        "members": 58499,
+        "favorites": 799,
+        "synopsis": "Many years ago, humans and demons lived in harmony. But that unity ended when demons started attacking humans and plotted a mission to unleash Gyumao—an evil demon imprisoned for thousands of years. Now, Genjo Sanzo, a rogue priest, must team up with three demons—Sha Gojyo, Son Goku, and Cho Hakkai—and embark on a perilous journey to the west to stop these demons from resurrecting Gyumao and restore the balance between humans and demons on Earth.\n\n(Source: ANN)",
+        "background": "",
+        "season": "spring",
+        "year": 2000,
+        "broadcast": {
+            "day": "Tuesdays",
+            "time": "18:30",
+            "timezone": "Asia/Tokyo",
+            "string": "Tuesdays at 18:30 (JST)"
+        },
+        "producers": [
+            {
+                "mal_id": 16,
+                "type": "anime",
+                "name": "TV Tokyo",
+                "url": "https://myanimelist.net/anime/producer/16/TV_Tokyo"
+            },
+            {
+                "mal_id": 53,
+                "type": "anime",
+                "name": "Dentsu",
+                "url": "https://myanimelist.net/anime/producer/53/Dentsu"
+            },
+            {
+                "mal_id": 86,
+                "type": "anime",
+                "name": "Group TAC",
+                "url": "https://myanimelist.net/anime/producer/86/Group_TAC"
+            }
+        ],
+        "licensors": [
+            {
+                "mal_id": 97,
+                "type": "anime",
+                "name": "ADV Films",
+                "url": "https://myanimelist.net/anime/producer/97/ADV_Films"
+            }
+        ],
+        "studios": [
+            {
+                "mal_id": 1,
+                "type": "anime",
+                "name": "Studio Pierrot",
+                "url": "https://myanimelist.net/anime/producer/1/Studio_Pierrot"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 1,
+                "type": "anime",
+                "name": "Action",
+                "url": "https://myanimelist.net/anime/genre/1/Action"
+            },
+            {
+                "mal_id": 2,
+                "type": "anime",
+                "name": "Adventure",
+                "url": "https://myanimelist.net/anime/genre/2/Adventure"
+            },
+            {
+                "mal_id": 8,
+                "type": "anime",
+                "name": "Drama",
+                "url": "https://myanimelist.net/anime/genre/8/Drama"
+            },
+            {
+                "mal_id": 10,
+                "type": "anime",
+                "name": "Fantasy",
+                "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [],
+        "demographics": [
+            {
+                "mal_id": 27,
+                "type": "anime",
+                "name": "Shounen",
+                "url": "https://myanimelist.net/anime/genre/27/Shounen"
+            }
+        ],
+        "relations": [
+            {
+                "relation": "Prequel",
+                "entry": [
+                    {
+                        "mal_id": 2143,
+                        "type": "anime",
+                        "name": "Saiyuuki Reload: Burial",
+                        "url": "https://myanimelist.net/anime/2143/Saiyuuki_Reload__Burial"
+                    }
+                ]
+            },
+            {
+                "relation": "Sequel",
+                "entry": [
+                    {
+                        "mal_id": 130,
+                        "type": "anime",
+                        "name": "Saiyuuki Reload",
+                        "url": "https://myanimelist.net/anime/130/Saiyuuki_Reload"
+                    }
+                ]
+            },
+            {
+                "relation": "Adaptation",
+                "entry": [
+                    {
+                        "mal_id": 509,
+                        "type": "manga",
+                        "name": "Saiyuuki",
+                        "url": "https://myanimelist.net/manga/509/Saiyuuki"
+                    }
+                ]
+            },
+            {
+                "relation": "Side Story",
+                "entry": [
+                    {
+                        "mal_id": 3218,
+                        "type": "anime",
+                        "name": "Saiyuuki (OVA)",
+                        "url": "https://myanimelist.net/anime/3218/Saiyuuki_OVA"
+                    },
+                    {
+                        "mal_id": 484,
+                        "type": "anime",
+                        "name": "Gensoumaden Saiyuuki Movie: Requiem - Erabarezaru Mono e no Chinkonka",
+                        "url": "https://myanimelist.net/anime/484/Gensoumaden_Saiyuuki_Movie__Requiem_-_Erabarezaru_Mono_e_no_Chinkonka"
+                    },
+                    {
+                        "mal_id": 4476,
+                        "type": "anime",
+                        "name": "Gensoumaden Saiyuuki: Kibou no Zaika",
+                        "url": "https://myanimelist.net/anime/4476/Gensoumaden_Saiyuuki__Kibou_no_Zaika"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [
+                "1: \"For Real\" by Hidenori Tokuyama (eps 1-26)",
+                "2: \"Still Time\" by Hidenori Tokuyama (eps 27-50)"
+            ],
+            "endings": [
+                "1: \"Tightrope\" by Charcoal Filter (eps 1-26)",
+                "2: \"Alone\" by Mikuni Shimokawa (eps 27-50)"
+            ]
+        },
+        "external": [
+            {
+                "name": "Official Site",
+                "url": "http://www.tv-tokyo.co.jp/saiyuki/"
+            },
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=488"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=965"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Gensomaden_Saiyuki"
+            }
+        ],
+        "streaming": [
+            {
+                "name": "HIDIVE",
+                "url": "https://www.hidive.com/tv/saiyuki"
+            },
+            {
+                "name": "Netflix",
+                "url": "https://www.netflix.com/"
+            }
+        ]
+    },
+    "episodes": [
+        {
+            "mal_id": 1,
+            "url": null,
+            "title": "To the Distant West",
+            "title_japanese": "はるかなるの西へ",
+            "title_romanji": "Harukanaru Nishi e ",
+            "aired": "2000-04-04T00:00:00+00:00",
+            "score": 3.7,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=204431"
+        },
+        {
+            "mal_id": 2,
+            "url": null,
+            "title": "A Guide to the Nether World",
+            "title_japanese": "黄泉への案内人",
+            "title_romanji": "Yomi e no Annainin ",
+            "aired": "2000-04-11T00:00:00+00:00",
+            "score": 4.27,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=32956"
+        },
+        {
+            "mal_id": 3,
+            "url": null,
+            "title": "Where the Gods Are",
+            "title_japanese": "神のいる場所",
+            "title_romanji": "Kami no Iru Basho ",
+            "aired": "2000-04-18T00:00:00+00:00",
+            "score": 4.29,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=204681"
+        },
+        {
+            "mal_id": 4,
+            "url": null,
+            "title": "Crimson Tears",
+            "title_japanese": "茜色の涙",
+            "title_romanji": "Akaneiro no Namida ",
+            "aired": "2000-04-25T00:00:00+00:00",
+            "score": 4.2,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=204702"
+        },
+        {
+            "mal_id": 5,
+            "url": null,
+            "title": "A Beautiful Assassin",
+            "title_japanese": "美しき暗殺者",
+            "title_romanji": "Utsukushiki Ansatsusha ",
+            "aired": "2000-05-02T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=205261"
+        },
+        {
+            "mal_id": 6,
+            "url": null,
+            "title": "Unnatural Tailsmanic Monk",
+            "title_japanese": "呪符の怪僧",
+            "title_romanji": "Jufu no Kaisou ",
+            "aired": "2000-05-09T00:00:00+00:00",
+            "score": 4.22,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=32980"
+        },
+        {
+            "mal_id": 7,
+            "url": null,
+            "title": "A Twilight Farewell",
+            "title_japanese": "黄昏の別れ",
+            "title_romanji": "Tosogare no Wakare ",
+            "aired": "2000-05-16T00:00:00+00:00",
+            "score": 4.8,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=205683"
+        },
+        {
+            "mal_id": 8,
+            "url": null,
+            "title": "The Man Who Foretells Death",
+            "title_japanese": "師を占う男",
+            "title_romanji": "Shi wo Uranau Otoko ",
+            "aired": "2000-05-23T00:00:00+00:00",
+            "score": 5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=205688"
+        },
+        {
+            "mal_id": 9,
+            "url": null,
+            "title": "Fight Party",
+            "title_japanese": "戦いの宴",
+            "title_romanji": "Tatakai no Utage ",
+            "aired": "2000-05-30T00:00:00+00:00",
+            "score": 4.33,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=205811"
+        },
+        {
+            "mal_id": 10,
+            "url": null,
+            "title": "False Saviors",
+            "title_japanese": "偽りの救世主",
+            "title_romanji": "Itsuwari no Kyuuseishu ",
+            "aired": "2000-06-06T00:00:00+00:00",
+            "score": 4.38,
+            "filler": true,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=33024"
+        },
+        {
+            "mal_id": 11,
+            "url": null,
+            "title": "The Laughing Grim Reaper",
+            "title_japanese": "笑う死神",
+            "title_romanji": "Warau Shinigami ",
+            "aired": "2000-06-13T00:00:00+00:00",
+            "score": 4.33,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=205930"
+        },
+        {
+            "mal_id": 12,
+            "url": null,
+            "title": "Battle Against the Darkness",
+            "title_japanese": "闇との攻防",
+            "title_romanji": "Yami to no Koubou ",
+            "aired": "2000-06-20T00:00:00+00:00",
+            "score": 4.75,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=33025"
+        },
+        {
+            "mal_id": 13,
+            "url": null,
+            "title": "Fruit That Summons Death",
+            "title_japanese": "死を呼ぶ果実",
+            "title_romanji": "Shi wo Yobu Kajitsu ",
+            "aired": "2000-06-27T00:00:00+00:00",
+            "score": 3,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=33026"
+        },
+        {
+            "mal_id": 14,
+            "url": null,
+            "title": "Their Promise",
+            "title_japanese": "ふたりの約束",
+            "title_romanji": "Futari no Yakusoku ",
+            "aired": "2000-07-04T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=33029"
+        },
+        {
+            "mal_id": 15,
+            "url": null,
+            "title": "The Binding Spell of Crimson",
+            "title_japanese": "紅の呪縛",
+            "title_romanji": "Aka no Jubaku ",
+            "aired": "2000-07-11T00:00:00+00:00",
+            "score": 4.69,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=33031"
+        },
+        {
+            "mal_id": 16,
+            "url": null,
+            "title": "An Ode to the Living",
+            "title_japanese": "生者への讃歌",
+            "title_romanji": "Seija e no Sanka ",
+            "aired": "2000-07-18T00:00:00+00:00",
+            "score": 4.8,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=608479"
+        },
+        {
+            "mal_id": 17,
+            "url": null,
+            "title": "Eternal Paradise",
+            "title_japanese": "終りなき楽園",
+            "title_romanji": "Owarinaki Rakuen ",
+            "aired": "2000-07-25T00:00:00+00:00",
+            "score": 3.86,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=608489"
+        },
+        {
+            "mal_id": 18,
+            "url": null,
+            "title": "The Truth of Justice",
+            "title_japanese": "正義の真実",
+            "title_romanji": "Seigi no Shinjitsu ",
+            "aired": "2000-08-01T00:00:00+00:00",
+            "score": 3,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=608541"
+        },
+        {
+            "mal_id": 19,
+            "url": null,
+            "title": "Maidens of Sorrow",
+            "title_japanese": "嘆きの乙女たち",
+            "title_romanji": "Nageki no Otometachi ",
+            "aired": "2000-08-08T00:00:00+00:00",
+            "score": 3,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=252227"
+        },
+        {
+            "mal_id": 20,
+            "url": null,
+            "title": "The Quicksand Trap",
+            "title_japanese": "流砂の罠",
+            "title_romanji": "Ryuusa no Wana ",
+            "aired": "2000-08-15T00:00:00+00:00",
+            "score": 3,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=288211"
+        },
+        {
+            "mal_id": 21,
+            "url": null,
+            "title": "Berserking Towards Destruction / Selfish",
+            "title_japanese": "破滅への暴走",
+            "title_romanji": "Hametsu e no Bousou ",
+            "aired": "2000-08-22T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=288284"
+        },
+        {
+            "mal_id": 22,
+            "url": null,
+            "title": "The End of Battle",
+            "title_japanese": "闘いの果て",
+            "title_romanji": "Tatakai no Hate ",
+            "aired": "2000-08-29T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=609847"
+        },
+        {
+            "mal_id": 23,
+            "url": null,
+            "title": "The Price of Submission",
+            "title_japanese": "服従の代価",
+            "title_romanji": "Fukujuu no Daika ",
+            "aired": "2000-09-05T00:00:00+00:00",
+            "score": 2.67,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=609853"
+        },
+        {
+            "mal_id": 24,
+            "url": null,
+            "title": "Crimson Bond",
+            "title_japanese": "紅の絆",
+            "title_romanji": "Aka no Kizuna ",
+            "aired": "2000-09-12T00:00:00+00:00",
+            "score": 3.33,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=609859"
+        },
+        {
+            "mal_id": 25,
+            "url": null,
+            "title": "Horrifying Assassin!",
+            "title_japanese": "戦慄の刺客",
+            "title_romanji": "Senritsu no Shikaku! ",
+            "aired": "2000-09-26T00:00:00+00:00",
+            "score": 4.5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=609865"
+        },
+        {
+            "mal_id": 26,
+            "url": null,
+            "title": "The Cry That Does Not Reach",
+            "title_japanese": "届かざる叫び",
+            "title_romanji": "Todokazaru Sakebi ",
+            "aired": "2000-10-03T00:00:00+00:00",
+            "score": 3.67,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=609899"
+        },
+        {
+            "mal_id": 27,
+            "url": null,
+            "title": "The War Prince Descends",
+            "title_japanese": "降臨・闘神太子",
+            "title_romanji": "Kourin Toushin Taishi ",
+            "aired": "2000-10-10T00:00:00+00:00",
+            "score": 3.67,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=609901"
+        },
+        {
+            "mal_id": 28,
+            "url": null,
+            "title": "The Launch of Rebellion",
+            "title_japanese": "反逆の狼煙",
+            "title_romanji": "Honjyaku no Noroshi ",
+            "aired": "2000-10-17T00:00:00+00:00",
+            "score": 2.5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=609909"
+        },
+        {
+            "mal_id": 29,
+            "url": null,
+            "title": "The Fall of Houtou Castle",
+            "title_japanese": "吠登城・陥落",
+            "title_romanji": "Houtoujou Kanraku ",
+            "aired": "2000-10-24T00:00:00+00:00",
+            "score": 3,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=609917"
+        },
+        {
+            "mal_id": 30,
+            "url": null,
+            "title": "An Invitation to Hell",
+            "title_japanese": "地獄への招待状",
+            "title_romanji": "Jigoku e no Shoutaijou ",
+            "aired": "2000-10-31T00:00:00+00:00",
+            "score": 3.75,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=609951"
+        },
+        {
+            "mal_id": 31,
+            "url": null,
+            "title": "The Arrogance of the Gods",
+            "title_japanese": "神々の驕り",
+            "title_romanji": "Kamigami no Ogori ",
+            "aired": "2000-11-07T00:00:00+00:00",
+            "score": 2.5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=609977"
+        },
+        {
+            "mal_id": 32,
+            "url": null,
+            "title": "The Pride of Clowns",
+            "title_japanese": "道化師の誇り",
+            "title_romanji": "Doukeshi no Hokori ",
+            "aired": "2000-11-14T00:00:00+00:00",
+            "score": 3.67,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=610123"
+        },
+        {
+            "mal_id": 33,
+            "url": null,
+            "title": "Dried Up Tears",
+            "title_japanese": "枯れた泪",
+            "title_romanji": "Kareta Namida ",
+            "aired": "2000-11-21T00:00:00+00:00",
+            "score": 3.5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=610523"
+        },
+        {
+            "mal_id": 34,
+            "url": null,
+            "title": "The War Prince Once Again",
+            "title_japanese": "闘神再び",
+            "title_romanji": "Toushin Futatabi ",
+            "aired": "2000-11-28T00:00:00+00:00",
+            "score": 3,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=610555"
+        },
+        {
+            "mal_id": 35,
+            "url": null,
+            "title": "Solitary Soul",
+            "title_japanese": "孤独の魂",
+            "title_romanji": "Kodoku no Tamashii ",
+            "aired": "2000-12-05T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=610749"
+        },
+        {
+            "mal_id": 36,
+            "url": null,
+            "title": "Crimson Flower",
+            "title_japanese": "紅い花",
+            "title_romanji": "Akai Hana ",
+            "aired": "2000-12-12T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=610761"
+        },
+        {
+            "mal_id": 37,
+            "url": null,
+            "title": "The Smile That Was Locked Away",
+            "title_japanese": "閉ざされた微笑",
+            "title_romanji": "Tozasareta Hohoemi ",
+            "aired": "2000-12-19T00:00:00+00:00",
+            "score": 3,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=610769"
+        },
+        {
+            "mal_id": 38,
+            "url": null,
+            "title": "Unfulfilled Promise",
+            "title_japanese": "はたせぬ約束",
+            "title_romanji": "Hatasenu Yakusoku ",
+            "aired": "2000-12-26T00:00:00+00:00",
+            "score": 3,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=610937"
+        },
+        {
+            "mal_id": 39,
+            "url": null,
+            "title": "Rain",
+            "title_japanese": "雨",
+            "title_romanji": "Ame ",
+            "aired": "2001-01-09T00:00:00+00:00",
+            "score": 3.67,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=299570"
+        },
+        {
+            "mal_id": 40,
+            "url": null,
+            "title": "The Irate Sun",
+            "title_japanese": "不機嫌な太陽",
+            "title_romanji": "Fukigen na Taiyou ",
+            "aired": "2001-01-16T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=610969"
+        },
+        {
+            "mal_id": 41,
+            "url": null,
+            "title": "Quiet Expulsion",
+            "title_japanese": "静かなる波紋",
+            "title_romanji": "Shizukanaru Hamon ",
+            "aired": "2001-01-23T00:00:00+00:00",
+            "score": 4.25,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=610987"
+        },
+        {
+            "mal_id": 42,
+            "url": null,
+            "title": "Unforgettable View",
+            "title_japanese": "忘れえぬ風景",
+            "title_romanji": "Wasureenu Fuukei ",
+            "aired": "2001-01-30T00:00:00+00:00",
+            "score": 3.75,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=601145"
+        },
+        {
+            "mal_id": 43,
+            "url": null,
+            "title": "False Town",
+            "title_japanese": "虚像の街",
+            "title_romanji": "Kyozou no Machi ",
+            "aired": "2001-02-06T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=611011"
+        },
+        {
+            "mal_id": 44,
+            "url": null,
+            "title": "Scripture Stolen",
+            "title_japanese": "経文強奪",
+            "title_romanji": "Kyoumon Goudatsu ",
+            "aired": "2001-02-13T00:00:00+00:00",
+            "score": 3,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=611027"
+        },
+        {
+            "mal_id": 45,
+            "url": null,
+            "title": "Before Dawn",
+            "title_japanese": "夜明け前",
+            "title_romanji": "Yoake Mae ",
+            "aired": "2001-02-20T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=611035"
+        },
+        {
+            "mal_id": 46,
+            "url": null,
+            "title": "The Trembling Earth",
+            "title_japanese": "揺らぐ大地",
+            "title_romanji": "Yuragu Daichi ",
+            "aired": "2001-02-27T00:00:00+00:00",
+            "score": 3.33,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=611039"
+        },
+        {
+            "mal_id": 47,
+            "url": null,
+            "title": "Kaizai",
+            "title_japanese": "戒罪",
+            "title_romanji": "Kaizai ",
+            "aired": "2001-03-06T00:00:00+00:00",
+            "score": 3.67,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=611091"
+        },
+        {
+            "mal_id": 48,
+            "url": null,
+            "title": "Door to Freedom",
+            "title_japanese": "自由への扉",
+            "title_romanji": "Jiyuu e no Tobira ",
+            "aired": "2001-03-13T00:00:00+00:00",
+            "score": 3.5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=611319"
+        },
+        {
+            "mal_id": 49,
+            "url": null,
+            "title": "Shining Paradise",
+            "title_japanese": "輝く楽園",
+            "title_romanji": "Kagayaku Rakuen ",
+            "aired": "2001-03-20T00:00:00+00:00",
+            "score": 3.75,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=611427"
+        },
+        {
+            "mal_id": 50,
+            "url": null,
+            "title": "Westward",
+            "title_japanese": "西へ",
+            "title_romanji": "Nishi e ",
+            "aired": "2001-03-27T00:00:00+00:00",
+            "score": 4.14,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=301447"
+        }
+    ]
+}

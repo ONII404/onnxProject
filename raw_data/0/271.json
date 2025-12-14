@@ -1,0 +1,512 @@
+{
+    "id": 271,
+    "fetched_at": "Sun Dec 14 12:53:28 2025",
+    "metadata": {
+        "mal_id": 271,
+        "url": "https://myanimelist.net/anime/271/Gad_Guard",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/5/12863.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/5/12863t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/5/12863l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/5/12863.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/5/12863t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/5/12863l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": "https://www.youtube-nocookie.com/embed/3PUGaqvcxY8?enablejsapi=1&wmode=opaque&autoplay=1",
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Gad Guard"
+            },
+            {
+                "type": "Japanese",
+                "title": "ガドガード"
+            }
+        ],
+        "title": "Gad Guard",
+        "title_english": null,
+        "title_japanese": "ガドガード",
+        "title_synonyms": [],
+        "type": "TV",
+        "source": "Original",
+        "episodes": 26,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "2003-04-16T00:00:00+00:00",
+            "to": "2003-09-25T00:00:00+00:00",
+            "prop": {
+                "from": {
+                    "day": 16,
+                    "month": 4,
+                    "year": 2003
+                },
+                "to": {
+                    "day": 25,
+                    "month": 9,
+                    "year": 2003
+                }
+            },
+            "string": "Apr 16, 2003 to Sep 25, 2003"
+        },
+        "duration": "23 min per ep",
+        "rating": "PG-13 - Teens 13 or older",
+        "score": 6.63,
+        "scored_by": 5258,
+        "rank": 6523,
+        "popularity": 5910,
+        "members": 15586,
+        "favorites": 29,
+        "synopsis": "Several hundred years in the future, the resources of the Earth runs out, and the progression of the human race has stagnated. The world is now divided into \"Units.\" A boy named Hajiki Sanada lives with his mother and sister in Unit 74, in a place called \"Night Town,\" in which all electricity is shut down at midnight. The key in this story is an object called the GAD. GADs have the ability to reconstruct materials while reacting to feelings of an organic life. The size and shape of the resulting product seem to be different depending on the kinds of feelings that the life possesses. When Hajiki comes in contact with one by accident, it transforms into a huge robot—a Tekkoudo, or \"Iron Giant\"—which Hajiki names Lightning. And soon he realizes that he isn't the only one with a Tekkoudo, and must find out how to deal with those others who he feels are the \"same\" as himself.\n\n(Source: ANN)",
+        "background": "",
+        "season": "spring",
+        "year": 2003,
+        "broadcast": {
+            "day": "Thursdays",
+            "time": "02:58",
+            "timezone": "Asia/Tokyo",
+            "string": "Thursdays at 02:58 (JST)"
+        },
+        "producers": [
+            {
+                "mal_id": 34,
+                "type": "anime",
+                "name": "HAL Film Maker",
+                "url": "https://myanimelist.net/anime/producer/34/HAL_Film_Maker"
+            },
+            {
+                "mal_id": 108,
+                "type": "anime",
+                "name": "Media Factory",
+                "url": "https://myanimelist.net/anime/producer/108/Media_Factory"
+            },
+            {
+                "mal_id": 170,
+                "type": "anime",
+                "name": "Imagica",
+                "url": "https://myanimelist.net/anime/producer/170/Imagica"
+            },
+            {
+                "mal_id": 2135,
+                "type": "anime",
+                "name": "Imagine",
+                "url": "https://myanimelist.net/anime/producer/2135/Imagine"
+            }
+        ],
+        "licensors": [
+            {
+                "mal_id": 102,
+                "type": "anime",
+                "name": "Funimation",
+                "url": "https://myanimelist.net/anime/producer/102/Funimation"
+            },
+            {
+                "mal_id": 1459,
+                "type": "anime",
+                "name": "Geneon Entertainment USA",
+                "url": "https://myanimelist.net/anime/producer/1459/Geneon_Entertainment_USA"
+            }
+        ],
+        "studios": [
+            {
+                "mal_id": 3,
+                "type": "anime",
+                "name": "Gonzo",
+                "url": "https://myanimelist.net/anime/producer/3/Gonzo"
+            },
+            {
+                "mal_id": 827,
+                "type": "anime",
+                "name": "Amber Film Works",
+                "url": "https://myanimelist.net/anime/producer/827/Amber_Film_Works"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 2,
+                "type": "anime",
+                "name": "Adventure",
+                "url": "https://myanimelist.net/anime/genre/2/Adventure"
+            },
+            {
+                "mal_id": 24,
+                "type": "anime",
+                "name": "Sci-Fi",
+                "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [
+            {
+                "mal_id": 18,
+                "type": "anime",
+                "name": "Mecha",
+                "url": "https://myanimelist.net/anime/genre/18/Mecha"
+            }
+        ],
+        "demographics": [],
+        "relations": [],
+        "theme": {
+            "openings": [
+                "\"boomerang boogie\" by Pe'z"
+            ],
+            "endings": [
+                "\"Song for My Buffalo\" by PE'Z"
+            ]
+        },
+        "external": [
+            {
+                "name": "Official Site",
+                "url": "https://www.gonzo.co.jp/works/gadguard/index.html"
+            },
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=692"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=214"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Gad_Guard"
+            }
+        ],
+        "streaming": [
+            {
+                "name": "Crunchyroll",
+                "url": "http://www.crunchyroll.com/series-275735"
+            }
+        ]
+    },
+    "episodes": [
+        {
+            "mal_id": 1,
+            "url": "https://myanimelist.net/anime/271/Gad_Guard/episode/1",
+            "title": "Looking Up At the Same Sky",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 4.38,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1132969"
+        },
+        {
+            "mal_id": 2,
+            "url": "https://myanimelist.net/anime/271/Gad_Guard/episode/2",
+            "title": "Putting the Pieces Together",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 3.67,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1133017"
+        },
+        {
+            "mal_id": 3,
+            "url": "https://myanimelist.net/anime/271/Gad_Guard/episode/3",
+            "title": "On a Street Corner in Night Town",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 4,
+            "url": "https://myanimelist.net/anime/271/Gad_Guard/episode/4",
+            "title": "With Bright Eyes",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 4.5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1150687"
+        },
+        {
+            "mal_id": 5,
+            "url": "https://myanimelist.net/anime/271/Gad_Guard/episode/5",
+            "title": "And Then the Rain Will Fall",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 4.67,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1150707"
+        },
+        {
+            "mal_id": 6,
+            "url": "https://myanimelist.net/anime/271/Gad_Guard/episode/6",
+            "title": "Five Masks",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 7,
+            "url": "https://myanimelist.net/anime/271/Gad_Guard/episode/7",
+            "title": "If I Can Fly",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 4.67,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1150733"
+        },
+        {
+            "mal_id": 8,
+            "url": "https://myanimelist.net/anime/271/Gad_Guard/episode/8",
+            "title": "Two Lost Souls",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 9,
+            "url": "https://myanimelist.net/anime/271/Gad_Guard/episode/9",
+            "title": "Snow Melts the Heart",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1150847"
+        },
+        {
+            "mal_id": 10,
+            "url": "https://myanimelist.net/anime/271/Gad_Guard/episode/10",
+            "title": "Bundles of Bills in the Setting Sun",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=251398"
+        },
+        {
+            "mal_id": 11,
+            "url": "https://myanimelist.net/anime/271/Gad_Guard/episode/11",
+            "title": "No Returning to Rainbow Town",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 4.5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1150887"
+        },
+        {
+            "mal_id": 12,
+            "url": "https://myanimelist.net/anime/271/Gad_Guard/episode/12",
+            "title": "Bluebird",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 13,
+            "url": "https://myanimelist.net/anime/271/Gad_Guard/episode/13",
+            "title": "Dwellers of the Dark",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1150949"
+        },
+        {
+            "mal_id": 14,
+            "url": "https://myanimelist.net/anime/271/Gad_Guard/episode/14",
+            "title": "Seeking Lost Time",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 15,
+            "url": "https://myanimelist.net/anime/271/Gad_Guard/episode/15",
+            "title": "A Garden in the Sun",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 16,
+            "url": "https://myanimelist.net/anime/271/Gad_Guard/episode/16",
+            "title": "The Day We Bare Our Fangs",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1151699"
+        },
+        {
+            "mal_id": 17,
+            "url": "https://myanimelist.net/anime/271/Gad_Guard/episode/17",
+            "title": "Guns - Swords - Beasts",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1151793"
+        },
+        {
+            "mal_id": 18,
+            "url": "https://myanimelist.net/anime/271/Gad_Guard/episode/18",
+            "title": "The Logic of Those Who Leave",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1151875"
+        },
+        {
+            "mal_id": 19,
+            "url": "https://myanimelist.net/anime/271/Gad_Guard/episode/19",
+            "title": "A Road Companion",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1152025"
+        },
+        {
+            "mal_id": 20,
+            "url": "https://myanimelist.net/anime/271/Gad_Guard/episode/20",
+            "title": "The End of the World",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 21,
+            "url": "https://myanimelist.net/anime/271/Gad_Guard/episode/21",
+            "title": "Blue Slumber",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 22,
+            "url": "https://myanimelist.net/anime/271/Gad_Guard/episode/22",
+            "title": "Spiral Dance of Glass",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 23,
+            "url": "https://myanimelist.net/anime/271/Gad_Guard/episode/23",
+            "title": "The Atoning Man",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 24,
+            "url": "https://myanimelist.net/anime/271/Gad_Guard/episode/24",
+            "title": "The Will to Aspire to the Heavens",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1152207"
+        },
+        {
+            "mal_id": 25,
+            "url": "https://myanimelist.net/anime/271/Gad_Guard/episode/25",
+            "title": "Time For the Sky",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1152223"
+        },
+        {
+            "mal_id": 26,
+            "url": "https://myanimelist.net/anime/271/Gad_Guard/episode/26",
+            "title": "Young Traveler",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 4.43,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1152269"
+        }
+    ]
+}

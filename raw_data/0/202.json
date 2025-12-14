@@ -1,0 +1,553 @@
+{
+    "id": 202,
+    "fetched_at": "Sun Dec 14 12:46:42 2025",
+    "metadata": {
+        "mal_id": 202,
+        "url": "https://myanimelist.net/anime/202/Wolfs_Rain",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/5/59403.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/5/59403t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/5/59403l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/5/59403.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/5/59403t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/5/59403l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": "https://www.youtube-nocookie.com/embed/6ydbrdQXMeM?enablejsapi=1&wmode=opaque&autoplay=1",
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Wolf's Rain"
+            },
+            {
+                "type": "Synonym",
+                "title": "Wolf Rain"
+            },
+            {
+                "type": "Japanese",
+                "title": "ウルフズレイン"
+            },
+            {
+                "type": "English",
+                "title": "Wolf's Rain"
+            }
+        ],
+        "title": "Wolf's Rain",
+        "title_english": "Wolf's Rain",
+        "title_japanese": "ウルフズレイン",
+        "title_synonyms": [
+            "Wolf Rain"
+        ],
+        "type": "TV",
+        "source": "Original",
+        "episodes": 26,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "2003-01-07T00:00:00+00:00",
+            "to": "2003-07-29T00:00:00+00:00",
+            "prop": {
+                "from": {
+                    "day": 7,
+                    "month": 1,
+                    "year": 2003
+                },
+                "to": {
+                    "day": 29,
+                    "month": 7,
+                    "year": 2003
+                }
+            },
+            "string": "Jan 7, 2003 to Jul 29, 2003"
+        },
+        "duration": "23 min per ep",
+        "rating": "PG-13 - Teens 13 or older",
+        "score": 7.79,
+        "scored_by": 137541,
+        "rank": 1112,
+        "popularity": 767,
+        "members": 348518,
+        "favorites": 5912,
+        "synopsis": "In a dying world, there exists an ancient legend: when the world ends, the gateway to paradise will be opened. This utopia is the sole salvation for the remnants of life in this barren land, but the legend also dictates that only wolves can find their way to this mythical realm. Though long thought to be extinct, wolves still exist and live amongst humans, disguising themselves through elaborate illusions. \n\nA lone wolf named Kiba finds himself drawn by an intoxicating scent to Freeze City, an impoverished town under the rule of the callous Lord Orkham. Here, Kiba discovers that wolves Hige, Tsume, and Toboe have been drawn in by the same aroma. By following the fragrance of \"Lunar Flowers,\" said to be the key to opening the door to their ideal world, the wolves set off on a journey across desolate landscapes and crumbling cities to find their legendary promised land. However, they are not the only ones seeking paradise, and those with more sinister intentions will do anything in their power to reach it first.\n\n[Written by MAL Rewrite]",
+        "background": "",
+        "season": "winter",
+        "year": 2003,
+        "broadcast": {
+            "day": "Tuesdays",
+            "time": "02:10",
+            "timezone": "Asia/Tokyo",
+            "string": "Tuesdays at 02:10 (JST)"
+        },
+        "producers": [
+            {
+                "mal_id": 23,
+                "type": "anime",
+                "name": "Bandai Visual",
+                "url": "https://myanimelist.net/anime/producer/23/Bandai_Visual"
+            },
+            {
+                "mal_id": 142,
+                "type": "anime",
+                "name": "Asatsu DK",
+                "url": "https://myanimelist.net/anime/producer/142/Asatsu_DK"
+            },
+            {
+                "mal_id": 169,
+                "type": "anime",
+                "name": "Fuji TV",
+                "url": "https://myanimelist.net/anime/producer/169/Fuji_TV"
+            }
+        ],
+        "licensors": [
+            {
+                "mal_id": 102,
+                "type": "anime",
+                "name": "Funimation",
+                "url": "https://myanimelist.net/anime/producer/102/Funimation"
+            },
+            {
+                "mal_id": 233,
+                "type": "anime",
+                "name": "Bandai Entertainment",
+                "url": "https://myanimelist.net/anime/producer/233/Bandai_Entertainment"
+            }
+        ],
+        "studios": [
+            {
+                "mal_id": 4,
+                "type": "anime",
+                "name": "Bones",
+                "url": "https://myanimelist.net/anime/producer/4/Bones"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 1,
+                "type": "anime",
+                "name": "Action",
+                "url": "https://myanimelist.net/anime/genre/1/Action"
+            },
+            {
+                "mal_id": 2,
+                "type": "anime",
+                "name": "Adventure",
+                "url": "https://myanimelist.net/anime/genre/2/Adventure"
+            },
+            {
+                "mal_id": 8,
+                "type": "anime",
+                "name": "Drama",
+                "url": "https://myanimelist.net/anime/genre/8/Drama"
+            },
+            {
+                "mal_id": 10,
+                "type": "anime",
+                "name": "Fantasy",
+                "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+            },
+            {
+                "mal_id": 7,
+                "type": "anime",
+                "name": "Mystery",
+                "url": "https://myanimelist.net/anime/genre/7/Mystery"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [],
+        "demographics": [],
+        "relations": [
+            {
+                "relation": "Sequel",
+                "entry": [
+                    {
+                        "mal_id": 1023,
+                        "type": "anime",
+                        "name": "Wolf's Rain OVA",
+                        "url": "https://myanimelist.net/anime/1023/Wolfs_Rain_OVA"
+                    }
+                ]
+            },
+            {
+                "relation": "Adaptation",
+                "entry": [
+                    {
+                        "mal_id": 357,
+                        "type": "manga",
+                        "name": "Wolf's Rain",
+                        "url": "https://myanimelist.net/manga/357/Wolfs_Rain"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [
+                "\"Stray\" by Steve Conte (eps 1-25)"
+            ],
+            "endings": [
+                "1: \"gravity\" by Maaya Sakamoto (坂本真綾) (eps 1-25)",
+                "2: \"Tell Me What the Rain Knows\" by Maaya Sakamoto (坂本真綾) (eps 26)"
+            ]
+        },
+        "external": [
+            {
+                "name": "Official Site",
+                "url": "https://www.bones.co.jp/work/wolfs-rain/"
+            },
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=449"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=1806"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "http://en.wikipedia.org/wiki/Wolf%27s_Rain"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "https://ja.wikipedia.org/wiki/WOLF'S_RAIN"
+            },
+            {
+                "name": "Syoboi",
+                "url": "https://cal.syoboi.jp/tid/7"
+            }
+        ],
+        "streaming": [
+            {
+                "name": "Crunchyroll",
+                "url": "http://www.crunchyroll.com/series-274547"
+            }
+        ]
+    },
+    "episodes": [
+        {
+            "mal_id": 1,
+            "url": "https://myanimelist.net/anime/202/Wolfs_Rain/episode/1",
+            "title": "City of Howls",
+            "title_japanese": "咆哮の街角",
+            "title_romanji": "Houkou no Machikado ",
+            "aired": "2003-01-07T00:00:00+00:00",
+            "score": 4.32,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=126970"
+        },
+        {
+            "mal_id": 2,
+            "url": "https://myanimelist.net/anime/202/Wolfs_Rain/episode/2",
+            "title": "Toboe, Who Doesn't Howl",
+            "title_japanese": "哭かない遠吠え",
+            "title_romanji": "Nakanai Toboe ",
+            "aired": "2003-01-14T00:00:00+00:00",
+            "score": 4.38,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=61379"
+        },
+        {
+            "mal_id": 3,
+            "url": "https://myanimelist.net/anime/202/Wolfs_Rain/episode/3",
+            "title": "Bad Fellow",
+            "title_japanese": "Bad Fellow",
+            "title_romanji": "Bad Fellow ",
+            "aired": "2003-01-21T00:00:00+00:00",
+            "score": 4.35,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=126971"
+        },
+        {
+            "mal_id": 4,
+            "url": "https://myanimelist.net/anime/202/Wolfs_Rain/episode/4",
+            "title": "Scars in the Wasteland",
+            "title_japanese": "荒野の傷跡",
+            "title_romanji": "Kouya no Kizuato ",
+            "aired": "2003-01-28T00:00:00+00:00",
+            "score": 4.25,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=127287"
+        },
+        {
+            "mal_id": 5,
+            "url": "https://myanimelist.net/anime/202/Wolfs_Rain/episode/5",
+            "title": "Fallen Wolves",
+            "title_japanese": "堕ちた狼",
+            "title_romanji": "Ochita Ookami ",
+            "aired": "2003-02-04T00:00:00+00:00",
+            "score": 4.37,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=206994"
+        },
+        {
+            "mal_id": 6,
+            "url": "https://myanimelist.net/anime/202/Wolfs_Rain/episode/6",
+            "title": "The Successors",
+            "title_japanese": "受け継ぐもの",
+            "title_romanji": "Uketsugu Mono ",
+            "aired": "2003-02-25T00:00:00+00:00",
+            "score": 4.33,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=207003"
+        },
+        {
+            "mal_id": 7,
+            "url": "https://myanimelist.net/anime/202/Wolfs_Rain/episode/7",
+            "title": "The Flower Maiden",
+            "title_japanese": "花の少女",
+            "title_romanji": "Hana no Shoujo ",
+            "aired": "2003-03-04T00:00:00+00:00",
+            "score": 4.38,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=207010"
+        },
+        {
+            "mal_id": 8,
+            "url": "https://myanimelist.net/anime/202/Wolfs_Rain/episode/8",
+            "title": "Song of Sleep",
+            "title_japanese": "眠りの歌",
+            "title_romanji": "Nemuri no Uta ",
+            "aired": "2003-03-11T00:00:00+00:00",
+            "score": 4.38,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=207120"
+        },
+        {
+            "mal_id": 9,
+            "url": "https://myanimelist.net/anime/202/Wolfs_Rain/episode/9",
+            "title": "Misgivings",
+            "title_japanese": "疑惑",
+            "title_romanji": "Giwaku ",
+            "aired": "2003-03-18T00:00:00+00:00",
+            "score": 4.35,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=207707"
+        },
+        {
+            "mal_id": 10,
+            "url": "https://myanimelist.net/anime/202/Wolfs_Rain/episode/10",
+            "title": "Moon's Doom",
+            "title_japanese": "Moon's Doom",
+            "title_romanji": "Moon's Doom ",
+            "aired": "2003-04-08T00:00:00+00:00",
+            "score": 4.24,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=157041"
+        },
+        {
+            "mal_id": 11,
+            "url": "https://myanimelist.net/anime/202/Wolfs_Rain/episode/11",
+            "title": "Vanishing Point",
+            "title_japanese": "消失点",
+            "title_romanji": "Shoushitsu Ten ",
+            "aired": "2003-04-15T00:00:00+00:00",
+            "score": 4.35,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=28832"
+        },
+        {
+            "mal_id": 12,
+            "url": "https://myanimelist.net/anime/202/Wolfs_Rain/episode/12",
+            "title": "Don't Make Me Blue",
+            "title_japanese": "Don't Make Me Blue",
+            "title_romanji": "Don't Make Me Blue ",
+            "aired": "2003-04-22T00:00:00+00:00",
+            "score": 4.46,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=210811"
+        },
+        {
+            "mal_id": 13,
+            "url": "https://myanimelist.net/anime/202/Wolfs_Rain/episode/13",
+            "title": "Men's Lament",
+            "title_japanese": "男たちの哀歌",
+            "title_romanji": "Otoko-tachi no Aika ",
+            "aired": "2003-04-29T00:00:00+00:00",
+            "score": 4.31,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=31155"
+        },
+        {
+            "mal_id": 14,
+            "url": "https://myanimelist.net/anime/202/Wolfs_Rain/episode/14",
+            "title": "The Fallen Keep",
+            "title_japanese": "没落の城",
+            "title_romanji": "Botsuraku no Shiro ",
+            "aired": "2003-05-06T00:00:00+00:00",
+            "score": 4.43,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=211543"
+        },
+        {
+            "mal_id": 15,
+            "url": "https://myanimelist.net/anime/202/Wolfs_Rain/episode/15",
+            "title": "Grey Wolf",
+            "title_japanese": "灰色狼",
+            "title_romanji": "Haiiro Ookami ",
+            "aired": "2003-05-13T00:00:00+00:00",
+            "score": 2.71,
+            "filler": false,
+            "recap": true,
+            "forum_url": "https://myanimelist.net/forum/?topicid=74182"
+        },
+        {
+            "mal_id": 16,
+            "url": "https://myanimelist.net/anime/202/Wolfs_Rain/episode/16",
+            "title": "Dream Journey",
+            "title_japanese": "夢の旅路",
+            "title_romanji": "Yume no Tabiji ",
+            "aired": "2003-05-20T00:00:00+00:00",
+            "score": 2.53,
+            "filler": false,
+            "recap": true,
+            "forum_url": "https://myanimelist.net/forum/?topicid=212027"
+        },
+        {
+            "mal_id": 17,
+            "url": "https://myanimelist.net/anime/202/Wolfs_Rain/episode/17",
+            "title": "Scent of a Flower, Blood of a Wolf",
+            "title_japanese": "花の香り, 狼の血",
+            "title_romanji": "Hana no Kaori, Ookami no Chi ",
+            "aired": "2003-05-27T00:00:00+00:00",
+            "score": 2.73,
+            "filler": false,
+            "recap": true,
+            "forum_url": "https://myanimelist.net/forum/?topicid=212187"
+        },
+        {
+            "mal_id": 18,
+            "url": "https://myanimelist.net/anime/202/Wolfs_Rain/episode/18",
+            "title": "Men, Wolves, and the Book of the Moon",
+            "title_japanese": "人·狼·月の書",
+            "title_romanji": "Hito Okami Tsuki no Sho ",
+            "aired": "2003-06-03T00:00:00+00:00",
+            "score": 2.67,
+            "filler": false,
+            "recap": true,
+            "forum_url": "https://myanimelist.net/forum/?topicid=212279"
+        },
+        {
+            "mal_id": 19,
+            "url": "https://myanimelist.net/anime/202/Wolfs_Rain/episode/19",
+            "title": "A Dream of an Oasis",
+            "title_japanese": "オアシスの夢",
+            "title_romanji": "Oasis no Yume ",
+            "aired": "2003-06-10T00:00:00+00:00",
+            "score": 4.37,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=213297"
+        },
+        {
+            "mal_id": 20,
+            "url": "https://myanimelist.net/anime/202/Wolfs_Rain/episode/20",
+            "title": "CONSCIOUSLY",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": "2003-06-17T00:00:00+00:00",
+            "score": 4.53,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=47220"
+        },
+        {
+            "mal_id": 21,
+            "url": "https://myanimelist.net/anime/202/Wolfs_Rain/episode/21",
+            "title": "Battle's Red Glare",
+            "title_japanese": "戦いの狼煙",
+            "title_romanji": "Tatakai no Noroshi ",
+            "aired": "2003-06-24T00:00:00+00:00",
+            "score": 4.32,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=122504"
+        },
+        {
+            "mal_id": 22,
+            "url": "https://myanimelist.net/anime/202/Wolfs_Rain/episode/22",
+            "title": "Pieces of a Shooting Star",
+            "title_japanese": "流星の破片",
+            "title_romanji": "Ryusei no Hahen ",
+            "aired": "2003-07-01T00:00:00+00:00",
+            "score": 4.4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=122518"
+        },
+        {
+            "mal_id": 23,
+            "url": "https://myanimelist.net/anime/202/Wolfs_Rain/episode/23",
+            "title": "Heartbeat of the Black City",
+            "title_japanese": "黒い街の鼓動",
+            "title_romanji": "Kuroi Machi no Kodo ",
+            "aired": "2003-07-08T00:00:00+00:00",
+            "score": 4.32,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=215295"
+        },
+        {
+            "mal_id": 24,
+            "url": "https://myanimelist.net/anime/202/Wolfs_Rain/episode/24",
+            "title": "Scent of a Trap",
+            "title_japanese": "罠の匂い",
+            "title_romanji": "Wana no Nioi ",
+            "aired": "2003-07-15T00:00:00+00:00",
+            "score": 4.44,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=122536"
+        },
+        {
+            "mal_id": 25,
+            "url": "https://myanimelist.net/anime/202/Wolfs_Rain/episode/25",
+            "title": "False Memories",
+            "title_japanese": "過ちの記憶",
+            "title_romanji": "Ayamachi no Kioku ",
+            "aired": "2003-07-22T00:00:00+00:00",
+            "score": 4.51,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=122542"
+        },
+        {
+            "mal_id": 26,
+            "url": "https://myanimelist.net/anime/202/Wolfs_Rain/episode/26",
+            "title": "Moonlight Crucible",
+            "title_japanese": "月光炉",
+            "title_romanji": "Gekkoro ",
+            "aired": "2003-07-29T00:00:00+00:00",
+            "score": 4.43,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=122548"
+        }
+    ]
+}

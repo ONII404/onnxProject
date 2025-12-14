@@ -1,0 +1,142 @@
+{
+    "id": 6840,
+    "fetched_at": "Sun Dec 14 09:02:46 2025",
+    "metadata": {
+        "mal_id": 6840,
+        "url": "https://myanimelist.net/anime/6840/Maabou_no_Daikyousou",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/8/15844.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/8/15844t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/8/15844l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/8/15844.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/8/15844t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/8/15844l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Maabou no Daikyousou"
+            },
+            {
+                "type": "Synonym",
+                "title": "Mabo no Daikyoso"
+            },
+            {
+                "type": "Japanese",
+                "title": "マー坊の大競争"
+            },
+            {
+                "type": "English",
+                "title": "Mabo's Big Race"
+            }
+        ],
+        "title": "Maabou no Daikyousou",
+        "title_english": "Mabo's Big Race",
+        "title_japanese": "マー坊の大競争",
+        "title_synonyms": [
+            "Mabo no Daikyoso"
+        ],
+        "type": "Movie",
+        "source": "Original",
+        "episodes": 1,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "1936-01-01T00:00:00+00:00",
+            "to": null,
+            "prop": {
+                "from": {
+                    "day": 1,
+                    "month": 1,
+                    "year": 1936
+                },
+                "to": {
+                    "day": null,
+                    "month": null,
+                    "year": null
+                }
+            },
+            "string": "1936"
+        },
+        "duration": "1 min",
+        "rating": "G - All Ages",
+        "score": 4.59,
+        "scored_by": 730,
+        "rank": 14224,
+        "popularity": 13738,
+        "members": 1354,
+        "favorites": 0,
+        "synopsis": "A boy competes in various events during the Olympic games.  Short film from 1936.",
+        "background": "",
+        "season": null,
+        "year": null,
+        "broadcast": {
+            "day": null,
+            "time": null,
+            "timezone": null,
+            "string": null
+        },
+        "producers": [],
+        "licensors": [],
+        "studios": [],
+        "genres": [
+            {
+                "mal_id": 4,
+                "type": "anime",
+                "name": "Comedy",
+                "url": "https://myanimelist.net/anime/genre/4/Comedy"
+            },
+            {
+                "mal_id": 30,
+                "type": "anime",
+                "name": "Sports",
+                "url": "https://myanimelist.net/anime/genre/30/Sports"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [],
+        "demographics": [],
+        "relations": [
+            {
+                "relation": "Sequel",
+                "entry": [
+                    {
+                        "mal_id": 6841,
+                        "type": "anime",
+                        "name": "Maabou no Kinoshita Toukichirou",
+                        "url": "https://myanimelist.net/anime/6841/Maabou_no_Kinoshita_Toukichirou"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [],
+            "endings": []
+        },
+        "external": [
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=6724"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": []
+}

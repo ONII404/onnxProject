@@ -1,0 +1,151 @@
+{
+    "id": 6760,
+    "fetched_at": "Sun Dec 14 09:00:52 2025",
+    "metadata": {
+        "mal_id": 6760,
+        "url": "https://myanimelist.net/anime/6760/Cynical_Hysterie_Hour__Henshin",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/8/27149.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/8/27149t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/8/27149l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/8/27149.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/8/27149t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/8/27149l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Cynical Hysterie Hour: Henshin!"
+            },
+            {
+                "type": "Synonym",
+                "title": "Cynical Hysterie Hour: Ch Ch Ch Change"
+            },
+            {
+                "type": "Japanese",
+                "title": "シニカル・ヒステリー・アワー へんしん！"
+            }
+        ],
+        "title": "Cynical Hysterie Hour: Henshin!",
+        "title_english": null,
+        "title_japanese": "シニカル・ヒステリー・アワー へんしん！",
+        "title_synonyms": [
+            "Cynical Hysterie Hour: Ch Ch Ch Change"
+        ],
+        "type": "Movie",
+        "source": "Unknown",
+        "episodes": 1,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "1989-02-04T00:00:00+00:00",
+            "to": null,
+            "prop": {
+                "from": {
+                    "day": 4,
+                    "month": 2,
+                    "year": 1989
+                },
+                "to": {
+                    "day": null,
+                    "month": null,
+                    "year": null
+                }
+            },
+            "string": "Feb 4, 1989"
+        },
+        "duration": "8 min",
+        "rating": "G - All Ages",
+        "score": 5.41,
+        "scored_by": 141,
+        "rank": 12958,
+        "popularity": 18458,
+        "members": 462,
+        "favorites": 0,
+        "synopsis": "No synopsis has been added for this series yet.\n\nClick here to update this information.",
+        "background": "",
+        "season": null,
+        "year": null,
+        "broadcast": {
+            "day": null,
+            "time": null,
+            "timezone": null,
+            "string": null
+        },
+        "producers": [],
+        "licensors": [],
+        "studios": [],
+        "genres": [
+            {
+                "mal_id": 4,
+                "type": "anime",
+                "name": "Comedy",
+                "url": "https://myanimelist.net/anime/genre/4/Comedy"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [],
+        "demographics": [],
+        "relations": [
+            {
+                "relation": "Prequel",
+                "entry": [
+                    {
+                        "mal_id": 6759,
+                        "type": "anime",
+                        "name": "Cynical Hysterie Hour: Trip Coaster",
+                        "url": "https://myanimelist.net/anime/6759/Cynical_Hysterie_Hour__Trip_Coaster"
+                    }
+                ]
+            },
+            {
+                "relation": "Sequel",
+                "entry": [
+                    {
+                        "mal_id": 6761,
+                        "type": "anime",
+                        "name": "Cynical Hysterie Hour: Yoru wa Tanoshii",
+                        "url": "https://myanimelist.net/anime/6761/Cynical_Hysterie_Hour__Yoru_wa_Tanoshii"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [],
+            "endings": []
+        },
+        "external": [
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=7706"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=9083"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "http://ja.wikipedia.org/wiki/シニカル・ヒステリー・アワー"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": []
+}

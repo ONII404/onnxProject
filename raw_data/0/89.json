@@ -1,0 +1,868 @@
+{
+    "id": 89,
+    "fetched_at": "Sun Dec 14 12:36:16 2025",
+    "metadata": {
+        "mal_id": 89,
+        "url": "https://myanimelist.net/anime/89/Kidou_Senshi_Victory_Gundam",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1913/102693.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1913/102693t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1913/102693l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1913/102693.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1913/102693t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1913/102693l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Kidou Senshi Victory Gundam"
+            },
+            {
+                "type": "Synonym",
+                "title": "Kidou Senshi Victory Gundam"
+            },
+            {
+                "type": "Japanese",
+                "title": "機動戦士Vガンダム"
+            },
+            {
+                "type": "English",
+                "title": "Mobile Suit Victory Gundam"
+            }
+        ],
+        "title": "Kidou Senshi Victory Gundam",
+        "title_english": "Mobile Suit Victory Gundam",
+        "title_japanese": "機動戦士Vガンダム",
+        "title_synonyms": [
+            "Kidou Senshi Victory Gundam"
+        ],
+        "type": "TV",
+        "source": "Original",
+        "episodes": 51,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "1993-04-02T00:00:00+00:00",
+            "to": "1994-03-25T00:00:00+00:00",
+            "prop": {
+                "from": {
+                    "day": 2,
+                    "month": 4,
+                    "year": 1993
+                },
+                "to": {
+                    "day": 25,
+                    "month": 3,
+                    "year": 1994
+                }
+            },
+            "string": "Apr 2, 1993 to Mar 25, 1994"
+        },
+        "duration": "24 min per ep",
+        "rating": "PG-13 - Teens 13 or older",
+        "score": 6.71,
+        "scored_by": 12646,
+        "rank": 6047,
+        "popularity": 4424,
+        "members": 31493,
+        "favorites": 157,
+        "synopsis": "In the year 153 of the Universal Century, the tyrannical Zanscare Empire has taken hostile control over Side 2, a space colony outside of Earth's orbit. Following in the footsteps of the long expired Principality of Zeon and the more recent Crossbone Vanguard, Zanscare rules over its subjects with cruelty, routinely using a large guillotine for public executions.\n\nLiving in Central Europe, space immigrant Üso Ewin joins the League Militaire, a militia made up of civilians frustrated with the Earth Federation's inability to combat the Zanscare Empire. Üso's latent abilities as a psychic Newtype awaken and allow him to pilot the Victory Gundam, the only mobile suit capable of holding off the elite BESPA forces of the Zanscare Empire.\n\nHoping to protect his best friend Shakti Kareen and locate his parents within the ranks of the Federation, Üso fights on with the Victory, striving to bring an end to the empire's reign.\n\n[Written by MAL Rewrite]",
+        "background": "",
+        "season": "spring",
+        "year": 1993,
+        "broadcast": {
+            "day": "Fridays",
+            "time": "17:00",
+            "timezone": "Asia/Tokyo",
+            "string": "Fridays at 17:00 (JST)"
+        },
+        "producers": [
+            {
+                "mal_id": 55,
+                "type": "anime",
+                "name": "TV Asahi",
+                "url": "https://myanimelist.net/anime/producer/55/TV_Asahi"
+            },
+            {
+                "mal_id": 64,
+                "type": "anime",
+                "name": "Sotsu",
+                "url": "https://myanimelist.net/anime/producer/64/Sotsu"
+            },
+            {
+                "mal_id": 747,
+                "type": "anime",
+                "name": "Apollon",
+                "url": "https://myanimelist.net/anime/producer/747/Apollon"
+            }
+        ],
+        "licensors": [
+            {
+                "mal_id": 217,
+                "type": "anime",
+                "name": "Nozomi Entertainment",
+                "url": "https://myanimelist.net/anime/producer/217/Nozomi_Entertainment"
+            }
+        ],
+        "studios": [
+            {
+                "mal_id": 14,
+                "type": "anime",
+                "name": "Sunrise",
+                "url": "https://myanimelist.net/anime/producer/14/Sunrise"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 8,
+                "type": "anime",
+                "name": "Drama",
+                "url": "https://myanimelist.net/anime/genre/8/Drama"
+            },
+            {
+                "mal_id": 24,
+                "type": "anime",
+                "name": "Sci-Fi",
+                "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [
+            {
+                "mal_id": 18,
+                "type": "anime",
+                "name": "Mecha",
+                "url": "https://myanimelist.net/anime/genre/18/Mecha"
+            },
+            {
+                "mal_id": 38,
+                "type": "anime",
+                "name": "Military",
+                "url": "https://myanimelist.net/anime/genre/38/Military"
+            },
+            {
+                "mal_id": 29,
+                "type": "anime",
+                "name": "Space",
+                "url": "https://myanimelist.net/anime/genre/29/Space"
+            }
+        ],
+        "demographics": [],
+        "relations": [
+            {
+                "relation": "Prequel",
+                "entry": [
+                    {
+                        "mal_id": 88,
+                        "type": "anime",
+                        "name": "Kidou Senshi Gundam F91",
+                        "url": "https://myanimelist.net/anime/88/Kidou_Senshi_Gundam_F91"
+                    }
+                ]
+            },
+            {
+                "relation": "Sequel",
+                "entry": [
+                    {
+                        "mal_id": 95,
+                        "type": "anime",
+                        "name": "Turn A Gundam",
+                        "url": "https://myanimelist.net/anime/95/Turn_A_Gundam"
+                    },
+                    {
+                        "mal_id": 23259,
+                        "type": "anime",
+                        "name": "Gundam: G no Reconguista",
+                        "url": "https://myanimelist.net/anime/23259/Gundam__G_no_Reconguista"
+                    }
+                ]
+            },
+            {
+                "relation": "Adaptation",
+                "entry": [
+                    {
+                        "mal_id": 116678,
+                        "type": "manga",
+                        "name": "Kidou Senshi V Gundam",
+                        "url": "https://myanimelist.net/manga/116678/Kidou_Senshi_V_Gundam"
+                    }
+                ]
+            },
+            {
+                "relation": "Summary",
+                "entry": [
+                    {
+                        "mal_id": 40464,
+                        "type": "anime",
+                        "name": "Kidou Senshi Gundam: Hikaru Inochi Chronicle U.C.",
+                        "url": "https://myanimelist.net/anime/40464/Kidou_Senshi_Gundam__Hikaru_Inochi_Chronicle_UC"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [
+                "1: \"Stand Up To The Victory\" by Tomohisa Kawasoe (eps 1-31)",
+                "2: \"Don't Stop Carry On\" by RD (eps 32-51)"
+            ],
+            "endings": [
+                "1: \"Winners Forever\" by INFIX (eps 1-31)",
+                "2: \"Moichido Tenderness\" by KIX S (eps 32-51)"
+            ]
+        },
+        "external": [
+            {
+                "name": "Official Site",
+                "url": "http://www.gundam.channel.or.jp/program/_vg_tv.shtml"
+            },
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=721"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=1403"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "http://en.wikipedia.org/wiki/Mobile_Suit_Victory_Gundam"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "https://ja.wikipedia.org/wiki/%E6%A9%9F%E5%8B%95%E6%88%A6%E5%A3%ABV%E3%82%AC%E3%83%B3%E3%83%80%E3%83%A0"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": [
+        {
+            "mal_id": 1,
+            "url": null,
+            "title": "The White Mobile Suit",
+            "title_japanese": "白いモビルスーツ",
+            "title_romanji": "Shiroi Mobile Suit ",
+            "aired": "1993-04-02T00:00:00+00:00",
+            "score": 3.6,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=286452"
+        },
+        {
+            "mal_id": 2,
+            "url": null,
+            "title": "The Meeting with the Machine that Day",
+            "title_japanese": "マシンと会った日",
+            "title_romanji": "Machine to Atta Hi ",
+            "aired": "1993-04-09T00:00:00+00:00",
+            "score": 4.09,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=270067"
+        },
+        {
+            "mal_id": 3,
+            "url": null,
+            "title": "Uso's Fight",
+            "title_japanese": "ウッソの戦い",
+            "title_romanji": "Uso no Tatakai ",
+            "aired": "1993-04-16T00:00:00+00:00",
+            "score": 4.13,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=210135"
+        },
+        {
+            "mal_id": 4,
+            "url": null,
+            "title": "Who We Are Fighting For",
+            "title_japanese": "戦いは誰のために",
+            "title_romanji": "Tatakai wa Dare no Tame ni ",
+            "aired": "1993-04-23T00:00:00+00:00",
+            "score": 3.98,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=286453"
+        },
+        {
+            "mal_id": 5,
+            "url": null,
+            "title": "Godzorla's Counterattack",
+            "title_japanese": "ゴッゾーラの反撃",
+            "title_romanji": "Godzorla no Hangeki ",
+            "aired": "1993-04-30T00:00:00+00:00",
+            "score": 4.24,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=286455"
+        },
+        {
+            "mal_id": 6,
+            "url": null,
+            "title": "A Fighter's Glory",
+            "title_japanese": "戦士のかがやき",
+            "title_romanji": "Senshi no Kagayaki ",
+            "aired": "1993-05-07T00:00:00+00:00",
+            "score": 4.27,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=210300"
+        },
+        {
+            "mal_id": 7,
+            "url": null,
+            "title": "The Sound of the Guillotine",
+            "title_japanese": "ギロチンの音",
+            "title_romanji": "Guillotine no Oto ",
+            "aired": "1993-05-14T00:00:00+00:00",
+            "score": 4.05,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=210304"
+        },
+        {
+            "mal_id": 8,
+            "url": null,
+            "title": "Fierce Fight! Attacking in Waves",
+            "title_japanese": "激闘!波状攻撃",
+            "title_romanji": "Gekitou! Hajoukougeki ",
+            "aired": "1993-05-21T00:00:00+00:00",
+            "score": 4.07,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=210309"
+        },
+        {
+            "mal_id": 9,
+            "url": null,
+            "title": "Departure",
+            "title_japanese": "旅立ち",
+            "title_romanji": "Tabidachi ",
+            "aired": "1993-05-28T00:00:00+00:00",
+            "score": 3.98,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=211562"
+        },
+        {
+            "mal_id": 10,
+            "url": null,
+            "title": "Behold! The Shrike Team",
+            "title_japanese": "鮮烈!シュラク隊",
+            "title_romanji": "Senretsu! Shrike Tai ",
+            "aired": "1993-06-04T00:00:00+00:00",
+            "score": 4.13,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=286456"
+        },
+        {
+            "mal_id": 11,
+            "url": null,
+            "title": "Defense of the Shrike Team",
+            "title_japanese": "シュラク隊の防壁",
+            "title_romanji": "Shrike Tai no Bouheki ",
+            "aired": "1993-06-11T00:00:00+00:00",
+            "score": 3.76,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=286457"
+        },
+        {
+            "mal_id": 12,
+            "url": null,
+            "title": "Let's Get Rid of the Guillotine",
+            "title_japanese": "ギロチンを粉砕せよ",
+            "title_romanji": "Guillotine wo Funsai Seyo ",
+            "aired": "1993-06-18T00:00:00+00:00",
+            "score": 4.08,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=211575"
+        },
+        {
+            "mal_id": 13,
+            "url": null,
+            "title": "Arti Gibraltar Airspace",
+            "title_japanese": "ジブラルタル空域",
+            "title_romanji": "Gibraltar Kuuiki ",
+            "aired": "1993-06-25T00:00:00+00:00",
+            "score": 3.85,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=251987"
+        },
+        {
+            "mal_id": 14,
+            "url": null,
+            "title": "Attack and Defense At Gilbraltar",
+            "title_japanese": "ジブラルタル攻防",
+            "title_romanji": "Gibraltar Koubou ",
+            "aired": "1993-07-02T00:00:00+00:00",
+            "score": 3.9,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=211583"
+        },
+        {
+            "mal_id": 15,
+            "url": null,
+            "title": "Space Dust",
+            "title_japanese": "スペースダスト",
+            "title_romanji": "Space Dust ",
+            "aired": "1993-07-09T00:00:00+00:00",
+            "score": 4.05,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=286458"
+        },
+        {
+            "mal_id": 16,
+            "url": null,
+            "title": "Reinforce Takeoff",
+            "title_japanese": "リーンホース浮上",
+            "title_romanji": "Reinforce Fujou ",
+            "aired": "1993-07-16T00:00:00+00:00",
+            "score": 3.89,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=286459"
+        },
+        {
+            "mal_id": 17,
+            "url": null,
+            "title": "The Queen of the Empire",
+            "title_japanese": "帝国の女王",
+            "title_romanji": "Teikoku no Joou ",
+            "aired": "1993-07-23T00:00:00+00:00",
+            "score": 2.76,
+            "filler": false,
+            "recap": true,
+            "forum_url": "https://myanimelist.net/forum/?topicid=286460"
+        },
+        {
+            "mal_id": 18,
+            "url": null,
+            "title": "Battle of the Space Fleets",
+            "title_japanese": "宇宙艦隊戦",
+            "title_romanji": "Uchuu Kantaisen ",
+            "aired": "1993-07-30T00:00:00+00:00",
+            "score": 3.97,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=286461"
+        },
+        {
+            "mal_id": 19,
+            "url": null,
+            "title": "In Search of Shakti",
+            "title_japanese": "シャクティを捜せ",
+            "title_romanji": "Shakti wo Sagase ",
+            "aired": "1993-08-06T00:00:00+00:00",
+            "score": 3.82,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=286463"
+        },
+        {
+            "mal_id": 20,
+            "url": null,
+            "title": "The Eve Before Battle",
+            "title_japanese": "決戦前夜",
+            "title_romanji": "Kessen Zenya ",
+            "aired": "1993-08-13T00:00:00+00:00",
+            "score": 4.08,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=286464"
+        },
+        {
+            "mal_id": 21,
+            "url": null,
+            "title": "The Strategic Satellite",
+            "title_japanese": "戦略衛星を叩け",
+            "title_romanji": "Senryaku Eisei wo Tatake ",
+            "aired": "1993-08-20T00:00:00+00:00",
+            "score": 4.27,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=271655"
+        },
+        {
+            "mal_id": 22,
+            "url": null,
+            "title": "The Tiger of Space",
+            "title_japanese": "宇宙の虎",
+            "title_romanji": "Uchuu no Tora ",
+            "aired": "1993-08-27T00:00:00+00:00",
+            "score": 4.14,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=58441"
+        },
+        {
+            "mal_id": 23,
+            "url": null,
+            "title": "Infiltration of Zanscare",
+            "title_japanese": "ザンスカール潜入",
+            "title_romanji": "Zanscare Sennyuu ",
+            "aired": "1993-09-03T00:00:00+00:00",
+            "score": 3.76,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=58451"
+        },
+        {
+            "mal_id": 24,
+            "url": null,
+            "title": "Attack the Capital",
+            "title_japanese": "首都攻防",
+            "title_romanji": "Shuto Koubou ",
+            "aired": "1993-09-10T00:00:00+00:00",
+            "score": 3.95,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=58453"
+        },
+        {
+            "mal_id": 25,
+            "url": null,
+            "title": "Infiltrate the Enemy's Fleet and Land",
+            "title_japanese": "敵艦と敵地へ",
+            "title_romanji": "Tekikan to Tekichi e ",
+            "aired": "1993-09-17T00:00:00+00:00",
+            "score": 3.94,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=58455"
+        },
+        {
+            "mal_id": 26,
+            "url": null,
+            "title": "Maria and Uso",
+            "title_japanese": "マリアとウッソ",
+            "title_romanji": "Maria to Uso ",
+            "aired": "1993-09-24T00:00:00+00:00",
+            "score": 4.17,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=58459"
+        },
+        {
+            "mal_id": 27,
+            "url": null,
+            "title": "The Light of Outer Space",
+            "title_japanese": "宇宙を走る閃光",
+            "title_romanji": "Uchuu wo Hashiru Senkou ",
+            "aired": "1993-10-01T00:00:00+00:00",
+            "score": 4.24,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=58991"
+        },
+        {
+            "mal_id": 28,
+            "url": null,
+            "title": "The Great Escapade",
+            "title_japanese": "大脱走",
+            "title_romanji": "Daidassou ",
+            "aired": "1993-10-08T00:00:00+00:00",
+            "score": 3.62,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=58992"
+        },
+        {
+            "mal_id": 29,
+            "url": null,
+            "title": "The New Mobile Suit: V2",
+            "title_japanese": "新しいスーツV2",
+            "title_romanji": "Atarashii Suit V2 ",
+            "aired": "1993-10-15T00:00:00+00:00",
+            "score": 3.48,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=60847"
+        },
+        {
+            "mal_id": 30,
+            "url": null,
+            "title": "Mother's Gundam",
+            "title_japanese": "母のガンダム",
+            "title_romanji": "Haha no Gundam ",
+            "aired": "1993-10-22T00:00:00+00:00",
+            "score": 3.24,
+            "filler": false,
+            "recap": true,
+            "forum_url": "https://myanimelist.net/forum/?topicid=60851"
+        },
+        {
+            "mal_id": 31,
+            "url": null,
+            "title": "Motorad Takeoff",
+            "title_japanese": "モトラッド発進",
+            "title_romanji": "Motorrad Hasshin ",
+            "aired": "1993-10-29T00:00:00+00:00",
+            "score": 3.52,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=60880"
+        },
+        {
+            "mal_id": 32,
+            "url": null,
+            "title": "Pressing Doggorla",
+            "title_japanese": "ドッゴーラ激進",
+            "title_romanji": "Doggorla Gekishin ",
+            "aired": "1993-11-05T00:00:00+00:00",
+            "score": 3.97,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=60886"
+        },
+        {
+            "mal_id": 33,
+            "url": null,
+            "title": "People Who Dwell in the Sea",
+            "title_japanese": "海に住む人々",
+            "title_romanji": "Umi ni Sumu Hitobito ",
+            "aired": "1993-11-12T00:00:00+00:00",
+            "score": 3.42,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=60892"
+        },
+        {
+            "mal_id": 34,
+            "url": null,
+            "title": "Operation Giant Roller",
+            "title_japanese": "巨大ローラー作戦",
+            "title_romanji": "Kyodai Roller Sakusen ",
+            "aired": "1993-11-19T00:00:00+00:00",
+            "score": 3.54,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=61010"
+        },
+        {
+            "mal_id": 35,
+            "url": null,
+            "title": "Mother or Shakti?",
+            "title_japanese": "母かシャクティか",
+            "title_romanji": "Haha ka Shakti ka ",
+            "aired": "1993-11-26T00:00:00+00:00",
+            "score": 4.03,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=61223"
+        },
+        {
+            "mal_id": 36,
+            "url": null,
+            "title": "Mother Returns to the Earth",
+            "title_japanese": "母よ大地にかえれ",
+            "title_romanji": "Haha yo Daichi ni Kaere ",
+            "aired": "1993-12-03T00:00:00+00:00",
+            "score": 4.24,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=243248"
+        },
+        {
+            "mal_id": 37,
+            "url": null,
+            "title": "Counterattack of the Twinrad",
+            "title_japanese": "逆襲ツインラッド",
+            "title_romanji": "Gyakushuu Twinrad ",
+            "aired": "1993-12-10T00:00:00+00:00",
+            "score": 3.68,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=286466"
+        },
+        {
+            "mal_id": 38,
+            "url": null,
+            "title": "The North Sea Begins Burning",
+            "title_japanese": "北海を炎にそめて",
+            "title_romanji": "Hokkai wo Honoo ni Somete ",
+            "aired": "1993-12-17T00:00:00+00:00",
+            "score": 3.71,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=244440"
+        },
+        {
+            "mal_id": 39,
+            "url": null,
+            "title": "The Song of the Wings of Light",
+            "title_japanese": "光の翼の歌",
+            "title_romanji": "Hikari no Tsubasa no Uta ",
+            "aired": "1993-12-24T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=244445"
+        },
+        {
+            "mal_id": 40,
+            "url": null,
+            "title": "Under the Super Aerial Attack",
+            "title_japanese": "超高空攻撃の下",
+            "title_romanji": "Choukoukuu Kougeki no Shita ",
+            "aired": "1994-01-07T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=61597"
+        },
+        {
+            "mal_id": 41,
+            "url": null,
+            "title": "The Battlefield Created by Father",
+            "title_japanese": "父のつくった戦場",
+            "title_romanji": "Chichi no Tsukutta Senjou ",
+            "aired": "1994-01-14T00:00:00+00:00",
+            "score": 4.13,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=244455"
+        },
+        {
+            "mal_id": 42,
+            "url": null,
+            "title": "Fresh Blood Swirls in the Light",
+            "title_japanese": "鮮血は光の渦に",
+            "title_romanji": "Senketsu wa Hikari no Uzu ni ",
+            "aired": "1994-01-21T00:00:00+00:00",
+            "score": 3.5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=77924"
+        },
+        {
+            "mal_id": 43,
+            "url": null,
+            "title": "The Battlefield Comet Fuala",
+            "title_japanese": "戦場の彗星ファラ",
+            "title_romanji": "Senjou no Suisei Fuala ",
+            "aired": "1994-01-28T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=244459"
+        },
+        {
+            "mal_id": 44,
+            "url": null,
+            "title": "Love is at the End of the Light",
+            "title_japanese": "愛は光の果てに",
+            "title_romanji": "Ai wa Hikari no Hate ni ",
+            "aired": "1994-02-04T00:00:00+00:00",
+            "score": 3.38,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=245551"
+        },
+        {
+            "mal_id": 45,
+            "url": null,
+            "title": "Uso Dances with Illusions",
+            "title_japanese": "幻覚に踊るウッソ",
+            "title_romanji": "Genkaku ni Odoru Uso ",
+            "aired": "1994-02-11T00:00:00+00:00",
+            "score": 4.11,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=286467"
+        },
+        {
+            "mal_id": 46,
+            "url": null,
+            "title": "Tassilo's Revolt",
+            "title_japanese": "タシロ反乱",
+            "title_romanji": "Tassilo Hanran ",
+            "aired": "1994-02-18T00:00:00+00:00",
+            "score": 4.07,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=246334"
+        },
+        {
+            "mal_id": 47,
+            "url": null,
+            "title": "Women's Battlefield",
+            "title_japanese": "女たちの戦場",
+            "title_romanji": "Onna-tachi no Senjou ",
+            "aired": "1994-02-25T00:00:00+00:00",
+            "score": 3.72,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=61840"
+        },
+        {
+            "mal_id": 48,
+            "url": null,
+            "title": "Vanquished Life, Blooming Life",
+            "title_japanese": "消える命咲く命",
+            "title_romanji": "Kieru Inochi Saku Inochi ",
+            "aired": "1994-03-04T00:00:00+00:00",
+            "score": 3.96,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=61846"
+        },
+        {
+            "mal_id": 49,
+            "url": null,
+            "title": "Above the Angel's Ring",
+            "title_japanese": "天使の輪の上で",
+            "title_romanji": "Tenshi no Wa no Ue de ",
+            "aired": "1994-03-11T00:00:00+00:00",
+            "score": 3.61,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=61855"
+        },
+        {
+            "mal_id": 50,
+            "url": null,
+            "title": "The Battle Called Upon by Hate",
+            "title_japanese": "憎しみが呼ぶ対決",
+            "title_romanji": "Nikushimi ga Yobu Taiketsu ",
+            "aired": "1994-03-18T00:00:00+00:00",
+            "score": 4.22,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=61867"
+        },
+        {
+            "mal_id": 51,
+            "url": null,
+            "title": "The Ascension of the Angels",
+            "title_japanese": "天使たちの昇天",
+            "title_romanji": "Tenshi Tachi no Shouten ",
+            "aired": "1994-03-25T00:00:00+00:00",
+            "score": 3.66,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=61888"
+        }
+    ]
+}

@@ -1,0 +1,171 @@
+{
+    "id": 10135,
+    "fetched_at": "Sun Dec 14 09:31:29 2025",
+    "metadata": {
+        "mal_id": 10135,
+        "url": "https://myanimelist.net/anime/10135/Manga_Hajimete_Monogatari",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1791/124109.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1791/124109t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1791/124109l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1791/124109.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1791/124109t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1791/124109l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Manga Hajimete Monogatari"
+            },
+            {
+                "type": "Japanese",
+                "title": "まんがはじめて物語"
+            }
+        ],
+        "title": "Manga Hajimete Monogatari",
+        "title_english": null,
+        "title_japanese": "まんがはじめて物語",
+        "title_synonyms": [],
+        "type": "TV",
+        "source": "Unknown",
+        "episodes": 305,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "1978-05-06T00:00:00+00:00",
+            "to": "1984-03-31T00:00:00+00:00",
+            "prop": {
+                "from": {
+                    "day": 6,
+                    "month": 5,
+                    "year": 1978
+                },
+                "to": {
+                    "day": 31,
+                    "month": 3,
+                    "year": 1984
+                }
+            },
+            "string": "May 6, 1978 to Mar 31, 1984"
+        },
+        "duration": "25 min per ep",
+        "rating": "G - All Ages",
+        "score": 6.17,
+        "scored_by": 203,
+        "rank": 9352,
+        "popularity": 15344,
+        "members": 891,
+        "favorites": 1,
+        "synopsis": "An educational program for children featuring various historical events, showing both animation and live action footage. A reoccurring \"older sister\" and the pink mole Mogutan, will take you on a journey through time.",
+        "background": "",
+        "season": "spring",
+        "year": 1978,
+        "broadcast": {
+            "day": null,
+            "time": null,
+            "timezone": null,
+            "string": "Unknown"
+        },
+        "producers": [
+            {
+                "mal_id": 145,
+                "type": "anime",
+                "name": "TBS",
+                "url": "https://myanimelist.net/anime/producer/145/TBS"
+            },
+            {
+                "mal_id": 315,
+                "type": "anime",
+                "name": "DAX Production",
+                "url": "https://myanimelist.net/anime/producer/315/DAX_Production"
+            }
+        ],
+        "licensors": [],
+        "studios": [],
+        "genres": [
+            {
+                "mal_id": 2,
+                "type": "anime",
+                "name": "Adventure",
+                "url": "https://myanimelist.net/anime/genre/2/Adventure"
+            },
+            {
+                "mal_id": 4,
+                "type": "anime",
+                "name": "Comedy",
+                "url": "https://myanimelist.net/anime/genre/4/Comedy"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [
+            {
+                "mal_id": 56,
+                "type": "anime",
+                "name": "Educational",
+                "url": "https://myanimelist.net/anime/genre/56/Educational"
+            },
+            {
+                "mal_id": 13,
+                "type": "anime",
+                "name": "Historical",
+                "url": "https://myanimelist.net/anime/genre/13/Historical"
+            }
+        ],
+        "demographics": [],
+        "relations": [
+            {
+                "relation": "Sequel",
+                "entry": [
+                    {
+                        "mal_id": 10136,
+                        "type": "anime",
+                        "name": "Manga Doushite Monogatari",
+                        "url": "https://myanimelist.net/anime/10136/Manga_Doushite_Monogatari"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [
+                "1: \"Fushigi na Tabi\" Utsumi Miyatsuchi",
+                "2: \"Michi e no Roman\" by 1980 Chewing Gum Company",
+                "3: \"Nazo Nazo Island\" by Mayumi Oka",
+                "4: \"IMAGINATION EXPRESS\" by Sugar"
+            ],
+            "endings": []
+        },
+        "external": [
+            {
+                "name": "Official Site",
+                "url": "http://www.tbs.co.jp/tbs-ch/item/a0023/"
+            },
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=6300"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=798"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": []
+}

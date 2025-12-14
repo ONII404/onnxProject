@@ -1,0 +1,143 @@
+{
+    "id": 9417,
+    "fetched_at": "Sun Dec 14 09:25:53 2025",
+    "metadata": {
+        "mal_id": 9417,
+        "url": "https://myanimelist.net/anime/9417/Jin_Hou_Xiang_Yao",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1277/136048.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1277/136048t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1277/136048l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1277/136048.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1277/136048t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1277/136048l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Jin Hou Xiang Yao"
+            },
+            {
+                "type": "Synonym",
+                "title": "Sun Ukun: The Monkey King Conquers the Demon"
+            },
+            {
+                "type": "Japanese",
+                "title": "金猴降妖"
+            }
+        ],
+        "title": "Jin Hou Xiang Yao",
+        "title_english": null,
+        "title_japanese": "金猴降妖",
+        "title_synonyms": [
+            "Sun Ukun: The Monkey King Conquers the Demon"
+        ],
+        "type": "Movie",
+        "source": "Unknown",
+        "episodes": 1,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "1985-01-01T00:00:00+00:00",
+            "to": null,
+            "prop": {
+                "from": {
+                    "day": 1,
+                    "month": 1,
+                    "year": 1985
+                },
+                "to": {
+                    "day": null,
+                    "month": null,
+                    "year": null
+                }
+            },
+            "string": "1985"
+        },
+        "duration": "1 hr 29 min",
+        "rating": "PG - Children",
+        "score": 6.1,
+        "scored_by": 142,
+        "rank": 9699,
+        "popularity": 18328,
+        "members": 471,
+        "favorites": 0,
+        "synopsis": "The latest film from the trilogy about adventures of the Monkey King.",
+        "background": "",
+        "season": null,
+        "year": null,
+        "broadcast": {
+            "day": null,
+            "time": null,
+            "timezone": null,
+            "string": null
+        },
+        "producers": [],
+        "licensors": [],
+        "studios": [
+            {
+                "mal_id": 471,
+                "type": "anime",
+                "name": "Shanghai Animation Film Studio",
+                "url": "https://myanimelist.net/anime/producer/471/Shanghai_Animation_Film_Studio"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 2,
+                "type": "anime",
+                "name": "Adventure",
+                "url": "https://myanimelist.net/anime/genre/2/Adventure"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [],
+        "demographics": [],
+        "relations": [
+            {
+                "relation": "Prequel",
+                "entry": [
+                    {
+                        "mal_id": 9416,
+                        "type": "anime",
+                        "name": "Renshenguo",
+                        "url": "https://myanimelist.net/anime/9416/Renshenguo"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [],
+            "endings": []
+        },
+        "external": [
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=4907"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "https://zh.wikipedia.org/wiki/%E9%87%91%E7%8C%B4%E9%99%8D%E5%A6%96"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": []
+}

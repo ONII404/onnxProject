@@ -1,0 +1,156 @@
+{
+    "id": 10701,
+    "fetched_at": "Sun Dec 14 09:33:57 2025",
+    "metadata": {
+        "mal_id": 10701,
+        "url": "https://myanimelist.net/anime/10701/Ulysses_31_Pilot",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/9/29487.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/9/29487t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/9/29487l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/9/29487.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/9/29487t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/9/29487l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Ulysses 31 Pilot"
+            },
+            {
+                "type": "Japanese",
+                "title": "ULYSSES 31"
+            }
+        ],
+        "title": "Ulysses 31 Pilot",
+        "title_english": null,
+        "title_japanese": "ULYSSES 31",
+        "title_synonyms": [],
+        "type": "Special",
+        "source": "Unknown",
+        "episodes": 1,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "1980-01-01T00:00:00+00:00",
+            "to": null,
+            "prop": {
+                "from": {
+                    "day": 1,
+                    "month": 1,
+                    "year": 1980
+                },
+                "to": {
+                    "day": null,
+                    "month": null,
+                    "year": null
+                }
+            },
+            "string": "1980"
+        },
+        "duration": "24 min",
+        "rating": "G - All Ages",
+        "score": 5.73,
+        "scored_by": 302,
+        "rank": 11720,
+        "popularity": 15547,
+        "members": 846,
+        "favorites": 1,
+        "synopsis": "Unaired pilot episode for the TV series.",
+        "background": "",
+        "season": null,
+        "year": null,
+        "broadcast": {
+            "day": null,
+            "time": null,
+            "timezone": null,
+            "string": null
+        },
+        "producers": [],
+        "licensors": [],
+        "studios": [
+            {
+                "mal_id": 73,
+                "type": "anime",
+                "name": "TMS Entertainment",
+                "url": "https://myanimelist.net/anime/producer/73/TMS_Entertainment"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 1,
+                "type": "anime",
+                "name": "Action",
+                "url": "https://myanimelist.net/anime/genre/1/Action"
+            },
+            {
+                "mal_id": 2,
+                "type": "anime",
+                "name": "Adventure",
+                "url": "https://myanimelist.net/anime/genre/2/Adventure"
+            },
+            {
+                "mal_id": 24,
+                "type": "anime",
+                "name": "Sci-Fi",
+                "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [
+            {
+                "mal_id": 29,
+                "type": "anime",
+                "name": "Space",
+                "url": "https://myanimelist.net/anime/genre/29/Space"
+            }
+        ],
+        "demographics": [],
+        "relations": [
+            {
+                "relation": "Alternative Version",
+                "entry": [
+                    {
+                        "mal_id": 2331,
+                        "type": "anime",
+                        "name": "Uchuu Densetsu Ulysses 31",
+                        "url": "https://myanimelist.net/anime/2331/Uchuu_Densetsu_Ulysses_31"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [],
+            "endings": []
+        },
+        "external": [
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=8443"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "http://en.wikipedia.org/wiki/Ulysses_31#Pilot"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": []
+}

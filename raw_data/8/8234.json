@@ -1,0 +1,982 @@
+{
+    "id": 8234,
+    "fetched_at": "Sun Dec 14 09:16:58 2025",
+    "metadata": {
+        "mal_id": 8234,
+        "url": "https://myanimelist.net/anime/8234/Muumin",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1159/153850.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1159/153850t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1159/153850l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1159/153850.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1159/153850t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1159/153850l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Muumin"
+            },
+            {
+                "type": "Synonym",
+                "title": "Mumin"
+            },
+            {
+                "type": "Synonym",
+                "title": "Moomin"
+            },
+            {
+                "type": "Japanese",
+                "title": "ムーミン"
+            }
+        ],
+        "title": "Muumin",
+        "title_english": null,
+        "title_japanese": "ムーミン",
+        "title_synonyms": [
+            "Mumin",
+            "Moomin"
+        ],
+        "type": "TV",
+        "source": "Book",
+        "episodes": 65,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "1969-10-05T00:00:00+00:00",
+            "to": "1970-12-27T00:00:00+00:00",
+            "prop": {
+                "from": {
+                    "day": 5,
+                    "month": 10,
+                    "year": 1969
+                },
+                "to": {
+                    "day": 27,
+                    "month": 12,
+                    "year": 1970
+                }
+            },
+            "string": "Oct 5, 1969 to Dec 27, 1970"
+        },
+        "duration": "25 min per ep",
+        "rating": "G - All Ages",
+        "score": 7.14,
+        "scored_by": 2633,
+        "rank": 3836,
+        "popularity": 7838,
+        "members": 7717,
+        "favorites": 49,
+        "synopsis": "Very loosely based upon the Moomin books by Finnish author Tove Jansson. Jansson, however, never really approved of the series due to dramatic changes in plot, atmosphere, character personality, appearance and names etc. The series was directed to adults rather than children.\n\n(Source: Wikipedia)",
+        "background": "",
+        "season": "fall",
+        "year": 1969,
+        "broadcast": {
+            "day": "Sundays",
+            "time": "19:30",
+            "timezone": "Asia/Tokyo",
+            "string": "Sundays at 19:30 (JST)"
+        },
+        "producers": [
+            {
+                "mal_id": 65,
+                "type": "anime",
+                "name": "Tokyo Movie Shinsha",
+                "url": "https://myanimelist.net/anime/producer/65/Tokyo_Movie_Shinsha"
+            },
+            {
+                "mal_id": 2812,
+                "type": "anime",
+                "name": "Zuiyo",
+                "url": "https://myanimelist.net/anime/producer/2812/Zuiyo"
+            }
+        ],
+        "licensors": [],
+        "studios": [
+            {
+                "mal_id": 68,
+                "type": "anime",
+                "name": "Mushi Production",
+                "url": "https://myanimelist.net/anime/producer/68/Mushi_Production"
+            },
+            {
+                "mal_id": 1846,
+                "type": "anime",
+                "name": "Tokyo Movie",
+                "url": "https://myanimelist.net/anime/producer/1846/Tokyo_Movie"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 2,
+                "type": "anime",
+                "name": "Adventure",
+                "url": "https://myanimelist.net/anime/genre/2/Adventure"
+            },
+            {
+                "mal_id": 10,
+                "type": "anime",
+                "name": "Fantasy",
+                "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+            },
+            {
+                "mal_id": 36,
+                "type": "anime",
+                "name": "Slice of Life",
+                "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [],
+        "demographics": [],
+        "relations": [
+            {
+                "relation": "Alternative Version",
+                "entry": [
+                    {
+                        "mal_id": 8235,
+                        "type": "anime",
+                        "name": "Muumin (1972)",
+                        "url": "https://myanimelist.net/anime/8235/Muumin_1972"
+                    },
+                    {
+                        "mal_id": 42089,
+                        "type": "anime",
+                        "name": "Muumin Pilot Film",
+                        "url": "https://myanimelist.net/anime/42089/Muumin_Pilot_Film"
+                    },
+                    {
+                        "mal_id": 2150,
+                        "type": "anime",
+                        "name": "Tanoshii Muumin Ikka",
+                        "url": "https://myanimelist.net/anime/2150/Tanoshii_Muumin_Ikka"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [
+                "\"Nee! Moomin\" by Toshiko Fujita & Mitsuko Horie"
+            ],
+            "endings": []
+        },
+        "external": [
+            {
+                "name": "Official Site",
+                "url": "http://www.tms-e.com/search/index.php?pdt_no=278"
+            },
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=1007"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=431"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "http://en.wikipedia.org/wiki/Moomin_(1969_TV_series)"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": [
+        {
+            "mal_id": 1,
+            "url": null,
+            "title": "The Secret of the Silk Hat",
+            "title_japanese": "シルクハットのひみつ",
+            "title_romanji": null,
+            "aired": "1969-10-05T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 2,
+            "url": null,
+            "title": "Aim for the Devil's Heart",
+            "title_japanese": "悪魔のハートをねらえ",
+            "title_romanji": null,
+            "aired": "1969-10-12T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 3,
+            "url": null,
+            "title": "Rain! Storm!! Flood!!!",
+            "title_japanese": "雨だ! あらしだ!! 洪水だ!!",
+            "title_romanji": null,
+            "aired": "1969-10-19T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 4,
+            "url": null,
+            "title": "Where is the Wonderful Spring?",
+            "title_japanese": "ふしぎの泉はどこにある?",
+            "title_romanji": null,
+            "aired": "1969-10-26T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 5,
+            "url": null,
+            "title": "Papa's Remembered Rifle",
+            "title_japanese": "パパの思い出のライフル",
+            "title_romanji": null,
+            "aired": "1969-11-02T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 6,
+            "url": null,
+            "title": "Nonnon Who Comes Back",
+            "title_japanese": "かえってきたノンノン",
+            "title_romanji": null,
+            "aired": "1969-11-09T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2243349"
+        },
+        {
+            "mal_id": 7,
+            "url": null,
+            "title": "Good-bye, Gao-Gao",
+            "title_japanese": "さよならガオガオ",
+            "title_romanji": null,
+            "aired": "1969-11-16T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 8,
+            "url": null,
+            "title": "Nonnon is in Danger",
+            "title_japanese": "ノンノンがあぶない",
+            "title_romanji": null,
+            "aired": "1969-11-23T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 9,
+            "url": null,
+            "title": "Train Great Robber of Moomin Valley",
+            "title_japanese": "ムーミン谷の列車大強盗",
+            "title_romanji": null,
+            "aired": "1969-11-30T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 10,
+            "url": null,
+            "title": "Mysterious Midget",
+            "title_japanese": "ふしぎなこびと",
+            "title_romanji": null,
+            "aired": "1969-12-07T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 11,
+            "url": null,
+            "title": "Collection Which Disappeared",
+            "title_japanese": "消えたコレクション",
+            "title_romanji": null,
+            "aired": "1969-12-14T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 12,
+            "url": null,
+            "title": "Moomin Valley Christmas",
+            "title_japanese": "ムーミン谷のクリスマス",
+            "title_romanji": null,
+            "aired": "1969-12-21T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 13,
+            "url": null,
+            "title": "Papa's a popular writer",
+            "title_japanese": "パパは売れっ子作家",
+            "title_romanji": null,
+            "aired": "1969-12-28T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 14,
+            "url": null,
+            "title": "Last day of Moomin valley",
+            "title_japanese": "ムーミン谷最後の日",
+            "title_romanji": null,
+            "aired": "1970-01-04T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 15,
+            "url": null,
+            "title": "Raise the sails!! Ship Moomin",
+            "title_japanese": "帆を上げろ! ムーミン号!",
+            "title_romanji": null,
+            "aired": "1970-01-11T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 16,
+            "url": null,
+            "title": "Mysterious Professor Gnorth",
+            "title_japanese": "謎のグノース博士",
+            "title_romanji": null,
+            "aired": "1970-01-18T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 17,
+            "url": null,
+            "title": "Where is baby?",
+            "title_japanese": "ベビーはどこから?",
+            "title_romanji": null,
+            "aired": "1970-01-25T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 18,
+            "url": null,
+            "title": "I want to be a bum (or I hate rich people)",
+            "title_japanese": "乞食になりたい",
+            "title_romanji": null,
+            "aired": "1970-02-01T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 19,
+            "url": null,
+            "title": "Moon landing OK!",
+            "title_japanese": "月着陸OK!",
+            "title_romanji": null,
+            "aired": "1970-02-08T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 20,
+            "url": null,
+            "title": "Hustle on skis!",
+            "title_japanese": "スキーでハッスル!",
+            "title_romanji": null,
+            "aired": "1970-02-15T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 21,
+            "url": null,
+            "title": "A mysterious homeless child",
+            "title_japanese": "ふしぎな家なき子",
+            "title_romanji": null,
+            "aired": "1970-02-22T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 22,
+            "url": null,
+            "title": "It's bigfoot, yahoo!",
+            "title_japanese": "山男だよヤッホー!",
+            "title_romanji": null,
+            "aired": "1970-03-01T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 23,
+            "url": null,
+            "title": "Little Mee's big plan",
+            "title_japanese": "チビのミー大作戦",
+            "title_romanji": null,
+            "aired": "1970-03-08T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 24,
+            "url": null,
+            "title": "Gunman of Mount Lonesome",
+            "title_japanese": "おさびし山のガンマン",
+            "title_romanji": null,
+            "aired": "1970-03-15T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2242735"
+        },
+        {
+            "mal_id": 25,
+            "url": null,
+            "title": "Congratulations, Snork",
+            "title_japanese": "おめでとうスノーク",
+            "title_romanji": null,
+            "aired": "1970-03-22T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 26,
+            "url": null,
+            "title": "Turn this way, Non-non",
+            "title_japanese": "ノンノンこっちむいて",
+            "title_romanji": null,
+            "aired": "1970-03-29T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 27,
+            "url": null,
+            "title": "Non-non loses his face",
+            "title_japanese": "顔をなくしたニンニ",
+            "title_romanji": null,
+            "aired": "1970-04-05T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 28,
+            "url": null,
+            "title": "Big little adventure",
+            "title_japanese": "小さな大冒険",
+            "title_romanji": null,
+            "aired": "1970-04-12T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 29,
+            "url": null,
+            "title": "A flying demon appears!",
+            "title_japanese": "ひこう鬼現わる",
+            "title_romanji": null,
+            "aired": "1970-04-19T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 30,
+            "url": null,
+            "title": "Gift from heaven",
+            "title_japanese": "天国からの贈りもの",
+            "title_romanji": null,
+            "aired": "1970-04-26T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 31,
+            "url": null,
+            "title": "Sorry, Stinky",
+            "title_japanese": "ごめんねスティンキー",
+            "title_romanji": null,
+            "aired": "1970-05-03T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 32,
+            "url": null,
+            "title": "Haunted house in the forest",
+            "title_japanese": "森のゆうれい屋敷",
+            "title_romanji": null,
+            "aired": "1970-05-10T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 33,
+            "url": null,
+            "title": "Cowardly bean thief",
+            "title_japanese": "おくびょうな豆泥棒",
+            "title_romanji": null,
+            "aired": "1970-05-17T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 34,
+            "url": null,
+            "title": "Gold horse, silver horse",
+            "title_japanese": "金の馬・銀の馬",
+            "title_romanji": null,
+            "aired": "1970-05-24T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 35,
+            "url": null,
+            "title": "Summer festival aurora",
+            "title_japanese": "夏祭りのオーロラ",
+            "title_romanji": null,
+            "aired": "1970-05-31T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 36,
+            "url": null,
+            "title": "Moominpapa's notebook",
+            "title_japanese": "ムーミンパパのノート",
+            "title_romanji": null,
+            "aired": "1970-06-07T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 37,
+            "url": null,
+            "title": "Ugly little pet",
+            "title_japanese": "小さなみにくいペット",
+            "title_romanji": null,
+            "aired": "1970-06-14T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 38,
+            "url": null,
+            "title": "Hello, mermaid",
+            "title_japanese": "人魚さんこんにちは",
+            "title_romanji": null,
+            "aired": "1970-06-21T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 39,
+            "url": null,
+            "title": "Who's in the house?",
+            "title_japanese": "家にいるのは誰だ?",
+            "title_romanji": null,
+            "aired": "1970-06-28T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 40,
+            "url": null,
+            "title": "Secret of Nyoronyoro",
+            "title_japanese": "ニョロニョロのひみつ",
+            "title_romanji": null,
+            "aired": "1970-07-05T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 41,
+            "url": null,
+            "title": "Capture Mameluke!",
+            "title_japanese": "マメルクをつかまえろ",
+            "title_romanji": null,
+            "aired": "1970-07-12T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 42,
+            "url": null,
+            "title": "A big, big present",
+            "title_japanese": "大きな大きなプレゼント",
+            "title_romanji": null,
+            "aired": "1970-07-19T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 43,
+            "url": null,
+            "title": "Stormy monster island",
+            "title_japanese": "あらしの怪獣島",
+            "title_romanji": null,
+            "aired": "1970-07-26T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 44,
+            "url": null,
+            "title": "Where have the sea's stars gone",
+            "title_japanese": "海の星はどこに?",
+            "title_romanji": null,
+            "aired": "1970-08-02T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 45,
+            "url": null,
+            "title": "Arrival of the demon bird",
+            "title_japanese": "悪魔の島がやってきた",
+            "title_romanji": null,
+            "aired": "1970-08-09T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 46,
+            "url": null,
+            "title": "Looking for snow in summer",
+            "title_japanese": "真夏の雪を探せ!",
+            "title_romanji": null,
+            "aired": "1970-08-16T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 47,
+            "url": null,
+            "title": "The lost pendant",
+            "title_japanese": "なくしたペンダント",
+            "title_romanji": null,
+            "aired": "1970-08-23T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 48,
+            "url": null,
+            "title": "Echo came walking in",
+            "title_japanese": "歩いてきた山びこ",
+            "title_romanji": null,
+            "aired": "1970-08-30T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 49,
+            "url": null,
+            "title": "I hate the piano",
+            "title_japanese": "ピアノなんか大嫌い",
+            "title_romanji": null,
+            "aired": "1970-09-06T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 50,
+            "url": null,
+            "title": "Take off the ring of sleep",
+            "title_japanese": "眠りの輪をぬけだせ",
+            "title_romanji": null,
+            "aired": "1970-09-13T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 51,
+            "url": null,
+            "title": "Autumn, a time of sentimentality",
+            "title_japanese": "秋はおセンチに",
+            "title_romanji": null,
+            "aired": "1970-09-20T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 52,
+            "url": null,
+            "title": "Doll dancing in the moonlight",
+            "title_japanese": "月夜に踊る人形",
+            "title_romanji": null,
+            "aired": "1970-09-27T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 53,
+            "url": null,
+            "title": "What the kite knew",
+            "title_japanese": "凧が知っていた",
+            "title_romanji": null,
+            "aired": "1970-10-04T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 54,
+            "url": null,
+            "title": "Goodbye, migratory birds",
+            "title_japanese": "さようなら渡り鳥",
+            "title_romanji": null,
+            "aired": "1970-10-11T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 55,
+            "url": null,
+            "title": "Flightless dove",
+            "title_japanese": "鳩は飛ばない",
+            "title_romanji": null,
+            "aired": "1970-10-18T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 56,
+            "url": null,
+            "title": "Carnival in Moomin valley",
+            "title_japanese": "ムーミン谷のカーニバル",
+            "title_romanji": null,
+            "aired": "1970-10-25T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 57,
+            "url": null,
+            "title": "Big sister's secret",
+            "title_japanese": "お婆ちゃんのひみつ",
+            "title_romanji": null,
+            "aired": "1970-11-01T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 58,
+            "url": null,
+            "title": "Non-non disappears?",
+            "title_japanese": "ノンノンがいなくなる?",
+            "title_romanji": null,
+            "aired": "1970-11-08T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 59,
+            "url": null,
+            "title": "There's a trick to magic",
+            "title_japanese": "手品にはタネがある",
+            "title_romanji": null,
+            "aired": "1970-11-15T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 60,
+            "url": null,
+            "title": "Winter all alone",
+            "title_japanese": "ひとりぼっちの冬",
+            "title_romanji": null,
+            "aired": "1970-11-22T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 61,
+            "url": null,
+            "title": "Episode 61",
+            "title_japanese": "消えた雪うさぎ",
+            "title_romanji": null,
+            "aired": "1970-11-29T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 62,
+            "url": null,
+            "title": "Ice princess's prank",
+            "title_japanese": "氷姫のいたずら",
+            "title_romanji": null,
+            "aired": "1970-12-06T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 63,
+            "url": null,
+            "title": "Princess for a day",
+            "title_japanese": "一日だけのお姫様",
+            "title_romanji": null,
+            "aired": "1970-12-13T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 64,
+            "url": null,
+            "title": "I'm not afraid of my shadow",
+            "title_japanese": "影なんか恐くない",
+            "title_romanji": null,
+            "aired": "1970-12-20T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 65,
+            "url": null,
+            "title": "Good night, Moomin",
+            "title_japanese": "おやすみムーミン",
+            "title_romanji": null,
+            "aired": "1970-12-27T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        }
+    ]
+}

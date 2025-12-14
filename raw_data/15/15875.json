@@ -1,0 +1,184 @@
+{
+    "id": 15875,
+    "fetched_at": "Sun Dec 14 09:45:22 2025",
+    "metadata": {
+        "mal_id": 15875,
+        "url": "https://myanimelist.net/anime/15875/Shin_Kyojin_no_Hoshi",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1317/139179.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1317/139179t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1317/139179l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1317/139179.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1317/139179t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1317/139179l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Shin Kyojin no Hoshi"
+            },
+            {
+                "type": "Japanese",
+                "title": "新巨人の星"
+            }
+        ],
+        "title": "Shin Kyojin no Hoshi",
+        "title_english": null,
+        "title_japanese": "新巨人の星",
+        "title_synonyms": [],
+        "type": "TV",
+        "source": "Manga",
+        "episodes": 52,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "1977-10-01T00:00:00+00:00",
+            "to": "1978-09-30T00:00:00+00:00",
+            "prop": {
+                "from": {
+                    "day": 1,
+                    "month": 10,
+                    "year": 1977
+                },
+                "to": {
+                    "day": 30,
+                    "month": 9,
+                    "year": 1978
+                }
+            },
+            "string": "Oct 1, 1977 to Sep 30, 1978"
+        },
+        "duration": "25 min per ep",
+        "rating": "G - All Ages",
+        "score": 6.24,
+        "scored_by": 479,
+        "rank": 8939,
+        "popularity": 13925,
+        "members": 1291,
+        "favorites": 1,
+        "synopsis": "A continuation of the popular baseball saga about the star pitcher of a professional baseball team.\n\n(Source: AniDB)",
+        "background": "",
+        "season": "fall",
+        "year": 1977,
+        "broadcast": {
+            "day": null,
+            "time": null,
+            "timezone": null,
+            "string": "Unknown"
+        },
+        "producers": [
+            {
+                "mal_id": 65,
+                "type": "anime",
+                "name": "Tokyo Movie Shinsha",
+                "url": "https://myanimelist.net/anime/producer/65/Tokyo_Movie_Shinsha"
+            },
+            {
+                "mal_id": 76,
+                "type": "anime",
+                "name": "Yomiuri Telecasting",
+                "url": "https://myanimelist.net/anime/producer/76/Yomiuri_Telecasting"
+            }
+        ],
+        "licensors": [],
+        "studios": [],
+        "genres": [
+            {
+                "mal_id": 30,
+                "type": "anime",
+                "name": "Sports",
+                "url": "https://myanimelist.net/anime/genre/30/Sports"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [
+            {
+                "mal_id": 77,
+                "type": "anime",
+                "name": "Team Sports",
+                "url": "https://myanimelist.net/anime/genre/77/Team_Sports"
+            }
+        ],
+        "demographics": [],
+        "relations": [
+            {
+                "relation": "Prequel",
+                "entry": [
+                    {
+                        "mal_id": 5834,
+                        "type": "anime",
+                        "name": "Kyojin no Hoshi",
+                        "url": "https://myanimelist.net/anime/5834/Kyojin_no_Hoshi"
+                    }
+                ]
+            },
+            {
+                "relation": "Sequel",
+                "entry": [
+                    {
+                        "mal_id": 16486,
+                        "type": "anime",
+                        "name": "Shin Kyojin no Hoshi II",
+                        "url": "https://myanimelist.net/anime/16486/Shin_Kyojin_no_Hoshi_II"
+                    }
+                ]
+            },
+            {
+                "relation": "Adaptation",
+                "entry": [
+                    {
+                        "mal_id": 15315,
+                        "type": "manga",
+                        "name": "Shin Kyojin no Hoshi",
+                        "url": "https://myanimelist.net/manga/15315/Shin_Kyojin_no_Hoshi"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [
+                "\"Ike Ike Hiosuuma\" by Isao Sasaki, Koorogi ‘73"
+            ],
+            "endings": [
+                "\"Yomigaere Hyuuma (よみがえれ飛雄馬; Revive Hiyoma)\" by Isao Sasaki, Koorogi '73"
+            ]
+        },
+        "external": [
+            {
+                "name": "Official Site",
+                "url": "http://www.tms-e.com/library/old/tv/data/t_sin_kyojin.html"
+            },
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=5517"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=1447"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "http://en.wikipedia.org/wiki/Star_of_the_Giants"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": []
+}

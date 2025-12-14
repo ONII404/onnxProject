@@ -1,0 +1,236 @@
+{
+    "id": 2452,
+    "fetched_at": "Sun Dec 14 07:24:47 2025",
+    "metadata": {
+        "mal_id": 2452,
+        "url": "https://myanimelist.net/anime/2452/Space_Adventure_Cobra",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/13/42525.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/13/42525t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/13/42525l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/13/42525.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/13/42525t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/13/42525l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Space Adventure Cobra"
+            },
+            {
+                "type": "Synonym",
+                "title": "Cobra Gekijouban"
+            },
+            {
+                "type": "Synonym",
+                "title": "Cobra Space Adventure"
+            },
+            {
+                "type": "Japanese",
+                "title": "SPACE ADVENTURE コブラ"
+            },
+            {
+                "type": "English",
+                "title": "Space Adventure Cobra: The Movie"
+            },
+            {
+                "type": "Spanish",
+                "title": "Super Agente Cobra. La Película"
+            },
+            {
+                "type": "French",
+                "title": "Space Adventure Cobra - Le film"
+            }
+        ],
+        "title": "Space Adventure Cobra",
+        "title_english": "Space Adventure Cobra: The Movie",
+        "title_japanese": "SPACE ADVENTURE コブラ",
+        "title_synonyms": [
+            "Cobra Gekijouban",
+            "Cobra Space Adventure"
+        ],
+        "type": "Movie",
+        "source": "Manga",
+        "episodes": 1,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "1982-07-03T00:00:00+00:00",
+            "to": null,
+            "prop": {
+                "from": {
+                    "day": 3,
+                    "month": 7,
+                    "year": 1982
+                },
+                "to": {
+                    "day": null,
+                    "month": null,
+                    "year": null
+                }
+            },
+            "string": "Jul 3, 1982"
+        },
+        "duration": "1 hr 39 min",
+        "rating": "R+ - Mild Nudity",
+        "score": 7.08,
+        "scored_by": 5493,
+        "rank": 4186,
+        "popularity": 6272,
+        "members": 13328,
+        "favorites": 51,
+        "synopsis": "While enjoying a drink at a bar, a beautiful yet intimidating woman catches the eye of Cobra, an infamous outlaw with a powerful gun fused to his left arm. This woman, Jane Royal, has also caught the eye of the Pirate Guild, a dangerous organization led by the enigmatic Crystal Bowie. As Cobra helps Jane escape the Pirate Guild and find her missing sisters, he discovers that she might just hold the fate of the galaxy in her hands.\n\n[Written by MAL Rewrite]",
+        "background": "",
+        "season": null,
+        "year": null,
+        "broadcast": {
+            "day": null,
+            "time": null,
+            "timezone": null,
+            "string": null
+        },
+        "producers": [
+            {
+                "mal_id": 2518,
+                "type": "anime",
+                "name": "Streamline Pictures",
+                "url": "https://myanimelist.net/anime/producer/2518/Streamline_Pictures"
+            }
+        ],
+        "licensors": [
+            {
+                "mal_id": 467,
+                "type": "anime",
+                "name": "Discotek Media",
+                "url": "https://myanimelist.net/anime/producer/467/Discotek_Media"
+            },
+            {
+                "mal_id": 1447,
+                "type": "anime",
+                "name": "Urban Vision",
+                "url": "https://myanimelist.net/anime/producer/1447/Urban_Vision"
+            }
+        ],
+        "studios": [
+            {
+                "mal_id": 73,
+                "type": "anime",
+                "name": "TMS Entertainment",
+                "url": "https://myanimelist.net/anime/producer/73/TMS_Entertainment"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 1,
+                "type": "anime",
+                "name": "Action",
+                "url": "https://myanimelist.net/anime/genre/1/Action"
+            },
+            {
+                "mal_id": 2,
+                "type": "anime",
+                "name": "Adventure",
+                "url": "https://myanimelist.net/anime/genre/2/Adventure"
+            },
+            {
+                "mal_id": 24,
+                "type": "anime",
+                "name": "Sci-Fi",
+                "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [
+            {
+                "mal_id": 50,
+                "type": "anime",
+                "name": "Adult Cast",
+                "url": "https://myanimelist.net/anime/genre/50/Adult_Cast"
+            },
+            {
+                "mal_id": 29,
+                "type": "anime",
+                "name": "Space",
+                "url": "https://myanimelist.net/anime/genre/29/Space"
+            }
+        ],
+        "demographics": [
+            {
+                "mal_id": 27,
+                "type": "anime",
+                "name": "Shounen",
+                "url": "https://myanimelist.net/anime/genre/27/Shounen"
+            }
+        ],
+        "relations": [
+            {
+                "relation": "Adaptation",
+                "entry": [
+                    {
+                        "mal_id": 1062,
+                        "type": "manga",
+                        "name": "Cobra",
+                        "url": "https://myanimelist.net/manga/1062/Cobra"
+                    }
+                ]
+            },
+            {
+                "relation": "Alternative Version",
+                "entry": [
+                    {
+                        "mal_id": 2451,
+                        "type": "anime",
+                        "name": "Space Cobra",
+                        "url": "https://myanimelist.net/anime/2451/Space_Cobra"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [
+                "\"Daydream Romance\" by Shigeru Matsuzaki",
+                "\"Drive / Driven\" by Yello"
+            ],
+            "endings": [
+                "\"Stay\" by Eve"
+            ]
+        },
+        "external": [
+            {
+                "name": "Official Site",
+                "url": "http://www.tms-e.com/library/old/movie/data/m_cobra.html"
+            },
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=1384"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=2272"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "http://en.wikipedia.org/wiki/Space_Adventure_Cobra"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": []
+}

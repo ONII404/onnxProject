@@ -1,0 +1,162 @@
+{
+    "id": 17086,
+    "fetched_at": "Sun Dec 14 09:52:51 2025",
+    "metadata": {
+        "mal_id": 17086,
+        "url": "https://myanimelist.net/anime/17086/Agigongryong_Doolie_1988",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/8/45787.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/8/45787t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/8/45787l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/8/45787.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/8/45787t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/8/45787l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Agigongryong Doolie (1988)"
+            },
+            {
+                "type": "Synonym",
+                "title": "Baby Dinosaur Dooly (1988)"
+            },
+            {
+                "type": "Japanese",
+                "title": "아기공룡 둘리"
+            },
+            {
+                "type": "English",
+                "title": "Little Dino Dooly (1988)"
+            }
+        ],
+        "title": "Agigongryong Doolie (1988)",
+        "title_english": "Little Dino Dooly (1988)",
+        "title_japanese": "아기공룡 둘리",
+        "title_synonyms": [
+            "Baby Dinosaur Dooly (1988)"
+        ],
+        "type": "TV",
+        "source": "Unknown",
+        "episodes": 7,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "1988-05-05T00:00:00+00:00",
+            "to": null,
+            "prop": {
+                "from": {
+                    "day": 5,
+                    "month": 5,
+                    "year": 1988
+                },
+                "to": {
+                    "day": null,
+                    "month": null,
+                    "year": null
+                }
+            },
+            "string": "May 5, 1988"
+        },
+        "duration": "15 min per ep",
+        "rating": "PG - Children",
+        "score": 5.93,
+        "scored_by": 153,
+        "rank": 10660,
+        "popularity": 17349,
+        "members": 564,
+        "favorites": 0,
+        "synopsis": "Continuation of the series from 1987.",
+        "background": "",
+        "season": "spring",
+        "year": 1988,
+        "broadcast": {
+            "day": null,
+            "time": null,
+            "timezone": null,
+            "string": "Unknown"
+        },
+        "producers": [],
+        "licensors": [],
+        "studios": [],
+        "genres": [],
+        "explicit_genres": [],
+        "themes": [],
+        "demographics": [
+            {
+                "mal_id": 15,
+                "type": "anime",
+                "name": "Kids",
+                "url": "https://myanimelist.net/anime/genre/15/Kids"
+            }
+        ],
+        "relations": [
+            {
+                "relation": "Prequel",
+                "entry": [
+                    {
+                        "mal_id": 17088,
+                        "type": "anime",
+                        "name": "Agigongryong Doolie",
+                        "url": "https://myanimelist.net/anime/17088/Agigongryong_Doolie"
+                    }
+                ]
+            },
+            {
+                "relation": "Alternative Version",
+                "entry": [
+                    {
+                        "mal_id": 17090,
+                        "type": "anime",
+                        "name": "Agigongryong Doolie (2009)",
+                        "url": "https://myanimelist.net/anime/17090/Agigongryong_Doolie_2009"
+                    }
+                ]
+            },
+            {
+                "relation": "Parent Story",
+                "entry": [
+                    {
+                        "mal_id": 16570,
+                        "type": "anime",
+                        "name": "Agigongryong Doolie (Movie)",
+                        "url": "https://myanimelist.net/anime/16570/Agigongryong_Doolie_Movie"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [],
+            "endings": []
+        },
+        "external": [
+            {
+                "name": "Official Site",
+                "url": "http://www.doolynara.com/eng_company"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "http://ko.wikipedia.org/wiki/아기공룡_둘리"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": []
+}

@@ -1,0 +1,180 @@
+{
+    "id": 21467,
+    "fetched_at": "Sun Dec 14 10:06:02 2025",
+    "metadata": {
+        "mal_id": 21467,
+        "url": "https://myanimelist.net/anime/21467/Ikkyuu-san_to_Yancha_Hime",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/4/56635.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/4/56635t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/4/56635l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/4/56635.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/4/56635t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/4/56635l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Ikkyuu-san to Yancha Hime"
+            },
+            {
+                "type": "Synonym",
+                "title": "Ikkyu-san and the Mischievous Princess"
+            },
+            {
+                "type": "Synonym",
+                "title": "The Cunning Monk and the Mischievous Princess"
+            },
+            {
+                "type": "Synonym",
+                "title": "Mister Ikkyu and the Mischievous Princess"
+            },
+            {
+                "type": "Synonym",
+                "title": "Ikkyu the Little Monk and the Mischievous Princess"
+            },
+            {
+                "type": "Japanese",
+                "title": "一休さんとやんちゃ姫"
+            }
+        ],
+        "title": "Ikkyuu-san to Yancha Hime",
+        "title_english": null,
+        "title_japanese": "一休さんとやんちゃ姫",
+        "title_synonyms": [
+            "Ikkyu-san and the Mischievous Princess",
+            "The Cunning Monk and the Mischievous Princess",
+            "Mister Ikkyu and the Mischievous Princess",
+            "Ikkyu the Little Monk and the Mischievous Princess"
+        ],
+        "type": "Movie",
+        "source": "Unknown",
+        "episodes": 1,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "1978-03-18T00:00:00+00:00",
+            "to": null,
+            "prop": {
+                "from": {
+                    "day": 18,
+                    "month": 3,
+                    "year": 1978
+                },
+                "to": {
+                    "day": null,
+                    "month": null,
+                    "year": null
+                }
+            },
+            "string": "Mar 18, 1978"
+        },
+        "duration": "14 min",
+        "rating": "G - All Ages",
+        "score": 6.18,
+        "scored_by": 128,
+        "rank": 9249,
+        "popularity": 17567,
+        "members": 540,
+        "favorites": 0,
+        "synopsis": "Ikkyuu must talk a tomboy into behaving in a more lady-like manner before her habit of calling herself by the boy's name Tsuyumaru and attacking shogun Yoshimitsu Ashikaga with a wooden sword gets her into trouble.\n\n(Source: AniDB)",
+        "background": "",
+        "season": null,
+        "year": null,
+        "broadcast": {
+            "day": null,
+            "time": null,
+            "timezone": null,
+            "string": null
+        },
+        "producers": [],
+        "licensors": [],
+        "studios": [
+            {
+                "mal_id": 18,
+                "type": "anime",
+                "name": "Toei Animation",
+                "url": "https://myanimelist.net/anime/producer/18/Toei_Animation"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 4,
+                "type": "anime",
+                "name": "Comedy",
+                "url": "https://myanimelist.net/anime/genre/4/Comedy"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [
+            {
+                "mal_id": 13,
+                "type": "anime",
+                "name": "Historical",
+                "url": "https://myanimelist.net/anime/genre/13/Historical"
+            }
+        ],
+        "demographics": [
+            {
+                "mal_id": 15,
+                "type": "anime",
+                "name": "Kids",
+                "url": "https://myanimelist.net/anime/genre/15/Kids"
+            }
+        ],
+        "relations": [
+            {
+                "relation": "Parent Story",
+                "entry": [
+                    {
+                        "mal_id": 4935,
+                        "type": "anime",
+                        "name": "Ikkyuu-san",
+                        "url": "https://myanimelist.net/anime/4935/Ikkyuu-san"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [
+                "\"Tonchin Kanchin Ikkyu-san (とんちんかんちん一休さん)\" by Megumi Aiuchi and Young Fresh"
+            ],
+            "endings": [
+                "'Hahaue-sama (ははうえさま)\" by Toshiko Fujita"
+            ]
+        },
+        "external": [
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=1680"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=3628"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "http://ja.wikipedia.org/wiki/%E4%B8%80%E4%BC%91%E3%81%95%E3%82%93_(%E3%83%86%E3%83%AC%E3%83%93%E3%82%A2%E3%83%8B%E3%83%A1)"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": []
+}

@@ -1,0 +1,183 @@
+{
+    "id": 19973,
+    "fetched_at": "Sun Dec 14 10:01:50 2025",
+    "metadata": {
+        "mal_id": 19973,
+        "url": "https://myanimelist.net/anime/19973/Ashita_no_Joe_Pilots",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/11/53387.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/11/53387t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/11/53387l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/11/53387.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/11/53387t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/11/53387l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Ashita no Joe Pilots"
+            },
+            {
+                "type": "Synonym",
+                "title": "Ashita no Joe: Aoyama & Rikiishi Pilot Episodes"
+            },
+            {
+                "type": "Japanese",
+                "title": "あしたのジョー パイロットフィルム"
+            },
+            {
+                "type": "English",
+                "title": "Tomorrow's Joe Pilots"
+            }
+        ],
+        "title": "Ashita no Joe Pilots",
+        "title_english": "Tomorrow's Joe Pilots",
+        "title_japanese": "あしたのジョー パイロットフィルム",
+        "title_synonyms": [
+            "Ashita no Joe: Aoyama & Rikiishi Pilot Episodes"
+        ],
+        "type": "Special",
+        "source": "Manga",
+        "episodes": 2,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "1969-11-06T00:00:00+00:00",
+            "to": "1969-12-22T00:00:00+00:00",
+            "prop": {
+                "from": {
+                    "day": 6,
+                    "month": 11,
+                    "year": 1969
+                },
+                "to": {
+                    "day": 22,
+                    "month": 12,
+                    "year": 1969
+                }
+            },
+            "string": "Nov 6, 1969 to Dec 22, 1969"
+        },
+        "duration": "10 min per ep",
+        "rating": "PG-13 - Teens 13 or older",
+        "score": 6.2,
+        "scored_by": 2609,
+        "rank": 9131,
+        "popularity": 8438,
+        "members": 6467,
+        "favorites": 5,
+        "synopsis": "Pilot episodes.",
+        "background": "",
+        "season": null,
+        "year": null,
+        "broadcast": {
+            "day": null,
+            "time": null,
+            "timezone": null,
+            "string": null
+        },
+        "producers": [],
+        "licensors": [],
+        "studios": [
+            {
+                "mal_id": 68,
+                "type": "anime",
+                "name": "Mushi Production",
+                "url": "https://myanimelist.net/anime/producer/68/Mushi_Production"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 8,
+                "type": "anime",
+                "name": "Drama",
+                "url": "https://myanimelist.net/anime/genre/8/Drama"
+            },
+            {
+                "mal_id": 30,
+                "type": "anime",
+                "name": "Sports",
+                "url": "https://myanimelist.net/anime/genre/30/Sports"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [
+            {
+                "mal_id": 54,
+                "type": "anime",
+                "name": "Combat Sports",
+                "url": "https://myanimelist.net/anime/genre/54/Combat_Sports"
+            }
+        ],
+        "demographics": [
+            {
+                "mal_id": 27,
+                "type": "anime",
+                "name": "Shounen",
+                "url": "https://myanimelist.net/anime/genre/27/Shounen"
+            }
+        ],
+        "relations": [
+            {
+                "relation": "Sequel",
+                "entry": [
+                    {
+                        "mal_id": 2402,
+                        "type": "anime",
+                        "name": "Ashita no Joe",
+                        "url": "https://myanimelist.net/anime/2402/Ashita_no_Joe"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [],
+            "endings": []
+        },
+        "external": [],
+        "streaming": []
+    },
+    "episodes": [
+        {
+            "mal_id": 1,
+            "url": null,
+            "title": "Aoyama Pilot",
+            "title_japanese": "青山パイロット",
+            "title_romanji": "Aoyama Pilot ",
+            "aired": "1969-11-06T00:00:00+00:00",
+            "score": 3.64,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1413343"
+        },
+        {
+            "mal_id": 2,
+            "url": null,
+            "title": "Rikiishi Pilot",
+            "title_japanese": "力石 パイロット",
+            "title_romanji": "Rikiishi Pilot ",
+            "aired": "1969-12-22T00:00:00+00:00",
+            "score": 3.73,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1413344"
+        }
+    ]
+}

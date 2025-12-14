@@ -1,0 +1,578 @@
+{
+    "id": 16,
+    "fetched_at": "Sun Dec 14 12:30:30 2025",
+    "metadata": {
+        "mal_id": 16,
+        "url": "https://myanimelist.net/anime/16/Hachimitsu_to_Clover",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1301/133577.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1301/133577t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1301/133577l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1301/133577.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1301/133577t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1301/133577l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": "https://www.youtube-nocookie.com/embed/6TN4a0kZuXg?enablejsapi=1&wmode=opaque&autoplay=1",
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Hachimitsu to Clover"
+            },
+            {
+                "type": "Synonym",
+                "title": "HachiKuro"
+            },
+            {
+                "type": "Synonym",
+                "title": "Honey & Clover"
+            },
+            {
+                "type": "Japanese",
+                "title": "ハチミツとクローバー"
+            },
+            {
+                "type": "English",
+                "title": "Honey and Clover"
+            },
+            {
+                "type": "German",
+                "title": "Honey and Clover"
+            },
+            {
+                "type": "Spanish",
+                "title": "Honey and Clover"
+            },
+            {
+                "type": "French",
+                "title": "Honey and Clover"
+            }
+        ],
+        "title": "Hachimitsu to Clover",
+        "title_english": "Honey and Clover",
+        "title_japanese": "ハチミツとクローバー",
+        "title_synonyms": [
+            "HachiKuro",
+            "Honey & Clover"
+        ],
+        "type": "TV",
+        "source": "Manga",
+        "episodes": 24,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "2005-04-15T00:00:00+00:00",
+            "to": "2005-09-27T00:00:00+00:00",
+            "prop": {
+                "from": {
+                    "day": 15,
+                    "month": 4,
+                    "year": 2005
+                },
+                "to": {
+                    "day": 27,
+                    "month": 9,
+                    "year": 2005
+                }
+            },
+            "string": "Apr 15, 2005 to Sep 27, 2005"
+        },
+        "duration": "23 min per ep",
+        "rating": "PG-13 - Teens 13 or older",
+        "score": 7.98,
+        "scored_by": 86404,
+        "rank": 726,
+        "popularity": 962,
+        "members": 282323,
+        "favorites": 4194,
+        "synopsis": "Yuuta Takemoto, a sophomore at an arts college, shares a cheap apartment with two seniors—the eccentric Shinobu Morita, who keeps failing to graduate due to his absenteeism, and the sensible Takumi Mayama, who acts as a proper senior to Takemoto, often looking out for him.\n\nTakemoto had not given much thought to his future until one fine spring day, when he meets the endearing Hagumi Hanamoto and falls in love at first sight. Incredibly gifted in the arts, Hagumi enrolls in Takemoto's university and soon befriends the popular pottery student Ayumi Yamada. Ayumi is already well acquainted with the three flatmates and secretly harbors deep feelings for one of them.\n\nHachimitsu to Clover is a heartwarming tale of youth, love, soul-searching, and self-discovery, intricately woven through the complex relationships between five dear friends.\n\n[Written by MAL Rewrite]",
+        "background": "Hachimitsu to Clover was the first anime to air on Fuji Television's noitaminA block.",
+        "season": "spring",
+        "year": 2005,
+        "broadcast": {
+            "day": "Fridays",
+            "time": "00:35",
+            "timezone": "Asia/Tokyo",
+            "string": "Fridays at 00:35 (JST)"
+        },
+        "producers": [
+            {
+                "mal_id": 53,
+                "type": "anime",
+                "name": "Dentsu",
+                "url": "https://myanimelist.net/anime/producer/53/Dentsu"
+            },
+            {
+                "mal_id": 79,
+                "type": "anime",
+                "name": "Genco",
+                "url": "https://myanimelist.net/anime/producer/79/Genco"
+            },
+            {
+                "mal_id": 169,
+                "type": "anime",
+                "name": "Fuji TV",
+                "url": "https://myanimelist.net/anime/producer/169/Fuji_TV"
+            },
+            {
+                "mal_id": 517,
+                "type": "anime",
+                "name": "Asmik Ace",
+                "url": "https://myanimelist.net/anime/producer/517/Asmik_Ace"
+            },
+            {
+                "mal_id": 1365,
+                "type": "anime",
+                "name": "Shueisha",
+                "url": "https://myanimelist.net/anime/producer/1365/Shueisha"
+            }
+        ],
+        "licensors": [
+            {
+                "mal_id": 119,
+                "type": "anime",
+                "name": "VIZ Media",
+                "url": "https://myanimelist.net/anime/producer/119/VIZ_Media"
+            },
+            {
+                "mal_id": 467,
+                "type": "anime",
+                "name": "Discotek Media",
+                "url": "https://myanimelist.net/anime/producer/467/Discotek_Media"
+            }
+        ],
+        "studios": [
+            {
+                "mal_id": 7,
+                "type": "anime",
+                "name": "J.C.Staff",
+                "url": "https://myanimelist.net/anime/producer/7/JCStaff"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 4,
+                "type": "anime",
+                "name": "Comedy",
+                "url": "https://myanimelist.net/anime/genre/4/Comedy"
+            },
+            {
+                "mal_id": 8,
+                "type": "anime",
+                "name": "Drama",
+                "url": "https://myanimelist.net/anime/genre/8/Drama"
+            },
+            {
+                "mal_id": 22,
+                "type": "anime",
+                "name": "Romance",
+                "url": "https://myanimelist.net/anime/genre/22/Romance"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [
+            {
+                "mal_id": 50,
+                "type": "anime",
+                "name": "Adult Cast",
+                "url": "https://myanimelist.net/anime/genre/50/Adult_Cast"
+            },
+            {
+                "mal_id": 64,
+                "type": "anime",
+                "name": "Love Polygon",
+                "url": "https://myanimelist.net/anime/genre/64/Love_Polygon"
+            },
+            {
+                "mal_id": 80,
+                "type": "anime",
+                "name": "Visual Arts",
+                "url": "https://myanimelist.net/anime/genre/80/Visual_Arts"
+            }
+        ],
+        "demographics": [
+            {
+                "mal_id": 43,
+                "type": "anime",
+                "name": "Josei",
+                "url": "https://myanimelist.net/anime/genre/43/Josei"
+            }
+        ],
+        "relations": [
+            {
+                "relation": "Sequel",
+                "entry": [
+                    {
+                        "mal_id": 1142,
+                        "type": "anime",
+                        "name": "Hachimitsu to Clover II",
+                        "url": "https://myanimelist.net/anime/1142/Hachimitsu_to_Clover_II"
+                    }
+                ]
+            },
+            {
+                "relation": "Adaptation",
+                "entry": [
+                    {
+                        "mal_id": 1009,
+                        "type": "manga",
+                        "name": "Hachimitsu to Clover",
+                        "url": "https://myanimelist.net/manga/1009/Hachimitsu_to_Clover"
+                    }
+                ]
+            },
+            {
+                "relation": "Side Story",
+                "entry": [
+                    {
+                        "mal_id": 644,
+                        "type": "anime",
+                        "name": "Hachimitsu to Clover Specials",
+                        "url": "https://myanimelist.net/anime/644/Hachimitsu_to_Clover_Specials"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [
+                "\"Dramatic\" by Yuki (eps 1-12,24)"
+            ],
+            "endings": [
+                "1: \"Waltz\" by Suneohair (eps 13-23)",
+                "2: \"Mistake\" by THE BAND HAS NO NAME"
+            ]
+        },
+        "external": [
+            {
+                "name": "Official Site",
+                "url": "http://www.hachikuro.net/"
+            },
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=2835"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=4975"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "http://en.wikipedia.org/wiki/Honey_and_Clover"
+            },
+            {
+                "name": "Syoboi",
+                "url": "https://cal.syoboi.jp/tid/592"
+            },
+            {
+                "name": "Fandom Wiki",
+                "url": "https://honeyandclover.fandom.com/wiki/Honey_and_Clover_Wiki"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": [
+        {
+            "mal_id": 1,
+            "url": "https://myanimelist.net/anime/16/Hachimitsu_to_Clover/episode/1",
+            "title": "The Day It All Began",
+            "title_japanese": "はじまりの日",
+            "title_romanji": "Hajimari no Hi ",
+            "aired": "2005-04-15T00:00:00+00:00",
+            "score": 3.85,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=16692"
+        },
+        {
+            "mal_id": 2,
+            "url": "https://myanimelist.net/anime/16/Hachimitsu_to_Clover/episode/2",
+            "title": "The two affections start to turn",
+            "title_japanese": "2つの恋が回り出す",
+            "title_romanji": "Futatsu no Koi ga Mawari-dasu ",
+            "aired": "2005-04-22T00:00:00+00:00",
+            "score": 4.07,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=16708"
+        },
+        {
+            "mal_id": 3,
+            "url": "https://myanimelist.net/anime/16/Hachimitsu_to_Clover/episode/3",
+            "title": "These were two unrequited loves",
+            "title_japanese": "それは2つの片思い",
+            "title_romanji": "Sore wa Futatsu no Kataomoi ",
+            "aired": "2005-04-29T00:00:00+00:00",
+            "score": 4.22,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=16720"
+        },
+        {
+            "mal_id": 4,
+            "url": "https://myanimelist.net/anime/16/Hachimitsu_to_Clover/episode/4",
+            "title": "The boy and girl are swayed",
+            "title_japanese": "彼と彼女が揺れ動く",
+            "title_romanji": "Kare to Kanojo ga Yure-ugoku ",
+            "aired": "2005-05-06T00:00:00+00:00",
+            "score": 4.33,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=16800"
+        },
+        {
+            "mal_id": 5,
+            "url": "https://myanimelist.net/anime/16/Hachimitsu_to_Clover/episode/5",
+            "title": "I think of my mother in my hometown",
+            "title_japanese": "故郷の母を想う",
+            "title_romanji": "Kokyou no Haha wo Omou ",
+            "aired": "2005-05-13T00:00:00+00:00",
+            "score": 4.41,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=16819"
+        },
+        {
+            "mal_id": 6,
+            "url": "https://myanimelist.net/anime/16/Hachimitsu_to_Clover/episode/6",
+            "title": "The past, the tears, the confession",
+            "title_japanese": "過去と涙と告白と",
+            "title_romanji": "Kako to Namida to Kokuhaku to ",
+            "aired": "2005-05-20T00:00:00+00:00",
+            "score": 4.56,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=16825"
+        },
+        {
+            "mal_id": 7,
+            "url": "https://myanimelist.net/anime/16/Hachimitsu_to_Clover/episode/7",
+            "title": "We Look for a Miracle",
+            "title_japanese": "僕たちは奇跡を探す",
+            "title_romanji": "Boku-tachi wa Kiseki wo Sagasu ",
+            "aired": "2005-05-27T00:00:00+00:00",
+            "score": 4.43,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=16853"
+        },
+        {
+            "mal_id": 8,
+            "url": "https://myanimelist.net/anime/16/Hachimitsu_to_Clover/episode/8",
+            "title": "Because I Can't Leave You Alone",
+            "title_japanese": "キミを放っておけなくて",
+            "title_romanji": "Kimi wo Houtte Okenakute ",
+            "aired": "2005-06-03T00:00:00+00:00",
+            "score": 4.59,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=46321"
+        },
+        {
+            "mal_id": 9,
+            "url": "https://myanimelist.net/anime/16/Hachimitsu_to_Clover/episode/9",
+            "title": "That brooch was so heavy",
+            "title_japanese": "そのブローチが重たくて",
+            "title_romanji": "Sono Brooch ga Omotakute ",
+            "aired": "2005-06-10T00:00:00+00:00",
+            "score": 4.44,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=16921"
+        },
+        {
+            "mal_id": 10,
+            "url": "https://myanimelist.net/anime/16/Hachimitsu_to_Clover/episode/10",
+            "title": "We Fly Across the Sky",
+            "title_japanese": "僕たちは空を横切る",
+            "title_romanji": "Bokutachi wa Sora wo Yokogiru ",
+            "aired": "2005-06-24T00:00:00+00:00",
+            "score": 4.45,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=16943"
+        },
+        {
+            "mal_id": 11,
+            "url": "https://myanimelist.net/anime/16/Hachimitsu_to_Clover/episode/11",
+            "title": "Love pushes us around",
+            "title_japanese": "恋に振り回されて",
+            "title_romanji": "Koi ni Furimawasarete ",
+            "aired": "2005-07-01T00:00:00+00:00",
+            "score": 4.31,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=16967"
+        },
+        {
+            "mal_id": 12,
+            "url": "https://myanimelist.net/anime/16/Hachimitsu_to_Clover/episode/12",
+            "title": "The sudden kiss, the unexpected parting",
+            "title_japanese": "突然のキス, 唐突な別れ",
+            "title_romanji": "Totsuzen no Kiss, Toutotsu na Wakare ",
+            "aired": "2005-07-08T00:00:00+00:00",
+            "score": 4.37,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=16993"
+        },
+        {
+            "mal_id": 13,
+            "url": "https://myanimelist.net/anime/16/Hachimitsu_to_Clover/episode/13",
+            "title": "All I wanted to hear was that little thing",
+            "title_japanese": "そのたったひと言がききたくて",
+            "title_romanji": "Sono Tatta Hitokoto ga Kikitakute ",
+            "aired": "2005-07-15T00:00:00+00:00",
+            "score": 4.43,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=17083"
+        },
+        {
+            "mal_id": 14,
+            "url": "https://myanimelist.net/anime/16/Hachimitsu_to_Clover/episode/14",
+            "title": "I touched her in my dream",
+            "title_japanese": "夢の中で彼女に触れた",
+            "title_romanji": "Yume no Naka de Kanojo ni Fureta ",
+            "aired": "2005-07-22T00:00:00+00:00",
+            "score": 4.23,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=17102"
+        },
+        {
+            "mal_id": 15,
+            "url": "https://myanimelist.net/anime/16/Hachimitsu_to_Clover/episode/15",
+            "title": "My cowardly self starts running",
+            "title_japanese": "卑怯な僕が走り出す",
+            "title_romanji": "Hikyou na Boku ga Hashiridasu ",
+            "aired": "2005-07-29T00:00:00+00:00",
+            "score": 4.5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=17108"
+        },
+        {
+            "mal_id": 16,
+            "url": "https://myanimelist.net/anime/16/Hachimitsu_to_Clover/episode/16",
+            "title": "The moon is calling her",
+            "title_japanese": "が彼女を呼んでいる",
+            "title_romanji": "Tsuki wa Kanojo wo Yondeiru ",
+            "aired": "2005-08-05T00:00:00+00:00",
+            "score": 4.55,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=17201"
+        },
+        {
+            "mal_id": 17,
+            "url": "https://myanimelist.net/anime/16/Hachimitsu_to_Clover/episode/17",
+            "title": "I don't even know how I feel",
+            "title_japanese": "自分の気持ちもわからない",
+            "title_romanji": "Jibun no Kimochi mo Wakaranai ",
+            "aired": "2005-08-12T00:00:00+00:00",
+            "score": 4.42,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=17211"
+        },
+        {
+            "mal_id": 18,
+            "url": "https://myanimelist.net/anime/16/Hachimitsu_to_Clover/episode/18",
+            "title": "He came back",
+            "title_japanese": "あの人が帰ってきた",
+            "title_romanji": "Ano Hito ga Kaettekita ",
+            "aired": "2005-08-19T00:00:00+00:00",
+            "score": 4.55,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=17223"
+        },
+        {
+            "mal_id": 19,
+            "url": "https://myanimelist.net/anime/16/Hachimitsu_to_Clover/episode/19",
+            "title": "Time begins to move again",
+            "title_japanese": "止まった時間が動き出す",
+            "title_romanji": "Tomatta Jikan ga Ugokidasu ",
+            "aired": "2005-08-26T00:00:00+00:00",
+            "score": 4.54,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=17314"
+        },
+        {
+            "mal_id": 20,
+            "url": "https://myanimelist.net/anime/16/Hachimitsu_to_Clover/episode/20",
+            "title": "I pray to the moon hovering in the night sky",
+            "title_japanese": "夜空に浮かぶ月に祈る",
+            "title_romanji": "Yozora ni Ukabu Tsuki ni Inoru ",
+            "aired": "2005-09-02T00:00:00+00:00",
+            "score": 4.21,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=17315"
+        },
+        {
+            "mal_id": 21,
+            "url": "https://myanimelist.net/anime/16/Hachimitsu_to_Clover/episode/21",
+            "title": "I've always been scared",
+            "title_japanese": "僕は, いつも怖かった",
+            "title_romanji": "Boku wa, Itsumo Kowakatta ",
+            "aired": "2005-09-09T00:00:00+00:00",
+            "score": 4.46,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=17340"
+        },
+        {
+            "mal_id": 22,
+            "url": "https://myanimelist.net/anime/16/Hachimitsu_to_Clover/episode/22",
+            "title": "Like a flower getting wet in the rain",
+            "title_japanese": "雨に濡れた花のように",
+            "title_romanji": "Ame ni Nureta Hana no You ni ",
+            "aired": "2005-09-16T00:00:00+00:00",
+            "score": 4.49,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=17440"
+        },
+        {
+            "mal_id": 23,
+            "url": "https://myanimelist.net/anime/16/Hachimitsu_to_Clover/episode/23",
+            "title": "And so, I begin to run",
+            "title_japanese": "そして, 僕は走り出す",
+            "title_romanji": "Soshite, Boku wa Hashiridasu ",
+            "aired": "2005-09-23T00:00:00+00:00",
+            "score": 4.61,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=17441"
+        },
+        {
+            "mal_id": 24,
+            "url": "https://myanimelist.net/anime/16/Hachimitsu_to_Clover/episode/24",
+            "title": "We're a Continuously Spinning Ferris Wheel",
+            "title_japanese": "僕たちは, 回り続ける観覧車",
+            "title_romanji": "Bokutachi wa, Mawari Tsuzukeru Ganransha ",
+            "aired": "2005-09-27T00:00:00+00:00",
+            "score": 4.72,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=46545"
+        }
+    ]
+}

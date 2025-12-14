@@ -1,0 +1,173 @@
+{
+    "id": 10815,
+    "fetched_at": "Sun Dec 14 09:35:20 2025",
+    "metadata": {
+        "mal_id": 10815,
+        "url": "https://myanimelist.net/anime/10815/UFO_Senshi_Dai_Apolon_2",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1337/127058.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1337/127058t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1337/127058l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1337/127058.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1337/127058t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1337/127058l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "UFO Senshi Dai Apolon 2"
+            },
+            {
+                "type": "Synonym",
+                "title": "UFO Warrior Dai Apolon 2"
+            },
+            {
+                "type": "Synonym",
+                "title": "Shadow World 2"
+            },
+            {
+                "type": "Japanese",
+                "title": "UFO戦士ダイアポロンII"
+            }
+        ],
+        "title": "UFO Senshi Dai Apolon 2",
+        "title_english": null,
+        "title_japanese": "UFO戦士ダイアポロンII",
+        "title_synonyms": [
+            "UFO Warrior Dai Apolon 2",
+            "Shadow World 2"
+        ],
+        "type": "TV",
+        "source": "Original",
+        "episodes": 21,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "1976-10-07T00:00:00+00:00",
+            "to": "1977-02-24T00:00:00+00:00",
+            "prop": {
+                "from": {
+                    "day": 7,
+                    "month": 10,
+                    "year": 1976
+                },
+                "to": {
+                    "day": 24,
+                    "month": 2,
+                    "year": 1977
+                }
+            },
+            "string": "Oct 7, 1976 to Feb 24, 1977"
+        },
+        "duration": "24 min per ep",
+        "rating": "PG-13 - Teens 13 or older",
+        "score": 6.16,
+        "scored_by": 417,
+        "rank": 9407,
+        "popularity": 14571,
+        "members": 1099,
+        "favorites": 1,
+        "synopsis": "Second season of UFO Senshi Dai Apolon.",
+        "background": "",
+        "season": "fall",
+        "year": 1976,
+        "broadcast": {
+            "day": "Saturdays",
+            "time": "19:00",
+            "timezone": "Asia/Tokyo",
+            "string": "Saturdays at 19:00 (JST)"
+        },
+        "producers": [],
+        "licensors": [],
+        "studios": [
+            {
+                "mal_id": 191,
+                "type": "anime",
+                "name": "Eiken",
+                "url": "https://myanimelist.net/anime/producer/191/Eiken"
+            },
+            {
+                "mal_id": 1383,
+                "type": "anime",
+                "name": "Studio Live",
+                "url": "https://myanimelist.net/anime/producer/1383/Studio_Live"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 24,
+                "type": "anime",
+                "name": "Sci-Fi",
+                "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [
+            {
+                "mal_id": 18,
+                "type": "anime",
+                "name": "Mecha",
+                "url": "https://myanimelist.net/anime/genre/18/Mecha"
+            }
+        ],
+        "demographics": [],
+        "relations": [
+            {
+                "relation": "Prequel",
+                "entry": [
+                    {
+                        "mal_id": 3361,
+                        "type": "anime",
+                        "name": "UFO Senshi Dai Apolon",
+                        "url": "https://myanimelist.net/anime/3361/UFO_Senshi_Dai_Apolon"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [
+                "\"UFO Senshi Dai Apolon (UFO戦士ダイアポロン)\" by Shimon Masato"
+            ],
+            "endings": [
+                "\"UFO Shounen Dan no Uta (UFO少年団の歌)\" by Shimon Masato"
+            ]
+        },
+        "external": [
+            {
+                "name": "Official Site",
+                "url": "http://www.eiken-anime.jp/works/works024.html"
+            },
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=5079"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=11501"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "http://en.wikipedia.org/wiki/UFO_Warrior_Dai_Apolon"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": []
+}

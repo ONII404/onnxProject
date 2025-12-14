@@ -1,0 +1,842 @@
+{
+    "id": 4690,
+    "fetched_at": "Sun Dec 14 08:42:34 2025",
+    "metadata": {
+        "mal_id": 4690,
+        "url": "https://myanimelist.net/anime/4690/Cyborg_009_1979",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/12/56741.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/12/56741t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/12/56741l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/12/56741.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/12/56741t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/12/56741l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Cyborg 009 (1979)"
+            },
+            {
+                "type": "Synonym",
+                "title": "Cyborg 009 (TV 2)"
+            },
+            {
+                "type": "Japanese",
+                "title": "サイボーグ009"
+            },
+            {
+                "type": "English",
+                "title": "Cyborg 009"
+            },
+            {
+                "type": "German",
+                "title": "Raumstation Cyborg 009"
+            }
+        ],
+        "title": "Cyborg 009 (1979)",
+        "title_english": "Cyborg 009",
+        "title_japanese": "サイボーグ009",
+        "title_synonyms": [
+            "Cyborg 009 (TV 2)"
+        ],
+        "type": "TV",
+        "source": "Manga",
+        "episodes": 50,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "1979-03-06T00:00:00+00:00",
+            "to": "1980-03-25T00:00:00+00:00",
+            "prop": {
+                "from": {
+                    "day": 6,
+                    "month": 3,
+                    "year": 1979
+                },
+                "to": {
+                    "day": 25,
+                    "month": 3,
+                    "year": 1980
+                }
+            },
+            "string": "Mar 6, 1979 to Mar 25, 1980"
+        },
+        "duration": "24 min per ep",
+        "rating": "PG-13 - Teens 13 or older",
+        "score": 7.15,
+        "scored_by": 3921,
+        "rank": 3784,
+        "popularity": 6448,
+        "members": 12490,
+        "favorites": 40,
+        "synopsis": "Joe Shimamura and his companions may seem like regular men, but they are anything but. Joe is actually Cyborg 009, member of a team of cyborgs who fight for the greater good. Each cyborg is outfitted with a special power, from the ability to melt any material, to underwater breathing and flight. He and the other eight cyborgs were modified against their will by the Neo-Black Ghosts organization in order to further their own interests. But instead, they decided to band together and use their powers to fight against their former captors, and all forces of evil.",
+        "background": "Cyborg 009 (1979) is the original adaptation of the first manga to be featured in colour. Come the 1980s, Fuji Television allowed a subtitled English version to air in certain areas of the United States.",
+        "season": "spring",
+        "year": 1979,
+        "broadcast": {
+            "day": "Tuesdays",
+            "time": "19:00",
+            "timezone": "Asia/Tokyo",
+            "string": "Tuesdays at 19:00 (JST)"
+        },
+        "producers": [],
+        "licensors": [],
+        "studios": [
+            {
+                "mal_id": 18,
+                "type": "anime",
+                "name": "Toei Animation",
+                "url": "https://myanimelist.net/anime/producer/18/Toei_Animation"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 1,
+                "type": "anime",
+                "name": "Action",
+                "url": "https://myanimelist.net/anime/genre/1/Action"
+            },
+            {
+                "mal_id": 2,
+                "type": "anime",
+                "name": "Adventure",
+                "url": "https://myanimelist.net/anime/genre/2/Adventure"
+            },
+            {
+                "mal_id": 24,
+                "type": "anime",
+                "name": "Sci-Fi",
+                "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [],
+        "demographics": [
+            {
+                "mal_id": 27,
+                "type": "anime",
+                "name": "Shounen",
+                "url": "https://myanimelist.net/anime/genre/27/Shounen"
+            }
+        ],
+        "relations": [
+            {
+                "relation": "Adaptation",
+                "entry": [
+                    {
+                        "mal_id": 1639,
+                        "type": "manga",
+                        "name": "Cyborg 009",
+                        "url": "https://myanimelist.net/manga/1639/Cyborg_009"
+                    }
+                ]
+            },
+            {
+                "relation": "Side Story",
+                "entry": [
+                    {
+                        "mal_id": 7336,
+                        "type": "anime",
+                        "name": "Cyborg 009: Chou Ginga Densetsu",
+                        "url": "https://myanimelist.net/anime/7336/Cyborg_009__Chou_Ginga_Densetsu"
+                    }
+                ]
+            },
+            {
+                "relation": "Alternative Version",
+                "entry": [
+                    {
+                        "mal_id": 8394,
+                        "type": "anime",
+                        "name": "Cyborg 009 (TV)",
+                        "url": "https://myanimelist.net/anime/8394/Cyborg_009_TV"
+                    },
+                    {
+                        "mal_id": 1678,
+                        "type": "anime",
+                        "name": "Cyborg 009: The Cyborg Soldier",
+                        "url": "https://myanimelist.net/anime/1678/Cyborg_009__The_Cyborg_Soldier"
+                    },
+                    {
+                        "mal_id": 33685,
+                        "type": "anime",
+                        "name": "Cyborg 009: Call of Justice 1",
+                        "url": "https://myanimelist.net/anime/33685/Cyborg_009__Call_of_Justice_1"
+                    },
+                    {
+                        "mal_id": 33686,
+                        "type": "anime",
+                        "name": "Cyborg 009: Call of Justice 2",
+                        "url": "https://myanimelist.net/anime/33686/Cyborg_009__Call_of_Justice_2"
+                    },
+                    {
+                        "mal_id": 33687,
+                        "type": "anime",
+                        "name": "Cyborg 009: Call of Justice 3",
+                        "url": "https://myanimelist.net/anime/33687/Cyborg_009__Call_of_Justice_3"
+                    }
+                ]
+            },
+            {
+                "relation": "Other",
+                "entry": [
+                    {
+                        "mal_id": 6872,
+                        "type": "anime",
+                        "name": "Cyborg 009",
+                        "url": "https://myanimelist.net/anime/6872/Cyborg_009"
+                    },
+                    {
+                        "mal_id": 31050,
+                        "type": "anime",
+                        "name": "Cyborg 009 VS Devilman",
+                        "url": "https://myanimelist.net/anime/31050/Cyborg_009_VS_Devilman"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [
+                "\"Dare ga Tame ni (誰がために)\" by Ken Narita"
+            ],
+            "endings": [
+                "\"Itsu no Hi ka (いつの日か)\" by Koorogi '73"
+            ]
+        },
+        "external": [
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=2346"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=1838"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "http://en.wikipedia.org/wiki/Cyborg_009"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": [
+        {
+            "mal_id": 1,
+            "url": null,
+            "title": "The Awakening of Gods",
+            "title_japanese": "よみがえった神々",
+            "title_romanji": "Yomigaetta Kamigami ",
+            "aired": "1979-03-06T00:00:00+00:00",
+            "score": 4.38,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1555855"
+        },
+        {
+            "mal_id": 2,
+            "url": null,
+            "title": "Sleeping Inside Ice",
+            "title_japanese": "氷にねむる巨人",
+            "title_romanji": null,
+            "aired": "1979-03-13T00:00:00+00:00",
+            "score": 5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1555861"
+        },
+        {
+            "mal_id": 3,
+            "url": null,
+            "title": "The Giant of the Arc de Triumph",
+            "title_japanese": "凱旋門の鬼",
+            "title_romanji": null,
+            "aired": "1979-03-20T00:00:00+00:00",
+            "score": 4.75,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1555850"
+        },
+        {
+            "mal_id": 4,
+            "url": null,
+            "title": "The Star of Africa",
+            "title_japanese": "誇りに燃えよアフリカの星",
+            "title_romanji": null,
+            "aired": "1979-03-27T00:00:00+00:00",
+            "score": 5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1557670"
+        },
+        {
+            "mal_id": 5,
+            "url": null,
+            "title": "The Giant in the Easter Island",
+            "title_japanese": "巨人よ眠れ伝説の中に",
+            "title_romanji": null,
+            "aired": "1979-04-03T00:00:00+00:00",
+            "score": 5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1560972"
+        },
+        {
+            "mal_id": 6,
+            "url": null,
+            "title": "The Tears of the Goddess",
+            "title_japanese": "女神の涙なんかほしくない",
+            "title_romanji": null,
+            "aired": "1979-04-10T00:00:00+00:00",
+            "score": 4.5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1563174"
+        },
+        {
+            "mal_id": 7,
+            "url": null,
+            "title": "The Trap",
+            "title_japanese": "神々の罠",
+            "title_romanji": null,
+            "aired": "1979-04-17T00:00:00+00:00",
+            "score": 5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1563291"
+        },
+        {
+            "mal_id": 8,
+            "url": null,
+            "title": "Fiddle of Love",
+            "title_japanese": "愛に響けバイオリン",
+            "title_romanji": null,
+            "aired": "1979-04-24T00:00:00+00:00",
+            "score": 4.33,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1564507"
+        },
+        {
+            "mal_id": 9,
+            "url": null,
+            "title": "The Village of the Cosmic Tree",
+            "title_japanese": "宇宙樹の村が呼んでいる",
+            "title_romanji": null,
+            "aired": "1979-05-01T00:00:00+00:00",
+            "score": 4.5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1566034"
+        },
+        {
+            "mal_id": 10,
+            "url": null,
+            "title": "Friendship In West",
+            "title_japanese": "大西部に散った友情",
+            "title_romanji": null,
+            "aired": "1979-05-08T00:00:00+00:00",
+            "score": 4.67,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1577511"
+        },
+        {
+            "mal_id": 11,
+            "url": null,
+            "title": "The Ghost of Hitler",
+            "title_japanese": "よみがえった幻の総統",
+            "title_romanji": null,
+            "aired": "1979-05-15T00:00:00+00:00",
+            "score": 4.4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1582975"
+        },
+        {
+            "mal_id": 12,
+            "url": null,
+            "title": "World Champion",
+            "title_japanese": "闘うマシーンにはさせない!",
+            "title_romanji": null,
+            "aired": "1979-05-22T00:00:00+00:00",
+            "score": 4.5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1933469"
+        },
+        {
+            "mal_id": 13,
+            "url": null,
+            "title": "The Conspiracy",
+            "title_japanese": "姿なき暗殺者",
+            "title_romanji": null,
+            "aired": "1979-05-29T00:00:00+00:00",
+            "score": 5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1784917"
+        },
+        {
+            "mal_id": 14,
+            "url": null,
+            "title": "The Boy From Atlantis",
+            "title_japanese": "イルカにのった少年",
+            "title_romanji": null,
+            "aired": "1979-06-05T00:00:00+00:00",
+            "score": 5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2050200"
+        },
+        {
+            "mal_id": 15,
+            "url": null,
+            "title": "The Giant Lianes",
+            "title_japanese": "恐怖の異常植物",
+            "title_romanji": null,
+            "aired": "1979-06-12T00:00:00+00:00",
+            "score": 4.5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2050575"
+        },
+        {
+            "mal_id": 16,
+            "url": null,
+            "title": "West-Side Duel",
+            "title_japanese": "ウエストサイドの決闘",
+            "title_romanji": null,
+            "aired": "1979-06-26T00:00:00+00:00",
+            "score": 5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1785608"
+        },
+        {
+            "mal_id": 17,
+            "url": null,
+            "title": "The Tragedy of the Century",
+            "title_japanese": "阻止せよ! Xの悲劇",
+            "title_romanji": null,
+            "aired": "1979-07-03T00:00:00+00:00",
+            "score": 5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1785788"
+        },
+        {
+            "mal_id": 18,
+            "url": null,
+            "title": "Vampire Heart",
+            "title_japanese": "我が心の吸血鬼",
+            "title_romanji": null,
+            "aired": "1979-07-10T00:00:00+00:00",
+            "score": 4.33,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1785988"
+        },
+        {
+            "mal_id": 19,
+            "url": null,
+            "title": "Man-Eater Island",
+            "title_japanese": "人食いメルヘンランド",
+            "title_romanji": null,
+            "aired": "1979-07-17T00:00:00+00:00",
+            "score": 4.25,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1786045"
+        },
+        {
+            "mal_id": 20,
+            "url": null,
+            "title": "An Impossible Love",
+            "title_japanese": "裏切りの砂漠",
+            "title_romanji": null,
+            "aired": "1979-07-24T00:00:00+00:00",
+            "score": 5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1786543"
+        },
+        {
+            "mal_id": 21,
+            "url": null,
+            "title": "The Sleep of the Dinosaur",
+            "title_japanese": "永遠に眠れ 恐竜ディノニクス",
+            "title_romanji": null,
+            "aired": "1979-07-31T00:00:00+00:00",
+            "score": 5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1787126"
+        },
+        {
+            "mal_id": 22,
+            "url": null,
+            "title": "Ultimatum",
+            "title_japanese": "ネオ・ブラックゴーストの挑戦",
+            "title_romanji": null,
+            "aired": "1979-08-07T00:00:00+00:00",
+            "score": 5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1787398"
+        },
+        {
+            "mal_id": 23,
+            "url": null,
+            "title": "V-2 Strategy",
+            "title_japanese": "死闘! V2作戦",
+            "title_romanji": null,
+            "aired": "1979-08-14T00:00:00+00:00",
+            "score": 5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2051642"
+        },
+        {
+            "mal_id": 24,
+            "url": null,
+            "title": "A Conference for Peace",
+            "title_japanese": "世界平和会議を守れ!",
+            "title_romanji": null,
+            "aired": "1979-08-28T00:00:00+00:00",
+            "score": 5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2052232"
+        },
+        {
+            "mal_id": 25,
+            "url": null,
+            "title": "Human Bomb",
+            "title_japanese": "優しきぼくらの父 ギルモア",
+            "title_romanji": null,
+            "aired": "1979-09-04T00:00:00+00:00",
+            "score": 5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2052698"
+        },
+        {
+            "mal_id": 26,
+            "url": null,
+            "title": "Death at the Frontier",
+            "title_japanese": "追え! 熱砂の武器ルート",
+            "title_romanji": null,
+            "aired": "1979-09-11T00:00:00+00:00",
+            "score": 5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2053562"
+        },
+        {
+            "mal_id": 27,
+            "url": null,
+            "title": "Long Live the Princess!",
+            "title_japanese": "美しく生きよ! 愛しき王女",
+            "title_romanji": null,
+            "aired": "1979-09-25T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 28,
+            "url": null,
+            "title": "Destroy the Realm of the Cyborg",
+            "title_japanese": "サイボーグ帝国をたたけ!",
+            "title_romanji": null,
+            "aired": "1979-10-02T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 29,
+            "url": null,
+            "title": "The Race for Peace",
+            "title_japanese": "走れ! オスカー, 平和を胸に!",
+            "title_romanji": null,
+            "aired": "1979-10-09T00:00:00+00:00",
+            "score": 5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2064014"
+        },
+        {
+            "mal_id": 30,
+            "url": null,
+            "title": "Following the Steps of the Father",
+            "title_japanese": "ジョー! 父さんを追え!",
+            "title_romanji": null,
+            "aired": "1979-10-16T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 31,
+            "url": null,
+            "title": "Brazilian Football Player",
+            "title_japanese": "必殺キック! 決死の暗殺サッカー",
+            "title_romanji": null,
+            "aired": "1979-10-30T00:00:00+00:00",
+            "score": 5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2065588"
+        },
+        {
+            "mal_id": 32,
+            "url": null,
+            "title": "Luxury Cruise",
+            "title_japanese": "豪華客船フェアリー号の罠",
+            "title_romanji": null,
+            "aired": "1979-11-06T00:00:00+00:00",
+            "score": 5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1790360"
+        },
+        {
+            "mal_id": 33,
+            "url": null,
+            "title": "A Lonely Boy",
+            "title_japanese": "一人ぼっちの少年",
+            "title_romanji": null,
+            "aired": "1979-11-20T00:00:00+00:00",
+            "score": 5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2071627"
+        },
+        {
+            "mal_id": 34,
+            "url": null,
+            "title": "The Bell of Love Will Ring Tomorrow",
+            "title_japanese": "あした鳴れ 愛の鐘",
+            "title_romanji": null,
+            "aired": "1979-11-27T00:00:00+00:00",
+            "score": 5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2100521"
+        },
+        {
+            "mal_id": 35,
+            "url": null,
+            "title": "A Sad Memory",
+            "title_japanese": "悲しき友情のケルン",
+            "title_romanji": null,
+            "aired": "1979-12-04T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 36,
+            "url": null,
+            "title": "Battle at the Casino",
+            "title_japanese": "カジノ攻防戦! イカサマには替え玉を",
+            "title_romanji": null,
+            "aired": "1979-12-11T00:00:00+00:00",
+            "score": 5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2101177"
+        },
+        {
+            "mal_id": 37,
+            "url": null,
+            "title": "Escape from the Jungle",
+            "title_japanese": "大森林からの脱出",
+            "title_romanji": null,
+            "aired": "1979-12-18T00:00:00+00:00",
+            "score": 4.67,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1792021"
+        },
+        {
+            "mal_id": 38,
+            "url": null,
+            "title": "The Animals Rebel",
+            "title_japanese": "百獣の王ライオン 野性の雄叫び",
+            "title_romanji": null,
+            "aired": "1979-12-25T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 39,
+            "url": null,
+            "title": "An Amateur Actor",
+            "title_japanese": "大根役者に乾杯!",
+            "title_romanji": null,
+            "aired": "1980-01-08T00:00:00+00:00",
+            "score": 5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2155482"
+        },
+        {
+            "mal_id": 40,
+            "url": null,
+            "title": "The Last Race",
+            "title_japanese": "スピードに命を賭けた男",
+            "title_romanji": null,
+            "aired": "1980-01-15T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 41,
+            "url": null,
+            "title": "Tragical Mistake",
+            "title_japanese": "悲しみは海の彼方に",
+            "title_romanji": null,
+            "aired": "1980-01-22T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 42,
+            "url": null,
+            "title": "Searching for Parents",
+            "title_japanese": "イワン, 父を求めて!",
+            "title_romanji": null,
+            "aired": "1980-01-29T00:00:00+00:00",
+            "score": 5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2103838"
+        },
+        {
+            "mal_id": 43,
+            "url": null,
+            "title": "The Secret of the 3 Brothers",
+            "title_japanese": "あばけ! 三兄弟の秘密",
+            "title_romanji": null,
+            "aired": "1980-02-05T00:00:00+00:00",
+            "score": 5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2103976"
+        },
+        {
+            "mal_id": 44,
+            "url": null,
+            "title": "The Island of Death",
+            "title_japanese": "ネオ・ブラック・ゴーストの尻尾をつかめ!",
+            "title_romanji": null,
+            "aired": "1980-02-12T00:00:00+00:00",
+            "score": 5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2104045"
+        },
+        {
+            "mal_id": 45,
+            "url": null,
+            "title": "Oriental Messiah Pt 1",
+            "title_japanese": "前編)",
+            "title_romanji": "(東洋のイエス ",
+            "aired": "1980-02-19T00:00:00+00:00",
+            "score": 5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2104228"
+        },
+        {
+            "mal_id": 46,
+            "url": null,
+            "title": "Oriental Messiah Pt 2",
+            "title_japanese": "後編)",
+            "title_romanji": "(東洋のイエス ",
+            "aired": "1980-02-26T00:00:00+00:00",
+            "score": 5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2104425"
+        },
+        {
+            "mal_id": 47,
+            "url": null,
+            "title": "The Secret of the Four Pt 1",
+            "title_japanese": "前編)",
+            "title_romanji": "(四つ子の謎 ",
+            "aired": "1980-03-04T00:00:00+00:00",
+            "score": 5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2104608"
+        },
+        {
+            "mal_id": 48,
+            "url": null,
+            "title": "The Secret of the Four Pt 2",
+            "title_japanese": "後編)",
+            "title_romanji": "(四つ子の謎 ",
+            "aired": "1980-03-11T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2104772"
+        },
+        {
+            "mal_id": 49,
+            "url": null,
+            "title": "Shangri-La Project",
+            "title_japanese": "倒せ! 恐怖のシャングリラ計画",
+            "title_romanji": null,
+            "aired": "1980-03-18T00:00:00+00:00",
+            "score": 5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2104790"
+        },
+        {
+            "mal_id": 50,
+            "url": null,
+            "title": "The Fall of the Black Ghost",
+            "title_japanese": "ネオ・ブラック・ゴーストの最期",
+            "title_romanji": null,
+            "aired": "1980-03-25T00:00:00+00:00",
+            "score": 4.25,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2104972"
+        }
+    ]
+}

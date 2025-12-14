@@ -1,0 +1,195 @@
+{
+    "id": 8235,
+    "fetched_at": "Sun Dec 14 09:17:04 2025",
+    "metadata": {
+        "mal_id": 8235,
+        "url": "https://myanimelist.net/anime/8235/Muumin_1972",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/5/47155.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/5/47155t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/5/47155l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/5/47155.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/5/47155t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/5/47155l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Muumin (1972)"
+            },
+            {
+                "type": "Synonym",
+                "title": "Shin Muumin"
+            },
+            {
+                "type": "Synonym",
+                "title": "New Moomin"
+            },
+            {
+                "type": "Japanese",
+                "title": "ムーミン"
+            }
+        ],
+        "title": "Muumin (1972)",
+        "title_english": null,
+        "title_japanese": "ムーミン",
+        "title_synonyms": [
+            "Shin Muumin",
+            "New Moomin"
+        ],
+        "type": "TV",
+        "source": "Book",
+        "episodes": 52,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "1972-01-09T00:00:00+00:00",
+            "to": "1972-12-31T00:00:00+00:00",
+            "prop": {
+                "from": {
+                    "day": 9,
+                    "month": 1,
+                    "year": 1972
+                },
+                "to": {
+                    "day": 31,
+                    "month": 12,
+                    "year": 1972
+                }
+            },
+            "string": "Jan 9, 1972 to Dec 31, 1972"
+        },
+        "duration": "25 min per ep",
+        "rating": "G - All Ages",
+        "score": 6.55,
+        "scored_by": 1108,
+        "rank": 7004,
+        "popularity": 10712,
+        "members": 3253,
+        "favorites": 11,
+        "synopsis": "A remake of the 1969-70 Moomin series.  This version is more closely based on the books by the Finnish illustrator and writer Tove Jansson.",
+        "background": "",
+        "season": "winter",
+        "year": 1972,
+        "broadcast": {
+            "day": "Sundays",
+            "time": "19:30",
+            "timezone": "Asia/Tokyo",
+            "string": "Sundays at 19:30 (JST)"
+        },
+        "producers": [
+            {
+                "mal_id": 2812,
+                "type": "anime",
+                "name": "Zuiyo",
+                "url": "https://myanimelist.net/anime/producer/2812/Zuiyo"
+            }
+        ],
+        "licensors": [],
+        "studios": [
+            {
+                "mal_id": 68,
+                "type": "anime",
+                "name": "Mushi Production",
+                "url": "https://myanimelist.net/anime/producer/68/Mushi_Production"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 2,
+                "type": "anime",
+                "name": "Adventure",
+                "url": "https://myanimelist.net/anime/genre/2/Adventure"
+            },
+            {
+                "mal_id": 10,
+                "type": "anime",
+                "name": "Fantasy",
+                "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+            },
+            {
+                "mal_id": 36,
+                "type": "anime",
+                "name": "Slice of Life",
+                "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [],
+        "demographics": [],
+        "relations": [
+            {
+                "relation": "Alternative Version",
+                "entry": [
+                    {
+                        "mal_id": 8234,
+                        "type": "anime",
+                        "name": "Muumin",
+                        "url": "https://myanimelist.net/anime/8234/Muumin"
+                    },
+                    {
+                        "mal_id": 2150,
+                        "type": "anime",
+                        "name": "Tanoshii Muumin Ikka",
+                        "url": "https://myanimelist.net/anime/2150/Tanoshii_Muumin_Ikka"
+                    }
+                ]
+            },
+            {
+                "relation": "Character",
+                "entry": [
+                    {
+                        "mal_id": 39374,
+                        "type": "anime",
+                        "name": "Muumin to Koutsuu Anzen",
+                        "url": "https://myanimelist.net/anime/39374/Muumin_to_Koutsuu_Anzen"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [
+                "\"Muumin no Theme (ムーミンのテーマ)\" by Toshiko Fujita"
+            ],
+            "endings": [
+                "1: \"Chiisana Mii (ちいさなミィ)\" by Junko Hori",
+                "2: \"Muumin no Theme (ムーミンのテーマ)\" by Toshiko Fujita",
+                "3: \"Muumin wa Kinou (ちいさなミィ)\" by Eiko Masuyama",
+                "4: \"Snork Ie no Shitsuke (ちいさなミィ)\" by Taichirou Hirokawa"
+            ]
+        },
+        "external": [
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=1008"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=455"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "http://en.wikipedia.org/wiki/Moomin_(1972_TV_series)"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": []
+}

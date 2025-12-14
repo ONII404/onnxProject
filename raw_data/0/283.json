@@ -1,0 +1,835 @@
+{
+    "id": 283,
+    "fetched_at": "Sun Dec 14 07:06:04 2025",
+    "metadata": {
+        "mal_id": 283,
+        "url": "https://myanimelist.net/anime/283/Akage_no_Anne",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1365/115824.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1365/115824t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1365/115824l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1365/115824.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1365/115824t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1365/115824l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": "https://www.youtube-nocookie.com/embed/4RMCIB_oe6k?enablejsapi=1&wmode=opaque&autoplay=1",
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Akage no Anne"
+            },
+            {
+                "type": "Synonym",
+                "title": "Sekai Meisaku Gekijou"
+            },
+            {
+                "type": "Synonym",
+                "title": "Red haired Anne"
+            },
+            {
+                "type": "Synonym",
+                "title": "Anne the Redhead"
+            },
+            {
+                "type": "Japanese",
+                "title": "赤毛のアン"
+            },
+            {
+                "type": "English",
+                "title": "Anne of Green Gables"
+            },
+            {
+                "type": "Spanish",
+                "title": "Ana de las Tejas Verdes"
+            },
+            {
+                "type": "French",
+                "title": "Anne et la maison aux pignons verts"
+            }
+        ],
+        "title": "Akage no Anne",
+        "title_english": "Anne of Green Gables",
+        "title_japanese": "赤毛のアン",
+        "title_synonyms": [
+            "Sekai Meisaku Gekijou",
+            "Red haired Anne",
+            "Anne the Redhead"
+        ],
+        "type": "TV",
+        "source": "Novel",
+        "episodes": 50,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "1979-01-07T00:00:00+00:00",
+            "to": "1979-12-30T00:00:00+00:00",
+            "prop": {
+                "from": {
+                    "day": 7,
+                    "month": 1,
+                    "year": 1979
+                },
+                "to": {
+                    "day": 30,
+                    "month": 12,
+                    "year": 1979
+                }
+            },
+            "string": "Jan 7, 1979 to Dec 30, 1979"
+        },
+        "duration": "25 min per ep",
+        "rating": "G - All Ages",
+        "score": 7.86,
+        "scored_by": 22992,
+        "rank": 952,
+        "popularity": 3438,
+        "members": 51528,
+        "favorites": 962,
+        "synopsis": "Life is not easy for Anne Shirley, an 11-year-old orphan with a vast imagination and a short temper. In a twist of fate, she gets taken into the Cuthbert house in Avonlea. The elderly occupants Marilla and Matthew Cuthbert were looking for a young boy to help in the fields, but they're in for quite a shock when they realize Anne is a girl.\n\nAdapted from the acclaimed classic by L. M. Montgomery, Akage no Anne portrays Anne's upbringing from 11 to 17 years of age and her encounters and separations with various people. Only time will tell what major decision Anne has to make that will change her life forever.\n\n[Written by MAL Rewrite]",
+        "background": "",
+        "season": "winter",
+        "year": 1979,
+        "broadcast": {
+            "day": "Sundays",
+            "time": "19:30",
+            "timezone": "Asia/Tokyo",
+            "string": "Sundays at 19:30 (JST)"
+        },
+        "producers": [],
+        "licensors": [],
+        "studios": [
+            {
+                "mal_id": 22,
+                "type": "anime",
+                "name": "Nippon Animation",
+                "url": "https://myanimelist.net/anime/producer/22/Nippon_Animation"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 8,
+                "type": "anime",
+                "name": "Drama",
+                "url": "https://myanimelist.net/anime/genre/8/Drama"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [
+            {
+                "mal_id": 13,
+                "type": "anime",
+                "name": "Historical",
+                "url": "https://myanimelist.net/anime/genre/13/Historical"
+            }
+        ],
+        "demographics": [],
+        "relations": [
+            {
+                "relation": "Prequel",
+                "entry": [
+                    {
+                        "mal_id": 5494,
+                        "type": "anime",
+                        "name": "Konnichiwa Anne: Before Green Gables",
+                        "url": "https://myanimelist.net/anime/5494/Konnichiwa_Anne__Before_Green_Gables"
+                    }
+                ]
+            },
+            {
+                "relation": "Adaptation",
+                "entry": [
+                    {
+                        "mal_id": 10282,
+                        "type": "manga",
+                        "name": "Akage no Anne",
+                        "url": "https://myanimelist.net/manga/10282/Akage_no_Anne"
+                    }
+                ]
+            },
+            {
+                "relation": "Side Story",
+                "entry": [
+                    {
+                        "mal_id": 37423,
+                        "type": "anime",
+                        "name": "Shiawase Pasta Story",
+                        "url": "https://myanimelist.net/anime/37423/Shiawase_Pasta_Story"
+                    }
+                ]
+            },
+            {
+                "relation": "Summary",
+                "entry": [
+                    {
+                        "mal_id": 23583,
+                        "type": "anime",
+                        "name": "Akage no Anne Specials",
+                        "url": "https://myanimelist.net/anime/23583/Akage_no_Anne_Specials"
+                    },
+                    {
+                        "mal_id": 8950,
+                        "type": "anime",
+                        "name": "Akage no Anne: Green Gables e no Michi",
+                        "url": "https://myanimelist.net/anime/8950/Akage_no_Anne__Green_Gables_e_no_Michi"
+                    }
+                ]
+            },
+            {
+                "relation": "Alternative Version",
+                "entry": [
+                    {
+                        "mal_id": 60334,
+                        "type": "anime",
+                        "name": "Anne Shirley",
+                        "url": "https://myanimelist.net/anime/60334/Anne_Shirley"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [
+                "\"Kikoeru Kashira (きこえるかしら)\" by Ritsuko Oowada"
+            ],
+            "endings": [
+                "\"Samenai Yume (さめない夢)\" by Ritsuko Oowada"
+            ]
+        },
+        "external": [
+            {
+                "name": "Official Site",
+                "url": "http://dbeat.bandaivisual.co.jp/meisaku/"
+            },
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=1061"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=421"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "http://en.wikipedia.org/wiki/Anne_of_Green_Gables"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": [
+        {
+            "mal_id": 1,
+            "url": null,
+            "title": "Matthew Cuthbert is Surprised",
+            "title_japanese": "マシュウ・カスバート驚く",
+            "title_romanji": "Matthew Cuthbert Odoroku ",
+            "aired": "1979-01-07T00:00:00+00:00",
+            "score": 4.56,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=392163"
+        },
+        {
+            "mal_id": 2,
+            "url": null,
+            "title": "Marilla Cuthbert is Surprised",
+            "title_japanese": "マリラ・カスバート驚く",
+            "title_romanji": "Marilla Cuthbert Odoroku ",
+            "aired": "1979-01-14T00:00:00+00:00",
+            "score": 4.58,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=392171"
+        },
+        {
+            "mal_id": 3,
+            "url": null,
+            "title": "Morning at Green Gables",
+            "title_japanese": "グリーン・ゲイブルズの朝",
+            "title_romanji": "Green Gables no Asa ",
+            "aired": "1979-01-21T00:00:00+00:00",
+            "score": 4.49,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=454875"
+        },
+        {
+            "mal_id": 4,
+            "url": null,
+            "title": "Anne's History",
+            "title_japanese": "アン・生い立ちを語る",
+            "title_romanji": "Anne, Oitachi wo Kataru ",
+            "aired": "1979-01-28T00:00:00+00:00",
+            "score": 4.67,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=454883"
+        },
+        {
+            "mal_id": 5,
+            "url": null,
+            "title": "Marilla Makes up Her Mind",
+            "title_japanese": "マリラ・決心する",
+            "title_romanji": "Marilla Kesshin Suru ",
+            "aired": "1979-02-04T00:00:00+00:00",
+            "score": 4.61,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=454895"
+        },
+        {
+            "mal_id": 6,
+            "url": null,
+            "title": "Anne of Green Gables",
+            "title_japanese": "グリーン・ゲイブルズのアン",
+            "title_romanji": "Green Gables no Anne ",
+            "aired": "1979-02-11T00:00:00+00:00",
+            "score": 4.48,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=455183"
+        },
+        {
+            "mal_id": 7,
+            "url": null,
+            "title": "Mrs. Rachel Lynde is Properly Horrified",
+            "title_japanese": "レイチェル夫人恐れをなす",
+            "title_romanji": "Rachel Fujin Osore wo Nasu ",
+            "aired": "1979-02-18T00:00:00+00:00",
+            "score": 4.56,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=455193"
+        },
+        {
+            "mal_id": 8,
+            "url": null,
+            "title": "Anne's Impressions of Sunday School",
+            "title_japanese": "アン・日曜学校へ行く",
+            "title_romanji": "Anne Nichiyou Gakkou e Iku ",
+            "aired": "1979-02-25T00:00:00+00:00",
+            "score": 4.6,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=455215"
+        },
+        {
+            "mal_id": 9,
+            "url": null,
+            "title": "A Solemn Vow",
+            "title_japanese": "おごそかな誓い",
+            "title_romanji": "Ogosoka na Chikai ",
+            "aired": "1979-03-04T00:00:00+00:00",
+            "score": 4.69,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=455233"
+        },
+        {
+            "mal_id": 10,
+            "url": null,
+            "title": "Anne Plays with a Best Friend",
+            "title_japanese": "アン・心の友と遊ぶ",
+            "title_romanji": "Anne, Kokoro no Tomo to Asobu ",
+            "aired": "1979-03-11T00:00:00+00:00",
+            "score": 4.67,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=455249"
+        },
+        {
+            "mal_id": 11,
+            "url": null,
+            "title": "Anne Loses Marilla's Brooch",
+            "title_japanese": "マリラ・ブローチをなくす",
+            "title_romanji": "Marilla, Brooch wo Nakusu ",
+            "aired": "1979-03-18T00:00:00+00:00",
+            "score": 4.31,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=455595"
+        },
+        {
+            "mal_id": 12,
+            "url": null,
+            "title": "Anne's Confession",
+            "title_japanese": "アン・告白する",
+            "title_romanji": "Anne, Kokuhaku Suru ",
+            "aired": "1979-03-25T00:00:00+00:00",
+            "score": 4.54,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1639774"
+        },
+        {
+            "mal_id": 13,
+            "url": null,
+            "title": "Anne Goes to School",
+            "title_japanese": "アン・学校へ行く",
+            "title_romanji": "Anne, Gakkou e Iku ",
+            "aired": "1979-04-01T00:00:00+00:00",
+            "score": 4.48,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=455613"
+        },
+        {
+            "mal_id": 14,
+            "url": null,
+            "title": "A Tempest in Class",
+            "title_japanese": "教室騒動",
+            "title_romanji": "Kyoushitsu Soudou ",
+            "aired": "1979-04-08T00:00:00+00:00",
+            "score": 4.54,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=455973"
+        },
+        {
+            "mal_id": 15,
+            "url": null,
+            "title": "Fall is Coming",
+            "title_japanese": "秋の訪れ",
+            "title_romanji": "Aki no Otozure ",
+            "aired": "1979-04-15T00:00:00+00:00",
+            "score": 4.63,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=455979"
+        },
+        {
+            "mal_id": 16,
+            "url": null,
+            "title": "Diana is Invited to Tea",
+            "title_japanese": "ダイアナをお茶に招く",
+            "title_romanji": "Diana wo Ocha ni Maneku ",
+            "aired": "1979-04-22T00:00:00+00:00",
+            "score": 4.7,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=456005"
+        },
+        {
+            "mal_id": 17,
+            "url": null,
+            "title": "Anne Returns to School",
+            "title_japanese": "アン・学校へもどる",
+            "title_romanji": "Anne, Gakkou ni Modoru ",
+            "aired": "1979-05-06T00:00:00+00:00",
+            "score": 4.62,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=456355"
+        },
+        {
+            "mal_id": 18,
+            "url": null,
+            "title": "Anne Rescues Minnie May",
+            "title_japanese": "アン、ミニイ・メイを救う",
+            "title_romanji": "Anne, Minnie May wo Sukuu ",
+            "aired": "1979-05-13T00:00:00+00:00",
+            "score": 4.66,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=456373"
+        },
+        {
+            "mal_id": 19,
+            "url": null,
+            "title": "Diana's Birthday",
+            "title_japanese": "ダイアナの誕生日",
+            "title_romanji": "Daiana no Tanjoubi ",
+            "aired": "1979-05-20T00:00:00+00:00",
+            "score": 4.55,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=456779"
+        },
+        {
+            "mal_id": 20,
+            "url": null,
+            "title": "Spring Once Again",
+            "title_japanese": "再び春が来て",
+            "title_romanji": "Futatabi Haru ga Kite ",
+            "aired": "1979-05-27T00:00:00+00:00",
+            "score": 4.49,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=456785"
+        },
+        {
+            "mal_id": 21,
+            "url": null,
+            "title": "The New Minister's Wife",
+            "title_japanese": "新しい牧師夫妻",
+            "title_romanji": "Atarashii Bakushi Fusai ",
+            "aired": "1979-06-03T00:00:00+00:00",
+            "score": 4.39,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=457099"
+        },
+        {
+            "mal_id": 22,
+            "url": null,
+            "title": "The Wrong Ingredient",
+            "title_japanese": "香料ちがい",
+            "title_romanji": "Kouryou Chigai ",
+            "aired": "1979-06-10T00:00:00+00:00",
+            "score": 4.58,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=457111"
+        },
+        {
+            "mal_id": 23,
+            "url": null,
+            "title": "Anne is Invited to Tea",
+            "title_japanese": "アン・お茶によばれる",
+            "title_romanji": "Anne Ocha ni Yobareru ",
+            "aired": "1979-06-17T00:00:00+00:00",
+            "score": 4.43,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=458973"
+        },
+        {
+            "mal_id": 24,
+            "url": null,
+            "title": "An Affair of Honour",
+            "title_japanese": "面目をかけた大事件",
+            "title_romanji": "Menmoku wo Kaketa Daijiken ",
+            "aired": "1979-06-24T00:00:00+00:00",
+            "score": 4.66,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=458997"
+        },
+        {
+            "mal_id": 25,
+            "url": null,
+            "title": "A Letter to Diana",
+            "title_japanese": "ダイアナへの手紙",
+            "title_romanji": "Diana e no Tegami ",
+            "aired": "1979-07-01T00:00:00+00:00",
+            "score": 3.91,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=459745"
+        },
+        {
+            "mal_id": 26,
+            "url": null,
+            "title": "The Concert Plan",
+            "title_japanese": "コンサートの計画",
+            "title_romanji": "Concert no Keikaku ",
+            "aired": "1979-07-08T00:00:00+00:00",
+            "score": 4.3,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1639776"
+        },
+        {
+            "mal_id": 27,
+            "url": null,
+            "title": "Matthew and the Clothes Shop",
+            "title_japanese": "マシュウとふくらんだ袖",
+            "title_romanji": "Matthew to Fukuranda Sode ",
+            "aired": "1979-07-15T00:00:00+00:00",
+            "score": 4.64,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=544161"
+        },
+        {
+            "mal_id": 28,
+            "url": null,
+            "title": "The Christmas Concert",
+            "title_japanese": "クリスマスのコンサート",
+            "title_romanji": "Christmas no Concert ",
+            "aired": "1979-07-22T00:00:00+00:00",
+            "score": 4.81,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=544165"
+        },
+        {
+            "mal_id": 29,
+            "url": null,
+            "title": "Anne Starts the Story-telling Club",
+            "title_japanese": "アン・物語クラブを作る",
+            "title_romanji": "Anne, Monogatari Club wo Tsukuru ",
+            "aired": "1979-07-29T00:00:00+00:00",
+            "score": 4.41,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1547122"
+        },
+        {
+            "mal_id": 30,
+            "url": null,
+            "title": "Vanity and Heartache",
+            "title_japanese": "虚栄と心痛",
+            "title_romanji": "Kyoei to Shintsuu ",
+            "aired": "1979-08-05T00:00:00+00:00",
+            "score": 4.6,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=621011"
+        },
+        {
+            "mal_id": 31,
+            "url": null,
+            "title": "An Unfortunate Lily Maid",
+            "title_japanese": "不運な白百合姫",
+            "title_romanji": "Fuun na Shirayuri Hime ",
+            "aired": "1979-08-12T00:00:00+00:00",
+            "score": 4.66,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=528658"
+        },
+        {
+            "mal_id": 32,
+            "url": null,
+            "title": "An Epoch in Anne's Life",
+            "title_japanese": "生涯の一大事",
+            "title_romanji": "Shougai no Ichidaiji ",
+            "aired": "1979-08-19T00:00:00+00:00",
+            "score": 4.65,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=528670"
+        },
+        {
+            "mal_id": 33,
+            "url": null,
+            "title": "An Invitation to Queen's Class",
+            "title_japanese": "クィーン組の呼びかけ",
+            "title_romanji": "Queen Kumi no Yobikake ",
+            "aired": "1979-08-26T00:00:00+00:00",
+            "score": 4.33,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1496640"
+        },
+        {
+            "mal_id": 34,
+            "url": null,
+            "title": "Diana and the Students at Queens",
+            "title_japanese": "ダイアナとクィーン組の仲間",
+            "title_romanji": "Diana to Queen Kumi no Nakama ",
+            "aired": "1979-09-09T00:00:00+00:00",
+            "score": 4.63,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=529200"
+        },
+        {
+            "mal_id": 35,
+            "url": null,
+            "title": "Longing for the Summer Holidays",
+            "title_japanese": "夏休み前の思わく",
+            "title_romanji": "Natsuyasumi Zen no Omowaku ",
+            "aired": "1979-09-16T00:00:00+00:00",
+            "score": 4.67,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=529216"
+        },
+        {
+            "mal_id": 36,
+            "url": null,
+            "title": "The Future of the Story Club",
+            "title_japanese": "物語クラブのゆくえ",
+            "title_romanji": "Monogatari Club no Yukue ",
+            "aired": "1979-09-23T00:00:00+00:00",
+            "score": 4.77,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=530094"
+        },
+        {
+            "mal_id": 37,
+            "url": null,
+            "title": "A 15-Year-Old's Spring",
+            "title_japanese": "十五歳の春",
+            "title_romanji": "Juugo Sai no Haru ",
+            "aired": "1979-09-30T00:00:00+00:00",
+            "score": 4.74,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1331475"
+        },
+        {
+            "mal_id": 38,
+            "url": null,
+            "title": "My Number is 13",
+            "title_japanese": "受験番号は13番",
+            "title_romanji": "Jukenbangou wa 13 Ban ",
+            "aired": "1979-10-07T00:00:00+00:00",
+            "score": 4.47,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=646171"
+        },
+        {
+            "mal_id": 39,
+            "url": null,
+            "title": "The Results",
+            "title_japanese": "合格発表",
+            "title_romanji": "Goukaku Happyou ",
+            "aired": "1979-10-14T00:00:00+00:00",
+            "score": 4.62,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=646463"
+        },
+        {
+            "mal_id": 40,
+            "url": null,
+            "title": "The Concert Hotel",
+            "title_japanese": "ホテルのコンサート",
+            "title_romanji": "Hotel no Concert ",
+            "aired": "1979-10-21T00:00:00+00:00",
+            "score": 4.67,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=646485"
+        },
+        {
+            "mal_id": 41,
+            "url": null,
+            "title": "Off to Queen's College",
+            "title_japanese": "クィーン学院への旅立ち",
+            "title_romanji": "Queen Gakuin e no Tabidachi ",
+            "aired": "1979-10-28T00:00:00+00:00",
+            "score": 4.59,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=654569"
+        },
+        {
+            "mal_id": 42,
+            "url": null,
+            "title": "Life on a New Campus",
+            "title_japanese": "新しい学園生活",
+            "title_romanji": "Atarashii Gakuen Seikatsu ",
+            "aired": "1979-11-04T00:00:00+00:00",
+            "score": 4.67,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1639778"
+        },
+        {
+            "mal_id": 43,
+            "url": null,
+            "title": "Home for the Weekends",
+            "title_japanese": "週末の休暇",
+            "title_romanji": "Shuumatsu no Kyuuka ",
+            "aired": "1979-11-11T00:00:00+00:00",
+            "score": 4.68,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1639785"
+        },
+        {
+            "mal_id": 44,
+            "url": null,
+            "title": "The Winter at Queen's",
+            "title_japanese": "クィーン学院の冬",
+            "title_romanji": "Queen Gakuin no Fuyu ",
+            "aired": "1979-11-18T00:00:00+00:00",
+            "score": 4.52,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1639789"
+        },
+        {
+            "mal_id": 45,
+            "url": null,
+            "title": "The Glory and the Dream",
+            "title_japanese": "栄光と夢",
+            "title_romanji": "Eikou to Yume ",
+            "aired": "1979-11-25T00:00:00+00:00",
+            "score": 4.59,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1615011"
+        },
+        {
+            "mal_id": 46,
+            "url": null,
+            "title": "Matthew's Love",
+            "title_japanese": "マシュウの愛",
+            "title_romanji": "Matthew no Ai ",
+            "aired": "1979-12-02T00:00:00+00:00",
+            "score": 4.71,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1615282"
+        },
+        {
+            "mal_id": 47,
+            "url": null,
+            "title": "The Reaper Whose Name is Death",
+            "title_japanese": "死と呼ばれる刈入れ人",
+            "title_romanji": "Shi to Yobareru Kariire Hito ",
+            "aired": "1979-12-09T00:00:00+00:00",
+            "score": 4.75,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1424190"
+        },
+        {
+            "mal_id": 48,
+            "url": null,
+            "title": "Matthew's Farewell",
+            "title_japanese": "マシュウ我が家を去る",
+            "title_romanji": "Matthew Waga Ie wo Saru ",
+            "aired": "1979-12-16T00:00:00+00:00",
+            "score": 4.64,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1424197"
+        },
+        {
+            "mal_id": 49,
+            "url": null,
+            "title": "The Bend in the Road",
+            "title_japanese": "曲り角",
+            "title_romanji": "Magarikado ",
+            "aired": "1979-12-23T00:00:00+00:00",
+            "score": 4.53,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1639780"
+        },
+        {
+            "mal_id": 50,
+            "url": null,
+            "title": "All is Well on Earth",
+            "title_japanese": "神は天にいまし すべて世は事もなし",
+            "title_romanji": "Kami wa Ten ni Imashi, Subete Yo wa Koto mo Nashi ",
+            "aired": "1979-12-30T00:00:00+00:00",
+            "score": 4.74,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=263054"
+        }
+    ]
+}

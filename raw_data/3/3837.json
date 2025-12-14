@@ -1,0 +1,788 @@
+{
+    "id": 3837,
+    "fetched_at": "Sun Dec 14 08:30:48 2025",
+    "metadata": {
+        "mal_id": 3837,
+        "url": "https://myanimelist.net/anime/3837/Mashin_Eiyuuden_Wataru",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/8/65417.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/8/65417t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/8/65417l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/8/65417.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/8/65417t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/8/65417l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": "https://www.youtube-nocookie.com/embed/7ltf7ZHupC0?enablejsapi=1&wmode=opaque&autoplay=1",
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Mashin Eiyuuden Wataru"
+            },
+            {
+                "type": "Synonym",
+                "title": "Mashin Eiyuden Wataru"
+            },
+            {
+                "type": "Synonym",
+                "title": "Spirit Hero Wataru"
+            },
+            {
+                "type": "Synonym",
+                "title": "Keith Courage"
+            },
+            {
+                "type": "Synonym",
+                "title": "Adrien le sauveur du monde"
+            },
+            {
+                "type": "Japanese",
+                "title": "魔神英雄伝ワタル"
+            }
+        ],
+        "title": "Mashin Eiyuuden Wataru",
+        "title_english": null,
+        "title_japanese": "魔神英雄伝ワタル",
+        "title_synonyms": [
+            "Mashin Eiyuden Wataru",
+            "Spirit Hero Wataru",
+            "Keith Courage",
+            "Adrien le sauveur du monde"
+        ],
+        "type": "TV",
+        "source": "Original",
+        "episodes": 45,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "1988-04-15T00:00:00+00:00",
+            "to": "1989-03-31T00:00:00+00:00",
+            "prop": {
+                "from": {
+                    "day": 15,
+                    "month": 4,
+                    "year": 1988
+                },
+                "to": {
+                    "day": 31,
+                    "month": 3,
+                    "year": 1989
+                }
+            },
+            "string": "Apr 15, 1988 to Mar 31, 1989"
+        },
+        "duration": "24 min per ep",
+        "rating": "G - All Ages",
+        "score": 6.92,
+        "scored_by": 1278,
+        "rank": 4912,
+        "popularity": 10042,
+        "members": 4012,
+        "favorites": 14,
+        "synopsis": "A 9-year-old boy named Wataru Ikusabe is magically transported to a magical realm of the gods called Soukaizan which he is supposed to save. In his quest to save the realm, he manages to transform a clay sculpture into a somewhat autonomous (small) Super Robot.\n\n(Source: Wikipedia)",
+        "background": "",
+        "season": "spring",
+        "year": 1988,
+        "broadcast": {
+            "day": null,
+            "time": null,
+            "timezone": null,
+            "string": "Unknown"
+        },
+        "producers": [
+            {
+                "mal_id": 142,
+                "type": "anime",
+                "name": "Asatsu DK",
+                "url": "https://myanimelist.net/anime/producer/142/Asatsu_DK"
+            },
+            {
+                "mal_id": 1003,
+                "type": "anime",
+                "name": "Nippon Television Network",
+                "url": "https://myanimelist.net/anime/producer/1003/Nippon_Television_Network"
+            }
+        ],
+        "licensors": [],
+        "studios": [
+            {
+                "mal_id": 14,
+                "type": "anime",
+                "name": "Sunrise",
+                "url": "https://myanimelist.net/anime/producer/14/Sunrise"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 2,
+                "type": "anime",
+                "name": "Adventure",
+                "url": "https://myanimelist.net/anime/genre/2/Adventure"
+            },
+            {
+                "mal_id": 4,
+                "type": "anime",
+                "name": "Comedy",
+                "url": "https://myanimelist.net/anime/genre/4/Comedy"
+            },
+            {
+                "mal_id": 24,
+                "type": "anime",
+                "name": "Sci-Fi",
+                "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [
+            {
+                "mal_id": 62,
+                "type": "anime",
+                "name": "Isekai",
+                "url": "https://myanimelist.net/anime/genre/62/Isekai"
+            },
+            {
+                "mal_id": 18,
+                "type": "anime",
+                "name": "Mecha",
+                "url": "https://myanimelist.net/anime/genre/18/Mecha"
+            }
+        ],
+        "demographics": [],
+        "relations": [
+            {
+                "relation": "Sequel",
+                "entry": [
+                    {
+                        "mal_id": 9403,
+                        "type": "anime",
+                        "name": "Shin Mashin Eiyuuden Wataru Majinzan",
+                        "url": "https://myanimelist.net/anime/9403/Shin_Mashin_Eiyuuden_Wataru_Majinzan"
+                    },
+                    {
+                        "mal_id": 4807,
+                        "type": "anime",
+                        "name": "Mashin Eiyuuden Wataru 2",
+                        "url": "https://myanimelist.net/anime/4807/Mashin_Eiyuuden_Wataru_2"
+                    }
+                ]
+            },
+            {
+                "relation": "Summary",
+                "entry": [
+                    {
+                        "mal_id": 16590,
+                        "type": "anime",
+                        "name": "Mashin Eiyuuden Wataru: Soukaizan Eiyuu Densetsu",
+                        "url": "https://myanimelist.net/anime/16590/Mashin_Eiyuuden_Wataru__Soukaizan_Eiyuu_Densetsu"
+                    }
+                ]
+            },
+            {
+                "relation": "Alternative Setting",
+                "entry": [
+                    {
+                        "mal_id": 57827,
+                        "type": "anime",
+                        "name": "Mashin Souzouden Wataru",
+                        "url": "https://myanimelist.net/anime/57827/Mashin_Souzouden_Wataru"
+                    }
+                ]
+            },
+            {
+                "relation": "Other",
+                "entry": [
+                    {
+                        "mal_id": 40567,
+                        "type": "anime",
+                        "name": "Mashin Eiyuuden Wataru: Shichikon no Ryuujinmaru",
+                        "url": "https://myanimelist.net/anime/40567/Mashin_Eiyuuden_Wataru__Shichikon_no_Ryuujinmaru"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [
+                "\"Step\" by a.chi-a.chi"
+            ],
+            "endings": [
+                "\"a.chi-a.chi Adventure\" by a.chi-a.chi"
+            ]
+        },
+        "external": [
+            {
+                "name": "Official Site",
+                "url": "http://www.vap.co.jp/wataru/"
+            },
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=3636"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=2355"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Mashin_Hero_Wataru"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": [
+        {
+            "mal_id": 1,
+            "url": null,
+            "title": "The Hero is a Fouth Grader",
+            "title_japanese": "救世主は小学四年生",
+            "title_romanji": "Kyuuseishu wa Shougaku Yonensei ",
+            "aired": "1988-04-15T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1813205"
+        },
+        {
+            "mal_id": 2,
+            "url": null,
+            "title": "The Mysterious Item, Hentama!",
+            "title_japanese": "ふしぎアイテムへん玉みっけ!",
+            "title_romanji": "Fushigi Item Hentama Mikke! ",
+            "aired": "1988-04-22T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1813208"
+        },
+        {
+            "mal_id": 3,
+            "url": null,
+            "title": "Be Careful of Kurama!",
+            "title_japanese": "クラマに御用心!",
+            "title_romanji": "Kurama ni Goyoujin! ",
+            "aired": "1988-05-06T00:00:00+00:00",
+            "score": 4.33,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1814249"
+        },
+        {
+            "mal_id": 4,
+            "url": null,
+            "title": "The Terrifying Party of Garagara Village",
+            "title_japanese": "ガラガラ村の恐怖パーティ",
+            "title_romanji": "Garagara Mura no Kyoufu Party ",
+            "aired": "1988-05-13T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1817904"
+        },
+        {
+            "mal_id": 5,
+            "url": null,
+            "title": "Sound! Whistle of the Gods",
+            "title_japanese": "ひびけ! 神部の笛",
+            "title_romanji": "Hibike! Shinbe no Kuchibue ",
+            "aired": "1988-05-20T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1817906"
+        },
+        {
+            "mal_id": 6,
+            "url": null,
+            "title": "Abekobe, A Strange Place of Inversion",
+            "title_japanese": "アベコベさかさまヘンなとこ",
+            "title_romanji": "Abekobe Sakasama-hen na Toko ",
+            "aired": "1988-05-27T00:00:00+00:00",
+            "score": 5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1818075"
+        },
+        {
+            "mal_id": 7,
+            "url": null,
+            "title": "The Wolf-Man Likes Round Objects?",
+            "title_japanese": "オオカミ男はおマルがお好き!?",
+            "title_romanji": "Ookami Otoko wa Omaru ga Osuki? ",
+            "aired": "1988-07-03T00:00:00+00:00",
+            "score": 4.5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1818078"
+        },
+        {
+            "mal_id": 8,
+            "url": null,
+            "title": "The Vampire is a Cross Collector",
+            "title_japanese": "吸血鬼は十字架コレクター",
+            "title_romanji": "Kyuuketsuki wa Juujika Collector ",
+            "aired": "1988-06-10T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 9,
+            "url": null,
+            "title": "Surprise! Mirror Detector of the Century",
+            "title_japanese": "おどろき！世紀の鏡探知器",
+            "title_romanji": "Odoroki! Seiki no Kagami Tanchiki ",
+            "aired": "1988-06-17T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 10,
+            "url": null,
+            "title": "No Way! This is the Real Mirror of Truth?",
+            "title_japanese": "ウッソー！ホントにこれが真実の鏡?",
+            "title_romanji": "Ussou! Honto ni Kore ga Shinjitsu no Kagami? ",
+            "aired": "1988-06-24T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 11,
+            "url": null,
+            "title": "There, There, Burn, Burn, One Game",
+            "title_japanese": "アチアチ・メラメラ・一本勝負!",
+            "title_romanji": "Achi Achi, Mera Mera, Ippon Shobu! ",
+            "aired": "1988-07-01T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2111690"
+        },
+        {
+            "mal_id": 12,
+            "url": null,
+            "title": "Marionette's Burning Hot Anniversary!",
+            "title_japanese": "マリアンネットのヤキヤキ記念日！",
+            "title_romanji": "Marionette no Yakiyaki Kinenbi! ",
+            "aired": "1988-07-08T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2111766"
+        },
+        {
+            "mal_id": 13,
+            "url": null,
+            "title": "Fighting Spirit Blazes, Attack 9x9=81!",
+            "title_japanese": "燃える闘魂 9×9=81攻撃!",
+            "title_romanji": "Moeru Kekkon 9x9=81 Kougeki! ",
+            "aired": "1988-07-15T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 14,
+            "url": null,
+            "title": "The Power of 100 Men is Power of the Immortal",
+            "title_japanese": "ヒャクニーンパワーは仙人パワー",
+            "title_romanji": "100-nin Power wa Sennin Power ",
+            "aired": "1988-07-22T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2111922"
+        },
+        {
+            "mal_id": 15,
+            "url": null,
+            "title": "Revive! Fire Dragon",
+            "title_japanese": "よみがえれ！ファイアードラゴン",
+            "title_romanji": "Yomigaere! Fire Dragon ",
+            "aired": "1988-07-29T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2111983"
+        },
+        {
+            "mal_id": 16,
+            "url": null,
+            "title": "Tragic Love Story, Legend of Aurora",
+            "title_japanese": "悲恋 オーロラ伝説",
+            "title_romanji": "Hiren Oorora Densetsu ",
+            "aired": "1988-08-05T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 17,
+            "url": null,
+            "title": "Removing the Unremovable Sword of Extreme Frost",
+            "title_japanese": "抜くに抜けない極寒の剣",
+            "title_romanji": "Nuku ni Nukenai Gokkan no Tsurugi ",
+            "aired": "1988-08-12T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 18,
+            "url": null,
+            "title": "The Hot Hot Takeoff!",
+            "title_japanese": "熱いの熱いのとんでいけー！",
+            "title_romanji": "Atsui no Atsui no Tondeike! ",
+            "aired": "1988-08-19T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 19,
+            "url": null,
+            "title": "Fly, Fly Ryuujinmaru!",
+            "title_japanese": "龍神丸とびますとびます！",
+            "title_romanji": "Ryuujinmaru Tobimasu Tobimasu! ",
+            "aired": "1988-08-26T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 20,
+            "url": null,
+            "title": "Ryuujinmaru Falls at the Temple of Chill!",
+            "title_japanese": "龍神丸ヒエヒエ神殿に散る！",
+            "title_romanji": "Ryuujinmaru Hiehie Shinden ni Chiru! ",
+            "aired": "1988-09-02T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 21,
+            "url": null,
+            "title": "Prince of the Demon Realm, King Tiger Makes an Entrance!",
+            "title_japanese": "魔界プリンス 虎王登場！",
+            "title_romanji": "Makai Prince Toraou Toujou! ",
+            "aired": "1988-09-09T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 22,
+            "url": null,
+            "title": "A Must See! Ryūōmaru is Born",
+            "title_japanese": "必見！ 龍王丸誕生",
+            "title_romanji": "Hikken! Ryuuoumaru Tanjou ",
+            "aired": "1988-09-30T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2112955"
+        },
+        {
+            "mal_id": 23,
+            "url": null,
+            "title": "Thanks for Waiting! Genjinmaru's True Form",
+            "title_japanese": "おまたせ！幻神丸の正体",
+            "title_romanji": "Omatase! Genjinmaru no Shoutai ",
+            "aired": "1988-09-30T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2113202"
+        },
+        {
+            "mal_id": 24,
+            "url": null,
+            "title": "Rampage! Wataru GENJI's Big Race",
+            "title_japanese": "爆走！ワタルGENJIの大レース",
+            "title_romanji": "Bakusou! Wataru GENJI no Dai Race ",
+            "aired": "1988-10-07T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 25,
+            "url": null,
+            "title": "Mini Mini Wataru's Great Adventure",
+            "title_japanese": "ミニミニワタルの大冒険",
+            "title_romanji": "Minimini Wataru no Daibouken ",
+            "aired": "1988-10-14T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 26,
+            "url": null,
+            "title": "What! Green Dragon at That Kind of Place",
+            "title_japanese": "ギョエー！あんなところに緑龍",
+            "title_romanji": "Gyoee! Anna Tokoro ni Midori Ryuu ",
+            "aired": "1988-10-28T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 27,
+            "url": null,
+            "title": "That's Fine Because That's Fine",
+            "title_japanese": "ヨカッタネでよかったね",
+            "title_romanji": "Yokatta ne de Yokatta ne ",
+            "aired": "1988-11-04T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 28,
+            "url": null,
+            "title": "Ahem with Magic! Mr Shibaraku",
+            "title_japanese": "魔法でウッフン！シバラク先生",
+            "title_romanji": "Mahou de Uffun! Shibaraku-sensei ",
+            "aired": "1988-11-11T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 29,
+            "url": null,
+            "title": "Transformation Wataru's Bow Wow Story",
+            "title_japanese": "変身ワタルのわんわん物語",
+            "title_romanji": "Henshin Wataru no Wanwan Monogatari ",
+            "aired": "1988-11-18T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 30,
+            "url": null,
+            "title": "The Ghost Corps of The Mashin Cemetary",
+            "title_japanese": "魔神墓場のゴースト軍団",
+            "title_romanji": "Mashin Hakaba no Ghost Gundan ",
+            "aired": "1988-11-25T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 31,
+            "url": null,
+            "title": "Himiko's Babysitting Operation!",
+            "title_japanese": "ヒミコの子守り大作戦！",
+            "title_romanji": "Himiko no Komori Daisakusen! ",
+            "aired": "1988-12-02T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2115444"
+        },
+        {
+            "mal_id": 32,
+            "url": null,
+            "title": "The Strongest Mage Ara-Bian's Counterattack!",
+            "title_japanese": "最強魔法使いアラ・ビアンの逆襲！",
+            "title_romanji": "Saikyou Mahou Tsukai Ara-bian no Gyakushuu! ",
+            "aired": "1988-12-09T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 33,
+            "url": null,
+            "title": "The Sweet Temptation of The Terrifying Demon Path Gate",
+            "title_japanese": "あまいお誘い恐怖の魔道門",
+            "title_romanji": "Amai Osasoi Kyoufu no Madoumon ",
+            "aired": "1988-12-16T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 34,
+            "url": null,
+            "title": "Difficult Question, Irrelevant Question Demon Wind Gate!",
+            "title_japanese": "難問、珍問魔風門！",
+            "title_romanji": "Nanmon, Chinmon Mofuumon! ",
+            "aired": "1988-12-23T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2116159"
+        },
+        {
+            "mal_id": 35,
+            "url": null,
+            "title": "Ascend to The Heavens! Demon Sky Gate",
+            "title_japanese": "天まで昇れ！魔天門",
+            "title_romanji": "Ten made Nobore! Matenmon ",
+            "aired": "1989-01-11T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2116277"
+        },
+        {
+            "mal_id": 36,
+            "url": null,
+            "title": "Good Child? Naughty Kid? Demon Realm Gate",
+            "title_japanese": "よい子?悪い子?魔界門",
+            "title_romanji": "Yoiko? Waruiko? Makaimon ",
+            "aired": "1989-01-20T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 37,
+            "url": null,
+            "title": "Wataru And Himiko's Hot Hot Adventure",
+            "title_japanese": "ワタルとヒミコのアチアチアドベンチャー",
+            "title_romanji": "Wataru to Himiko no Achi Achi Adventure ",
+            "aired": "1989-01-27T00:00:00+00:00",
+            "score": 5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1882226"
+        },
+        {
+            "mal_id": 38,
+            "url": null,
+            "title": "Splendor!! Genius Zorori Calling On",
+            "title_japanese": "華麗！！怪傑ゾロリ参上",
+            "title_romanji": "Karei!! Kaiketsu Zorori Sanjou ",
+            "aired": "1989-02-03T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2116472"
+        },
+        {
+            "mal_id": 39,
+            "url": null,
+            "title": "King Tiger is Fate's Rival",
+            "title_japanese": "虎王は宿命のライバル",
+            "title_romanji": "Toraou wa Shukumei no Rival ",
+            "aired": "1989-02-10T00:00:00+00:00",
+            "score": 3,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1883361"
+        },
+        {
+            "mal_id": 40,
+            "url": null,
+            "title": "Clash! Ryuuoumaru Vs Jakomaru",
+            "title_japanese": "激突！龍王丸対邪虎丸",
+            "title_romanji": "Gekitotsu! Ryuuoumaru tai Jakomaru ",
+            "aired": "1989-02-17T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 41,
+            "url": null,
+            "title": "Appearance! The Terrifying Mashin Temple",
+            "title_japanese": "出現！恐怖の魔神殿",
+            "title_romanji": "Shutsugen! Kyoufu no Mashinden ",
+            "aired": "1989-03-03T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 42,
+            "url": null,
+            "title": "Fight Wataru!! Mashin Temple's Offensive And Defensive",
+            "title_japanese": "戦えワタル！！魔神殿の攻防",
+            "title_romanji": "Tatakae Wataru!! Mashinden no Koubou ",
+            "aired": "1989-03-10T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2118512"
+        },
+        {
+            "mal_id": 43,
+            "url": null,
+            "title": "Decisive Battle! Doakuda Vs Wataru",
+            "title_japanese": "決戦！ドアクダー対ワタル",
+            "title_romanji": "Kessen! Doakuda tai Wataru ",
+            "aired": "1989-03-17T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 44,
+            "url": null,
+            "title": "Shine! Rainbow of Creation Mountain",
+            "title_japanese": "輝け！創界山の虹",
+            "title_romanji": "Kagayake! Soukaisan no Niji ",
+            "aired": "1989-03-24T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2120889"
+        },
+        {
+            "mal_id": 45,
+            "url": null,
+            "title": "Its Spring And Festival in Monja Village",
+            "title_japanese": "春だ祭だモンジャ村",
+            "title_romanji": "Haru da Matsuri da Monja Mura ",
+            "aired": "1989-03-31T00:00:00+00:00",
+            "score": 5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1905199"
+        }
+    ]
+}

@@ -1,0 +1,138 @@
+{
+    "id": 29053,
+    "fetched_at": "Sun Dec 14 10:23:55 2025",
+    "metadata": {
+        "mal_id": 29053,
+        "url": "https://myanimelist.net/anime/29053/Orangutan",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/4/69929.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/4/69929t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/4/69929l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/4/69929.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/4/69929t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/4/69929l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Orangutan"
+            },
+            {
+                "type": "Synonym",
+                "title": "Minna no Uta"
+            },
+            {
+                "type": "Japanese",
+                "title": "オランガタン"
+            }
+        ],
+        "title": "Orangutan",
+        "title_english": null,
+        "title_japanese": "オランガタン",
+        "title_synonyms": [
+            "Minna no Uta"
+        ],
+        "type": "Music",
+        "source": "Original",
+        "episodes": 1,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "1980-02-07T00:00:00+00:00",
+            "to": null,
+            "prop": {
+                "from": {
+                    "day": 7,
+                    "month": 2,
+                    "year": 1980
+                },
+                "to": {
+                    "day": null,
+                    "month": null,
+                    "year": null
+                }
+            },
+            "string": "Feb 7, 1980"
+        },
+        "duration": "2 min",
+        "rating": "G - All Ages",
+        "score": 4.91,
+        "scored_by": 195,
+        "rank": null,
+        "popularity": 18876,
+        "members": 433,
+        "favorites": 0,
+        "synopsis": "Music video for the song by Yasunori Soryo and Jim Rock Singers that was featured on NHK's Minna no Uta program.",
+        "background": "",
+        "season": null,
+        "year": null,
+        "broadcast": {
+            "day": null,
+            "time": null,
+            "timezone": null,
+            "string": null
+        },
+        "producers": [
+            {
+                "mal_id": 111,
+                "type": "anime",
+                "name": "NHK",
+                "url": "https://myanimelist.net/anime/producer/111/NHK"
+            }
+        ],
+        "licensors": [],
+        "studios": [],
+        "genres": [],
+        "explicit_genres": [],
+        "themes": [
+            {
+                "mal_id": 19,
+                "type": "anime",
+                "name": "Music",
+                "url": "https://myanimelist.net/anime/genre/19/Music"
+            }
+        ],
+        "demographics": [
+            {
+                "mal_id": 15,
+                "type": "anime",
+                "name": "Kids",
+                "url": "https://myanimelist.net/anime/genre/15/Kids"
+            }
+        ],
+        "relations": [],
+        "theme": {
+            "openings": [],
+            "endings": []
+        },
+        "external": [
+            {
+                "name": "Official Site",
+                "url": "http://www.nhk.or.jp/minna/songs/MIN198002_01/"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "http://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%A9%E3%83%B3%E3%82%AC%E3%82%BF%E3%83%B3"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": []
+}

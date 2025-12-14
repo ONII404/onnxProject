@@ -1,0 +1,165 @@
+{
+    "id": 12243,
+    "fetched_at": "Sun Dec 14 09:39:42 2025",
+    "metadata": {
+        "mal_id": 12243,
+        "url": "https://myanimelist.net/anime/12243/Game_Center_Arashi",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/5/34473.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/5/34473t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/5/34473l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/5/34473.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/5/34473t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/5/34473l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Game Center Arashi"
+            },
+            {
+                "type": "Synonym",
+                "title": "Game Centre Arashi"
+            },
+            {
+                "type": "Japanese",
+                "title": "ゲームセンターあらし"
+            }
+        ],
+        "title": "Game Center Arashi",
+        "title_english": null,
+        "title_japanese": "ゲームセンターあらし",
+        "title_synonyms": [
+            "Game Centre Arashi"
+        ],
+        "type": "TV",
+        "source": "Manga",
+        "episodes": 26,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "1982-05-04T00:00:00+00:00",
+            "to": "1982-09-27T00:00:00+00:00",
+            "prop": {
+                "from": {
+                    "day": 4,
+                    "month": 5,
+                    "year": 1982
+                },
+                "to": {
+                    "day": 27,
+                    "month": 9,
+                    "year": 1982
+                }
+            },
+            "string": "May 4, 1982 to Sep 27, 1982"
+        },
+        "duration": "24 min per ep",
+        "rating": "PG-13 - Teens 13 or older",
+        "score": 5.98,
+        "scored_by": 425,
+        "rank": 10412,
+        "popularity": 13962,
+        "members": 1281,
+        "favorites": 3,
+        "synopsis": "Arashi Ishino is Japan's \"Space invaders\" champion. He must use his skills to beat others at different video games.",
+        "background": "",
+        "season": "spring",
+        "year": 1982,
+        "broadcast": {
+            "day": null,
+            "time": null,
+            "timezone": null,
+            "string": "Unknown"
+        },
+        "producers": [],
+        "licensors": [],
+        "studios": [
+            {
+                "mal_id": 247,
+                "type": "anime",
+                "name": "Shin-Ei Animation",
+                "url": "https://myanimelist.net/anime/producer/247/Shin-Ei_Animation"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 4,
+                "type": "anime",
+                "name": "Comedy",
+                "url": "https://myanimelist.net/anime/genre/4/Comedy"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [
+            {
+                "mal_id": 79,
+                "type": "anime",
+                "name": "Video Game",
+                "url": "https://myanimelist.net/anime/genre/79/Video_Game"
+            }
+        ],
+        "demographics": [
+            {
+                "mal_id": 15,
+                "type": "anime",
+                "name": "Kids",
+                "url": "https://myanimelist.net/anime/genre/15/Kids"
+            }
+        ],
+        "relations": [
+            {
+                "relation": "Adaptation",
+                "entry": [
+                    {
+                        "mal_id": 46300,
+                        "type": "manga",
+                        "name": "Game Center Arashi",
+                        "url": "https://myanimelist.net/manga/46300/Game_Center_Arashi"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [
+                "\"Game Center Arashi (ゲームセンターあらし)\" by Ichirou Mizuki"
+            ],
+            "endings": [
+                "\"Oira Nettai Teikiatsu! (おいら熱帯低気圧!; I'm a tropical cyclone!)\" by Satomi Majima"
+            ]
+        },
+        "external": [
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=3088"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=2206"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "http://en.wikipedia.org/wiki/Game_Center_Arashi#Anime"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": []
+}

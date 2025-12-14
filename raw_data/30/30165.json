@@ -1,0 +1,157 @@
+{
+    "id": 30165,
+    "fetched_at": "Sun Dec 14 10:42:19 2025",
+    "metadata": {
+        "mal_id": 30165,
+        "url": "https://myanimelist.net/anime/30165/Yamaguchi_Sanchi_no_Tsutomu-kun",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/8/72198.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/8/72198t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/8/72198l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/8/72198.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/8/72198t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/8/72198l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Yamaguchi Sanchi no Tsutomu-kun"
+            },
+            {
+                "type": "Synonym",
+                "title": "Minna no Uta"
+            },
+            {
+                "type": "Japanese",
+                "title": "山口さんちのツトム君"
+            }
+        ],
+        "title": "Yamaguchi Sanchi no Tsutomu-kun",
+        "title_english": null,
+        "title_japanese": "山口さんちのツトム君",
+        "title_synonyms": [
+            "Minna no Uta"
+        ],
+        "type": "Music",
+        "source": "Original",
+        "episodes": 1,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "1976-04-01T00:00:00+00:00",
+            "to": null,
+            "prop": {
+                "from": {
+                    "day": 1,
+                    "month": 4,
+                    "year": 1976
+                },
+                "to": {
+                    "day": null,
+                    "month": null,
+                    "year": null
+                }
+            },
+            "string": "Apr 1, 1976"
+        },
+        "duration": "2 min",
+        "rating": "G - All Ages",
+        "score": 5,
+        "scored_by": 276,
+        "rank": null,
+        "popularity": 17380,
+        "members": 561,
+        "favorites": 0,
+        "synopsis": "A music video for the song by Keiji Kawahashi that was featured on NHK's Minna no Uta Program.",
+        "background": "",
+        "season": null,
+        "year": null,
+        "broadcast": {
+            "day": null,
+            "time": null,
+            "timezone": null,
+            "string": null
+        },
+        "producers": [
+            {
+                "mal_id": 111,
+                "type": "anime",
+                "name": "NHK",
+                "url": "https://myanimelist.net/anime/producer/111/NHK"
+            }
+        ],
+        "licensors": [],
+        "studios": [],
+        "genres": [
+            {
+                "mal_id": 22,
+                "type": "anime",
+                "name": "Romance",
+                "url": "https://myanimelist.net/anime/genre/22/Romance"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [
+            {
+                "mal_id": 19,
+                "type": "anime",
+                "name": "Music",
+                "url": "https://myanimelist.net/anime/genre/19/Music"
+            }
+        ],
+        "demographics": [
+            {
+                "mal_id": 15,
+                "type": "anime",
+                "name": "Kids",
+                "url": "https://myanimelist.net/anime/genre/15/Kids"
+            }
+        ],
+        "relations": [
+            {
+                "relation": "Sequel",
+                "entry": [
+                    {
+                        "mal_id": 37155,
+                        "type": "anime",
+                        "name": "Yumi-chan no Hikkoshi: Sayonara Tsutomu-kun",
+                        "url": "https://myanimelist.net/anime/37155/Yumi-chan_no_Hikkoshi__Sayonara_Tsutomu-kun"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [],
+            "endings": []
+        },
+        "external": [
+            {
+                "name": "Official Site",
+                "url": "https://www.nhk.or.jp/minna/songs/MIN197604_04/"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "http://ja.wikipedia.org/wiki/%E5%B1%B1%E5%8F%A3%E3%81%95%E3%82%93%E3%81%A1%E3%81%AE%E3%83%84%E3%83%88%E3%83%A0%E5%90%9B"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": []
+}

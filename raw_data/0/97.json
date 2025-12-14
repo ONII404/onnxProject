@@ -1,0 +1,537 @@
+{
+    "id": 97,
+    "fetched_at": "Sun Dec 14 12:37:00 2025",
+    "metadata": {
+        "mal_id": 97,
+        "url": "https://myanimelist.net/anime/97/Last_Exile",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/7/10888.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/7/10888t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/7/10888l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/7/10888.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/7/10888t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/7/10888l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": "https://www.youtube-nocookie.com/embed/SQYDIG4g9ik?enablejsapi=1&wmode=opaque&autoplay=1",
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Last Exile"
+            },
+            {
+                "type": "Japanese",
+                "title": "LAST EXILE（ラストエグザイル）"
+            },
+            {
+                "type": "English",
+                "title": "Last Exile"
+            }
+        ],
+        "title": "Last Exile",
+        "title_english": "Last Exile",
+        "title_japanese": "LAST EXILE（ラストエグザイル）",
+        "title_synonyms": [],
+        "type": "TV",
+        "source": "Original",
+        "episodes": 26,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "2003-04-08T00:00:00+00:00",
+            "to": "2003-09-30T00:00:00+00:00",
+            "prop": {
+                "from": {
+                    "day": 8,
+                    "month": 4,
+                    "year": 2003
+                },
+                "to": {
+                    "day": 30,
+                    "month": 9,
+                    "year": 2003
+                }
+            },
+            "string": "Apr 8, 2003 to Sep 30, 2003"
+        },
+        "duration": "24 min per ep",
+        "rating": "PG-13 - Teens 13 or older",
+        "score": 7.78,
+        "scored_by": 73517,
+        "rank": 1139,
+        "popularity": 1455,
+        "members": 184965,
+        "favorites": 1927,
+        "synopsis": "In the world of Prester, flight is the dominant mode of transportation, made possible by Claudia Fluid: a liquidized form of the crystals that are produced on the planet. An organization known solely as \"the Guild\" has absolute authority over the skies, with a monopoly on the engines that make use of this fluid. Moreover, as ecological disasters destabilize the warring countries of Anatoray and Disith, the Guild also arbitrates in the disputes between the two. Caught in the middle of the conflict are Sky Couriers, piloting small, two-person vanships that fly freely through the sky.\n\nLast Exile follows the adventures of two teenagers who dream of surpassing their parents: Claus Valca, son of a famous vanship pilot, and Lavie Head, Claus' best friend and navigator. Their job as couriers entails passing through an air current called the Grand Stream that separates the hostile nations, which even standard airships struggle to survive. However, when they take on a high-rated delivery to bring an orphan girl named Alvis Hamilton to the battleship Silvana, they get dragged into a much greater conflict that pits them against the might of the Guild.\n\n[Written by MAL Rewrite]",
+        "background": "Last Exile is the 10th anniversary work of animation studio Gonzo. Its episode titles were originally given in English and use terms from chess.",
+        "season": "spring",
+        "year": 2003,
+        "broadcast": {
+            "day": "Tuesdays",
+            "time": "01:30",
+            "timezone": "Asia/Tokyo",
+            "string": "Tuesdays at 01:30 (JST)"
+        },
+        "producers": [
+            {
+                "mal_id": 42,
+                "type": "anime",
+                "name": "GDH",
+                "url": "https://myanimelist.net/anime/producer/42/GDH"
+            },
+            {
+                "mal_id": 123,
+                "type": "anime",
+                "name": "Victor Entertainment",
+                "url": "https://myanimelist.net/anime/producer/123/Victor_Entertainment"
+            },
+            {
+                "mal_id": 717,
+                "type": "anime",
+                "name": "TV Tokyo Music",
+                "url": "https://myanimelist.net/anime/producer/717/TV_Tokyo_Music"
+            }
+        ],
+        "licensors": [
+            {
+                "mal_id": 102,
+                "type": "anime",
+                "name": "Funimation",
+                "url": "https://myanimelist.net/anime/producer/102/Funimation"
+            },
+            {
+                "mal_id": 1459,
+                "type": "anime",
+                "name": "Geneon Entertainment USA",
+                "url": "https://myanimelist.net/anime/producer/1459/Geneon_Entertainment_USA"
+            }
+        ],
+        "studios": [
+            {
+                "mal_id": 3,
+                "type": "anime",
+                "name": "Gonzo",
+                "url": "https://myanimelist.net/anime/producer/3/Gonzo"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 1,
+                "type": "anime",
+                "name": "Action",
+                "url": "https://myanimelist.net/anime/genre/1/Action"
+            },
+            {
+                "mal_id": 2,
+                "type": "anime",
+                "name": "Adventure",
+                "url": "https://myanimelist.net/anime/genre/2/Adventure"
+            },
+            {
+                "mal_id": 24,
+                "type": "anime",
+                "name": "Sci-Fi",
+                "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [],
+        "demographics": [],
+        "relations": [
+            {
+                "relation": "Sequel",
+                "entry": [
+                    {
+                        "mal_id": 10336,
+                        "type": "anime",
+                        "name": "Last Exile: Ginyoku no Fam",
+                        "url": "https://myanimelist.net/anime/10336/Last_Exile__Ginyoku_no_Fam"
+                    }
+                ]
+            },
+            {
+                "relation": "Adaptation",
+                "entry": [
+                    {
+                        "mal_id": 30207,
+                        "type": "manga",
+                        "name": "Last Exile: Sunadokei no Tabibito",
+                        "url": "https://myanimelist.net/manga/30207/Last_Exile__Sunadokei_no_Tabibito"
+                    }
+                ]
+            },
+            {
+                "relation": "Summary",
+                "entry": [
+                    {
+                        "mal_id": 12429,
+                        "type": "anime",
+                        "name": "Last Exile: Ginyoku no Fam - Adjournment",
+                        "url": "https://myanimelist.net/anime/12429/Last_Exile__Ginyoku_no_Fam_-_Adjournment"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [
+                "\"Cloud Age Symphony\" by Shuntaro Okino"
+            ],
+            "endings": [
+                "\"Over The Sky\" by Hitomi"
+            ]
+        },
+        "external": [
+            {
+                "name": "Official Site",
+                "url": "https://www.gonzo.co.jp/works/lastexile/index.html"
+            },
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=581"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=2294"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Last_Exile#Anime"
+            }
+        ],
+        "streaming": [
+            {
+                "name": "Crunchyroll",
+                "url": "http://www.crunchyroll.com/series-273121"
+            }
+        ]
+    },
+    "episodes": [
+        {
+            "mal_id": 1,
+            "url": "https://myanimelist.net/anime/97/Last_Exile/episode/1",
+            "title": "First move",
+            "title_japanese": "ファースト・ムーヴ",
+            "title_romanji": "First move ",
+            "aired": "2003-04-08T00:00:00+00:00",
+            "score": 4.21,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=30511"
+        },
+        {
+            "mal_id": 2,
+            "url": "https://myanimelist.net/anime/97/Last_Exile/episode/2",
+            "title": "Luft Vanship",
+            "title_japanese": "ルフト・ヴァンシップ",
+            "title_romanji": "Luft Vanship ",
+            "aired": "2003-04-15T00:00:00+00:00",
+            "score": 4.31,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=30522"
+        },
+        {
+            "mal_id": 3,
+            "url": "https://myanimelist.net/anime/97/Last_Exile/episode/3",
+            "title": "Transpose",
+            "title_japanese": "トランスポーズ",
+            "title_romanji": "Transpose ",
+            "aired": "2003-04-22T00:00:00+00:00",
+            "score": 4.25,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=30664"
+        },
+        {
+            "mal_id": 4,
+            "url": "https://myanimelist.net/anime/97/Last_Exile/episode/4",
+            "title": "Zugzwang",
+            "title_japanese": "ツーク・ツワング",
+            "title_romanji": "Zugzwang ",
+            "aired": "2003-04-29T00:00:00+00:00",
+            "score": 4.31,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=30673"
+        },
+        {
+            "mal_id": 5,
+            "url": "https://myanimelist.net/anime/97/Last_Exile/episode/5",
+            "title": "Positional play",
+            "title_japanese": "ポジショナル・プレイ",
+            "title_romanji": "Positional play ",
+            "aired": "2003-05-06T00:00:00+00:00",
+            "score": 4.28,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=31009"
+        },
+        {
+            "mal_id": 6,
+            "url": "https://myanimelist.net/anime/97/Last_Exile/episode/6",
+            "title": "Arbiter attack",
+            "title_japanese": "アービター・アタック",
+            "title_romanji": "Arbiter attack ",
+            "aired": "2003-05-13T00:00:00+00:00",
+            "score": 4.29,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=31015"
+        },
+        {
+            "mal_id": 7,
+            "url": "https://myanimelist.net/anime/97/Last_Exile/episode/7",
+            "title": "Interesting Claus",
+            "title_japanese": "インタレスティング・クラウス",
+            "title_romanji": "Interesting Claus ",
+            "aired": "2003-05-20T00:00:00+00:00",
+            "score": 4.38,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=31018"
+        },
+        {
+            "mal_id": 8,
+            "url": "https://myanimelist.net/anime/97/Last_Exile/episode/8",
+            "title": "Takeback",
+            "title_japanese": "テークバック",
+            "title_romanji": "Takeback ",
+            "aired": "2003-05-27T00:00:00+00:00",
+            "score": 4.32,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=31024"
+        },
+        {
+            "mal_id": 9,
+            "url": "https://myanimelist.net/anime/97/Last_Exile/episode/9",
+            "title": "Calculate Alex",
+            "title_japanese": "カリキュレイト・アレックス",
+            "title_romanji": "Calculate Alex ",
+            "aired": "2003-06-03T00:00:00+00:00",
+            "score": 4.24,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=31027"
+        },
+        {
+            "mal_id": 10,
+            "url": "https://myanimelist.net/anime/97/Last_Exile/episode/10",
+            "title": "Swindle",
+            "title_japanese": "スウィンドル",
+            "title_romanji": "Swindle ",
+            "aired": "2003-06-10T00:00:00+00:00",
+            "score": 4.19,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=31035"
+        },
+        {
+            "mal_id": 11,
+            "url": "https://myanimelist.net/anime/97/Last_Exile/episode/11",
+            "title": "Develop",
+            "title_japanese": "ディベロップ",
+            "title_romanji": "Develop ",
+            "aired": "2003-06-17T00:00:00+00:00",
+            "score": 4.41,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=31045"
+        },
+        {
+            "mal_id": 12,
+            "url": "https://myanimelist.net/anime/97/Last_Exile/episode/12",
+            "title": "Discovered attack",
+            "title_japanese": "ディスカバード・アタック",
+            "title_romanji": "Discovered attack ",
+            "aired": "2003-06-24T00:00:00+00:00",
+            "score": 4.5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=31049"
+        },
+        {
+            "mal_id": 13,
+            "url": "https://myanimelist.net/anime/97/Last_Exile/episode/13",
+            "title": "Isolated pawn",
+            "title_japanese": "アイソレイテッド・ポーン",
+            "title_romanji": "Isolated pawn ",
+            "aired": "2003-07-01T00:00:00+00:00",
+            "score": 4.13,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=31051"
+        },
+        {
+            "mal_id": 14,
+            "url": "https://myanimelist.net/anime/97/Last_Exile/episode/14",
+            "title": "Étude Lavie",
+            "title_japanese": "エテュード・ラヴィ",
+            "title_romanji": "Étude Lavie ",
+            "aired": "2003-07-08T00:00:00+00:00",
+            "score": 4.25,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=33100"
+        },
+        {
+            "mal_id": 15,
+            "url": "https://myanimelist.net/anime/97/Last_Exile/episode/15",
+            "title": "Fairy chess",
+            "title_japanese": "フェアリー・チェス",
+            "title_romanji": "Fairy chess ",
+            "aired": "2003-07-15T00:00:00+00:00",
+            "score": 4.15,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=33109"
+        },
+        {
+            "mal_id": 16,
+            "url": "https://myanimelist.net/anime/97/Last_Exile/episode/16",
+            "title": "Breakthrough",
+            "title_japanese": "ブレーク・スルー",
+            "title_romanji": "Breakthrough ",
+            "aired": "2003-07-22T00:00:00+00:00",
+            "score": 4.31,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=33115"
+        },
+        {
+            "mal_id": 17,
+            "url": "https://myanimelist.net/anime/97/Last_Exile/episode/17",
+            "title": "Making material",
+            "title_japanese": "メイキング・マテリアル",
+            "title_romanji": "Making material ",
+            "aired": "2003-07-29T00:00:00+00:00",
+            "score": 4.13,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=33127"
+        },
+        {
+            "mal_id": 18,
+            "url": "https://myanimelist.net/anime/97/Last_Exile/episode/18",
+            "title": "Promotion Sophia",
+            "title_japanese": "プロモーション・ソフィア",
+            "title_romanji": "Promotion Sophia ",
+            "aired": "2003-08-05T00:00:00+00:00",
+            "score": 4.59,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=34768"
+        },
+        {
+            "mal_id": 19,
+            "url": "https://myanimelist.net/anime/97/Last_Exile/episode/19",
+            "title": "Sicilian Defence",
+            "title_japanese": "シシリアン・ディフェンス",
+            "title_romanji": "Sicilian Defence ",
+            "aired": "2003-08-12T00:00:00+00:00",
+            "score": 4.41,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=33133"
+        },
+        {
+            "mal_id": 20,
+            "url": "https://myanimelist.net/anime/97/Last_Exile/episode/20",
+            "title": "Grand Stream",
+            "title_japanese": "グランドストリーム",
+            "title_romanji": "Grand Stream ",
+            "aired": "2003-08-19T00:00:00+00:00",
+            "score": 4.38,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=35213"
+        },
+        {
+            "mal_id": 21,
+            "url": "https://myanimelist.net/anime/97/Last_Exile/episode/21",
+            "title": "Rook Dio",
+            "title_japanese": "ルーク・ディーオ",
+            "title_romanji": "Rook Dio ",
+            "aired": "2003-08-26T00:00:00+00:00",
+            "score": 4.52,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=35223"
+        },
+        {
+            "mal_id": 22,
+            "url": "https://myanimelist.net/anime/97/Last_Exile/episode/22",
+            "title": "Queen Delphine",
+            "title_japanese": "クイーン・デルフィーネ",
+            "title_romanji": "Queen Delphine ",
+            "aired": "2003-09-02T00:00:00+00:00",
+            "score": 4.48,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=35231"
+        },
+        {
+            "mal_id": 23,
+            "url": "https://myanimelist.net/anime/97/Last_Exile/episode/23",
+            "title": "Castling Lucciola",
+            "title_japanese": "キャスリング・ルシオラ",
+            "title_romanji": "Castling Lucciola ",
+            "aired": "2003-09-09T00:00:00+00:00",
+            "score": 4.56,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=33153"
+        },
+        {
+            "mal_id": 24,
+            "url": "https://myanimelist.net/anime/97/Last_Exile/episode/24",
+            "title": "Sealed move",
+            "title_japanese": "シールド・ムーブ",
+            "title_romanji": "Sealed move ",
+            "aired": "2003-09-16T00:00:00+00:00",
+            "score": 4.49,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=35246"
+        },
+        {
+            "mal_id": 25,
+            "url": "https://myanimelist.net/anime/97/Last_Exile/episode/25",
+            "title": "Quiet move",
+            "title_japanese": "クワイエット・ムーブ",
+            "title_romanji": "Quiet move ",
+            "aired": "2003-09-23T00:00:00+00:00",
+            "score": 4.57,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=35251"
+        },
+        {
+            "mal_id": 26,
+            "url": "https://myanimelist.net/anime/97/Last_Exile/episode/26",
+            "title": "Resign",
+            "title_japanese": "リザイン",
+            "title_romanji": "Resign ",
+            "aired": "2003-09-30T00:00:00+00:00",
+            "score": 4.2,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=33162"
+        }
+    ]
+}

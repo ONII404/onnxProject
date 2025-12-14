@@ -1,0 +1,137 @@
+{
+    "id": 13087,
+    "fetched_at": "Sun Dec 14 09:42:36 2025",
+    "metadata": {
+        "mal_id": 13087,
+        "url": "https://myanimelist.net/anime/13087/Youkoso_Uchuujin",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/3/36695.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/3/36695t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/3/36695l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/3/36695.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/3/36695t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/3/36695l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Youkoso Uchuujin"
+            },
+            {
+                "type": "Synonym",
+                "title": "Welcome"
+            },
+            {
+                "type": "Synonym",
+                "title": "Aliens"
+            },
+            {
+                "type": "Japanese",
+                "title": "ようこそ宇宙人"
+            }
+        ],
+        "title": "Youkoso Uchuujin",
+        "title_english": null,
+        "title_japanese": "ようこそ宇宙人",
+        "title_synonyms": [
+            "Welcome",
+            "Aliens"
+        ],
+        "type": "Movie",
+        "source": "Original",
+        "episodes": 1,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "1966-01-01T00:00:00+00:00",
+            "to": null,
+            "prop": {
+                "from": {
+                    "day": 1,
+                    "month": 1,
+                    "year": 1966
+                },
+                "to": {
+                    "day": null,
+                    "month": null,
+                    "year": null
+                }
+            },
+            "string": "1966"
+        },
+        "duration": "14 min",
+        "rating": "G - All Ages",
+        "score": 5.1,
+        "scored_by": 300,
+        "rank": 13688,
+        "popularity": 16550,
+        "members": 663,
+        "favorites": 0,
+        "synopsis": "Stop motion animation of aliens on a guided tour around an amusement park. \n\n(Source: AniDB)",
+        "background": "",
+        "season": null,
+        "year": null,
+        "broadcast": {
+            "day": null,
+            "time": null,
+            "timezone": null,
+            "string": null
+        },
+        "producers": [],
+        "licensors": [],
+        "studios": [],
+        "genres": [
+            {
+                "mal_id": 4,
+                "type": "anime",
+                "name": "Comedy",
+                "url": "https://myanimelist.net/anime/genre/4/Comedy"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [],
+        "demographics": [],
+        "relations": [
+            {
+                "relation": "Character",
+                "entry": [
+                    {
+                        "mal_id": 13083,
+                        "type": "anime",
+                        "name": "Fushigi na Kusuri",
+                        "url": "https://myanimelist.net/anime/13083/Fushigi_na_Kusuri"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [],
+            "endings": []
+        },
+        "external": [
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=8988"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": []
+}

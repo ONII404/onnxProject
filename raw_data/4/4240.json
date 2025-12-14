@@ -1,0 +1,673 @@
+{
+    "id": 4240,
+    "fetched_at": "Sun Dec 14 08:37:33 2025",
+    "metadata": {
+        "mal_id": 4240,
+        "url": "https://myanimelist.net/anime/4240/Ginga_Senpuu_Braiger",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1640/96448.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1640/96448t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1640/96448l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1640/96448.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1640/96448t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1640/96448l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Ginga Senpuu Braiger"
+            },
+            {
+                "type": "Synonym",
+                "title": "Bryger"
+            },
+            {
+                "type": "Synonym",
+                "title": "J9"
+            },
+            {
+                "type": "Synonym",
+                "title": "Cosmo Runner"
+            },
+            {
+                "type": "Synonym",
+                "title": "Galaxy Whirlwind Braiger"
+            },
+            {
+                "type": "Japanese",
+                "title": "銀河旋風ブライガー"
+            },
+            {
+                "type": "English",
+                "title": "Galactic Cyclone Braiger"
+            }
+        ],
+        "title": "Ginga Senpuu Braiger",
+        "title_english": "Galactic Cyclone Braiger",
+        "title_japanese": "銀河旋風ブライガー",
+        "title_synonyms": [
+            "Bryger",
+            "J9",
+            "Cosmo Runner",
+            "Galaxy Whirlwind Braiger"
+        ],
+        "type": "TV",
+        "source": "Original",
+        "episodes": 39,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "1981-10-06T00:00:00+00:00",
+            "to": "1982-06-30T00:00:00+00:00",
+            "prop": {
+                "from": {
+                    "day": 6,
+                    "month": 10,
+                    "year": 1981
+                },
+                "to": {
+                    "day": 30,
+                    "month": 6,
+                    "year": 1982
+                }
+            },
+            "string": "Oct 6, 1981 to Jun 30, 1982"
+        },
+        "duration": "23 min per ep",
+        "rating": "PG-13 - Teens 13 or older",
+        "score": 6.66,
+        "scored_by": 977,
+        "rank": 6350,
+        "popularity": 10630,
+        "members": 3345,
+        "favorites": 14,
+        "synopsis": "In the year 2111, the solar system has been colonized. The colonized moons and planets are lawless and the police are helpless. In order to battle the evil within the solar system, Isaac Godonov creates J9, made up of himself, Blaster Kid, Stephen Bowie, and Angel Omachi. They are a team that will handle any missions the police will not with their robot Braiger... for a price. Meanwhile, the Nubia section of Earth has a plan to destroy Jupiter to create 30 more planets for human colonization. But this plan will result in the destruction of Earth. \n\n(Source: ANN)",
+        "background": "",
+        "season": "fall",
+        "year": 1981,
+        "broadcast": {
+            "day": null,
+            "time": null,
+            "timezone": null,
+            "string": "Unknown"
+        },
+        "producers": [
+            {
+                "mal_id": 281,
+                "type": "anime",
+                "name": "Kokusai Eigasha",
+                "url": "https://myanimelist.net/anime/producer/281/Kokusai_Eigasha"
+            }
+        ],
+        "licensors": [
+            {
+                "mal_id": 467,
+                "type": "anime",
+                "name": "Discotek Media",
+                "url": "https://myanimelist.net/anime/producer/467/Discotek_Media"
+            }
+        ],
+        "studios": [
+            {
+                "mal_id": 18,
+                "type": "anime",
+                "name": "Toei Animation",
+                "url": "https://myanimelist.net/anime/producer/18/Toei_Animation"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 2,
+                "type": "anime",
+                "name": "Adventure",
+                "url": "https://myanimelist.net/anime/genre/2/Adventure"
+            },
+            {
+                "mal_id": 24,
+                "type": "anime",
+                "name": "Sci-Fi",
+                "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [
+            {
+                "mal_id": 18,
+                "type": "anime",
+                "name": "Mecha",
+                "url": "https://myanimelist.net/anime/genre/18/Mecha"
+            },
+            {
+                "mal_id": 29,
+                "type": "anime",
+                "name": "Space",
+                "url": "https://myanimelist.net/anime/genre/29/Space"
+            }
+        ],
+        "demographics": [],
+        "relations": [
+            {
+                "relation": "Sequel",
+                "entry": [
+                    {
+                        "mal_id": 4242,
+                        "type": "anime",
+                        "name": "Ginga Reppuu Baxingar",
+                        "url": "https://myanimelist.net/anime/4242/Ginga_Reppuu_Baxingar"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [
+                "\"Ginga Senpuu Braiger\" by Isao Taira"
+            ],
+            "endings": [
+                "1: \"Sasurai Kid (Wandering Kid)\" by Isao Taira (eps 1-38)",
+                "2: \"Abayo Fly Bye (Goodbye Fly Bye)\" by Yukio Yamagata (ep 39)"
+            ]
+        },
+        "external": [
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=3117"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=2226"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "http://en.wikipedia.org/wiki/Braiger"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": [
+        {
+            "mal_id": 1,
+            "url": null,
+            "title": "Merciless J9",
+            "title_japanese": "情無用のＪ９",
+            "title_romanji": "Nasake Muyou no J9 ",
+            "aired": "1981-10-06T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1154485"
+        },
+        {
+            "mal_id": 2,
+            "url": null,
+            "title": "Roaring Asteroids",
+            "title_japanese": "爆走アステロイド",
+            "title_romanji": "Bakusou Asteroid ",
+            "aired": "1981-10-13T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 3,
+            "url": null,
+            "title": "Venus of Hell",
+            "title_japanese": "地獄のビーナス",
+            "title_romanji": "Jigoku no Venus ",
+            "aired": "1981-10-20T00:00:00+00:00",
+            "score": 5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2224673"
+        },
+        {
+            "mal_id": 4,
+            "url": null,
+            "title": "Lawless West J District",
+            "title_japanese": "無法のウエストＪ区",
+            "title_romanji": "Muhou no West J Ku ",
+            "aired": "1981-10-27T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 5,
+            "url": null,
+            "title": "A Client From The Grave",
+            "title_japanese": "墓場からの依頼人",
+            "title_romanji": "Hakaba kara no Iraijin ",
+            "aired": "1981-11-03T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 6,
+            "url": null,
+            "title": "The Red Rose Of Revenge",
+            "title_japanese": "復讐の紅いバラ",
+            "title_romanji": "Fukushuu no Akai Bara ",
+            "aired": "1981-11-10T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 7,
+            "url": null,
+            "title": "The Great Escape From Venus Prison",
+            "title_japanese": "金星監獄大突破",
+            "title_romanji": "Kanaboshi Kangoku Daitoppa ",
+            "aired": "1981-11-17T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 8,
+            "url": null,
+            "title": "Wiping Tears On The Moon",
+            "title_japanese": "月に涙の後始末",
+            "title_romanji": "Tsuki ni Namida no Atoshimatsu ",
+            "aired": "1981-11-24T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 9,
+            "url": null,
+            "title": "Saturn Rally, The Rampaging Race",
+            "title_japanese": "激走・土星ラリー",
+            "title_romanji": "Gekisou Dosei Rally ",
+            "aired": "1981-12-01T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 10,
+            "url": null,
+            "title": "Love Vanished In The Mist",
+            "title_japanese": "霧に消えた愛",
+            "title_romanji": "Kiri ni Kieta Ai ",
+            "aired": "1981-12-08T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 11,
+            "url": null,
+            "title": "A Snowfield In Flames",
+            "title_japanese": "燃える大草原",
+            "title_romanji": "Moeru Daisougen ",
+            "aired": "1981-12-15T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 12,
+            "url": null,
+            "title": "The Vulcan Twins",
+            "title_japanese": "バルカンの双生児",
+            "title_romanji": "Barukan no Souseiji ",
+            "aired": "1981-12-22T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 13,
+            "url": null,
+            "title": "Mission: Gold",
+            "title_japanese": "黄金大作戦",
+            "title_romanji": "Ougon Daisakusen ",
+            "aired": "1981-12-29T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 14,
+            "url": null,
+            "title": "The Rescue Of The Jovian Bems",
+            "title_japanese": "木星ベムの襲来！",
+            "title_romanji": "Mokusei Bem no Shuurai! ",
+            "aired": "1982-01-05T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 15,
+            "url": null,
+            "title": "The Evil Synchron Planet",
+            "title_japanese": "シンクロン凶惑星",
+            "title_romanji": "Shinkuron Kyou Wakusei ",
+            "aired": "1982-01-12T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 16,
+            "url": null,
+            "title": "Dead Galactic Beauties",
+            "title_japanese": "銀河の死美人",
+            "title_romanji": "Ginga no Shibijin ",
+            "aired": "1982-01-19T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 17,
+            "url": null,
+            "title": "Angry Cougar",
+            "title_japanese": "怒りのクーガ",
+            "title_romanji": "Ikari no Cougar ",
+            "aired": "1982-01-26T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 18,
+            "url": null,
+            "title": "Starlight Lullaby",
+            "title_japanese": "星影の子守歌",
+            "title_romanji": "Hoshikage no Komoriuta ",
+            "aired": "1982-02-02T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 19,
+            "url": null,
+            "title": "Raid Melody",
+            "title_japanese": "襲撃のメロディー",
+            "title_romanji": "Shuugeki no Melody ",
+            "aired": "1982-02-09T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 20,
+            "url": null,
+            "title": "The Demon of Vengeance, Reborn",
+            "title_japanese": "蘇った復讐鬼",
+            "title_romanji": "Yomigaetta Fukushuu Oni ",
+            "aired": "1982-02-16T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 21,
+            "url": null,
+            "title": "Double Neck Vow",
+            "title_japanese": "誓いのWネック",
+            "title_romanji": "Chikai no W Neck ",
+            "aired": "1982-02-23T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 22,
+            "url": null,
+            "title": "Assassination Order: Nubia",
+            "title_japanese": "暗殺指令ヌビア",
+            "title_romanji": "Ansatsu Shirei Nubia ",
+            "aired": "1982-03-02T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 23,
+            "url": null,
+            "title": "Nubia Laughs",
+            "title_japanese": "ヌビアは笑う",
+            "title_romanji": "Nubia wa Warau ",
+            "aired": "1982-03-09T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 24,
+            "url": null,
+            "title": "Back Off",
+            "title_japanese": "勝手にしやがれ",
+            "title_romanji": "Katte ni Shiyagare ",
+            "aired": "1982-03-16T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 25,
+            "url": null,
+            "title": "Uranus Smells Of Death",
+            "title_japanese": "天王星は死の匂い",
+            "title_romanji": "Tenousei wa Shi no Nioi ",
+            "aired": "1982-03-23T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 26,
+            "url": null,
+            "title": "Blues Again",
+            "title_japanese": "もいちどブルース",
+            "title_romanji": "Mo Ichido Blues ",
+            "aired": "1982-03-30T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 27,
+            "url": null,
+            "title": "Storm Of The Carnival (Part 1)",
+            "title_japanese": "カルナバルの嵐（前編）",
+            "title_romanji": "Carnival no Arashi (Zenpen) ",
+            "aired": "1982-04-06T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 28,
+            "url": null,
+            "title": "Storm Of The Carnival (Part 2)",
+            "title_japanese": "カルナバルの嵐（後編）",
+            "title_romanji": "Carnival no Arashi (Kouhen) ",
+            "aired": "1982-04-13T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 29,
+            "url": null,
+            "title": "Twilight Challenger",
+            "title_japanese": "たそがれの挑戦者",
+            "title_romanji": "Tasogare no Chousensha ",
+            "aired": "1982-04-20T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 30,
+            "url": null,
+            "title": "They Are To Die (Part 1)",
+            "title_japanese": "殺るのは奴らだ（前編）",
+            "title_romanji": "Yaru no wa Yatsura Da (Zenpen) ",
+            "aired": "1982-04-27T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 31,
+            "url": null,
+            "title": "They Are To Die (Part 2)",
+            "title_japanese": "殺るのは奴らだ（後編）",
+            "title_romanji": "Yaru no wa Yatsura Da (Kouhen) ",
+            "aired": "1982-05-04T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 32,
+            "url": null,
+            "title": "Galaxy of Prayer",
+            "title_japanese": "祈りの銀河",
+            "title_romanji": "Inori no Ginga ",
+            "aired": "1982-05-11T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 33,
+            "url": null,
+            "title": "A Parting Song Under The Eclipse",
+            "title_japanese": "金環食に別れ歌",
+            "title_romanji": "Kinkanshoku ni Wakare Uta ",
+            "aired": "1982-05-18T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 34,
+            "url": null,
+            "title": "The Name Is Khamen",
+            "title_japanese": "その名はカーメン",
+            "title_romanji": "Sono Na wa Khamen ",
+            "aired": "1982-05-25T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 35,
+            "url": null,
+            "title": "The Battle of Mercury (Part 1)",
+            "title_japanese": "水星大抗争（前編）",
+            "title_romanji": "Suisei Daikousou (Zenpen) ",
+            "aired": "1982-06-01T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 36,
+            "url": null,
+            "title": "The Battle of Mercury (Part 2)",
+            "title_japanese": "水星大抗争（後編）",
+            "title_romanji": "Suisei Daikousou (Kouhen) ",
+            "aired": "1982-06-08T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 37,
+            "url": null,
+            "title": "The Sentence Of Death For Jupiter",
+            "title_japanese": "木星破壊宣告",
+            "title_romanji": "Mokusei Hakai Senkoku ",
+            "aired": "1982-06-15T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 38,
+            "url": null,
+            "title": "Battle Of The Asteroids",
+            "title_japanese": "アステロイドの攻防",
+            "title_romanji": "Asteroid no Koubou ",
+            "aired": "1982-06-22T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 39,
+            "url": null,
+            "title": "Abayo",
+            "title_japanese": "ABAYO",
+            "title_romanji": "Abayo ",
+            "aired": "1982-06-29T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2227223"
+        }
+    ]
+}

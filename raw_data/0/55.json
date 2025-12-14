@@ -1,0 +1,507 @@
+{
+    "id": 55,
+    "fetched_at": "Sun Dec 14 12:33:53 2025",
+    "metadata": {
+        "mal_id": 55,
+        "url": "https://myanimelist.net/anime/55/Arc_the_Lad",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/3/49041.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/3/49041t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/3/49041l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/3/49041.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/3/49041t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/3/49041l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Arc the Lad"
+            },
+            {
+                "type": "Synonym",
+                "title": "Arc"
+            },
+            {
+                "type": "Japanese",
+                "title": "アークザラッド"
+            }
+        ],
+        "title": "Arc the Lad",
+        "title_english": null,
+        "title_japanese": "アークザラッド",
+        "title_synonyms": [
+            "Arc"
+        ],
+        "type": "TV",
+        "source": "Game",
+        "episodes": 26,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "1999-04-05T00:00:00+00:00",
+            "to": "1999-10-11T00:00:00+00:00",
+            "prop": {
+                "from": {
+                    "day": 5,
+                    "month": 4,
+                    "year": 1999
+                },
+                "to": {
+                    "day": 11,
+                    "month": 10,
+                    "year": 1999
+                }
+            },
+            "string": "Apr 5, 1999 to Oct 11, 1999"
+        },
+        "duration": "22 min per ep",
+        "rating": "R - 17+ (violence & profanity)",
+        "score": 6.48,
+        "scored_by": 6511,
+        "rank": 7427,
+        "popularity": 5613,
+        "members": 17844,
+        "favorites": 15,
+        "synopsis": "The story follows Elk, a bounty hunter in some strange futuristic world. On this world archaic but advanced technology exists side by side with primitive attitudes, beasts and magic. In other words it's got a bit of everything. It also has an evil conspiracy who are able to produce powerful monsters called chimera, who can also appear as human. Naturally it is not long before Elk has rescued a young female beast-master and gained himself some serious enemies. \n\n(Source: ANN)",
+        "background": "",
+        "season": "spring",
+        "year": 1999,
+        "broadcast": {
+            "day": "Mondays",
+            "time": "19:00",
+            "timezone": "Asia/Tokyo",
+            "string": "Mondays at 19:00 (JST)"
+        },
+        "producers": [
+            {
+                "mal_id": 15,
+                "type": "anime",
+                "name": "Sony Pictures Entertainment",
+                "url": "https://myanimelist.net/anime/producer/15/Sony_Pictures_Entertainment"
+            },
+            {
+                "mal_id": 17,
+                "type": "anime",
+                "name": "Aniplex",
+                "url": "https://myanimelist.net/anime/producer/17/Aniplex"
+            },
+            {
+                "mal_id": 1950,
+                "type": "anime",
+                "name": "Sony Interactive Entertainment",
+                "url": "https://myanimelist.net/anime/producer/1950/Sony_Interactive_Entertainment"
+            }
+        ],
+        "licensors": [
+            {
+                "mal_id": 97,
+                "type": "anime",
+                "name": "ADV Films",
+                "url": "https://myanimelist.net/anime/producer/97/ADV_Films"
+            }
+        ],
+        "studios": [
+            {
+                "mal_id": 5,
+                "type": "anime",
+                "name": "Bee Train",
+                "url": "https://myanimelist.net/anime/producer/5/Bee_Train"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 1,
+                "type": "anime",
+                "name": "Action",
+                "url": "https://myanimelist.net/anime/genre/1/Action"
+            },
+            {
+                "mal_id": 2,
+                "type": "anime",
+                "name": "Adventure",
+                "url": "https://myanimelist.net/anime/genre/2/Adventure"
+            },
+            {
+                "mal_id": 10,
+                "type": "anime",
+                "name": "Fantasy",
+                "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+            },
+            {
+                "mal_id": 14,
+                "type": "anime",
+                "name": "Horror",
+                "url": "https://myanimelist.net/anime/genre/14/Horror"
+            },
+            {
+                "mal_id": 24,
+                "type": "anime",
+                "name": "Sci-Fi",
+                "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [],
+        "demographics": [],
+        "relations": [],
+        "theme": {
+            "openings": [
+                "\"Arc the Lad ~Main Theme~\" by Masahiro Andou"
+            ],
+            "endings": [
+                "1: \"Happy Tomorrow\" by NiNa (eps 1-12)",
+                "2: \"Rest in Peace\" by NiNa (eps 13-26)"
+            ]
+        },
+        "external": [
+            {
+                "name": "Official Site",
+                "url": "http://www.sonymusic.co.jp/Animation/Arc/"
+            },
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=433"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=246"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "http://en.wikipedia.org/wiki/Arc_the_Lad"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": [
+        {
+            "mal_id": 1,
+            "url": null,
+            "title": "The Boy with Flame",
+            "title_japanese": "炎の少年",
+            "title_romanji": "Honoo no Shounen ",
+            "aired": "1999-04-05T00:00:00+00:00",
+            "score": 3.86,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=252209"
+        },
+        {
+            "mal_id": 2,
+            "url": null,
+            "title": "Beginning of the Destiny",
+            "title_japanese": "運命のはじまり",
+            "title_romanji": "Unmei no Hajimari ",
+            "aired": "1999-04-12T00:00:00+00:00",
+            "score": 4.09,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=253686"
+        },
+        {
+            "mal_id": 3,
+            "url": null,
+            "title": "Feeling in the Rain",
+            "title_japanese": "時雨の心地",
+            "title_romanji": "Shigure no Kokochi ",
+            "aired": "1999-04-19T00:00:00+00:00",
+            "score": 4.67,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=255429"
+        },
+        {
+            "mal_id": 4,
+            "url": null,
+            "title": "Pale Goddess",
+            "title_japanese": "蒼き女神",
+            "title_romanji": "Aoki Megami ",
+            "aired": "1999-04-26T00:00:00+00:00",
+            "score": 4.33,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=255431"
+        },
+        {
+            "mal_id": 5,
+            "url": null,
+            "title": "The Criminals",
+            "title_japanese": "犯罪者たち",
+            "title_romanji": "Hanzaisha-tachi ",
+            "aired": "1999-05-03T00:00:00+00:00",
+            "score": 4.5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=31229"
+        },
+        {
+            "mal_id": 6,
+            "url": null,
+            "title": "Beyond the Sound of Waves",
+            "title_japanese": "波音の彼方",
+            "title_romanji": "Namioto no Kanata ",
+            "aired": "1999-05-10T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=31231"
+        },
+        {
+            "mal_id": 7,
+            "url": null,
+            "title": "Ancient Guardian",
+            "title_japanese": "古の守護者",
+            "title_romanji": "Inishie no Shugosha ",
+            "aired": "1999-05-17T00:00:00+00:00",
+            "score": 5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=258069"
+        },
+        {
+            "mal_id": 8,
+            "url": null,
+            "title": "Runaway",
+            "title_japanese": "逃亡",
+            "title_romanji": "Toubou ",
+            "aired": "1999-05-24T00:00:00+00:00",
+            "score": 5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=258081"
+        },
+        {
+            "mal_id": 9,
+            "url": null,
+            "title": "Friend Who was Left Behind",
+            "title_japanese": "残された友",
+            "title_romanji": "Nokosareta Tomo ",
+            "aired": "1999-05-31T00:00:00+00:00",
+            "score": 4.5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=258188"
+        },
+        {
+            "mal_id": 10,
+            "url": null,
+            "title": "The Crusade with No Name",
+            "title_japanese": "名も無き十字軍",
+            "title_romanji": "Namonaki Juujigun ",
+            "aired": "1999-06-07T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=258189"
+        },
+        {
+            "mal_id": 11,
+            "url": null,
+            "title": "Lonely Brave Man",
+            "title_japanese": "孤独な勇者",
+            "title_romanji": "Kodoku na Yuusha ",
+            "aired": "1999-06-14T00:00:00+00:00",
+            "score": 5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=266043"
+        },
+        {
+            "mal_id": 12,
+            "url": null,
+            "title": "White House",
+            "title_japanese": "白い家",
+            "title_romanji": "Shiroi Ie ",
+            "aired": "1999-06-21T00:00:00+00:00",
+            "score": 3.67,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=266046"
+        },
+        {
+            "mal_id": 13,
+            "url": null,
+            "title": "Smiling Holy Mother",
+            "title_japanese": "微笑みの聖母",
+            "title_romanji": "Hohoemi no Seibo ",
+            "aired": "1999-06-28T00:00:00+00:00",
+            "score": 5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=266049"
+        },
+        {
+            "mal_id": 14,
+            "url": null,
+            "title": "Shrine Maiden of the Spirit",
+            "title_japanese": "精霊の巫女",
+            "title_romanji": "Seirei no Miko ",
+            "aired": "1999-07-05T00:00:00+00:00",
+            "score": 5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=266053"
+        },
+        {
+            "mal_id": 15,
+            "url": null,
+            "title": "Blaze has Stood",
+            "title_japanese": "焔立つ",
+            "title_romanji": "Homura Tatsu ",
+            "aired": "1999-07-12T00:00:00+00:00",
+            "score": 5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=270211"
+        },
+        {
+            "mal_id": 16,
+            "url": null,
+            "title": "Reconquer",
+            "title_japanese": "奪還",
+            "title_romanji": "Dakkan ",
+            "aired": "1999-07-19T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=270214"
+        },
+        {
+            "mal_id": 17,
+            "url": null,
+            "title": "Scarlet Castle",
+            "title_japanese": "緋色の王城",
+            "title_romanji": "Hiiro no Oujou ",
+            "aired": "1999-07-26T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=270218"
+        },
+        {
+            "mal_id": 18,
+            "url": null,
+            "title": "Chimera Tower",
+            "title_japanese": "キメラ使い",
+            "title_romanji": "Chimera Tsukai ",
+            "aired": "1999-08-02T00:00:00+00:00",
+            "score": 4.75,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=270222"
+        },
+        {
+            "mal_id": 19,
+            "url": null,
+            "title": "Confrontation of Two Great Men",
+            "title_japanese": "両雄対決",
+            "title_romanji": "Ryouyuu Taiketsu ",
+            "aired": "1999-08-23T00:00:00+00:00",
+            "score": 5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=270226"
+        },
+        {
+            "mal_id": 20,
+            "url": null,
+            "title": "Meet Again",
+            "title_japanese": "再会",
+            "title_romanji": "Saikai ",
+            "aired": "1999-08-30T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=280299"
+        },
+        {
+            "mal_id": 21,
+            "url": null,
+            "title": "The Place Where the Truth Is",
+            "title_japanese": "真実の在処",
+            "title_romanji": "Shinjitsu no Arika ",
+            "aired": "1999-09-06T00:00:00+00:00",
+            "score": 3,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=280302"
+        },
+        {
+            "mal_id": 22,
+            "url": null,
+            "title": "Hiding in the Shadows",
+            "title_japanese": "影に潜む",
+            "title_romanji": "Kage ni Hisomu ",
+            "aired": "1999-09-13T00:00:00+00:00",
+            "score": 3,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=280306"
+        },
+        {
+            "mal_id": 23,
+            "url": null,
+            "title": "Frozen Eyes",
+            "title_japanese": "凍れる瞳",
+            "title_romanji": "Kooreru Hitomi ",
+            "aired": "1999-09-20T00:00:00+00:00",
+            "score": 1,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=280309"
+        },
+        {
+            "mal_id": 24,
+            "url": null,
+            "title": "Quickening of the Darkness",
+            "title_japanese": "闇の胎動",
+            "title_romanji": "Yami no Taidou ",
+            "aired": "1999-09-27T00:00:00+00:00",
+            "score": 5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=280343"
+        },
+        {
+            "mal_id": 25,
+            "url": null,
+            "title": "Holy Ark",
+            "title_japanese": "聖柩",
+            "title_romanji": "Seihitsu ",
+            "aired": "1999-10-04T00:00:00+00:00",
+            "score": 5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=280344"
+        },
+        {
+            "mal_id": 26,
+            "url": null,
+            "title": "Shining Boy",
+            "title_japanese": "最終回 輝の少年",
+            "title_romanji": "Kagayaki no Shounen ",
+            "aired": "1999-10-11T00:00:00+00:00",
+            "score": 4.1,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=280345"
+        }
+    ]
+}

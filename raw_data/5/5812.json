@@ -1,0 +1,143 @@
+{
+    "id": 5812,
+    "fetched_at": "Sun Dec 14 08:51:34 2025",
+    "metadata": {
+        "mal_id": 5812,
+        "url": "https://myanimelist.net/anime/5812/Doubutsu_Sumo_Taikai",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/11/12219.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/11/12219t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/11/12219l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/11/12219.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/11/12219t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/11/12219l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Doubutsu Sumo Taikai"
+            },
+            {
+                "type": "Synonym",
+                "title": "Dobutsu Sumo Taikai"
+            },
+            {
+                "type": "Japanese",
+                "title": "動物相撲大会"
+            },
+            {
+                "type": "English",
+                "title": "Animal Sumo"
+            }
+        ],
+        "title": "Doubutsu Sumo Taikai",
+        "title_english": "Animal Sumo",
+        "title_japanese": "動物相撲大会",
+        "title_synonyms": [
+            "Dobutsu Sumo Taikai"
+        ],
+        "type": "Movie",
+        "source": "Original",
+        "episodes": 1,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "1931-01-01T00:00:00+00:00",
+            "to": null,
+            "prop": {
+                "from": {
+                    "day": 1,
+                    "month": 1,
+                    "year": 1931
+                },
+                "to": {
+                    "day": null,
+                    "month": null,
+                    "year": null
+                }
+            },
+            "string": "1931"
+        },
+        "duration": "52 sec",
+        "rating": "G - All Ages",
+        "score": 4.68,
+        "scored_by": 796,
+        "rank": 14153,
+        "popularity": 13433,
+        "members": 1464,
+        "favorites": 0,
+        "synopsis": "Short movie from 1931.",
+        "background": "",
+        "season": null,
+        "year": null,
+        "broadcast": {
+            "day": null,
+            "time": null,
+            "timezone": null,
+            "string": null
+        },
+        "producers": [],
+        "licensors": [],
+        "studios": [],
+        "genres": [
+            {
+                "mal_id": 30,
+                "type": "anime",
+                "name": "Sports",
+                "url": "https://myanimelist.net/anime/genre/30/Sports"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [
+            {
+                "mal_id": 54,
+                "type": "anime",
+                "name": "Combat Sports",
+                "url": "https://myanimelist.net/anime/genre/54/Combat_Sports"
+            }
+        ],
+        "demographics": [],
+        "relations": [
+            {
+                "relation": "Alternative Version",
+                "entry": [
+                    {
+                        "mal_id": 35403,
+                        "type": "anime",
+                        "name": "Manga Revue Haru",
+                        "url": "https://myanimelist.net/anime/35403/Manga_Revue_Haru"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [],
+            "endings": []
+        },
+        "external": [
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=6742"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": []
+}

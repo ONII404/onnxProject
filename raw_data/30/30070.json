@@ -1,0 +1,139 @@
+{
+    "id": 30070,
+    "fetched_at": "Sun Dec 14 10:40:31 2025",
+    "metadata": {
+        "mal_id": 30070,
+        "url": "https://myanimelist.net/anime/30070/Shiroi_Zou_1981",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/6/72051.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/6/72051t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/6/72051l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/6/72051.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/6/72051t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/6/72051l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Shiroi Zou (1981)"
+            },
+            {
+                "type": "Synonym",
+                "title": "White Elephant"
+            },
+            {
+                "type": "Japanese",
+                "title": "白い像"
+            }
+        ],
+        "title": "Shiroi Zou (1981)",
+        "title_english": null,
+        "title_japanese": "白い像",
+        "title_synonyms": [
+            "White Elephant"
+        ],
+        "type": "Movie",
+        "source": "Other",
+        "episodes": 1,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "1981-01-01T00:00:00+00:00",
+            "to": null,
+            "prop": {
+                "from": {
+                    "day": 1,
+                    "month": 1,
+                    "year": 1981
+                },
+                "to": {
+                    "day": null,
+                    "month": null,
+                    "year": null
+                }
+            },
+            "string": "1981"
+        },
+        "duration": "22 min",
+        "rating": "G - All Ages",
+        "score": 5.66,
+        "scored_by": 136,
+        "rank": 12023,
+        "popularity": 19569,
+        "members": 378,
+        "favorites": 0,
+        "synopsis": "A Tadanari Okamoto film about the White Elephant story which originated in Southeast Asia.",
+        "background": "",
+        "season": null,
+        "year": null,
+        "broadcast": {
+            "day": null,
+            "time": null,
+            "timezone": null,
+            "string": null
+        },
+        "producers": [],
+        "licensors": [],
+        "studios": [],
+        "genres": [
+            {
+                "mal_id": 1,
+                "type": "anime",
+                "name": "Action",
+                "url": "https://myanimelist.net/anime/genre/1/Action"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [
+            {
+                "mal_id": 13,
+                "type": "anime",
+                "name": "Historical",
+                "url": "https://myanimelist.net/anime/genre/13/Historical"
+            }
+        ],
+        "demographics": [],
+        "relations": [
+            {
+                "relation": "Alternative Version",
+                "entry": [
+                    {
+                        "mal_id": 33484,
+                        "type": "anime",
+                        "name": "Shiroi Zou",
+                        "url": "https://myanimelist.net/anime/33484/Shiroi_Zou"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [],
+            "endings": []
+        },
+        "external": [
+            {
+                "name": "Wikipedia",
+                "url": "http://ja.wikipedia.org/wiki/%E5%B2%A1%E6%9C%AC%E5%BF%A0%E6%88%90"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": []
+}

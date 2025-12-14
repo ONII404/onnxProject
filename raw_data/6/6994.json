@@ -1,0 +1,147 @@
+{
+    "id": 6994,
+    "fetched_at": "Sun Dec 14 09:05:25 2025",
+    "metadata": {
+        "mal_id": 6994,
+        "url": "https://myanimelist.net/anime/6994/Koneko_no_Studio",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1818/121361.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1818/121361t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1818/121361l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1818/121361.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1818/121361t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1818/121361l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Koneko no Studio"
+            },
+            {
+                "type": "Synonym",
+                "title": "Kitten's Studio"
+            },
+            {
+                "type": "Japanese",
+                "title": "こねこのスタジオ"
+            },
+            {
+                "type": "English",
+                "title": "Kitty's Studio"
+            }
+        ],
+        "title": "Koneko no Studio",
+        "title_english": "Kitty's Studio",
+        "title_japanese": "こねこのスタジオ",
+        "title_synonyms": [
+            "Kitten's Studio"
+        ],
+        "type": "Movie",
+        "source": "Original",
+        "episodes": 1,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "1959-04-09T00:00:00+00:00",
+            "to": null,
+            "prop": {
+                "from": {
+                    "day": 9,
+                    "month": 4,
+                    "year": 1959
+                },
+                "to": {
+                    "day": null,
+                    "month": null,
+                    "year": null
+                }
+            },
+            "string": "Apr 9, 1959"
+        },
+        "duration": "16 min",
+        "rating": "G - All Ages",
+        "score": 6.09,
+        "scored_by": 1071,
+        "rank": 9782,
+        "popularity": 11937,
+        "members": 2302,
+        "favorites": 3,
+        "synopsis": "The kitten from Yasuji Mori's earlier Koneko no Rakugaki returns, this time putting his talents toward directing a samurai film starring his mouse friends.",
+        "background": "",
+        "season": null,
+        "year": null,
+        "broadcast": {
+            "day": null,
+            "time": null,
+            "timezone": null,
+            "string": null
+        },
+        "producers": [],
+        "licensors": [],
+        "studios": [
+            {
+                "mal_id": 18,
+                "type": "anime",
+                "name": "Toei Animation",
+                "url": "https://myanimelist.net/anime/producer/18/Toei_Animation"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 4,
+                "type": "anime",
+                "name": "Comedy",
+                "url": "https://myanimelist.net/anime/genre/4/Comedy"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [],
+        "demographics": [],
+        "relations": [
+            {
+                "relation": "Prequel",
+                "entry": [
+                    {
+                        "mal_id": 6993,
+                        "type": "anime",
+                        "name": "Koneko no Rakugaki",
+                        "url": "https://myanimelist.net/anime/6993/Koneko_no_Rakugaki"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [],
+            "endings": []
+        },
+        "external": [
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=5731"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=4913"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": []
+}

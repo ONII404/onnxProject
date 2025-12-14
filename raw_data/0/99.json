@@ -1,0 +1,618 @@
+{
+    "id": 99,
+    "fetched_at": "Sun Dec 14 12:37:10 2025",
+    "metadata": {
+        "mal_id": 99,
+        "url": "https://myanimelist.net/anime/99/Mai-Otome",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/2/46897.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/2/46897t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/2/46897l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/2/46897.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/2/46897t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/2/46897l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Mai-Otome"
+            },
+            {
+                "type": "Synonym",
+                "title": "Mai Oto-Hime"
+            },
+            {
+                "type": "Synonym",
+                "title": "Mai-OtoHiME"
+            },
+            {
+                "type": "Synonym",
+                "title": "Dancing Maiden"
+            },
+            {
+                "type": "Japanese",
+                "title": "舞-乙HiME"
+            },
+            {
+                "type": "English",
+                "title": "My-Otome"
+            }
+        ],
+        "title": "Mai-Otome",
+        "title_english": "My-Otome",
+        "title_japanese": "舞-乙HiME",
+        "title_synonyms": [
+            "Mai Oto-Hime",
+            "Mai-OtoHiME",
+            "Dancing Maiden"
+        ],
+        "type": "TV",
+        "source": "Original",
+        "episodes": 26,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "2005-10-07T00:00:00+00:00",
+            "to": "2006-03-31T00:00:00+00:00",
+            "prop": {
+                "from": {
+                    "day": 7,
+                    "month": 10,
+                    "year": 2005
+                },
+                "to": {
+                    "day": 31,
+                    "month": 3,
+                    "year": 2006
+                }
+            },
+            "string": "Oct 7, 2005 to Mar 31, 2006"
+        },
+        "duration": "23 min per ep",
+        "rating": "PG-13 - Teens 13 or older",
+        "score": 7.27,
+        "scored_by": 26179,
+        "rank": 3076,
+        "popularity": 3357,
+        "members": 53755,
+        "favorites": 312,
+        "synopsis": "In the Kingdom of Windbloom, Arika Yumemiya enrolls at Garderobe Academy to become an Otome—a virgin girl who is able to use a HiME (Highly-advanced Materializing Equipment) that bestows destructive abilities. Arika also wishes to find her mother who was a Meister Otome, an Otome of the highest rank responsible for being the personal bodyguard and super weapon of the specific nation they are assigned to.\n\nWhile attending the academy, Arika makes friends with Nina Wáng, a distinguished Otome student, and Mashiro Blan de Windbloom, the current princess of the kingdom. With them by her side, Arika quickly adjusts to the academy's environment as she spends her days eagerly training, navigating social relationships, and developing her skills as an Otome.\n\nHowever, Arika soon realizes that the process of becoming an Otome is fraught with dangers and unsavory political dealings. Bombarded with numerous personal dilemmas, Arika must make many sacrifices if she truly wishes to achieve her goals.\n\n[Written by MAL Rewrite]",
+        "background": "Mai-Otome was released on DVD in North America by Bandai Entertainment from July 17, 2007, to July 15, 2008. Funimation published a remastered Blu-ray and DVD collection of the series on January 9, 2018.",
+        "season": "fall",
+        "year": 2005,
+        "broadcast": {
+            "day": "Fridays",
+            "time": "01:30",
+            "timezone": "Asia/Tokyo",
+            "string": "Fridays at 01:30 (JST)"
+        },
+        "producers": [
+            {
+                "mal_id": 23,
+                "type": "anime",
+                "name": "Bandai Visual",
+                "url": "https://myanimelist.net/anime/producer/23/Bandai_Visual"
+            },
+            {
+                "mal_id": 104,
+                "type": "anime",
+                "name": "Lantis",
+                "url": "https://myanimelist.net/anime/producer/104/Lantis"
+            },
+            {
+                "mal_id": 717,
+                "type": "anime",
+                "name": "TV Tokyo Music",
+                "url": "https://myanimelist.net/anime/producer/717/TV_Tokyo_Music"
+            }
+        ],
+        "licensors": [
+            {
+                "mal_id": 102,
+                "type": "anime",
+                "name": "Funimation",
+                "url": "https://myanimelist.net/anime/producer/102/Funimation"
+            },
+            {
+                "mal_id": 233,
+                "type": "anime",
+                "name": "Bandai Entertainment",
+                "url": "https://myanimelist.net/anime/producer/233/Bandai_Entertainment"
+            }
+        ],
+        "studios": [
+            {
+                "mal_id": 14,
+                "type": "anime",
+                "name": "Sunrise",
+                "url": "https://myanimelist.net/anime/producer/14/Sunrise"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 4,
+                "type": "anime",
+                "name": "Comedy",
+                "url": "https://myanimelist.net/anime/genre/4/Comedy"
+            },
+            {
+                "mal_id": 8,
+                "type": "anime",
+                "name": "Drama",
+                "url": "https://myanimelist.net/anime/genre/8/Drama"
+            },
+            {
+                "mal_id": 10,
+                "type": "anime",
+                "name": "Fantasy",
+                "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [],
+        "demographics": [],
+        "relations": [
+            {
+                "relation": "Prequel",
+                "entry": [
+                    {
+                        "mal_id": 3268,
+                        "type": "anime",
+                        "name": "Mai-Otome 0: S.ifr",
+                        "url": "https://myanimelist.net/anime/3268/Mai-Otome_0__Sifr"
+                    }
+                ]
+            },
+            {
+                "relation": "Sequel",
+                "entry": [
+                    {
+                        "mal_id": 1609,
+                        "type": "anime",
+                        "name": "Mai-Otome Zwei",
+                        "url": "https://myanimelist.net/anime/1609/Mai-Otome_Zwei"
+                    }
+                ]
+            },
+            {
+                "relation": "Adaptation",
+                "entry": [
+                    {
+                        "mal_id": 1069,
+                        "type": "manga",
+                        "name": "Mai-Otome",
+                        "url": "https://myanimelist.net/manga/1069/Mai-Otome"
+                    }
+                ]
+            },
+            {
+                "relation": "Side Story",
+                "entry": [
+                    {
+                        "mal_id": 1659,
+                        "type": "anime",
+                        "name": "Mai-Otome Specials",
+                        "url": "https://myanimelist.net/anime/1659/Mai-Otome_Specials"
+                    },
+                    {
+                        "mal_id": 8518,
+                        "type": "anime",
+                        "name": "Mai-Otome Special: Otome no Inori",
+                        "url": "https://myanimelist.net/anime/8518/Mai-Otome_Special__Otome_no_Inori"
+                    }
+                ]
+            },
+            {
+                "relation": "Alternative Setting",
+                "entry": [
+                    {
+                        "mal_id": 98,
+                        "type": "anime",
+                        "name": "Mai-HiME",
+                        "url": "https://myanimelist.net/anime/98/Mai-HiME"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [
+                "1: \"Dream Wing\" by Minami Kuribayashi (eps 1-15)",
+                "2: \"Crystal Energy\" by Minami Kuribayashi (eps 16-25)"
+            ],
+            "endings": [
+                "1: \"Otome wa DO MY BEST deshou?\" by Mika Kikuchi and Ami Koshimizu"
+            ]
+        },
+        "external": [
+            {
+                "name": "Official Site",
+                "url": "http://www.my-zhime.net/"
+            },
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=3216"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=5378"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "http://en.wikipedia.org/wiki/Mai_Otome"
+            }
+        ],
+        "streaming": [
+            {
+                "name": "Crunchyroll",
+                "url": "http://www.crunchyroll.com/series-283170"
+            }
+        ]
+    },
+    "episodes": [
+        {
+            "mal_id": 1,
+            "url": "https://myanimelist.net/anime/99/Mai-Otome/episode/1",
+            "title": "Dreamy ☆ Arika",
+            "title_japanese": "ユメノ☆アリカ",
+            "title_romanji": "Yume no ☆ Arika ",
+            "aired": "2005-10-07T00:00:00+00:00",
+            "score": 4.17,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=74560"
+        },
+        {
+            "mal_id": 2,
+            "url": "https://myanimelist.net/anime/99/Mai-Otome/episode/2",
+            "title": "A Gust Running Through the Garden of Otome",
+            "title_japanese": "乙女の園を駆ける疾風!?",
+            "title_romanji": "Otome no En o Kakeru Shippuu!? ",
+            "aired": "2005-10-14T00:00:00+00:00",
+            "score": 4.52,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=75395"
+        },
+        {
+            "mal_id": 3,
+            "url": "https://myanimelist.net/anime/99/Mai-Otome/episode/3",
+            "title": "First Time",
+            "title_japanese": "はじめてのケ·イ·ケ·ン",
+            "title_romanji": "Hajimete no Keiken ",
+            "aired": "2005-10-21T00:00:00+00:00",
+            "score": 4.63,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=123299"
+        },
+        {
+            "mal_id": 4,
+            "url": "https://myanimelist.net/anime/99/Mai-Otome/episode/4",
+            "title": "The Blazing Transfer Student!!",
+            "title_japanese": "炎の転入生!!",
+            "title_romanji": "Honoo no Tennyuusei!! ",
+            "aired": "2005-10-28T00:00:00+00:00",
+            "score": 4.43,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=78415"
+        },
+        {
+            "mal_id": 5,
+            "url": "https://myanimelist.net/anime/99/Mai-Otome/episode/5",
+            "title": "The Academy, the Uniform and Me ♪",
+            "title_japanese": "学園と制服とあたし♪",
+            "title_romanji": "Gakuen to Seifuku to Atashi ♪ ",
+            "aired": "2005-11-04T00:00:00+00:00",
+            "score": 4.41,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=78421"
+        },
+        {
+            "mal_id": 6,
+            "url": "https://myanimelist.net/anime/99/Mai-Otome/episode/6",
+            "title": "Nina Entangled... orz",
+            "title_japanese": "ニナ、まかれる...orz",
+            "title_romanji": "Nina, Makareru... orz ",
+            "aired": "2005-11-11T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=78431"
+        },
+        {
+            "mal_id": 7,
+            "url": "https://myanimelist.net/anime/99/Mai-Otome/episode/7",
+            "title": "The Blue Dance / Oath of the Maiden",
+            "title_japanese": "蒼の舞/乙女の契り",
+            "title_romanji": "Ao no Mai / Otome no Chigiri ",
+            "aired": "2005-11-18T00:00:00+00:00",
+            "score": 4.77,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=78620"
+        },
+        {
+            "mal_id": 8,
+            "url": "https://myanimelist.net/anime/99/Mai-Otome/episode/8",
+            "title": "Burden of Destiny",
+            "title_japanese": "運命の軛",
+            "title_romanji": "Unmei no Kubiki ",
+            "aired": "2005-11-25T00:00:00+00:00",
+            "score": 4.4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=78628"
+        },
+        {
+            "mal_id": 9,
+            "url": "https://myanimelist.net/anime/99/Mai-Otome/episode/9",
+            "title": "The Ocean - Swimsuit + Disaster = ?",
+            "title_japanese": "海ー水着+遭難=?",
+            "title_romanji": "Umi - Mizugi + Sounan = ? ",
+            "aired": "2005-12-02T00:00:00+00:00",
+            "score": 4.57,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=78632"
+        },
+        {
+            "mal_id": 10,
+            "url": "https://myanimelist.net/anime/99/Mai-Otome/episode/10",
+            "title": "A Serious Otome Matter",
+            "title_japanese": "それが乙女の一大事",
+            "title_romanji": "Sore ga Otome no Ichdaiji ",
+            "aired": "2005-12-09T00:00:00+00:00",
+            "score": 3.93,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=82428"
+        },
+        {
+            "mal_id": 11,
+            "url": "https://myanimelist.net/anime/99/Mai-Otome/episode/11",
+            "title": "HAPPY ☆ BIRTHDAY",
+            "title_japanese": "HAPPY ☆ BIRTHDAY",
+            "title_romanji": null,
+            "aired": "2005-12-16T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=88914"
+        },
+        {
+            "mal_id": 12,
+            "url": "https://myanimelist.net/anime/99/Mai-Otome/episode/12",
+            "title": "Masquerade?",
+            "title_japanese": "仮面舞踏かい?",
+            "title_romanji": "Kamenbutoukai? ",
+            "aired": "2005-12-23T00:00:00+00:00",
+            "score": 4.31,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=88915"
+        },
+        {
+            "mal_id": 13,
+            "url": "https://myanimelist.net/anime/99/Mai-Otome/episode/13",
+            "title": "In the Crimson Sky...",
+            "title_japanese": "茜色の空に...",
+            "title_romanji": "Akane Iro no Sora ni... ",
+            "aired": "2006-01-06T00:00:00+00:00",
+            "score": 4.3,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=88916"
+        },
+        {
+            "mal_id": 14,
+            "url": "https://myanimelist.net/anime/99/Mai-Otome/episode/14",
+            "title": "Otome's SOS",
+            "title_japanese": "オトメのS·O·S",
+            "title_romanji": "Otome no S.O.S ",
+            "aired": "2006-01-13T00:00:00+00:00",
+            "score": 4.2,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=88917"
+        },
+        {
+            "mal_id": 15,
+            "url": "https://myanimelist.net/anime/99/Mai-Otome/episode/15",
+            "title": "Arika, Crying",
+            "title_japanese": "アリカ、泣く.",
+            "title_romanji": "Arika, Naku. ",
+            "aired": "2006-01-20T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=88918"
+        },
+        {
+            "mal_id": 16,
+            "url": "https://myanimelist.net/anime/99/Mai-Otome/episode/16",
+            "title": "It's a promise!",
+            "title_japanese": "約束だよ!",
+            "title_romanji": "Yakusoku Da yo! ",
+            "aired": "2006-01-24T00:00:00+00:00",
+            "score": 4.44,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=88919"
+        },
+        {
+            "mal_id": 17,
+            "url": "https://myanimelist.net/anime/99/Mai-Otome/episode/17",
+            "title": "The Blue Dance / When Dreams Fall",
+            "title_japanese": "蒼の舞/想い、散るとき",
+            "title_romanji": "Ao no Mai / Omoi, Chiru Toki ",
+            "aired": "2006-02-02T00:00:00+00:00",
+            "score": 4.08,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=85312"
+        },
+        {
+            "mal_id": 18,
+            "url": "https://myanimelist.net/anime/99/Mai-Otome/episode/18",
+            "title": "Whiteout",
+            "title_japanese": "ホワイトアウト",
+            "title_romanji": "Whiteout ",
+            "aired": "2006-02-09T00:00:00+00:00",
+            "score": 4.5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=67285"
+        },
+        {
+            "mal_id": 19,
+            "url": "https://myanimelist.net/anime/99/Mai-Otome/episode/19",
+            "title": "Fateful 17-year-old",
+            "title_japanese": "宿命の17歳",
+            "title_romanji": "Shukumei no 17-sai ",
+            "aired": "2006-02-16T00:00:00+00:00",
+            "score": 4.43,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=88920"
+        },
+        {
+            "mal_id": 20,
+            "url": "https://myanimelist.net/anime/99/Mai-Otome/episode/20",
+            "title": "Don't Call me Ni-na",
+            "title_japanese": "ニーナと呼ばないで",
+            "title_romanji": "Nīna to Yobanaide ",
+            "aired": "2006-02-23T00:00:00+00:00",
+            "score": 4.19,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=88921"
+        },
+        {
+            "mal_id": 21,
+            "url": "https://myanimelist.net/anime/99/Mai-Otome/episode/21",
+            "title": "When the White Princess Awakens",
+            "title_japanese": "白き姫、目覚めるとき",
+            "title_romanji": "Shiroki-hime, Mezameru Toki ",
+            "aired": "2006-03-02T00:00:00+00:00",
+            "score": 4.77,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=88922"
+        },
+        {
+            "mal_id": 22,
+            "url": "https://myanimelist.net/anime/99/Mai-Otome/episode/22",
+            "title": "Song of Destruction",
+            "title_japanese": "ホロビノウタ",
+            "title_romanji": "Horobi no Uta ",
+            "aired": "2006-03-09T00:00:00+00:00",
+            "score": 4.5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=56770"
+        },
+        {
+            "mal_id": 23,
+            "url": "https://myanimelist.net/anime/99/Mai-Otome/episode/23",
+            "title": "Arika of the Mysterious Valley",
+            "title_japanese": "不思議の谷のアリカ)",
+            "title_romanji": "Fushigi no Tani no Arika ",
+            "aired": "2006-03-17T00:00:00+00:00",
+            "score": 4.56,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=88923"
+        },
+        {
+            "mal_id": 24,
+            "url": "https://myanimelist.net/anime/99/Mai-Otome/episode/24",
+            "title": "For Your Sake...",
+            "title_japanese": "あなたのために....",
+            "title_romanji": "Anata no Tame ni... ",
+            "aired": "2006-03-24T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=88924"
+        },
+        {
+            "mal_id": 25,
+            "url": "https://myanimelist.net/anime/99/Mai-Otome/episode/25",
+            "title": "Maiden of the Blue Sky",
+            "title_japanese": "蒼天の乙女",
+            "title_romanji": "Souten no Otome ",
+            "aired": "2006-03-31T00:00:00+00:00",
+            "score": 4.43,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=88926"
+        },
+        {
+            "mal_id": 26,
+            "url": "https://myanimelist.net/anime/99/Mai-Otome/episode/26",
+            "title": "Dream ☆ Wing: Whereabouts of a Dream",
+            "title_japanese": "Dream ☆ Wing 〜夢の在処",
+            "title_romanji": "Dream*Wing: Yume no Arika ",
+            "aired": "2006-03-31T00:00:00+00:00",
+            "score": 3.89,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=66228"
+        },
+        {
+            "mal_id": 27,
+            "url": null,
+            "title": "For Your Sake…",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 28,
+            "url": null,
+            "title": "Maiden of the Blue Sky",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 29,
+            "url": null,
+            "title": "Dream ☆ Wing ~ Whereabouts of a Dream ~",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        }
+    ]
+}

@@ -1,0 +1,519 @@
+{
+    "id": 501,
+    "fetched_at": "Sun Dec 14 07:07:03 2025",
+    "metadata": {
+        "mal_id": 501,
+        "url": "https://myanimelist.net/anime/501/Doraemon",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/10/33865.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/10/33865t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/10/33865l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/10/33865.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/10/33865t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/10/33865l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Doraemon"
+            },
+            {
+                "type": "Synonym",
+                "title": "Doraemon (1973)"
+            },
+            {
+                "type": "Japanese",
+                "title": "ドラえもん"
+            }
+        ],
+        "title": "Doraemon",
+        "title_english": null,
+        "title_japanese": "ドラえもん",
+        "title_synonyms": [
+            "Doraemon (1973)"
+        ],
+        "type": "TV",
+        "source": "Manga",
+        "episodes": 26,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "1973-04-01T00:00:00+00:00",
+            "to": "1973-09-30T00:00:00+00:00",
+            "prop": {
+                "from": {
+                    "day": 1,
+                    "month": 4,
+                    "year": 1973
+                },
+                "to": {
+                    "day": 30,
+                    "month": 9,
+                    "year": 1973
+                }
+            },
+            "string": "Apr 1, 1973 to Sep 30, 1973"
+        },
+        "duration": "25 min per ep",
+        "rating": "PG - Children",
+        "score": 7.4,
+        "scored_by": 11894,
+        "rank": 2460,
+        "popularity": 5176,
+        "members": 21989,
+        "favorites": 141,
+        "synopsis": "Nobita Nobi is so hapless that his 22nd century decendants are still impoverished as a result of his 20th century bumbling. In a bid to raise their social status, their servant, a robotic cat named Doraemon, decides to travel back in time and guide Nobita on the proper path to fortune. Unfortunately Doraemon, a dysfunctional robot that the familly acquired by accident (but chose to keep nonetheless), isn't much better off than Nobita. The robot leads Nobita on many adventures, and while Nobita's life certainly is more exciting with the robot cat from the future, it is questionable if it is in fact better in the way that Doraemon planned.\n\n(Source: AniDB)",
+        "background": "Note: The series has been poorly preserved, and never released on any format, nor has it ever been re-aired. Nearly all the footage within the series (except for the opening and closing credits) was destroyed in an accidental fire sometime after the series was cancelled. Surviving reels from the show are occasionally shown at Doraemon fan conventions in Japan. In addition, the audio of several episodes still survives. Still images from episodes 1 and 24 exists. (Source: Wikipedia)",
+        "season": "spring",
+        "year": 1973,
+        "broadcast": {
+            "day": "Sundays",
+            "time": "19:00",
+            "timezone": "Asia/Tokyo",
+            "string": "Sundays at 19:00 (JST)"
+        },
+        "producers": [],
+        "licensors": [],
+        "studios": [
+            {
+                "mal_id": 2948,
+                "type": "anime",
+                "name": "Nippon TV Douga",
+                "url": "https://myanimelist.net/anime/producer/2948/Nippon_TV_Douga"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 2,
+                "type": "anime",
+                "name": "Adventure",
+                "url": "https://myanimelist.net/anime/genre/2/Adventure"
+            },
+            {
+                "mal_id": 4,
+                "type": "anime",
+                "name": "Comedy",
+                "url": "https://myanimelist.net/anime/genre/4/Comedy"
+            },
+            {
+                "mal_id": 10,
+                "type": "anime",
+                "name": "Fantasy",
+                "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [
+            {
+                "mal_id": 51,
+                "type": "anime",
+                "name": "Anthropomorphic",
+                "url": "https://myanimelist.net/anime/genre/51/Anthropomorphic"
+            }
+        ],
+        "demographics": [
+            {
+                "mal_id": 15,
+                "type": "anime",
+                "name": "Kids",
+                "url": "https://myanimelist.net/anime/genre/15/Kids"
+            },
+            {
+                "mal_id": 27,
+                "type": "anime",
+                "name": "Shounen",
+                "url": "https://myanimelist.net/anime/genre/27/Shounen"
+            }
+        ],
+        "relations": [
+            {
+                "relation": "Prequel",
+                "entry": [
+                    {
+                        "mal_id": 2648,
+                        "type": "anime",
+                        "name": "Doraemon: 2112-nen Doraemon Tanjou",
+                        "url": "https://myanimelist.net/anime/2648/Doraemon__2112-nen_Doraemon_Tanjou"
+                    }
+                ]
+            },
+            {
+                "relation": "Sequel",
+                "entry": [
+                    {
+                        "mal_id": 2471,
+                        "type": "anime",
+                        "name": "Doraemon (1979)",
+                        "url": "https://myanimelist.net/anime/2471/Doraemon_1979"
+                    }
+                ]
+            },
+            {
+                "relation": "Adaptation",
+                "entry": [
+                    {
+                        "mal_id": 1032,
+                        "type": "manga",
+                        "name": "Doraemon",
+                        "url": "https://myanimelist.net/manga/1032/Doraemon"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [
+                "\"Doraemon (1973 OP)\" by Harumi Naitoh",
+                "\"Doraemon no Uta\" by Satoko Yamano"
+            ],
+            "endings": [
+                "\"Doraemon Rumba (1973 ED)\" by Harumi Naitoh"
+            ]
+        },
+        "external": [
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=2110"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=1317"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "http://en.wikipedia.org/wiki/Doraemon_%281973_anime%29"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": [
+        {
+            "mal_id": 1,
+            "url": null,
+            "title": "Doraemon Is Here! / The Apology Cricket Riot",
+            "title_japanese": "でた! ドラえもんの巻 / ペコペコバッタ大騒動の巻",
+            "title_romanji": "Deta! Doraemon no Maki / Pekopeko Batta Daisoudou no Maki ",
+            "aired": "1973-04-01T00:00:00+00:00",
+            "score": 5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=523875"
+        },
+        {
+            "mal_id": 2,
+            "url": null,
+            "title": "The Great Girl on the Roof / Nobita's Ancestor",
+            "title_japanese": "屋根の上のすてきな子の巻 / のび太のご先祖さんの巻",
+            "title_romanji": "Yane no Ue no Suteki na Ko no Maki / Nobita no Gosenzo-san no Maki ",
+            "aired": "1973-04-08T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 3,
+            "url": null,
+            "title": "Hold On to Your Weakness / The Cupid Lovey-dovey Strategy",
+            "title_japanese": "弱味をにぎれの巻 / キューピットですきすき作戦の巻",
+            "title_romanji": "Yowami wo Nigire no Maki / Cupid de Sukisuki Sakusen no Maki ",
+            "aired": "1973-04-15T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 4,
+            "url": null,
+            "title": "There is a Cat Weak on Rats / Defeat the Bully",
+            "title_japanese": "ねずみに弱い猫もあるの巻 / ガキ大将をやっつけろの巻",
+            "title_romanji": "Nezumi ni Yowai Neko mo Aru no Maki / Gakidaishou wo Yattsukero no Maki ",
+            "aired": "1973-04-22T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 5,
+            "url": null,
+            "title": "The Flattery Mirror / Papa and Mama's Wedding Anniversary",
+            "title_japanese": "おせじ鏡の巻 / パパとママの結婚記念日の巻",
+            "title_romanji": "Oseji Kagami no Maki / Papa to Mama no Kekkon Kinenbi no Maki ",
+            "aired": "1973-04-29T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 6,
+            "url": null,
+            "title": "Cursed Camera / Lottery Jackpot Strategy",
+            "title_japanese": "のろいカメラの巻 / 宝くじ大当り作戦の巻",
+            "title_romanji": "Noroi Camera no Maki / Takarakuji Ooatari Sakusen no Maki ",
+            "aired": "1973-05-06T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 7,
+            "url": null,
+            "title": "Noby vs Big G / Who am I",
+            "title_japanese": "決闘！のび太とジャイアンの巻 / わたしは誰でしょうの巻",
+            "title_romanji": "Kettou! Nobita to Gian no Maki / Watashi wa Dare Deshou no Maki ",
+            "aired": "1973-05-13T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 8,
+            "url": null,
+            "title": "Abekonbe Riot / Mystery of the Ghost House",
+            "title_japanese": "アベコンベ騒動の巻 / おばけ屋敷の謎の巻",
+            "title_romanji": "Abekonbe Soudou no Maki / Obake Yashiki no Nazo no Maki ",
+            "aired": "1973-05-20T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 9,
+            "url": null,
+            "title": "The Quick-Slow Great Strategy / Noby, the Rain Man",
+            "title_japanese": "クイック・スロー大作戦の巻 / のび太は雨男の巻",
+            "title_romanji": "Quick Slow Daisakusen no Maki / Nobita wa Ameotoko no Maki ",
+            "aired": "1973-05-27T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 10,
+            "url": null,
+            "title": "Ultra Mixer / Wishing Star, Shooting Star",
+            "title_japanese": "ウルトラミキサーの巻 / ねがい星流れ星の巻",
+            "title_romanji": "Ultra Mixer no Maki / Negaiboshi Nagareboshi no Maki ",
+            "aired": "1973-06-03T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 11,
+            "url": null,
+            "title": "Mysterious Cloth / Noby's Grandma",
+            "title_japanese": "ふしぎなふろしきの巻 / のび太のおばあちゃんの巻",
+            "title_romanji": "Fushigi na Furoshiki no Maki / Nobita no Obaachan no Maki ",
+            "aired": "1973-06-10T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 12,
+            "url": null,
+            "title": "Red Bat of Major League / To Compete with Man's Power",
+            "title_japanese": "大リーグの赤バットの巻 / 男は力で勝負するの巻",
+            "title_romanji": "Dai League no Aka Bat no Maki / Otoko wa Chikara de Shoubu Suru no Maki ",
+            "aired": "1973-06-17T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 13,
+            "url": null,
+            "title": "Gashako's Appearance / The Talking Lipstick",
+            "title_japanese": "ガチャ子登場の巻 / おしゃべり口べにの巻",
+            "title_romanji": "Gachako Toujou no Maki / Oshaberi Kuchibeni no Maki ",
+            "aired": "1973-06-24T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 14,
+            "url": null,
+            "title": "I Love this Camera / Date in the Milky Way",
+            "title_japanese": "すきすきカメラの巻 / 天の川でデイトしようの巻",
+            "title_romanji": "Sukisuki Camera no Maki / Amanogawa de Date shiyou no Maki ",
+            "aired": "1973-07-01T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 15,
+            "url": null,
+            "title": "Weird Robot Car / Smiling Soap",
+            "title_japanese": "へんなロボットカーの巻 / ニコニコせっけんの巻",
+            "title_romanji": "Henna Robot Car no Maki / Nikoniko Sekken no Maki ",
+            "aired": "1973-07-08T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 16,
+            "url": null,
+            "title": "My Chief of the Inner Palace / Now is Summer! Let's Try to Ski",
+            "title_japanese": "おれ署長のだいりの巻 / さあ夏だ！スキーをやろうの巻",
+            "title_romanji": "Ore Shochou no Dairi no Maki / Saa Natsu da! Ski wo yarou no Maki ",
+            "aired": "1973-07-15T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 17,
+            "url": null,
+            "title": "I Hate Report Card / Catching My Shadow",
+            "title_japanese": "成績表はいやだなあの巻 / 自分のかげをつかまえろの巻",
+            "title_romanji": "Seisekihyou wa Iyada Naa no Maki / Jibun no Kage wo Tsukamaero no Maki ",
+            "aired": "1973-07-29T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 18,
+            "url": null,
+            "title": "Going to Sea in a Submarine / Crazy Stomach Clock",
+            "title_japanese": "潜水艦で海へ行こうの巻 / くるったハラ時計の巻",
+            "title_romanji": "Sensuikan de Umi e Ikou no Maki / Kurutta Haradokei no Maki ",
+            "aired": "1973-08-05T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 19,
+            "url": null,
+            "title": "Camp Riot / Who is Going to Forget",
+            "title_japanese": "キャンプ騒動の巻 / 忘れな草って何だっけの巻",
+            "title_romanji": "Camp Soudou no Maki / Wasurenagusatte Nandakke no Maki ",
+            "aired": "1973-08-12T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 20,
+            "url": null,
+            "title": "Cooler Parasol / Always Diary",
+            "title_japanese": "クーラーパラソルの巻 / いつでも日記の巻",
+            "title_romanji": "Cooler Parasol no Maki / Itsudemo Nikki no Maki ",
+            "aired": "1973-08-19T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 21,
+            "url": null,
+            "title": "The Homework Ghost Came Out / Weather Box",
+            "title_japanese": "宿題おばけが出たの巻 / お天気ボックスの巻",
+            "title_romanji": "Shukudai Obake ga Deta no Maki / Otenki Box no Maki ",
+            "aired": "1973-08-26T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 22,
+            "url": null,
+            "title": "I Have One Vote of Betrayal / Manga Artist Training",
+            "title_japanese": "ぼくに清き一票をの巻 / まんが家修行の巻",
+            "title_romanji": "Boku ni Kiyoki Ippyou wo no Maki / Mangaka Shugyou no Maki ",
+            "aired": "1973-09-02T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 23,
+            "url": null,
+            "title": "Nice Girlfriend / Flowery Riot",
+            "title_japanese": "すてきなガールフレンドの巻 / 花いっぱい騒動の巻",
+            "title_romanji": "Suteki na Girlfriend no Maki / Hana Ippai Soudou no Maki ",
+            "aired": "1973-09-09T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 24,
+            "url": null,
+            "title": "Entirely Crayon / Shizuka's Birthday",
+            "title_japanese": "そっくりクレヨンの巻 / 静香の誕生日の巻",
+            "title_romanji": "Sokkuri Crayon no Maki / Shizuka no Tanjoubi no Maki ",
+            "aired": "1973-09-16T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 25,
+            "url": null,
+            "title": "Becoming a Space Astronaut / Lost and Confused Riot",
+            "title_japanese": "宇宙飛行士になりたいの巻 / まいごマゴマゴ大騒動の巻",
+            "title_romanji": "Uchuuhikoushi ni Naritai no Maki / Maigo Magomago Daisoudou no Maki ",
+            "aired": "1973-09-23T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 26,
+            "url": null,
+            "title": "The Big Clay Lump Riot / Goodbye, Doraemon",
+            "title_japanese": "ネンドロン大騒動の巻 / さようならドラえもんの巻",
+            "title_romanji": "Nendoron Daisoudou no Maki / Sayounara Doraemon no Maki ",
+            "aired": "1973-09-30T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        }
+    ]
+}

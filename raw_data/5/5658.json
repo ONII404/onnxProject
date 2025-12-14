@@ -1,0 +1,900 @@
+{
+    "id": 5658,
+    "fetched_at": "Sun Dec 14 08:49:58 2025",
+    "metadata": {
+        "mal_id": 5658,
+        "url": "https://myanimelist.net/anime/5658/Great_Mazinger",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1505/127976.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1505/127976t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1505/127976l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1505/127976.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1505/127976t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1505/127976l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Great Mazinger"
+            },
+            {
+                "type": "Japanese",
+                "title": "グレートマジンガー"
+            }
+        ],
+        "title": "Great Mazinger",
+        "title_english": null,
+        "title_japanese": "グレートマジンガー",
+        "title_synonyms": [],
+        "type": "TV",
+        "source": "Manga",
+        "episodes": 56,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "1974-09-08T00:00:00+00:00",
+            "to": "1975-09-28T00:00:00+00:00",
+            "prop": {
+                "from": {
+                    "day": 8,
+                    "month": 9,
+                    "year": 1974
+                },
+                "to": {
+                    "day": 28,
+                    "month": 9,
+                    "year": 1975
+                }
+            },
+            "string": "Sep 8, 1974 to Sep 28, 1975"
+        },
+        "duration": "25 min per ep",
+        "rating": "PG-13 - Teens 13 or older",
+        "score": 7.05,
+        "scored_by": 2902,
+        "rank": 4283,
+        "popularity": 8062,
+        "members": 7201,
+        "favorites": 26,
+        "synopsis": "A manga comic book and anime television series by manga artist Go Nagai, made as a direct continuation of the successful Mazinger Z series. It was aired on Japan in 1974, immediately following the end of the first Mazinger series.",
+        "background": "",
+        "season": "fall",
+        "year": 1974,
+        "broadcast": {
+            "day": "Sundays",
+            "time": "19:00",
+            "timezone": "Asia/Tokyo",
+            "string": "Sundays at 19:00 (JST)"
+        },
+        "producers": [
+            {
+                "mal_id": 921,
+                "type": "anime",
+                "name": "Dynamic Planning",
+                "url": "https://myanimelist.net/anime/producer/921/Dynamic_Planning"
+            }
+        ],
+        "licensors": [
+            {
+                "mal_id": 467,
+                "type": "anime",
+                "name": "Discotek Media",
+                "url": "https://myanimelist.net/anime/producer/467/Discotek_Media"
+            }
+        ],
+        "studios": [
+            {
+                "mal_id": 18,
+                "type": "anime",
+                "name": "Toei Animation",
+                "url": "https://myanimelist.net/anime/producer/18/Toei_Animation"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 24,
+                "type": "anime",
+                "name": "Sci-Fi",
+                "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [
+            {
+                "mal_id": 18,
+                "type": "anime",
+                "name": "Mecha",
+                "url": "https://myanimelist.net/anime/genre/18/Mecha"
+            }
+        ],
+        "demographics": [
+            {
+                "mal_id": 27,
+                "type": "anime",
+                "name": "Shounen",
+                "url": "https://myanimelist.net/anime/genre/27/Shounen"
+            }
+        ],
+        "relations": [
+            {
+                "relation": "Prequel",
+                "entry": [
+                    {
+                        "mal_id": 2253,
+                        "type": "anime",
+                        "name": "Mazinger Z",
+                        "url": "https://myanimelist.net/anime/2253/Mazinger_Z"
+                    }
+                ]
+            },
+            {
+                "relation": "Sequel",
+                "entry": [
+                    {
+                        "mal_id": 34820,
+                        "type": "anime",
+                        "name": "Mazinger Z Movie: Infinity",
+                        "url": "https://myanimelist.net/anime/34820/Mazinger_Z_Movie__Infinity"
+                    }
+                ]
+            },
+            {
+                "relation": "Adaptation",
+                "entry": [
+                    {
+                        "mal_id": 98118,
+                        "type": "manga",
+                        "name": "Great Mazinger",
+                        "url": "https://myanimelist.net/manga/98118/Great_Mazinger"
+                    }
+                ]
+            },
+            {
+                "relation": "Spin-Off",
+                "entry": [
+                    {
+                        "mal_id": 4385,
+                        "type": "anime",
+                        "name": "Great Mazinger tai Getter Robo",
+                        "url": "https://myanimelist.net/anime/4385/Great_Mazinger_tai_Getter_Robo"
+                    },
+                    {
+                        "mal_id": 4386,
+                        "type": "anime",
+                        "name": "Great Mazinger tai Getter Robo G: Kuuchuu Daigekitotsu",
+                        "url": "https://myanimelist.net/anime/4386/Great_Mazinger_tai_Getter_Robo_G__Kuuchuu_Daigekitotsu"
+                    }
+                ]
+            },
+            {
+                "relation": "Other",
+                "entry": [
+                    {
+                        "mal_id": 5250,
+                        "type": "anime",
+                        "name": "God Mazinger",
+                        "url": "https://myanimelist.net/anime/5250/God_Mazinger"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [
+                "\"Ore wa Great Mazinger (おれはグレートマジンガー)\" by Ichirou Mizuki, Columbia Yurikago Kai"
+            ],
+            "endings": [
+                "\"Yuusha wa Mazinger (勇者はマジンガー)\" by Ichirou Mizuki, Columbia Yurikago Kai"
+            ]
+        },
+        "external": [
+            {
+                "name": "Official Site",
+                "url": "http://www.toei-anim.co.jp/lineup/tv/great_mazin/"
+            },
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=956"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=1997"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "http://en.wikipedia.org/wiki/Great_Mazinger"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": [
+        {
+            "mal_id": 1,
+            "url": null,
+            "title": "The Hero of the Skies, Great Mazinger",
+            "title_japanese": "大空の勇者グレート・マジンガー",
+            "title_romanji": "Oozora no Yuusha Great Mazinger ",
+            "aired": "1974-09-08T00:00:00+00:00",
+            "score": 2.8,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1398537"
+        },
+        {
+            "mal_id": 2,
+            "url": null,
+            "title": "Hell's Messenger!! The Instigator of Darkness, Garalya",
+            "title_japanese": "地獄の使者!!闇の仕掛人ガラリヤ",
+            "title_romanji": "Jigoku no Shisha!! Yami no Shikake-nin Garalya ",
+            "aired": "1974-09-15T00:00:00+00:00",
+            "score": 3.25,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1571654"
+        },
+        {
+            "mal_id": 3,
+            "url": null,
+            "title": "Honoo's Guts!! The Wild Venus!!",
+            "title_japanese": "炎のガッツ!!野生のビューナス!!",
+            "title_romanji": "Honoo no Guts!! Yasei no Venus!! ",
+            "aired": "1974-09-22T00:00:00+00:00",
+            "score": 2.8,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1572350"
+        },
+        {
+            "mal_id": 4,
+            "url": null,
+            "title": "Search and Destroy!! Science Fortress Lab!!",
+            "title_japanese": "キャッチ・アンド・アタック!!科学要塞研究所",
+            "title_romanji": "Catch and Attack!! Kagaku Yousai Kenkyuujo ",
+            "aired": "1974-09-29T00:00:00+00:00",
+            "score": 3,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1572352"
+        },
+        {
+            "mal_id": 5,
+            "url": null,
+            "title": "Attack of the Combining Warbeast",
+            "title_japanese": "突撃!!怒りの連合戦闘獣",
+            "title_romanji": "Totsugeki!! Ikari no Rengou Sentoujuu ",
+            "aired": "1974-10-06T00:00:00+00:00",
+            "score": 3,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1572477"
+        },
+        {
+            "mal_id": 6,
+            "url": null,
+            "title": "Tetsuya Tsurugi in Hell",
+            "title_japanese": "地獄におちた剣鉄也",
+            "title_romanji": "Jigoku ni Ochita Tsurugi Tetsuya ",
+            "aired": "1974-10-13T00:00:00+00:00",
+            "score": 3,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1572942"
+        },
+        {
+            "mal_id": 7,
+            "url": null,
+            "title": "An Impossible Rescue?! The Litte Braggart!!",
+            "title_japanese": "救助不可能!?ほら吹き少年の恐怖!!",
+            "title_romanji": "Kyuujo Fukanou!? Horafuki Shounen no Kyoufu!! ",
+            "aired": "1974-10-20T00:00:00+00:00",
+            "score": 2.75,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1575531"
+        },
+        {
+            "mal_id": 8,
+            "url": null,
+            "title": "Killer Blow!! The Drill Pressure Punch!!",
+            "title_japanese": "とどめの一撃!! ドリル・プレッシャー・パンチ!!",
+            "title_romanji": "Todome no Ichigeki!! Dril Pressure Punch!! ",
+            "aired": "1974-10-27T00:00:00+00:00",
+            "score": 2.8,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1578200"
+        },
+        {
+            "mal_id": 9,
+            "url": null,
+            "title": "An Alien Beauty Amidst the Humans!!",
+            "title_japanese": "爆死!!美しき人間志願者!!",
+            "title_romanji": "Bakushi!! Utsukushiki Ningen Shigansha!! ",
+            "aired": "1974-11-03T00:00:00+00:00",
+            "score": 3.38,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1583384"
+        },
+        {
+            "mal_id": 10,
+            "url": null,
+            "title": "Mazinger in Trouble!! A Mobile Danger Zone!!",
+            "title_japanese": "危うしマジンガー!!移動する発狂地帯!!",
+            "title_romanji": "Ayaushi Mazinger!! Idou Suru Hakkyou Chitai!! ",
+            "aired": "1974-11-10T00:00:00+00:00",
+            "score": 3,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1591658"
+        },
+        {
+            "mal_id": 11,
+            "url": null,
+            "title": "Open Your Eyes, Shiro!! Where Heartless Battles End!!",
+            "title_japanese": "目覚めろシロー!!愛なき戦いの結末!!",
+            "title_romanji": "Mezamero Shirou! Ai Naki Tatakai no Ketsumatsu!! ",
+            "aired": "1974-11-17T00:00:00+00:00",
+            "score": 2.17,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1490899"
+        },
+        {
+            "mal_id": 12,
+            "url": null,
+            "title": "Attack of the Raging Bull, Bisonia",
+            "title_japanese": "猛牛バイソニアの逆襲",
+            "title_romanji": "Mou Ushi Bisonia no Gyakushuu ",
+            "aired": "1974-11-24T00:00:00+00:00",
+            "score": 2.67,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1593780"
+        },
+        {
+            "mal_id": 13,
+            "url": null,
+            "title": "A Fierce Fight!! Kenzo Kabuto vs. The Dark General!!",
+            "title_japanese": "激闘!!兜博士対暗黒将軍!!",
+            "title_romanji": "Gekitou!! Kabuto-hakase tai Ankoku-shougun!! ",
+            "aired": "1974-12-01T00:00:00+00:00",
+            "score": 3.71,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1595827"
+        },
+        {
+            "mal_id": 14,
+            "url": null,
+            "title": "Operation Tsunami!! Save the Laboratory!!",
+            "title_japanese": "転覆寸前!!研究所を救え!!",
+            "title_romanji": "Tenpuku Sunzen!! Kenkyuujo wo Sukue!! ",
+            "aired": "1974-12-08T00:00:00+00:00",
+            "score": 3,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1599249"
+        },
+        {
+            "mal_id": 15,
+            "url": null,
+            "title": "Attack of the Bloodsucking Lizards",
+            "title_japanese": "吸血!!恐怖のトカゲ地獄",
+            "title_romanji": "Kyuuketsu!! Kyoufu no Tokage Jigoku ",
+            "aired": "1974-12-15T00:00:00+00:00",
+            "score": 2.75,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1603798"
+        },
+        {
+            "mal_id": 16,
+            "url": null,
+            "title": "Rise!! The Young Prince of Mycenae!!",
+            "title_japanese": "立て!!ミケーネの若きプリンス!!",
+            "title_romanji": "Tate!! Mycenae no Wakaki Prince!! ",
+            "aired": "1974-12-22T00:00:00+00:00",
+            "score": 3.6,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1607606"
+        },
+        {
+            "mal_id": 17,
+            "url": null,
+            "title": "Tetsuya!! Rise from the Depths of Hell!!",
+            "title_japanese": "鉄也よ!! 地獄の闇から這い上がれ!!",
+            "title_romanji": "Tetsuya yo!! Jigoku no Yami kara Hai Agare!! ",
+            "aired": "1974-12-28T00:00:00+00:00",
+            "score": 3,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1607611"
+        },
+        {
+            "mal_id": 18,
+            "url": null,
+            "title": "A Trap! The Combining Warbeast!!",
+            "title_japanese": "黒い罠!ドッキング戦闘獣!!",
+            "title_romanji": "Kuroi Wana! Docking Sentoujuu!! ",
+            "aired": "1975-01-05T00:00:00+00:00",
+            "score": 3.5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1615998"
+        },
+        {
+            "mal_id": 19,
+            "url": null,
+            "title": "May the Snow Be Stained with the Blood of Youth!!",
+            "title_japanese": "雪よ若い血潮を染め抜け!!",
+            "title_romanji": "Yuki yo Wakai Chishio wo Somenuke!! ",
+            "aired": "1975-01-12T00:00:00+00:00",
+            "score": 3.83,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1492485"
+        },
+        {
+            "mal_id": 20,
+            "url": null,
+            "title": "Do or Die!! The Mycenaean Invasion!!",
+            "title_japanese": "血死!!ミケーネス攻撃隊乱入!!",
+            "title_romanji": "Chichi!! Mycenaes Kougekitai Rannyuu!! ",
+            "aired": "1975-01-19T00:00:00+00:00",
+            "score": 2.75,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1618637"
+        },
+        {
+            "mal_id": 21,
+            "url": null,
+            "title": "Wrath!! The Emperor of Darkness Revealed!!",
+            "title_japanese": "怒りの指令!!姿を見せた闇の帝王!!",
+            "title_romanji": "Ikari no Shirei!! Sugata wo Miseta Yami no Teiou!! ",
+            "aired": "1975-01-26T00:00:00+00:00",
+            "score": 3,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1622246"
+        },
+        {
+            "mal_id": 22,
+            "url": null,
+            "title": "Gorgon and Volcano Island",
+            "title_japanese": "ゴーゴン大公!!火山島に散る",
+            "title_romanji": "Gorgon Taikou!! Kazanjima ni Chiru ",
+            "aired": "1975-02-02T00:00:00+00:00",
+            "score": 3,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1492527"
+        },
+        {
+            "mal_id": 23,
+            "url": null,
+            "title": "The New Commander: Marquis Janus!!",
+            "title_japanese": "妖しき新司令官ヤヌス侯爵!!",
+            "title_romanji": "Ayashiki Shin Shireikan Janus Koushaku!! ",
+            "aired": "1975-02-09T00:00:00+00:00",
+            "score": 3.5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1628822"
+        },
+        {
+            "mal_id": 24,
+            "url": null,
+            "title": "Mortal Combat!! Victory or Death!!",
+            "title_japanese": "死闘!!この一撃に命をかけろ!!",
+            "title_romanji": "Shitou!! Kono Ichigeki ni Inochi wo Kakero!! ",
+            "aired": "1975-02-16T00:00:00+00:00",
+            "score": 3,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1659557"
+        },
+        {
+            "mal_id": 25,
+            "url": null,
+            "title": "In a Pinch!! Fly, Venus A",
+            "title_japanese": "ピンチ!!飛べビューナスA",
+            "title_romanji": "Pinch!! Tobe Venus A ",
+            "aired": "1975-02-23T00:00:00+00:00",
+            "score": 3.5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1492806"
+        },
+        {
+            "mal_id": 26,
+            "url": null,
+            "title": "The Secret of Kenzo Kabuto!!",
+            "title_japanese": "幻の父!!兜博士の秘密!!",
+            "title_romanji": "Maboroshi no Chichi!! Kabuto-hakase no Himitsu!! ",
+            "aired": "1975-03-02T00:00:00+00:00",
+            "score": 3.17,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1661726"
+        },
+        {
+            "mal_id": 27,
+            "url": null,
+            "title": "Burn!! A Desperate Counterattack",
+            "title_japanese": "燃やせ!!怒りの決死の反撃",
+            "title_romanji": "Moyase!! Ikari no Kesshi no Hangeki ",
+            "aired": "1975-03-09T00:00:00+00:00",
+            "score": 3.67,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1668514"
+        },
+        {
+            "mal_id": 28,
+            "url": null,
+            "title": "Escape the Lava Pit!!",
+            "title_japanese": "脱出せよ!!ヤヌスの溶岩責め!!",
+            "title_romanji": "Dasshutsu Seyo!! Janus no Yougan Seme!! ",
+            "aired": "1975-03-16T00:00:00+00:00",
+            "score": 3.5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1670822"
+        },
+        {
+            "mal_id": 29,
+            "url": null,
+            "title": "The Great Comeback!! A New Secret Weapon!!",
+            "title_japanese": "大逆転!! 秘密兵器を発射せよ!!",
+            "title_romanji": "Daigyakuten!! Himitsu Heiki wo Hassha Seyo!! ",
+            "aired": "1975-03-23T00:00:00+00:00",
+            "score": 3,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1679343"
+        },
+        {
+            "mal_id": 30,
+            "url": null,
+            "title": "Victory in Sight!! The Dark General's Ascent!!",
+            "title_japanese": "勝利目前!!ふるい立つ暗黒大将軍",
+            "title_romanji": "Shouri Mokuzen!! Furui Tatsu Ankoku Daishougun!! ",
+            "aired": "1975-03-30T00:00:00+00:00",
+            "score": 2.75,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1679859"
+        },
+        {
+            "mal_id": 31,
+            "url": null,
+            "title": "The Duel with the Dark General!!",
+            "title_japanese": "死闘!!暗黒大将軍の最後!!",
+            "title_romanji": "Shitou!! Ankoku Daishougun no Saigo!! ",
+            "aired": "1975-04-06T00:00:00+00:00",
+            "score": 3.33,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1492897"
+        },
+        {
+            "mal_id": 32,
+            "url": null,
+            "title": "Snap Out of it, Tetsuya!! A Mystery of the Heart!",
+            "title_japanese": "鉄也よ解け!! 心の謎を...!!",
+            "title_romanji": "Tetsuya yo Hodoke!! Kokoro no Nazo wo...!! ",
+            "aired": "1975-04-13T00:00:00+00:00",
+            "score": 3,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1683370"
+        },
+        {
+            "mal_id": 33,
+            "url": null,
+            "title": "Great Mazinger's Feet Are Blown Off!!",
+            "title_japanese": "グレートマジンガーの足が吹っ飛んだ!!",
+            "title_romanji": "Great Mazinger no Ashi ga Futtonda!! ",
+            "aired": "1975-04-20T00:00:00+00:00",
+            "score": 3.25,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1492921"
+        },
+        {
+            "mal_id": 34,
+            "url": null,
+            "title": "Time for the Back Spin Kick!",
+            "title_japanese": "今だ出せ!!バック・スピン・キック!!",
+            "title_romanji": "Ima da Dase!! Back Spin Kick!! ",
+            "aired": "1975-04-27T00:00:00+00:00",
+            "score": 3,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1685796"
+        },
+        {
+            "mal_id": 35,
+            "url": null,
+            "title": "Super Ninja! The Cattloo Corps!!",
+            "title_japanese": "スーパー忍者!キャットルー軍団!",
+            "title_romanji": "Super Ninja! Cattloo Gundan!! ",
+            "aired": "1975-05-04T00:00:00+00:00",
+            "score": 3,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1689289"
+        },
+        {
+            "mal_id": 36,
+            "url": null,
+            "title": "Rise! A Love Beyond Hate!",
+            "title_japanese": "甦れ!!憎しみを超えた愛!!",
+            "title_romanji": "Yomigaere!! Nikushimi wo Koeta Ai!! ",
+            "aired": "1975-05-11T00:00:00+00:00",
+            "score": 3,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1692722"
+        },
+        {
+            "mal_id": 37,
+            "url": null,
+            "title": "Assasinate Dr. Kabuto at 3.AM!!",
+            "title_japanese": "午前三時　兜博士を暗殺せよ!!",
+            "title_romanji": "Gozensanji Kabuto Hakase wo Ansatsu Seyo!! ",
+            "aired": "1975-05-18T00:00:00+00:00",
+            "score": 3.25,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1692724"
+        },
+        {
+            "mal_id": 38,
+            "url": null,
+            "title": "Don't Cry, Tetsuya!! The Stolen Mazinger!!",
+            "title_japanese": "鉄也よ泣くな!!奪われたマジンガー!!",
+            "title_romanji": "Tetsuya yo Nakuna!! Ubawareta Mazinger!! ",
+            "aired": "1975-05-25T00:00:00+00:00",
+            "score": 2.75,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1693088"
+        },
+        {
+            "mal_id": 39,
+            "url": null,
+            "title": "The Final Challenge! The Sky Fortress, Michelos!!",
+            "title_japanese": "最後の挑戦!!空の要塞ミケロス!!",
+            "title_romanji": "Saigo no Chousen!! Sora no Yosai Michelos!! ",
+            "aired": "1975-06-01T00:00:00+00:00",
+            "score": 3,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1693867"
+        },
+        {
+            "mal_id": 40,
+            "url": null,
+            "title": "The Crimson Cross of Death!!",
+            "title_japanese": "死を呼ぶ赤い十字架!!",
+            "title_romanji": "Shi wo Yobu Akai Juujika!! ",
+            "aired": "1975-06-08T00:00:00+00:00",
+            "score": 3,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1696888"
+        },
+        {
+            "mal_id": 41,
+            "url": null,
+            "title": "Land! The Unbeatable Fortress Demonica!!",
+            "title_japanese": "上陸!!無敵の要塞デモニカ!!",
+            "title_romanji": "Jooriku!! Muteki no yoosai Demonika!! ",
+            "aired": "1975-06-15T00:00:00+00:00",
+            "score": 3,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1696890"
+        },
+        {
+            "mal_id": 42,
+            "url": null,
+            "title": "The Underwater Graveyard!! The Wounded Runaway!!",
+            "title_japanese": "深海墓場!!傷だらけの脱出!!",
+            "title_romanji": "Shinkai hakaba!! Kizu-darake no dasshutsu!! ",
+            "aired": "1975-06-22T00:00:00+00:00",
+            "score": 3,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1696891"
+        },
+        {
+            "mal_id": 43,
+            "url": null,
+            "title": "There's No Time!! The Scientific Research Institute Fortress!!",
+            "title_japanese": "待ったなし!!科学要塞研究所!!",
+            "title_romanji": "Mattanashi!! Kagaku Yoosai Kenkyuujo!! ",
+            "aired": "1975-06-29T00:00:00+00:00",
+            "score": 3.33,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1697649"
+        },
+        {
+            "mal_id": 44,
+            "url": null,
+            "title": "Furious Counterattack!! The Volcanic Base's Bombardment!!",
+            "title_japanese": "怒りの大逆襲!!火山島基地爆破!!",
+            "title_romanji": "Ikari no Daigyakushuu!! Kazanjima Kichi Bakuha!! ",
+            "aired": "1975-07-06T00:00:00+00:00",
+            "score": 3.25,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1697666"
+        },
+        {
+            "mal_id": 45,
+            "url": null,
+            "title": "The Insane Great Mazinger!!",
+            "title_japanese": "狂ったグレートマジンガー!!",
+            "title_romanji": "Kurutta Great Mazinger!! ",
+            "aired": "1975-07-13T00:00:00+00:00",
+            "score": 3,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1698010"
+        },
+        {
+            "mal_id": 46,
+            "url": null,
+            "title": "Fighting Spirit! Until This Life Of Mine Burn Out...",
+            "title_japanese": "闘魂!!この命燃え尽きるまで",
+            "title_romanji": "Tookon!! Kono Inochi Moetsukiru made!! ",
+            "aired": "1975-07-20T00:00:00+00:00",
+            "score": 3,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1698016"
+        },
+        {
+            "mal_id": 47,
+            "url": null,
+            "title": "Mortal Blow!! The Ultra-High Speed Great Booster",
+            "title_japanese": "必殺!!超高速グレート・ブースター",
+            "title_romanji": "Hissatsu!! Choukousoku Great Booster ",
+            "aired": "1975-07-27T00:00:00+00:00",
+            "score": 3.25,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1698075"
+        },
+        {
+            "mal_id": 48,
+            "url": null,
+            "title": "The Special Strategy!! Sayaka Appears!!",
+            "title_japanese": "特効作戦!!さやか出現!!",
+            "title_romanji": "Tokkou Sakusen!! Sayaka Shutsugen!! ",
+            "aired": "1975-08-03T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1698241"
+        },
+        {
+            "mal_id": 49,
+            "url": null,
+            "title": "Resist, Shiro!! There's No Rest for the Heroic",
+            "title_japanese": "耐えろシロー!!勇者に休日はない",
+            "title_romanji": "Taero Shirou!! Yuusha ni Kyuujitsu wa Nai ",
+            "aired": "1975-08-10T00:00:00+00:00",
+            "score": 3.5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1698507"
+        },
+        {
+            "mal_id": 50,
+            "url": null,
+            "title": "The Sun Beyond The Tears...!!",
+            "title_japanese": "涙の彼方に太陽が…!!",
+            "title_romanji": "Namida no Kanata ni Taiyou ga...!! ",
+            "aired": "1975-08-17T00:00:00+00:00",
+            "score": 3,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1698509"
+        },
+        {
+            "mal_id": 51,
+            "url": null,
+            "title": "Shine On, You Bright Star!! The Return of Mazinger Z",
+            "title_japanese": "かがやけ明星!!マジンガーZが帰ってきた!",
+            "title_romanji": "Kagayake Myoujou!! Mazinger Z ga Kaette Kita!! ",
+            "aired": "1975-08-24T00:00:00+00:00",
+            "score": 2.75,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1698729"
+        },
+        {
+            "mal_id": 52,
+            "url": null,
+            "title": "Aspirations of A Battle Beast!! Your Youth Illuminates from Behind!!",
+            "title_japanese": "戦闘獣志願!!逆光線に散った青春!!",
+            "title_romanji": "Sentoujuu Shigan!! Gyakukousen ni Chitta Seishun!! ",
+            "aired": "1975-08-31T00:00:00+00:00",
+            "score": 3,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1698733"
+        },
+        {
+            "mal_id": 53,
+            "url": null,
+            "title": "The Great Heroes!! Fight, Tetsuya - Dash, Koji!!",
+            "title_japanese": "偉大な勇者!!ファイト鉄也・ダッシュ甲児!!",
+            "title_romanji": "Idaina Yuusha!! Fight Tetsuya Dash Kouji!! ",
+            "aired": "1975-09-07T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1493602"
+        },
+        {
+            "mal_id": 54,
+            "url": null,
+            "title": "The Overwhelming Demonica! The Invincible Dual Attack!!",
+            "title_japanese": "打倒デモニカ!!無敵のダブルアタック!!",
+            "title_romanji": "Datou Demonica!! Muteki no Double Attack!! ",
+            "aired": "1975-09-14T00:00:00+00:00",
+            "score": 3.33,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1698982"
+        },
+        {
+            "mal_id": 55,
+            "url": null,
+            "title": "A Struggle Without Tommorow! Send Tetsuya and Koji to Hell!!",
+            "title_japanese": "明日なき総力戦!!鉄也・甲児を地獄へ送れ!!",
+            "title_romanji": "Ashita Naki Souryokusen!! Tetsuya Kouji wo Jigoku e Okure!! ",
+            "aired": "1975-09-21T00:00:00+00:00",
+            "score": 2.75,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1699242"
+        },
+        {
+            "mal_id": 56,
+            "url": null,
+            "title": "A Bell of Peace Rings Over The Brave!!",
+            "title_japanese": "平和の鐘よ　勇者の頭上に鳴り渡れ!!",
+            "title_romanji": "Heiwa no Kane yo Yuusha no Zujou ni Nariwatare!! ",
+            "aired": "1975-09-28T00:00:00+00:00",
+            "score": 3.2,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1699243"
+        }
+    ]
+}

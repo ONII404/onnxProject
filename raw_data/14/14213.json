@@ -1,0 +1,158 @@
+{
+    "id": 14213,
+    "fetched_at": "Sun Dec 14 09:44:07 2025",
+    "metadata": {
+        "mal_id": 14213,
+        "url": "https://myanimelist.net/anime/14213/Otogi_Manga_Calendar",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/11/39147.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/11/39147t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/11/39147l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/11/39147.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/11/39147t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/11/39147l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Otogi Manga Calendar"
+            },
+            {
+                "type": "Japanese",
+                "title": "おとぎマンガカレンダー"
+            }
+        ],
+        "title": "Otogi Manga Calendar",
+        "title_english": null,
+        "title_japanese": "おとぎマンガカレンダー",
+        "title_synonyms": [],
+        "type": "TV",
+        "source": "Original",
+        "episodes": 312,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "1962-06-25T00:00:00+00:00",
+            "to": "1964-06-25T00:00:00+00:00",
+            "prop": {
+                "from": {
+                    "day": 25,
+                    "month": 6,
+                    "year": 1962
+                },
+                "to": {
+                    "day": 25,
+                    "month": 6,
+                    "year": 1964
+                }
+            },
+            "string": "Jun 25, 1962 to Jun 25, 1964"
+        },
+        "duration": "5 min per ep",
+        "rating": "G - All Ages",
+        "score": 6.04,
+        "scored_by": 184,
+        "rank": 10075,
+        "popularity": 15097,
+        "members": 955,
+        "favorites": 9,
+        "synopsis": "A continuation of Instant History.\n\n(Source: Cartoon Research)",
+        "background": "Otogi Manga Calendar was broadcast Mondays through Saturdays by Tokyo Broadcasting System. After the conclusion of the series in 1964, episodes were rebroadcast on June 27, July 4, and July 11.",
+        "season": "summer",
+        "year": 1962,
+        "broadcast": {
+            "day": null,
+            "time": null,
+            "timezone": null,
+            "string": "Not scheduled once per week"
+        },
+        "producers": [
+            {
+                "mal_id": 145,
+                "type": "anime",
+                "name": "TBS",
+                "url": "https://myanimelist.net/anime/producer/145/TBS"
+            },
+            {
+                "mal_id": 831,
+                "type": "anime",
+                "name": "Otogi Production",
+                "url": "https://myanimelist.net/anime/producer/831/Otogi_Production"
+            }
+        ],
+        "licensors": [],
+        "studios": [],
+        "genres": [],
+        "explicit_genres": [],
+        "themes": [
+            {
+                "mal_id": 13,
+                "type": "anime",
+                "name": "Historical",
+                "url": "https://myanimelist.net/anime/genre/13/Historical"
+            }
+        ],
+        "demographics": [],
+        "relations": [
+            {
+                "relation": "Prequel",
+                "entry": [
+                    {
+                        "mal_id": 14211,
+                        "type": "anime",
+                        "name": "Instant History",
+                        "url": "https://myanimelist.net/anime/14211/Instant_History"
+                    }
+                ]
+            },
+            {
+                "relation": "Sequel",
+                "entry": [
+                    {
+                        "mal_id": 22221,
+                        "type": "anime",
+                        "name": "Monoshiri Daigaku: Ashita no Calendar",
+                        "url": "https://myanimelist.net/anime/22221/Monoshiri_Daigaku__Ashita_no_Calendar"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [],
+            "endings": []
+        },
+        "external": [
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=5034"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=1495"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "http://en.wikipedia.org/wiki/Otogi_Manga_Calendar"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": []
+}

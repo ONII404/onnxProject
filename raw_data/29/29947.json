@@ -1,0 +1,132 @@
+{
+    "id": 29947,
+    "fetched_at": "Sun Dec 14 10:39:04 2025",
+    "metadata": {
+        "mal_id": 29947,
+        "url": "https://myanimelist.net/anime/29947/Chibikuro_Sambo_no_Tora_Taiji",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/6/71845.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/6/71845t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/6/71845l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/6/71845.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/6/71845t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/6/71845l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Chibikuro Sambo no Tora Taiji"
+            },
+            {
+                "type": "Synonym",
+                "title": "Little Black Sambo versus the Tiger"
+            },
+            {
+                "type": "Japanese",
+                "title": "ちびくろさんぼのとらたいじ"
+            }
+        ],
+        "title": "Chibikuro Sambo no Tora Taiji",
+        "title_english": null,
+        "title_japanese": "ちびくろさんぼのとらたいじ",
+        "title_synonyms": [
+            "Little Black Sambo versus the Tiger"
+        ],
+        "type": "Movie",
+        "source": "Original",
+        "episodes": 1,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "1956-11-01T00:00:00+00:00",
+            "to": null,
+            "prop": {
+                "from": {
+                    "day": 1,
+                    "month": 11,
+                    "year": 1956
+                },
+                "to": {
+                    "day": null,
+                    "month": null,
+                    "year": null
+                }
+            },
+            "string": "Nov 1956"
+        },
+        "duration": "20 min",
+        "rating": "G - All Ages",
+        "score": null,
+        "scored_by": null,
+        "rank": 20669,
+        "popularity": 18184,
+        "members": 485,
+        "favorites": 0,
+        "synopsis": "Little Black Sambo was screened at the first Vancouver International Film Festival in 1958, and won the Best Film award in the Films for Children section.\n\n(Source: AniDB)",
+        "background": "",
+        "season": null,
+        "year": null,
+        "broadcast": {
+            "day": null,
+            "time": null,
+            "timezone": null,
+            "string": null
+        },
+        "producers": [],
+        "licensors": [],
+        "studios": [],
+        "genres": [],
+        "explicit_genres": [],
+        "themes": [],
+        "demographics": [
+            {
+                "mal_id": 15,
+                "type": "anime",
+                "name": "Kids",
+                "url": "https://myanimelist.net/anime/genre/15/Kids"
+            }
+        ],
+        "relations": [
+            {
+                "relation": "Sequel",
+                "entry": [
+                    {
+                        "mal_id": 29948,
+                        "type": "anime",
+                        "name": "Chibikuro Sambo to Futago no Otouto",
+                        "url": "https://myanimelist.net/anime/29948/Chibikuro_Sambo_to_Futago_no_Otouto"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [],
+            "endings": []
+        },
+        "external": [
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=6948"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": []
+}

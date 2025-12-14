@@ -1,0 +1,158 @@
+{
+    "id": 35399,
+    "fetched_at": "Sun Dec 14 11:04:33 2025",
+    "metadata": {
+        "mal_id": 35399,
+        "url": "https://myanimelist.net/anime/35399/Kamishibai_Itazura_Tanuki_no_Maki",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/10/85261.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/10/85261t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/10/85261l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/10/85261.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/10/85261t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/10/85261l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Kamishibai Itazura Tanuki no Maki"
+            },
+            {
+                "type": "Japanese",
+                "title": "紙芝居 いたづら狸の卷"
+            },
+            {
+                "type": "English",
+                "title": "Rascal Racoon"
+            }
+        ],
+        "title": "Kamishibai Itazura Tanuki no Maki",
+        "title_english": "Rascal Racoon",
+        "title_japanese": "紙芝居 いたづら狸の卷",
+        "title_synonyms": [],
+        "type": "Movie",
+        "source": "Other",
+        "episodes": 1,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "1933-01-01T00:00:00+00:00",
+            "to": null,
+            "prop": {
+                "from": {
+                    "day": 1,
+                    "month": 1,
+                    "year": 1933
+                },
+                "to": {
+                    "day": null,
+                    "month": null,
+                    "year": null
+                }
+            },
+            "string": "1933"
+        },
+        "duration": "5 min",
+        "rating": "G - All Ages",
+        "score": 5.48,
+        "scored_by": 352,
+        "rank": 12713,
+        "popularity": 15995,
+        "members": 750,
+        "favorites": 0,
+        "synopsis": "A tanuki causes mischief at a temple.",
+        "background": "This is a modified version of the 1928 Bunbuku Chagama. The opening and ending were changed to contain different animated footage.",
+        "season": null,
+        "year": null,
+        "broadcast": {
+            "day": null,
+            "time": null,
+            "timezone": null,
+            "string": null
+        },
+        "producers": [],
+        "licensors": [],
+        "studios": [],
+        "genres": [
+            {
+                "mal_id": 1,
+                "type": "anime",
+                "name": "Action",
+                "url": "https://myanimelist.net/anime/genre/1/Action"
+            },
+            {
+                "mal_id": 37,
+                "type": "anime",
+                "name": "Supernatural",
+                "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [
+            {
+                "mal_id": 13,
+                "type": "anime",
+                "name": "Historical",
+                "url": "https://myanimelist.net/anime/genre/13/Historical"
+            }
+        ],
+        "demographics": [],
+        "relations": [
+            {
+                "relation": "Alternative Version",
+                "entry": [
+                    {
+                        "mal_id": 24881,
+                        "type": "anime",
+                        "name": "Bunbuku Chagama",
+                        "url": "https://myanimelist.net/anime/24881/Bunbuku_Chagama"
+                    }
+                ]
+            },
+            {
+                "relation": "Other",
+                "entry": [
+                    {
+                        "mal_id": 35400,
+                        "type": "anime",
+                        "name": "Kamishibai Kintarou no Maki",
+                        "url": "https://myanimelist.net/anime/35400/Kamishibai_Kintarou_no_Maki"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [],
+            "endings": []
+        },
+        "external": [
+            {
+                "name": "Official Site",
+                "url": "http://animation.filmarchives.jp/works/view/66519"
+            },
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=12870"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": []
+}

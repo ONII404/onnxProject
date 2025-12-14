@@ -1,0 +1,139 @@
+{
+    "id": 7528,
+    "fetched_at": "Sun Dec 14 09:11:29 2025",
+    "metadata": {
+        "mal_id": 7528,
+        "url": "https://myanimelist.net/anime/7528/Kujira_1952",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1336/112595.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1336/112595t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1336/112595l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1336/112595.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1336/112595t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1336/112595l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Kujira (1952)"
+            },
+            {
+                "type": "Synonym",
+                "title": "The Whale (1952)"
+            },
+            {
+                "type": "Japanese",
+                "title": "くじら"
+            }
+        ],
+        "title": "Kujira (1952)",
+        "title_english": null,
+        "title_japanese": "くじら",
+        "title_synonyms": [
+            "The Whale (1952)"
+        ],
+        "type": "Movie",
+        "source": "Original",
+        "episodes": 1,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "1952-12-01T00:00:00+00:00",
+            "to": null,
+            "prop": {
+                "from": {
+                    "day": 1,
+                    "month": 12,
+                    "year": 1952
+                },
+                "to": {
+                    "day": null,
+                    "month": null,
+                    "year": null
+                }
+            },
+            "string": "Dec 1952"
+        },
+        "duration": "10 min",
+        "rating": "G - All Ages",
+        "score": 5.06,
+        "scored_by": 792,
+        "rank": 13745,
+        "popularity": 12873,
+        "members": 1731,
+        "favorites": 1,
+        "synopsis": "Remake of Oofuji's earlier film from the year 1927.\n\n(Source: AniDB)",
+        "background": "",
+        "season": null,
+        "year": null,
+        "broadcast": {
+            "day": null,
+            "time": null,
+            "timezone": null,
+            "string": null
+        },
+        "producers": [
+            {
+                "mal_id": 1242,
+                "type": "anime",
+                "name": "Sakura Color Film",
+                "url": "https://myanimelist.net/anime/producer/1242/Sakura_Color_Film"
+            }
+        ],
+        "licensors": [],
+        "studios": [],
+        "genres": [
+            {
+                "mal_id": 10,
+                "type": "anime",
+                "name": "Fantasy",
+                "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [],
+        "demographics": [],
+        "relations": [
+            {
+                "relation": "Alternative Version",
+                "entry": [
+                    {
+                        "mal_id": 30176,
+                        "type": "anime",
+                        "name": "Kujira",
+                        "url": "https://myanimelist.net/anime/30176/Kujira"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [],
+            "endings": []
+        },
+        "external": [
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=6874"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": []
+}

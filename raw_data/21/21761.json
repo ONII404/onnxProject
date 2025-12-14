@@ -1,0 +1,143 @@
+{
+    "id": 21761,
+    "fetched_at": "Sun Dec 14 10:07:13 2025",
+    "metadata": {
+        "mal_id": 21761,
+        "url": "https://myanimelist.net/anime/21761/Ari_to_Hato",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/img/sp/icon/apple-touch-icon-256.png",
+                "small_image_url": "https://cdn.myanimelist.net/img/sp/icon/apple-touch-icon-256.png",
+                "large_image_url": "https://cdn.myanimelist.net/img/sp/icon/apple-touch-icon-256.png"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/img/sp/icon/apple-touch-icon-256.png",
+                "small_image_url": "https://cdn.myanimelist.net/img/sp/icon/apple-touch-icon-256.png",
+                "large_image_url": "https://cdn.myanimelist.net/img/sp/icon/apple-touch-icon-256.png"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Ari to Hato"
+            },
+            {
+                "type": "Synonym",
+                "title": "The Ant and the Pigeon"
+            },
+            {
+                "type": "Synonym",
+                "title": "Ari to Hato (1918)"
+            },
+            {
+                "type": "Japanese",
+                "title": "蟻と鳩"
+            }
+        ],
+        "title": "Ari to Hato",
+        "title_english": null,
+        "title_japanese": "蟻と鳩",
+        "title_synonyms": [
+            "The Ant and the Pigeon",
+            "Ari to Hato (1918)"
+        ],
+        "type": "Movie",
+        "source": "Other",
+        "episodes": 1,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "1918-07-18T00:00:00+00:00",
+            "to": null,
+            "prop": {
+                "from": {
+                    "day": 18,
+                    "month": 7,
+                    "year": 1918
+                },
+                "to": {
+                    "day": null,
+                    "month": null,
+                    "year": null
+                }
+            },
+            "string": "Jul 18, 1918"
+        },
+        "duration": "Unknown",
+        "rating": "G - All Ages",
+        "score": null,
+        "scored_by": null,
+        "rank": 20006,
+        "popularity": 17505,
+        "members": 546,
+        "favorites": 0,
+        "synopsis": "In this tale an ant and a pigeon help each other.",
+        "background": "",
+        "season": null,
+        "year": null,
+        "broadcast": {
+            "day": null,
+            "time": null,
+            "timezone": null,
+            "string": null
+        },
+        "producers": [],
+        "licensors": [],
+        "studios": [],
+        "genres": [],
+        "explicit_genres": [],
+        "themes": [],
+        "demographics": [
+            {
+                "mal_id": 15,
+                "type": "anime",
+                "name": "Kids",
+                "url": "https://myanimelist.net/anime/genre/15/Kids"
+            }
+        ],
+        "relations": [
+            {
+                "relation": "Alternative Version",
+                "entry": [
+                    {
+                        "mal_id": 21763,
+                        "type": "anime",
+                        "name": "Ari to Hato (1953)",
+                        "url": "https://myanimelist.net/anime/21763/Ari_to_Hato_1953"
+                    },
+                    {
+                        "mal_id": 21765,
+                        "type": "anime",
+                        "name": "Ari to Hato (1959)",
+                        "url": "https://myanimelist.net/anime/21765/Ari_to_Hato_1959"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [],
+            "endings": []
+        },
+        "external": [
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=6928"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": []
+}

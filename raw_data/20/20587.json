@@ -1,0 +1,164 @@
+{
+    "id": 20587,
+    "fetched_at": "Sun Dec 14 10:05:34 2025",
+    "metadata": {
+        "mal_id": 20587,
+        "url": "https://myanimelist.net/anime/20587/Ashinaga_Ojisan",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1408/138512.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1408/138512t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1408/138512l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1408/138512.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1408/138512t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1408/138512l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Ashinaga Ojisan"
+            },
+            {
+                "type": "Japanese",
+                "title": "あしながおじさん"
+            },
+            {
+                "type": "English",
+                "title": "Daddy Long-Legs"
+            }
+        ],
+        "title": "Ashinaga Ojisan",
+        "title_english": "Daddy Long-Legs",
+        "title_japanese": "あしながおじさん",
+        "title_synonyms": [],
+        "type": "TV Special",
+        "source": "Novel",
+        "episodes": 1,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "1979-10-10T00:00:00+00:00",
+            "to": null,
+            "prop": {
+                "from": {
+                    "day": 10,
+                    "month": 10,
+                    "year": 1979
+                },
+                "to": {
+                    "day": null,
+                    "month": null,
+                    "year": null
+                }
+            },
+            "string": "Oct 10, 1979"
+        },
+        "duration": "1 hr",
+        "rating": "G - All Ages",
+        "score": 5.56,
+        "scored_by": 369,
+        "rank": 12453,
+        "popularity": 14210,
+        "members": 1195,
+        "favorites": 0,
+        "synopsis": "An orphan girl receives a scholarship for a prestigious school from an anonymous benefactor who she refers to as Daddy Long Legs.\n\nNote: This TV special is not related to the 1990's series directly.\n\n(Source: AniDB)",
+        "background": "",
+        "season": null,
+        "year": null,
+        "broadcast": {
+            "day": null,
+            "time": null,
+            "timezone": null,
+            "string": null
+        },
+        "producers": [
+            {
+                "mal_id": 169,
+                "type": "anime",
+                "name": "Fuji TV",
+                "url": "https://myanimelist.net/anime/producer/169/Fuji_TV"
+            },
+            {
+                "mal_id": 1754,
+                "type": "anime",
+                "name": "Meruhensha",
+                "url": "https://myanimelist.net/anime/producer/1754/Meruhensha"
+            }
+        ],
+        "licensors": [],
+        "studios": [
+            {
+                "mal_id": 103,
+                "type": "anime",
+                "name": "Tatsunoko Production",
+                "url": "https://myanimelist.net/anime/producer/103/Tatsunoko_Production"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 4,
+                "type": "anime",
+                "name": "Comedy",
+                "url": "https://myanimelist.net/anime/genre/4/Comedy"
+            },
+            {
+                "mal_id": 8,
+                "type": "anime",
+                "name": "Drama",
+                "url": "https://myanimelist.net/anime/genre/8/Drama"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [],
+        "demographics": [],
+        "relations": [
+            {
+                "relation": "Alternative Version",
+                "entry": [
+                    {
+                        "mal_id": 1375,
+                        "type": "anime",
+                        "name": "Watashi no Ashinaga Ojisan",
+                        "url": "https://myanimelist.net/anime/1375/Watashi_no_Ashinaga_Ojisan"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [
+                "\"Kono Sora no Shita ni (この空の下に)\" by Mitsuko Horie"
+            ],
+            "endings": [
+                "\"Daddy Long-Legs\" by Columbia Yurikago Kai, Mitsuko Horie, Masanori Tomotake"
+            ]
+        },
+        "external": [
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=6986"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=4643"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": []
+}

@@ -1,0 +1,838 @@
+{
+    "id": 2223,
+    "fetched_at": "Sun Dec 14 07:21:43 2025",
+    "metadata": {
+        "mal_id": 2223,
+        "url": "https://myanimelist.net/anime/2223/Maple_Town_Monogatari",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1141/92862.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1141/92862t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1141/92862l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1141/92862.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1141/92862t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1141/92862l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Maple Town Monogatari"
+            },
+            {
+                "type": "Synonym",
+                "title": "Maple Town Stories"
+            },
+            {
+                "type": "Japanese",
+                "title": "メイプルタウン物語"
+            },
+            {
+                "type": "English",
+                "title": "Maple Town"
+            },
+            {
+                "type": "Spanish",
+                "title": "La Aldea del Arce"
+            }
+        ],
+        "title": "Maple Town Monogatari",
+        "title_english": "Maple Town",
+        "title_japanese": "メイプルタウン物語",
+        "title_synonyms": [
+            "Maple Town Stories"
+        ],
+        "type": "TV",
+        "source": "Original",
+        "episodes": 52,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "1986-01-19T00:00:00+00:00",
+            "to": "1987-01-11T00:00:00+00:00",
+            "prop": {
+                "from": {
+                    "day": 19,
+                    "month": 1,
+                    "year": 1986
+                },
+                "to": {
+                    "day": 11,
+                    "month": 1,
+                    "year": 1987
+                }
+            },
+            "string": "Jan 19, 1986 to Jan 11, 1987"
+        },
+        "duration": "24 min per ep",
+        "rating": "G - All Ages",
+        "score": 6.86,
+        "scored_by": 1234,
+        "rank": 5226,
+        "popularity": 10266,
+        "members": 3718,
+        "favorites": 14,
+        "synopsis": "Maple Town Stories is about friendship, adventure and the troubles the children (Patty Rabbit, Bobby Bear and Fanny Fox) who are the main characters of the show, fall into. Wild Wolfe is a homeless thief who lives in the forest and usually steals from the town and does other mischief, but the kids are always there to stop him and set things right slowly making him understand the wrongs of his ways.\n\n(Source: ANN)",
+        "background": "",
+        "season": "winter",
+        "year": 1986,
+        "broadcast": {
+            "day": "Sundays",
+            "time": "08:30",
+            "timezone": "Asia/Tokyo",
+            "string": "Sundays at 08:30 (JST)"
+        },
+        "producers": [
+            {
+                "mal_id": 1415,
+                "type": "anime",
+                "name": "Asahi Broadcasting",
+                "url": "https://myanimelist.net/anime/producer/1415/Asahi_Broadcasting"
+            }
+        ],
+        "licensors": [
+            {
+                "mal_id": 841,
+                "type": "anime",
+                "name": "Saban Entertainment",
+                "url": "https://myanimelist.net/anime/producer/841/Saban_Entertainment"
+            }
+        ],
+        "studios": [
+            {
+                "mal_id": 18,
+                "type": "anime",
+                "name": "Toei Animation",
+                "url": "https://myanimelist.net/anime/producer/18/Toei_Animation"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 10,
+                "type": "anime",
+                "name": "Fantasy",
+                "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+            },
+            {
+                "mal_id": 36,
+                "type": "anime",
+                "name": "Slice of Life",
+                "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [
+            {
+                "mal_id": 51,
+                "type": "anime",
+                "name": "Anthropomorphic",
+                "url": "https://myanimelist.net/anime/genre/51/Anthropomorphic"
+            }
+        ],
+        "demographics": [],
+        "relations": [
+            {
+                "relation": "Sequel",
+                "entry": [
+                    {
+                        "mal_id": 5203,
+                        "type": "anime",
+                        "name": "Shin Maple Town Monogatari: Palm Town-hen",
+                        "url": "https://myanimelist.net/anime/5203/Shin_Maple_Town_Monogatari__Palm_Town-hen"
+                    }
+                ]
+            },
+            {
+                "relation": "Side Story",
+                "entry": [
+                    {
+                        "mal_id": 34826,
+                        "type": "anime",
+                        "name": "Maple Town Monogatari (Movie)",
+                        "url": "https://myanimelist.net/anime/34826/Maple_Town_Monogatari_Movie"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [
+                "\"Maple Town Monogatari\" by Yamano Satoko"
+            ],
+            "endings": [
+                "\"Patty no Nichiyoubi\" by Yamano Satoko"
+            ]
+        },
+        "external": [
+            {
+                "name": "Official Site",
+                "url": "http://www.toei-anim.co.jp/lineup/tv/mapletown/"
+            },
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=2078"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=1376"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Maple_Town"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "https://ja.wikipedia.org/wiki/メイプルタウン物語"
+            },
+            {
+                "name": "Anison",
+                "url": "http://anison.info/data/program/1370.html"
+            },
+            {
+                "name": "Allcinema",
+                "url": "https://www.allcinema.net/cinema/89238"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": [
+        {
+            "mal_id": 1,
+            "url": null,
+            "title": "Welcome to Maple Town",
+            "title_japanese": "こちら動物タウン",
+            "title_romanji": "Kochira Doubutsu Town ",
+            "aired": "1986-01-19T00:00:00+00:00",
+            "score": 4.75,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1708642"
+        },
+        {
+            "mal_id": 2,
+            "url": null,
+            "title": "The Stolen Necklace",
+            "title_japanese": "ねらわれた首飾り",
+            "title_romanji": "Nerawareta Kibikazari ",
+            "aired": "1986-01-26T00:00:00+00:00",
+            "score": 4.5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1708645"
+        },
+        {
+            "mal_id": 3,
+            "url": null,
+            "title": "Box Go Boom!",
+            "title_japanese": "消えた銀のさじ",
+            "title_romanji": "Kieta Gin no Saji ",
+            "aired": "1986-02-02T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 4,
+            "url": null,
+            "title": "The Greatest Gift of All",
+            "title_japanese": "掘り当てた宝もの",
+            "title_romanji": "Horiateta Takaramono ",
+            "aired": "1986-02-09T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 5,
+            "url": null,
+            "title": "The Pot That Wouldn't Hold Water",
+            "title_japanese": "うばわれたナベ",
+            "title_romanji": "Ubawareta Nabe ",
+            "aired": "1986-02-16T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 6,
+            "url": null,
+            "title": "Medicine from Maple Mountain",
+            "title_japanese": "こわれた薬びん",
+            "title_romanji": "Kowareta Kusuri Bin ",
+            "aired": "1986-02-23T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 7,
+            "url": null,
+            "title": "The Children's Forest Patrol",
+            "title_japanese": "森の見習い警備隊",
+            "title_romanji": "Mori no Minarai Keibitai ",
+            "aired": "1986-03-02T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 8,
+            "url": null,
+            "title": "The Ransom of Maple Forest",
+            "title_japanese": "わたしの絵を見て!",
+            "title_romanji": "Watashi no E wo Mite! ",
+            "aired": "1986-03-09T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 9,
+            "url": null,
+            "title": "A Most Unlikely Heroine",
+            "title_japanese": "ヒロインはわたし",
+            "title_romanji": "Heroine wa Watashi ",
+            "aired": "1986-03-16T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 10,
+            "url": null,
+            "title": "The Prettiest Dress in Maple Town",
+            "title_japanese": "パパこっち向いて",
+            "title_romanji": "Papa Kocchi Muite ",
+            "aired": "1986-03-23T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 11,
+            "url": null,
+            "title": "The House Made of Love",
+            "title_japanese": "お菓子の家の約束",
+            "title_romanji": "Okashi no Ie no Yakusoku ",
+            "aired": "1986-03-30T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 12,
+            "url": null,
+            "title": "Teacher, Please Don't Go",
+            "title_japanese": "行かないで! 先生",
+            "title_romanji": "Ikenaide! Sensei ",
+            "aired": "1986-04-06T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 13,
+            "url": null,
+            "title": "The Letter That Saved Mayor Dandy Lion",
+            "title_japanese": "愛を呼ぶ手紙",
+            "title_romanji": "Ai wo Yobu Tegami ",
+            "aired": "1986-04-13T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 14,
+            "url": null,
+            "title": "Father Still Knows Best",
+            "title_japanese": "父さんありがとう",
+            "title_romanji": "Tou-san Arigatou ",
+            "aired": "1986-04-20T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 15,
+            "url": null,
+            "title": "A Baby Comes to Maple Town",
+            "title_japanese": "ハロー! 赤ちゃん",
+            "title_romanji": "Hallo! Aka-chan ",
+            "aired": "1986-04-27T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 16,
+            "url": null,
+            "title": "The Spirit of Twin Peaks",
+            "title_japanese": "うさぎ山の神さま",
+            "title_romanji": "Usagi-san no Kamisama ",
+            "aired": "1986-05-04T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 17,
+            "url": null,
+            "title": "When Children Must Be Grown-Ups",
+            "title_japanese": "子供だけの町",
+            "title_romanji": "Kodomo Dake no Machi ",
+            "aired": "1986-05-11T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 18,
+            "url": null,
+            "title": "A Love Letter to Miss Deer",
+            "title_japanese": "頼まれた恋の手紙",
+            "title_romanji": "Tanomareta Koi no Tegami ",
+            "aired": "1986-05-18T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 19,
+            "url": null,
+            "title": "The Beaver Family's Swimming Hole",
+            "title_japanese": "ビーバー家の夏",
+            "title_romanji": "Beaver Ie no Natsu ",
+            "aired": "1986-05-25T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 20,
+            "url": null,
+            "title": "The Maple Town Children's Newspaper",
+            "title_japanese": "パティの子供新聞",
+            "title_romanji": "Patty no Kodomo Shinbun ",
+            "aired": "1986-06-01T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 21,
+            "url": null,
+            "title": "The Mystery Man of Maple Town",
+            "title_japanese": "逃げてきた海賊",
+            "title_romanji": "Nigete Kita Kaizoku ",
+            "aired": "1986-06-08T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 22,
+            "url": null,
+            "title": "The Case of the Missing Candy",
+            "title_japanese": "子供たちの無人島",
+            "title_romanji": "Kodomo-tachi no Mujintou ",
+            "aired": "1986-06-15T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 23,
+            "url": null,
+            "title": "The Forgotten Dream",
+            "title_japanese": "夢のわすれもの",
+            "title_romanji": "Yume no Wasuremono ",
+            "aired": "1986-06-22T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 24,
+            "url": null,
+            "title": "Friends of Maple Town",
+            "title_japanese": "山から来た友だち",
+            "title_romanji": "Yama kara Kita Tomodachi ",
+            "aired": "1986-06-29T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 25,
+            "url": null,
+            "title": "Angels of the Valley",
+            "title_japanese": "谷間の天使たち",
+            "title_romanji": "Tanima no Tenshi-tachi ",
+            "aired": "1986-07-06T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 26,
+            "url": null,
+            "title": "The Witch's Castle",
+            "title_japanese": "魔女の住むお城",
+            "title_romanji": "Majo no Sumu Oshiro ",
+            "aired": "1986-07-13T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 27,
+            "url": null,
+            "title": "Please Give Me a Shellfish!",
+            "title_japanese": "貝がらに願いを!",
+            "title_romanji": "Kaigara ni Negai wo! ",
+            "aired": "1986-07-20T00:00:00+00:00",
+            "score": 5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2169341"
+        },
+        {
+            "mal_id": 28,
+            "url": null,
+            "title": "Lover's Blue Sea",
+            "title_japanese": "恋人たちの青い海",
+            "title_romanji": "Koibito-tachi no Aoi Umi ",
+            "aired": "1986-07-27T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 29,
+            "url": null,
+            "title": "Mysterious Piano",
+            "title_japanese": "ふしぎなピアノ",
+            "title_romanji": "Fushigi na Piano ",
+            "aired": "1986-08-03T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 30,
+            "url": null,
+            "title": "A Big Hospital",
+            "title_japanese": "病院は大さわぎ",
+            "title_romanji": "Byouin wa Oosawagi ",
+            "aired": "1986-08-10T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 31,
+            "url": null,
+            "title": "Welcome, Customers!",
+            "title_japanese": "ようこそお客さま!",
+            "title_romanji": "Youkoso! Okyaku-sama ",
+            "aired": "1986-08-17T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 32,
+            "url": null,
+            "title": "I Want an Invasion!",
+            "title_japanese": "招待状がほしい!",
+            "title_romanji": "Shoutajou ga Hoshii! ",
+            "aired": "1986-08-24T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 33,
+            "url": null,
+            "title": "Gretel's Love Story",
+            "title_japanese": "グレテルの恋占い",
+            "title_romanji": "Gretel no Koi Uranai ",
+            "aired": "1986-08-31T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 34,
+            "url": null,
+            "title": "Drowa's Sister",
+            "title_japanese": "旅の少女ドーラ",
+            "title_romanji": "Tabi no Shoujo Dora ",
+            "aired": "1986-09-07T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 35,
+            "url": null,
+            "title": "Say Cheese!",
+            "title_japanese": "記念写真でチーズ!",
+            "title_romanji": "Kinenshashin de Cheese! ",
+            "aired": "1986-09-14T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 36,
+            "url": null,
+            "title": "How Fanny Found a Cardinal In a Cage",
+            "title_japanese": "赤い鳥見つけた!",
+            "title_romanji": "Akai Tori Mitsuketa! ",
+            "aired": "1986-09-21T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 37,
+            "url": null,
+            "title": "The Violin of Yearning",
+            "title_japanese": "憧れのバイオリン",
+            "title_romanji": "Akogare no Violin ",
+            "aired": "1986-09-28T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 38,
+            "url": null,
+            "title": "The Wedding",
+            "title_japanese": "結婚式はおまかせ",
+            "title_romanji": "Kekkonshiki wa Omakase ",
+            "aired": "1986-10-05T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 39,
+            "url": null,
+            "title": "Meet Fanny",
+            "title_japanese": "ダイアナのなみだ",
+            "title_romanji": "Diana no Namida ",
+            "aired": "1986-10-12T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 40,
+            "url": null,
+            "title": "A Girl in a Secret House",
+            "title_japanese": "秘密の家の女の子",
+            "title_romanji": "Himitsu no Ie no Onnanoko ",
+            "aired": "1986-10-19T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 41,
+            "url": null,
+            "title": "My Pen Friend",
+            "title_japanese": "私のペンフレンド",
+            "title_romanji": "Watashi no Penfriend ",
+            "aired": "1986-10-26T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 42,
+            "url": null,
+            "title": "Jasmine Party at Night",
+            "title_japanese": "ジャスミン祭の夜",
+            "title_romanji": "Jasmin Matsuri no Yoru ",
+            "aired": "1986-11-02T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 43,
+            "url": null,
+            "title": "A Letter That Reached a Star",
+            "title_japanese": "星にとどいた手紙",
+            "title_romanji": "Hoshi ni Todoita Tegami ",
+            "aired": "1986-11-09T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 44,
+            "url": null,
+            "title": "A Gift of Mufflers",
+            "title_japanese": "マフラーの贈り物",
+            "title_romanji": "Muffler no Okurimono ",
+            "aired": "1986-11-16T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 45,
+            "url": null,
+            "title": "Snow on The Mountain House",
+            "title_japanese": "山の家はもう冬",
+            "title_romanji": "Yama no Ie wa Mou Fuyu ",
+            "aired": "1986-11-23T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 46,
+            "url": null,
+            "title": "Ice Skating",
+            "title_japanese": "湖のスケート競争",
+            "title_romanji": "Mizuumi no Skate Kyousou ",
+            "aired": "1986-11-30T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 47,
+            "url": null,
+            "title": "Maybe Goddess?",
+            "title_japanese": "もしかして女神様?",
+            "title_romanji": "Moshikashite Megami-sama? ",
+            "aired": "1986-12-07T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 48,
+            "url": null,
+            "title": "Open That Safe Vault!",
+            "title_japanese": "その金庫をあけて!",
+            "title_romanji": "Sono Kinko wo Akete! ",
+            "aired": "1986-12-14T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 49,
+            "url": null,
+            "title": "Twin Babies",
+            "title_japanese": "ふたごの赤ちゃん",
+            "title_romanji": "Futago no Aka-chan ",
+            "aired": "1986-12-21T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 50,
+            "url": null,
+            "title": "Happy New Yea with a Cake!",
+            "title_japanese": "ケーキで新年を!",
+            "title_romanji": "Cake de Shinnen wo! ",
+            "aired": "1986-12-28T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 51,
+            "url": null,
+            "title": "Aunt of the South Town",
+            "title_japanese": "南の町のおばさん",
+            "title_romanji": "Minami no Machi no Oba-san ",
+            "aired": "1987-01-04T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 52,
+            "url": null,
+            "title": "Patty's Departure",
+            "title_japanese": "パティの旅立ち",
+            "title_romanji": "Patty no Tabidachi ",
+            "aired": "1987-01-11T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        }
+    ]
+}

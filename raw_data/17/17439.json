@@ -1,0 +1,140 @@
+{
+    "id": 17439,
+    "fetched_at": "Sun Dec 14 09:54:23 2025",
+    "metadata": {
+        "mal_id": 17439,
+        "url": "https://myanimelist.net/anime/17439/Kyojin_no_Hoshi_Movie",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/12/46611.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/12/46611t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/12/46611l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/12/46611.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/12/46611t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/12/46611l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Kyojin no Hoshi (Movie)"
+            },
+            {
+                "type": "Japanese",
+                "title": "巨人の星"
+            }
+        ],
+        "title": "Kyojin no Hoshi (Movie)",
+        "title_english": null,
+        "title_japanese": "巨人の星",
+        "title_synonyms": [],
+        "type": "Movie",
+        "source": "Unknown",
+        "episodes": 1,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "1982-08-21T00:00:00+00:00",
+            "to": null,
+            "prop": {
+                "from": {
+                    "day": 21,
+                    "month": 8,
+                    "year": 1982
+                },
+                "to": {
+                    "day": null,
+                    "month": null,
+                    "year": null
+                }
+            },
+            "string": "Aug 21, 1982"
+        },
+        "duration": "1 hr 50 min",
+        "rating": "G - All Ages",
+        "score": 6.04,
+        "scored_by": 137,
+        "rank": 10064,
+        "popularity": 15387,
+        "members": 885,
+        "favorites": 0,
+        "synopsis": "Based on the novel \"Kyojin no Hoshi\" by Kajiwara Ikki (Story), Kawasaki Noboru (Art), published in the year 1982.",
+        "background": "",
+        "season": null,
+        "year": null,
+        "broadcast": {
+            "day": null,
+            "time": null,
+            "timezone": null,
+            "string": null
+        },
+        "producers": [],
+        "licensors": [],
+        "studios": [],
+        "genres": [
+            {
+                "mal_id": 8,
+                "type": "anime",
+                "name": "Drama",
+                "url": "https://myanimelist.net/anime/genre/8/Drama"
+            },
+            {
+                "mal_id": 30,
+                "type": "anime",
+                "name": "Sports",
+                "url": "https://myanimelist.net/anime/genre/30/Sports"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [],
+        "demographics": [],
+        "relations": [
+            {
+                "relation": "Alternative Version",
+                "entry": [
+                    {
+                        "mal_id": 5834,
+                        "type": "anime",
+                        "name": "Kyojin no Hoshi",
+                        "url": "https://myanimelist.net/anime/5834/Kyojin_no_Hoshi"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [],
+            "endings": []
+        },
+        "external": [
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=8617"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=22457"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "http://ja.wikipedia.org/wiki/%E5%B7%A8%E4%BA%BA%E3%81%AE%E6%98%9F_%28%E3%82%A2%E3%83%8B%E3%83%A1%29"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": []
+}

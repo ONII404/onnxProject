@@ -1,0 +1,165 @@
+{
+    "id": 51646,
+    "fetched_at": "Sun Dec 14 11:59:51 2025",
+    "metadata": {
+        "mal_id": 51646,
+        "url": "https://myanimelist.net/anime/51646/Jarinko_Chie_TV_Special",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1680/122889.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1680/122889t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1680/122889l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1680/122889.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1680/122889t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1680/122889l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Jarinko Chie (TV) Special"
+            },
+            {
+                "type": "Synonym",
+                "title": "The Hidden Past of Kotetsu and Antonio Jr."
+            },
+            {
+                "type": "Synonym",
+                "title": "Jarinko Chie (TV) Episode 42.5"
+            },
+            {
+                "type": "Japanese",
+                "title": "じゃりン子チエ 番外篇"
+            }
+        ],
+        "title": "Jarinko Chie (TV) Special",
+        "title_english": null,
+        "title_japanese": "じゃりン子チエ 番外篇",
+        "title_synonyms": [
+            "The Hidden Past of Kotetsu and Antonio Jr.",
+            "Jarinko Chie (TV) Episode 42.5"
+        ],
+        "type": "Special",
+        "source": "Manga",
+        "episodes": 1,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "1982-10-15T00:00:00+00:00",
+            "to": null,
+            "prop": {
+                "from": {
+                    "day": 15,
+                    "month": 10,
+                    "year": 1982
+                },
+                "to": {
+                    "day": null,
+                    "month": null,
+                    "year": null
+                }
+            },
+            "string": "Oct 15, 1982"
+        },
+        "duration": "24 min",
+        "rating": "G - All Ages",
+        "score": null,
+        "scored_by": null,
+        "rank": 17398,
+        "popularity": 22031,
+        "members": 235,
+        "favorites": 0,
+        "synopsis": "The cats Kotetsu and Antonio Jr. are reminiscing about their past.",
+        "background": "",
+        "season": null,
+        "year": null,
+        "broadcast": {
+            "day": null,
+            "time": null,
+            "timezone": null,
+            "string": null
+        },
+        "producers": [],
+        "licensors": [],
+        "studios": [
+            {
+                "mal_id": 65,
+                "type": "anime",
+                "name": "Tokyo Movie Shinsha",
+                "url": "https://myanimelist.net/anime/producer/65/Tokyo_Movie_Shinsha"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 4,
+                "type": "anime",
+                "name": "Comedy",
+                "url": "https://myanimelist.net/anime/genre/4/Comedy"
+            },
+            {
+                "mal_id": 8,
+                "type": "anime",
+                "name": "Drama",
+                "url": "https://myanimelist.net/anime/genre/8/Drama"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [],
+        "demographics": [
+            {
+                "mal_id": 42,
+                "type": "anime",
+                "name": "Seinen",
+                "url": "https://myanimelist.net/anime/genre/42/Seinen"
+            }
+        ],
+        "relations": [
+            {
+                "relation": "Parent Story",
+                "entry": [
+                    {
+                        "mal_id": 3947,
+                        "type": "anime",
+                        "name": "Jarinko Chie (TV)",
+                        "url": "https://myanimelist.net/anime/3947/Jarinko_Chie_TV"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [
+                "\"Baketsu no Ohi-san Tsukamaeta\" (バケツのおひさんつかまえた) by Chinatsu Nakayama and Susumu Oono"
+            ],
+            "endings": [
+                "\"Ju Ju Ju (ジュー・ジュー・ジュー)\" by Nakayama Chinatsu"
+            ]
+        },
+        "external": [
+            {
+                "name": "Official Site",
+                "url": "https://www.jarinko.com/"
+            },
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=2974"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": []
+}

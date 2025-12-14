@@ -1,0 +1,860 @@
+{
+    "id": 5830,
+    "fetched_at": "Sun Dec 14 08:52:02 2025",
+    "metadata": {
+        "mal_id": 5830,
+        "url": "https://myanimelist.net/anime/5830/Tsurupika_Hagemaru-kun",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1354/124736.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1354/124736t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1354/124736l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1354/124736.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1354/124736t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1354/124736l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Tsurupika Hagemaru-kun"
+            },
+            {
+                "type": "Japanese",
+                "title": "つるピカハゲ丸くん"
+            },
+            {
+                "type": "English",
+                "title": "Little Baldy Hagemaru"
+            }
+        ],
+        "title": "Tsurupika Hagemaru-kun",
+        "title_english": "Little Baldy Hagemaru",
+        "title_japanese": "つるピカハゲ丸くん",
+        "title_synonyms": [],
+        "type": "TV",
+        "source": "4-koma manga",
+        "episodes": 59,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "1988-03-03T00:00:00+00:00",
+            "to": "1989-10-06T00:00:00+00:00",
+            "prop": {
+                "from": {
+                    "day": 3,
+                    "month": 3,
+                    "year": 1988
+                },
+                "to": {
+                    "day": 6,
+                    "month": 10,
+                    "year": 1989
+                }
+            },
+            "string": "Mar 3, 1988 to Oct 6, 1989"
+        },
+        "duration": "24 min per ep",
+        "rating": "PG - Children",
+        "score": 7.01,
+        "scored_by": 2327,
+        "rank": 4483,
+        "popularity": 10291,
+        "members": 3692,
+        "favorites": 26,
+        "synopsis": "Hagemaru Hageda is a young kid, studying in fourth standard living with his parents in Japan. Only child of his parents, he and his parents are a big misers. They do anything for saving money and this is the basic plot of the show. Hagemaru also has a pet dog named Pesu, who often comments about Hagemaru's family being too miser and not giving him anything to eat.\n\nHe is best friend of his class-mate Masaru Kondo and he has a crush on Midori, a girl from his class. In most of the episodes, Hagemaru goes to school and the story revolves around his teacher (his 'miss') and his friends. At the end of the each episode, top ten snippets are shown.",
+        "background": "",
+        "season": "spring",
+        "year": 1988,
+        "broadcast": {
+            "day": null,
+            "time": null,
+            "timezone": null,
+            "string": "Unknown"
+        },
+        "producers": [
+            {
+                "mal_id": 55,
+                "type": "anime",
+                "name": "TV Asahi",
+                "url": "https://myanimelist.net/anime/producer/55/TV_Asahi"
+            }
+        ],
+        "licensors": [],
+        "studios": [
+            {
+                "mal_id": 247,
+                "type": "anime",
+                "name": "Shin-Ei Animation",
+                "url": "https://myanimelist.net/anime/producer/247/Shin-Ei_Animation"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 4,
+                "type": "anime",
+                "name": "Comedy",
+                "url": "https://myanimelist.net/anime/genre/4/Comedy"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [],
+        "demographics": [
+            {
+                "mal_id": 15,
+                "type": "anime",
+                "name": "Kids",
+                "url": "https://myanimelist.net/anime/genre/15/Kids"
+            }
+        ],
+        "relations": [],
+        "theme": {
+            "openings": [
+                "\"Tsurupika Hagemaru Club (つるピカハゲ丸倶楽部)\" by Noriko Tsukase"
+            ],
+            "endings": [
+                "\"Oira Hagemaru (オイラハゲ丸)\" by Noriko Tsukase"
+            ]
+        },
+        "external": [
+            {
+                "name": "Official Site",
+                "url": "http://www.tv-asahi.co.jp/channel/contents/anime/0042/"
+            },
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=6521"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "http://en.wikipedia.org/wiki/Tsurupika_Hagemaru"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": [
+        {
+            "mal_id": 1,
+            "url": null,
+            "title": "The birth of Hagemaru / Best 10 Short Stories / Always Misbehaving at School",
+            "title_japanese": "ハゲ丸誕生 / つるセコベストテン / 決めろ! つるセコ",
+            "title_romanji": null,
+            "aired": "1988-03-03T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 2,
+            "url": null,
+            "title": "Hagemaru's Mom is Stingy Behaviour / Best 10 Short Stories / Happy Birthday, Miss Sakura",
+            "title_japanese": "オゥ!つるセコ母ちゃん / つるセコベストテン / つるセコ学園は爆発だ!",
+            "title_romanji": null,
+            "aired": "1988-03-10T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 3,
+            "url": null,
+            "title": "The New School Term / Best 10 Short Stories / The Stingy Attitude Games",
+            "title_japanese": "つるセコ新学期 / つるセコベストテン / つるセコ選手権大会",
+            "title_romanji": null,
+            "aired": "1988-03-17T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 4,
+            "url": null,
+            "title": "The Hageda's Part-time Job / Best 10 Short Stories / The Stingy Attitude of Couraging Mom",
+            "title_japanese": "つるセコアルバイト大作戦 / つるセコベストテン / 肝っ玉つるセコ母ちゃん!",
+            "title_romanji": null,
+            "aired": "1988-03-24T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 5,
+            "url": null,
+            "title": "To see Sakura Flowers in Spring / Best 10 Short Stories / The Baseball Match of Blast",
+            "title_japanese": "春だ花見だつるセコだぞ〜い! / つるセコベストテン / つるセコ野球の爆発だ!",
+            "title_romanji": null,
+            "aired": "1988-03-31T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 6,
+            "url": null,
+            "title": "Mother and Son's Misadventure in Shopping Mall / Best 10 Short Stories / The Class of Year 4 in Umemomo Primary School",
+            "title_japanese": "デパートでルンルン / つるセコベストテン / 梅桃小学校4年4組",
+            "title_romanji": null,
+            "aired": "1988-04-21T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 7,
+            "url": null,
+            "title": "Always Contact the Loved Ones / Best 10 Short Stories / Father and Son's Fishing Misadventures",
+            "title_japanese": "恋はリズムにのって / つるセコベストテン / 春だ! 釣りだ! 大漁だぞーい!!",
+            "title_romanji": null,
+            "aired": "1988-04-28T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 8,
+            "url": null,
+            "title": "One Day at Amusement Park / Best 10 Short Stories / The Life of Train",
+            "title_japanese": "つるセコワンダーランド / つるセコベストテン / 走れヘンテコ電車!",
+            "title_romanji": null,
+            "aired": "1988-05-05T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 9,
+            "url": null,
+            "title": "The Tango no sekku Day / Best 10 Short Stories / Showers, Hairs and Eyebrows",
+            "title_japanese": "つるセコ鯉のぼり / つるセコベストテン / おふろでワッショイ",
+            "title_romanji": null,
+            "aired": "1988-05-12T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 10,
+            "url": null,
+            "title": "Custom Period Drama /Best 10 Short Stories /All About Sports",
+            "title_japanese": "ごそんじ時代劇 / つるセコベストテン / つるセコスポーツ大将",
+            "title_romanji": null,
+            "aired": "1988-05-19T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 11,
+            "url": null,
+            "title": "Elvis' Elegy / Best 10 Short Stories / Cycling around the City of Tokyo",
+            "title_japanese": "かなしみのペスエレジー / つるセコベストテン / オー! サイクリング",
+            "title_romanji": null,
+            "aired": "1988-06-02T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 12,
+            "url": null,
+            "title": "Call it again, Hagemaru / Best 10 Short Stories / Annual School Sports Day",
+            "title_japanese": "とんでけハゲ丸!! / つるセコベストテン / それゆけ大運動会",
+            "title_romanji": null,
+            "aired": "1988-06-09T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 13,
+            "url": null,
+            "title": "Once a Weird, Always a Trouble / Best 10 Short Stories / Let's Camping",
+            "title_japanese": "元祖つるセコ学園 /つるセコベストテン / キャンキャンキャンプだぞーい",
+            "title_romanji": null,
+            "aired": "1988-06-23T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 14,
+            "url": null,
+            "title": "TV, Cameras and Telephones / Best 10 Short Stories / Just find and digging clams",
+            "title_japanese": "お元気ハゲ丸くん / つるセコベストテン / 潮ひがりでワッセッセ",
+            "title_romanji": null,
+            "aired": "1988-06-30T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 15,
+            "url": null,
+            "title": "Always Care Your Fitness / Best 10 Short Stories / Someday, Going to the Zoo",
+            "title_japanese": "お元気一番身体検査 / つるセコベストテン / つるセコ動物園",
+            "title_romanji": null,
+            "aired": "1988-07-07T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 16,
+            "url": null,
+            "title": "All Things Weather / Best 10 Short Stories / Umemomo's Folk Tales",
+            "title_japanese": "セコセコびっちゃんセコびっちゃん / つるセコベストテン / セコセコ昔ばなし",
+            "title_romanji": null,
+            "aired": "1988-07-14T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 17,
+            "url": null,
+            "title": "The Emergency Training / Best 10 Short Stories / Hagemaru in Prehistoric Times",
+            "title_japanese": "ハゲ丸の防災訓練 / つるセコベストテン / ハゲ丸の原始時代",
+            "title_romanji": null,
+            "aired": "1988-07-21T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 18,
+            "url": null,
+            "title": "Elvis, the Story of the Faithful Dog / Best 10 Short Stories / Hagemaru in the Wild Wild West",
+            "title_japanese": "忠犬ペス物語 / つるセコベストテン / つるセコ西部劇",
+            "title_romanji": null,
+            "aired": "1988-07-28T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 19,
+            "url": null,
+            "title": "The Night of the Baseball Match / Best 10 Short Stories / Hagemaru's Piggy Bank",
+            "title_japanese": "ナイターでワッショイ / つるセコベストテン / ハゲ丸貯金箱",
+            "title_romanji": null,
+            "aired": "1988-08-04T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 20,
+            "url": null,
+            "title": "The Outdoor Pool in Summer / Best 10 Short Stories / The Horoscope",
+            "title_japanese": "夏だプールだつるセコだ! / つるセコベストテン / ピッカピカ占い師",
+            "title_romanji": null,
+            "aired": "1988-08-11T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 21,
+            "url": null,
+            "title": "Never Collapse to the Heat Wave / Best 10 Short Stories / Life's a Beach of the Sun",
+            "title_japanese": "猛暑に負けるな! / つるセコベストテン / つるセコ海水浴",
+            "title_romanji": null,
+            "aired": "1988-08-25T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 22,
+            "url": null,
+            "title": "Do Homework, Must Be Done / Best 10 Short Stories / Miss Sakura visits Students' House",
+            "title_japanese": "宿題大作戦 / つるセコベストテン / 桜先生の家庭訪問",
+            "title_romanji": null,
+            "aired": "1988-09-08T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 23,
+            "url": null,
+            "title": "Springtime in Umemomo School / Best 10 Short Stories / Japanese Ghost Stories",
+            "title_japanese": "青春つるセコ学園 / つるセコベストテン / 日本こわ〜いばなし",
+            "title_romanji": null,
+            "aired": "1988-09-15T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 24,
+            "url": null,
+            "title": "Hagemaru's Broadcasting Station / Best 10 Short Stories / The Lantern Lighting Festival",
+            "title_japanese": "つるセコ放送局 / つるセコベストテン / 祭りだ! ワッショイ!",
+            "title_romanji": null,
+            "aired": "1988-09-22T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 25,
+            "url": null,
+            "title": "Take Care Your Healthy Body / Best 10 Short Stories / Jet Lag: The Sky's the Limit",
+            "title_japanese": "お元気健康一番 / つるセコベストテン / はばたけ大空に!",
+            "title_romanji": null,
+            "aired": "1988-10-13T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 26,
+            "url": null,
+            "title": "Once a Capture, Always be the Cameraman / Best 10 Short Stories / Tsuruseko Period Drama",
+            "title_japanese": "カメカメカメラマン / つるセコベストテン / つるセコ時代劇",
+            "title_romanji": null,
+            "aired": "1988-10-20T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 27,
+            "url": null,
+            "title": "Hagemaru Wants a Little Brother /Best 10 Short Stories / Hagemaru in the Space Age of Moon",
+            "title_japanese": "ハゲ丸の兄弟や〜い! / つるセコベストテン / ハゲ丸の宇宙時代",
+            "title_romanji": null,
+            "aired": "1988-10-27T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 28,
+            "url": null,
+            "title": "The Jinx of Life / Best 10 Short Stories / Hagemaru, the Jungle King",
+            "title_japanese": "つるセコジンクス / つるセコベストテン / ジャングルの王者ハゲ丸",
+            "title_romanji": null,
+            "aired": "1988-11-17T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 29,
+            "url": null,
+            "title": "Hagemaru's Mother has a Fever / Best 10 Short Stories / Hagemaru The Musical",
+            "title_japanese": "オー! ハゲ丸かあちゃん / つるセコベストテン / ハゲ丸ミュージカル",
+            "title_romanji": null,
+            "aired": "1988-11-24T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 30,
+            "url": null,
+            "title": "Farwell, Dear Teacher / Best 10 Short Stories / Hagemarella",
+            "title_japanese": "さよなら桜先生 / つるセコベストテン / オー! シンデレラ",
+            "title_romanji": null,
+            "aired": "1988-12-02T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 31,
+            "url": null,
+            "title": "Study in Tuition Class / Best 10 Short Stories / Back to Hometown to see Grandma",
+            "title_japanese": "元祖つるセコ塾 / つるセコベストテン / つるセコばあちゃん",
+            "title_romanji": null,
+            "aired": "1988-12-08T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 32,
+            "url": null,
+            "title": "Hagemaru's Physical Power / Best 10 Short Stories / Hagemaru and the Beanstalk",
+            "title_japanese": "みがけ!ピッカピカ超能力 / つるセコベストテン / ハゲ丸と豆の木",
+            "title_romanji": null,
+            "aired": "1988-12-15T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 33,
+            "url": null,
+            "title": "Who Will be a Class Monitor / Best 10 Short Stories / Hagemaru the Babysitter",
+            "title_japanese": "学級委員だぞ〜い / つるセコベストテン / ハゲ丸子守唄",
+            "title_romanji": null,
+            "aired": "1988-12-22T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 34,
+            "url": null,
+            "title": "It's a Cold Cold World / Best 10 Short Stories / The Story of the Poor God and the Grim Reaper",
+            "title_japanese": "寒さをぶっとばせ! / つるセコベストテン / やってきた神さま",
+            "title_romanji": null,
+            "aired": "1989-01-12T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 35,
+            "url": null,
+            "title": "Danger Everywhere / Best 10 Short Stories / Hagemaru's Three Wishes",
+            "title_japanese": "危険がいっぱい / つるセコベストテン / ハゲ丸の三つのお願い",
+            "title_romanji": null,
+            "aired": "1989-01-19T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 36,
+            "url": null,
+            "title": "The Art Week / Best 10 Short Stories / The Perfect Match",
+            "title_japanese": "あいうえお絵かき / つるセコベストテン / お見合いセレナーデ",
+            "title_romanji": null,
+            "aired": "1989-01-26T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 37,
+            "url": null,
+            "title": "Hagemaru Doesn't To Do a Homework / Best 10 Short Stories / Run Away from Home",
+            "title_japanese": "宿題がワンサカ / つるセコベストテン / 家出だチーパッパ!",
+            "title_romanji": null,
+            "aired": "1989-02-02T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 38,
+            "url": null,
+            "title": "The Tutor Teaching at Home / Best 10 Short Stories / Four Heroes of Enforcement Justice",
+            "title_japanese": "家庭教師さんいらっしゃい / つるセコベストテン / 必殺おしおき人",
+            "title_romanji": null,
+            "aired": "1989-02-09T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 39,
+            "url": null,
+            "title": "Visiting Umemomo in 2001 / Best 10 Short Stories / The Story of 1001 Arabian Nights",
+            "title_japanese": "2001年梅桃の旅 / つるセコベストテン / ピカピカ! アラビアンナイト",
+            "title_romanji": null,
+            "aired": "1989-02-16T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 40,
+            "url": null,
+            "title": "Everybody's Has a Secret / Best 10 Short Stories / Adventures of Great Escape in Space",
+            "title_japanese": "内緒の話はあのねのね! / つるセコベストテン / つるセコ宇宙大脱出!!",
+            "title_romanji": null,
+            "aired": "1989-02-23T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 41,
+            "url": null,
+            "title": "Do a Report in School Break / Best 10 Short Stories / The Traces of History",
+            "title_japanese": "つうしんぼや〜い!! / つるセコベストテン / なぞなぞ遺跡",
+            "title_romanji": null,
+            "aired": "1989-03-02T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 42,
+            "url": null,
+            "title": "Hagemaru's Investigatio Team / Best 10 Short Stories / The Story of the Ark",
+            "title_japanese": "ハゲ丸探偵団 / つるセコベストテン / ハゲ丸の箱舟大作戦!!",
+            "title_romanji": null,
+            "aired": "1989-03-09T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 43,
+            "url": null,
+            "title": "Have Fun on the Uninhabited Island / Best 10 Short Stories / The Story of Snow White",
+            "title_japanese": "無人島でワッショイ! / つるセコベストテン / ピカピカ白雪姫",
+            "title_romanji": null,
+            "aired": "1989-03-16T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 44,
+            "url": null,
+            "title": "The Dog Tale of Elvis / Best 10 Short Stories / A Boy from Edo",
+            "title_japanese": "ペス公物語 / つるセコベストテン / 大江戸人情長屋",
+            "title_romanji": null,
+            "aired": "1989-03-23T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 45,
+            "url": null,
+            "title": "Pera-Pera, Oh! Pera-Pera / Best 10 Short Stories / Hagemaru of One Thousand Horsepower",
+            "title_japanese": "ペラペラオペラペラ / つるセコベストテン / ハゲ丸100万馬力!!",
+            "title_romanji": null,
+            "aired": "1989-04-19T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 46,
+            "url": null,
+            "title": "Hagemaru's Grandmother comes to Tokyo / Best 10 Short Stories / The Last Boy on Earth in Judgement Day",
+            "title_japanese": "青春、カムバック! / つるセコベストテン / 地球最期の日",
+            "title_romanji": null,
+            "aired": "1989-05-03T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 47,
+            "url": null,
+            "title": "Hagemaru's Impression of Emotions / Best 10 Short Stories / Adventures in Edo of Sunny Day (Edo Nipponbare)",
+            "title_japanese": "熱烈感動ハゲ丸くん! / つるセコベストテン / お江戸日本晴れ!",
+            "title_romanji": null,
+            "aired": "1989-05-10T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 48,
+            "url": null,
+            "title": "Hagemaru and the Foreign Students / Best 10 Short Stories / The Boy Who Cries Werewolf",
+            "title_japanese": "いってらっしゃい留学生 / つるセコベストテン / オーカミ男がやってきた",
+            "title_romanji": null,
+            "aired": "1989-05-17T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 49,
+            "url": null,
+            "title": "The Wedding Photo / Best 10 Short Stories / The Great Voyage",
+            "title_japanese": "おみごと結婚写真 / つるセコベストテン / つるセコ大航海!",
+            "title_romanji": null,
+            "aired": "1989-05-24T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 50,
+            "url": null,
+            "title": "A Trip without Toilet (Getting Pee) / Best 10 Short Stories / Hagemaru The Zorro Boy",
+            "title_japanese": "オネショでごめんね / つるセコベストテン / ハゲ丸のかいけつゼロ",
+            "title_romanji": null,
+            "aired": "1989-06-14T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 51,
+            "url": null,
+            "title": "The Body Swap Story of Hagemaru and Miss Sakura / Best 10 Short Stories / Hagemaru in the Dark City",
+            "title_japanese": "ハゲ丸の大ヘンシーン! / つるセコベストテン / 暗黒街のハゲ丸くん",
+            "title_romanji": null,
+            "aired": "1989-06-21T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 52,
+            "url": null,
+            "title": "In the Hospital of Misadventure / Best 10 Short Stories / Hageda Family in Hell",
+            "title_japanese": "オナラでハッピッピ! / つるセコベストテン / こい恋!地獄へ天国へ",
+            "title_romanji": null,
+            "aired": "1989-07-05T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 53,
+            "url": null,
+            "title": "Hagemaru's Girl Crush / Best 10 Short Stories / The Digress of Hagemaru",
+            "title_japanese": "わっペンフレンド!? / つるセコベストテン / とんちんかんハゲ丸くん!!",
+            "title_romanji": null,
+            "aired": "1989-07-12T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 54,
+            "url": null,
+            "title": "The Shining Hero / Best 10 Short Stories / Adventures with Hagemaru and his Father",
+            "title_japanese": "ぴっかぴかのヒーロー / つるセコベストテン / ハゲ丸の親連れ狼",
+            "title_romanji": null,
+            "aired": "1989-08-02T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 55,
+            "url": null,
+            "title": "Winning Takes All / Best 10 Short Stories / Hagemaru the Honeybee",
+            "title_japanese": "つるセコ少年野球団 / つるセコベストテン / ハチの子ハゲ丸くん",
+            "title_romanji": null,
+            "aired": "1989-08-09T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 56,
+            "url": null,
+            "title": "The Magic Blue Crayon / Best 10 Short Stories / Adventure in the Desert",
+            "title_japanese": "ハロー!らくがき小僧 / つるセコベストテン / 決闘!荒野のハゲ丸くん",
+            "title_romanji": null,
+            "aired": "1989-08-23T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 57,
+            "url": null,
+            "title": "Miss Sakura meets New Match / Best 10 Short Stories / The Story of Cleopatra",
+            "title_japanese": "お見合いシンフォニー / つるセコベストテン / ああ、クレオパトラ!?",
+            "title_romanji": null,
+            "aired": "1989-08-30T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 58,
+            "url": null,
+            "title": "Hagemaru Dad's is not Stupid / Best 10 Short Stories / Hagemaru the Monkey King",
+            "title_japanese": "バカタレ父ちゃん! / つるセコベストテン / ハゲ丸そんごくう",
+            "title_romanji": null,
+            "aired": "1989-09-06T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 59,
+            "url": null,
+            "title": "A New Teacher / Best 10 Short Stories / Planet of the Dogs",
+            "title_japanese": "センセイ・センセーション / つるセコベストテン / ペスの惑星",
+            "title_romanji": null,
+            "aired": "1989-10-06T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        }
+    ]
+}

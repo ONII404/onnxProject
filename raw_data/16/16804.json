@@ -1,0 +1,125 @@
+{
+    "id": 16804,
+    "fetched_at": "Sun Dec 14 09:49:36 2025",
+    "metadata": {
+        "mal_id": 16804,
+        "url": "https://myanimelist.net/anime/16804/Solar_IIIIII",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/5/45144.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/5/45144t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/5/45144l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/5/45144.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/5/45144t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/5/45144l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Solar I.II.III"
+            },
+            {
+                "type": "Japanese",
+                "title": "초합금 로보트 쏠라 원투쓰리"
+            },
+            {
+                "type": "English",
+                "title": "Super Metal Robot Solar 123"
+            }
+        ],
+        "title": "Solar I.II.III",
+        "title_english": "Super Metal Robot Solar 123",
+        "title_japanese": "초합금 로보트 쏠라 원투쓰리",
+        "title_synonyms": [],
+        "type": "Movie",
+        "source": "Unknown",
+        "episodes": 1,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "1982-12-01T00:00:00+00:00",
+            "to": null,
+            "prop": {
+                "from": {
+                    "day": 1,
+                    "month": 12,
+                    "year": 1982
+                },
+                "to": {
+                    "day": null,
+                    "month": null,
+                    "year": null
+                }
+            },
+            "string": "Dec 1982"
+        },
+        "duration": "1 hr 15 min",
+        "rating": null,
+        "score": 5.44,
+        "scored_by": 112,
+        "rank": 12839,
+        "popularity": 17688,
+        "members": 530,
+        "favorites": 0,
+        "synopsis": null,
+        "background": "",
+        "season": null,
+        "year": null,
+        "broadcast": {
+            "day": null,
+            "time": null,
+            "timezone": null,
+            "string": null
+        },
+        "producers": [],
+        "licensors": [],
+        "studios": [],
+        "genres": [],
+        "explicit_genres": [],
+        "themes": [
+            {
+                "mal_id": 18,
+                "type": "anime",
+                "name": "Mecha",
+                "url": "https://myanimelist.net/anime/genre/18/Mecha"
+            }
+        ],
+        "demographics": [],
+        "relations": [
+            {
+                "relation": "Alternative Version",
+                "entry": [
+                    {
+                        "mal_id": 16834,
+                        "type": "anime",
+                        "name": "Mecha Robot Corps 3",
+                        "url": "https://myanimelist.net/anime/16834/Mecha_Robot_Corps_3"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [],
+            "endings": []
+        },
+        "external": [],
+        "streaming": []
+    },
+    "episodes": []
+}

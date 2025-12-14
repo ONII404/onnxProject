@@ -1,0 +1,512 @@
+{
+    "id": 337,
+    "fetched_at": "Sun Dec 14 12:59:12 2025",
+    "metadata": {
+        "mal_id": 337,
+        "url": "https://myanimelist.net/anime/337/Psychic_Academy",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1886/98806.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1886/98806t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1886/98806l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1886/98806.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1886/98806t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1886/98806l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Psychic Academy"
+            },
+            {
+                "type": "Synonym",
+                "title": "Psychic Academy Aura Banshou"
+            },
+            {
+                "type": "Japanese",
+                "title": "サイキックアカデミー煌羅万象"
+            },
+            {
+                "type": "English",
+                "title": "Psychic Academy"
+            }
+        ],
+        "title": "Psychic Academy",
+        "title_english": "Psychic Academy",
+        "title_japanese": "サイキックアカデミー煌羅万象",
+        "title_synonyms": [
+            "Psychic Academy Aura Banshou"
+        ],
+        "type": "TV",
+        "source": "Manga",
+        "episodes": 24,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "2002-03-29T00:00:00+00:00",
+            "to": "2002-09-13T00:00:00+00:00",
+            "prop": {
+                "from": {
+                    "day": 29,
+                    "month": 3,
+                    "year": 2002
+                },
+                "to": {
+                    "day": 13,
+                    "month": 9,
+                    "year": 2002
+                }
+            },
+            "string": "Mar 29, 2002 to Sep 13, 2002"
+        },
+        "duration": "11 min per ep",
+        "rating": "PG-13 - Teens 13 or older",
+        "score": 6.18,
+        "scored_by": 5127,
+        "rank": 9274,
+        "popularity": 6399,
+        "members": 12702,
+        "favorites": 11,
+        "synopsis": "Insecure Ai Shiomi begins attending the prestigous Psychic Academy for psychically gifted students, following in the footsteps of his legendary older brother.\n\n(Source: ANN)",
+        "background": "",
+        "season": "spring",
+        "year": 2002,
+        "broadcast": {
+            "day": null,
+            "time": null,
+            "timezone": null,
+            "string": "Unknown"
+        },
+        "producers": [
+            {
+                "mal_id": 92,
+                "type": "anime",
+                "name": "Starchild Records",
+                "url": "https://myanimelist.net/anime/producer/92/Starchild_Records"
+            },
+            {
+                "mal_id": 721,
+                "type": "anime",
+                "name": "GANSIS",
+                "url": "https://myanimelist.net/anime/producer/721/GANSIS"
+            },
+            {
+                "mal_id": 2981,
+                "type": "anime",
+                "name": "Omnibus Promotion",
+                "url": "https://myanimelist.net/anime/producer/2981/Omnibus_Promotion"
+            }
+        ],
+        "licensors": [
+            {
+                "mal_id": 484,
+                "type": "anime",
+                "name": "Tokyopop",
+                "url": "https://myanimelist.net/anime/producer/484/Tokyopop"
+            }
+        ],
+        "studios": [
+            {
+                "mal_id": 154,
+                "type": "anime",
+                "name": "E&G Films",
+                "url": "https://myanimelist.net/anime/producer/154/E_G_Films"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 4,
+                "type": "anime",
+                "name": "Comedy",
+                "url": "https://myanimelist.net/anime/genre/4/Comedy"
+            },
+            {
+                "mal_id": 22,
+                "type": "anime",
+                "name": "Romance",
+                "url": "https://myanimelist.net/anime/genre/22/Romance"
+            },
+            {
+                "mal_id": 9,
+                "type": "anime",
+                "name": "Ecchi",
+                "url": "https://myanimelist.net/anime/genre/9/Ecchi"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [
+            {
+                "mal_id": 64,
+                "type": "anime",
+                "name": "Love Polygon",
+                "url": "https://myanimelist.net/anime/genre/64/Love_Polygon"
+            },
+            {
+                "mal_id": 23,
+                "type": "anime",
+                "name": "School",
+                "url": "https://myanimelist.net/anime/genre/23/School"
+            },
+            {
+                "mal_id": 31,
+                "type": "anime",
+                "name": "Super Power",
+                "url": "https://myanimelist.net/anime/genre/31/Super_Power"
+            }
+        ],
+        "demographics": [
+            {
+                "mal_id": 42,
+                "type": "anime",
+                "name": "Seinen",
+                "url": "https://myanimelist.net/anime/genre/42/Seinen"
+            }
+        ],
+        "relations": [
+            {
+                "relation": "Adaptation",
+                "entry": [
+                    {
+                        "mal_id": 489,
+                        "type": "manga",
+                        "name": "Psychic Academy Oura Bansho",
+                        "url": "https://myanimelist.net/manga/489/Psychic_Academy_Oura_Bansho"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [
+                "\"Say Over\" by Rie Tanaka & Tsugumi Higasayama"
+            ],
+            "endings": [
+                "\"Love Angel\" by A-my with MION"
+            ]
+        },
+        "external": [
+            {
+                "name": "Official Site",
+                "url": "http://www.starchild.co.jp/special/aura/index.html"
+            },
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=157"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=880"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Psychic_Academy"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": [
+        {
+            "mal_id": 1,
+            "url": null,
+            "title": "Reunion",
+            "title_japanese": "再会",
+            "title_romanji": "Saikai ",
+            "aired": "2002-03-29T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=263359"
+        },
+        {
+            "mal_id": 2,
+            "url": null,
+            "title": "Orina",
+            "title_japanese": "織奈",
+            "title_romanji": "Orina ",
+            "aired": "2002-04-05T00:00:00+00:00",
+            "score": 3.5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=263360"
+        },
+        {
+            "mal_id": 3,
+            "url": null,
+            "title": "Myuu",
+            "title_japanese": "ミュウ",
+            "title_romanji": "Myuu ",
+            "aired": "2002-04-12T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=263362"
+        },
+        {
+            "mal_id": 4,
+            "url": null,
+            "title": "Aura Fight",
+            "title_japanese": "オーラファイト",
+            "title_romanji": "Aura Fight ",
+            "aired": "2002-04-19T00:00:00+00:00",
+            "score": 2,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=263366"
+        },
+        {
+            "mal_id": 5,
+            "url": null,
+            "title": "Training",
+            "title_japanese": "修行",
+            "title_romanji": "Shugyou ",
+            "aired": "2002-04-26T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=263367"
+        },
+        {
+            "mal_id": 6,
+            "url": null,
+            "title": "Flashback",
+            "title_japanese": "フラッシュバック",
+            "title_romanji": "Flashback ",
+            "aired": "2002-05-03T00:00:00+00:00",
+            "score": 2,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=263371"
+        },
+        {
+            "mal_id": 7,
+            "url": null,
+            "title": "Exam I",
+            "title_japanese": "試験I",
+            "title_romanji": "Shiken I ",
+            "aired": "2002-05-10T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=263377"
+        },
+        {
+            "mal_id": 8,
+            "url": null,
+            "title": "Exam II",
+            "title_japanese": "試験II",
+            "title_romanji": "Shiken II ",
+            "aired": "2002-05-17T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=263380"
+        },
+        {
+            "mal_id": 9,
+            "url": null,
+            "title": "Exam III",
+            "title_japanese": "試験III",
+            "title_romanji": "Shiken III ",
+            "aired": "2002-05-24T00:00:00+00:00",
+            "score": 2,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=263568"
+        },
+        {
+            "mal_id": 10,
+            "url": null,
+            "title": "Resonance",
+            "title_japanese": "共鳴",
+            "title_romanji": "Kyoumei ",
+            "aired": "2002-05-31T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=263569"
+        },
+        {
+            "mal_id": 11,
+            "url": null,
+            "title": "First Love",
+            "title_japanese": "初恋",
+            "title_romanji": "Hatsukoi ",
+            "aired": "2002-06-07T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=263571"
+        },
+        {
+            "mal_id": 12,
+            "url": null,
+            "title": "Faafa",
+            "title_japanese": "ファーファ",
+            "title_romanji": "Faafa ",
+            "aired": "2002-06-14T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=263591"
+        },
+        {
+            "mal_id": 13,
+            "url": null,
+            "title": "Ren",
+            "title_japanese": "レン",
+            "title_romanji": "Ren ",
+            "aired": "2002-06-28T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=263594"
+        },
+        {
+            "mal_id": 14,
+            "url": null,
+            "title": "Secret",
+            "title_japanese": "秘密",
+            "title_romanji": "Himitsu ",
+            "aired": "2002-07-05T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=263597"
+        },
+        {
+            "mal_id": 15,
+            "url": null,
+            "title": "Berserk",
+            "title_japanese": "暴走",
+            "title_romanji": "Bousou ",
+            "aired": "2002-07-12T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=263629"
+        },
+        {
+            "mal_id": 16,
+            "url": null,
+            "title": "A Heartbeat",
+            "title_japanese": "胸の鼓動",
+            "title_romanji": "Mune no Kodou ",
+            "aired": "2002-07-19T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=263631"
+        },
+        {
+            "mal_id": 17,
+            "url": null,
+            "title": "Birthday Present",
+            "title_japanese": "誕生プレゼント",
+            "title_romanji": "Tanjou Present ",
+            "aired": "2002-07-26T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=263632"
+        },
+        {
+            "mal_id": 18,
+            "url": null,
+            "title": "Aura Hunt",
+            "title_japanese": "オーラ狩り",
+            "title_romanji": "Aura-gari ",
+            "aired": "2002-08-02T00:00:00+00:00",
+            "score": 5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=263633"
+        },
+        {
+            "mal_id": 19,
+            "url": null,
+            "title": "Aim",
+            "title_japanese": "狙い",
+            "title_romanji": "Nerai ",
+            "aired": "2002-08-09T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=263634"
+        },
+        {
+            "mal_id": 20,
+            "url": null,
+            "title": "Abduction",
+            "title_japanese": "拉致",
+            "title_romanji": "Rachi ",
+            "aired": "2002-08-16T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=263636"
+        },
+        {
+            "mal_id": 21,
+            "url": null,
+            "title": "Siblings",
+            "title_japanese": "兄弟",
+            "title_romanji": "Kyoudai ",
+            "aired": "2002-08-23T00:00:00+00:00",
+            "score": 3,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=263638"
+        },
+        {
+            "mal_id": 22,
+            "url": null,
+            "title": "Training Camp",
+            "title_japanese": "合宿",
+            "title_romanji": "Gasshuku ",
+            "aired": "2002-08-30T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=263639"
+        },
+        {
+            "mal_id": 23,
+            "url": null,
+            "title": "Straying Aura",
+            "title_japanese": "はぐれ煌羅",
+            "title_romanji": "Hagure Aura ",
+            "aired": "2002-09-06T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=263641"
+        },
+        {
+            "mal_id": 24,
+            "url": null,
+            "title": "Para-dream",
+            "title_japanese": "パラドリーム",
+            "title_romanji": "Para Dream ",
+            "aired": "2002-09-13T00:00:00+00:00",
+            "score": 2.67,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=263642"
+        }
+    ]
+}

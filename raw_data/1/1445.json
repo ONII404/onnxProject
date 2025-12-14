@@ -1,0 +1,872 @@
+{
+    "id": 1445,
+    "fetched_at": "Sun Dec 14 07:13:59 2025",
+    "metadata": {
+        "mal_id": 1445,
+        "url": "https://myanimelist.net/anime/1445/Mach_GoGoGo",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/4/40191.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/4/40191t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/4/40191l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/4/40191.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/4/40191t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/4/40191l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Mach GoGoGo"
+            },
+            {
+                "type": "Synonym",
+                "title": "Mach Go Go Go"
+            },
+            {
+                "type": "Japanese",
+                "title": "マッハＧｏＧｏＧｏ"
+            },
+            {
+                "type": "English",
+                "title": "Speed Racer"
+            },
+            {
+                "type": "German",
+                "title": "Speed Racer"
+            },
+            {
+                "type": "Spanish",
+                "title": "Speed Racer"
+            },
+            {
+                "type": "French",
+                "title": "Speed Racer"
+            }
+        ],
+        "title": "Mach GoGoGo",
+        "title_english": "Speed Racer",
+        "title_japanese": "マッハＧｏＧｏＧｏ",
+        "title_synonyms": [
+            "Mach Go Go Go"
+        ],
+        "type": "TV",
+        "source": "Manga",
+        "episodes": 52,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "1967-04-02T00:00:00+00:00",
+            "to": "1968-03-31T00:00:00+00:00",
+            "prop": {
+                "from": {
+                    "day": 2,
+                    "month": 4,
+                    "year": 1967
+                },
+                "to": {
+                    "day": 31,
+                    "month": 3,
+                    "year": 1968
+                }
+            },
+            "string": "Apr 2, 1967 to Mar 31, 1968"
+        },
+        "duration": "25 min per ep",
+        "rating": "PG-13 - Teens 13 or older",
+        "score": 6.69,
+        "scored_by": 8216,
+        "rank": 6164,
+        "popularity": 5662,
+        "members": 17423,
+        "favorites": 142,
+        "synopsis": "The Mach 5 is one of the fastest and most technologically advanced race cars built by man. Equipped with various gadgets and a powerful engine, it provides a challenge for anyone who would dare race against it. The driver of this amazing vehicle is Gou Mifune, a teenager who dreams of breaking into the world of professional racing.\n\nIn spite of this, Gou's father and the creator of the Mach 5, Daisuke Mifune, does not want his son anywhere near a racetrack. Undeterred, his girlfriend Michi, younger brother Kurio, and Kurio's monkey sidekick Sanpei become Gou's biggest fans as he sets out to become the greatest racer of all time.\n\nHowever, Gou soon learns that becoming a professional racer is not easy. From the underhanded plots of corrupt businessmen to stiff competition in the form of his rival, Racer X, Gou faces many obstacles on the road ahead, and has a lot to prove before he can cross the finish line.\n\n[Written by MAL Rewrite]",
+        "background": "",
+        "season": "spring",
+        "year": 1967,
+        "broadcast": {
+            "day": null,
+            "time": null,
+            "timezone": null,
+            "string": "Unknown"
+        },
+        "producers": [
+            {
+                "mal_id": 169,
+                "type": "anime",
+                "name": "Fuji TV",
+                "url": "https://myanimelist.net/anime/producer/169/Fuji_TV"
+            }
+        ],
+        "licensors": [
+            {
+                "mal_id": 102,
+                "type": "anime",
+                "name": "Funimation",
+                "url": "https://myanimelist.net/anime/producer/102/Funimation"
+            },
+            {
+                "mal_id": 1737,
+                "type": "anime",
+                "name": "Shout! Factory",
+                "url": "https://myanimelist.net/anime/producer/1737/Shout_Factory"
+            }
+        ],
+        "studios": [
+            {
+                "mal_id": 103,
+                "type": "anime",
+                "name": "Tatsunoko Production",
+                "url": "https://myanimelist.net/anime/producer/103/Tatsunoko_Production"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 2,
+                "type": "anime",
+                "name": "Adventure",
+                "url": "https://myanimelist.net/anime/genre/2/Adventure"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [
+            {
+                "mal_id": 3,
+                "type": "anime",
+                "name": "Racing",
+                "url": "https://myanimelist.net/anime/genre/3/Racing"
+            }
+        ],
+        "demographics": [
+            {
+                "mal_id": 27,
+                "type": "anime",
+                "name": "Shounen",
+                "url": "https://myanimelist.net/anime/genre/27/Shounen"
+            }
+        ],
+        "relations": [
+            {
+                "relation": "Adaptation",
+                "entry": [
+                    {
+                        "mal_id": 7546,
+                        "type": "manga",
+                        "name": "Mach GoGoGo",
+                        "url": "https://myanimelist.net/manga/7546/Mach_GoGoGo"
+                    }
+                ]
+            },
+            {
+                "relation": "Alternative Version",
+                "entry": [
+                    {
+                        "mal_id": 3571,
+                        "type": "anime",
+                        "name": "Mach GoGoGo (1997)",
+                        "url": "https://myanimelist.net/anime/3571/Mach_GoGoGo_1997"
+                    }
+                ]
+            },
+            {
+                "relation": "Character",
+                "entry": [
+                    {
+                        "mal_id": 51144,
+                        "type": "anime",
+                        "name": "Seikimatsu Densetsu: Wonderful Tatsunoko Land",
+                        "url": "https://myanimelist.net/anime/51144/Seikimatsu_Densetsu__Wonderful_Tatsunoko_Land"
+                    },
+                    {
+                        "mal_id": 39249,
+                        "type": "anime",
+                        "name": "Pandora to Akubi",
+                        "url": "https://myanimelist.net/anime/39249/Pandora_to_Akubi"
+                    }
+                ]
+            },
+            {
+                "relation": "Other",
+                "entry": [
+                    {
+                        "mal_id": 39249,
+                        "type": "anime",
+                        "name": "Pandora to Akubi",
+                        "url": "https://myanimelist.net/anime/39249/Pandora_to_Akubi"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [
+                "\"Mach GoGoGo (マッハゴー・ゴー・ゴー)\" by Vocal Shop"
+            ],
+            "endings": []
+        },
+        "external": [
+            {
+                "name": "Official Site",
+                "url": "http://www.tatsunoko.co.jp/works/mach-go-go-go-speed-racer"
+            },
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=1787"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=776"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "http://en.wikipedia.org/wiki/Speed_Racer"
+            }
+        ],
+        "streaming": [
+            {
+                "name": "Crunchyroll",
+                "url": "http://www.crunchyroll.com/series-283270"
+            }
+        ]
+    },
+    "episodes": [
+        {
+            "mal_id": 1,
+            "url": "https://myanimelist.net/anime/1445/Mach_GoGoGo/episode/1",
+            "title": "The Great Plan (Part 1)",
+            "title_japanese": "飛ばせ!マッハ号（前編）",
+            "title_romanji": "Tobase Mach Gou (Zenpen) ",
+            "aired": "1967-04-02T00:00:00+00:00",
+            "score": 3.21,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1819468"
+        },
+        {
+            "mal_id": 2,
+            "url": "https://myanimelist.net/anime/1445/Mach_GoGoGo/episode/2",
+            "title": "The Great Plan (Part 2)",
+            "title_japanese": "飛ばせ!マッハ号（後編）",
+            "title_romanji": "Tobase Mach Gou (Kouhen) ",
+            "aired": "1967-04-09T00:00:00+00:00",
+            "score": 3.22,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1667416"
+        },
+        {
+            "mal_id": 3,
+            "url": "https://myanimelist.net/anime/1445/Mach_GoGoGo/episode/3",
+            "title": "Challenge of the Masked Racer (Part 1)",
+            "title_japanese": "謎の覆面レーサー（前編）",
+            "title_romanji": "Nazo no Fukumen Racer (Zenpen) ",
+            "aired": "1967-04-16T00:00:00+00:00",
+            "score": 3.33,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1693700"
+        },
+        {
+            "mal_id": 4,
+            "url": "https://myanimelist.net/anime/1445/Mach_GoGoGo/episode/4",
+            "title": "Challenge of the Masked Racer (Part 2)",
+            "title_japanese": "謎の覆面レーサー（後編）",
+            "title_romanji": "Nazo no Fukumen Racer (Kouhen) ",
+            "aired": "1967-04-23T00:00:00+00:00",
+            "score": 3.33,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1673615"
+        },
+        {
+            "mal_id": 5,
+            "url": "https://myanimelist.net/anime/1445/Mach_GoGoGo/episode/5",
+            "title": "The Secret Engine (Part 1)",
+            "title_japanese": "クラシックカーの秘密（前編）",
+            "title_romanji": "Classic Car no Himitsu (Zenpen) ",
+            "aired": "1967-04-30T00:00:00+00:00",
+            "score": 3,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1840696"
+        },
+        {
+            "mal_id": 6,
+            "url": "https://myanimelist.net/anime/1445/Mach_GoGoGo/episode/6",
+            "title": "The Secret Engine (Part 2)",
+            "title_japanese": "クラシックカーの秘密（後編）",
+            "title_romanji": "Classic Car no Himitsu (Kouhen) ",
+            "aired": "1967-05-05T00:00:00+00:00",
+            "score": 3.25,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1840705"
+        },
+        {
+            "mal_id": 7,
+            "url": "https://myanimelist.net/anime/1445/Mach_GoGoGo/episode/7",
+            "title": "The Race Against the Mammoth Car (Part 1)",
+            "title_japanese": "マンモスカーの挑戦（前編）",
+            "title_romanji": "Mammoth Car no Chousen (Zenpen) ",
+            "aired": "1967-05-14T00:00:00+00:00",
+            "score": 3.2,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1686462"
+        },
+        {
+            "mal_id": 8,
+            "url": "https://myanimelist.net/anime/1445/Mach_GoGoGo/episode/8",
+            "title": "The Race Against the Mammoth Car (Part 2)",
+            "title_japanese": "マンモスカーの挑戦（後編）",
+            "title_romanji": "Mammoth Car no Chousen (Kouhen) ",
+            "aired": "1967-05-21T00:00:00+00:00",
+            "score": 3.5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1841266"
+        },
+        {
+            "mal_id": 9,
+            "url": "https://myanimelist.net/anime/1445/Mach_GoGoGo/episode/9",
+            "title": "The Most Dangerous Race (Part 1)",
+            "title_japanese": "魔のアクロバット族（前編）",
+            "title_romanji": "Ma no Acrobat Zoku (Zenpen) ",
+            "aired": "1967-05-28T00:00:00+00:00",
+            "score": 3.25,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1844534"
+        },
+        {
+            "mal_id": 10,
+            "url": "https://myanimelist.net/anime/1445/Mach_GoGoGo/episode/10",
+            "title": "The Most Dangerous Race (Part 2)",
+            "title_japanese": "魔のアクロバット族（中編）",
+            "title_romanji": "Ma no Acrobat Zoku (Chuuhen) ",
+            "aired": "1967-06-04T00:00:00+00:00",
+            "score": 3.33,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1844538"
+        },
+        {
+            "mal_id": 11,
+            "url": "https://myanimelist.net/anime/1445/Mach_GoGoGo/episode/11",
+            "title": "The Most Dangerous Race (Part 3)",
+            "title_japanese": "魔のアクロバット族（後編）",
+            "title_romanji": "Ma no Acrobat Zoku (Kouhen) ",
+            "aired": "1967-06-11T00:00:00+00:00",
+            "score": 3.71,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1706973"
+        },
+        {
+            "mal_id": 12,
+            "url": "https://myanimelist.net/anime/1445/Mach_GoGoGo/episode/12",
+            "title": "Race For Revenge (Part 1)",
+            "title_japanese": "マレンゴの復讐（前編）",
+            "title_romanji": "Marengo no Fukushuu (Zenpen) ",
+            "aired": "1967-06-18T00:00:00+00:00",
+            "score": 3.25,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1710957"
+        },
+        {
+            "mal_id": 13,
+            "url": "https://myanimelist.net/anime/1445/Mach_GoGoGo/episode/13",
+            "title": "Race For Revenge (Part 2)",
+            "title_japanese": "マレンゴの復讐（後編）",
+            "title_romanji": "Marengo no Fukushuu (Kouhen) ",
+            "aired": "1967-06-25T00:00:00+00:00",
+            "score": 3.6,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1719166"
+        },
+        {
+            "mal_id": 14,
+            "url": "https://myanimelist.net/anime/1445/Mach_GoGoGo/episode/14",
+            "title": "The Deadly Desert Race (Part 1)",
+            "title_japanese": "死の砂漠レース（前編）",
+            "title_romanji": "Shi no Sabaku Race (Zenpen) ",
+            "aired": "1967-07-02T00:00:00+00:00",
+            "score": 3.67,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1848763"
+        },
+        {
+            "mal_id": 15,
+            "url": "https://myanimelist.net/anime/1445/Mach_GoGoGo/episode/15",
+            "title": "The Deadly Desert Race (Part 2)",
+            "title_japanese": "死の砂漠レース（後編）",
+            "title_romanji": "Shi no Sabaku Race (Kouhen) ",
+            "aired": "1967-07-09T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1704714"
+        },
+        {
+            "mal_id": 16,
+            "url": "https://myanimelist.net/anime/1445/Mach_GoGoGo/episode/16",
+            "title": "The Incan Underground Race (Part 1)",
+            "title_japanese": "インカ地底レース（前編）",
+            "title_romanji": "Inca Chitei Race (Zenpen) ",
+            "aired": "1967-07-16T00:00:00+00:00",
+            "score": 3.5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1848869"
+        },
+        {
+            "mal_id": 17,
+            "url": "https://myanimelist.net/anime/1445/Mach_GoGoGo/episode/17",
+            "title": "The Incan Underground Race (Part 2)",
+            "title_japanese": "インカ地底レース（後編）",
+            "title_romanji": "Inca Chitei Race (Kouhen) ",
+            "aired": "1967-07-23T00:00:00+00:00",
+            "score": 3.33,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1848875"
+        },
+        {
+            "mal_id": 18,
+            "url": "https://myanimelist.net/anime/1445/Mach_GoGoGo/episode/18",
+            "title": "Treasure of Niagara Falls (Part 1)",
+            "title_japanese": "ナイアガラの秘宝（前編）",
+            "title_romanji": "Niagra no Hihou (Zenpen) ",
+            "aired": "1967-07-30T00:00:00+00:00",
+            "score": 3.5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1849110"
+        },
+        {
+            "mal_id": 19,
+            "url": "https://myanimelist.net/anime/1445/Mach_GoGoGo/episode/19",
+            "title": "Treasure of Niagara Falls (Part 2)",
+            "title_japanese": "ナイアガラの秘宝（後編）",
+            "title_romanji": "Niagra no Hihou (Kouhen) ",
+            "aired": "1967-08-06T00:00:00+00:00",
+            "score": 2.33,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1849115"
+        },
+        {
+            "mal_id": 20,
+            "url": "https://myanimelist.net/anime/1445/Mach_GoGoGo/episode/20",
+            "title": "The Demonic Race Car (Part 1)",
+            "title_japanese": "悪魔のレースカー（前編）",
+            "title_romanji": "Akuma no Race Car (Zenpen) ",
+            "aired": "1967-08-13T00:00:00+00:00",
+            "score": 3,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1849292"
+        },
+        {
+            "mal_id": 21,
+            "url": "https://myanimelist.net/anime/1445/Mach_GoGoGo/episode/21",
+            "title": "The Demonic Race Car (Part 2)",
+            "title_japanese": "悪魔のレースカー（後編）",
+            "title_romanji": "Akuma no Race Car (Kouhen) ",
+            "aired": "1967-08-20T00:00:00+00:00",
+            "score": 3,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1849294"
+        },
+        {
+            "mal_id": 22,
+            "url": "https://myanimelist.net/anime/1445/Mach_GoGoGo/episode/22",
+            "title": "Mach 5 Crisis (Part 1)",
+            "title_japanese": "マッハ号危機一髪（前編）",
+            "title_romanji": "Mach Gou Kikiippatsu (Zenpen) ",
+            "aired": "1967-08-27T00:00:00+00:00",
+            "score": 2.33,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1849295"
+        },
+        {
+            "mal_id": 23,
+            "url": "https://myanimelist.net/anime/1445/Mach_GoGoGo/episode/23",
+            "title": "Mach 5 Crisis (Part 2)",
+            "title_japanese": "マッハ号危機一髪（後編）",
+            "title_romanji": "Mach Gou Kiki Ippatsu (Kouhen) ",
+            "aired": "1967-09-03T00:00:00+00:00",
+            "score": 2,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1849309"
+        },
+        {
+            "mal_id": 24,
+            "url": "https://myanimelist.net/anime/1445/Mach_GoGoGo/episode/24",
+            "title": "Little Grand Prix (Part 1)",
+            "title_japanese": "チビッコ・グランプリ（前編）",
+            "title_romanji": "Chibikko Grand Prix (Zenpen) ",
+            "aired": "1967-09-10T00:00:00+00:00",
+            "score": 1.67,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1849313"
+        },
+        {
+            "mal_id": 25,
+            "url": "https://myanimelist.net/anime/1445/Mach_GoGoGo/episode/25",
+            "title": "Little Grand Prix (Part 2)",
+            "title_japanese": "チビッコ・グランプリ（後編）",
+            "title_romanji": "Chibikko Grand Prix (Kouhen) ",
+            "aired": "1967-09-17T00:00:00+00:00",
+            "score": 1.67,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1849754"
+        },
+        {
+            "mal_id": 26,
+            "url": "https://myanimelist.net/anime/1445/Mach_GoGoGo/episode/26",
+            "title": "Extinguishing Speed!",
+            "title_japanese": "スピードを消せ!",
+            "title_romanji": "Speed wo Kese ",
+            "aired": "1967-09-24T00:00:00+00:00",
+            "score": 2.33,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1856357"
+        },
+        {
+            "mal_id": 27,
+            "url": "https://myanimelist.net/anime/1445/Mach_GoGoGo/episode/27",
+            "title": "Race Against Time (Part 1)",
+            "title_japanese": "呪いのクレオパトラ（前編）",
+            "title_romanji": "Noroi no Cleopatra (Zenpen) ",
+            "aired": "1967-10-01T00:00:00+00:00",
+            "score": 2,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1863587"
+        },
+        {
+            "mal_id": 28,
+            "url": "https://myanimelist.net/anime/1445/Mach_GoGoGo/episode/28",
+            "title": "Race Against Time (Part 2)",
+            "title_japanese": "呪いのクレオパトラ（後編）",
+            "title_romanji": "Noroi no Cleopatra (Kouhen) ",
+            "aired": "1967-10-08T00:00:00+00:00",
+            "score": 1,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1871149"
+        },
+        {
+            "mal_id": 29,
+            "url": "https://myanimelist.net/anime/1445/Mach_GoGoGo/episode/29",
+            "title": "The Snake Track",
+            "title_japanese": "黄金の腕",
+            "title_romanji": "Ougon no Ude ",
+            "aired": "1967-10-15T00:00:00+00:00",
+            "score": 2,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1917740"
+        },
+        {
+            "mal_id": 30,
+            "url": "https://myanimelist.net/anime/1445/Mach_GoGoGo/episode/30",
+            "title": "The Man on the Lam",
+            "title_japanese": "ダムサイドの対決",
+            "title_romanji": "Dam Site no Taiketsu ",
+            "aired": "1967-10-22T00:00:00+00:00",
+            "score": 2.5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1917747"
+        },
+        {
+            "mal_id": 31,
+            "url": "https://myanimelist.net/anime/1445/Mach_GoGoGo/episode/31",
+            "title": "Gang of Assassins (Part 1)",
+            "title_japanese": "疾風!忍者カー（前編）",
+            "title_romanji": "Shippuu Ninja Car (Zenpen) ",
+            "aired": "1967-10-29T00:00:00+00:00",
+            "score": 2.33,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1942129"
+        },
+        {
+            "mal_id": 32,
+            "url": "https://myanimelist.net/anime/1445/Mach_GoGoGo/episode/32",
+            "title": "Gang of Assassins (Part 2)",
+            "title_japanese": "疾風!忍者カー（後編）",
+            "title_romanji": "Shippuu Ninja Car (Kouhen) ",
+            "aired": "1967-11-05T00:00:00+00:00",
+            "score": 2.75,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1942133"
+        },
+        {
+            "mal_id": 33,
+            "url": "https://myanimelist.net/anime/1445/Mach_GoGoGo/episode/33",
+            "title": "The Race for Life",
+            "title_japanese": "嵐の決闘",
+            "title_romanji": "Arashi no Kettou ",
+            "aired": "1967-11-12T00:00:00+00:00",
+            "score": 1,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1942137"
+        },
+        {
+            "mal_id": 34,
+            "url": "https://myanimelist.net/anime/1445/Mach_GoGoGo/episode/34",
+            "title": "The Supersonic Car",
+            "title_japanese": "暴走!レコードカー",
+            "title_romanji": "Bousou! Record Car ",
+            "aired": "1967-11-19T00:00:00+00:00",
+            "score": 2.5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1772029"
+        },
+        {
+            "mal_id": 35,
+            "url": "https://myanimelist.net/anime/1445/Mach_GoGoGo/episode/35",
+            "title": "Crash in the Jungle (Part 1)",
+            "title_japanese": "密林の怪戦車（前編）",
+            "title_romanji": "Mitsurin no Kaisensha (Zenpen) ",
+            "aired": "1967-11-26T00:00:00+00:00",
+            "score": 3,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1945907"
+        },
+        {
+            "mal_id": 36,
+            "url": "https://myanimelist.net/anime/1445/Mach_GoGoGo/episode/36",
+            "title": "Mysterious Tank of the Dense Forest (Episode 1)",
+            "title_japanese": "密林の怪戦車（後編）",
+            "title_romanji": "Mitsurin no Kaisensha (Kouhen) ",
+            "aired": "1967-12-03T00:00:00+00:00",
+            "score": 2.5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1945909"
+        },
+        {
+            "mal_id": 37,
+            "url": "https://myanimelist.net/anime/1445/Mach_GoGoGo/episode/37",
+            "title": "The Terrifying Gambler",
+            "title_japanese": "地獄の計算魔",
+            "title_romanji": "Jigoku no Keisanma ",
+            "aired": "1967-12-10T00:00:00+00:00",
+            "score": 3.5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1946444"
+        },
+        {
+            "mal_id": 38,
+            "url": "https://myanimelist.net/anime/1445/Mach_GoGoGo/episode/38",
+            "title": "Secret Agent No. 9 (Episode 1)",
+            "title_japanese": "秘密情報員NO.9（前編）",
+            "title_romanji": "Himitsu Jouhouin No. 9 (Zenpen) ",
+            "aired": "1967-12-17T00:00:00+00:00",
+            "score": 4.5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1946659"
+        },
+        {
+            "mal_id": 39,
+            "url": "https://myanimelist.net/anime/1445/Mach_GoGoGo/episode/39",
+            "title": "Secret Agent No. 9 (Episode 2)",
+            "title_japanese": "秘密情報員NO.9（後編）",
+            "title_romanji": "Himitsu Jouhouin No. 9 (Kouhen) ",
+            "aired": "1967-12-24T00:00:00+00:00",
+            "score": 4.5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1946744"
+        },
+        {
+            "mal_id": 40,
+            "url": "https://myanimelist.net/anime/1445/Mach_GoGoGo/episode/40",
+            "title": "Car Bomb of Fear",
+            "title_japanese": "恐怖の爆弾カー",
+            "title_romanji": "Kyoufu no Bakudan Car ",
+            "aired": "1968-01-07T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1947847"
+        },
+        {
+            "mal_id": 41,
+            "url": "https://myanimelist.net/anime/1445/Mach_GoGoGo/episode/41",
+            "title": "The Phantom's Iron Castle",
+            "title_japanese": "鉄のまぼろし城",
+            "title_romanji": "Tetsu no Maboroshi-jou ",
+            "aired": "1968-01-14T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1781065"
+        },
+        {
+            "mal_id": 42,
+            "url": "https://myanimelist.net/anime/1445/Mach_GoGoGo/episode/42",
+            "title": "Pineapple Race",
+            "title_japanese": "パイナップル・レース",
+            "title_romanji": "Pineapple Race ",
+            "aired": "1968-01-21T00:00:00+00:00",
+            "score": 1.75,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1947850"
+        },
+        {
+            "mal_id": 43,
+            "url": "https://myanimelist.net/anime/1445/Mach_GoGoGo/episode/43",
+            "title": "Witch Number 0",
+            "title_japanese": "魔女ナンバー・0",
+            "title_romanji": "Majo Number 0 ",
+            "aired": "1968-01-28T00:00:00+00:00",
+            "score": 4.5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1947860"
+        },
+        {
+            "mal_id": 44,
+            "url": "https://myanimelist.net/anime/1445/Mach_GoGoGo/episode/44",
+            "title": "Murder Car V2",
+            "title_japanese": "殺人カー・V2号",
+            "title_romanji": "Satsujin Car V2 Gou ",
+            "aired": "1968-02-04T00:00:00+00:00",
+            "score": 1,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1948072"
+        },
+        {
+            "mal_id": 45,
+            "url": "https://myanimelist.net/anime/1445/Mach_GoGoGo/episode/45",
+            "title": "Car Wrestler X",
+            "title_japanese": "カーレスラーX",
+            "title_romanji": "Car Wrestler X ",
+            "aired": "1968-02-11T00:00:00+00:00",
+            "score": 4.5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1948074"
+        },
+        {
+            "mal_id": 46,
+            "url": "https://myanimelist.net/anime/1445/Mach_GoGoGo/episode/46",
+            "title": "Attack of the Auto Apache",
+            "title_japanese": "オート・アパッチの襲撃",
+            "title_romanji": "Auto Apache no Shuugeki ",
+            "aired": "1968-02-18T00:00:00+00:00",
+            "score": 4.5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1948086"
+        },
+        {
+            "mal_id": 47,
+            "url": "https://myanimelist.net/anime/1445/Mach_GoGoGo/episode/47",
+            "title": "Rebirth of the Monster Car",
+            "title_japanese": "モンスターカーの復活",
+            "title_romanji": "Monster Car no Fukkatsu ",
+            "aired": "1968-02-25T00:00:00+00:00",
+            "score": 3,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1948269"
+        },
+        {
+            "mal_id": 48,
+            "url": "https://myanimelist.net/anime/1445/Mach_GoGoGo/episode/48",
+            "title": "The Junk Car Grand Prix",
+            "title_japanese": "ポンコツカー・グランプリ",
+            "title_romanji": "Ponkotsu Car Grand Prix ",
+            "aired": "1968-03-03T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1948274"
+        },
+        {
+            "mal_id": 49,
+            "url": "https://myanimelist.net/anime/1445/Mach_GoGoGo/episode/49",
+            "title": "Desperate Balloon Escape",
+            "title_japanese": "決死の風船脱出",
+            "title_romanji": "Kesshi no Fuusen Dasshutsu ",
+            "aired": "1968-03-10T00:00:00+00:00",
+            "score": 1.5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1948278"
+        },
+        {
+            "mal_id": 50,
+            "url": "https://myanimelist.net/anime/1445/Mach_GoGoGo/episode/50",
+            "title": "Return of the Acrobat Clan",
+            "title_japanese": "アクロバット族の逆襲",
+            "title_romanji": "Acrobat Zoku no Gyakushuu ",
+            "aired": "1968-03-17T00:00:00+00:00",
+            "score": 4.5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1873478"
+        },
+        {
+            "mal_id": 51,
+            "url": "https://myanimelist.net/anime/1445/Mach_GoGoGo/episode/51",
+            "title": "The Greatest-Ever Race (Episode 1)",
+            "title_japanese": "史上最大のレース（前編）",
+            "title_romanji": "Shijou Saidai no Race (Zenpen) ",
+            "aired": "1968-03-24T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1949168"
+        },
+        {
+            "mal_id": 52,
+            "url": "https://myanimelist.net/anime/1445/Mach_GoGoGo/episode/52",
+            "title": "The Greatest-Ever Race (Episode 2)",
+            "title_japanese": "史上最大のレース（後編）",
+            "title_romanji": "Shijou Saidai no Race (Kouhen) ",
+            "aired": "1968-03-31T00:00:00+00:00",
+            "score": 4.8,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1803565"
+        }
+    ]
+}

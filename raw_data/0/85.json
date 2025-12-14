@@ -1,0 +1,936 @@
+{
+    "id": 85,
+    "fetched_at": "Sun Dec 14 07:05:39 2025",
+    "metadata": {
+        "mal_id": 85,
+        "url": "https://myanimelist.net/anime/85/Kidou_Senshi_Zeta_Gundam",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/6/11153.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/6/11153t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/6/11153l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/6/11153.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/6/11153t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/6/11153l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": "https://www.youtube-nocookie.com/embed/WX1sTTLIXAM?enablejsapi=1&wmode=opaque&autoplay=1",
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Kidou Senshi Zeta Gundam"
+            },
+            {
+                "type": "Synonym",
+                "title": "Kidou Senshi Z Gundam"
+            },
+            {
+                "type": "Synonym",
+                "title": "Mobile Suit Z Gundam"
+            },
+            {
+                "type": "Japanese",
+                "title": "機動戦士Ζガンダム"
+            },
+            {
+                "type": "English",
+                "title": "Mobile Suit Zeta Gundam"
+            }
+        ],
+        "title": "Kidou Senshi Zeta Gundam",
+        "title_english": "Mobile Suit Zeta Gundam",
+        "title_japanese": "機動戦士Ζガンダム",
+        "title_synonyms": [
+            "Kidou Senshi Z Gundam",
+            "Mobile Suit Z Gundam"
+        ],
+        "type": "TV",
+        "source": "Original",
+        "episodes": 50,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "1985-03-02T00:00:00+00:00",
+            "to": "1986-02-22T00:00:00+00:00",
+            "prop": {
+                "from": {
+                    "day": 2,
+                    "month": 3,
+                    "year": 1985
+                },
+                "to": {
+                    "day": 22,
+                    "month": 2,
+                    "year": 1986
+                }
+            },
+            "string": "Mar 2, 1985 to Feb 22, 1986"
+        },
+        "duration": "24 min per ep",
+        "rating": "PG-13 - Teens 13 or older",
+        "score": 7.89,
+        "scored_by": 43894,
+        "rank": 889,
+        "popularity": 2573,
+        "members": 85532,
+        "favorites": 2608,
+        "synopsis": "It is Universal Century 0087, and the One Year War between the Earth Federation and Principality of Zeon is over. The Earth Federation has created an elite task force, known as the Titans, who are responsible for hunting the remaining Zeon forces. However, the power-hungry Titans have shown themselves to be no better than Zeon, spurring the creation of a rebellious faction called the Anti-Earth Union Group (AEUG).\n \n17-year-old Kamille Bidan lives in the colony Green Noa, home to a Titan base. Kamille gets in trouble after assaulting a Titan officer, an event that coincides with an attack led by former Zeon ace Char Aznable, now known as AEUG pilot Quattro Bajeena. When Kamille steals a Titan's prototype Gundam, he soon finds himself in the middle of the dangerous conflict.\n\n[Written by MAL Rewrite]",
+        "background": "",
+        "season": "spring",
+        "year": 1985,
+        "broadcast": {
+            "day": "Saturdays",
+            "time": "17:30",
+            "timezone": "Asia/Tokyo",
+            "string": "Saturdays at 17:30 (JST)"
+        },
+        "producers": [
+            {
+                "mal_id": 64,
+                "type": "anime",
+                "name": "Sotsu",
+                "url": "https://myanimelist.net/anime/producer/64/Sotsu"
+            },
+            {
+                "mal_id": 1366,
+                "type": "anime",
+                "name": "Nagoya Broadcasting Network",
+                "url": "https://myanimelist.net/anime/producer/1366/Nagoya_Broadcasting_Network"
+            }
+        ],
+        "licensors": [
+            {
+                "mal_id": 217,
+                "type": "anime",
+                "name": "Nozomi Entertainment",
+                "url": "https://myanimelist.net/anime/producer/217/Nozomi_Entertainment"
+            },
+            {
+                "mal_id": 233,
+                "type": "anime",
+                "name": "Bandai Entertainment",
+                "url": "https://myanimelist.net/anime/producer/233/Bandai_Entertainment"
+            }
+        ],
+        "studios": [
+            {
+                "mal_id": 14,
+                "type": "anime",
+                "name": "Sunrise",
+                "url": "https://myanimelist.net/anime/producer/14/Sunrise"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 8,
+                "type": "anime",
+                "name": "Drama",
+                "url": "https://myanimelist.net/anime/genre/8/Drama"
+            },
+            {
+                "mal_id": 22,
+                "type": "anime",
+                "name": "Romance",
+                "url": "https://myanimelist.net/anime/genre/22/Romance"
+            },
+            {
+                "mal_id": 24,
+                "type": "anime",
+                "name": "Sci-Fi",
+                "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [
+            {
+                "mal_id": 18,
+                "type": "anime",
+                "name": "Mecha",
+                "url": "https://myanimelist.net/anime/genre/18/Mecha"
+            },
+            {
+                "mal_id": 38,
+                "type": "anime",
+                "name": "Military",
+                "url": "https://myanimelist.net/anime/genre/38/Military"
+            },
+            {
+                "mal_id": 29,
+                "type": "anime",
+                "name": "Space",
+                "url": "https://myanimelist.net/anime/genre/29/Space"
+            }
+        ],
+        "demographics": [],
+        "relations": [
+            {
+                "relation": "Prequel",
+                "entry": [
+                    {
+                        "mal_id": 80,
+                        "type": "anime",
+                        "name": "Kidou Senshi Gundam",
+                        "url": "https://myanimelist.net/anime/80/Kidou_Senshi_Gundam"
+                    },
+                    {
+                        "mal_id": 84,
+                        "type": "anime",
+                        "name": "Kidou Senshi Gundam 0083: Stardust Memory",
+                        "url": "https://myanimelist.net/anime/84/Kidou_Senshi_Gundam_0083__Stardust_Memory"
+                    }
+                ]
+            },
+            {
+                "relation": "Sequel",
+                "entry": [
+                    {
+                        "mal_id": 86,
+                        "type": "anime",
+                        "name": "Kidou Senshi Gundam ZZ",
+                        "url": "https://myanimelist.net/anime/86/Kidou_Senshi_Gundam_ZZ"
+                    }
+                ]
+            },
+            {
+                "relation": "Adaptation",
+                "entry": [
+                    {
+                        "mal_id": 9736,
+                        "type": "manga",
+                        "name": "Kidou Senshi Z Gundam",
+                        "url": "https://myanimelist.net/manga/9736/Kidou_Senshi_Z_Gundam"
+                    },
+                    {
+                        "mal_id": 85391,
+                        "type": "manga",
+                        "name": "Kidou Senshi Zeta Gundam",
+                        "url": "https://myanimelist.net/manga/85391/Kidou_Senshi_Zeta_Gundam"
+                    }
+                ]
+            },
+            {
+                "relation": "Side Story",
+                "entry": [
+                    {
+                        "mal_id": 3288,
+                        "type": "anime",
+                        "name": "Gundam Evolve",
+                        "url": "https://myanimelist.net/anime/3288/Gundam_Evolve"
+                    },
+                    {
+                        "mal_id": 8839,
+                        "type": "anime",
+                        "name": "Gundam Neo Experience 0087: Green Divers",
+                        "url": "https://myanimelist.net/anime/8839/Gundam_Neo_Experience_0087__Green_Divers"
+                    }
+                ]
+            },
+            {
+                "relation": "Summary",
+                "entry": [
+                    {
+                        "mal_id": 14007,
+                        "type": "anime",
+                        "name": "Akai Shouzou: Char, Soshite Frontal e",
+                        "url": "https://myanimelist.net/anime/14007/Akai_Shouzou__Char_Soshite_Frontal_e"
+                    },
+                    {
+                        "mal_id": 24371,
+                        "type": "anime",
+                        "name": "Kidou Senshi Gundam Unicorn: Episode EX - Hyakunen no Kodoku",
+                        "url": "https://myanimelist.net/anime/24371/Kidou_Senshi_Gundam_Unicorn__Episode_EX_-_Hyakunen_no_Kodoku"
+                    },
+                    {
+                        "mal_id": 40464,
+                        "type": "anime",
+                        "name": "Kidou Senshi Gundam: Hikaru Inochi Chronicle U.C.",
+                        "url": "https://myanimelist.net/anime/40464/Kidou_Senshi_Gundam__Hikaru_Inochi_Chronicle_UC"
+                    }
+                ]
+            },
+            {
+                "relation": "Alternative Version",
+                "entry": [
+                    {
+                        "mal_id": 1967,
+                        "type": "anime",
+                        "name": "Kidou Senshi Z Gundam I: Hoshi wo Tsugu Mono",
+                        "url": "https://myanimelist.net/anime/1967/Kidou_Senshi_Z_Gundam_I__Hoshi_wo_Tsugu_Mono"
+                    },
+                    {
+                        "mal_id": 1968,
+                        "type": "anime",
+                        "name": "Kidou Senshi Z Gundam II: Koibito-tachi",
+                        "url": "https://myanimelist.net/anime/1968/Kidou_Senshi_Z_Gundam_II__Koibito-tachi"
+                    },
+                    {
+                        "mal_id": 1969,
+                        "type": "anime",
+                        "name": "Kidou Senshi Z Gundam III: Hoshi no Kodou wa Ai",
+                        "url": "https://myanimelist.net/anime/1969/Kidou_Senshi_Z_Gundam_III__Hoshi_no_Kodou_wa_Ai"
+                    }
+                ]
+            },
+            {
+                "relation": "Character",
+                "entry": [
+                    {
+                        "mal_id": 49211,
+                        "type": "anime",
+                        "name": "Gundam Breaker: Battlogue",
+                        "url": "https://myanimelist.net/anime/49211/Gundam_Breaker__Battlogue"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [
+                "1: \"Zeta: Toki wo koete (Z・刻をこえて)\" by Mami Ayukawa (eps 1-23)",
+                "2: \"Mizu no Hoshi e Ai wo Komete (水の星へ愛をこめて)\" by Hiroko Moriguchi (eps 24-50)"
+            ],
+            "endings": [
+                "\"Hoshizora no Believe (星空のBelieve)\" by Mami Ayukawa"
+            ]
+        },
+        "external": [
+            {
+                "name": "Official Site",
+                "url": "http://www.gundam.channel.or.jp/program/_zg_tv.shtml"
+            },
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=718"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=1381"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "http://en.wikipedia.org/wiki/Mobile_Suit_Zeta_Gundam"
+            }
+        ],
+        "streaming": [
+            {
+                "name": "Crunchyroll",
+                "url": "http://www.crunchyroll.com/series-283512"
+            }
+        ]
+    },
+    "episodes": [
+        {
+            "mal_id": 1,
+            "url": "https://myanimelist.net/anime/85/Kidou_Senshi_Zeta_Gundam/episode/1",
+            "title": "Black Gundam",
+            "title_japanese": "黒いガンダム",
+            "title_romanji": "Kuroi Gundam ",
+            "aired": "1985-03-02T00:00:00+00:00",
+            "score": 4.05,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=28145"
+        },
+        {
+            "mal_id": 2,
+            "url": "https://myanimelist.net/anime/85/Kidou_Senshi_Zeta_Gundam/episode/2",
+            "title": "Departure",
+            "title_japanese": "旅立ち",
+            "title_romanji": "Tabidachi ",
+            "aired": "1985-03-09T00:00:00+00:00",
+            "score": 4.22,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=28149"
+        },
+        {
+            "mal_id": 3,
+            "url": "https://myanimelist.net/anime/85/Kidou_Senshi_Zeta_Gundam/episode/3",
+            "title": "Inside the Capsule",
+            "title_japanese": "カプセルの中",
+            "title_romanji": "Capsule no Naka ",
+            "aired": "1985-03-16T00:00:00+00:00",
+            "score": 4.42,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=28253"
+        },
+        {
+            "mal_id": 4,
+            "url": "https://myanimelist.net/anime/85/Kidou_Senshi_Zeta_Gundam/episode/4",
+            "title": "Emma's Decision",
+            "title_japanese": "エマの脱走",
+            "title_romanji": "Ema no Dassou ",
+            "aired": "1985-03-23T00:00:00+00:00",
+            "score": 4.36,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=90908"
+        },
+        {
+            "mal_id": 5,
+            "url": "https://myanimelist.net/anime/85/Kidou_Senshi_Zeta_Gundam/episode/5",
+            "title": "Father, Son and...",
+            "title_japanese": "父と子と...",
+            "title_romanji": "Chichi to Ko to... ",
+            "aired": "1985-03-30T00:00:00+00:00",
+            "score": 4.24,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=110527"
+        },
+        {
+            "mal_id": 6,
+            "url": "https://myanimelist.net/anime/85/Kidou_Senshi_Zeta_Gundam/episode/6",
+            "title": "To Earth",
+            "title_japanese": "地球圏へ",
+            "title_romanji": "Chikyuu Ken e ",
+            "aired": "1985-04-06T00:00:00+00:00",
+            "score": 4.2,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=28287"
+        },
+        {
+            "mal_id": 7,
+            "url": "https://myanimelist.net/anime/85/Kidou_Senshi_Zeta_Gundam/episode/7",
+            "title": "Escape from Side One",
+            "title_japanese": "サイド1の脱出",
+            "title_romanji": "Side 1 no Dasshutsu ",
+            "aired": "1985-04-13T00:00:00+00:00",
+            "score": 4.42,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=28296"
+        },
+        {
+            "mal_id": 8,
+            "url": "https://myanimelist.net/anime/85/Kidou_Senshi_Zeta_Gundam/episode/8",
+            "title": "The Dark Side of the Moon",
+            "title_japanese": "月の裏側",
+            "title_romanji": "Tsuki no Uragawa ",
+            "aired": "1985-04-20T00:00:00+00:00",
+            "score": 4.18,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=28304"
+        },
+        {
+            "mal_id": 9,
+            "url": "https://myanimelist.net/anime/85/Kidou_Senshi_Zeta_Gundam/episode/9",
+            "title": "A New Bond",
+            "title_japanese": "新しい絆",
+            "title_romanji": "Atarashii Kizuna ",
+            "aired": "1985-04-27T00:00:00+00:00",
+            "score": 4.31,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=28307"
+        },
+        {
+            "mal_id": 10,
+            "url": "https://myanimelist.net/anime/85/Kidou_Senshi_Zeta_Gundam/episode/10",
+            "title": "Reunion",
+            "title_japanese": "再会",
+            "title_romanji": "Saikai ",
+            "aired": "1985-05-04T00:00:00+00:00",
+            "score": 4.29,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=28450"
+        },
+        {
+            "mal_id": 11,
+            "url": "https://myanimelist.net/anime/85/Kidou_Senshi_Zeta_Gundam/episode/11",
+            "title": "Entering the Atmosphere",
+            "title_japanese": "大気圏突入",
+            "title_romanji": "Taikiken Totsunyuu ",
+            "aired": "1985-05-11T00:00:00+00:00",
+            "score": 4.29,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=81101"
+        },
+        {
+            "mal_id": 12,
+            "url": "https://myanimelist.net/anime/85/Kidou_Senshi_Zeta_Gundam/episode/12",
+            "title": "The Winds of Jaburo",
+            "title_japanese": "ジャブローの風",
+            "title_romanji": "Jaburo no Kaze ",
+            "aired": "1985-05-25T00:00:00+00:00",
+            "score": 4.41,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=28574"
+        },
+        {
+            "mal_id": 13,
+            "url": "https://myanimelist.net/anime/85/Kidou_Senshi_Zeta_Gundam/episode/13",
+            "title": "Shuttle Launch",
+            "title_japanese": "シャトル発進",
+            "title_romanji": "Shuttle Hasshin ",
+            "aired": "1985-06-01T00:00:00+00:00",
+            "score": 4.45,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=28586"
+        },
+        {
+            "mal_id": 14,
+            "url": "https://myanimelist.net/anime/85/Kidou_Senshi_Zeta_Gundam/episode/14",
+            "title": "Amuro Flies Again",
+            "title_japanese": "アムロ再び",
+            "title_romanji": "Amuro Futatabi ",
+            "aired": "1985-06-08T00:00:00+00:00",
+            "score": 4.56,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=28597"
+        },
+        {
+            "mal_id": 15,
+            "url": "https://myanimelist.net/anime/85/Kidou_Senshi_Zeta_Gundam/episode/15",
+            "title": "Katz's Sortie",
+            "title_japanese": "カツの出撃",
+            "title_romanji": "Katsu no Shutsugeki ",
+            "aired": "1985-06-15T00:00:00+00:00",
+            "score": 4.21,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=123678"
+        },
+        {
+            "mal_id": 16,
+            "url": "https://myanimelist.net/anime/85/Kidou_Senshi_Zeta_Gundam/episode/16",
+            "title": "Through the Haze of Darkness",
+            "title_japanese": "白い闇を抜けて",
+            "title_romanji": "Shiroi Yami wo Nukete ",
+            "aired": "1985-06-22T00:00:00+00:00",
+            "score": 4.48,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=84720"
+        },
+        {
+            "mal_id": 17,
+            "url": "https://myanimelist.net/anime/85/Kidou_Senshi_Zeta_Gundam/episode/17",
+            "title": "Hong Kong City",
+            "title_japanese": "ホンコン・シティ",
+            "title_romanji": "Hong Kong City ",
+            "aired": "1985-06-29T00:00:00+00:00",
+            "score": 4.33,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=85998"
+        },
+        {
+            "mal_id": 18,
+            "url": "https://myanimelist.net/anime/85/Kidou_Senshi_Zeta_Gundam/episode/18",
+            "title": "Captive Mirai",
+            "title_japanese": "とらわれたミライ",
+            "title_romanji": "Torawareta Mirai ",
+            "aired": "1985-07-06T00:00:00+00:00",
+            "score": 4.42,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=86731"
+        },
+        {
+            "mal_id": 19,
+            "url": "https://myanimelist.net/anime/85/Kidou_Senshi_Zeta_Gundam/episode/19",
+            "title": "Cinderalla Four",
+            "title_japanese": "シンデレラ・フォウ",
+            "title_romanji": "Cinderella Four ",
+            "aired": "1985-07-13T00:00:00+00:00",
+            "score": 4.38,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=86738"
+        },
+        {
+            "mal_id": 20,
+            "url": "https://myanimelist.net/anime/85/Kidou_Senshi_Zeta_Gundam/episode/20",
+            "title": "A Fiery Escape",
+            "title_japanese": "灼熱の脱出",
+            "title_romanji": "Shakunetsu no Dasshutsu ",
+            "aired": "1985-07-20T00:00:00+00:00",
+            "score": 4.55,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=86752"
+        },
+        {
+            "mal_id": 21,
+            "url": "https://myanimelist.net/anime/85/Kidou_Senshi_Zeta_Gundam/episode/21",
+            "title": "Zeta's Heartbeat",
+            "title_japanese": "ゼータの鼓動",
+            "title_romanji": "Zeta no Kodou ",
+            "aired": "1985-07-27T00:00:00+00:00",
+            "score": 4.25,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=86754"
+        },
+        {
+            "mal_id": 22,
+            "url": "https://myanimelist.net/anime/85/Kidou_Senshi_Zeta_Gundam/episode/22",
+            "title": "Scirocco's Vision",
+            "title_japanese": "シロッコの眼",
+            "title_romanji": "Scirocco no Me ",
+            "aired": "1985-08-03T00:00:00+00:00",
+            "score": 4.27,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=73884"
+        },
+        {
+            "mal_id": 23,
+            "url": "https://myanimelist.net/anime/85/Kidou_Senshi_Zeta_Gundam/episode/23",
+            "title": "Moon Attack",
+            "title_japanese": "ムーン・アタック",
+            "title_romanji": "Moon Attack ",
+            "aired": "1985-08-10T00:00:00+00:00",
+            "score": 4.3,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=86770"
+        },
+        {
+            "mal_id": 24,
+            "url": "https://myanimelist.net/anime/85/Kidou_Senshi_Zeta_Gundam/episode/24",
+            "title": "Counterattack",
+            "title_japanese": "反撃",
+            "title_romanji": "Hangeki ",
+            "aired": "1985-08-17T00:00:00+00:00",
+            "score": 4.37,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=34953"
+        },
+        {
+            "mal_id": 25,
+            "url": "https://myanimelist.net/anime/85/Kidou_Senshi_Zeta_Gundam/episode/25",
+            "title": "The Day Of The Colony Drop",
+            "title_japanese": "コロニーが落ちる日",
+            "title_romanji": "Colony ga Ochiru Hi ",
+            "aired": "1985-08-24T00:00:00+00:00",
+            "score": 4.21,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=124647"
+        },
+        {
+            "mal_id": 26,
+            "url": "https://myanimelist.net/anime/85/Kidou_Senshi_Zeta_Gundam/episode/26",
+            "title": "The Spirit Of Zeon",
+            "title_japanese": "ジオンの亡霊",
+            "title_romanji": "Zeon no Bourei ",
+            "aired": "1985-08-31T00:00:00+00:00",
+            "score": 4.24,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=87711"
+        },
+        {
+            "mal_id": 27,
+            "url": "https://myanimelist.net/anime/85/Kidou_Senshi_Zeta_Gundam/episode/27",
+            "title": "Char's Return",
+            "title_japanese": "シャアの帰還",
+            "title_romanji": "Char no Kikan ",
+            "aired": "1985-09-07T00:00:00+00:00",
+            "score": 4.37,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=87724"
+        },
+        {
+            "mal_id": 28,
+            "url": "https://myanimelist.net/anime/85/Kidou_Senshi_Zeta_Gundam/episode/28",
+            "title": "Jupitris Infiltration",
+            "title_japanese": "ジュピトリス潜入",
+            "title_romanji": "Jupitris Sennyuu ",
+            "aired": "1985-09-14T00:00:00+00:00",
+            "score": 4.05,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=150969"
+        },
+        {
+            "mal_id": 29,
+            "url": "https://myanimelist.net/anime/85/Kidou_Senshi_Zeta_Gundam/episode/29",
+            "title": "Side 2 Crisis",
+            "title_japanese": "サイド2の危機",
+            "title_romanji": "Side 2 no Kiki ",
+            "aired": "1985-09-21T00:00:00+00:00",
+            "score": 4.21,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=87734"
+        },
+        {
+            "mal_id": 30,
+            "url": "https://myanimelist.net/anime/85/Kidou_Senshi_Zeta_Gundam/episode/30",
+            "title": "Jerid's Suicide Attack",
+            "title_japanese": "ジェリド特攻",
+            "title_romanji": "Jerid Tokkou ",
+            "aired": "1985-09-28T00:00:00+00:00",
+            "score": 4.34,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=124910"
+        },
+        {
+            "mal_id": 31,
+            "url": "https://myanimelist.net/anime/85/Kidou_Senshi_Zeta_Gundam/episode/31",
+            "title": "Half-Moon Love",
+            "title_japanese": "ハーフムーン・ラブ",
+            "title_romanji": "Half-Moon Love ",
+            "aired": "1985-10-05T00:00:00+00:00",
+            "score": 3.94,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=150971"
+        },
+        {
+            "mal_id": 32,
+            "url": "https://myanimelist.net/anime/85/Kidou_Senshi_Zeta_Gundam/episode/32",
+            "title": "The Mysterious Mobile Suits",
+            "title_japanese": "謎のモビルスーツ",
+            "title_romanji": "Nazo no Mobile Suits ",
+            "aired": "1985-10-12T00:00:00+00:00",
+            "score": 4.29,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=124922"
+        },
+        {
+            "mal_id": 33,
+            "url": "https://myanimelist.net/anime/85/Kidou_Senshi_Zeta_Gundam/episode/33",
+            "title": "The Messenger From Axis",
+            "title_japanese": "アクシズからの使者",
+            "title_romanji": "Axis Kara no Shisha ",
+            "aired": "1985-10-19T00:00:00+00:00",
+            "score": 4.46,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=31980"
+        },
+        {
+            "mal_id": 34,
+            "url": "https://myanimelist.net/anime/85/Kidou_Senshi_Zeta_Gundam/episode/34",
+            "title": "Call From Space",
+            "title_japanese": "宇宙[そら]が呼ぶ声",
+            "title_romanji": "Sora ga Yobu Koe ",
+            "aired": "1985-10-26T00:00:00+00:00",
+            "score": 4.11,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=124932"
+        },
+        {
+            "mal_id": 35,
+            "url": "https://myanimelist.net/anime/85/Kidou_Senshi_Zeta_Gundam/episode/35",
+            "title": "The Storm Over Kilimanjaro",
+            "title_japanese": "キリマンジャロの嵐",
+            "title_romanji": "Kilimanjaro no Arashi ",
+            "aired": "1985-11-02T00:00:00+00:00",
+            "score": 4.37,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=124972"
+        },
+        {
+            "mal_id": 36,
+            "url": "https://myanimelist.net/anime/85/Kidou_Senshi_Zeta_Gundam/episode/36",
+            "title": "Four To Infinity",
+            "title_japanese": "永遠のフォウ",
+            "title_romanji": "Eien no Four ",
+            "aired": "1985-11-09T00:00:00+00:00",
+            "score": 4.24,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=32070"
+        },
+        {
+            "mal_id": 37,
+            "url": "https://myanimelist.net/anime/85/Kidou_Senshi_Zeta_Gundam/episode/37",
+            "title": "Dakar's Day",
+            "title_japanese": "ダカールの日",
+            "title_romanji": "Dakar no Hi ",
+            "aired": "1985-11-16T00:00:00+00:00",
+            "score": 4.59,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=32078"
+        },
+        {
+            "mal_id": 38,
+            "url": "https://myanimelist.net/anime/85/Kidou_Senshi_Zeta_Gundam/episode/38",
+            "title": "Reccoa's Sign",
+            "title_japanese": "レコアの気配",
+            "title_romanji": "Reccoa no Kehai ",
+            "aired": "1985-11-23T00:00:00+00:00",
+            "score": 4.2,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=125057"
+        },
+        {
+            "mal_id": 39,
+            "url": "https://myanimelist.net/anime/85/Kidou_Senshi_Zeta_Gundam/episode/39",
+            "title": "Lakeside",
+            "title_japanese": "湖畔",
+            "title_romanji": "Kohan ",
+            "aired": "1985-11-30T00:00:00+00:00",
+            "score": 3.98,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=125061"
+        },
+        {
+            "mal_id": 40,
+            "url": "https://myanimelist.net/anime/85/Kidou_Senshi_Zeta_Gundam/episode/40",
+            "title": "Gryps' Debut",
+            "title_japanese": "グリプス始動",
+            "title_romanji": "Gryps Shidou ",
+            "aired": "1985-12-07T00:00:00+00:00",
+            "score": 4.17,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=125144"
+        },
+        {
+            "mal_id": 41,
+            "url": "https://myanimelist.net/anime/85/Kidou_Senshi_Zeta_Gundam/episode/41",
+            "title": "The Awakening",
+            "title_japanese": "目覚め",
+            "title_romanji": "Mezame ",
+            "aired": "1985-12-14T00:00:00+00:00",
+            "score": 4.15,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=40820"
+        },
+        {
+            "mal_id": 42,
+            "url": "https://myanimelist.net/anime/85/Kidou_Senshi_Zeta_Gundam/episode/42",
+            "title": "Goodbye Rosamia",
+            "title_japanese": "さよならロザミィ",
+            "title_romanji": "Sayonara Rosamia ",
+            "aired": "1985-12-21T00:00:00+00:00",
+            "score": 3.99,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=125168"
+        },
+        {
+            "mal_id": 43,
+            "url": "https://myanimelist.net/anime/85/Kidou_Senshi_Zeta_Gundam/episode/43",
+            "title": "Haman's Sneer",
+            "title_japanese": "ハマーンの嘲笑",
+            "title_romanji": "Haman no Choushou ",
+            "aired": "1985-12-28T00:00:00+00:00",
+            "score": 4.49,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=125174"
+        },
+        {
+            "mal_id": 44,
+            "url": "https://myanimelist.net/anime/85/Kidou_Senshi_Zeta_Gundam/episode/44",
+            "title": "The Gate Of Zedan",
+            "title_japanese": "ゼダンの門",
+            "title_romanji": "Zedan no Mon ",
+            "aired": "1986-01-11T00:00:00+00:00",
+            "score": 4.48,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=166770"
+        },
+        {
+            "mal_id": 45,
+            "url": "https://myanimelist.net/anime/85/Kidou_Senshi_Zeta_Gundam/episode/45",
+            "title": "Celestial Body",
+            "title_japanese": "天から来るもの",
+            "title_romanji": "Ten Kara Kuru Mono ",
+            "aired": "1986-01-18T00:00:00+00:00",
+            "score": 4.26,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=166771"
+        },
+        {
+            "mal_id": 46,
+            "url": "https://myanimelist.net/anime/85/Kidou_Senshi_Zeta_Gundam/episode/46",
+            "title": "Scirocco Steps Forward",
+            "title_japanese": "シロッコ立つ",
+            "title_romanji": "Scirocco Tatsu ",
+            "aired": "1986-01-25T00:00:00+00:00",
+            "score": 4.46,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=35483"
+        },
+        {
+            "mal_id": 47,
+            "url": "https://myanimelist.net/anime/85/Kidou_Senshi_Zeta_Gundam/episode/47",
+            "title": "Universal Maelstrom",
+            "title_japanese": "宇宙の渦",
+            "title_romanji": "Uchuu no Uzu ",
+            "aired": "1986-02-01T00:00:00+00:00",
+            "score": 4.38,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=125244"
+        },
+        {
+            "mal_id": 48,
+            "url": "https://myanimelist.net/anime/85/Kidou_Senshi_Zeta_Gundam/episode/48",
+            "title": "From Rosamia's Heart",
+            "title_japanese": "ロザミアの中で",
+            "title_romanji": "Rosamia no Naka de ",
+            "aired": "1986-02-08T00:00:00+00:00",
+            "score": 4.21,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=32240"
+        },
+        {
+            "mal_id": 49,
+            "url": "https://myanimelist.net/anime/85/Kidou_Senshi_Zeta_Gundam/episode/49",
+            "title": "Scattered Souls",
+            "title_japanese": "生命散って",
+            "title_romanji": "Seimei Chitte ",
+            "aired": "1986-02-15T00:00:00+00:00",
+            "score": 4.49,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=32243"
+        },
+        {
+            "mal_id": 50,
+            "url": "https://myanimelist.net/anime/85/Kidou_Senshi_Zeta_Gundam/episode/50",
+            "title": "Run Through The Cosmos",
+            "title_japanese": "宇宙を駆ける",
+            "title_romanji": "Uchuu wo Kakeru ",
+            "aired": "1986-02-22T00:00:00+00:00",
+            "score": 4.34,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=32247"
+        }
+    ]
+}

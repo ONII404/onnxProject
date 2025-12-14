@@ -1,0 +1,531 @@
+{
+    "id": 104,
+    "fetched_at": "Sun Dec 14 12:37:37 2025",
+    "metadata": {
+        "mal_id": 104,
+        "url": "https://myanimelist.net/anime/104/Ayashi_no_Ceres",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1287/134408.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1287/134408t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1287/134408l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1287/134408.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1287/134408t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1287/134408l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Ayashi no Ceres"
+            },
+            {
+                "type": "Japanese",
+                "title": "妖しのセレス"
+            },
+            {
+                "type": "English",
+                "title": "Ceres, Celestial Legend"
+            },
+            {
+                "type": "German",
+                "title": "Ceres, Celestial Legend"
+            },
+            {
+                "type": "Spanish",
+                "title": "Ceres: La Leyenda Celestial"
+            }
+        ],
+        "title": "Ayashi no Ceres",
+        "title_english": "Ceres, Celestial Legend",
+        "title_japanese": "妖しのセレス",
+        "title_synonyms": [],
+        "type": "TV",
+        "source": "Manga",
+        "episodes": 24,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "2000-04-20T00:00:00+00:00",
+            "to": "2000-09-28T00:00:00+00:00",
+            "prop": {
+                "from": {
+                    "day": 20,
+                    "month": 4,
+                    "year": 2000
+                },
+                "to": {
+                    "day": 28,
+                    "month": 9,
+                    "year": 2000
+                }
+            },
+            "string": "Apr 20, 2000 to Sep 28, 2000"
+        },
+        "duration": "21 min per ep",
+        "rating": "R - 17+ (violence & profanity)",
+        "score": 7.17,
+        "scored_by": 28452,
+        "rank": 3637,
+        "popularity": 3004,
+        "members": 65757,
+        "favorites": 498,
+        "synopsis": "Ceres was a tennyo (Celestial maiden) who came down from the heavens to bathe in a stream. She hung her hagoromo (robe) on a tree nearby, which was her key to returning to the heavens. But the robe was stolen and the man who had stolen it forced her to become his wife, thus producing a family full of human and tennyo blood mixed.\n\nNow, in modern day time, Aya Mikage is a descendent of Ceres, and has quite an amount of tennyo blood. On her 16th birthday, she and her twin brother, Aki, are thrown a party. At the \"party,\" Aya's grandpa plans to kill her, for she has tennyo powers unlike the rest of the family, and can actually become Ceres herself and destroy the Mikage family. Aya, however, can switch back, so this transformation happens quite frequently.\n\nWith protector Yuuhi by her side, it is up to Aya to control Ceres and keep her from coming back, but her relationship with an ex-worker for her evil grandpa may be a distraction.",
+        "background": "",
+        "season": "spring",
+        "year": 2000,
+        "broadcast": {
+            "day": "Thursdays",
+            "time": "18:30",
+            "timezone": "Asia/Tokyo",
+            "string": "Thursdays at 18:30 (JST)"
+        },
+        "producers": [
+            {
+                "mal_id": 23,
+                "type": "anime",
+                "name": "Bandai Visual",
+                "url": "https://myanimelist.net/anime/producer/23/Bandai_Visual"
+            },
+            {
+                "mal_id": 1430,
+                "type": "anime",
+                "name": "Shogakukan",
+                "url": "https://myanimelist.net/anime/producer/1430/Shogakukan"
+            }
+        ],
+        "licensors": [
+            {
+                "mal_id": 119,
+                "type": "anime",
+                "name": "VIZ Media",
+                "url": "https://myanimelist.net/anime/producer/119/VIZ_Media"
+            },
+            {
+                "mal_id": 467,
+                "type": "anime",
+                "name": "Discotek Media",
+                "url": "https://myanimelist.net/anime/producer/467/Discotek_Media"
+            }
+        ],
+        "studios": [
+            {
+                "mal_id": 1,
+                "type": "anime",
+                "name": "Studio Pierrot",
+                "url": "https://myanimelist.net/anime/producer/1/Studio_Pierrot"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 2,
+                "type": "anime",
+                "name": "Adventure",
+                "url": "https://myanimelist.net/anime/genre/2/Adventure"
+            },
+            {
+                "mal_id": 8,
+                "type": "anime",
+                "name": "Drama",
+                "url": "https://myanimelist.net/anime/genre/8/Drama"
+            },
+            {
+                "mal_id": 14,
+                "type": "anime",
+                "name": "Horror",
+                "url": "https://myanimelist.net/anime/genre/14/Horror"
+            },
+            {
+                "mal_id": 22,
+                "type": "anime",
+                "name": "Romance",
+                "url": "https://myanimelist.net/anime/genre/22/Romance"
+            },
+            {
+                "mal_id": 37,
+                "type": "anime",
+                "name": "Supernatural",
+                "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [
+            {
+                "mal_id": 40,
+                "type": "anime",
+                "name": "Psychological",
+                "url": "https://myanimelist.net/anime/genre/40/Psychological"
+            },
+            {
+                "mal_id": 72,
+                "type": "anime",
+                "name": "Reincarnation",
+                "url": "https://myanimelist.net/anime/genre/72/Reincarnation"
+            }
+        ],
+        "demographics": [
+            {
+                "mal_id": 25,
+                "type": "anime",
+                "name": "Shoujo",
+                "url": "https://myanimelist.net/anime/genre/25/Shoujo"
+            }
+        ],
+        "relations": [
+            {
+                "relation": "Adaptation",
+                "entry": [
+                    {
+                        "mal_id": 83,
+                        "type": "manga",
+                        "name": "Ayashi no Ceres",
+                        "url": "https://myanimelist.net/manga/83/Ayashi_no_Ceres"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [
+                "\"Scarlet\" by Junko Iwao"
+            ],
+            "endings": [
+                "1: \"One ~ Kono Yo ga Hatete mo Hanarenai\" by Day-break (eps 1-15)",
+                "2: \"Cross My Heart\" by Day-break (eps 16-23)",
+                "3: \"Scarlet Ver.II\" by Junko Iwao (eps 24)"
+            ]
+        },
+        "external": [
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=131"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=12"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "http://en.wikipedia.org/wiki/Ayashi_no_ceres"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "https://ja.wikipedia.org/wiki/%E5%A6%96%E3%81%97%E3%81%AE%E3%82%BB%E3%83%AC%E3%82%B9"
+            },
+            {
+                "name": "Syoboi",
+                "url": "https://cal.syoboi.jp/tid/429"
+            }
+        ],
+        "streaming": [
+            {
+                "name": "Crunchyroll",
+                "url": "http://www.crunchyroll.com/series-267575"
+            }
+        ]
+    },
+    "episodes": [
+        {
+            "mal_id": 1,
+            "url": "https://myanimelist.net/anime/104/Ayashi_no_Ceres/episode/1",
+            "title": "The Day the Moon and Sixteen Stars Align",
+            "title_japanese": "16の星と月が巡る日",
+            "title_romanji": "Juuroku no Hoshi to Tsuki ga Meguru Hi ",
+            "aired": "2000-04-20T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=143131"
+        },
+        {
+            "mal_id": 2,
+            "url": "https://myanimelist.net/anime/104/Ayashi_no_Ceres/episode/2",
+            "title": "The Angel's First Kiss",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 4.04,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=143132"
+        },
+        {
+            "mal_id": 3,
+            "url": "https://myanimelist.net/anime/104/Ayashi_no_Ceres/episode/3",
+            "title": "The One Who Descended to Earth",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 4.17,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=143133"
+        },
+        {
+            "mal_id": 4,
+            "url": "https://myanimelist.net/anime/104/Ayashi_no_Ceres/episode/4",
+            "title": "The Stolen Celestial Robe",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 4.15,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=143135"
+        },
+        {
+            "mal_id": 5,
+            "url": "https://myanimelist.net/anime/104/Ayashi_no_Ceres/episode/5",
+            "title": "Toya's Destiny",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 4.18,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=143137"
+        },
+        {
+            "mal_id": 6,
+            "url": "https://myanimelist.net/anime/104/Ayashi_no_Ceres/episode/6",
+            "title": "The C Project",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 3.91,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=143331"
+        },
+        {
+            "mal_id": 7,
+            "url": "https://myanimelist.net/anime/104/Ayashi_no_Ceres/episode/7",
+            "title": "Celestial Awakening",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 4.18,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=143332"
+        },
+        {
+            "mal_id": 8,
+            "url": "https://myanimelist.net/anime/104/Ayashi_no_Ceres/episode/8",
+            "title": "The Mikage Conspiracy",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 3.77,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=143590"
+        },
+        {
+            "mal_id": 9,
+            "url": "https://myanimelist.net/anime/104/Ayashi_no_Ceres/episode/9",
+            "title": "The Angel's Promise",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 4.3,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=143630"
+        },
+        {
+            "mal_id": 10,
+            "url": "https://myanimelist.net/anime/104/Ayashi_no_Ceres/episode/10",
+            "title": "Chidori's Flight",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 4.23,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=143631"
+        },
+        {
+            "mal_id": 11,
+            "url": "https://myanimelist.net/anime/104/Ayashi_no_Ceres/episode/11",
+            "title": "Stir of Emotions",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 4.11,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=143822"
+        },
+        {
+            "mal_id": 12,
+            "url": "https://myanimelist.net/anime/104/Ayashi_no_Ceres/episode/12",
+            "title": "The Silver Choker",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 4.3,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=143823"
+        },
+        {
+            "mal_id": 13,
+            "url": "https://myanimelist.net/anime/104/Ayashi_no_Ceres/episode/13",
+            "title": "Relic of the Mikage",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 4.27,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=143913"
+        },
+        {
+            "mal_id": 14,
+            "url": "https://myanimelist.net/anime/104/Ayashi_no_Ceres/episode/14",
+            "title": "The Return of the Ancestor",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 4.38,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=143914"
+        },
+        {
+            "mal_id": 15,
+            "url": "https://myanimelist.net/anime/104/Ayashi_no_Ceres/episode/15",
+            "title": "Toya's Past",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 4.27,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=143915"
+        },
+        {
+            "mal_id": 16,
+            "url": "https://myanimelist.net/anime/104/Ayashi_no_Ceres/episode/16",
+            "title": "Another Ceres",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 4.42,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=144105"
+        },
+        {
+            "mal_id": 17,
+            "url": "https://myanimelist.net/anime/104/Ayashi_no_Ceres/episode/17",
+            "title": "Bewitching Affection",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 4.3,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=144106"
+        },
+        {
+            "mal_id": 18,
+            "url": "https://myanimelist.net/anime/104/Ayashi_no_Ceres/episode/18",
+            "title": "Fleeting Happiness",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 4.11,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=144107"
+        },
+        {
+            "mal_id": 19,
+            "url": "https://myanimelist.net/anime/104/Ayashi_no_Ceres/episode/19",
+            "title": "Chidori's Confession",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 4.47,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=144108"
+        },
+        {
+            "mal_id": 20,
+            "url": "https://myanimelist.net/anime/104/Ayashi_no_Ceres/episode/20",
+            "title": "Toya's Death",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 4.1,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=144109"
+        },
+        {
+            "mal_id": 21,
+            "url": "https://myanimelist.net/anime/104/Ayashi_no_Ceres/episode/21",
+            "title": "The Ancient Tennyo",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 4.44,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=144110"
+        },
+        {
+            "mal_id": 22,
+            "url": "https://myanimelist.net/anime/104/Ayashi_no_Ceres/episode/22",
+            "title": "Song of Redemption",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 4.11,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=144115"
+        },
+        {
+            "mal_id": 23,
+            "url": "https://myanimelist.net/anime/104/Ayashi_no_Ceres/episode/23",
+            "title": "Mikagi Reborn",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 4.45,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=144117"
+        },
+        {
+            "mal_id": 24,
+            "url": "https://myanimelist.net/anime/104/Ayashi_no_Ceres/episode/24",
+            "title": "Denouement",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 3.98,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=144118"
+        }
+    ]
+}

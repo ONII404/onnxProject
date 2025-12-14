@@ -1,0 +1,136 @@
+{
+    "id": 28053,
+    "fetched_at": "Sun Dec 14 10:21:23 2025",
+    "metadata": {
+        "mal_id": 28053,
+        "url": "https://myanimelist.net/anime/28053/Kumo_no_Ito",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/10/67923.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/10/67923t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/10/67923l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/10/67923.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/10/67923t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/10/67923l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Kumo no Ito"
+            },
+            {
+                "type": "Japanese",
+                "title": "蜘蛛の糸"
+            },
+            {
+                "type": "English",
+                "title": "Spider Silk"
+            }
+        ],
+        "title": "Kumo no Ito",
+        "title_english": "Spider Silk",
+        "title_japanese": "蜘蛛の糸",
+        "title_synonyms": [],
+        "type": "Movie",
+        "source": "Unknown",
+        "episodes": 1,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "1946-01-01T00:00:00+00:00",
+            "to": null,
+            "prop": {
+                "from": {
+                    "day": 1,
+                    "month": 1,
+                    "year": 1946
+                },
+                "to": {
+                    "day": null,
+                    "month": null,
+                    "year": null
+                }
+            },
+            "string": "1946"
+        },
+        "duration": "10 min",
+        "rating": "G - All Ages",
+        "score": 5.35,
+        "scored_by": 594,
+        "rank": 13114,
+        "popularity": 13283,
+        "members": 1529,
+        "favorites": 1,
+        "synopsis": "An adaptation of the classic tale of the spider silk, where a man sentenced in Hell tries to escape by climbing a string of spider silk hanging from above.",
+        "background": "",
+        "season": null,
+        "year": null,
+        "broadcast": {
+            "day": null,
+            "time": null,
+            "timezone": null,
+            "string": null
+        },
+        "producers": [],
+        "licensors": [],
+        "studios": [],
+        "genres": [
+            {
+                "mal_id": 10,
+                "type": "anime",
+                "name": "Fantasy",
+                "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [],
+        "demographics": [],
+        "relations": [
+            {
+                "relation": "Alternative Version",
+                "entry": [
+                    {
+                        "mal_id": 26279,
+                        "type": "anime",
+                        "name": "Kumo no Ito (2000)",
+                        "url": "https://myanimelist.net/anime/26279/Kumo_no_Ito_2000"
+                    },
+                    {
+                        "mal_id": 7193,
+                        "type": "anime",
+                        "name": "Aoi Bungaku Series",
+                        "url": "https://myanimelist.net/anime/7193/Aoi_Bungaku_Series"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [],
+            "endings": []
+        },
+        "external": [
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=10734"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": []
+}

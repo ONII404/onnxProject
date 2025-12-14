@@ -1,0 +1,226 @@
+{
+    "id": 313,
+    "fetched_at": "Sun Dec 14 07:06:25 2025",
+    "metadata": {
+        "mal_id": 313,
+        "url": "https://myanimelist.net/anime/313/Ace_wo_Nerae_1979",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1249/142309.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1249/142309t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1249/142309l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1249/142309.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1249/142309t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1249/142309l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": "https://www.youtube-nocookie.com/embed/6e01HyZyRbc?enablejsapi=1&wmode=opaque&autoplay=1",
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Ace wo Nerae! (1979)"
+            },
+            {
+                "type": "Synonym",
+                "title": "Ace o Nerae: Theatrical Version"
+            },
+            {
+                "type": "Synonym",
+                "title": "Aim for the Ace! Movie"
+            },
+            {
+                "type": "Synonym",
+                "title": "Aim for the Best!"
+            },
+            {
+                "type": "Synonym",
+                "title": "Jump High Hiromi!"
+            },
+            {
+                "type": "Japanese",
+                "title": "エースをねらえ！"
+            },
+            {
+                "type": "English",
+                "title": "Aim for the Ace!: The Movie"
+            }
+        ],
+        "title": "Ace wo Nerae! (1979)",
+        "title_english": "Aim for the Ace!: The Movie",
+        "title_japanese": "エースをねらえ！",
+        "title_synonyms": [
+            "Ace o Nerae: Theatrical Version",
+            "Aim for the Ace! Movie",
+            "Aim for the Best!",
+            "Jump High Hiromi!"
+        ],
+        "type": "Movie",
+        "source": "Manga",
+        "episodes": 1,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "1979-09-08T00:00:00+00:00",
+            "to": null,
+            "prop": {
+                "from": {
+                    "day": 8,
+                    "month": 9,
+                    "year": 1979
+                },
+                "to": {
+                    "day": null,
+                    "month": null,
+                    "year": null
+                }
+            },
+            "string": "Sep 8, 1979"
+        },
+        "duration": "1 hr 28 min",
+        "rating": "PG-13 - Teens 13 or older",
+        "score": 6.9,
+        "scored_by": 2435,
+        "rank": 4979,
+        "popularity": 8982,
+        "members": 5536,
+        "favorites": 13,
+        "synopsis": "High school freshman Hiromi joins the tennis club because of her admiration for Ryuzaki. Ryuzaki is a senior, who's the best tennis player on the team and also nicknamed \"Ochoufujin\", (\"Madame Butterfly\"), because of her elegance on the tennis court. However, the new coach, Jin Munakata, wants the inexperienced Hiromi to play in a forthcoming tournament.\n\nDue to this, Hiromi considers quitting tennis for good but, in the depth of her soul, she soon realizes that she loves tennis after all. She returns to the club and, under Munakata's coaching, her talent starts to bloom.\n\nIn the end, Hiromi develops a strong emotional bond with her coach, not knowing that Munakata is risking his life because of a chronic illness.\n\n(Source: AnimeNfo)",
+        "background": "",
+        "season": null,
+        "year": null,
+        "broadcast": {
+            "day": null,
+            "time": null,
+            "timezone": null,
+            "string": null
+        },
+        "producers": [],
+        "licensors": [
+            {
+                "mal_id": 467,
+                "type": "anime",
+                "name": "Discotek Media",
+                "url": "https://myanimelist.net/anime/producer/467/Discotek_Media"
+            }
+        ],
+        "studios": [
+            {
+                "mal_id": 65,
+                "type": "anime",
+                "name": "Tokyo Movie Shinsha",
+                "url": "https://myanimelist.net/anime/producer/65/Tokyo_Movie_Shinsha"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 8,
+                "type": "anime",
+                "name": "Drama",
+                "url": "https://myanimelist.net/anime/genre/8/Drama"
+            },
+            {
+                "mal_id": 22,
+                "type": "anime",
+                "name": "Romance",
+                "url": "https://myanimelist.net/anime/genre/22/Romance"
+            },
+            {
+                "mal_id": 30,
+                "type": "anime",
+                "name": "Sports",
+                "url": "https://myanimelist.net/anime/genre/30/Sports"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [
+            {
+                "mal_id": 23,
+                "type": "anime",
+                "name": "School",
+                "url": "https://myanimelist.net/anime/genre/23/School"
+            }
+        ],
+        "demographics": [
+            {
+                "mal_id": 25,
+                "type": "anime",
+                "name": "Shoujo",
+                "url": "https://myanimelist.net/anime/genre/25/Shoujo"
+            }
+        ],
+        "relations": [
+            {
+                "relation": "Adaptation",
+                "entry": [
+                    {
+                        "mal_id": 7948,
+                        "type": "manga",
+                        "name": "Ace wo Nerae",
+                        "url": "https://myanimelist.net/manga/7948/Ace_wo_Nerae"
+                    }
+                ]
+            },
+            {
+                "relation": "Full Story",
+                "entry": [
+                    {
+                        "mal_id": 311,
+                        "type": "anime",
+                        "name": "Ace wo Nerae!",
+                        "url": "https://myanimelist.net/anime/311/Ace_wo_Nerae"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [
+                "''Mabushii Kisetsu ni (まぶしい季節に)'' by Shounen Tanteidan (少年探偵団)"
+            ],
+            "endings": [
+                "''Haruka na Yume (まぶしい季節に)'' by Shounen Tanteidan (少年探偵団)"
+            ]
+        },
+        "external": [
+            {
+                "name": "Official Site",
+                "url": "https://www.tms-e.co.jp/alltitles/1970s/015301.html"
+            },
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=1074"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=2060"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Aim_for_the_Ace!#Film"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%83%BC%E3%82%B9%E3%82%92%E3%81%AD%E3%82%89%E3%81%88!#%E3%82%A8%E3%83%BC%E3%82%B9%E3%82%92%E3%81%AD%E3%82%89%E3%81%88!_(%E5%8A%87%E5%A0%B4%E7%89%88)"
+            },
+            {
+                "name": "Syoboi",
+                "url": "https://cal.syoboi.jp/tid/2865"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": []
+}

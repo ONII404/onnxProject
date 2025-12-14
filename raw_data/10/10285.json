@@ -1,0 +1,142 @@
+{
+    "id": 10285,
+    "fetched_at": "Sun Dec 14 09:32:55 2025",
+    "metadata": {
+        "mal_id": 10285,
+        "url": "https://myanimelist.net/anime/10285/Manga_Nippon_Mukashibanashi_Movie",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/9/28284.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/9/28284t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/9/28284l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/9/28284.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/9/28284t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/9/28284l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Manga Nippon Mukashibanashi (Movie)"
+            },
+            {
+                "type": "Synonym",
+                "title": "Manga Nippon Mukashibanashi (1982)"
+            },
+            {
+                "type": "Synonym",
+                "title": "Japanese Folklore Tales Movie"
+            },
+            {
+                "type": "Synonym",
+                "title": "Manga Nippon Mukashibanashi Movie"
+            },
+            {
+                "type": "Japanese",
+                "title": "まんが日本昔ばなし"
+            }
+        ],
+        "title": "Manga Nippon Mukashibanashi (Movie)",
+        "title_english": null,
+        "title_japanese": "まんが日本昔ばなし",
+        "title_synonyms": [
+            "Manga Nippon Mukashibanashi (1982)",
+            "Japanese Folklore Tales Movie",
+            "Manga Nippon Mukashibanashi Movie"
+        ],
+        "type": "Movie",
+        "source": "Unknown",
+        "episodes": 1,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "1982-03-13T00:00:00+00:00",
+            "to": null,
+            "prop": {
+                "from": {
+                    "day": 13,
+                    "month": 3,
+                    "year": 1982
+                },
+                "to": {
+                    "day": null,
+                    "month": null,
+                    "year": null
+                }
+            },
+            "string": "Mar 13, 1982"
+        },
+        "duration": "24 min",
+        "rating": "G - All Ages",
+        "score": 5.96,
+        "scored_by": 146,
+        "rank": 10512,
+        "popularity": 17017,
+        "members": 600,
+        "favorites": 0,
+        "synopsis": null,
+        "background": "",
+        "season": null,
+        "year": null,
+        "broadcast": {
+            "day": null,
+            "time": null,
+            "timezone": null,
+            "string": null
+        },
+        "producers": [],
+        "licensors": [],
+        "studios": [],
+        "genres": [],
+        "explicit_genres": [],
+        "themes": [
+            {
+                "mal_id": 13,
+                "type": "anime",
+                "name": "Historical",
+                "url": "https://myanimelist.net/anime/genre/13/Historical"
+            }
+        ],
+        "demographics": [],
+        "relations": [
+            {
+                "relation": "Parent Story",
+                "entry": [
+                    {
+                        "mal_id": 6277,
+                        "type": "anime",
+                        "name": "Manga Nippon Mukashibanashi (1976)",
+                        "url": "https://myanimelist.net/anime/6277/Manga_Nippon_Mukashibanashi_1976"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [],
+            "endings": []
+        },
+        "external": [
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=3589"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": []
+}

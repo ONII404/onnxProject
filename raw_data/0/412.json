@@ -1,0 +1,379 @@
+{
+    "id": 412,
+    "fetched_at": "Sun Dec 14 13:36:51 2025",
+    "metadata": {
+        "mal_id": 412,
+        "url": "https://myanimelist.net/anime/412/Kore_ga_Watashi_no_Goshujinsama",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1133/150641.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1133/150641t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1133/150641l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1133/150641.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1133/150641t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1133/150641l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": "https://www.youtube-nocookie.com/embed/9tTE9iccOfI?enablejsapi=1&wmode=opaque&autoplay=1",
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Kore ga Watashi no Goshujinsama"
+            },
+            {
+                "type": "Synonym",
+                "title": "That's My Master"
+            },
+            {
+                "type": "Japanese",
+                "title": "これが私の御主人様"
+            },
+            {
+                "type": "English",
+                "title": "He is My Master"
+            },
+            {
+                "type": "German",
+                "title": "He is My Master"
+            },
+            {
+                "type": "French",
+                "title": "He is My Master"
+            }
+        ],
+        "title": "Kore ga Watashi no Goshujinsama",
+        "title_english": "He is My Master",
+        "title_japanese": "これが私の御主人様",
+        "title_synonyms": [
+            "That's My Master"
+        ],
+        "type": "TV",
+        "source": "Manga",
+        "episodes": 12,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "2005-04-08T00:00:00+00:00",
+            "to": "2005-07-01T00:00:00+00:00",
+            "prop": {
+                "from": {
+                    "day": 8,
+                    "month": 4,
+                    "year": 2005
+                },
+                "to": {
+                    "day": 1,
+                    "month": 7,
+                    "year": 2005
+                }
+            },
+            "string": "Apr 8, 2005 to Jul 1, 2005"
+        },
+        "duration": "24 min per ep",
+        "rating": "R+ - Mild Nudity",
+        "score": 6.5,
+        "scored_by": 39073,
+        "rank": 7345,
+        "popularity": 2669,
+        "members": 80616,
+        "favorites": 132,
+        "synopsis": "Izumi Sawatari and her younger sister, Mitsuki Sawatari, have run away from home and are in need of employment. The only jobs available are as maids in the mansion of 14-year-old millionaire, Yoshitaka Nakabayashi. What seems like simple work is soon revealed to be far more than the girls bargained for when they find Yoshitaka to be an authoritative employer who demands they call him \"Master\". \n\n(Source: Sentai Filmworks)",
+        "background": "",
+        "season": "spring",
+        "year": 2005,
+        "broadcast": {
+            "day": "Fridays",
+            "time": "00:30",
+            "timezone": "Asia/Tokyo",
+            "string": "Fridays at 00:30 (JST)"
+        },
+        "producers": [
+            {
+                "mal_id": 145,
+                "type": "anime",
+                "name": "TBS",
+                "url": "https://myanimelist.net/anime/producer/145/TBS"
+            },
+            {
+                "mal_id": 315,
+                "type": "anime",
+                "name": "DAX Production",
+                "url": "https://myanimelist.net/anime/producer/315/DAX_Production"
+            },
+            {
+                "mal_id": 647,
+                "type": "anime",
+                "name": "Memory-Tech",
+                "url": "https://myanimelist.net/anime/producer/647/Memory-Tech"
+            },
+            {
+                "mal_id": 2956,
+                "type": "anime",
+                "name": "Geneon Entertainment",
+                "url": "https://myanimelist.net/anime/producer/2956/Geneon_Entertainment"
+            }
+        ],
+        "licensors": [
+            {
+                "mal_id": 376,
+                "type": "anime",
+                "name": "Sentai Filmworks",
+                "url": "https://myanimelist.net/anime/producer/376/Sentai_Filmworks"
+            }
+        ],
+        "studios": [
+            {
+                "mal_id": 6,
+                "type": "anime",
+                "name": "Gainax",
+                "url": "https://myanimelist.net/anime/producer/6/Gainax"
+            },
+            {
+                "mal_id": 44,
+                "type": "anime",
+                "name": "Shaft",
+                "url": "https://myanimelist.net/anime/producer/44/Shaft"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 4,
+                "type": "anime",
+                "name": "Comedy",
+                "url": "https://myanimelist.net/anime/genre/4/Comedy"
+            },
+            {
+                "mal_id": 9,
+                "type": "anime",
+                "name": "Ecchi",
+                "url": "https://myanimelist.net/anime/genre/9/Ecchi"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [
+            {
+                "mal_id": 35,
+                "type": "anime",
+                "name": "Harem",
+                "url": "https://myanimelist.net/anime/genre/35/Harem"
+            }
+        ],
+        "demographics": [
+            {
+                "mal_id": 27,
+                "type": "anime",
+                "name": "Shounen",
+                "url": "https://myanimelist.net/anime/genre/27/Shounen"
+            }
+        ],
+        "relations": [
+            {
+                "relation": "Adaptation",
+                "entry": [
+                    {
+                        "mal_id": 1448,
+                        "type": "manga",
+                        "name": "Kore ga Watashi no Goshujinsama",
+                        "url": "https://myanimelist.net/manga/1448/Kore_ga_Watashi_no_Goshujinsama"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [
+                "\"Trust\" by Masami Okui"
+            ],
+            "endings": [
+                "\"Aijou no Katamari\" by Masumi Asano, Ai Shimizu & Kana Ueda"
+            ]
+        },
+        "external": [
+            {
+                "name": "Official Site",
+                "url": "http://www.gainax.co.jp/anime/master/index.html"
+            },
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=2621"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=4672"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "http://en.wikipedia.org/wiki/He_Is_My_Master"
+            }
+        ],
+        "streaming": [
+            {
+                "name": "Crunchyroll",
+                "url": "http://www.crunchyroll.com/series-280330"
+            },
+            {
+                "name": "HIDIVE",
+                "url": "https://www.hidive.com/tv/he-is-my-master"
+            }
+        ]
+    },
+    "episodes": [
+        {
+            "mal_id": 1,
+            "url": "https://myanimelist.net/anime/412/Kore_ga_Watashi_no_Goshujinsama/episode/1",
+            "title": "He Is My Master!?",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 3.51,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=45864"
+        },
+        {
+            "mal_id": 2,
+            "url": "https://myanimelist.net/anime/412/Kore_ga_Watashi_no_Goshujinsama/episode/2",
+            "title": "That Vase Is 5 Million…..",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 4.19,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=45865"
+        },
+        {
+            "mal_id": 3,
+            "url": "https://myanimelist.net/anime/412/Kore_ga_Watashi_no_Goshujinsama/episode/3",
+            "title": "That Uniform-loving, Hidden Camera-loving, Bishojo Game-loving Pedo",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 3.9,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=45866"
+        },
+        {
+            "mal_id": 4,
+            "url": "https://myanimelist.net/anime/412/Kore_ga_Watashi_no_Goshujinsama/episode/4",
+            "title": "A Couple Formed Under Extraordinary Circumstances Will Not Last Long",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 4.04,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=45867"
+        },
+        {
+            "mal_id": 5,
+            "url": "https://myanimelist.net/anime/412/Kore_ga_Watashi_no_Goshujinsama/episode/5",
+            "title": "There’s a Rumor About an Adolescent Boy Living",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 4.11,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=45288"
+        },
+        {
+            "mal_id": 6,
+            "url": "https://myanimelist.net/anime/412/Kore_ga_Watashi_no_Goshujinsama/episode/6",
+            "title": "The Battle for Izumi Sawatari Series!",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=45289"
+        },
+        {
+            "mal_id": 7,
+            "url": "https://myanimelist.net/anime/412/Kore_ga_Watashi_no_Goshujinsama/episode/7",
+            "title": "He Is Izumi's???!?",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 4.38,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=45329"
+        },
+        {
+            "mal_id": 8,
+            "url": "https://myanimelist.net/anime/412/Kore_ga_Watashi_no_Goshujinsama/episode/8",
+            "title": "An Incredibly Low Strike Zone",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 3.95,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=45517"
+        },
+        {
+            "mal_id": 9,
+            "url": "https://myanimelist.net/anime/412/Kore_ga_Watashi_no_Goshujinsama/episode/9",
+            "title": "Izumi May Be Izumi But Izumi Will No Longer Yield to Anyone",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 4.11,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=45701"
+        },
+        {
+            "mal_id": 10,
+            "url": "https://myanimelist.net/anime/412/Kore_ga_Watashi_no_Goshujinsama/episode/10",
+            "title": "He Is My Prince!?",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 4.18,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=45863"
+        },
+        {
+            "mal_id": 11,
+            "url": "https://myanimelist.net/anime/412/Kore_ga_Watashi_no_Goshujinsama/episode/11",
+            "title": "Yoshitaka, Oh So Far Away",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 3.96,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=46048"
+        },
+        {
+            "mal_id": 12,
+            "url": "https://myanimelist.net/anime/412/Kore_ga_Watashi_no_Goshujinsama/episode/12",
+            "title": "He Is My Master!!",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 3.9,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=46121"
+        }
+    ]
+}

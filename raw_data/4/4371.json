@@ -1,0 +1,186 @@
+{
+    "id": 4371,
+    "fetched_at": "Sun Dec 14 08:38:22 2025",
+    "metadata": {
+        "mal_id": 4371,
+        "url": "https://myanimelist.net/anime/4371/Uchuu_Senshi_Baldios_Movie",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/10/61937.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/10/61937t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/10/61937l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/10/61937.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/10/61937t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/10/61937l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Uchuu Senshi Baldios (Movie)"
+            },
+            {
+                "type": "Japanese",
+                "title": "宇宙戦士バルディオス"
+            },
+            {
+                "type": "English",
+                "title": "Space Warrior Baldios"
+            },
+            {
+                "type": "German",
+                "title": "Space Warrior Baldios: Der Film"
+            },
+            {
+                "type": "Spanish",
+                "title": "Space Warrior Baldios: La Película"
+            },
+            {
+                "type": "French",
+                "title": "Space Warrior Baldios: Le Film"
+            }
+        ],
+        "title": "Uchuu Senshi Baldios (Movie)",
+        "title_english": "Space Warrior Baldios",
+        "title_japanese": "宇宙戦士バルディオス",
+        "title_synonyms": [],
+        "type": "Movie",
+        "source": "Unknown",
+        "episodes": 1,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "1981-12-29T00:00:00+00:00",
+            "to": null,
+            "prop": {
+                "from": {
+                    "day": 29,
+                    "month": 12,
+                    "year": 1981
+                },
+                "to": {
+                    "day": null,
+                    "month": null,
+                    "year": null
+                }
+            },
+            "string": "Dec 29, 1981"
+        },
+        "duration": "1 hr 58 min",
+        "rating": "PG-13 - Teens 13 or older",
+        "score": 6.29,
+        "scored_by": 954,
+        "rank": 8594,
+        "popularity": 12064,
+        "members": 2234,
+        "favorites": 4,
+        "synopsis": "This film supplied the ending to the cancelled Space Warrior Baldios television series.",
+        "background": "",
+        "season": null,
+        "year": null,
+        "broadcast": {
+            "day": null,
+            "time": null,
+            "timezone": null,
+            "string": null
+        },
+        "producers": [
+            {
+                "mal_id": 281,
+                "type": "anime",
+                "name": "Kokusai Eigasha",
+                "url": "https://myanimelist.net/anime/producer/281/Kokusai_Eigasha"
+            }
+        ],
+        "licensors": [
+            {
+                "mal_id": 467,
+                "type": "anime",
+                "name": "Discotek Media",
+                "url": "https://myanimelist.net/anime/producer/467/Discotek_Media"
+            }
+        ],
+        "studios": [],
+        "genres": [
+            {
+                "mal_id": 24,
+                "type": "anime",
+                "name": "Sci-Fi",
+                "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [
+            {
+                "mal_id": 18,
+                "type": "anime",
+                "name": "Mecha",
+                "url": "https://myanimelist.net/anime/genre/18/Mecha"
+            },
+            {
+                "mal_id": 29,
+                "type": "anime",
+                "name": "Space",
+                "url": "https://myanimelist.net/anime/genre/29/Space"
+            }
+        ],
+        "demographics": [],
+        "relations": [
+            {
+                "relation": "Prequel",
+                "entry": [
+                    {
+                        "mal_id": 1737,
+                        "type": "anime",
+                        "name": "Uchuu Senshi Baldios",
+                        "url": "https://myanimelist.net/anime/1737/Uchuu_Senshi_Baldios"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [
+                "\"Sea Wind\" by TONY"
+            ],
+            "endings": [
+                "\"Sugao no Mama de (素顔のままで)\" by TONY"
+            ]
+        },
+        "external": [
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=4033"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=748"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "http://ja.wikipedia.org/wiki/%E5%AE%87%E5%AE%99%E6%88%A6%E5%A3%AB%E3%83%90%E3%83%AB%E3%83%87%E3%82%A3%E3%82%AA%E3%82%B9"
+            }
+        ],
+        "streaming": [
+            {
+                "name": "Crunchyroll",
+                "url": "http://www.crunchyroll.com/series-277963"
+            }
+        ]
+    },
+    "episodes": []
+}

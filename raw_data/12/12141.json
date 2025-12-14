@@ -1,0 +1,173 @@
+{
+    "id": 12141,
+    "fetched_at": "Sun Dec 14 09:39:31 2025",
+    "metadata": {
+        "mal_id": 12141,
+        "url": "https://myanimelist.net/anime/12141/Kaze_no_Matasaburou",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/5/34253.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/5/34253t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/5/34253l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/5/34253.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/5/34253t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/5/34253l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Kaze no Matasaburou"
+            },
+            {
+                "type": "Synonym",
+                "title": "Matasaburo the Wind Boy"
+            },
+            {
+                "type": "Japanese",
+                "title": "風の又三郎"
+            }
+        ],
+        "title": "Kaze no Matasaburou",
+        "title_english": null,
+        "title_japanese": "風の又三郎",
+        "title_synonyms": [
+            "Matasaburo the Wind Boy"
+        ],
+        "type": "OVA",
+        "source": "Novel",
+        "episodes": 1,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "1988-08-20T00:00:00+00:00",
+            "to": null,
+            "prop": {
+                "from": {
+                    "day": 20,
+                    "month": 8,
+                    "year": 1988
+                },
+                "to": {
+                    "day": null,
+                    "month": null,
+                    "year": null
+                }
+            },
+            "string": "Aug 20, 1988"
+        },
+        "duration": "29 min",
+        "rating": "G - All Ages",
+        "score": 5.68,
+        "scored_by": 829,
+        "rank": 11928,
+        "popularity": 12520,
+        "members": 1947,
+        "favorites": 0,
+        "synopsis": "A foreign transfer student from the city arrives one day in a Japanese country town. Enchanted by his air of mystery, his classmates nickname him \"Matasaburou the Wind Imp\" after a local legend. Eventually they become friends and spend many days playing in the countryside. One windy day, Matasaburou returns to the city, leaving his classmates to speculate that he really was Matasaburou the Wind Imp and that he flew away on the wind.",
+        "background": "",
+        "season": null,
+        "year": null,
+        "broadcast": {
+            "day": null,
+            "time": null,
+            "timezone": null,
+            "string": null
+        },
+        "producers": [
+            {
+                "mal_id": 85,
+                "type": "anime",
+                "name": "Konami",
+                "url": "https://myanimelist.net/anime/producer/85/Konami"
+            }
+        ],
+        "licensors": [],
+        "studios": [
+            {
+                "mal_id": 11,
+                "type": "anime",
+                "name": "Madhouse",
+                "url": "https://myanimelist.net/anime/producer/11/Madhouse"
+            },
+            {
+                "mal_id": 3241,
+                "type": "anime",
+                "name": "Project Team Argos",
+                "url": "https://myanimelist.net/anime/producer/3241/Project_Team_Argos"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 10,
+                "type": "anime",
+                "name": "Fantasy",
+                "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+            },
+            {
+                "mal_id": 36,
+                "type": "anime",
+                "name": "Slice of Life",
+                "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [],
+        "demographics": [
+            {
+                "mal_id": 15,
+                "type": "anime",
+                "name": "Kids",
+                "url": "https://myanimelist.net/anime/genre/15/Kids"
+            }
+        ],
+        "relations": [
+            {
+                "relation": "Alternative Version",
+                "entry": [
+                    {
+                        "mal_id": 30922,
+                        "type": "anime",
+                        "name": "Kaze no Matasaburou (Movie)",
+                        "url": "https://myanimelist.net/anime/30922/Kaze_no_Matasaburou_Movie"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [],
+            "endings": []
+        },
+        "external": [
+            {
+                "name": "Official Site",
+                "url": "http://www.madhouse.co.jp/works/1988-1987/works_ova_miyazawa_kaze.html"
+            },
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=3583"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=7523"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": []
+}

@@ -1,0 +1,425 @@
+{
+    "id": 384,
+    "fetched_at": "Sun Dec 14 13:03:47 2025",
+    "metadata": {
+        "mal_id": 384,
+        "url": "https://myanimelist.net/anime/384/Gantz",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/13/5998.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/13/5998t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/13/5998l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/13/5998.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/13/5998t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/13/5998l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Gantz"
+            },
+            {
+                "type": "Synonym",
+                "title": "GANTZ"
+            },
+            {
+                "type": "Japanese",
+                "title": "ガンツ"
+            },
+            {
+                "type": "English",
+                "title": "Gantz"
+            }
+        ],
+        "title": "Gantz",
+        "title_english": "Gantz",
+        "title_japanese": "ガンツ",
+        "title_synonyms": [
+            "GANTZ"
+        ],
+        "type": "TV",
+        "source": "Manga",
+        "episodes": 13,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "2004-04-13T00:00:00+00:00",
+            "to": "2004-06-22T00:00:00+00:00",
+            "prop": {
+                "from": {
+                    "day": 13,
+                    "month": 4,
+                    "year": 2004
+                },
+                "to": {
+                    "day": 22,
+                    "month": 6,
+                    "year": 2004
+                }
+            },
+            "string": "Apr 13, 2004 to Jun 22, 2004"
+        },
+        "duration": "22 min per ep",
+        "rating": "R+ - Mild Nudity",
+        "score": 6.97,
+        "scored_by": 187619,
+        "rank": 4686,
+        "popularity": 700,
+        "members": 378722,
+        "favorites": 2524,
+        "synopsis": "Knowing that he is risking his life, Kei Kurono makes the uncharacteristic decision to jump onto train tracks to save a homeless man from death, only to perish in the process. But when he comes to, Kei finds himself in a room with several other recently deceased people, as well as a large, mysterious black ball. While the people in the room are trying to make sense of their situation, the ball suddenly opens, revealing a cache of weapons and strange black suits. The ball then instructs everyone that they have to hunt down an alien and teleports them to an unknown location.\n\nWith very little information to work off of, Kei teams up with his childhood friend Masaru Katou and an unfamiliar woman, and the trio explore their new surroundings. It quickly becomes apparent, however, that they have stumbled into a dark and dangerous world where anything could happen to them.\n\n[Written by MAL Rewrite]",
+        "background": "",
+        "season": "spring",
+        "year": 2004,
+        "broadcast": {
+            "day": "Tuesdays",
+            "time": "02:28",
+            "timezone": "Asia/Tokyo",
+            "string": "Tuesdays at 02:28 (JST)"
+        },
+        "producers": [
+            {
+                "mal_id": 169,
+                "type": "anime",
+                "name": "Fuji TV",
+                "url": "https://myanimelist.net/anime/producer/169/Fuji_TV"
+            }
+        ],
+        "licensors": [
+            {
+                "mal_id": 97,
+                "type": "anime",
+                "name": "ADV Films",
+                "url": "https://myanimelist.net/anime/producer/97/ADV_Films"
+            },
+            {
+                "mal_id": 102,
+                "type": "anime",
+                "name": "Funimation",
+                "url": "https://myanimelist.net/anime/producer/102/Funimation"
+            }
+        ],
+        "studios": [
+            {
+                "mal_id": 3,
+                "type": "anime",
+                "name": "Gonzo",
+                "url": "https://myanimelist.net/anime/producer/3/Gonzo"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 1,
+                "type": "anime",
+                "name": "Action",
+                "url": "https://myanimelist.net/anime/genre/1/Action"
+            },
+            {
+                "mal_id": 8,
+                "type": "anime",
+                "name": "Drama",
+                "url": "https://myanimelist.net/anime/genre/8/Drama"
+            },
+            {
+                "mal_id": 14,
+                "type": "anime",
+                "name": "Horror",
+                "url": "https://myanimelist.net/anime/genre/14/Horror"
+            },
+            {
+                "mal_id": 24,
+                "type": "anime",
+                "name": "Sci-Fi",
+                "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+            },
+            {
+                "mal_id": 41,
+                "type": "anime",
+                "name": "Suspense",
+                "url": "https://myanimelist.net/anime/genre/41/Suspense"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [
+            {
+                "mal_id": 58,
+                "type": "anime",
+                "name": "Gore",
+                "url": "https://myanimelist.net/anime/genre/58/Gore"
+            },
+            {
+                "mal_id": 59,
+                "type": "anime",
+                "name": "High Stakes Game",
+                "url": "https://myanimelist.net/anime/genre/59/High_Stakes_Game"
+            },
+            {
+                "mal_id": 40,
+                "type": "anime",
+                "name": "Psychological",
+                "url": "https://myanimelist.net/anime/genre/40/Psychological"
+            },
+            {
+                "mal_id": 76,
+                "type": "anime",
+                "name": "Survival",
+                "url": "https://myanimelist.net/anime/genre/76/Survival"
+            }
+        ],
+        "demographics": [
+            {
+                "mal_id": 42,
+                "type": "anime",
+                "name": "Seinen",
+                "url": "https://myanimelist.net/anime/genre/42/Seinen"
+            }
+        ],
+        "relations": [
+            {
+                "relation": "Sequel",
+                "entry": [
+                    {
+                        "mal_id": 395,
+                        "type": "anime",
+                        "name": "Gantz 2nd Stage",
+                        "url": "https://myanimelist.net/anime/395/Gantz_2nd_Stage"
+                    }
+                ]
+            },
+            {
+                "relation": "Adaptation",
+                "entry": [
+                    {
+                        "mal_id": 564,
+                        "type": "manga",
+                        "name": "Gantz",
+                        "url": "https://myanimelist.net/manga/564/Gantz"
+                    }
+                ]
+            },
+            {
+                "relation": "Other",
+                "entry": [
+                    {
+                        "mal_id": 32071,
+                        "type": "anime",
+                        "name": "Gantz:O",
+                        "url": "https://myanimelist.net/anime/32071/Gantz_O"
+                    },
+                    {
+                        "mal_id": 40711,
+                        "type": "anime",
+                        "name": "Gantz x Senran Kagura New Link",
+                        "url": "https://myanimelist.net/anime/40711/Gantz_x_Senran_Kagura_New_Link"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [
+                "\"Super Shooter\" by Rip Slyme"
+            ],
+            "endings": [
+                "\"Last Kiss\" by Bonnie Pink"
+            ]
+        },
+        "external": [
+            {
+                "name": "Official Site",
+                "url": "https://www.gonzo.co.jp/works/gantz/index.html"
+            },
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=2400"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=3641"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Gantz#Anime"
+            }
+        ],
+        "streaming": [
+            {
+                "name": "Netflix",
+                "url": "https://www.netflix.com/"
+            }
+        ]
+    },
+    "episodes": [
+        {
+            "mal_id": 1,
+            "url": null,
+            "title": "It's the Beginning of a Brand New Day",
+            "title_japanese": "新しい朝が来た",
+            "title_romanji": "Atarashii Asa ga Kita ",
+            "aired": "2004-04-13T00:00:00+00:00",
+            "score": 3.62,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=43142"
+        },
+        {
+            "mal_id": 2,
+            "url": null,
+            "title": "They Aren't Human",
+            "title_japanese": "人間じゃねぇ",
+            "title_romanji": "Ningen Janee ",
+            "aired": "2004-04-20T00:00:00+00:00",
+            "score": 3.54,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=43146"
+        },
+        {
+            "mal_id": 3,
+            "url": null,
+            "title": "Kei, You're Awesome!",
+            "title_japanese": "計ちゃん、すっげえ",
+            "title_romanji": "Kei-chan, suggee ",
+            "aired": "2004-04-20T00:00:00+00:00",
+            "score": 3.66,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=43251"
+        },
+        {
+            "mal_id": 4,
+            "url": null,
+            "title": "OK, Here Are Your Scores",
+            "title_japanese": "それぢわ、ちいてんをはじぬる",
+            "title_romanji": "Soreji wa, Chiiten wo Hajinuru ",
+            "aired": "2004-04-27T00:00:00+00:00",
+            "score": 3.78,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=43297"
+        },
+        {
+            "mal_id": 5,
+            "url": null,
+            "title": "Then That Means, at That Time...",
+            "title_japanese": "っていうことは、あの時",
+            "title_romanji": "Tteiukoto wa, Ano Toki ",
+            "aired": "2004-05-04T00:00:00+00:00",
+            "score": 3.71,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=43303"
+        },
+        {
+            "mal_id": 6,
+            "url": null,
+            "title": "All Right!",
+            "title_japanese": "やったああああっ",
+            "title_romanji": "Yattaaaaa! ",
+            "aired": "2004-05-11T00:00:00+00:00",
+            "score": 3.66,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=43990"
+        },
+        {
+            "mal_id": 7,
+            "url": null,
+            "title": "We're After You",
+            "title_japanese": "狙ってるぜ",
+            "title_romanji": "Neratteruze ",
+            "aired": "2004-05-18T00:00:00+00:00",
+            "score": 3.98,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=46196"
+        },
+        {
+            "mal_id": 8,
+            "url": null,
+            "title": "Uh-oh!",
+            "title_japanese": "やべぇ！",
+            "title_romanji": "Yabee! ",
+            "aired": "2004-05-25T00:00:00+00:00",
+            "score": 3.88,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=45074"
+        },
+        {
+            "mal_id": 9,
+            "url": null,
+            "title": "Kill It There!",
+            "title_japanese": "ソッコー殺す",
+            "title_romanji": "Sokkoo Korosu ",
+            "aired": "2004-06-01T00:00:00+00:00",
+            "score": 3.78,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=45078"
+        },
+        {
+            "mal_id": 10,
+            "url": null,
+            "title": "Yuzo?",
+            "title_japanese": "裕三君？",
+            "title_romanji": "Yuuzou-kun? ",
+            "aired": "2004-12-23T00:00:00+00:00",
+            "score": 3.46,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=45145"
+        },
+        {
+            "mal_id": 11,
+            "url": null,
+            "title": "I Can't Shoot Him",
+            "title_japanese": "あいつは撃てない",
+            "title_romanji": "Aitsu wa Utenai ",
+            "aired": "2004-06-08T00:00:00+00:00",
+            "score": 3.44,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=46341"
+        },
+        {
+            "mal_id": 12,
+            "url": null,
+            "title": "Please stay here, Katou-kun",
+            "title_japanese": "加藤くんは待っていて",
+            "title_romanji": "Katou-kun wa Matteite ",
+            "aired": "2004-06-15T00:00:00+00:00",
+            "score": 3.61,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=46460"
+        },
+        {
+            "mal_id": 13,
+            "url": null,
+            "title": "Please Die",
+            "title_japanese": "死んで下ちい",
+            "title_romanji": "Shinde Kudachii ",
+            "aired": "2004-06-22T00:00:00+00:00",
+            "score": 3.7,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=46462"
+        }
+    ]
+}

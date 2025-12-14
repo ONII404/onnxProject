@@ -1,0 +1,169 @@
+{
+    "id": 8152,
+    "fetched_at": "Sun Dec 14 09:14:51 2025",
+    "metadata": {
+        "mal_id": 8152,
+        "url": "https://myanimelist.net/anime/8152/Gegege_no_Kitarou_1985_Movie",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/5/21017.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/5/21017t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/5/21017l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/5/21017.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/5/21017t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/5/21017l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Gegege no Kitarou (1985 Movie)"
+            },
+            {
+                "type": "Synonym",
+                "title": "Gegege no Kitaro Movie 3: Youkai Gundan"
+            },
+            {
+                "type": "Japanese",
+                "title": "ゲゲゲの鬼太郎"
+            },
+            {
+                "type": "English",
+                "title": "Spooky Kitaro"
+            }
+        ],
+        "title": "Gegege no Kitarou (1985 Movie)",
+        "title_english": "Spooky Kitaro",
+        "title_japanese": "ゲゲゲの鬼太郎",
+        "title_synonyms": [
+            "Gegege no Kitaro Movie 3: Youkai Gundan"
+        ],
+        "type": "Movie",
+        "source": "Unknown",
+        "episodes": 1,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "1985-12-21T00:00:00+00:00",
+            "to": null,
+            "prop": {
+                "from": {
+                    "day": 21,
+                    "month": 12,
+                    "year": 1985
+                },
+                "to": {
+                    "day": null,
+                    "month": null,
+                    "year": null
+                }
+            },
+            "string": "Dec 21, 1985"
+        },
+        "duration": "24 min",
+        "rating": "G - All Ages",
+        "score": 5.96,
+        "scored_by": 376,
+        "rank": 10498,
+        "popularity": 13606,
+        "members": 1402,
+        "favorites": 0,
+        "synopsis": "Movie based on the 1985 TV anime with an original plot.",
+        "background": "",
+        "season": null,
+        "year": null,
+        "broadcast": {
+            "day": null,
+            "time": null,
+            "timezone": null,
+            "string": null
+        },
+        "producers": [],
+        "licensors": [],
+        "studios": [
+            {
+                "mal_id": 18,
+                "type": "anime",
+                "name": "Toei Animation",
+                "url": "https://myanimelist.net/anime/producer/18/Toei_Animation"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 2,
+                "type": "anime",
+                "name": "Adventure",
+                "url": "https://myanimelist.net/anime/genre/2/Adventure"
+            },
+            {
+                "mal_id": 4,
+                "type": "anime",
+                "name": "Comedy",
+                "url": "https://myanimelist.net/anime/genre/4/Comedy"
+            },
+            {
+                "mal_id": 14,
+                "type": "anime",
+                "name": "Horror",
+                "url": "https://myanimelist.net/anime/genre/14/Horror"
+            },
+            {
+                "mal_id": 37,
+                "type": "anime",
+                "name": "Supernatural",
+                "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [],
+        "demographics": [],
+        "relations": [
+            {
+                "relation": "Parent Story",
+                "entry": [
+                    {
+                        "mal_id": 7307,
+                        "type": "anime",
+                        "name": "Gegege no Kitarou (1985)",
+                        "url": "https://myanimelist.net/anime/7307/Gegege_no_Kitarou_1985"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [],
+            "endings": []
+        },
+        "external": [
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=2307"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=3666"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "http://en.wikipedia.org/wiki/GeGeGe_no_Kitaro#Movies"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": []
+}

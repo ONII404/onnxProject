@@ -1,0 +1,168 @@
+{
+    "id": 6072,
+    "fetched_at": "Sun Dec 14 08:56:21 2025",
+    "metadata": {
+        "mal_id": 6072,
+        "url": "https://myanimelist.net/anime/6072/11-piki_no_Neko_to_Ahoudori",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/7/13275.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/7/13275t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/7/13275l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/7/13275.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/7/13275t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/7/13275l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "11-piki no Neko to Ahoudori"
+            },
+            {
+                "type": "Synonym",
+                "title": "Juuippiki no Neko to Ahoudori"
+            },
+            {
+                "type": "Japanese",
+                "title": "１１ぴきのねことあほうどり"
+            },
+            {
+                "type": "English",
+                "title": "Eleven Cats and an Albatross"
+            },
+            {
+                "type": "German",
+                "title": "Elf hungrige Katzen und ein Albatros"
+            }
+        ],
+        "title": "11-piki no Neko to Ahoudori",
+        "title_english": "Eleven Cats and an Albatross",
+        "title_japanese": "１１ぴきのねことあほうどり",
+        "title_synonyms": [
+            "Juuippiki no Neko to Ahoudori"
+        ],
+        "type": "Movie",
+        "source": "Picture book",
+        "episodes": 1,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "1986-08-27T00:00:00+00:00",
+            "to": null,
+            "prop": {
+                "from": {
+                    "day": 27,
+                    "month": 8,
+                    "year": 1986
+                },
+                "to": {
+                    "day": null,
+                    "month": null,
+                    "year": null
+                }
+            },
+            "string": "Aug 27, 1986"
+        },
+        "duration": "1 hr 30 min",
+        "rating": "G - All Ages",
+        "score": 5.87,
+        "scored_by": 158,
+        "rank": 10988,
+        "popularity": 15082,
+        "members": 957,
+        "favorites": 2,
+        "synopsis": "Eleven naughty cats on the run from the neighborhood police chief hear that a giant fish is nearby for the taking. They go on a hazardous quest find it, learning that they must work as a team to reach their goal.\n\n(Source: The Anime Encyclopedia)",
+        "background": "",
+        "season": null,
+        "year": null,
+        "broadcast": {
+            "day": null,
+            "time": null,
+            "timezone": null,
+            "string": null
+        },
+        "producers": [
+            {
+                "mal_id": 86,
+                "type": "anime",
+                "name": "Group TAC",
+                "url": "https://myanimelist.net/anime/producer/86/Group_TAC"
+            }
+        ],
+        "licensors": [],
+        "studios": [],
+        "genres": [
+            {
+                "mal_id": 2,
+                "type": "anime",
+                "name": "Adventure",
+                "url": "https://myanimelist.net/anime/genre/2/Adventure"
+            },
+            {
+                "mal_id": 10,
+                "type": "anime",
+                "name": "Fantasy",
+                "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [],
+        "demographics": [
+            {
+                "mal_id": 15,
+                "type": "anime",
+                "name": "Kids",
+                "url": "https://myanimelist.net/anime/genre/15/Kids"
+            }
+        ],
+        "relations": [
+            {
+                "relation": "Prequel",
+                "entry": [
+                    {
+                        "mal_id": 6071,
+                        "type": "anime",
+                        "name": "11-piki no Neko",
+                        "url": "https://myanimelist.net/anime/6071/11-piki_no_Neko"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [],
+            "endings": []
+        },
+        "external": [
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=4945"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=1643"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "http://ja.wikipedia.org/wiki/11%E3%81%B4%E3%81%8D%E3%81%AE%E3%81%AD%E3%81%93%E3%81%A8%E3%81%82%E3%81%BB%E3%81%86%E3%81%A9%E3%82%8A"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": []
+}

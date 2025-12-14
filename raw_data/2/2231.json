@@ -1,0 +1,615 @@
+{
+    "id": 2231,
+    "fetched_at": "Sun Dec 14 07:22:07 2025",
+    "metadata": {
+        "mal_id": 2231,
+        "url": "https://myanimelist.net/anime/2231/Miyuki",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/8/50245.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/8/50245t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/8/50245l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/8/50245.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/8/50245t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/8/50245l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Miyuki"
+            },
+            {
+                "type": "Japanese",
+                "title": "みゆき"
+            }
+        ],
+        "title": "Miyuki",
+        "title_english": null,
+        "title_japanese": "みゆき",
+        "title_synonyms": [],
+        "type": "TV",
+        "source": "Manga",
+        "episodes": 37,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "1983-03-31T00:00:00+00:00",
+            "to": "1984-04-20T00:00:00+00:00",
+            "prop": {
+                "from": {
+                    "day": 31,
+                    "month": 3,
+                    "year": 1983
+                },
+                "to": {
+                    "day": 20,
+                    "month": 4,
+                    "year": 1984
+                }
+            },
+            "string": "Mar 31, 1983 to Apr 20, 1984"
+        },
+        "duration": "25 min per ep",
+        "rating": "PG-13 - Teens 13 or older",
+        "score": 6.61,
+        "scored_by": 1461,
+        "rank": 6651,
+        "popularity": 9179,
+        "members": 5231,
+        "favorites": 11,
+        "synopsis": "Wakamatsu Masato lives with his step-sister, Miyuki, whom he does not have blood relationship with. Their father is always working oversea and left the two of them living by themselves in Toukyou. Miyuki is cute, nice, sensitive and very popular among guys around Masato. Masato has a girlfriend at school whose name is Kajima Miyuki, who is pretty and gentle, the ideal dream of every highschool boy.\n\n(Source: AnimeNfo)",
+        "background": "",
+        "season": "spring",
+        "year": 1983,
+        "broadcast": {
+            "day": "Thursdays",
+            "time": "19:30",
+            "timezone": "Asia/Tokyo",
+            "string": "Thursdays at 19:30 (JST)"
+        },
+        "producers": [
+            {
+                "mal_id": 99,
+                "type": "anime",
+                "name": "Kitty Films",
+                "url": "https://myanimelist.net/anime/producer/99/Kitty_Films"
+            },
+            {
+                "mal_id": 169,
+                "type": "anime",
+                "name": "Fuji TV",
+                "url": "https://myanimelist.net/anime/producer/169/Fuji_TV"
+            }
+        ],
+        "licensors": [],
+        "studios": [
+            {
+                "mal_id": 2256,
+                "type": "anime",
+                "name": "Kitty Film Mitaka Studio",
+                "url": "https://myanimelist.net/anime/producer/2256/Kitty_Film_Mitaka_Studio"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 22,
+                "type": "anime",
+                "name": "Romance",
+                "url": "https://myanimelist.net/anime/genre/22/Romance"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [
+            {
+                "mal_id": 23,
+                "type": "anime",
+                "name": "School",
+                "url": "https://myanimelist.net/anime/genre/23/School"
+            }
+        ],
+        "demographics": [
+            {
+                "mal_id": 27,
+                "type": "anime",
+                "name": "Shounen",
+                "url": "https://myanimelist.net/anime/genre/27/Shounen"
+            }
+        ],
+        "relations": [
+            {
+                "relation": "Adaptation",
+                "entry": [
+                    {
+                        "mal_id": 1015,
+                        "type": "manga",
+                        "name": "Miyuki",
+                        "url": "https://myanimelist.net/manga/1015/Miyuki"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [
+                "\"10% no Ame Yohou (10%の雨予報)\" by H2O"
+            ],
+            "endings": [
+                "1: \"Omoide ga Ippai\" by H2O",
+                "2: \"Summer Holidays\" by Michiko Kawai (eps 14-19)",
+                "3: \"Good-bye Season\" by H2O (eps 22-37)"
+            ]
+        },
+        "external": [
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=925"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=1485"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": [
+        {
+            "mal_id": 1,
+            "url": null,
+            "title": "Me, the Beach, and the Black Bikini!",
+            "title_japanese": "ボクと渚と黒ビキニ!",
+            "title_romanji": "Boku to Nagisa to Kuro Bikini! ",
+            "aired": "1983-03-31T00:00:00+00:00",
+            "score": 4.36,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=617197"
+        },
+        {
+            "mal_id": 2,
+            "url": null,
+            "title": "A Slap Is a Lesson of Love",
+            "title_japanese": "ひらて打ちは 恋のレッスン",
+            "title_romanji": "Hirate Uchi wa Koi no Lesson ",
+            "aired": "1983-04-07T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1584519"
+        },
+        {
+            "mal_id": 3,
+            "url": null,
+            "title": "Ryuichi's Scrambled Birthday",
+            "title_japanese": "竜一の スクランブル誕生日",
+            "title_romanji": "Ryuuichi no Scramble Tanjoubi ",
+            "aired": "1983-04-21T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1584521"
+        },
+        {
+            "mal_id": 4,
+            "url": null,
+            "title": "Nee-San Is the Best! Nii-San Is the Worst!?",
+            "title_japanese": "妹ダントツ! あにきはペケ!?",
+            "title_romanji": "Imouto Dantotsu! Aniki wa Peke!? ",
+            "aired": "1983-05-05T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1584526"
+        },
+        {
+            "mal_id": 5,
+            "url": null,
+            "title": "An Intense Beginning on the Occasion of a Date",
+            "title_japanese": "デートのたびにキツーイ一発!",
+            "title_romanji": "Date no Tabi ni Kitsuui Ippatsu! ",
+            "aired": "1983-05-12T00:00:00+00:00",
+            "score": 4.2,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1584613"
+        },
+        {
+            "mal_id": 6,
+            "url": null,
+            "title": "The Lolita Complex Case, Happiness Between the Sheets!",
+            "title_japanese": "ロリコン刑事二枚刃の安!",
+            "title_romanji": "Lolicon Keiji Nimaiba no Yasu! ",
+            "aired": "1983-05-19T00:00:00+00:00",
+            "score": 4.13,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1584623"
+        },
+        {
+            "mal_id": 7,
+            "url": null,
+            "title": "Deep-Blue Masato! Where Did the Bikini Go ?",
+            "title_japanese": "真人マッサオ! ビキニはどこへ?",
+            "title_romanji": "Masato Massao! Bikini wa Doko e? ",
+            "aired": "1983-05-26T00:00:00+00:00",
+            "score": 4.4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1584656"
+        },
+        {
+            "mal_id": 8,
+            "url": null,
+            "title": "Way to Go Nakata! Engaged to Miyuki!?",
+            "title_japanese": "やったネ中田! みゆきと婚約!?",
+            "title_romanji": "Yatta ne Nakata! Miyuki to Konyaku!? ",
+            "aired": "1983-06-02T00:00:00+00:00",
+            "score": 3.33,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1584704"
+        },
+        {
+            "mal_id": 9,
+            "url": null,
+            "title": "A Concert on a Rainy Day",
+            "title_japanese": "雨の日のコンサート",
+            "title_romanji": "Ame no Hi no Concert ",
+            "aired": "1983-06-16T00:00:00+00:00",
+            "score": 3.75,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1584726"
+        },
+        {
+            "mal_id": 10,
+            "url": null,
+            "title": "Love-Love Hiking in Yasujiro's Case...!?",
+            "title_japanese": "ラブラブハイキング安次郎の場合…!?",
+            "title_romanji": "Love Love Hiking Yasujirou no Baai...!? ",
+            "aired": "1983-06-30T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1584737"
+        },
+        {
+            "mal_id": 11,
+            "url": null,
+            "title": "Ecchi and Hentai",
+            "title_japanese": "エッチとすけべ",
+            "title_romanji": "Ecchi to Sukebe ",
+            "aired": "1983-07-07T00:00:00+00:00",
+            "score": 3.67,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1585011"
+        },
+        {
+            "mal_id": 12,
+            "url": null,
+            "title": "Ryuuichi and Muraki's Part-Time Job Info!",
+            "title_japanese": "竜一・村木のアルバイト情報!",
+            "title_romanji": "Ryuuichi-Muraki no Arbeit Jouhou! ",
+            "aired": "1983-07-14T00:00:00+00:00",
+            "score": 3.33,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1585355"
+        },
+        {
+            "mal_id": 13,
+            "url": null,
+            "title": "What Happened in the Night of the Storm!?",
+            "title_japanese": "嵐の夜には何かが起こる!?",
+            "title_romanji": "Arashi no Yoru ni wa Nanika ga Okoru!? ",
+            "aired": "1983-07-21T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1586766"
+        },
+        {
+            "mal_id": 14,
+            "url": null,
+            "title": "Miyuki's Heart from Cloudy to Sunny",
+            "title_japanese": "みゆきの心曇りのち晴れ",
+            "title_romanji": "Miyuki no Kokoro Kumori Nochi Hare ",
+            "aired": "1983-08-04T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1586787"
+        },
+        {
+            "mal_id": 15,
+            "url": null,
+            "title": "Living Youthful Days, Making Memories",
+            "title_japanese": "青春づくり想い出づくり",
+            "title_romanji": "Seishunzukuri Omoidezukuri ",
+            "aired": "1983-08-11T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1587210"
+        },
+        {
+            "mal_id": 16,
+            "url": null,
+            "title": "The Wish Fireflies of a Midsummer Night",
+            "title_japanese": "真夏の夜のお願い蛍",
+            "title_romanji": "Manatsu no Yoru no Onegai Hotaru ",
+            "aired": "1983-08-18T00:00:00+00:00",
+            "score": 2.5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1587241"
+        },
+        {
+            "mal_id": 17,
+            "url": null,
+            "title": "With or Without Siblings",
+            "title_japanese": "ひとりっ子ふたりっ子",
+            "title_romanji": "Hitorikko Futarikko ",
+            "aired": "1983-09-01T00:00:00+00:00",
+            "score": 4.33,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1587246"
+        },
+        {
+            "mal_id": 18,
+            "url": null,
+            "title": "Miracle Man, Masaki Ryuuichi!",
+            "title_japanese": "ミラクル男間崎竜一!",
+            "title_romanji": "Miracle Otoko Masaki Ryuuichi! ",
+            "aired": "1983-09-08T00:00:00+00:00",
+            "score": 4.25,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1590091"
+        },
+        {
+            "mal_id": 19,
+            "url": null,
+            "title": "Love Fortune Teller Rhapsody",
+            "title_japanese": "恋占いラプソディー",
+            "title_romanji": "Koi Uranai Rhapsody ",
+            "aired": "1983-09-15T00:00:00+00:00",
+            "score": 2.33,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1611104"
+        },
+        {
+            "mal_id": 20,
+            "url": null,
+            "title": "Melancholy Field Trip",
+            "title_japanese": "哀愁の修学旅行",
+            "title_romanji": "Aishuu no Shuugakuryokou ",
+            "aired": "1983-09-29T00:00:00+00:00",
+            "score": 3,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1611110"
+        },
+        {
+            "mal_id": 21,
+            "url": null,
+            "title": "Passing the Baton at Dusk!",
+            "title_japanese": "バトンタッチは夕暮れ時に!",
+            "title_romanji": "Baton Touch wa Yuuguredoki ni! ",
+            "aired": "1983-10-13T00:00:00+00:00",
+            "score": 3.75,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1623225"
+        },
+        {
+            "mal_id": 22,
+            "url": null,
+            "title": "What? Proposing at Five?!",
+            "title_japanese": "ヌワァンと五才で結婚宣言!?",
+            "title_romanji": "Nuwaan to Go-sai de Kekkon Sengen!? ",
+            "aired": "1983-10-27T00:00:00+00:00",
+            "score": 3.67,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1623886"
+        },
+        {
+            "mal_id": 23,
+            "url": null,
+            "title": "Two Miyukis Under One Roof",
+            "title_japanese": "ひとつ屋根の下二人のみゆき",
+            "title_romanji": "Hitotsu Yane no Shita Futari no Miyuki ",
+            "aired": "1983-11-10T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1624556"
+        },
+        {
+            "mal_id": 24,
+            "url": null,
+            "title": "Rehearsal for Love",
+            "title_japanese": "恋のリハーサル",
+            "title_romanji": "Koi no Rehearsal ",
+            "aired": "1983-11-24T00:00:00+00:00",
+            "score": 4.8,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1625021"
+        },
+        {
+            "mal_id": 25,
+            "url": null,
+            "title": "Uninvited Mother Rhapsody",
+            "title_japanese": "おしかけ母さんラプソディー",
+            "title_romanji": "Oshikake Kaa-san Rhapsody ",
+            "aired": "1983-12-08T00:00:00+00:00",
+            "score": 4.25,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1625453"
+        },
+        {
+            "mal_id": 26,
+            "url": null,
+            "title": "M. W. Are the Initials of Love?!",
+            "title_japanese": "M・Wは恋のイニシャル!?",
+            "title_romanji": "M. W. wa Koi no Initials!? ",
+            "aired": "1983-12-22T00:00:00+00:00",
+            "score": 4.25,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1626033"
+        },
+        {
+            "mal_id": 27,
+            "url": null,
+            "title": "Love Letter Proxy War!",
+            "title_japanese": "ラブレター代理戦争!",
+            "title_romanji": "Love Letter Dairi Sensou! ",
+            "aired": "1984-02-03T00:00:00+00:00",
+            "score": 3.33,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1626671"
+        },
+        {
+            "mal_id": 28,
+            "url": null,
+            "title": "Lonely Birthday",
+            "title_japanese": "ロンリー・バースデー",
+            "title_romanji": "Lonely Birthday ",
+            "aired": "1984-02-10T00:00:00+00:00",
+            "score": 4.4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1627303"
+        },
+        {
+            "mal_id": 29,
+            "url": null,
+            "title": "Stray Wolves and Golden Rabbit?!",
+            "title_japanese": "迷い狼と金色ウサギ!?",
+            "title_romanji": "Mayoi Ookami to Kiniro Usagi!? ",
+            "aired": "1984-02-17T00:00:00+00:00",
+            "score": 4.25,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1627808"
+        },
+        {
+            "mal_id": 30,
+            "url": null,
+            "title": "The Stranger in the Heavy Snowfall",
+            "title_japanese": "雪やコンコンストレンジャー",
+            "title_romanji": "Yuki ya Konkon Stranger ",
+            "aired": "1984-02-24T00:00:00+00:00",
+            "score": 4.2,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1628052"
+        },
+        {
+            "mal_id": 31,
+            "url": null,
+            "title": "Naughty Photo Contest",
+            "title_japanese": "ムフフ写真コンテスト",
+            "title_romanji": "Mufufu Shashin Contest ",
+            "aired": "1984-03-02T00:00:00+00:00",
+            "score": 3,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1628333"
+        },
+        {
+            "mal_id": 32,
+            "url": null,
+            "title": "Scoring the Boys",
+            "title_japanese": "男の点数",
+            "title_romanji": "Otoko no Tensuu ",
+            "aired": "1984-03-09T00:00:00+00:00",
+            "score": 4.5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1628600"
+        },
+        {
+            "mal_id": 33,
+            "url": null,
+            "title": "Buttinsky Muraki-kun!",
+            "title_japanese": "おじゃま虫・村木君!",
+            "title_romanji": "Ojama Mushi Muraki-kun! ",
+            "aired": "1984-03-16T00:00:00+00:00",
+            "score": 3.25,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1628894"
+        },
+        {
+            "mal_id": 34,
+            "url": null,
+            "title": "Near-Miss Third Mama",
+            "title_japanese": "すれ違いサードママ",
+            "title_romanji": "Surechigai Third Mama ",
+            "aired": "1984-03-23T00:00:00+00:00",
+            "score": 3.5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1629276"
+        },
+        {
+            "mal_id": 35,
+            "url": null,
+            "title": "Lost Copy of the Census",
+            "title_japanese": "落としちゃった戸籍抄本",
+            "title_romanji": "Otoshichatta Kosekishouhon ",
+            "aired": "1984-03-30T00:00:00+00:00",
+            "score": 4.25,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1629613"
+        },
+        {
+            "mal_id": 36,
+            "url": null,
+            "title": "Suffocating for Love",
+            "title_japanese": "恋の酸素不足",
+            "title_romanji": "Koi no Sanso Fusoku ",
+            "aired": "1984-04-13T00:00:00+00:00",
+            "score": 3.5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1629867"
+        },
+        {
+            "mal_id": 37,
+            "url": null,
+            "title": "Love, Grief... A Blue Airmail",
+            "title_japanese": "愛・哀…ブルーエアメール",
+            "title_romanji": "Ai, Ai... Blue Airmail ",
+            "aired": "1984-04-20T00:00:00+00:00",
+            "score": 4.08,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1330489"
+        }
+    ]
+}

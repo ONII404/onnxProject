@@ -1,0 +1,570 @@
+{
+    "id": 156,
+    "fetched_at": "Sun Dec 14 12:42:28 2025",
+    "metadata": {
+        "mal_id": 156,
+        "url": "https://myanimelist.net/anime/156/X",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/8/17167.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/8/17167t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/8/17167l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/8/17167.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/8/17167t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/8/17167l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": "https://www.youtube-nocookie.com/embed/nwrQmqU8IyM?enablejsapi=1&wmode=opaque&autoplay=1",
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "X"
+            },
+            {
+                "type": "Synonym",
+                "title": "X the TV Series"
+            },
+            {
+                "type": "Synonym",
+                "title": "X/1999"
+            },
+            {
+                "type": "Synonym",
+                "title": "Ekksu"
+            },
+            {
+                "type": "Synonym",
+                "title": "X (2001)"
+            },
+            {
+                "type": "Japanese",
+                "title": "X−エックス−"
+            },
+            {
+                "type": "English",
+                "title": "X"
+            },
+            {
+                "type": "Spanish",
+                "title": "X La Serie"
+            }
+        ],
+        "title": "X",
+        "title_english": "X",
+        "title_japanese": "X−エックス−",
+        "title_synonyms": [
+            "X the TV Series",
+            "X/1999",
+            "Ekksu",
+            "X (2001)"
+        ],
+        "type": "TV",
+        "source": "Manga",
+        "episodes": 24,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "2001-10-03T00:00:00+00:00",
+            "to": "2002-03-27T00:00:00+00:00",
+            "prop": {
+                "from": {
+                    "day": 3,
+                    "month": 10,
+                    "year": 2001
+                },
+                "to": {
+                    "day": 27,
+                    "month": 3,
+                    "year": 2002
+                }
+            },
+            "string": "Oct 3, 2001 to Mar 27, 2002"
+        },
+        "duration": "24 min per ep",
+        "rating": "R+ - Mild Nudity",
+        "score": 7.38,
+        "scored_by": 36652,
+        "rank": 2559,
+        "popularity": 2520,
+        "members": 88428,
+        "favorites": 779,
+        "synopsis": "In the fight between the Dragons of Heaven and the Dragons of Earth, the dream seer Princess Hinoto predicts the end of humanity. A central entity, 15-year-old Kamui Shirou, is to choose whether to ally with the Dragons of Earth and destroy civilization to protect the planet or with the Dragons of Heaven to save mankind.\n\nFollowing his mother's last wish, Kamui returns to Tokyo after six years of self-imposed exile. There, he attempts to steal the Sacred Sword from the temple protected by Kyougo Monou—the father of his childhood friends, Fuuma and Kotori. However, after Kamui's venture fails, a mysterious person manages to obtain the sword instead.\n\nBelieving Kamui to be the man in her prophecy, Hinoto sends the Dragons of Heaven after him to rally him to their cause. Although Kamui first rejects his destiny, the incessant attacks by the Dragons of Earth against those he holds dear push him to decide whether the lives of his friends should prevail over the fate of the Earth and finally pick a side.\n\n[Written by MAL Rewrite]",
+        "background": "",
+        "season": "fall",
+        "year": 2001,
+        "broadcast": {
+            "day": "Wednesdays",
+            "time": "18:30",
+            "timezone": "Asia/Tokyo",
+            "string": "Wednesdays at 18:30 (JST)"
+        },
+        "producers": [
+            {
+                "mal_id": 23,
+                "type": "anime",
+                "name": "Bandai Visual",
+                "url": "https://myanimelist.net/anime/producer/23/Bandai_Visual"
+            },
+            {
+                "mal_id": 113,
+                "type": "anime",
+                "name": "Kadokawa Shoten",
+                "url": "https://myanimelist.net/anime/producer/113/Kadokawa_Shoten"
+            },
+            {
+                "mal_id": 164,
+                "type": "anime",
+                "name": "d-rights",
+                "url": "https://myanimelist.net/anime/producer/164/d-rights"
+            },
+            {
+                "mal_id": 665,
+                "type": "anime",
+                "name": "chara-ani.com",
+                "url": "https://myanimelist.net/anime/producer/665/chara-anicom"
+            },
+            {
+                "mal_id": 3172,
+                "type": "anime",
+                "name": "Arts Pro",
+                "url": "https://myanimelist.net/anime/producer/3172/Arts_Pro"
+            }
+        ],
+        "licensors": [
+            {
+                "mal_id": 102,
+                "type": "anime",
+                "name": "Funimation",
+                "url": "https://myanimelist.net/anime/producer/102/Funimation"
+            },
+            {
+                "mal_id": 1459,
+                "type": "anime",
+                "name": "Geneon Entertainment USA",
+                "url": "https://myanimelist.net/anime/producer/1459/Geneon_Entertainment_USA"
+            }
+        ],
+        "studios": [
+            {
+                "mal_id": 11,
+                "type": "anime",
+                "name": "Madhouse",
+                "url": "https://myanimelist.net/anime/producer/11/Madhouse"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 1,
+                "type": "anime",
+                "name": "Action",
+                "url": "https://myanimelist.net/anime/genre/1/Action"
+            },
+            {
+                "mal_id": 8,
+                "type": "anime",
+                "name": "Drama",
+                "url": "https://myanimelist.net/anime/genre/8/Drama"
+            },
+            {
+                "mal_id": 10,
+                "type": "anime",
+                "name": "Fantasy",
+                "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+            },
+            {
+                "mal_id": 7,
+                "type": "anime",
+                "name": "Mystery",
+                "url": "https://myanimelist.net/anime/genre/7/Mystery"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [
+            {
+                "mal_id": 31,
+                "type": "anime",
+                "name": "Super Power",
+                "url": "https://myanimelist.net/anime/genre/31/Super_Power"
+            }
+        ],
+        "demographics": [
+            {
+                "mal_id": 25,
+                "type": "anime",
+                "name": "Shoujo",
+                "url": "https://myanimelist.net/anime/genre/25/Shoujo"
+            }
+        ],
+        "relations": [
+            {
+                "relation": "Prequel",
+                "entry": [
+                    {
+                        "mal_id": 595,
+                        "type": "anime",
+                        "name": "X OVA",
+                        "url": "https://myanimelist.net/anime/595/X_OVA"
+                    }
+                ]
+            },
+            {
+                "relation": "Adaptation",
+                "entry": [
+                    {
+                        "mal_id": 27,
+                        "type": "manga",
+                        "name": "X",
+                        "url": "https://myanimelist.net/manga/27/X"
+                    }
+                ]
+            },
+            {
+                "relation": "Alternative Version",
+                "entry": [
+                    {
+                        "mal_id": 155,
+                        "type": "anime",
+                        "name": "X/1999",
+                        "url": "https://myanimelist.net/anime/155/X_1999"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [
+                "\"eX Dream\" by Myuji"
+            ],
+            "endings": [
+                "\"Secret Sorrow\" by Kohei Koizumi"
+            ]
+        },
+        "external": [
+            {
+                "name": "Official Site",
+                "url": "http://www.madhouse.co.jp/works/2003-2002/works_tv_x.html"
+            },
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=30"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=464"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/X_(manga)"
+            }
+        ],
+        "streaming": [
+            {
+                "name": "Crunchyroll",
+                "url": "http://www.crunchyroll.com/series-283233"
+            }
+        ]
+    },
+    "episodes": [
+        {
+            "mal_id": 1,
+            "url": "https://myanimelist.net/anime/156/X/episode/1",
+            "title": "A Reunion",
+            "title_japanese": "再会",
+            "title_romanji": "Saikai ",
+            "aired": "2001-10-03T00:00:00+00:00",
+            "score": 4.07,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=82946"
+        },
+        {
+            "mal_id": 2,
+            "url": "https://myanimelist.net/anime/156/X/episode/2",
+            "title": "A Nightmare",
+            "title_japanese": "夢見",
+            "title_romanji": "Yumemi ",
+            "aired": "2001-10-10T00:00:00+00:00",
+            "score": 4.27,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=272895"
+        },
+        {
+            "mal_id": 3,
+            "url": "https://myanimelist.net/anime/156/X/episode/3",
+            "title": "A Pledge",
+            "title_japanese": "約束",
+            "title_romanji": "Yakusoku ",
+            "aired": "2001-10-17T00:00:00+00:00",
+            "score": 4.04,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1279913"
+        },
+        {
+            "mal_id": 4,
+            "url": "https://myanimelist.net/anime/156/X/episode/4",
+            "title": "A Sacrifice",
+            "title_japanese": "影贄",
+            "title_romanji": "Kage ",
+            "aired": "2001-10-24T00:00:00+00:00",
+            "score": 4.13,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1478255"
+        },
+        {
+            "mal_id": 5,
+            "url": "https://myanimelist.net/anime/156/X/episode/5",
+            "title": "A Destiny",
+            "title_japanese": "宿命",
+            "title_romanji": "Shukumei ",
+            "aired": "2001-10-31T00:00:00+00:00",
+            "score": 4.14,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=273403"
+        },
+        {
+            "mal_id": 6,
+            "url": "https://myanimelist.net/anime/156/X/episode/6",
+            "title": "Kouya",
+            "title_japanese": "高野",
+            "title_romanji": "Kouya ",
+            "aired": "2001-11-07T00:00:00+00:00",
+            "score": 4.41,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=364029"
+        },
+        {
+            "mal_id": 7,
+            "url": "https://myanimelist.net/anime/156/X/episode/7",
+            "title": "Civer",
+            "title_japanese": "電脳",
+            "title_romanji": "Dennou ",
+            "aired": "2001-11-14T00:00:00+00:00",
+            "score": 3.88,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=274055"
+        },
+        {
+            "mal_id": 8,
+            "url": "https://myanimelist.net/anime/156/X/episode/8",
+            "title": "Gemini",
+            "title_japanese": "添星",
+            "title_romanji": "Gemini ",
+            "aired": "2001-11-21T00:00:00+00:00",
+            "score": 4.23,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=274449"
+        },
+        {
+            "mal_id": 9,
+            "url": "https://myanimelist.net/anime/156/X/episode/9",
+            "title": "Onmyou",
+            "title_japanese": "陰陽",
+            "title_romanji": "Onmyou ",
+            "aired": "2001-11-28T00:00:00+00:00",
+            "score": 4.13,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=274649"
+        },
+        {
+            "mal_id": 10,
+            "url": "https://myanimelist.net/anime/156/X/episode/10",
+            "title": "Inuki",
+            "title_japanese": "犬鬼",
+            "title_romanji": "Inuki ",
+            "aired": "2001-12-05T00:00:00+00:00",
+            "score": 3.91,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1530736"
+        },
+        {
+            "mal_id": 11,
+            "url": "https://myanimelist.net/anime/156/X/episode/11",
+            "title": "Border",
+            "title_japanese": "境界",
+            "title_romanji": "Kekkai ",
+            "aired": "2001-12-12T00:00:00+00:00",
+            "score": 4.21,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1530753"
+        },
+        {
+            "mal_id": 12,
+            "url": "https://myanimelist.net/anime/156/X/episode/12",
+            "title": "Alternative",
+            "title_japanese": "選択",
+            "title_romanji": "Sentaku ",
+            "aired": "2001-12-19T00:00:00+00:00",
+            "score": 4.28,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=411213"
+        },
+        {
+            "mal_id": 13,
+            "url": "https://myanimelist.net/anime/156/X/episode/13",
+            "title": "Return",
+            "title_japanese": "覚醒",
+            "title_romanji": "Kakusei ",
+            "aired": "2002-01-09T00:00:00+00:00",
+            "score": 4.24,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=411215"
+        },
+        {
+            "mal_id": 14,
+            "url": "https://myanimelist.net/anime/156/X/episode/14",
+            "title": "Gathering",
+            "title_japanese": "集結",
+            "title_romanji": "Shuuketsu ",
+            "aired": "2002-01-16T00:00:00+00:00",
+            "score": 4.33,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1532251"
+        },
+        {
+            "mal_id": 15,
+            "url": "https://myanimelist.net/anime/156/X/episode/15",
+            "title": "Guardian",
+            "title_japanese": "守護",
+            "title_romanji": "Shugo ",
+            "aired": "2002-01-23T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=528246"
+        },
+        {
+            "mal_id": 16,
+            "url": "https://myanimelist.net/anime/156/X/episode/16",
+            "title": "Slaughter",
+            "title_japanese": "虚無",
+            "title_romanji": "Kyomu ",
+            "aired": "2002-01-30T00:00:00+00:00",
+            "score": 4.43,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=96907"
+        },
+        {
+            "mal_id": 17,
+            "url": "https://myanimelist.net/anime/156/X/episode/17",
+            "title": "Wish",
+            "title_japanese": "苦悶",
+            "title_romanji": "Kumon ",
+            "aired": "2002-02-06T00:00:00+00:00",
+            "score": 2.87,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1532692"
+        },
+        {
+            "mal_id": 18,
+            "url": "https://myanimelist.net/anime/156/X/episode/18",
+            "title": "Newborn",
+            "title_japanese": "新生",
+            "title_romanji": "Shinsei ",
+            "aired": "2002-02-13T00:00:00+00:00",
+            "score": 4.12,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=385243"
+        },
+        {
+            "mal_id": 19,
+            "url": "https://myanimelist.net/anime/156/X/episode/19",
+            "title": "Inferno",
+            "title_japanese": "煉獄",
+            "title_romanji": "Rengoku ",
+            "aired": "2002-02-20T00:00:00+00:00",
+            "score": 4.35,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1532977"
+        },
+        {
+            "mal_id": 20,
+            "url": "https://myanimelist.net/anime/156/X/episode/20",
+            "title": "Ripple",
+            "title_japanese": "恋歌",
+            "title_romanji": "Koiuta ",
+            "aired": "2002-02-27T00:00:00+00:00",
+            "score": 4.35,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=390387"
+        },
+        {
+            "mal_id": 21,
+            "url": "https://myanimelist.net/anime/156/X/episode/21",
+            "title": "Current",
+            "title_japanese": "流浪",
+            "title_romanji": "Rurou ",
+            "aired": "2002-03-06T00:00:00+00:00",
+            "score": 4.23,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=390731"
+        },
+        {
+            "mal_id": 22,
+            "url": "https://myanimelist.net/anime/156/X/episode/22",
+            "title": "Betrayal",
+            "title_japanese": "背信",
+            "title_romanji": "Haishin ",
+            "aired": "2002-03-13T00:00:00+00:00",
+            "score": 4.29,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=391171"
+        },
+        {
+            "mal_id": 23,
+            "url": "https://myanimelist.net/anime/156/X/episode/23",
+            "title": "Earth",
+            "title_japanese": "天地",
+            "title_romanji": "Daichi ",
+            "aired": "2002-03-20T00:00:00+00:00",
+            "score": 4.27,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=391589"
+        },
+        {
+            "mal_id": 24,
+            "url": "https://myanimelist.net/anime/156/X/episode/24",
+            "title": "Legend",
+            "title_japanese": "伝説",
+            "title_romanji": "Densetsu ",
+            "aired": "2002-03-27T00:00:00+00:00",
+            "score": 3.55,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=82941"
+        }
+    ]
+}

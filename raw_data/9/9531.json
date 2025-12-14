@@ -1,0 +1,160 @@
+{
+    "id": 9531,
+    "fetched_at": "Sun Dec 14 09:27:22 2025",
+    "metadata": {
+        "mal_id": 9531,
+        "url": "https://myanimelist.net/anime/9531/Tezuka_Osamu_Monogatari__Boku_wa_Son_Gokuu",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1433/147708.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1433/147708t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1433/147708l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1433/147708.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1433/147708t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1433/147708l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Tezuka Osamu Monogatari: Boku wa Son Gokuu"
+            },
+            {
+                "type": "Synonym",
+                "title": "The Tale of Osamu Tezuka: I'm Son Goku"
+            },
+            {
+                "type": "Japanese",
+                "title": "手塚治虫物語 ぼくは孫悟空"
+            }
+        ],
+        "title": "Tezuka Osamu Monogatari: Boku wa Son Gokuu",
+        "title_english": null,
+        "title_japanese": "手塚治虫物語 ぼくは孫悟空",
+        "title_synonyms": [
+            "The Tale of Osamu Tezuka: I'm Son Goku"
+        ],
+        "type": "TV Special",
+        "source": "Manga",
+        "episodes": 1,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "1989-08-27T00:00:00+00:00",
+            "to": null,
+            "prop": {
+                "from": {
+                    "day": 27,
+                    "month": 8,
+                    "year": 1989
+                },
+                "to": {
+                    "day": null,
+                    "month": null,
+                    "year": null
+                }
+            },
+            "string": "Aug 27, 1989"
+        },
+        "duration": "1 hr 9 min",
+        "rating": "G - All Ages",
+        "score": 6.25,
+        "scored_by": 704,
+        "rank": 8863,
+        "popularity": 13526,
+        "members": 1433,
+        "favorites": 2,
+        "synopsis": "A semi autobiography of Tezuka Osamu. \n\nSon-Gokuu is a monkey who was born from a stone and is endowed with magical powers. He gets carried away and goes on a rampage until at last Buddha confines him within Mt. Gogyo. Saved by Sanzohoshi, Son-Gokuu accompanies him on a journey to India. But on their way, monsters lie in wait for them.\n\n(Source: BakaBT)",
+        "background": "",
+        "season": null,
+        "year": null,
+        "broadcast": {
+            "day": null,
+            "time": null,
+            "timezone": null,
+            "string": null
+        },
+        "producers": [
+            {
+                "mal_id": 200,
+                "type": "anime",
+                "name": "Tezuka Productions",
+                "url": "https://myanimelist.net/anime/producer/200/Tezuka_Productions"
+            },
+            {
+                "mal_id": 3172,
+                "type": "anime",
+                "name": "Arts Pro",
+                "url": "https://myanimelist.net/anime/producer/3172/Arts_Pro"
+            }
+        ],
+        "licensors": [],
+        "studios": [],
+        "genres": [
+            {
+                "mal_id": 2,
+                "type": "anime",
+                "name": "Adventure",
+                "url": "https://myanimelist.net/anime/genre/2/Adventure"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [],
+        "demographics": [],
+        "relations": [
+            {
+                "relation": "Adaptation",
+                "entry": [
+                    {
+                        "mal_id": 19507,
+                        "type": "manga",
+                        "name": "Boku no Son Goku",
+                        "url": "https://myanimelist.net/manga/19507/Boku_no_Son_Goku"
+                    }
+                ]
+            },
+            {
+                "relation": "Alternative Version",
+                "entry": [
+                    {
+                        "mal_id": 20189,
+                        "type": "anime",
+                        "name": "Boku no Son Gokuu",
+                        "url": "https://myanimelist.net/anime/20189/Boku_no_Son_Gokuu"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [],
+            "endings": []
+        },
+        "external": [
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=6233"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=3322"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": []
+}

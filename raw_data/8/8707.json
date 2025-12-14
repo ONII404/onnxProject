@@ -1,0 +1,159 @@
+{
+    "id": 8707,
+    "fetched_at": "Sun Dec 14 09:21:03 2025",
+    "metadata": {
+        "mal_id": 8707,
+        "url": "https://myanimelist.net/anime/8707/Wakusei_Robo_Danguard_Ace_tai_Konchuu_Robot_Gundan",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/13/24010.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/13/24010t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/13/24010l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/13/24010.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/13/24010t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/13/24010l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Wakusei Robo Danguard Ace tai Konchuu Robot Gundan"
+            },
+            {
+                "type": "Synonym",
+                "title": "Dangard Ace tai Konchuu Robot Gundan"
+            },
+            {
+                "type": "Synonym",
+                "title": "Planetary Robot Danguard Ace vs. the Army of Insect Robots"
+            },
+            {
+                "type": "Japanese",
+                "title": "惑星ロボ ダンガードA[エース]対昆虫ロボット軍団"
+            }
+        ],
+        "title": "Wakusei Robo Danguard Ace tai Konchuu Robot Gundan",
+        "title_english": null,
+        "title_japanese": "惑星ロボ ダンガードA[エース]対昆虫ロボット軍団",
+        "title_synonyms": [
+            "Dangard Ace tai Konchuu Robot Gundan",
+            "Planetary Robot Danguard Ace vs. the Army of Insect Robots"
+        ],
+        "type": "Movie",
+        "source": "Unknown",
+        "episodes": 1,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "1977-07-17T00:00:00+00:00",
+            "to": null,
+            "prop": {
+                "from": {
+                    "day": 17,
+                    "month": 7,
+                    "year": 1977
+                },
+                "to": {
+                    "day": null,
+                    "month": null,
+                    "year": null
+                }
+            },
+            "string": "Jul 17, 1977"
+        },
+        "duration": "25 min",
+        "rating": "PG-13 - Teens 13 or older",
+        "score": 5.52,
+        "scored_by": 572,
+        "rank": 12595,
+        "popularity": 13956,
+        "members": 1282,
+        "favorites": 0,
+        "synopsis": "A new insect enemy that feeds off of the energy of all living things has set its eyes on Earth.\n\n(Source: BakaBT)",
+        "background": "",
+        "season": null,
+        "year": null,
+        "broadcast": {
+            "day": null,
+            "time": null,
+            "timezone": null,
+            "string": null
+        },
+        "producers": [],
+        "licensors": [],
+        "studios": [
+            {
+                "mal_id": 18,
+                "type": "anime",
+                "name": "Toei Animation",
+                "url": "https://myanimelist.net/anime/producer/18/Toei_Animation"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 24,
+                "type": "anime",
+                "name": "Sci-Fi",
+                "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [
+            {
+                "mal_id": 18,
+                "type": "anime",
+                "name": "Mecha",
+                "url": "https://myanimelist.net/anime/genre/18/Mecha"
+            }
+        ],
+        "demographics": [],
+        "relations": [
+            {
+                "relation": "Prequel",
+                "entry": [
+                    {
+                        "mal_id": 1986,
+                        "type": "anime",
+                        "name": "Wakusei Robo Danguard Ace",
+                        "url": "https://myanimelist.net/anime/1986/Wakusei_Robo_Danguard_Ace"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [],
+            "endings": []
+        },
+        "external": [
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=1918"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=3618"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "http://ja.wikipedia.org/wiki/惑星ロボ_ダンガードA#.E5.8A.87.E5.A0.B4.E7.89.88"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": []
+}

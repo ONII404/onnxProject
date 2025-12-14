@@ -1,0 +1,148 @@
+{
+    "id": 6993,
+    "fetched_at": "Sun Dec 14 09:05:00 2025",
+    "metadata": {
+        "mal_id": 6993,
+        "url": "https://myanimelist.net/anime/6993/Koneko_no_Rakugaki",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1937/121362.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1937/121362t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1937/121362l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1937/121362.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1937/121362t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1937/121362l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Koneko no Rakugaki"
+            },
+            {
+                "type": "Synonym",
+                "title": "Kitten's Scribbling"
+            },
+            {
+                "type": "Synonym",
+                "title": "Kitty's Graffiti"
+            },
+            {
+                "type": "Japanese",
+                "title": "こねこのらくがき"
+            }
+        ],
+        "title": "Koneko no Rakugaki",
+        "title_english": null,
+        "title_japanese": "こねこのらくがき",
+        "title_synonyms": [
+            "Kitten's Scribbling",
+            "Kitty's Graffiti"
+        ],
+        "type": "Movie",
+        "source": "Original",
+        "episodes": 1,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "1957-05-13T00:00:00+00:00",
+            "to": null,
+            "prop": {
+                "from": {
+                    "day": 13,
+                    "month": 5,
+                    "year": 1957
+                },
+                "to": {
+                    "day": null,
+                    "month": null,
+                    "year": null
+                }
+            },
+            "string": "May 13, 1957"
+        },
+        "duration": "13 min",
+        "rating": "G - All Ages",
+        "score": 5.81,
+        "scored_by": 1280,
+        "rank": 11341,
+        "popularity": 11583,
+        "members": 2547,
+        "favorites": 2,
+        "synopsis": "A young cat is enjoying drawing pictures on a wall. However, when his pencil is stolen, he has no choice but to enter the world of his drawings in order to get it back.\n\n[Written by MAL Rewrite]",
+        "background": "",
+        "season": null,
+        "year": null,
+        "broadcast": {
+            "day": null,
+            "time": null,
+            "timezone": null,
+            "string": null
+        },
+        "producers": [],
+        "licensors": [],
+        "studios": [
+            {
+                "mal_id": 18,
+                "type": "anime",
+                "name": "Toei Animation",
+                "url": "https://myanimelist.net/anime/producer/18/Toei_Animation"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 4,
+                "type": "anime",
+                "name": "Comedy",
+                "url": "https://myanimelist.net/anime/genre/4/Comedy"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [],
+        "demographics": [],
+        "relations": [
+            {
+                "relation": "Sequel",
+                "entry": [
+                    {
+                        "mal_id": 6994,
+                        "type": "anime",
+                        "name": "Koneko no Studio",
+                        "url": "https://myanimelist.net/anime/6994/Koneko_no_Studio"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [],
+            "endings": []
+        },
+        "external": [
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=6768"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=4912"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": []
+}

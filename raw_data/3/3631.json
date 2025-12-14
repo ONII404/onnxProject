@@ -1,0 +1,625 @@
+{
+    "id": 3631,
+    "fetched_at": "Sun Dec 14 08:26:47 2025",
+    "metadata": {
+        "mal_id": 3631,
+        "url": "https://myanimelist.net/anime/3631/Aoi_Blink",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1272/147717.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1272/147717t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1272/147717l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1272/147717.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1272/147717t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1272/147717l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Aoi Blink"
+            },
+            {
+                "type": "Japanese",
+                "title": "青いブリンク"
+            },
+            {
+                "type": "English",
+                "title": "Blue Blink"
+            }
+        ],
+        "title": "Aoi Blink",
+        "title_english": "Blue Blink",
+        "title_japanese": "青いブリンク",
+        "title_synonyms": [],
+        "type": "TV",
+        "source": "Other",
+        "episodes": 39,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "1989-04-07T00:00:00+00:00",
+            "to": "1990-03-16T00:00:00+00:00",
+            "prop": {
+                "from": {
+                    "day": 7,
+                    "month": 4,
+                    "year": 1989
+                },
+                "to": {
+                    "day": 16,
+                    "month": 3,
+                    "year": 1990
+                }
+            },
+            "string": "Apr 7, 1989 to Mar 16, 1990"
+        },
+        "duration": "25 min per ep",
+        "rating": "G - All Ages",
+        "score": 6.8,
+        "scored_by": 1190,
+        "rank": 5505,
+        "popularity": 11352,
+        "members": 2722,
+        "favorites": 9,
+        "synopsis": "Story of a young boy named Kakeru and his adventures together with a magical blue pony named Blink.",
+        "background": "",
+        "season": "spring",
+        "year": 1989,
+        "broadcast": {
+            "day": "Fridays",
+            "time": "19:30",
+            "timezone": "Asia/Tokyo",
+            "string": "Fridays at 19:30 (JST)"
+        },
+        "producers": [
+            {
+                "mal_id": 111,
+                "type": "anime",
+                "name": "NHK",
+                "url": "https://myanimelist.net/anime/producer/111/NHK"
+            },
+            {
+                "mal_id": 1797,
+                "type": "anime",
+                "name": "NHK Enterprises",
+                "url": "https://myanimelist.net/anime/producer/1797/NHK_Enterprises"
+            }
+        ],
+        "licensors": [],
+        "studios": [
+            {
+                "mal_id": 200,
+                "type": "anime",
+                "name": "Tezuka Productions",
+                "url": "https://myanimelist.net/anime/producer/200/Tezuka_Productions"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 2,
+                "type": "anime",
+                "name": "Adventure",
+                "url": "https://myanimelist.net/anime/genre/2/Adventure"
+            },
+            {
+                "mal_id": 10,
+                "type": "anime",
+                "name": "Fantasy",
+                "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [],
+        "demographics": [],
+        "relations": [],
+        "theme": {
+            "openings": [
+                "\"Hitomi no Naka no Mirai (瞳のなかの未来)\" by Youko Minamino"
+            ],
+            "endings": [
+                "\"Makenaide Yuuki (負けないで勇気)\" by Shinobu Nakayama"
+            ]
+        },
+        "external": [
+            {
+                "name": "Official Site",
+                "url": "http://ja.tezuka.co.jp/anime/sakuhin/ts/ts020.html"
+            },
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=2559"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=1159"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": [
+        {
+            "mal_id": 1,
+            "url": null,
+            "title": "A Departure Toward the Faraway Future",
+            "title_japanese": "たびだち)",
+            "title_romanji": "Harukanaru Shuppatsu (はるかなる出発",
+            "aired": "1989-04-07T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 2,
+            "url": null,
+            "title": "The Secret of \"Gray Farm\"",
+            "title_japanese": "グレイ牧場の秘密",
+            "title_romanji": "Gray Bokujou no Himitsu ",
+            "aired": "1989-04-14T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 3,
+            "url": null,
+            "title": "The Hostage in Rose Mansion",
+            "title_japanese": "ローズ館の人質",
+            "title_romanji": "Rose Yakata no Hitojichi ",
+            "aired": "1989-04-21T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 4,
+            "url": null,
+            "title": "The Tilted Ivory Castle",
+            "title_japanese": "傾いたアイボリー城",
+            "title_romanji": "Katamuita Ivory-jou ",
+            "aired": "1989-04-28T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 5,
+            "url": null,
+            "title": "Monster Dogizura in Yellow Fortress",
+            "title_japanese": "イエロー砦の妖怪ドギツラ",
+            "title_romanji": "Yellow Toride no Youkai Dogitra ",
+            "aired": "1989-05-05T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 6,
+            "url": null,
+            "title": "Strange Fruit in Blue Town",
+            "title_japanese": "ブルータウンの不思議な果実",
+            "title_romanji": "Blue Town no Fushigi na Kajitsu ",
+            "aired": "1989-05-19T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 7,
+            "url": null,
+            "title": "Crash! Moss Green Car Race",
+            "title_japanese": "激突!モスグリーン・カーレース",
+            "title_romanji": "Gekitotsu! Moss Green Car Race ",
+            "aired": "1989-05-26T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 8,
+            "url": null,
+            "title": "The Tempting Island: Cobalt",
+            "title_japanese": "誘惑の島・コバルト",
+            "title_romanji": "Yuuwaku no Shima: Cobalt ",
+            "aired": "1989-06-09T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 9,
+            "url": null,
+            "title": "A Country of Fighters: Red Ball",
+            "title_japanese": "戦う国・レッドバル",
+            "title_romanji": "Tatakau Kuni: Red Baal ",
+            "aired": "1989-06-16T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 10,
+            "url": null,
+            "title": "The Mysterious Forest Sepia",
+            "title_japanese": "不思議な森・セピア",
+            "title_romanji": "Fushigi na Mori Sepia ",
+            "aired": "1989-06-23T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 11,
+            "url": null,
+            "title": "The City of the Three Primary Colors: Terrace",
+            "title_japanese": "三原色の町・テラス",
+            "title_romanji": "Sangenshoku no Machi: Terrace ",
+            "aired": "1989-06-30T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 12,
+            "url": null,
+            "title": "Heart Stealers of Purple Town",
+            "title_japanese": "パープルタウンのハート泥棒",
+            "title_romanji": "Purple Town no Heart Dorobou ",
+            "aired": "1989-07-07T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 13,
+            "url": null,
+            "title": "The Fortress Train in Brown Town",
+            "title_japanese": "ブラウンタウンの要塞列車",
+            "title_romanji": "Brown Town no Yousai Ressha ",
+            "aired": "1989-07-14T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 14,
+            "url": null,
+            "title": "Children's Town, Rainbow Town",
+            "title_japanese": "子供だけの町 レインボータウン",
+            "title_romanji": "Kodomo dake no Machi: Rainbow Town ",
+            "aired": "1989-07-21T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 15,
+            "url": null,
+            "title": "The Light Ark of Gold Valley",
+            "title_japanese": "ゴールドバレーの光の箱船",
+            "title_romanji": "Gold Valley no Hikari no Hakobune ",
+            "aired": "1989-07-28T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 16,
+            "url": null,
+            "title": "The Town of Fortune-Telling: Mint Green",
+            "title_japanese": "占いの町・ミントグリーン",
+            "title_romanji": "Uranai no Machi: Mint Green ",
+            "aired": "1989-08-09T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 17,
+            "url": null,
+            "title": "Milky White: The Secret of the Temple in the Air",
+            "title_japanese": "ミルキーホワイト・空中神殿の秘密",
+            "title_romanji": "Milky White: Kuuchuu Shinden no Himitsu ",
+            "aired": "1989-08-25T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 18,
+            "url": null,
+            "title": "Will It Bloom?: The Flower of Dark in Emerald Forest",
+            "title_japanese": "咲くか!?エメラルド森の闇の花",
+            "title_romanji": "Saku ka!? Emerald Mori no Yami no Hana ",
+            "aired": "1989-09-01T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 19,
+            "url": null,
+            "title": "To The Dark River! The Mysterious Ultra-Marine Plain!!",
+            "title_japanese": "闇の川へ! 不思議なウルトラマリンの草原!!",
+            "title_romanji": "Yami no Kawa e! Fushigi na Ultramarine no Sougen!! ",
+            "aired": "1989-09-08T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 20,
+            "url": null,
+            "title": "Animal Paradise: Harpy Green",
+            "title_japanese": "動物王国・ハービーグリーン",
+            "title_romanji": "Doubutsu Oukoku: Harpy Green ",
+            "aired": "1989-09-15T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 21,
+            "url": null,
+            "title": "Yellow Oaker: The Town With No Greenery or Flowers",
+            "title_japanese": "イエローオーカー・緑と花の消えた町",
+            "title_romanji": "Yellow Oaker: Midori no Hana no Kieta Machi ",
+            "aired": "1989-09-23T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 22,
+            "url": null,
+            "title": "The Plane of Love! Fly in the Persian Blue!!",
+            "title_japanese": "愛の飛行機! プルシャンブルーの空を飛べ!!",
+            "title_romanji": "Ai no Hikouki! Prussian Blue no Sora wo Tobe!! ",
+            "aired": "1989-10-06T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 23,
+            "url": null,
+            "title": "The Legend of Davies Gray! Blink Turns into a Fossil!!",
+            "title_japanese": "ディビーズグレイの伝説! ブリンクが化石になった!!",
+            "title_romanji": "Davies Gray no Densetsu! Blink ga Kaseki ni Natta!! ",
+            "aired": "1989-10-13T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 24,
+            "url": null,
+            "title": "Submarine City: The Mermaid Princess of Pearl Muu",
+            "title_japanese": "海底都市 パールムーの人魚姫",
+            "title_romanji": "Kaitei Toshi: Pearl Muu no Ningyo Hime ",
+            "aired": "1989-10-20T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 25,
+            "url": null,
+            "title": "Blink Disappears in Opera Town",
+            "title_japanese": "オペラタウンに消えたブリンク",
+            "title_romanji": "Opera Town ni Kieta Blink ",
+            "aired": "1989-10-27T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 26,
+            "url": null,
+            "title": "Revive! The Hotaru Butterflies of Scarlet River",
+            "title_japanese": "よみがえれ! スカーレット川のホタル蝶",
+            "title_romanji": "Yomigaere! Scarlet-gawa no Hotaru Chou ",
+            "aired": "1989-11-03T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 27,
+            "url": null,
+            "title": "Mystery! The Castle of Adventures, Indigo",
+            "title_japanese": "不思議!冒険の城インジゴ",
+            "title_romanji": "Fushigi! Bouken no Shiro Indigo ",
+            "aired": "1989-11-10T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 28,
+            "url": null,
+            "title": "Love Again! Fierce Fight in the Wine Red Sea",
+            "title_japanese": "愛よ再び! ワインレッド海の死闘",
+            "title_romanji": "Ai yo Futatabi! Wine Red-kai no Shitou ",
+            "aired": "1989-11-17T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 29,
+            "url": null,
+            "title": "Enemy or Friend? The Detective of Orange Stone",
+            "title_japanese": "敵か味方か!? オレンジストーンの名探偵",
+            "title_romanji": "Teki ka Mikata ka!? Orange Stone no Meitantei ",
+            "aired": "1989-12-01T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 30,
+            "url": null,
+            "title": "Find the Key of Truth! The Remains of Dark Purple Lake",
+            "title_japanese": "さがせ真実の鍵! ダークパープル湖の遺跡",
+            "title_romanji": "Sagase Shinjitsu no Kagi! Dark Purple-ko no Iseki ",
+            "aired": "1989-12-08T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 31,
+            "url": null,
+            "title": "Gold Amber Valley",
+            "title_japanese": "黄金のゴールドアンバー谷",
+            "title_romanji": "Ougon no Gold Amber-dani ",
+            "aired": "1989-12-15T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 32,
+            "url": null,
+            "title": "The Upside Down City, Sky Blue",
+            "title_japanese": "さかさまの町スカイブルー",
+            "title_romanji": "Sakasama no Machi Sky Blue ",
+            "aired": "1990-01-19T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 33,
+            "url": null,
+            "title": "Meeting Again! Mother and Child in the Dark Jail",
+            "title_japanese": "再会!闇の牢の母と子",
+            "title_romanji": "Saikai! Yami no Rou no Haha to Ko ",
+            "aired": "1990-02-02T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 34,
+            "url": null,
+            "title": "Lonely Kakeru! The Nightmare of the Dark Sea!!",
+            "title_japanese": "カケルひとりぼっち! 悪夢と闇の海!!",
+            "title_romanji": "Kakeru Hitoribocchi! Akumu to Yami no Umi!! ",
+            "aired": "1990-02-09T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 35,
+            "url": null,
+            "title": "The Strongest Soldier: Black Warrior",
+            "title_japanese": "最強の戦士・黒い武者",
+            "title_romanji": "Saikyou no Senshi: Kuroi Musha ",
+            "aired": "1990-02-16T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 36,
+            "url": null,
+            "title": "To the Dark Castle! Face Up with Courage",
+            "title_japanese": "闇の城へ! 勇気を持って立ち向かえ",
+            "title_romanji": "Yami no Shiro e! Yuuki wo Motte Tachimukae ",
+            "aired": "1990-02-23T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 37,
+            "url": null,
+            "title": "Prince Horo: The Bronze Trap",
+            "title_japanese": "ホロ王子・ブロンズのワナ",
+            "title_romanji": "Horo Ouji: Bronze no Wana ",
+            "aired": "1990-03-02T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 38,
+            "url": null,
+            "title": "Gross Castle in Light and Darkness",
+            "title_japanese": "光と闇のグロス城",
+            "title_romanji": "Hikari to Yami no Gross-jou ",
+            "aired": "1990-03-09T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 39,
+            "url": null,
+            "title": "Goodbye to the Endless Journey and Blink",
+            "title_japanese": "果てしない旅 さようならブリンク",
+            "title_romanji": "Hateshinai Tabi Sayounara Blink ",
+            "aired": "1990-03-16T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        }
+    ]
+}

@@ -1,0 +1,138 @@
+{
+    "id": 3799,
+    "fetched_at": "Sun Dec 14 08:28:55 2025",
+    "metadata": {
+        "mal_id": 3799,
+        "url": "https://myanimelist.net/anime/3799/Speed",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/11/6757.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/11/6757t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/11/6757l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/11/6757.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/11/6757t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/11/6757l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Speed"
+            },
+            {
+                "type": "Synonym",
+                "title": "Kousoku Shakai to Ningen"
+            },
+            {
+                "type": "Synonym",
+                "title": "Man and a High Speed Society"
+            },
+            {
+                "type": "Japanese",
+                "title": "スピード"
+            }
+        ],
+        "title": "Speed",
+        "title_english": null,
+        "title_japanese": "スピード",
+        "title_synonyms": [
+            "Kousoku Shakai to Ningen",
+            "Man and a High Speed Society"
+        ],
+        "type": "Movie",
+        "source": "Unknown",
+        "episodes": 1,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "1980-01-01T00:00:00+00:00",
+            "to": null,
+            "prop": {
+                "from": {
+                    "day": 1,
+                    "month": 1,
+                    "year": 1980
+                },
+                "to": {
+                    "day": null,
+                    "month": null,
+                    "year": null
+                }
+            },
+            "string": "Jan 1, 1980"
+        },
+        "duration": "5 min",
+        "rating": "G - All Ages",
+        "score": 5.01,
+        "scored_by": 790,
+        "rank": 13811,
+        "popularity": 13174,
+        "members": 1584,
+        "favorites": 0,
+        "synopsis": "Short film by Furukawa Taku chronicalling human progress, or lack of it.",
+        "background": "Winner of the 1980 Oofuji Noburou Award.",
+        "season": null,
+        "year": null,
+        "broadcast": {
+            "day": null,
+            "time": null,
+            "timezone": null,
+            "string": null
+        },
+        "producers": [],
+        "licensors": [],
+        "studios": [
+            {
+                "mal_id": 2214,
+                "type": "anime",
+                "name": "Takun Manga Box",
+                "url": "https://myanimelist.net/anime/producer/2214/Takun_Manga_Box"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 46,
+                "type": "anime",
+                "name": "Award Winning",
+                "url": "https://myanimelist.net/anime/genre/46/Award_Winning"
+            },
+            {
+                "mal_id": 4,
+                "type": "anime",
+                "name": "Comedy",
+                "url": "https://myanimelist.net/anime/genre/4/Comedy"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [],
+        "demographics": [],
+        "relations": [],
+        "theme": {
+            "openings": [],
+            "endings": []
+        },
+        "external": [
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=4480"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": []
+}

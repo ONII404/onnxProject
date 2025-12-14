@@ -1,0 +1,170 @@
+{
+    "id": 21493,
+    "fetched_at": "Sun Dec 14 10:06:30 2025",
+    "metadata": {
+        "mal_id": 21493,
+        "url": "https://myanimelist.net/anime/21493/Ninja_Hattori-kun__Nin_Nin_Ninpo_Enikki_no_Maki",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1413/148577.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1413/148577t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1413/148577l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1413/148577.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1413/148577t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1413/148577l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Ninja Hattori-kun: Nin Nin Ninpo Enikki no Maki"
+            },
+            {
+                "type": "Japanese",
+                "title": "忍者ハットリくん ニンニン忍法絵日記の巻"
+            }
+        ],
+        "title": "Ninja Hattori-kun: Nin Nin Ninpo Enikki no Maki",
+        "title_english": null,
+        "title_japanese": "忍者ハットリくん ニンニン忍法絵日記の巻",
+        "title_synonyms": [],
+        "type": "Movie",
+        "source": "Manga",
+        "episodes": 1,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "1982-03-13T00:00:00+00:00",
+            "to": null,
+            "prop": {
+                "from": {
+                    "day": 13,
+                    "month": 3,
+                    "year": 1982
+                },
+                "to": {
+                    "day": null,
+                    "month": null,
+                    "year": null
+                }
+            },
+            "string": "Mar 13, 1982"
+        },
+        "duration": "31 min",
+        "rating": "G - All Ages",
+        "score": 6.12,
+        "scored_by": 363,
+        "rank": 9629,
+        "popularity": 15081,
+        "members": 959,
+        "favorites": 0,
+        "synopsis": "Short Ninja Hattori-kun movie.\nScreened as a triple feature with Doraemon: Nobita no Daimakyou and Kaibutsu-kun: Demon no Ken.",
+        "background": "",
+        "season": null,
+        "year": null,
+        "broadcast": {
+            "day": null,
+            "time": null,
+            "timezone": null,
+            "string": null
+        },
+        "producers": [],
+        "licensors": [],
+        "studios": [
+            {
+                "mal_id": 247,
+                "type": "anime",
+                "name": "Shin-Ei Animation",
+                "url": "https://myanimelist.net/anime/producer/247/Shin-Ei_Animation"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 1,
+                "type": "anime",
+                "name": "Action",
+                "url": "https://myanimelist.net/anime/genre/1/Action"
+            },
+            {
+                "mal_id": 4,
+                "type": "anime",
+                "name": "Comedy",
+                "url": "https://myanimelist.net/anime/genre/4/Comedy"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [
+            {
+                "mal_id": 17,
+                "type": "anime",
+                "name": "Martial Arts",
+                "url": "https://myanimelist.net/anime/genre/17/Martial_Arts"
+            }
+        ],
+        "demographics": [
+            {
+                "mal_id": 25,
+                "type": "anime",
+                "name": "Shoujo",
+                "url": "https://myanimelist.net/anime/genre/25/Shoujo"
+            }
+        ],
+        "relations": [
+            {
+                "relation": "Parent Story",
+                "entry": [
+                    {
+                        "mal_id": 4936,
+                        "type": "anime",
+                        "name": "Ninja Hattori-kun",
+                        "url": "https://myanimelist.net/anime/4936/Ninja_Hattori-kun"
+                    }
+                ]
+            },
+            {
+                "relation": "Other",
+                "entry": [
+                    {
+                        "mal_id": 2671,
+                        "type": "anime",
+                        "name": "Doraemon Movie 03: Nobita no Daimakyou",
+                        "url": "https://myanimelist.net/anime/2671/Doraemon_Movie_03__Nobita_no_Daimakyou"
+                    },
+                    {
+                        "mal_id": 22975,
+                        "type": "anime",
+                        "name": "Kaibutsu-kun: Demon no Ken",
+                        "url": "https://myanimelist.net/anime/22975/Kaibutsu-kun__Demon_no_Ken"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [],
+            "endings": []
+        },
+        "external": [
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=7564"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": []
+}

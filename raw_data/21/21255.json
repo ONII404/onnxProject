@@ -1,0 +1,186 @@
+{
+    "id": 21255,
+    "fetched_at": "Sun Dec 14 10:05:57 2025",
+    "metadata": {
+        "mal_id": 21255,
+        "url": "https://myanimelist.net/anime/21255/Takarajima_Movie",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1846/136445.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1846/136445t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1846/136445l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1846/136445.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1846/136445t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1846/136445l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Takarajima Movie"
+            },
+            {
+                "type": "Synonym",
+                "title": "Takarajima Gekijouban"
+            },
+            {
+                "type": "Japanese",
+                "title": "宝島　劇場版"
+            },
+            {
+                "type": "English",
+                "title": "Treasure Island: The Movie"
+            }
+        ],
+        "title": "Takarajima Movie",
+        "title_english": "Treasure Island: The Movie",
+        "title_japanese": "宝島　劇場版",
+        "title_synonyms": [
+            "Takarajima Gekijouban"
+        ],
+        "type": "Movie",
+        "source": "Novel",
+        "episodes": 1,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "1987-05-09T00:00:00+00:00",
+            "to": null,
+            "prop": {
+                "from": {
+                    "day": 9,
+                    "month": 5,
+                    "year": 1987
+                },
+                "to": {
+                    "day": null,
+                    "month": null,
+                    "year": null
+                }
+            },
+            "string": "May 9, 1987"
+        },
+        "duration": "1 hr 28 min",
+        "rating": "PG - Children",
+        "score": 6.14,
+        "scored_by": 558,
+        "rank": 9494,
+        "popularity": 13408,
+        "members": 1478,
+        "favorites": 0,
+        "synopsis": "A 88-minute theatrical recut of the original Takarajima TV series.",
+        "background": "",
+        "season": null,
+        "year": null,
+        "broadcast": {
+            "day": null,
+            "time": null,
+            "timezone": null,
+            "string": null
+        },
+        "producers": [],
+        "licensors": [],
+        "studios": [
+            {
+                "mal_id": 65,
+                "type": "anime",
+                "name": "Tokyo Movie Shinsha",
+                "url": "https://myanimelist.net/anime/producer/65/Tokyo_Movie_Shinsha"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 2,
+                "type": "anime",
+                "name": "Adventure",
+                "url": "https://myanimelist.net/anime/genre/2/Adventure"
+            },
+            {
+                "mal_id": 8,
+                "type": "anime",
+                "name": "Drama",
+                "url": "https://myanimelist.net/anime/genre/8/Drama"
+            },
+            {
+                "mal_id": 7,
+                "type": "anime",
+                "name": "Mystery",
+                "url": "https://myanimelist.net/anime/genre/7/Mystery"
+            },
+            {
+                "mal_id": 37,
+                "type": "anime",
+                "name": "Supernatural",
+                "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [
+            {
+                "mal_id": 13,
+                "type": "anime",
+                "name": "Historical",
+                "url": "https://myanimelist.net/anime/genre/13/Historical"
+            }
+        ],
+        "demographics": [],
+        "relations": [
+            {
+                "relation": "Alternative Version",
+                "entry": [
+                    {
+                        "mal_id": 2618,
+                        "type": "anime",
+                        "name": "Takarajima",
+                        "url": "https://myanimelist.net/anime/2618/Takarajima"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [
+                "\"Takarajima\" by Yoshito Machida (町田 よしと)"
+            ],
+            "endings": []
+        },
+        "external": [
+            {
+                "name": "Official Site",
+                "url": "http://www.tms-e.co.jp/search/introduction.php?pdt_no=82"
+            },
+            {
+                "name": "YouTube",
+                "url": "https://www.youtube.com/watch?v=hmZBcEKfaqU"
+            },
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=10513"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=20357"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "https://ja.wikipedia.org/wiki/%E5%AE%9D%E5%B3%B6_(%E3%83%86%E3%83%AC%E3%83%93%E3%82%A2%E3%83%8B%E3%83%A1)#%E5%8A%87%E5%A0%B4%E7%89%88"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": []
+}

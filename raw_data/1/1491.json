@@ -1,0 +1,1726 @@
+{
+    "id": 1491,
+    "fetched_at": "Sun Dec 14 07:14:52 2025",
+    "metadata": {
+        "mal_id": 1491,
+        "url": "https://myanimelist.net/anime/1491/Ginga_Tetsudou_999",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1685/104554.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1685/104554t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1685/104554l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1685/104554.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1685/104554t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1685/104554l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Ginga Tetsudou 999"
+            },
+            {
+                "type": "Synonym",
+                "title": "Ginga Tetsudo 999"
+            },
+            {
+                "type": "Synonym",
+                "title": "GE999"
+            },
+            {
+                "type": "Japanese",
+                "title": "銀河鉄道９９９"
+            },
+            {
+                "type": "English",
+                "title": "Galaxy Express 999"
+            },
+            {
+                "type": "German",
+                "title": "Galaxy Express 999"
+            },
+            {
+                "type": "Spanish",
+                "title": "Galaxy Express 999"
+            },
+            {
+                "type": "French",
+                "title": "Galaxy Express 999"
+            }
+        ],
+        "title": "Ginga Tetsudou 999",
+        "title_english": "Galaxy Express 999",
+        "title_japanese": "銀河鉄道９９９",
+        "title_synonyms": [
+            "Ginga Tetsudo 999",
+            "GE999"
+        ],
+        "type": "TV",
+        "source": "Manga",
+        "episodes": 113,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "1978-09-14T00:00:00+00:00",
+            "to": "1981-03-26T00:00:00+00:00",
+            "prop": {
+                "from": {
+                    "day": 14,
+                    "month": 9,
+                    "year": 1978
+                },
+                "to": {
+                    "day": 26,
+                    "month": 3,
+                    "year": 1981
+                }
+            },
+            "string": "Sep 14, 1978 to Mar 26, 1981"
+        },
+        "duration": "24 min per ep",
+        "rating": "G - All Ages",
+        "score": 7.75,
+        "scored_by": 8129,
+        "rank": 1225,
+        "popularity": 3739,
+        "members": 44556,
+        "favorites": 500,
+        "synopsis": "In the distant future, humanity has found a way to live forever by purchasing mechanical bodies, but this way to immortality is extraordinarily expensive. An impoverished boy, Tetsurou Hoshino, desires to purchase a pass on the Galaxy Express 999—a train that travels throughout the universe—because it is said that at the end of the line, those aboard can obtain a mechanical body for free. When Tetsurou's mother is gunned down by the villainous machine-man hybrid Count Mecha, however, all seems lost.\n \nTetsurou is then saved from certain death by the mysterious Maetel, a tall woman with blonde hair and a striking resemblance to his mother. She gives him a pass to the Galaxy Express under one condition: that they travel together. Thus, Tetsurou begins his journey across the universe to many unique planets and thrilling adventures, in hopes of being able to attain that which he most desires.\n\n[Written by MAL Rewrite]",
+        "background": "",
+        "season": "fall",
+        "year": 1978,
+        "broadcast": {
+            "day": "Thursdays",
+            "time": "19:00",
+            "timezone": "Asia/Tokyo",
+            "string": "Thursdays at 19:00 (JST)"
+        },
+        "producers": [
+            {
+                "mal_id": 169,
+                "type": "anime",
+                "name": "Fuji TV",
+                "url": "https://myanimelist.net/anime/producer/169/Fuji_TV"
+            }
+        ],
+        "licensors": [
+            {
+                "mal_id": 467,
+                "type": "anime",
+                "name": "Discotek Media",
+                "url": "https://myanimelist.net/anime/producer/467/Discotek_Media"
+            }
+        ],
+        "studios": [
+            {
+                "mal_id": 18,
+                "type": "anime",
+                "name": "Toei Animation",
+                "url": "https://myanimelist.net/anime/producer/18/Toei_Animation"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 2,
+                "type": "anime",
+                "name": "Adventure",
+                "url": "https://myanimelist.net/anime/genre/2/Adventure"
+            },
+            {
+                "mal_id": 8,
+                "type": "anime",
+                "name": "Drama",
+                "url": "https://myanimelist.net/anime/genre/8/Drama"
+            },
+            {
+                "mal_id": 24,
+                "type": "anime",
+                "name": "Sci-Fi",
+                "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [
+            {
+                "mal_id": 29,
+                "type": "anime",
+                "name": "Space",
+                "url": "https://myanimelist.net/anime/genre/29/Space"
+            }
+        ],
+        "demographics": [],
+        "relations": [
+            {
+                "relation": "Prequel",
+                "entry": [
+                    {
+                        "mal_id": 2019,
+                        "type": "anime",
+                        "name": "DNA Sights 999.9",
+                        "url": "https://myanimelist.net/anime/2019/DNA_Sights_9999"
+                    },
+                    {
+                        "mal_id": 1495,
+                        "type": "anime",
+                        "name": "Maetel Legend",
+                        "url": "https://myanimelist.net/anime/1495/Maetel_Legend"
+                    },
+                    {
+                        "mal_id": 1377,
+                        "type": "anime",
+                        "name": "Uchuu Koukyoushi Maetel: Ginga Tetsudou 999 Gaiden",
+                        "url": "https://myanimelist.net/anime/1377/Uchuu_Koukyoushi_Maetel__Ginga_Tetsudou_999_Gaiden"
+                    }
+                ]
+            },
+            {
+                "relation": "Sequel",
+                "entry": [
+                    {
+                        "mal_id": 1302,
+                        "type": "anime",
+                        "name": "Sayonara Ginga Tetsudou 999: Andromeda Shuuchakueki",
+                        "url": "https://myanimelist.net/anime/1302/Sayonara_Ginga_Tetsudou_999__Andromeda_Shuuchakueki"
+                    }
+                ]
+            },
+            {
+                "relation": "Adaptation",
+                "entry": [
+                    {
+                        "mal_id": 776,
+                        "type": "manga",
+                        "name": "Ginga Tetsudou 999",
+                        "url": "https://myanimelist.net/manga/776/Ginga_Tetsudou_999"
+                    }
+                ]
+            },
+            {
+                "relation": "Side Story",
+                "entry": [
+                    {
+                        "mal_id": 53941,
+                        "type": "anime",
+                        "name": "Ginga Tetsudou 999: Kieta Taiyoukei",
+                        "url": "https://myanimelist.net/anime/53941/Ginga_Tetsudou_999__Kieta_Taiyoukei"
+                    }
+                ]
+            },
+            {
+                "relation": "Summary",
+                "entry": [
+                    {
+                        "mal_id": 29716,
+                        "type": "anime",
+                        "name": "Ginga Tetsudou 999: Shounen no Tabidachi to Wakare",
+                        "url": "https://myanimelist.net/anime/29716/Ginga_Tetsudou_999__Shounen_no_Tabidachi_to_Wakare"
+                    }
+                ]
+            },
+            {
+                "relation": "Alternative Version",
+                "entry": [
+                    {
+                        "mal_id": 1301,
+                        "type": "anime",
+                        "name": "Ginga Tetsudou 999 (Movie)",
+                        "url": "https://myanimelist.net/anime/1301/Ginga_Tetsudou_999_Movie"
+                    },
+                    {
+                        "mal_id": 6733,
+                        "type": "anime",
+                        "name": "Ginga Tetsudou 999: Kimi wa Senshi no You ni Ikirareru ka?",
+                        "url": "https://myanimelist.net/anime/6733/Ginga_Tetsudou_999__Kimi_wa_Senshi_no_You_ni_Ikirareru_ka"
+                    },
+                    {
+                        "mal_id": 6653,
+                        "type": "anime",
+                        "name": "Ginga Tetsudou 999: Glass no Clair",
+                        "url": "https://myanimelist.net/anime/6653/Ginga_Tetsudou_999__Glass_no_Clair"
+                    },
+                    {
+                        "mal_id": 6734,
+                        "type": "anime",
+                        "name": "Ginga Tetsudou 999: Eien no Tabibito Emeraldas",
+                        "url": "https://myanimelist.net/anime/6734/Ginga_Tetsudou_999__Eien_no_Tabibito_Emeraldas"
+                    },
+                    {
+                        "mal_id": 6735,
+                        "type": "anime",
+                        "name": "Ginga Tetsudou 999: Kimi wa Haha no You ni Aiseru ka!!",
+                        "url": "https://myanimelist.net/anime/6735/Ginga_Tetsudou_999__Kimi_wa_Haha_no_You_ni_Aiseru_ka"
+                    },
+                    {
+                        "mal_id": 28733,
+                        "type": "anime",
+                        "name": "Ginga Tetsudou 999 (ONA)",
+                        "url": "https://myanimelist.net/anime/28733/Ginga_Tetsudou_999_ONA"
+                    },
+                    {
+                        "mal_id": 7285,
+                        "type": "anime",
+                        "name": "Ginga Tetsudou 999: Diamond Ring no Kanata e",
+                        "url": "https://myanimelist.net/anime/7285/Ginga_Tetsudou_999__Diamond_Ring_no_Kanata_e"
+                    }
+                ]
+            },
+            {
+                "relation": "Alternative Setting",
+                "entry": [
+                    {
+                        "mal_id": 1490,
+                        "type": "anime",
+                        "name": "Ginga Tetsudou Monogatari",
+                        "url": "https://myanimelist.net/anime/1490/Ginga_Tetsudou_Monogatari"
+                    }
+                ]
+            },
+            {
+                "relation": "Other",
+                "entry": [
+                    {
+                        "mal_id": 27651,
+                        "type": "anime",
+                        "name": "Ginga Tetsudou 999: Niji no Michishirube",
+                        "url": "https://myanimelist.net/anime/27651/Ginga_Tetsudou_999__Niji_no_Michishirube"
+                    },
+                    {
+                        "mal_id": 30481,
+                        "type": "anime",
+                        "name": "Ginga Tetsudou 999 for Planetarium",
+                        "url": "https://myanimelist.net/anime/30481/Ginga_Tetsudou_999_for_Planetarium"
+                    },
+                    {
+                        "mal_id": 12163,
+                        "type": "anime",
+                        "name": "Ginga Tetsudou 999: Hoshizora wa Time Machine",
+                        "url": "https://myanimelist.net/anime/12163/Ginga_Tetsudou_999__Hoshizora_wa_Time_Machine"
+                    },
+                    {
+                        "mal_id": 10118,
+                        "type": "anime",
+                        "name": "Ginga Tetsudou 999: Jikuu wo Koeta Energy no Tabi",
+                        "url": "https://myanimelist.net/anime/10118/Ginga_Tetsudou_999__Jikuu_wo_Koeta_Energy_no_Tabi"
+                    },
+                    {
+                        "mal_id": 30483,
+                        "type": "anime",
+                        "name": "Ginga Tetsudou 999: Akai Hoshi Betelgeuze - Inochi no Kagayaki",
+                        "url": "https://myanimelist.net/anime/30483/Ginga_Tetsudou_999__Akai_Hoshi_Betelgeuze_-_Inochi_no_Kagayaki"
+                    },
+                    {
+                        "mal_id": 57602,
+                        "type": "anime",
+                        "name": "Ginga Tetsudou 999 Music Video Seisaku Project",
+                        "url": "https://myanimelist.net/anime/57602/Ginga_Tetsudou_999_Music_Video_Seisaku_Project"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [
+                "\"Ginga Tetsudou 999\" by Isao Sasaki and the Suginami Children's Choir"
+            ],
+            "endings": [
+                "\"Aoi Chikyuu\" by Isao Sasaki and the Suginami Children's Choir"
+            ]
+        },
+        "external": [
+            {
+                "name": "Official Site",
+                "url": "http://www.toei-anim.co.jp/lineup/tv/999/"
+            },
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=484"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=1361"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Galaxy_Express_999"
+            }
+        ],
+        "streaming": [
+            {
+                "name": "Crunchyroll",
+                "url": "http://www.crunchyroll.com/series-46828"
+            }
+        ]
+    },
+    "episodes": [
+        {
+            "mal_id": 1,
+            "url": "https://myanimelist.net/anime/1491/Ginga_Tetsudou_999/episode/1",
+            "title": "Departure Ballad",
+            "title_japanese": "たびだち)のバラード",
+            "title_romanji": "Tabidachi no Ballad (出発",
+            "aired": "1978-09-14T00:00:00+00:00",
+            "score": 4.31,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=299019"
+        },
+        {
+            "mal_id": 2,
+            "url": "https://myanimelist.net/anime/1491/Ginga_Tetsudou_999/episode/2",
+            "title": "The Red Winds of Mars",
+            "title_japanese": "火星の赤い風",
+            "title_romanji": "Kasei no Akai Kaze ",
+            "aired": "1978-09-21T00:00:00+00:00",
+            "score": 4.26,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=299041"
+        },
+        {
+            "mal_id": 3,
+            "url": "https://myanimelist.net/anime/1491/Ginga_Tetsudou_999/episode/3",
+            "title": "Titan's Sleeping Warrior",
+            "title_japanese": "タイタンの眠れる戦士",
+            "title_romanji": "Titan no Nemureru Senshi ",
+            "aired": "1978-09-28T00:00:00+00:00",
+            "score": 4.12,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=299159"
+        },
+        {
+            "mal_id": 4,
+            "url": "https://myanimelist.net/anime/1491/Ginga_Tetsudou_999/episode/4",
+            "title": "The Great Bandit Antares",
+            "title_japanese": "大盗賊アンタレス",
+            "title_romanji": "The Great Bandit Antares ",
+            "aired": "1978-10-05T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=299164"
+        },
+        {
+            "mal_id": 5,
+            "url": "https://myanimelist.net/anime/1491/Ginga_Tetsudou_999/episode/5",
+            "title": "Shadow of the Planet of Indecision",
+            "title_japanese": "迷いの星の影",
+            "title_romanji": "Shadow of the Planet of Indecision ",
+            "aired": "1978-10-12T00:00:00+00:00",
+            "score": 4.3,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=59698"
+        },
+        {
+            "mal_id": 6,
+            "url": "https://myanimelist.net/anime/1491/Ginga_Tetsudou_999/episode/6",
+            "title": "The Comet Library",
+            "title_japanese": "彗星図書館",
+            "title_romanji": "The Comet Library ",
+            "aired": "1978-10-19T00:00:00+00:00",
+            "score": 4.17,
+            "filler": true,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=299168"
+        },
+        {
+            "mal_id": 7,
+            "url": "https://myanimelist.net/anime/1491/Ginga_Tetsudou_999/episode/7",
+            "title": "The Graveyard at the Bottom of Gravity: Part One",
+            "title_japanese": "重力の底の墓場 前編",
+            "title_romanji": "The Graveyard at the Bottom of Gravity: Part One ",
+            "aired": "1978-10-26T00:00:00+00:00",
+            "score": 4.16,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=299321"
+        },
+        {
+            "mal_id": 8,
+            "url": "https://myanimelist.net/anime/1491/Ginga_Tetsudou_999/episode/8",
+            "title": "The Graveyard at the Bottom of Gravity: Part Two",
+            "title_japanese": "重力の底の墓場 後編",
+            "title_romanji": "The Graveyard at the Bottom of Gravity: Part Two ",
+            "aired": "1978-11-02T00:00:00+00:00",
+            "score": 4.14,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=299328"
+        },
+        {
+            "mal_id": 9,
+            "url": "https://myanimelist.net/anime/1491/Ginga_Tetsudou_999/episode/9",
+            "title": "Trader Junction: Part One",
+            "title_japanese": "トレーダー分岐点 前編",
+            "title_romanji": "Trader Junction: Part One ",
+            "aired": "1978-11-09T00:00:00+00:00",
+            "score": 3.81,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=299366"
+        },
+        {
+            "mal_id": 10,
+            "url": "https://myanimelist.net/anime/1491/Ginga_Tetsudou_999/episode/10",
+            "title": "Trader Junction: Part Two",
+            "title_japanese": "トレーダー分岐点 後編",
+            "title_romanji": "Trader Junction: Part Two ",
+            "aired": "1978-11-16T00:00:00+00:00",
+            "score": 4.1,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=299372"
+        },
+        {
+            "mal_id": 11,
+            "url": "https://myanimelist.net/anime/1491/Ginga_Tetsudou_999/episode/11",
+            "title": "Formless Planet Nuruba",
+            "title_japanese": "不定形惑星ヌルーバ",
+            "title_romanji": "Formless Planet Nuruba ",
+            "aired": "1978-11-23T00:00:00+00:00",
+            "score": 4.31,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=299508"
+        },
+        {
+            "mal_id": 12,
+            "url": "https://myanimelist.net/anime/1491/Ginga_Tetsudou_999/episode/12",
+            "title": "The Fossilized Warrior: Part One",
+            "title_japanese": "化石の戦士 前編",
+            "title_romanji": "The Fossilized Warrior: Part One ",
+            "aired": "1978-11-30T00:00:00+00:00",
+            "score": 4.14,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=299512"
+        },
+        {
+            "mal_id": 13,
+            "url": "https://myanimelist.net/anime/1491/Ginga_Tetsudou_999/episode/13",
+            "title": "The Fossilized Warrior: Part Two",
+            "title_japanese": "化石の戦士 後編",
+            "title_romanji": "The Fossilized Warrior: Part Two ",
+            "aired": "1978-12-07T00:00:00+00:00",
+            "score": 3.95,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=299959"
+        },
+        {
+            "mal_id": 14,
+            "url": "https://myanimelist.net/anime/1491/Ginga_Tetsudou_999/episode/14",
+            "title": "Laala from the Double Planet",
+            "title_japanese": "二重惑星のラーラ",
+            "title_romanji": "Laala from the Double Planet ",
+            "aired": "1978-12-14T00:00:00+00:00",
+            "score": 3.52,
+            "filler": true,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=299967"
+        },
+        {
+            "mal_id": 15,
+            "url": "https://myanimelist.net/anime/1491/Ginga_Tetsudou_999/episode/15",
+            "title": "Water Kingdom: Beethoven",
+            "title_japanese": "水の国のベートーベン",
+            "title_romanji": "Water Kingdom: Beethoven ",
+            "aired": "1978-12-21T00:00:00+00:00",
+            "score": 4.17,
+            "filler": true,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=393271"
+        },
+        {
+            "mal_id": 16,
+            "url": "https://myanimelist.net/anime/1491/Ginga_Tetsudou_999/episode/16",
+            "title": "The Town of Fireflies",
+            "title_japanese": "蛍の街",
+            "title_romanji": "The Town of Fireflies ",
+            "aired": "1978-12-28T00:00:00+00:00",
+            "score": 4.48,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=300646"
+        },
+        {
+            "mal_id": 17,
+            "url": "https://myanimelist.net/anime/1491/Ginga_Tetsudou_999/episode/17",
+            "title": "The Armored Planet",
+            "title_japanese": "装甲惑星",
+            "title_romanji": "Soukou Wakusei ",
+            "aired": "1979-01-04T00:00:00+00:00",
+            "score": 3.93,
+            "filler": true,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1041561"
+        },
+        {
+            "mal_id": 18,
+            "url": "https://myanimelist.net/anime/1491/Ginga_Tetsudou_999/episode/18",
+            "title": "Maetel of Mud",
+            "title_japanese": "泥のメーテル",
+            "title_romanji": "Doro no Maetel ",
+            "aired": "1979-01-11T00:00:00+00:00",
+            "score": 4,
+            "filler": true,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=446417"
+        },
+        {
+            "mal_id": 19,
+            "url": "https://myanimelist.net/anime/1491/Ginga_Tetsudou_999/episode/19",
+            "title": "The Kingdom of Atonement",
+            "title_japanese": "ざんげの国",
+            "title_romanji": "Zange no Kuni ",
+            "aired": "1979-01-18T00:00:00+00:00",
+            "score": 3.64,
+            "filler": true,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1043009"
+        },
+        {
+            "mal_id": 20,
+            "url": "https://myanimelist.net/anime/1491/Ginga_Tetsudou_999/episode/20",
+            "title": "The Souls of Professionals",
+            "title_japanese": "プロフェッショナル魂",
+            "title_romanji": "Professional Tamashii ",
+            "aired": "1979-01-25T00:00:00+00:00",
+            "score": 3.9,
+            "filler": true,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1043317"
+        },
+        {
+            "mal_id": 21,
+            "url": "https://myanimelist.net/anime/1491/Ginga_Tetsudou_999/episode/21",
+            "title": "The Tombstone of Dead Leave",
+            "title_japanese": "枯葉の墓標",
+            "title_romanji": "Kareha no Bohyou ",
+            "aired": "1979-02-01T00:00:00+00:00",
+            "score": 3.87,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=447121"
+        },
+        {
+            "mal_id": 22,
+            "url": "https://myanimelist.net/anime/1491/Ginga_Tetsudou_999/episode/22",
+            "title": "Pirate Ship Queen Emeraldas",
+            "title_japanese": "海賊船クイーン·エメラルダス",
+            "title_romanji": "Kaizokusen Queen Emeraldas ",
+            "aired": "1979-02-08T00:00:00+00:00",
+            "score": 4.3,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=422253"
+        },
+        {
+            "mal_id": 23,
+            "url": "https://myanimelist.net/anime/1491/Ginga_Tetsudou_999/episode/23",
+            "title": "Queen of the Primitive Planet",
+            "title_japanese": "原始惑星の女王",
+            "title_romanji": "Genshi Wakusei no Joou ",
+            "aired": "1979-02-15T00:00:00+00:00",
+            "score": 3.94,
+            "filler": true,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=449327"
+        },
+        {
+            "mal_id": 24,
+            "url": "https://myanimelist.net/anime/1491/Ginga_Tetsudou_999/episode/24",
+            "title": "The Planet of Dimensional Voyage",
+            "title_japanese": "次元航海惑星",
+            "title_romanji": "Jigen Koukai Wakusei ",
+            "aired": "1979-02-22T00:00:00+00:00",
+            "score": 3.36,
+            "filler": true,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=449337"
+        },
+        {
+            "mal_id": 25,
+            "url": "https://myanimelist.net/anime/1491/Ginga_Tetsudou_999/episode/25",
+            "title": "A Steel Angel",
+            "title_japanese": "鋼鉄天使",
+            "title_romanji": "Koutetsu Tenshi ",
+            "aired": "1979-03-08T00:00:00+00:00",
+            "score": 3.88,
+            "filler": true,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=449883"
+        },
+        {
+            "mal_id": 26,
+            "url": "https://myanimelist.net/anime/1491/Ginga_Tetsudou_999/episode/26",
+            "title": "The Skeleton's Song",
+            "title_japanese": "白骨の歌",
+            "title_romanji": "Hakkotsu no Uta ",
+            "aired": "1979-03-15T00:00:00+00:00",
+            "score": 3.95,
+            "filler": true,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=450807"
+        },
+        {
+            "mal_id": 27,
+            "url": "https://myanimelist.net/anime/1491/Ginga_Tetsudou_999/episode/27",
+            "title": "The Goddess of Children and Easy Birth in the Snow Capital",
+            "title_japanese": "雪の都の鬼子母神",
+            "title_romanji": "Yuki no To no Kishimojin ",
+            "aired": "1979-03-22T00:00:00+00:00",
+            "score": 3.85,
+            "filler": true,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1049771"
+        },
+        {
+            "mal_id": 28,
+            "url": "https://myanimelist.net/anime/1491/Ginga_Tetsudou_999/episode/28",
+            "title": "The Great Writer of the Mirage Planet",
+            "title_japanese": "かげろう星の文豪",
+            "title_romanji": "Kagerou Boshi no Bungou ",
+            "aired": "1979-03-29T00:00:00+00:00",
+            "score": 3.73,
+            "filler": true,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=451011"
+        },
+        {
+            "mal_id": 29,
+            "url": "https://myanimelist.net/anime/1491/Ginga_Tetsudou_999/episode/29",
+            "title": "The Sakezan Continent",
+            "title_japanese": "サケザン大陸",
+            "title_romanji": "Sakezan Tairiku ",
+            "aired": "1979-04-05T00:00:00+00:00",
+            "score": 3.32,
+            "filler": true,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=452115"
+        },
+        {
+            "mal_id": 30,
+            "url": "https://myanimelist.net/anime/1491/Ginga_Tetsudou_999/episode/30",
+            "title": "The Ghost World Filament",
+            "title_japanese": "幽霊世界のフィラメント",
+            "title_romanji": "Yuurei Sekai no Filament ",
+            "aired": "1979-04-12T00:00:00+00:00",
+            "score": 3.73,
+            "filler": true,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1316467"
+        },
+        {
+            "mal_id": 31,
+            "url": "https://myanimelist.net/anime/1491/Ginga_Tetsudou_999/episode/31",
+            "title": "Fury Planet",
+            "title_japanese": "怒髪星",
+            "title_romanji": "Dohatsu Boshi ",
+            "aired": "1979-04-19T00:00:00+00:00",
+            "score": 3.91,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1059465"
+        },
+        {
+            "mal_id": 32,
+            "url": "https://myanimelist.net/anime/1491/Ginga_Tetsudou_999/episode/32",
+            "title": "Bitten Planet of Stopped Space-time",
+            "title_japanese": "停時空間のかじられ星",
+            "title_romanji": "Toma Toki Kuukan no Kajirare Hoshi ",
+            "aired": "1979-04-26T00:00:00+00:00",
+            "score": 4,
+            "filler": true,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=453073"
+        },
+        {
+            "mal_id": 33,
+            "url": "https://myanimelist.net/anime/1491/Ginga_Tetsudou_999/episode/33",
+            "title": "Ulatres's Screw Mountain",
+            "title_japanese": "ウラトレスのネジの山",
+            "title_romanji": "Ulatres no Neji no Yama ",
+            "aired": "1979-05-03T00:00:00+00:00",
+            "score": 3.9,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=453153"
+        },
+        {
+            "mal_id": 34,
+            "url": "https://myanimelist.net/anime/1491/Ginga_Tetsudou_999/episode/34",
+            "title": "The Witch of Plated City - Part One",
+            "title_japanese": "プレーテッド·シティの魔女前編",
+            "title_romanji": "Plated City no Majo - Zenpen ",
+            "aired": "1979-05-18T00:00:00+00:00",
+            "score": 3.78,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1353850"
+        },
+        {
+            "mal_id": 35,
+            "url": "https://myanimelist.net/anime/1491/Ginga_Tetsudou_999/episode/35",
+            "title": "The Witch of Plated City - Part Two",
+            "title_japanese": "プレーテッド·シティの魔女後編",
+            "title_romanji": "Plated City no Majo - Kouhen ",
+            "aired": "1979-05-25T00:00:00+00:00",
+            "score": 3.7,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1185651"
+        },
+        {
+            "mal_id": 36,
+            "url": "https://myanimelist.net/anime/1491/Ginga_Tetsudou_999/episode/36",
+            "title": "The Great Chief Cicropros",
+            "title_japanese": "大酋長サイクロプス",
+            "title_romanji": "Daishuuchou Cicropros ",
+            "aired": "1979-06-07T00:00:00+00:00",
+            "score": 3.33,
+            "filler": true,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=454501"
+        },
+        {
+            "mal_id": 37,
+            "url": "https://myanimelist.net/anime/1491/Ginga_Tetsudou_999/episode/37",
+            "title": "Mii-kun's Mansion of Life",
+            "title_japanese": "ミーくんの命の館",
+            "title_romanji": "Mii-kun no Inochi no Yakata ",
+            "aired": "1979-06-14T00:00:00+00:00",
+            "score": 4.25,
+            "filler": true,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=459565"
+        },
+        {
+            "mal_id": 38,
+            "url": "https://myanimelist.net/anime/1491/Ginga_Tetsudou_999/episode/38",
+            "title": "The Empire of the Cowardly Elder",
+            "title_japanese": "卑怯者の長老帝国",
+            "title_romanji": "Hikyoumono no Chourou Teikoku ",
+            "aired": "1979-06-21T00:00:00+00:00",
+            "score": 3.1,
+            "filler": true,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1363821"
+        },
+        {
+            "mal_id": 39,
+            "url": "https://myanimelist.net/anime/1491/Ginga_Tetsudou_999/episode/39",
+            "title": "Kasumi of the Mist Capitol",
+            "title_japanese": "霧の都のカスミ",
+            "title_romanji": "Kiri no Miyako no Kasumi ",
+            "aired": "1979-07-05T00:00:00+00:00",
+            "score": 3.9,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=460035"
+        },
+        {
+            "mal_id": 40,
+            "url": "https://myanimelist.net/anime/1491/Ginga_Tetsudou_999/episode/40",
+            "title": "The Chief of the Spherical Housing Complex - Part One",
+            "title_japanese": "球状住宅団の大酋長前編",
+            "title_romanji": "Kyuujou Juutaku Dan no Daishuuchou - Zenpen ",
+            "aired": "1979-07-19T00:00:00+00:00",
+            "score": 4.3,
+            "filler": true,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1188929"
+        },
+        {
+            "mal_id": 41,
+            "url": "https://myanimelist.net/anime/1491/Ginga_Tetsudou_999/episode/41",
+            "title": "The Chief of the Spherical Housing Complex - Part Two",
+            "title_japanese": "球状住宅団の大酋長後編",
+            "title_romanji": "Kyuujou Juutaku Dan no Daishuuchou - Kouhen ",
+            "aired": "1979-07-26T00:00:00+00:00",
+            "score": 3.36,
+            "filler": true,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1188995"
+        },
+        {
+            "mal_id": 42,
+            "url": "https://myanimelist.net/anime/1491/Ginga_Tetsudou_999/episode/42",
+            "title": "Female's Memories",
+            "title_japanese": "フィメールの思い出",
+            "title_romanji": "Female no Omoide ",
+            "aired": "1979-08-02T00:00:00+00:00",
+            "score": 3.69,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=460845"
+        },
+        {
+            "mal_id": 43,
+            "url": "https://myanimelist.net/anime/1491/Ginga_Tetsudou_999/episode/43",
+            "title": "Kira of Storm Hill, Arashigaoka",
+            "title_japanese": "嵐が丘のキラ",
+            "title_romanji": "Arashigaoka no Kira ",
+            "aired": "1979-08-16T00:00:00+00:00",
+            "score": 3.3,
+            "filler": true,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1375717"
+        },
+        {
+            "mal_id": 44,
+            "url": "https://myanimelist.net/anime/1491/Ginga_Tetsudou_999/episode/44",
+            "title": "Space Ride of the Valkyries - Part One",
+            "title_japanese": "ワルキューレの空間騎行前編",
+            "title_romanji": "Valkyrie no Kuukan Kikou - Zenpen ",
+            "aired": "1979-08-30T00:00:00+00:00",
+            "score": 3.5,
+            "filler": true,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=461621"
+        },
+        {
+            "mal_id": 45,
+            "url": "https://myanimelist.net/anime/1491/Ginga_Tetsudou_999/episode/45",
+            "title": "Space Ride of the Valkyries - Part Two",
+            "title_japanese": "ワルキューレの空間騎行後編",
+            "title_romanji": "Valkyrie no Kuukan Kikou - Kouhen ",
+            "aired": "1979-09-06T00:00:00+00:00",
+            "score": 4.13,
+            "filler": true,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=462071"
+        },
+        {
+            "mal_id": 46,
+            "url": "https://myanimelist.net/anime/1491/Ginga_Tetsudou_999/episode/46",
+            "title": "El Alamein's Singing Voice",
+            "title_japanese": "エル アラメインの歌声",
+            "title_romanji": "El Alamein no Utagoe ",
+            "aired": "1979-09-13T00:00:00+00:00",
+            "score": 4.08,
+            "filler": true,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=555431"
+        },
+        {
+            "mal_id": 47,
+            "url": "https://myanimelist.net/anime/1491/Ginga_Tetsudou_999/episode/47",
+            "title": "The Laboratory of Eternal War - Part One",
+            "title_japanese": "永久戦斗実験室前編",
+            "title_romanji": "Eikyuusen to Jikken Shitsu - Zenpen ",
+            "aired": "1979-09-20T00:00:00+00:00",
+            "score": 3.88,
+            "filler": true,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=462559"
+        },
+        {
+            "mal_id": 48,
+            "url": "https://myanimelist.net/anime/1491/Ginga_Tetsudou_999/episode/48",
+            "title": "The Laboratory of Eternal War - Part Two",
+            "title_japanese": "永久戦斗実験室後編",
+            "title_romanji": "Eikyuusen to Jikken Shitsu - Kouhen ",
+            "aired": "1979-09-27T00:00:00+00:00",
+            "score": 4.53,
+            "filler": true,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=462783"
+        },
+        {
+            "mal_id": 49,
+            "url": "https://myanimelist.net/anime/1491/Ginga_Tetsudou_999/episode/49",
+            "title": "The Future Planet",
+            "title_japanese": "これからの星",
+            "title_romanji": "Korekara no Hoshi ",
+            "aired": "1979-10-18T00:00:00+00:00",
+            "score": 4.5,
+            "filler": true,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=462969"
+        },
+        {
+            "mal_id": 50,
+            "url": "https://myanimelist.net/anime/1491/Ginga_Tetsudou_999/episode/50",
+            "title": "Ghost Tunnel",
+            "title_japanese": "亡霊トンネル",
+            "title_romanji": "Bourei Tunnel ",
+            "aired": "1979-10-25T00:00:00+00:00",
+            "score": 3.69,
+            "filler": true,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1448237"
+        },
+        {
+            "mal_id": 51,
+            "url": "https://myanimelist.net/anime/1491/Ginga_Tetsudou_999/episode/51",
+            "title": "Artemis of the Transparent Sea - Part One",
+            "title_japanese": "透明海のアルテミス前編",
+            "title_romanji": "Toumei Umi no Artemis - Zenpen ",
+            "aired": "1979-11-01T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1448250"
+        },
+        {
+            "mal_id": 52,
+            "url": "https://myanimelist.net/anime/1491/Ginga_Tetsudou_999/episode/52",
+            "title": "Artemis of the Transparent Sea - Part Two",
+            "title_japanese": "透明海のアルテミス後編",
+            "title_romanji": "Toumei Umi no Artemis - Kouhen ",
+            "aired": "1979-11-08T00:00:00+00:00",
+            "score": 4.27,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=463559"
+        },
+        {
+            "mal_id": 53,
+            "url": "https://myanimelist.net/anime/1491/Ginga_Tetsudou_999/episode/53",
+            "title": "Tetsuro on the Planet of Mirrors",
+            "title_japanese": "鏡の国の鉄郎",
+            "title_romanji": "Kagami no Hoshi no Tetsuro ",
+            "aired": "1979-11-15T00:00:00+00:00",
+            "score": 2.9,
+            "filler": true,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=463891"
+        },
+        {
+            "mal_id": 54,
+            "url": "https://myanimelist.net/anime/1491/Ginga_Tetsudou_999/episode/54",
+            "title": "The Tale of the Endless Summer - Part One",
+            "title_japanese": "終わりなき夏の物語前編",
+            "title_romanji": "Owari Naki Natsu no Monogatari - Zenpen ",
+            "aired": "1979-11-22T00:00:00+00:00",
+            "score": 3.38,
+            "filler": true,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=463939"
+        },
+        {
+            "mal_id": 55,
+            "url": "https://myanimelist.net/anime/1491/Ginga_Tetsudou_999/episode/55",
+            "title": "The Tale of the Endless Summer - Part Two",
+            "title_japanese": "終わりなき夏の物語後編",
+            "title_romanji": "Owari Naki Natsu no Monogatari - Kouhen ",
+            "aired": "1979-11-29T00:00:00+00:00",
+            "score": 4.21,
+            "filler": true,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1448658"
+        },
+        {
+            "mal_id": 56,
+            "url": "https://myanimelist.net/anime/1491/Ginga_Tetsudou_999/episode/56",
+            "title": "The Cold Blooded Empire - Part One",
+            "title_japanese": "冷血帝国前編",
+            "title_romanji": "Reiketsu Teikoku Zenpen ",
+            "aired": "1979-12-06T00:00:00+00:00",
+            "score": 3.7,
+            "filler": true,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1249483"
+        },
+        {
+            "mal_id": 57,
+            "url": "https://myanimelist.net/anime/1491/Ginga_Tetsudou_999/episode/57",
+            "title": "The Cold Blooded Empire - Part Two",
+            "title_japanese": "冷血帝国後編",
+            "title_romanji": "Reiketsu Teikoku - Kouhen ",
+            "aired": "1979-12-13T00:00:00+00:00",
+            "score": 3,
+            "filler": true,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1448691"
+        },
+        {
+            "mal_id": 58,
+            "url": "https://myanimelist.net/anime/1491/Ginga_Tetsudou_999/episode/58",
+            "title": "The Footsteps of Footstep Village",
+            "title_japanese": "足音村の足音",
+            "title_romanji": "Ashioto Mura no Ashioto ",
+            "aired": "1979-12-20T00:00:00+00:00",
+            "score": 4.06,
+            "filler": true,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=464767"
+        },
+        {
+            "mal_id": 59,
+            "url": "https://myanimelist.net/anime/1491/Ginga_Tetsudou_999/episode/59",
+            "title": "The Idle One's Mirror",
+            "title_japanese": "なまけものの鏡",
+            "title_romanji": "Namakemono no Kagami ",
+            "aired": "1979-12-27T00:00:00+00:00",
+            "score": 4,
+            "filler": true,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=465139"
+        },
+        {
+            "mal_id": 60,
+            "url": "https://myanimelist.net/anime/1491/Ginga_Tetsudou_999/episode/60",
+            "title": "Planet of a Pint Size Room - Part One",
+            "title_japanese": "大四畳半惑星の幻想前編",
+            "title_romanji": "Daiyojouhan Wakusei no Gensou - Zenpen ",
+            "aired": "1980-01-10T00:00:00+00:00",
+            "score": 3.08,
+            "filler": true,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=465187"
+        },
+        {
+            "mal_id": 61,
+            "url": "https://myanimelist.net/anime/1491/Ginga_Tetsudou_999/episode/61",
+            "title": "Planet of a Pint Size Room - Part Two",
+            "title_japanese": "大四畳半惑星の幻想後編",
+            "title_romanji": "Daiyojouhan Wakusei no Gensou - Kouhen ",
+            "aired": "1980-01-17T00:00:00+00:00",
+            "score": 3.88,
+            "filler": true,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=465457"
+        },
+        {
+            "mal_id": 62,
+            "url": "https://myanimelist.net/anime/1491/Ginga_Tetsudou_999/episode/62",
+            "title": "City Without Night",
+            "title_japanese": "夜のない街",
+            "title_romanji": "Yoru no Nai Machi ",
+            "aired": "1980-01-24T00:00:00+00:00",
+            "score": 3,
+            "filler": true,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=465473"
+        },
+        {
+            "mal_id": 63,
+            "url": "https://myanimelist.net/anime/1491/Ginga_Tetsudou_999/episode/63",
+            "title": "The Pitch Dark Sisters",
+            "title_japanese": "ヤミヤミの姉妹",
+            "title_romanji": "Yami Yami no Shimai ",
+            "aired": "1980-01-31T00:00:00+00:00",
+            "score": 3.38,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=574653"
+        },
+        {
+            "mal_id": 64,
+            "url": "https://myanimelist.net/anime/1491/Ginga_Tetsudou_999/episode/64",
+            "title": "The Sacred Planet of Silence",
+            "title_japanese": "沈黙の聖地",
+            "title_romanji": "Chinmoku no Seichi ",
+            "aired": "1980-02-07T00:00:00+00:00",
+            "score": 3.24,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=465747"
+        },
+        {
+            "mal_id": 65,
+            "url": "https://myanimelist.net/anime/1491/Ginga_Tetsudou_999/episode/65",
+            "title": "Symphonic Poem and the Witch's Harp",
+            "title_japanese": "交響詩魔女の竪琴",
+            "title_romanji": "Koukyoushi Majo no Kenkin ",
+            "aired": "1980-02-14T00:00:00+00:00",
+            "score": 3.93,
+            "filler": true,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1448971"
+        },
+        {
+            "mal_id": 66,
+            "url": "https://myanimelist.net/anime/1491/Ginga_Tetsudou_999/episode/66",
+            "title": "The Planet of Funeral in the Mist",
+            "title_japanese": "霧の葬送惑星",
+            "title_romanji": "Kiri no Sousou Wakusei ",
+            "aired": "1980-02-21T00:00:00+00:00",
+            "score": 3.64,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=466633"
+        },
+        {
+            "mal_id": 67,
+            "url": "https://myanimelist.net/anime/1491/Ginga_Tetsudou_999/episode/67",
+            "title": "Dyruz the Space Monk",
+            "title_japanese": "宇宙僧ダイルーズ",
+            "title_romanji": "Uchuusou Dyruz ",
+            "aired": "1980-02-28T00:00:00+00:00",
+            "score": 3.55,
+            "filler": true,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1450040"
+        },
+        {
+            "mal_id": 68,
+            "url": "https://myanimelist.net/anime/1491/Ginga_Tetsudou_999/episode/68",
+            "title": "The Planet Named Curiosity",
+            "title_japanese": "好奇心という名の星",
+            "title_romanji": "Kouki Shin to Iu Na no Hoshi ",
+            "aired": "1980-03-06T00:00:00+00:00",
+            "score": 3.54,
+            "filler": true,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1450511"
+        },
+        {
+            "mal_id": 69,
+            "url": "https://myanimelist.net/anime/1491/Ginga_Tetsudou_999/episode/69",
+            "title": "The Rebellion of C62",
+            "title_japanese": "C62の反乱",
+            "title_romanji": "C62 no Hanran ",
+            "aired": "1980-03-13T00:00:00+00:00",
+            "score": 3.5,
+            "filler": true,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=467913"
+        },
+        {
+            "mal_id": 70,
+            "url": "https://myanimelist.net/anime/1491/Ginga_Tetsudou_999/episode/70",
+            "title": "The Capital of Kind Flowers",
+            "title_japanese": "心やさしき花の都",
+            "title_romanji": "Kokoro Yasashiki Hana no Miyako ",
+            "aired": "1980-03-20T00:00:00+00:00",
+            "score": 4.07,
+            "filler": true,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=468251"
+        },
+        {
+            "mal_id": 71,
+            "url": "https://myanimelist.net/anime/1491/Ginga_Tetsudou_999/episode/71",
+            "title": "The Pioneer from the River of Purgatory",
+            "title_japanese": "賽の河原の開拓者",
+            "title_romanji": "Sai no Kawara no Kaitakusha ",
+            "aired": "1980-03-27T00:00:00+00:00",
+            "score": 3.1,
+            "filler": true,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1450798"
+        },
+        {
+            "mal_id": 72,
+            "url": "https://myanimelist.net/anime/1491/Ginga_Tetsudou_999/episode/72",
+            "title": "Africa the Great Dark Nebula - Part One",
+            "title_japanese": "大暗黒星雲アフリカ前編",
+            "title_romanji": "Dai Ankoku Wakusei Africa - Zenpen ",
+            "aired": "1980-04-24T00:00:00+00:00",
+            "score": 3.18,
+            "filler": true,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=468831"
+        },
+        {
+            "mal_id": 73,
+            "url": "https://myanimelist.net/anime/1491/Ginga_Tetsudou_999/episode/73",
+            "title": "Africa the Great Dark Nebula - Part Two",
+            "title_japanese": "大暗黒星雲アフリカ後編",
+            "title_romanji": "Dai Ankoku Wakusei Africa - Kouhen ",
+            "aired": "1980-05-01T00:00:00+00:00",
+            "score": 3.44,
+            "filler": true,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=469023"
+        },
+        {
+            "mal_id": 74,
+            "url": "https://myanimelist.net/anime/1491/Ginga_Tetsudou_999/episode/74",
+            "title": "The Gimme Planet of 1,765,000,000 People",
+            "title_japanese": "17億6千5百万人のくれくれ星",
+            "title_romanji": "17 Oku 6 Sen 5 Hyaku man Nin no Kurekure Hoshi ",
+            "aired": "1980-05-08T00:00:00+00:00",
+            "score": 2.92,
+            "filler": true,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=469213"
+        },
+        {
+            "mal_id": 75,
+            "url": "https://myanimelist.net/anime/1491/Ginga_Tetsudou_999/episode/75",
+            "title": "Cheyenne the Nation of Water - Part One",
+            "title_japanese": "水の国のシャイアン 前編",
+            "title_romanji": "Mizu no Kuni no Cheyenne - Zenpen ",
+            "aired": "1980-05-15T00:00:00+00:00",
+            "score": 2.73,
+            "filler": true,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=469489"
+        },
+        {
+            "mal_id": 76,
+            "url": "https://myanimelist.net/anime/1491/Ginga_Tetsudou_999/episode/76",
+            "title": "Cheyenne the Nation of Water - Part Two",
+            "title_japanese": "水の国のシャイアン 後編",
+            "title_romanji": "Mizu no Kuni no Cheyenne - Kouhen ",
+            "aired": "1980-05-29T00:00:00+00:00",
+            "score": 3.18,
+            "filler": true,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1452001"
+        },
+        {
+            "mal_id": 77,
+            "url": "https://myanimelist.net/anime/1491/Ginga_Tetsudou_999/episode/77",
+            "title": "The Saintly Woman Who Devours Souls - Part One",
+            "title_japanese": "喰命聖女 前編",
+            "title_romanji": "Kuinochi Seijo - Zenpen ",
+            "aired": "1980-06-12T00:00:00+00:00",
+            "score": 4.18,
+            "filler": true,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1452017"
+        },
+        {
+            "mal_id": 78,
+            "url": "https://myanimelist.net/anime/1491/Ginga_Tetsudou_999/episode/78",
+            "title": "The Saintly Woman Who Devours Souls - Part Two",
+            "title_japanese": "喰命聖女 後編",
+            "title_romanji": "Kuinochi Seijo - Kouhen ",
+            "aired": "1980-06-26T00:00:00+00:00",
+            "score": 4.1,
+            "filler": true,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1295497"
+        },
+        {
+            "mal_id": 79,
+            "url": "https://myanimelist.net/anime/1491/Ginga_Tetsudou_999/episode/79",
+            "title": "The Pirate of Time Castle - Part One",
+            "title_japanese": "時間城の海賊 前編",
+            "title_romanji": "Jikan Shiro no Kaizoku - Zenpen ",
+            "aired": "1980-07-03T00:00:00+00:00",
+            "score": 4.55,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=470785"
+        },
+        {
+            "mal_id": 80,
+            "url": "https://myanimelist.net/anime/1491/Ginga_Tetsudou_999/episode/80",
+            "title": "The Pirate of Time Castle - Part Two",
+            "title_japanese": "時間城の海賊 中編",
+            "title_romanji": "Jikan Shiro no Kaizoku - Chuuhen ",
+            "aired": "1980-07-10T00:00:00+00:00",
+            "score": 4.42,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=470795"
+        },
+        {
+            "mal_id": 81,
+            "url": "https://myanimelist.net/anime/1491/Ginga_Tetsudou_999/episode/81",
+            "title": "The Pirate of Time Castle - Part Three",
+            "title_japanese": "時間城の海賊 後編",
+            "title_romanji": "Jikan Shiro no Kaizoku - Kouhen ",
+            "aired": "1980-07-17T00:00:00+00:00",
+            "score": 4.46,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=470883"
+        },
+        {
+            "mal_id": 82,
+            "url": "https://myanimelist.net/anime/1491/Ginga_Tetsudou_999/episode/82",
+            "title": "A Tale of a Short Life",
+            "title_japanese": "短かな生命の物語",
+            "title_romanji": "Tanka na Inochi no Monogatari ",
+            "aired": "1980-07-24T00:00:00+00:00",
+            "score": 3.3,
+            "filler": true,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1453526"
+        },
+        {
+            "mal_id": 83,
+            "url": "https://myanimelist.net/anime/1491/Ginga_Tetsudou_999/episode/83",
+            "title": "Life-form Number Three",
+            "title_japanese": "第3生命帯",
+            "title_romanji": "Dai 3 Seimeitai ",
+            "aired": "1980-07-31T00:00:00+00:00",
+            "score": 3.2,
+            "filler": true,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=471183"
+        },
+        {
+            "mal_id": 84,
+            "url": "https://myanimelist.net/anime/1491/Ginga_Tetsudou_999/episode/84",
+            "title": "The Planet of the Giant Elephant",
+            "title_japanese": "巨象の星",
+            "title_romanji": "Kyozou no Hoshi ",
+            "aired": "1980-08-14T00:00:00+00:00",
+            "score": 3.09,
+            "filler": true,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1453995"
+        },
+        {
+            "mal_id": 85,
+            "url": "https://myanimelist.net/anime/1491/Ginga_Tetsudou_999/episode/85",
+            "title": "The Planet of Illusive Love",
+            "title_japanese": "愛の幻影惑星",
+            "title_romanji": "Ai no Genei Wakusei ",
+            "aired": "1980-08-21T00:00:00+00:00",
+            "score": 3.92,
+            "filler": true,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=471209"
+        },
+        {
+            "mal_id": 86,
+            "url": "https://myanimelist.net/anime/1491/Ginga_Tetsudou_999/episode/86",
+            "title": "The UFO of the Planet of Forgetten Parents",
+            "title_japanese": "親知らず星のUFO",
+            "title_romanji": "Oyashirazu Hoshi no UFO ",
+            "aired": "1980-08-28T00:00:00+00:00",
+            "score": 3.71,
+            "filler": true,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1298455"
+        },
+        {
+            "mal_id": 87,
+            "url": "https://myanimelist.net/anime/1491/Ginga_Tetsudou_999/episode/87",
+            "title": "Elza from the Sea",
+            "title_japanese": "海からきたエルザ",
+            "title_romanji": "Umi kara Kita Elza ",
+            "aired": "1980-09-04T00:00:00+00:00",
+            "score": 3.15,
+            "filler": true,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1454277"
+        },
+        {
+            "mal_id": 88,
+            "url": "https://myanimelist.net/anime/1491/Ginga_Tetsudou_999/episode/88",
+            "title": "Planet, Crossroads of Destiny",
+            "title_japanese": "運命の分かれ星",
+            "title_romanji": "Unmei no Wakareboshi ",
+            "aired": "1980-09-11T00:00:00+00:00",
+            "score": 3.9,
+            "filler": true,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=471835"
+        },
+        {
+            "mal_id": 89,
+            "url": "https://myanimelist.net/anime/1491/Ginga_Tetsudou_999/episode/89",
+            "title": "The Gunman's Elegy",
+            "title_japanese": "ガンマン哀歌",
+            "title_romanji": "Gunman Elegy ",
+            "aired": "1980-09-25T00:00:00+00:00",
+            "score": 3.58,
+            "filler": true,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1454380"
+        },
+        {
+            "mal_id": 90,
+            "url": "https://myanimelist.net/anime/1491/Ginga_Tetsudou_999/episode/90",
+            "title": "The Snow Woman of Andromeda - Part One",
+            "title_japanese": "アンドロメダの雪女 前編",
+            "title_romanji": "Andromeda no Yukionna - Zenpen ",
+            "aired": "1980-10-09T00:00:00+00:00",
+            "score": 4.08,
+            "filler": true,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=474389"
+        },
+        {
+            "mal_id": 91,
+            "url": "https://myanimelist.net/anime/1491/Ginga_Tetsudou_999/episode/91",
+            "title": "The Snow Woman of Andromeda - Part Two",
+            "title_japanese": "アンドロメダの雪女 後編",
+            "title_romanji": "Andromeda no Yukionna - Kouhen ",
+            "aired": "1980-10-16T00:00:00+00:00",
+            "score": 4.08,
+            "filler": true,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=474401"
+        },
+        {
+            "mal_id": 92,
+            "url": "https://myanimelist.net/anime/1491/Ginga_Tetsudou_999/episode/92",
+            "title": "The Final Days of the Underwater City",
+            "title_japanese": "海底都市の最後",
+            "title_romanji": "Kaitei Toshi no Saigo ",
+            "aired": "1980-10-23T00:00:00+00:00",
+            "score": 3.7,
+            "filler": true,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1454423"
+        },
+        {
+            "mal_id": 93,
+            "url": "https://myanimelist.net/anime/1491/Ginga_Tetsudou_999/episode/93",
+            "title": "Keiko of the Insect Planet",
+            "title_japanese": "昆虫惑星の螢子",
+            "title_romanji": "Konchuu Wakusei no Keiko ",
+            "aired": "1980-10-30T00:00:00+00:00",
+            "score": 3.22,
+            "filler": true,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1454616"
+        },
+        {
+            "mal_id": 94,
+            "url": "https://myanimelist.net/anime/1491/Ginga_Tetsudou_999/episode/94",
+            "title": "Yayaball's Tiny World - Part One",
+            "title_japanese": "ヤーヤボールの小さな世界 前編",
+            "title_romanji": "Yayaball no Chiisana Sekai - Zenpen ",
+            "aired": "1980-11-06T00:00:00+00:00",
+            "score": 3.27,
+            "filler": true,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=474863"
+        },
+        {
+            "mal_id": 95,
+            "url": "https://myanimelist.net/anime/1491/Ginga_Tetsudou_999/episode/95",
+            "title": "Yayaball's Tiny World - Part Two",
+            "title_japanese": "ヤーヤボールの小さな世界 後編",
+            "title_romanji": "Yayaball no Chiisana Sekai - Kouhen ",
+            "aired": "1980-11-13T00:00:00+00:00",
+            "score": 3.75,
+            "filler": true,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1454745"
+        },
+        {
+            "mal_id": 96,
+            "url": "https://myanimelist.net/anime/1491/Ginga_Tetsudou_999/episode/96",
+            "title": "The Flying Kuros - Part One",
+            "title_japanese": "フライング·クロ 前編",
+            "title_romanji": "Flying Kuro - Zenpen ",
+            "aired": "1980-11-20T00:00:00+00:00",
+            "score": 3.64,
+            "filler": true,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1454751"
+        },
+        {
+            "mal_id": 97,
+            "url": "https://myanimelist.net/anime/1491/Ginga_Tetsudou_999/episode/97",
+            "title": "The Flying Kuros - Part Two",
+            "title_japanese": "フライング·クロ 後編",
+            "title_romanji": "Flying Kuro - Kouhen ",
+            "aired": "1980-11-27T00:00:00+00:00",
+            "score": 4,
+            "filler": true,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=475187"
+        },
+        {
+            "mal_id": 98,
+            "url": "https://myanimelist.net/anime/1491/Ginga_Tetsudou_999/episode/98",
+            "title": "The One Book Left in the Universe",
+            "title_japanese": "宇宙に残った一冊の本",
+            "title_romanji": "Uchuu ni Nokotta Issatsu no Hon ",
+            "aired": "1980-12-04T00:00:00+00:00",
+            "score": 4.4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=475377"
+        },
+        {
+            "mal_id": 99,
+            "url": "https://myanimelist.net/anime/1491/Ginga_Tetsudou_999/episode/99",
+            "title": "Four-Dimensional Elevator",
+            "title_japanese": "四次元エレベーター",
+            "title_romanji": "Shijigen Elevator ",
+            "aired": "1980-12-11T00:00:00+00:00",
+            "score": 3.77,
+            "filler": true,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=475385"
+        },
+        {
+            "mal_id": 100,
+            "url": "https://myanimelist.net/anime/1491/Ginga_Tetsudou_999/episode/100",
+            "title": "The Monster of Loose Zone",
+            "title_japanese": "ルーズゾーンの妖怪",
+            "title_romanji": "Loose Zone no Youkai ",
+            "aired": "1980-12-18T00:00:00+00:00",
+            "score": 3.73,
+            "filler": true,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1454801"
+        },
+        {
+            "mal_id": 101,
+            "url": "https://myanimelist.net/anime/1491/Ginga_Tetsudou_999/episode/101",
+            "title": "The Planet of Eternal Dream Pursuit",
+            "title_japanese": "永遠の夢追い星",
+            "title_romanji": "Eien no Yumeoi Hoshi ",
+            "aired": "1980-12-25T00:00:00+00:00",
+            "score": 3.91,
+            "filler": true,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1455157"
+        },
+        {
+            "mal_id": 102,
+            "url": "https://myanimelist.net/anime/1491/Ginga_Tetsudou_999/episode/102",
+            "title": "The Planet of the Queen's Rebellion",
+            "title_japanese": "聖女王の反乱星",
+            "title_romanji": "Hijiri-jou no Hanranboshi ",
+            "aired": "1981-01-08T00:00:00+00:00",
+            "score": 4.23,
+            "filler": true,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=475451"
+        },
+        {
+            "mal_id": 103,
+            "url": "https://myanimelist.net/anime/1491/Ginga_Tetsudou_999/episode/103",
+            "title": "1001 Nights in Andromeda - Part One",
+            "title_japanese": "アンドロメダ千夜一夜 前編",
+            "title_romanji": "Andromeda Senya Ichiya - Zenpen ",
+            "aired": "1981-01-15T00:00:00+00:00",
+            "score": 3.36,
+            "filler": true,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1455213"
+        },
+        {
+            "mal_id": 104,
+            "url": "https://myanimelist.net/anime/1491/Ginga_Tetsudou_999/episode/104",
+            "title": "1001 Nights in Andromeda - Part Two",
+            "title_japanese": "アンドロメダ千夜一夜 後編",
+            "title_romanji": "Andromeda Senya Ichiya - Kouhen ",
+            "aired": "1981-01-22T00:00:00+00:00",
+            "score": 3.17,
+            "filler": true,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1455221"
+        },
+        {
+            "mal_id": 105,
+            "url": "https://myanimelist.net/anime/1491/Ginga_Tetsudou_999/episode/105",
+            "title": "The Legend of the Young Warriors",
+            "title_japanese": "若き戦士の伝説",
+            "title_romanji": "Wakaki Senshi no Densetsu ",
+            "aired": "1981-01-29T00:00:00+00:00",
+            "score": 3.83,
+            "filler": true,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=475737"
+        },
+        {
+            "mal_id": 106,
+            "url": "https://myanimelist.net/anime/1491/Ginga_Tetsudou_999/episode/106",
+            "title": "Ghost Station No. 13",
+            "title_japanese": "幽霊駅13号",
+            "title_romanji": "Ghost Station 13 Gou ",
+            "aired": "1981-02-05T00:00:00+00:00",
+            "score": 3.58,
+            "filler": true,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1455235"
+        },
+        {
+            "mal_id": 107,
+            "url": "https://myanimelist.net/anime/1491/Ginga_Tetsudou_999/episode/107",
+            "title": "The Bird-Man of Kilimanjaro",
+            "title_japanese": "キリマンジャロの鳥人",
+            "title_romanji": "Kilimanjaro no Choujin ",
+            "aired": "1981-02-12T00:00:00+00:00",
+            "score": 4.18,
+            "filler": true,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1455240"
+        },
+        {
+            "mal_id": 108,
+            "url": "https://myanimelist.net/anime/1491/Ginga_Tetsudou_999/episode/108",
+            "title": "The Destruction of Macaroni au Gratin",
+            "title_japanese": "マカロニグラタンの崩壊",
+            "title_romanji": "Macaroni au Gratin no Houkai ",
+            "aired": "1981-02-19T00:00:00+00:00",
+            "score": 3.83,
+            "filler": true,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1455266"
+        },
+        {
+            "mal_id": 109,
+            "url": "https://myanimelist.net/anime/1491/Ginga_Tetsudou_999/episode/109",
+            "title": "Maetel's Journey - Part One",
+            "title_japanese": "メーテルの旅 前編",
+            "title_romanji": "Maetel no Tabi - Zenpen ",
+            "aired": "1981-02-26T00:00:00+00:00",
+            "score": 4.46,
+            "filler": true,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=476123"
+        },
+        {
+            "mal_id": 110,
+            "url": "https://myanimelist.net/anime/1491/Ginga_Tetsudou_999/episode/110",
+            "title": "Maetel's Journey - Part Two",
+            "title_japanese": "メーテルの旅 後編",
+            "title_romanji": "Maetel no Tabi - Kouhen ",
+            "aired": "1981-03-05T00:00:00+00:00",
+            "score": 4,
+            "filler": true,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1455280"
+        },
+        {
+            "mal_id": 111,
+            "url": "https://myanimelist.net/anime/1491/Ginga_Tetsudou_999/episode/111",
+            "title": "The Bat Planet",
+            "title_japanese": "惑星こうもり",
+            "title_romanji": "Wakusei Koumori ",
+            "aired": "1981-03-12T00:00:00+00:00",
+            "score": 4.08,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=476149"
+        },
+        {
+            "mal_id": 112,
+            "url": "https://myanimelist.net/anime/1491/Ginga_Tetsudou_999/episode/112",
+            "title": "The Vision of Youth, Farewell, 999 - Part One",
+            "title_japanese": "青春の幻影 さらば999 前編",
+            "title_romanji": "Seishun no Genei Saraba 999 - Part 1 ",
+            "aired": "1981-03-19T00:00:00+00:00",
+            "score": 4.5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=476155"
+        },
+        {
+            "mal_id": 113,
+            "url": "https://myanimelist.net/anime/1491/Ginga_Tetsudou_999/episode/113",
+            "title": "The Vision of Youth, Farewell, 999 - Part Two",
+            "title_japanese": "青春の幻影 さらば999 後編",
+            "title_romanji": "Seishun no Genei Saraba 999 - Part 2 ",
+            "aired": "1981-03-26T00:00:00+00:00",
+            "score": 4.56,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=361559"
+        }
+    ]
+}

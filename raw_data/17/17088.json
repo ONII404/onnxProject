@@ -1,0 +1,192 @@
+{
+    "id": 17088,
+    "fetched_at": "Sun Dec 14 09:52:57 2025",
+    "metadata": {
+        "mal_id": 17088,
+        "url": "https://myanimelist.net/anime/17088/Agigongryong_Doolie",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/8/45785.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/8/45785t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/8/45785l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/8/45785.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/8/45785t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/8/45785l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Agigongryong Doolie"
+            },
+            {
+                "type": "Synonym",
+                "title": "Baby Dinosaur Dooly"
+            },
+            {
+                "type": "Japanese",
+                "title": "아기공룡 둘리"
+            },
+            {
+                "type": "English",
+                "title": "Little Dino Dooly"
+            }
+        ],
+        "title": "Agigongryong Doolie",
+        "title_english": "Little Dino Dooly",
+        "title_japanese": "아기공룡 둘리",
+        "title_synonyms": [
+            "Baby Dinosaur Dooly"
+        ],
+        "type": "TV",
+        "source": "Unknown",
+        "episodes": 6,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "1987-10-07T00:00:00+00:00",
+            "to": null,
+            "prop": {
+                "from": {
+                    "day": 7,
+                    "month": 10,
+                    "year": 1987
+                },
+                "to": {
+                    "day": null,
+                    "month": null,
+                    "year": null
+                }
+            },
+            "string": "Oct 7, 1987"
+        },
+        "duration": "15 min per ep",
+        "rating": "PG - Children",
+        "score": 6.06,
+        "scored_by": 223,
+        "rank": 9938,
+        "popularity": 16320,
+        "members": 697,
+        "favorites": 2,
+        "synopsis": "The story of a baby dinosaur in modern day South Korea.",
+        "background": "",
+        "season": "fall",
+        "year": 1987,
+        "broadcast": {
+            "day": null,
+            "time": null,
+            "timezone": null,
+            "string": "Unknown"
+        },
+        "producers": [],
+        "licensors": [],
+        "studios": [],
+        "genres": [
+            {
+                "mal_id": 2,
+                "type": "anime",
+                "name": "Adventure",
+                "url": "https://myanimelist.net/anime/genre/2/Adventure"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [],
+        "demographics": [
+            {
+                "mal_id": 15,
+                "type": "anime",
+                "name": "Kids",
+                "url": "https://myanimelist.net/anime/genre/15/Kids"
+            }
+        ],
+        "relations": [
+            {
+                "relation": "Sequel",
+                "entry": [
+                    {
+                        "mal_id": 17086,
+                        "type": "anime",
+                        "name": "Agigongryong Doolie (1988)",
+                        "url": "https://myanimelist.net/anime/17086/Agigongryong_Doolie_1988"
+                    }
+                ]
+            },
+            {
+                "relation": "Side Story",
+                "entry": [
+                    {
+                        "mal_id": 16570,
+                        "type": "anime",
+                        "name": "Agigongryong Doolie (Movie)",
+                        "url": "https://myanimelist.net/anime/16570/Agigongryong_Doolie_Movie"
+                    }
+                ]
+            },
+            {
+                "relation": "Alternative Version",
+                "entry": [
+                    {
+                        "mal_id": 17090,
+                        "type": "anime",
+                        "name": "Agigongryong Doolie (2009)",
+                        "url": "https://myanimelist.net/anime/17090/Agigongryong_Doolie_2009"
+                    }
+                ]
+            },
+            {
+                "relation": "Alternative Setting",
+                "entry": [
+                    {
+                        "mal_id": 26199,
+                        "type": "anime",
+                        "name": "Doolie Baenang-Yeohaeng",
+                        "url": "https://myanimelist.net/anime/26199/Doolie_Baenang-Yeohaeng"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [],
+            "endings": []
+        },
+        "external": [
+            {
+                "name": "Official Site",
+                "url": "http://www.doolynara.com/eng_company"
+            },
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=4616"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "http://ko.wikipedia.org/wiki/%EC%95%84%EA%B8%B0%EA%B3%B5%EB%A3%A1_%EB%91%98%EB%A6%AC"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Dooly_the_Little_Dinosaur"
+            },
+            {
+                "name": "Douban",
+                "url": "https://movie.douban.com/subject/26772055/"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": []
+}

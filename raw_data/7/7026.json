@@ -1,0 +1,122 @@
+{
+    "id": 7026,
+    "fetched_at": "Sun Dec 14 09:06:38 2025",
+    "metadata": {
+        "mal_id": 7026,
+        "url": "https://myanimelist.net/anime/7026/Mado",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/7/69021.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/7/69021t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/7/69021l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/7/69021.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/7/69021t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/7/69021l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Mado"
+            },
+            {
+                "type": "Synonym",
+                "title": "The Window"
+            },
+            {
+                "type": "Japanese",
+                "title": "窓"
+            }
+        ],
+        "title": "Mado",
+        "title_english": null,
+        "title_japanese": "窓",
+        "title_synonyms": [
+            "The Window"
+        ],
+        "type": "Movie",
+        "source": "Original",
+        "episodes": 1,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "1965-01-01T00:00:00+00:00",
+            "to": null,
+            "prop": {
+                "from": {
+                    "day": 1,
+                    "month": 1,
+                    "year": 1965
+                },
+                "to": {
+                    "day": null,
+                    "month": null,
+                    "year": null
+                }
+            },
+            "string": "1965"
+        },
+        "duration": "5 min",
+        "rating": "G - All Ages",
+        "score": 4.63,
+        "scored_by": 688,
+        "rank": 14191,
+        "popularity": 14108,
+        "members": 1234,
+        "favorites": 0,
+        "synopsis": "Short experimental animation from 1965 by Yoji Kuri.",
+        "background": "",
+        "season": null,
+        "year": null,
+        "broadcast": {
+            "day": null,
+            "time": null,
+            "timezone": null,
+            "string": null
+        },
+        "producers": [],
+        "licensors": [],
+        "studios": [
+            {
+                "mal_id": 377,
+                "type": "anime",
+                "name": "Kuri Jikken Manga Koubou",
+                "url": "https://myanimelist.net/anime/producer/377/Kuri_Jikken_Manga_Koubou"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 4,
+                "type": "anime",
+                "name": "Comedy",
+                "url": "https://myanimelist.net/anime/genre/4/Comedy"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [],
+        "demographics": [],
+        "relations": [],
+        "theme": {
+            "openings": [],
+            "endings": []
+        },
+        "external": [],
+        "streaming": []
+    },
+    "episodes": []
+}

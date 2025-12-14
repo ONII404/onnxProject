@@ -1,0 +1,735 @@
+{
+    "id": 2799,
+    "fetched_at": "Sun Dec 14 07:31:17 2025",
+    "metadata": {
+        "mal_id": 2799,
+        "url": "https://myanimelist.net/anime/2799/Hello_Sandybell",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/13/42653.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/13/42653t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/13/42653l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/13/42653.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/13/42653t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/13/42653l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Hello! Sandybell"
+            },
+            {
+                "type": "Synonym",
+                "title": "Sandy Bell"
+            },
+            {
+                "type": "Synonym",
+                "title": "Sandy Jonquille"
+            },
+            {
+                "type": "Synonym",
+                "title": "Hello Sandybell"
+            },
+            {
+                "type": "Japanese",
+                "title": "ハロー！サンディベル"
+            },
+            {
+                "type": "Spanish",
+                "title": "hola! Sandybell"
+            }
+        ],
+        "title": "Hello! Sandybell",
+        "title_english": null,
+        "title_japanese": "ハロー！サンディベル",
+        "title_synonyms": [
+            "Sandy Bell",
+            "Sandy Jonquille",
+            "Hello Sandybell"
+        ],
+        "type": "TV",
+        "source": "Original",
+        "episodes": 47,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "1981-03-06T00:00:00+00:00",
+            "to": "1982-02-26T00:00:00+00:00",
+            "prop": {
+                "from": {
+                    "day": 6,
+                    "month": 3,
+                    "year": 1981
+                },
+                "to": {
+                    "day": 26,
+                    "month": 2,
+                    "year": 1982
+                }
+            },
+            "string": "Mar 6, 1981 to Feb 26, 1982"
+        },
+        "duration": "25 min per ep",
+        "rating": "G - All Ages",
+        "score": 7.07,
+        "scored_by": 3422,
+        "rank": 4219,
+        "popularity": 8058,
+        "members": 7223,
+        "favorites": 31,
+        "synopsis": "Sandybell is a playful girl from Scotland. She is happy even if her mum died when she was little. Past secrets begin to reveal after Sandybell gets a white lily from a rich lady. After a tragic act Sandybell moves to London where she is trying to find clues to her past.\n\n(Source: ANN)",
+        "background": "",
+        "season": "spring",
+        "year": 1981,
+        "broadcast": {
+            "day": "Fridays",
+            "time": "19:30",
+            "timezone": "Asia/Tokyo",
+            "string": "Fridays at 19:30 (JST)"
+        },
+        "producers": [
+            {
+                "mal_id": 55,
+                "type": "anime",
+                "name": "TV Asahi",
+                "url": "https://myanimelist.net/anime/producer/55/TV_Asahi"
+            }
+        ],
+        "licensors": [],
+        "studios": [
+            {
+                "mal_id": 18,
+                "type": "anime",
+                "name": "Toei Animation",
+                "url": "https://myanimelist.net/anime/producer/18/Toei_Animation"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 2,
+                "type": "anime",
+                "name": "Adventure",
+                "url": "https://myanimelist.net/anime/genre/2/Adventure"
+            },
+            {
+                "mal_id": 22,
+                "type": "anime",
+                "name": "Romance",
+                "url": "https://myanimelist.net/anime/genre/22/Romance"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [],
+        "demographics": [],
+        "relations": [],
+        "theme": {
+            "openings": [
+                "\"Hello! Sandybell (ハロー!サンディベル)\" by Mitsuko Horie, The Chirps"
+            ],
+            "endings": [
+                "\"Shiroi Suisen (白い水仙)\" by Mitsuko Horie, Koorogi '73"
+            ]
+        },
+        "external": [
+            {
+                "name": "Official Site",
+                "url": "http://www.toei-anim.co.jp/lineup/tv/sandybell/"
+            },
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=1924"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=1436"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Hello!_Sandybell"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": [
+        {
+            "mal_id": 1,
+            "url": null,
+            "title": "Episode 1",
+            "title_japanese": "あの子は緑の風の中",
+            "title_romanji": null,
+            "aired": "1981-03-06T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1375061"
+        },
+        {
+            "mal_id": 2,
+            "url": null,
+            "title": "Episode 2",
+            "title_japanese": "ママの花園",
+            "title_romanji": null,
+            "aired": "1981-03-13T00:00:00+00:00",
+            "score": 4.5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1375361"
+        },
+        {
+            "mal_id": 3,
+            "url": null,
+            "title": "Episode 3",
+            "title_japanese": "白水仙の待つ丘",
+            "title_romanji": null,
+            "aired": "1981-03-20T00:00:00+00:00",
+            "score": 4.5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1375439"
+        },
+        {
+            "mal_id": 4,
+            "url": null,
+            "title": "Episode 4",
+            "title_japanese": "花園のプリンス",
+            "title_romanji": null,
+            "aired": "1981-03-27T00:00:00+00:00",
+            "score": 4.5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1375777"
+        },
+        {
+            "mal_id": 5,
+            "url": null,
+            "title": "Episode 5",
+            "title_japanese": "逃げ出したプリンス",
+            "title_romanji": null,
+            "aired": "1978-04-03T00:00:00+00:00",
+            "score": 5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1375890"
+        },
+        {
+            "mal_id": 6,
+            "url": null,
+            "title": "Episode 6",
+            "title_japanese": "ときめきのデートは水の中",
+            "title_romanji": null,
+            "aired": "1981-04-10T00:00:00+00:00",
+            "score": 5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1375899"
+        },
+        {
+            "mal_id": 7,
+            "url": null,
+            "title": "Episode 7",
+            "title_japanese": "スケッチ旅行の罠",
+            "title_romanji": null,
+            "aired": "1981-04-17T00:00:00+00:00",
+            "score": 5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1376608"
+        },
+        {
+            "mal_id": 8,
+            "url": null,
+            "title": "Episode 8",
+            "title_japanese": "誕生パーティーの夜",
+            "title_romanji": null,
+            "aired": "1981-05-01T00:00:00+00:00",
+            "score": 5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1376617"
+        },
+        {
+            "mal_id": 9,
+            "url": null,
+            "title": "Episode 9",
+            "title_japanese": "別れは突然に",
+            "title_romanji": null,
+            "aired": "1981-05-08T00:00:00+00:00",
+            "score": 5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1376839"
+        },
+        {
+            "mal_id": 10,
+            "url": null,
+            "title": "Episode 10",
+            "title_japanese": "雨の夜の出来事",
+            "title_romanji": null,
+            "aired": "1981-05-15T00:00:00+00:00",
+            "score": 4.67,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1377636"
+        },
+        {
+            "mal_id": 11,
+            "url": null,
+            "title": "Episode 11",
+            "title_japanese": "秋風に揺れる花",
+            "title_romanji": null,
+            "aired": "1981-05-29T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 12,
+            "url": null,
+            "title": "Episode 12",
+            "title_japanese": "激流に叫ぶ声",
+            "title_romanji": null,
+            "aired": "1981-06-05T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 13,
+            "url": null,
+            "title": "Episode 13",
+            "title_japanese": "生命ひとつ雪の夜空に",
+            "title_romanji": null,
+            "aired": "1981-06-12T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 14,
+            "url": null,
+            "title": "Episode 14",
+            "title_japanese": "さようなら森と湖の故郷",
+            "title_romanji": null,
+            "aired": "1981-06-19T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 15,
+            "url": null,
+            "title": "Episode 15",
+            "title_japanese": "ロンドンの一夜",
+            "title_romanji": null,
+            "aired": "1981-06-26T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 16,
+            "url": null,
+            "title": "Episode 16",
+            "title_japanese": "つらい涙は屋根裏部屋で",
+            "title_romanji": null,
+            "aired": "1981-07-03T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 17,
+            "url": null,
+            "title": "Episode 17",
+            "title_japanese": "荒海がのんだ両親の謎",
+            "title_romanji": null,
+            "aired": "1981-07-10T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 18,
+            "url": null,
+            "title": "Episode 18",
+            "title_japanese": "引き裂かれた思い出の絵",
+            "title_romanji": null,
+            "aired": "1981-07-17T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 19,
+            "url": null,
+            "title": "Episode 19",
+            "title_japanese": "活字をぬすんだ怪盗",
+            "title_romanji": null,
+            "aired": "1981-07-24T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 20,
+            "url": null,
+            "title": "Episode 20",
+            "title_japanese": "波間に消えた憎しみ",
+            "title_romanji": null,
+            "aired": "1981-07-31T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 21,
+            "url": null,
+            "title": "Episode 21",
+            "title_japanese": "再会の故郷に雪が降る",
+            "title_romanji": null,
+            "aired": "1981-08-07T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 22,
+            "url": null,
+            "title": "Episode 22",
+            "title_japanese": "犬が運んだマークの手紙",
+            "title_romanji": null,
+            "aired": "1981-08-14T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 23,
+            "url": null,
+            "title": "Episode 23",
+            "title_japanese": "小さな記事の大きな波紋",
+            "title_romanji": null,
+            "aired": "1981-08-21T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 24,
+            "url": null,
+            "title": "Episode 24",
+            "title_japanese": "巣立ち行く夏の娘たち",
+            "title_romanji": null,
+            "aired": "1981-08-28T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 25,
+            "url": null,
+            "title": "Episode 25",
+            "title_japanese": "レッツゴー!花の少女記者",
+            "title_romanji": null,
+            "aired": "1981-09-04T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 26,
+            "url": null,
+            "title": "Episode 26",
+            "title_japanese": "ハチにおそわれて突撃取材",
+            "title_romanji": null,
+            "aired": "1981-09-11T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 27,
+            "url": null,
+            "title": "Episode 27",
+            "title_japanese": "鉄格子の中の特ダネ記者",
+            "title_romanji": null,
+            "aired": "1981-09-18T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 28,
+            "url": null,
+            "title": "Episode 28",
+            "title_japanese": "うちあけられない父の正体",
+            "title_romanji": null,
+            "aired": "1981-10-02T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 29,
+            "url": null,
+            "title": "Episode 29",
+            "title_japanese": "港に捨てられた赤ちゃんのゆくえ",
+            "title_romanji": null,
+            "aired": "1981-10-09T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 30,
+            "url": null,
+            "title": "Episode 30",
+            "title_japanese": "パリに生きる少女",
+            "title_romanji": null,
+            "aired": "1981-10-16T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 31,
+            "url": null,
+            "title": "Episode 31",
+            "title_japanese": "ロマンスの終りを告げる鐘",
+            "title_romanji": null,
+            "aired": "1981-10-23T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 32,
+            "url": null,
+            "title": "Episode 32",
+            "title_japanese": "パリの地下水道は愛の迷路",
+            "title_romanji": null,
+            "aired": "1981-11-06T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 33,
+            "url": null,
+            "title": "Episode 33",
+            "title_japanese": "マークを狙うシアラー家の陰謀",
+            "title_romanji": null,
+            "aired": "1981-11-13T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 34,
+            "url": null,
+            "title": "Episode 34",
+            "title_japanese": "ぶどう畑に帰って来た娘",
+            "title_romanji": null,
+            "aired": "1981-11-20T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 35,
+            "url": null,
+            "title": "Episode 35",
+            "title_japanese": "あの人をママと呼べなくても",
+            "title_romanji": null,
+            "aired": "1981-11-27T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 36,
+            "url": null,
+            "title": "Episode 36",
+            "title_japanese": "アテネへの危険な同乗者",
+            "title_romanji": null,
+            "aired": "1981-12-04T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 37,
+            "url": null,
+            "title": "Episode 37",
+            "title_japanese": "舟小屋に残されたマークの絵",
+            "title_romanji": null,
+            "aired": "1981-12-11T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 38,
+            "url": null,
+            "title": "Episode 38",
+            "title_japanese": "盗まれたサンディベル号",
+            "title_romanji": null,
+            "aired": "1981-12-18T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 39,
+            "url": null,
+            "title": "Episode 39",
+            "title_japanese": "マルセイユの危険な母さがし",
+            "title_romanji": null,
+            "aired": "1981-12-25T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 40,
+            "url": null,
+            "title": "Episode 40",
+            "title_japanese": "港のボスの意外な告白",
+            "title_romanji": null,
+            "aired": "1982-01-08T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 41,
+            "url": null,
+            "title": "Episode 41",
+            "title_japanese": "拾われた子犬と脅迫状",
+            "title_romanji": null,
+            "aired": "1982-01-15T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 42,
+            "url": null,
+            "title": "Episode 42",
+            "title_japanese": "ピレネー山麓にゆれるマークの心",
+            "title_romanji": null,
+            "aired": "1982-01-22T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 43,
+            "url": null,
+            "title": "Episode 43",
+            "title_japanese": "嵐の中に立つマークの決意",
+            "title_romanji": null,
+            "aired": "1982-01-29T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 44,
+            "url": null,
+            "title": "Episode 44",
+            "title_japanese": "再びつかんだ母のてがかり",
+            "title_romanji": null,
+            "aired": "1982-02-05T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 45,
+            "url": null,
+            "title": "Episode 45",
+            "title_japanese": "今、めぐり逢えた母は",
+            "title_romanji": null,
+            "aired": "1982-02-12T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 46,
+            "url": null,
+            "title": "Episode 46",
+            "title_japanese": "今、めぐり逢えた母は",
+            "title_romanji": null,
+            "aired": "1982-02-19T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 47,
+            "url": null,
+            "title": "Episode 47",
+            "title_japanese": "さようならサンディベル幸せを永遠に!",
+            "title_romanji": null,
+            "aired": "1982-02-26T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        }
+    ]
+}

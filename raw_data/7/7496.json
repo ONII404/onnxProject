@@ -1,0 +1,165 @@
+{
+    "id": 7496,
+    "fetched_at": "Sun Dec 14 09:10:40 2025",
+    "metadata": {
+        "mal_id": 7496,
+        "url": "https://myanimelist.net/anime/7496/Saiyuuki__Son_Gokuu_Monogatari",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/11/17996.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/11/17996t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/11/17996l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/11/17996.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/11/17996t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/11/17996l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Saiyuuki: Son Gokuu Monogatari"
+            },
+            {
+                "type": "Synonym",
+                "title": "Saiyuki"
+            },
+            {
+                "type": "Synonym",
+                "title": "Journey to the West: Songoku's Story"
+            },
+            {
+                "type": "Japanese",
+                "title": "西遊記孫悟空物語"
+            }
+        ],
+        "title": "Saiyuuki: Son Gokuu Monogatari",
+        "title_english": null,
+        "title_japanese": "西遊記孫悟空物語",
+        "title_synonyms": [
+            "Saiyuki",
+            "Journey to the West: Songoku's Story"
+        ],
+        "type": "Movie",
+        "source": "Novel",
+        "episodes": 1,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "1926-01-01T00:00:00+00:00",
+            "to": null,
+            "prop": {
+                "from": {
+                    "day": 1,
+                    "month": 1,
+                    "year": 1926
+                },
+                "to": {
+                    "day": null,
+                    "month": null,
+                    "year": null
+                }
+            },
+            "string": "1926"
+        },
+        "duration": "8 min",
+        "rating": "G - All Ages",
+        "score": 5.34,
+        "scored_by": 606,
+        "rank": 13153,
+        "popularity": 13244,
+        "members": 1548,
+        "favorites": 2,
+        "synopsis": "A short film based on the classic novel Journey to the West.",
+        "background": "",
+        "season": null,
+        "year": null,
+        "broadcast": {
+            "day": null,
+            "time": null,
+            "timezone": null,
+            "string": null
+        },
+        "producers": [],
+        "licensors": [],
+        "studios": [],
+        "genres": [
+            {
+                "mal_id": 2,
+                "type": "anime",
+                "name": "Adventure",
+                "url": "https://myanimelist.net/anime/genre/2/Adventure"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [],
+        "demographics": [],
+        "relations": [
+            {
+                "relation": "Alternative Version",
+                "entry": [
+                    {
+                        "mal_id": 24669,
+                        "type": "anime",
+                        "name": "Son Gokuu Silk Road wo Tobu!!",
+                        "url": "https://myanimelist.net/anime/24669/Son_Gokuu_Silk_Road_wo_Tobu"
+                    },
+                    {
+                        "mal_id": 20189,
+                        "type": "anime",
+                        "name": "Boku no Son Gokuu",
+                        "url": "https://myanimelist.net/anime/20189/Boku_no_Son_Gokuu"
+                    }
+                ]
+            },
+            {
+                "relation": "Alternative Setting",
+                "entry": [
+                    {
+                        "mal_id": 16814,
+                        "type": "anime",
+                        "name": "Son O-gong gwa Byeoldeul-ui Jeonjaeng",
+                        "url": "https://myanimelist.net/anime/16814/Son_O-gong_gwa_Byeoldeul-ui_Jeonjaeng"
+                    }
+                ]
+            },
+            {
+                "relation": "Character",
+                "entry": [
+                    {
+                        "mal_id": 28555,
+                        "type": "anime",
+                        "name": "Son Gokuu no Hi no Youjin",
+                        "url": "https://myanimelist.net/anime/28555/Son_Gokuu_no_Hi_no_Youjin"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [],
+            "endings": []
+        },
+        "external": [
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=6846"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": []
+}

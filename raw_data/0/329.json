@@ -1,0 +1,567 @@
+{
+    "id": 329,
+    "fetched_at": "Sun Dec 14 12:58:30 2025",
+    "metadata": {
+        "mal_id": 329,
+        "url": "https://myanimelist.net/anime/329/Planetes",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1209/142900.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1209/142900t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1209/142900l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1209/142900.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1209/142900t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1209/142900l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": "https://www.youtube-nocookie.com/embed/IzfiI1jIGi8?enablejsapi=1&wmode=opaque&autoplay=1",
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Planetes"
+            },
+            {
+                "type": "Synonym",
+                "title": "ΠΛΑΝΗΤΕΣ"
+            },
+            {
+                "type": "Japanese",
+                "title": "プラネテス"
+            },
+            {
+                "type": "English",
+                "title": "Planetes"
+            }
+        ],
+        "title": "Planetes",
+        "title_english": "Planetes",
+        "title_japanese": "プラネテス",
+        "title_synonyms": [
+            "ΠΛΑΝΗΤΕΣ"
+        ],
+        "type": "TV",
+        "source": "Manga",
+        "episodes": 26,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "2003-10-04T00:00:00+00:00",
+            "to": "2004-04-17T00:00:00+00:00",
+            "prop": {
+                "from": {
+                    "day": 4,
+                    "month": 10,
+                    "year": 2003
+                },
+                "to": {
+                    "day": 17,
+                    "month": 4,
+                    "year": 2004
+                }
+            },
+            "string": "Oct 4, 2003 to Apr 17, 2004"
+        },
+        "duration": "25 min per ep",
+        "rating": "PG-13 - Teens 13 or older",
+        "score": 8.24,
+        "scored_by": 81978,
+        "rank": 375,
+        "popularity": 991,
+        "members": 275181,
+        "favorites": 4064,
+        "synopsis": "In 2075, space travel is no longer just a dream, but an everyday reality for mankind. Advancements in science and technology have led to the colonization of the moon, the commercialization of outer space, and the formation of large space corporations. Ai Tanabe, an upbeat woman whose interests lie in the cosmos, joins Technora Corporation as a member of their Debris Section, a department dedicated to the removal of dangerous space junk between the orbits of the Earth and Moon.\n\nHowever, Ai soon discovers how unappreciated her job is. As the laughingstock of Technora, the Debris Section is severely understaffed, poorly funded, and is forced to use a dilapidated spaceship nicknamed the \"Toy Box\" for debris retrieval. Undeterred, Ai perseveres and gradually becomes acquainted with the strange personalities that make up the Debris Section's staff, such as the bumbling but good-natured chief clerk Philippe Myers; the mysterious and tight-lipped temp worker Edelgard Rivera; and the hotheaded and passionate Hachirouta Hoshino, who longs for a spaceship to call his own.\n\nPlanetes is an unconventional sci-fi series that portrays the vastness of space as a backdrop for the personal lives of ordinary people—people who may have been born on Earth, but whose hopes and dreams lie amongst the stars.\n\n[Written by MAL Rewrite]",
+        "background": "Planetes is the winner of the 2005 Seiun Award for Best Dramatic Presentation in science fiction.",
+        "season": "fall",
+        "year": 2003,
+        "broadcast": {
+            "day": "Saturdays",
+            "time": "08:05",
+            "timezone": "Asia/Tokyo",
+            "string": "Saturdays at 08:05 (JST)"
+        },
+        "producers": [
+            {
+                "mal_id": 23,
+                "type": "anime",
+                "name": "Bandai Visual",
+                "url": "https://myanimelist.net/anime/producer/23/Bandai_Visual"
+            },
+            {
+                "mal_id": 111,
+                "type": "anime",
+                "name": "NHK",
+                "url": "https://myanimelist.net/anime/producer/111/NHK"
+            }
+        ],
+        "licensors": [
+            {
+                "mal_id": 233,
+                "type": "anime",
+                "name": "Bandai Entertainment",
+                "url": "https://myanimelist.net/anime/producer/233/Bandai_Entertainment"
+            },
+            {
+                "mal_id": 1468,
+                "type": "anime",
+                "name": "Crunchyroll",
+                "url": "https://myanimelist.net/anime/producer/1468/Crunchyroll"
+            }
+        ],
+        "studios": [
+            {
+                "mal_id": 14,
+                "type": "anime",
+                "name": "Sunrise",
+                "url": "https://myanimelist.net/anime/producer/14/Sunrise"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 46,
+                "type": "anime",
+                "name": "Award Winning",
+                "url": "https://myanimelist.net/anime/genre/46/Award_Winning"
+            },
+            {
+                "mal_id": 8,
+                "type": "anime",
+                "name": "Drama",
+                "url": "https://myanimelist.net/anime/genre/8/Drama"
+            },
+            {
+                "mal_id": 22,
+                "type": "anime",
+                "name": "Romance",
+                "url": "https://myanimelist.net/anime/genre/22/Romance"
+            },
+            {
+                "mal_id": 24,
+                "type": "anime",
+                "name": "Sci-Fi",
+                "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [
+            {
+                "mal_id": 50,
+                "type": "anime",
+                "name": "Adult Cast",
+                "url": "https://myanimelist.net/anime/genre/50/Adult_Cast"
+            },
+            {
+                "mal_id": 29,
+                "type": "anime",
+                "name": "Space",
+                "url": "https://myanimelist.net/anime/genre/29/Space"
+            },
+            {
+                "mal_id": 48,
+                "type": "anime",
+                "name": "Workplace",
+                "url": "https://myanimelist.net/anime/genre/48/Workplace"
+            }
+        ],
+        "demographics": [
+            {
+                "mal_id": 42,
+                "type": "anime",
+                "name": "Seinen",
+                "url": "https://myanimelist.net/anime/genre/42/Seinen"
+            }
+        ],
+        "relations": [
+            {
+                "relation": "Adaptation",
+                "entry": [
+                    {
+                        "mal_id": 481,
+                        "type": "manga",
+                        "name": "Planetes",
+                        "url": "https://myanimelist.net/manga/481/Planetes"
+                    }
+                ]
+            },
+            {
+                "relation": "Other",
+                "entry": [
+                    {
+                        "mal_id": 10735,
+                        "type": "anime",
+                        "name": "Planetes Picture Drama",
+                        "url": "https://myanimelist.net/anime/10735/Planetes_Picture_Drama"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [
+                "\"Dive in the Sky\" by Mikio Sakai"
+            ],
+            "endings": [
+                "1: \"Wonderful Life\" by Mikio Sakai (eps 1-25)",
+                "2: \"PLANETES ~Affettuosso~\" by Hitomi Kuroishi (eps 26)"
+            ]
+        },
+        "external": [
+            {
+                "name": "Official Site",
+                "url": "http://www.planet-es.net/"
+            },
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=895"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=2654"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Planetes#Anime"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "https://ja.wikipedia.org/wiki/%E3%83%97%E3%83%A9%E3%83%8D%E3%83%86%E3%82%B9#%E3%82%A2%E3%83%8B%E3%83%A1"
+            },
+            {
+                "name": "Syoboi",
+                "url": "https://cal.syoboi.jp/tid/152"
+            }
+        ],
+        "streaming": [
+            {
+                "name": "Crunchyroll",
+                "url": "http://www.crunchyroll.com/series-283915"
+            }
+        ]
+    },
+    "episodes": [
+        {
+            "mal_id": 1,
+            "url": "https://myanimelist.net/anime/329/Planetes/episode/1",
+            "title": "Outside the Atmosphere",
+            "title_japanese": "大気の外で",
+            "title_romanji": "Taiki no Soto de ",
+            "aired": "2003-10-04T00:00:00+00:00",
+            "score": 4.25,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=30810"
+        },
+        {
+            "mal_id": 2,
+            "url": "https://myanimelist.net/anime/329/Planetes/episode/2",
+            "title": "Like a Dream",
+            "title_japanese": "夢のような",
+            "title_romanji": "Yume no You na ",
+            "aired": "2003-10-11T00:00:00+00:00",
+            "score": 4.4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=35660"
+        },
+        {
+            "mal_id": 3,
+            "url": "https://myanimelist.net/anime/329/Planetes/episode/3",
+            "title": "Return Trajectory",
+            "title_japanese": "帰還軌道",
+            "title_romanji": "Kikan Kidou ",
+            "aired": "2003-10-18T00:00:00+00:00",
+            "score": 3.61,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=35661"
+        },
+        {
+            "mal_id": 4,
+            "url": "https://myanimelist.net/anime/329/Planetes/episode/4",
+            "title": "Part of the Job",
+            "title_japanese": "仕事として",
+            "title_romanji": "Shigoto Toshite ",
+            "aired": "2003-10-25T00:00:00+00:00",
+            "score": 4.14,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=36698"
+        },
+        {
+            "mal_id": 5,
+            "url": "https://myanimelist.net/anime/329/Planetes/episode/5",
+            "title": "Fly Me to the Moon",
+            "title_japanese": "フライ·ミー·トゥ·ザ·ムーン",
+            "title_romanji": "Fly Me to the Moon ",
+            "aired": "2003-11-01T00:00:00+00:00",
+            "score": 4.1,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=36822"
+        },
+        {
+            "mal_id": 6,
+            "url": "https://myanimelist.net/anime/329/Planetes/episode/6",
+            "title": "The Lunar Flying Squirrels",
+            "title_japanese": "月のムササビ",
+            "title_romanji": "Tsuki no Musasabi ",
+            "aired": "2003-11-08T00:00:00+00:00",
+            "score": 3.33,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=36853"
+        },
+        {
+            "mal_id": 7,
+            "url": "https://myanimelist.net/anime/329/Planetes/episode/7",
+            "title": "Extraterrestrial Girl",
+            "title_japanese": "地球外少女",
+            "title_romanji": "Chikyuugai Shoujo ",
+            "aired": "2003-11-15T00:00:00+00:00",
+            "score": 4.59,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=37981"
+        },
+        {
+            "mal_id": 8,
+            "url": "https://myanimelist.net/anime/329/Planetes/episode/8",
+            "title": "A Place to Cling to",
+            "title_japanese": "拠るべき場所",
+            "title_romanji": "Yorubeki Basho ",
+            "aired": "2003-11-22T00:00:00+00:00",
+            "score": 4.2,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=67712"
+        },
+        {
+            "mal_id": 9,
+            "url": "https://myanimelist.net/anime/329/Planetes/episode/9",
+            "title": "Regrets",
+            "title_japanese": "心のこり",
+            "title_romanji": "Kokoro no Kori ",
+            "aired": "2003-11-29T00:00:00+00:00",
+            "score": 4.5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=40287"
+        },
+        {
+            "mal_id": 10,
+            "url": "https://myanimelist.net/anime/329/Planetes/episode/10",
+            "title": "A Sky of Stardust",
+            "title_japanese": "屑星の空",
+            "title_romanji": "Kuzuboshi no Sora ",
+            "aired": "2003-12-06T00:00:00+00:00",
+            "score": 4.69,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=40540"
+        },
+        {
+            "mal_id": 11,
+            "url": "https://myanimelist.net/anime/329/Planetes/episode/11",
+            "title": "Boundary Line",
+            "title_japanese": "バウンダリー·ライン",
+            "title_romanji": "Boundary Line ",
+            "aired": "2003-12-13T00:00:00+00:00",
+            "score": 4.61,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=40553"
+        },
+        {
+            "mal_id": 12,
+            "url": "https://myanimelist.net/anime/329/Planetes/episode/12",
+            "title": "A Modest Request",
+            "title_japanese": "ささやかなる願いを",
+            "title_romanji": "Sasayaka naru Negai wo ",
+            "aired": "2003-12-20T00:00:00+00:00",
+            "score": 4.68,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=39427"
+        },
+        {
+            "mal_id": 13,
+            "url": "https://myanimelist.net/anime/329/Planetes/episode/13",
+            "title": "Scenery With a Rocket",
+            "title_japanese": "ロケットのある風景",
+            "title_romanji": "Rocket no Aru Fuukei ",
+            "aired": "2004-01-10T00:00:00+00:00",
+            "score": 4.61,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=40345"
+        },
+        {
+            "mal_id": 14,
+            "url": "https://myanimelist.net/anime/329/Planetes/episode/14",
+            "title": "Turning Point",
+            "title_japanese": "ターニング·ポイント",
+            "title_romanji": "Turning Point ",
+            "aired": "2004-01-17T00:00:00+00:00",
+            "score": 4.58,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=40412"
+        },
+        {
+            "mal_id": 15,
+            "url": "https://myanimelist.net/anime/329/Planetes/episode/15",
+            "title": "In Her Case",
+            "title_japanese": "彼女の場合",
+            "title_romanji": "Kanojo no Baai ",
+            "aired": "2004-01-24T00:00:00+00:00",
+            "score": 4.46,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=40422"
+        },
+        {
+            "mal_id": 16,
+            "url": "https://myanimelist.net/anime/329/Planetes/episode/16",
+            "title": "Ignition",
+            "title_japanese": "イグニッション",
+            "title_romanji": "Ignition ",
+            "aired": "2004-01-31T00:00:00+00:00",
+            "score": 4.45,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=40519"
+        },
+        {
+            "mal_id": 17,
+            "url": "https://myanimelist.net/anime/329/Planetes/episode/17",
+            "title": "His Reasons",
+            "title_japanese": "それゆえの彼",
+            "title_romanji": "Sore Yue no Kare ",
+            "aired": "2004-02-07T00:00:00+00:00",
+            "score": 4.26,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=41384"
+        },
+        {
+            "mal_id": 18,
+            "url": "https://myanimelist.net/anime/329/Planetes/episode/18",
+            "title": "Debris Section, Last Day",
+            "title_japanese": "デブリ課, 最期の日",
+            "title_romanji": "Debris-ka, Saigo no Hi ",
+            "aired": "2004-02-14T00:00:00+00:00",
+            "score": 4.53,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=40589"
+        },
+        {
+            "mal_id": 19,
+            "url": "https://myanimelist.net/anime/329/Planetes/episode/19",
+            "title": "Endings Are Always...",
+            "title_japanese": "終わりは いつも...",
+            "title_romanji": "Owari wa Itsumo... ",
+            "aired": "2004-02-21T00:00:00+00:00",
+            "score": 4.34,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=40592"
+        },
+        {
+            "mal_id": 20,
+            "url": "https://myanimelist.net/anime/329/Planetes/episode/20",
+            "title": "Tentative Steps",
+            "title_japanese": "ためらいがちの",
+            "title_romanji": "Tamerai Gachi no ",
+            "aired": "2004-02-28T00:00:00+00:00",
+            "score": 4.57,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=41841"
+        },
+        {
+            "mal_id": 21,
+            "url": "https://myanimelist.net/anime/329/Planetes/episode/21",
+            "title": "Tandem Mirror",
+            "title_japanese": "タンデム·ミラー",
+            "title_romanji": "Tandem Mirror ",
+            "aired": "2004-03-06T00:00:00+00:00",
+            "score": 4.53,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=40609"
+        },
+        {
+            "mal_id": 22,
+            "url": "https://myanimelist.net/anime/329/Planetes/episode/22",
+            "title": "Exposure",
+            "title_japanese": "暴露",
+            "title_romanji": "Bakuro ",
+            "aired": "2004-03-13T00:00:00+00:00",
+            "score": 4.41,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=40612"
+        },
+        {
+            "mal_id": 23,
+            "url": "https://myanimelist.net/anime/329/Planetes/episode/23",
+            "title": "Debris Cluster",
+            "title_japanese": "デブリの群れ",
+            "title_romanji": "Debris no Mure ",
+            "aired": "2004-03-20T00:00:00+00:00",
+            "score": 4.49,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=40680"
+        },
+        {
+            "mal_id": 24,
+            "url": "https://myanimelist.net/anime/329/Planetes/episode/24",
+            "title": "Love",
+            "title_japanese": "愛",
+            "title_romanji": "Ai ",
+            "aired": "2004-04-03T00:00:00+00:00",
+            "score": 4.57,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=40686"
+        },
+        {
+            "mal_id": 25,
+            "url": "https://myanimelist.net/anime/329/Planetes/episode/25",
+            "title": "The Lost",
+            "title_japanese": "惑い人",
+            "title_romanji": "Madoi Hito ",
+            "aired": "2004-04-10T00:00:00+00:00",
+            "score": 4.45,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=40688"
+        },
+        {
+            "mal_id": 26,
+            "url": "https://myanimelist.net/anime/329/Planetes/episode/26",
+            "title": "And the Days We Chance Upon...",
+            "title_japanese": "そして巡りあう日々",
+            "title_romanji": "Soshite Meguri au Hibi ",
+            "aired": "2004-04-17T00:00:00+00:00",
+            "score": 4.51,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=40692"
+        }
+    ]
+}

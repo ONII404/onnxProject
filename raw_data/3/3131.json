@@ -1,0 +1,182 @@
+{
+    "id": 3131,
+    "fetched_at": "Sun Dec 14 08:19:46 2025",
+    "metadata": {
+        "mal_id": 3131,
+        "url": "https://myanimelist.net/anime/3131/Ashita_Tenki_ni_Naare",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/3/64569.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/3/64569t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/3/64569l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/3/64569.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/3/64569t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/3/64569l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Ashita Tenki ni Naare"
+            },
+            {
+                "type": "Synonym",
+                "title": "There's Good Weather Tomorrow"
+            },
+            {
+                "type": "Japanese",
+                "title": "あした天気になあれ"
+            },
+            {
+                "type": "English",
+                "title": "A Great Super Shot Boy"
+            }
+        ],
+        "title": "Ashita Tenki ni Naare",
+        "title_english": "A Great Super Shot Boy",
+        "title_japanese": "あした天気になあれ",
+        "title_synonyms": [
+            "There's Good Weather Tomorrow"
+        ],
+        "type": "TV",
+        "source": "Manga",
+        "episodes": 47,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "1984-10-06T00:00:00+00:00",
+            "to": "1985-09-27T00:00:00+00:00",
+            "prop": {
+                "from": {
+                    "day": 6,
+                    "month": 10,
+                    "year": 1984
+                },
+                "to": {
+                    "day": 27,
+                    "month": 9,
+                    "year": 1985
+                }
+            },
+            "string": "Oct 6, 1984 to Sep 27, 1985"
+        },
+        "duration": "22 min per ep",
+        "rating": "G - All Ages",
+        "score": 6.13,
+        "scored_by": 580,
+        "rank": 9582,
+        "popularity": 13697,
+        "members": 1369,
+        "favorites": 1,
+        "synopsis": "The adventures of a young golf player.",
+        "background": "",
+        "season": "fall",
+        "year": 1984,
+        "broadcast": {
+            "day": null,
+            "time": null,
+            "timezone": null,
+            "string": "Unknown"
+        },
+        "producers": [
+            {
+                "mal_id": 139,
+                "type": "anime",
+                "name": "Nihon Ad Systems",
+                "url": "https://myanimelist.net/anime/producer/139/Nihon_Ad_Systems"
+            },
+            {
+                "mal_id": 169,
+                "type": "anime",
+                "name": "Fuji TV",
+                "url": "https://myanimelist.net/anime/producer/169/Fuji_TV"
+            }
+        ],
+        "licensors": [],
+        "studios": [
+            {
+                "mal_id": 390,
+                "type": "anime",
+                "name": "Tsuchida Productions",
+                "url": "https://myanimelist.net/anime/producer/390/Tsuchida_Productions"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 30,
+                "type": "anime",
+                "name": "Sports",
+                "url": "https://myanimelist.net/anime/genre/30/Sports"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [],
+        "demographics": [
+            {
+                "mal_id": 27,
+                "type": "anime",
+                "name": "Shounen",
+                "url": "https://myanimelist.net/anime/genre/27/Shounen"
+            }
+        ],
+        "relations": [
+            {
+                "relation": "Adaptation",
+                "entry": [
+                    {
+                        "mal_id": 107460,
+                        "type": "manga",
+                        "name": "Ashita Tenki ni Naare",
+                        "url": "https://myanimelist.net/manga/107460/Ashita_Tenki_ni_Naare"
+                    }
+                ]
+            },
+            {
+                "relation": "Side Story",
+                "entry": [
+                    {
+                        "mal_id": 31693,
+                        "type": "anime",
+                        "name": "Ashita Tenki ni Naare Omake",
+                        "url": "https://myanimelist.net/anime/31693/Ashita_Tenki_ni_Naare_Omake"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [],
+            "endings": []
+        },
+        "external": [
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=3075"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=1183"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "https://ja.wikipedia.org/wiki/%E3%81%82%E3%81%97%E3%81%9F%E5%A4%A9%E6%B0%97%E3%81%AB%E3%81%AA%E3%81%82%E3%82%8C_(%E6%BC%AB%E7%94%BB)"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": []
+}

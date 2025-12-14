@@ -1,0 +1,181 @@
+{
+    "id": 39369,
+    "fetched_at": "Sun Dec 14 11:24:15 2025",
+    "metadata": {
+        "mal_id": 39369,
+        "url": "https://myanimelist.net/anime/39369/Koutsuu_Anzen_da_yo_Doraemon",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1964/145474.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1964/145474t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1964/145474l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1964/145474.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1964/145474t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1964/145474l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Koutsuu Anzen da yo Doraemon"
+            },
+            {
+                "type": "Synonym",
+                "title": "Koutsuu Anzen da yo Doraemon Part II"
+            },
+            {
+                "type": "Synonym",
+                "title": "Traffic Safety with Doraemon"
+            },
+            {
+                "type": "Japanese",
+                "title": "交通安全だよ ドラえもん"
+            }
+        ],
+        "title": "Koutsuu Anzen da yo Doraemon",
+        "title_english": null,
+        "title_japanese": "交通安全だよ ドラえもん",
+        "title_synonyms": [
+            "Koutsuu Anzen da yo Doraemon Part II",
+            "Traffic Safety with Doraemon"
+        ],
+        "type": "Movie",
+        "source": "Manga",
+        "episodes": 2,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "1981-01-01T00:00:00+00:00",
+            "to": null,
+            "prop": {
+                "from": {
+                    "day": 1,
+                    "month": 1,
+                    "year": 1981
+                },
+                "to": {
+                    "day": null,
+                    "month": null,
+                    "year": null
+                }
+            },
+            "string": "1981"
+        },
+        "duration": "13 min per ep",
+        "rating": "G - All Ages",
+        "score": 6.13,
+        "scored_by": 282,
+        "rank": 9548,
+        "popularity": 15738,
+        "members": 801,
+        "favorites": 0,
+        "synopsis": "A traffic safety anime starring the cast of Doraemon. \n\nThe first episode is roughly 16 minutes long and available for loan for Japanese educators from various libraries and city halls. \n\nThe second episode was discovered through an auction website, the seller provided some images and stated that he estimates it to be 10 minutes long but feared the 16mm film would fall apart due to age if he continued handling it.",
+        "background": "",
+        "season": null,
+        "year": null,
+        "broadcast": {
+            "day": null,
+            "time": null,
+            "timezone": null,
+            "string": null
+        },
+        "producers": [],
+        "licensors": [],
+        "studios": [
+            {
+                "mal_id": 247,
+                "type": "anime",
+                "name": "Shin-Ei Animation",
+                "url": "https://myanimelist.net/anime/producer/247/Shin-Ei_Animation"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 24,
+                "type": "anime",
+                "name": "Sci-Fi",
+                "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [
+            {
+                "mal_id": 56,
+                "type": "anime",
+                "name": "Educational",
+                "url": "https://myanimelist.net/anime/genre/56/Educational"
+            }
+        ],
+        "demographics": [
+            {
+                "mal_id": 15,
+                "type": "anime",
+                "name": "Kids",
+                "url": "https://myanimelist.net/anime/genre/15/Kids"
+            }
+        ],
+        "relations": [
+            {
+                "relation": "Adaptation",
+                "entry": [
+                    {
+                        "mal_id": 1032,
+                        "type": "manga",
+                        "name": "Doraemon",
+                        "url": "https://myanimelist.net/manga/1032/Doraemon"
+                    }
+                ]
+            },
+            {
+                "relation": "Character",
+                "entry": [
+                    {
+                        "mal_id": 2471,
+                        "type": "anime",
+                        "name": "Doraemon (1979)",
+                        "url": "https://myanimelist.net/anime/2471/Doraemon_1979"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [],
+            "endings": []
+        },
+        "external": [
+            {
+                "name": "Official Site",
+                "url": "http://contents.manabi.pref.gunma.jp/gnkg01/pub/sheet.php?id=399949"
+            },
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=1078"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=1318"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Doraemon_(1979_TV_series)"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": []
+}

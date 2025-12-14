@@ -1,0 +1,578 @@
+{
+    "id": 24,
+    "fetched_at": "Sun Dec 14 12:31:50 2025",
+    "metadata": {
+        "mal_id": 24,
+        "url": "https://myanimelist.net/anime/24/School_Rumble",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1465/142014.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1465/142014t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1465/142014l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1465/142014.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1465/142014t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1465/142014l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": "https://www.youtube-nocookie.com/embed/K4hy46Y-Cf8?enablejsapi=1&wmode=opaque&autoplay=1",
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "School Rumble"
+            },
+            {
+                "type": "Japanese",
+                "title": "スクールランブル"
+            },
+            {
+                "type": "English",
+                "title": "School Rumble"
+            }
+        ],
+        "title": "School Rumble",
+        "title_english": "School Rumble",
+        "title_japanese": "スクールランブル",
+        "title_synonyms": [],
+        "type": "TV",
+        "source": "Manga",
+        "episodes": 26,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "2004-10-05T00:00:00+00:00",
+            "to": "2005-03-29T00:00:00+00:00",
+            "prop": {
+                "from": {
+                    "day": 5,
+                    "month": 10,
+                    "year": 2004
+                },
+                "to": {
+                    "day": 29,
+                    "month": 3,
+                    "year": 2005
+                }
+            },
+            "string": "Oct 5, 2004 to Mar 29, 2005"
+        },
+        "duration": "23 min per ep",
+        "rating": "PG-13 - Teens 13 or older",
+        "score": 7.88,
+        "scored_by": 153853,
+        "rank": 902,
+        "popularity": 788,
+        "members": 342032,
+        "favorites": 5367,
+        "synopsis": "Just the words \"I love you,\" and everything changes—such is the nature of the bittersweet trials of high school romance. Tenma Tsukamoto, a second year, is on a quest to confess her feelings to the boy she likes. Kenji Harima, a delinquent with a sizable reputation, is in a similar situation, as he cannot properly convey his feelings to the one he loves. Between school, friends, rivalries, and hobbies, these two will find that high school romance is no walk in the park, especially as misunderstandings further complicate their plight.\n\nSchool Rumble is a high-octane romantic comedy full of relatable situations, as Tenma and Kenji both try to win the hearts of those they desire.\n\n[Written by MAL Rewrite]",
+        "background": "Based on the manga serialized in the Weekly Shonen Magazine, drawn by Jin Kobayashi.",
+        "season": "fall",
+        "year": 2004,
+        "broadcast": {
+            "day": "Tuesdays",
+            "time": "18:00",
+            "timezone": "Asia/Tokyo",
+            "string": "Tuesdays at 18:00 (JST)"
+        },
+        "producers": [
+            {
+                "mal_id": 16,
+                "type": "anime",
+                "name": "TV Tokyo",
+                "url": "https://myanimelist.net/anime/producer/16/TV_Tokyo"
+            },
+            {
+                "mal_id": 64,
+                "type": "anime",
+                "name": "Sotsu",
+                "url": "https://myanimelist.net/anime/producer/64/Sotsu"
+            },
+            {
+                "mal_id": 82,
+                "type": "anime",
+                "name": "Marvelous Entertainment",
+                "url": "https://myanimelist.net/anime/producer/82/Marvelous_Entertainment"
+            },
+            {
+                "mal_id": 92,
+                "type": "anime",
+                "name": "Starchild Records",
+                "url": "https://myanimelist.net/anime/producer/92/Starchild_Records"
+            },
+            {
+                "mal_id": 108,
+                "type": "anime",
+                "name": "Media Factory",
+                "url": "https://myanimelist.net/anime/producer/108/Media_Factory"
+            },
+            {
+                "mal_id": 315,
+                "type": "anime",
+                "name": "DAX Production",
+                "url": "https://myanimelist.net/anime/producer/315/DAX_Production"
+            }
+        ],
+        "licensors": [
+            {
+                "mal_id": 102,
+                "type": "anime",
+                "name": "Funimation",
+                "url": "https://myanimelist.net/anime/producer/102/Funimation"
+            }
+        ],
+        "studios": [
+            {
+                "mal_id": 126,
+                "type": "anime",
+                "name": "Studio Comet",
+                "url": "https://myanimelist.net/anime/producer/126/Studio_Comet"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 4,
+                "type": "anime",
+                "name": "Comedy",
+                "url": "https://myanimelist.net/anime/genre/4/Comedy"
+            },
+            {
+                "mal_id": 22,
+                "type": "anime",
+                "name": "Romance",
+                "url": "https://myanimelist.net/anime/genre/22/Romance"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [
+            {
+                "mal_id": 57,
+                "type": "anime",
+                "name": "Gag Humor",
+                "url": "https://myanimelist.net/anime/genre/57/Gag_Humor"
+            },
+            {
+                "mal_id": 64,
+                "type": "anime",
+                "name": "Love Polygon",
+                "url": "https://myanimelist.net/anime/genre/64/Love_Polygon"
+            },
+            {
+                "mal_id": 23,
+                "type": "anime",
+                "name": "School",
+                "url": "https://myanimelist.net/anime/genre/23/School"
+            }
+        ],
+        "demographics": [
+            {
+                "mal_id": 27,
+                "type": "anime",
+                "name": "Shounen",
+                "url": "https://myanimelist.net/anime/genre/27/Shounen"
+            }
+        ],
+        "relations": [
+            {
+                "relation": "Sequel",
+                "entry": [
+                    {
+                        "mal_id": 846,
+                        "type": "anime",
+                        "name": "School Rumble Ni Gakki",
+                        "url": "https://myanimelist.net/anime/846/School_Rumble_Ni_Gakki"
+                    }
+                ]
+            },
+            {
+                "relation": "Adaptation",
+                "entry": [
+                    {
+                        "mal_id": 160,
+                        "type": "manga",
+                        "name": "School Rumble",
+                        "url": "https://myanimelist.net/manga/160/School_Rumble"
+                    }
+                ]
+            },
+            {
+                "relation": "Side Story",
+                "entry": [
+                    {
+                        "mal_id": 517,
+                        "type": "anime",
+                        "name": "School Rumble: Ichi Gakki Hoshuu",
+                        "url": "https://myanimelist.net/anime/517/School_Rumble__Ichi_Gakki_Hoshuu"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [
+                "1: \"Scramble\" by Yui Horie with UNSCANDAL (eps 1-24)",
+                "2: \"Umi no Otoko wa yo (海の男はよ)\" by Kikoukumaru's Man Chorus Group (eps 25)"
+            ],
+            "endings": [
+                "1: \"Onna no Ko Otoko no Ko\" by Yuko Ogura",
+                "2: \"Hatenkou Robo Dojibiron no Teema\" by Hiroki Takahashi",
+                "3: \"Hatenkou Robo Dojibiron no Tema\" by Nanba Juuzou & Dojibiron V (eps 18)",
+                "4: \"Scramble\" by Yui Horie with UNSCANDAL (eps 25)",
+                "5: \"School Rumble 4 Ever\" by Ami Koshimizu, Hitomi Nabatame, Yui Horie & Kaori Shimizu (eps 26)"
+            ]
+        },
+        "external": [
+            {
+                "name": "Official Site",
+                "url": "https://www.marv.jp/special/school-rumble/anime01/index.html"
+            },
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=2165"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=4114"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/School_Rumble"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "https://ja.wikipedia.org/wiki/スクールランブル"
+            }
+        ],
+        "streaming": [
+            {
+                "name": "Crunchyroll",
+                "url": "http://www.crunchyroll.com/series-283323"
+            }
+        ]
+    },
+    "episodes": [
+        {
+            "mal_id": 1,
+            "url": "https://myanimelist.net/anime/24/School_Rumble/episode/1",
+            "title": "The New School Year! Be Still My Heart! / Love Letter Mayhem! / Warp Speed on a Bike!",
+            "title_japanese": "新学期でドキドキ! / ラブレターでジタバタ! / 自転車でドキューン!",
+            "title_romanji": "Shingakki de Dokidoki! / Love Letter de Jitabata! / Jitensha de Dokyuun! ",
+            "aired": "2004-10-05T00:00:00+00:00",
+            "score": 4.42,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=37357"
+        },
+        {
+            "mal_id": 2,
+            "url": "https://myanimelist.net/anime/24/School_Rumble/episode/2",
+            "title": "Tough Test! / Trapped in the Bathroom! / The School Physical!",
+            "title_japanese": "わからないテスト! / でられないトイレ! / ありえない身体検査!",
+            "title_romanji": "Wakaranai Test! / Derarenai Toile! / Arienai Shintai Kensa! ",
+            "aired": "2004-10-12T00:00:00+00:00",
+            "score": 4.49,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=37526"
+        },
+        {
+            "mal_id": 3,
+            "url": "https://myanimelist.net/anime/24/School_Rumble/episode/3",
+            "title": "See and Sketch! / Letter on an Arrow! / Pajama Party Confessions!",
+            "title_japanese": "見つめてスケッチ! ねらって矢文! 教えてパジャマパーティー!",
+            "title_romanji": "Mitsumete Sketch! Neratte Yabumi! Oshiete Pajama Party! ",
+            "aired": "2004-10-19T00:00:00+00:00",
+            "score": 4.43,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=37551"
+        },
+        {
+            "mal_id": 4,
+            "url": "https://myanimelist.net/anime/24/School_Rumble/episode/4",
+            "title": "Pigs Go Oink! / Cats Go Meow! / Frogs and Water Imps Go Ribbit!",
+            "title_japanese": "ブタはブーブー! / ネコはニャー! / カエルもカッパもガーガーガー",
+            "title_romanji": "Buta wa Buubuu! / Neko wa Nyaa! / Kaeru mo Kappa mo Gaagaagaa! ",
+            "aired": "2004-10-26T00:00:00+00:00",
+            "score": 4.36,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=23802"
+        },
+        {
+            "mal_id": 5,
+            "url": "https://myanimelist.net/anime/24/School_Rumble/episode/5",
+            "title": "Burning Hot First Love! / Burning Hot Tea Party! / Burning Hot Softball!",
+            "title_japanese": "燃える初恋! / 燃えるお茶会! / 燃えるソフトボール!",
+            "title_romanji": "Moeru Hatsukoi! / Moeru Chakai! / Moeru Soft Ball! ",
+            "aired": "2004-11-02T00:00:00+00:00",
+            "score": 4.46,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=37564"
+        },
+        {
+            "mal_id": 6,
+            "url": "https://myanimelist.net/anime/24/School_Rumble/episode/6",
+            "title": "Survival After School! / Arrival When Confessing! / Hospital for Two!",
+            "title_japanese": "放課後のサバイバル! / 告白の時はアライバル! / 二人きりのホスピタル",
+            "title_romanji": "Houkago no Survival! / Kokuhaku no Toki wa Arrival! / Futarikiri no Hospital! ",
+            "aired": "2004-11-09T00:00:00+00:00",
+            "score": 4.57,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=37647"
+        },
+        {
+            "mal_id": 7,
+            "url": "https://myanimelist.net/anime/24/School_Rumble/episode/7",
+            "title": "Pool Cleaning! / Pool Racing! / Pool Warring!",
+            "title_japanese": "プールで清掃! / プールで暴走! / プールで戦争!",
+            "title_romanji": "Pool de Seisou! / Pool de Bousou! / Pool de Sensou! ",
+            "aired": "2004-11-16T00:00:00+00:00",
+            "score": 4.5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=37708"
+        },
+        {
+            "mal_id": 8,
+            "url": "https://myanimelist.net/anime/24/School_Rumble/episode/8",
+            "title": "The First Shopping Trip! / The First Packed Lunch! / The First Heartbreak! Huh?!",
+            "title_japanese": "はじめてのお買い物! / はじめてのお弁当! / はじめての失恋! えっ?",
+            "title_romanji": "Hajimete no Okaimono! / Hajimete no Obentou! / Hajimete no Shitsuren! Eh!? ",
+            "aired": "2004-11-23T00:00:00+00:00",
+            "score": 4.54,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=12115"
+        },
+        {
+            "mal_id": 9,
+            "url": "https://myanimelist.net/anime/24/School_Rumble/episode/9",
+            "title": "Comic Book Blues! / Older Woman Blues! / Super Bad Water Blues!",
+            "title_japanese": "マンガで不幸! / お姉さんで不幸! / かっぱさんで大不幸!",
+            "title_romanji": "Manga de Fukou! / Onee-san de Fukou! / Kappa-san de Daifukou! ",
+            "aired": "2004-11-30T00:00:00+00:00",
+            "score": 4.46,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=37844"
+        },
+        {
+            "mal_id": 10,
+            "url": "https://myanimelist.net/anime/24/School_Rumble/episode/10",
+            "title": "Please, God! / Please, Genuine Animal Fortune-Telling! / Please, Tenma!",
+            "title_japanese": "お願い 神さま! / お願い! リアル動物占い! / お願い!! 天満ちゃん!",
+            "title_romanji": "Onegai Kamisama! / Onegai! Real Doubutsu Uranai! / Onegai!! Tenma-chan! ",
+            "aired": "2004-12-07T00:00:00+00:00",
+            "score": 4.61,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=20924"
+        },
+        {
+            "mal_id": 11,
+            "url": "https://myanimelist.net/anime/24/School_Rumble/episode/11",
+            "title": "Nara! / Karasuma! / Harima!",
+            "title_japanese": "奈良 / 烏丸! / 播磨!",
+            "title_romanji": "Nara! / Karasuma! / Harima! ",
+            "aired": "2004-12-14T00:00:00+00:00",
+            "score": 4.56,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=21034"
+        },
+        {
+            "mal_id": 12,
+            "url": "https://myanimelist.net/anime/24/School_Rumble/episode/12",
+            "title": "Save Me at the Beach! / Save Me, I'm Naked! / Just Save Me! For Real!",
+            "title_japanese": "海で助けて! / ハダカで助けて! / ホントにマジデ助けて!",
+            "title_romanji": "Umi de Tasukete! / Hadaka de Tasukete! / Honto ni Maji de Tasukete! ",
+            "aired": "2004-12-21T00:00:00+00:00",
+            "score": 4.69,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=37960"
+        },
+        {
+            "mal_id": 13,
+            "url": "https://myanimelist.net/anime/24/School_Rumble/episode/13",
+            "title": "Mission 1: Confession of Love! / Mission 2: Night Offense and Defense! / Mission 3: \"Tweet!\"",
+            "title_japanese": "ミッション1は愛の告白! / ミッション2は夜の攻防! / ミッション3はピーヒョロロ!",
+            "title_romanji": "Mission 1 wa Ai no Kokuhaku! / Mission 2 wa Yoru no Koubou! / Mission 3 wa Piihyororo! ",
+            "aired": "2004-12-28T00:00:00+00:00",
+            "score": 4.55,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=37964"
+        },
+        {
+            "mal_id": 14,
+            "url": "https://myanimelist.net/anime/24/School_Rumble/episode/14",
+            "title": "Have You Ever Seen One? / Isn't She Cute? / I Look Forward to Getting to Know You!",
+            "title_japanese": "みたことある? / かわいくなくない? / よろしくおねがいします!",
+            "title_romanji": "Mitakoto Aru? / Kawakunakunai? / Yoroshiku Onegai Shimasu! ",
+            "aired": "2005-01-03T00:00:00+00:00",
+            "score": 4.63,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=25232"
+        },
+        {
+            "mal_id": 15,
+            "url": "https://myanimelist.net/anime/24/School_Rumble/episode/15",
+            "title": "Summer / Friendship / Fireworks",
+            "title_japanese": "夏と / 友情と / 打ち上げ花火と",
+            "title_romanji": "Natsu to / Yuujou to / Uchiagehanabi to ",
+            "aired": "2005-01-11T00:00:00+00:00",
+            "score": 4.47,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=37979"
+        },
+        {
+            "mal_id": 16,
+            "url": "https://myanimelist.net/anime/24/School_Rumble/episode/16",
+            "title": "But It's the Tea Club... / It's the Tea Club, But... / It's the Tea Club, So?",
+            "title_japanese": "茶道部なのに... / 茶道部だけど... / 茶道部だから...",
+            "title_romanji": "Sadoubu na no ni... / Sadoubu dakedo... / Sadoubu dakara... ",
+            "aired": "2005-01-18T00:00:00+00:00",
+            "score": 4.83,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=25392"
+        },
+        {
+            "mal_id": 17,
+            "url": "https://myanimelist.net/anime/24/School_Rumble/episode/17",
+            "title": "Mid-Summer Giraffe's Night Out! / End of Summer Panic Party! / Summer's Over-Back to School!",
+            "title_japanese": "夏の盛りのキリンのキモチ! / 夏の終りのパニックパーティー! / 夏が過ぎたらチェンジング・ナウ!",
+            "title_romanji": "Natsu no Sakari no Kirin no Kimochi! / Natsu no Owari no Panic Party! / Natsu ga Sugitara Changing Now! ",
+            "aired": "2005-01-25T00:00:00+00:00",
+            "score": 4.51,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=38005"
+        },
+        {
+            "mal_id": 18,
+            "url": "https://myanimelist.net/anime/24/School_Rumble/episode/18",
+            "title": "Karen's Love, Not Yet! / Karen's Love, Little by Little! / Karen's Love, and Then...",
+            "title_japanese": "かれんの恋, まだまだ / かれんの恋, ぼちぼち / かれんの恋, そして...",
+            "title_romanji": "Karen no Koi, Madamada / Karen no Koi, Bochibochi / Karen no Koi, Soshite... ",
+            "aired": "2005-02-01T00:00:00+00:00",
+            "score": 4.32,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=38006"
+        },
+        {
+            "mal_id": 19,
+            "url": "https://myanimelist.net/anime/24/School_Rumble/episode/19",
+            "title": "Dreams for Art! / Fantasy Wedding! / Wish on a Star!",
+            "title_japanese": "芸術に夢を! / 神に誓いを! / 星に願いを!",
+            "title_romanji": "Geijutsu ni Yume wo! / Kami ni Chikai wo! / Hoshi ni Negai wo! ",
+            "aired": "2005-02-09T00:00:00+00:00",
+            "score": 4.68,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=35145"
+        },
+        {
+            "mal_id": 20,
+            "url": "https://myanimelist.net/anime/24/School_Rumble/episode/20",
+            "title": "That's Gone! / This Is Gone! / Options, Gone!",
+            "title_japanese": "あれがない! / これもない! / どうしようもない!",
+            "title_romanji": "Are ga Nai! / Kore mo Nai! / Dou Shiyou mo Nai! ",
+            "aired": "2005-02-15T00:00:00+00:00",
+            "score": 4.54,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=38026"
+        },
+        {
+            "mal_id": 21,
+            "url": "https://myanimelist.net/anime/24/School_Rumble/episode/21",
+            "title": "Hanai Fights Back! / Karen Sparkles! / Reunion with Big Sister!",
+            "title_japanese": "逆襲の花井! / 閃光のかれん! / 再会, お姉さん",
+            "title_romanji": "Gyakushuu no Hanai! / Senkou no Karen! / Saikai, Onee-san ",
+            "aired": "2005-02-22T00:00:00+00:00",
+            "score": 4.7,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=38027"
+        },
+        {
+            "mal_id": 22,
+            "url": "https://myanimelist.net/anime/24/School_Rumble/episode/22",
+            "title": "Time to Start the War! / Now the Cavalry Battle! / And the Great Uprising!",
+            "title_japanese": "いざ開戦! / さぁ騎馬戦! / もう大乱戦!",
+            "title_romanji": "Iza Kaisen! / Saa Kibasen! / Mou Dairansen! ",
+            "aired": "2005-03-01T00:00:00+00:00",
+            "score": 4.81,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=38156"
+        },
+        {
+            "mal_id": 23,
+            "url": "https://myanimelist.net/anime/24/School_Rumble/episode/23",
+            "title": "Women's Battle! / Men's Battle! / After the Battle!",
+            "title_japanese": "女の闘い! / 男の戦い! / たたかい終わって...",
+            "title_romanji": "Onna no Tatakai! / Otoko no Tatakai! / Tatakai Owatte... ",
+            "aired": "2005-03-08T00:00:00+00:00",
+            "score": 4.84,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=38159"
+        },
+        {
+            "mal_id": 24,
+            "url": "https://myanimelist.net/anime/24/School_Rumble/episode/24",
+            "title": "Irritation. / Indecision. / Wandering.",
+            "title_japanese": "焦燥 / 逡巡 / 彷徨",
+            "title_romanji": "Shousou / Shunjun / Houkou ",
+            "aired": "2005-03-15T00:00:00+00:00",
+            "score": 4.21,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=38165"
+        },
+        {
+            "mal_id": 25,
+            "url": "https://myanimelist.net/anime/24/School_Rumble/episode/25",
+            "title": "(Ship.) / (Railway.) / (Guitar.)",
+            "title_japanese": "ボーー! プワーーン! ギュイーーン!",
+            "title_romanji": "Hooo! Puwaaan! Gyuiiin! ",
+            "aired": "2005-03-22T00:00:00+00:00",
+            "score": 4.57,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=38209"
+        },
+        {
+            "mal_id": 26,
+            "url": "https://myanimelist.net/anime/24/School_Rumble/episode/26",
+            "title": "School Rumble Forever!",
+            "title_japanese": "突然の「さよなら」...迷い込んだラビリンス... あなたはだれ?... 教えて. 「すれちがい」「片想い」とどけ, ボクの気持ち. とどけ, ワタシの想い. たぶん一度しかない季節, 青春の1ページ. これが最後のチャンス, 確かめたい... キミの気持ち. 伝わる言葉, 伝わらない想い. あの日の告白, 永遠の一日, だけど... いつまでも続いていく, わたしたちの「いま」. そして明日へ...「スクールランブルフォーエバー」",
+            "title_romanji": "Totsuzen no \"Sayonara\"... Mayoikonda Labyrinth... Anata wa Dare?... Oshiete. \"Surechigai\" \"Kataomoi\" Todoke, Boku no Kimochi. Todoke, Watashi no Omoi. Tabun Ichido Shikanai Kisetsu, Seishun no 1 Page. Kore ga Saigo no Chance, Tashikametai... Kimi no Kimochi. Tsutawaru Kotoba, Tsutawaranai Omoi. ",
+            "aired": "2005-03-29T00:00:00+00:00",
+            "score": 4.29,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=37815"
+        }
+    ]
+}

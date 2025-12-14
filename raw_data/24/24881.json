@@ -1,0 +1,153 @@
+{
+    "id": 24881,
+    "fetched_at": "Sun Dec 14 10:16:11 2025",
+    "metadata": {
+        "mal_id": 24881,
+        "url": "https://myanimelist.net/anime/24881/Bunbuku_Chagama",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/6/63901.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/6/63901t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/6/63901l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/6/63901.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/6/63901t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/6/63901l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Bunbuku Chagama"
+            },
+            {
+                "type": "Synonym",
+                "title": "The Bunbuku Teapot"
+            },
+            {
+                "type": "Synonym",
+                "title": "Bunbuku Chagama (1928)"
+            },
+            {
+                "type": "Japanese",
+                "title": "文福茶釜"
+            }
+        ],
+        "title": "Bunbuku Chagama",
+        "title_english": null,
+        "title_japanese": "文福茶釜",
+        "title_synonyms": [
+            "The Bunbuku Teapot",
+            "Bunbuku Chagama (1928)"
+        ],
+        "type": "Movie",
+        "source": "Other",
+        "episodes": 1,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "1928-07-01T00:00:00+00:00",
+            "to": null,
+            "prop": {
+                "from": {
+                    "day": 1,
+                    "month": 7,
+                    "year": 1928
+                },
+                "to": {
+                    "day": null,
+                    "month": null,
+                    "year": null
+                }
+            },
+            "string": "Jul 1928"
+        },
+        "duration": "15 min",
+        "rating": "G - All Ages",
+        "score": 5.84,
+        "scored_by": 136,
+        "rank": 11154,
+        "popularity": 16740,
+        "members": 636,
+        "favorites": 0,
+        "synopsis": "A short film about a man who rescues a tanuki. When the tanuki transforms himself into a teapot, he is given to a temple as a gift. Once inside the temple, the tanuki reverts to his true form and causes havoc.\n\n(Source: AniDB)",
+        "background": "",
+        "season": null,
+        "year": null,
+        "broadcast": {
+            "day": null,
+            "time": null,
+            "timezone": null,
+            "string": null
+        },
+        "producers": [],
+        "licensors": [],
+        "studios": [],
+        "genres": [],
+        "explicit_genres": [],
+        "themes": [],
+        "demographics": [
+            {
+                "mal_id": 15,
+                "type": "anime",
+                "name": "Kids",
+                "url": "https://myanimelist.net/anime/genre/15/Kids"
+            }
+        ],
+        "relations": [
+            {
+                "relation": "Alternative Version",
+                "entry": [
+                    {
+                        "mal_id": 23181,
+                        "type": "anime",
+                        "name": "Otogibanashi: Bunbuku Chagama",
+                        "url": "https://myanimelist.net/anime/23181/Otogibanashi__Bunbuku_Chagama"
+                    },
+                    {
+                        "mal_id": 35399,
+                        "type": "anime",
+                        "name": "Kamishibai Itazura Tanuki no Maki",
+                        "url": "https://myanimelist.net/anime/35399/Kamishibai_Itazura_Tanuki_no_Maki"
+                    },
+                    {
+                        "mal_id": 29921,
+                        "type": "anime",
+                        "name": "Bunbuku Chagama (1958)",
+                        "url": "https://myanimelist.net/anime/29921/Bunbuku_Chagama_1958"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [],
+            "endings": []
+        },
+        "external": [
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=6839"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "http://en.wikipedia.org/wiki/1928_in_anime"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": []
+}

@@ -1,0 +1,137 @@
+{
+    "id": 6823,
+    "fetched_at": "Sun Dec 14 09:01:27 2025",
+    "metadata": {
+        "mal_id": 6823,
+        "url": "https://myanimelist.net/anime/6823/Omocha_Bako_Series_Dai_3-wa__Ehon_1936-nen",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/6/15933.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/6/15933t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/6/15933l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/6/15933.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/6/15933t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/6/15933l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Omocha Bako Series Dai 3-wa: Ehon 1936-nen"
+            },
+            {
+                "type": "Synonym",
+                "title": "Omochabako Series Dai San Wa: Ehon Senkyuuhyakusanjuuroku-nen"
+            },
+            {
+                "type": "Synonym",
+                "title": "Toy Box Series Episode 3: Picture Book 1936"
+            },
+            {
+                "type": "Japanese",
+                "title": "オモチャ箱シリーズ第3話 絵本1936年"
+            }
+        ],
+        "title": "Omocha Bako Series Dai 3-wa: Ehon 1936-nen",
+        "title_english": null,
+        "title_japanese": "オモチャ箱シリーズ第3話 絵本1936年",
+        "title_synonyms": [
+            "Omochabako Series Dai San Wa: Ehon Senkyuuhyakusanjuuroku-nen",
+            "Toy Box Series Episode 3: Picture Book 1936"
+        ],
+        "type": "Movie",
+        "source": "Other",
+        "episodes": 1,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "1934-04-13T00:00:00+00:00",
+            "to": null,
+            "prop": {
+                "from": {
+                    "day": 13,
+                    "month": 4,
+                    "year": 1934
+                },
+                "to": {
+                    "day": null,
+                    "month": null,
+                    "year": null
+                }
+            },
+            "string": "Apr 13, 1934"
+        },
+        "duration": "7 min",
+        "rating": "G - All Ages",
+        "score": 4.63,
+        "scored_by": 875,
+        "rank": 14193,
+        "popularity": 12783,
+        "members": 1778,
+        "favorites": 1,
+        "synopsis": "Black-and-white propaganda film. Japanese folklore characters vs. evil Mickey Mouse-like creatures.",
+        "background": "",
+        "season": null,
+        "year": null,
+        "broadcast": {
+            "day": null,
+            "time": null,
+            "timezone": null,
+            "string": null
+        },
+        "producers": [],
+        "licensors": [],
+        "studios": [],
+        "genres": [
+            {
+                "mal_id": 10,
+                "type": "anime",
+                "name": "Fantasy",
+                "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [],
+        "demographics": [],
+        "relations": [
+            {
+                "relation": "Prequel",
+                "entry": [
+                    {
+                        "mal_id": 59655,
+                        "type": "anime",
+                        "name": "Omocha Bako Series Dai 2-wa: Kuroneko Banzai",
+                        "url": "https://myanimelist.net/anime/59655/Omocha_Bako_Series_Dai_2-wa__Kuroneko_Banzai"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [],
+            "endings": []
+        },
+        "external": [
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=5957"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": []
+}

@@ -1,0 +1,185 @@
+{
+    "id": 2456,
+    "fetched_at": "Sun Dec 14 07:24:55 2025",
+    "metadata": {
+        "mal_id": 2456,
+        "url": "https://myanimelist.net/anime/2456/Mori_no_Densetsu",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1766/104285.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1766/104285t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1766/104285l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1766/104285.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1766/104285t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1766/104285l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Mori no Densetsu"
+            },
+            {
+                "type": "Synonym",
+                "title": "Mori no Densetsu PART-1"
+            },
+            {
+                "type": "Synonym",
+                "title": "Legend of the Forest PART-1"
+            },
+            {
+                "type": "Japanese",
+                "title": "森の伝説"
+            },
+            {
+                "type": "English",
+                "title": "Legend of the Forest"
+            },
+            {
+                "type": "Spanish",
+                "title": "La Leyenda del Bosque"
+            }
+        ],
+        "title": "Mori no Densetsu",
+        "title_english": "Legend of the Forest",
+        "title_japanese": "森の伝説",
+        "title_synonyms": [
+            "Mori no Densetsu PART-1",
+            "Legend of the Forest PART-1"
+        ],
+        "type": "Movie",
+        "source": "Original",
+        "episodes": 1,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "1987-12-18T00:00:00+00:00",
+            "to": null,
+            "prop": {
+                "from": {
+                    "day": 18,
+                    "month": 12,
+                    "year": 1987
+                },
+                "to": {
+                    "day": null,
+                    "month": null,
+                    "year": null
+                }
+            },
+            "string": "Dec 18, 1987"
+        },
+        "duration": "29 min",
+        "rating": "G - All Ages",
+        "score": 6.31,
+        "scored_by": 1078,
+        "rank": 8473,
+        "popularity": 11866,
+        "members": 2351,
+        "favorites": 1,
+        "synopsis": "A tranquil forest and all of its residents must face the destruction of man. A squirrel, born and raised in the forrest, fights to defend his home and faces trials and adversities along the way.\n\n(Source: ANN)",
+        "background": "Winner of the 1987 Oofuji Noburou Award at the Mainichi Film Awards.",
+        "season": null,
+        "year": null,
+        "broadcast": {
+            "day": null,
+            "time": null,
+            "timezone": null,
+            "string": null
+        },
+        "producers": [],
+        "licensors": [],
+        "studios": [
+            {
+                "mal_id": 200,
+                "type": "anime",
+                "name": "Tezuka Productions",
+                "url": "https://myanimelist.net/anime/producer/200/Tezuka_Productions"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 2,
+                "type": "anime",
+                "name": "Adventure",
+                "url": "https://myanimelist.net/anime/genre/2/Adventure"
+            },
+            {
+                "mal_id": 46,
+                "type": "anime",
+                "name": "Award Winning",
+                "url": "https://myanimelist.net/anime/genre/46/Award_Winning"
+            },
+            {
+                "mal_id": 8,
+                "type": "anime",
+                "name": "Drama",
+                "url": "https://myanimelist.net/anime/genre/8/Drama"
+            },
+            {
+                "mal_id": 10,
+                "type": "anime",
+                "name": "Fantasy",
+                "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [
+            {
+                "mal_id": 19,
+                "type": "anime",
+                "name": "Music",
+                "url": "https://myanimelist.net/anime/genre/19/Music"
+            }
+        ],
+        "demographics": [],
+        "relations": [
+            {
+                "relation": "Sequel",
+                "entry": [
+                    {
+                        "mal_id": 32041,
+                        "type": "anime",
+                        "name": "Mori no Densetsu: Dai Ni Gakushou",
+                        "url": "https://myanimelist.net/anime/32041/Mori_no_Densetsu__Dai_Ni_Gakushou"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [],
+            "endings": []
+        },
+        "external": [
+            {
+                "name": "Official Site",
+                "url": "http://en.tezuka.co.jp/anime/sakuhin/ea/ea012.html"
+            },
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=2899"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=857"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": []
+}

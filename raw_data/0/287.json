@@ -1,0 +1,509 @@
+{
+    "id": 287,
+    "fetched_at": "Sun Dec 14 12:55:12 2025",
+    "metadata": {
+        "mal_id": 287,
+        "url": "https://myanimelist.net/anime/287/Grappler_Baki_TV",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1782/128917.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1782/128917t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1782/128917l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1782/128917.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1782/128917t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1782/128917l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": "https://www.youtube-nocookie.com/embed/Wnj13t7zi-I?enablejsapi=1&wmode=opaque&autoplay=1",
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Grappler Baki (TV)"
+            },
+            {
+                "type": "Japanese",
+                "title": "グラップラー刃牙"
+            },
+            {
+                "type": "English",
+                "title": "Baki the Grappler"
+            },
+            {
+                "type": "French",
+                "title": "Baki the Grappler"
+            }
+        ],
+        "title": "Grappler Baki (TV)",
+        "title_english": "Baki the Grappler",
+        "title_japanese": "グラップラー刃牙",
+        "title_synonyms": [],
+        "type": "TV",
+        "source": "Manga",
+        "episodes": 24,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "2001-01-09T00:00:00+00:00",
+            "to": "2001-06-26T00:00:00+00:00",
+            "prop": {
+                "from": {
+                    "day": 9,
+                    "month": 1,
+                    "year": 2001
+                },
+                "to": {
+                    "day": 26,
+                    "month": 6,
+                    "year": 2001
+                }
+            },
+            "string": "Jan 9, 2001 to Jun 26, 2001"
+        },
+        "duration": "25 min per ep",
+        "rating": "PG-13 - Teens 13 or older",
+        "score": 7.45,
+        "scored_by": 83463,
+        "rank": 2263,
+        "popularity": 1628,
+        "members": 162301,
+        "favorites": 895,
+        "synopsis": "Ever since he was born, Baki Hanma has always known nothing but fighting—strengthening every single muscle and learning different techniques from various martial arts under the supervision of his mother, Emi Akezawa. He trains in order to prepare himself to face and eventually surpass his own father, Yuujirou Hanma, a man feared by the masses as the \"Ogre\" and deemed the strongest being in the world.\n\nHowever, when Baki realizes his mother's techniques are no longer enough, he sets out to become stronger in his own way. Seeking out powerful opponents and forming unbreakable bonds with them, he continues to grow both body and his soul, as the clock continues to tick closer toward the inevitable showdown against his father...\n\n[Written by MAL Rewrite]",
+        "background": "Grappler Baki (TV) adapts chapters 1-180 of the original manga.",
+        "season": "winter",
+        "year": 2001,
+        "broadcast": {
+            "day": null,
+            "time": null,
+            "timezone": null,
+            "string": "Unknown"
+        },
+        "producers": [
+            {
+                "mal_id": 1307,
+                "type": "anime",
+                "name": "Free-Will",
+                "url": "https://myanimelist.net/anime/producer/1307/Free-Will"
+            }
+        ],
+        "licensors": [
+            {
+                "mal_id": 102,
+                "type": "anime",
+                "name": "Funimation",
+                "url": "https://myanimelist.net/anime/producer/102/Funimation"
+            }
+        ],
+        "studios": [
+            {
+                "mal_id": 86,
+                "type": "anime",
+                "name": "Group TAC",
+                "url": "https://myanimelist.net/anime/producer/86/Group_TAC"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 30,
+                "type": "anime",
+                "name": "Sports",
+                "url": "https://myanimelist.net/anime/genre/30/Sports"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [
+            {
+                "mal_id": 54,
+                "type": "anime",
+                "name": "Combat Sports",
+                "url": "https://myanimelist.net/anime/genre/54/Combat_Sports"
+            },
+            {
+                "mal_id": 58,
+                "type": "anime",
+                "name": "Gore",
+                "url": "https://myanimelist.net/anime/genre/58/Gore"
+            }
+        ],
+        "demographics": [
+            {
+                "mal_id": 27,
+                "type": "anime",
+                "name": "Shounen",
+                "url": "https://myanimelist.net/anime/genre/27/Shounen"
+            }
+        ],
+        "relations": [
+            {
+                "relation": "Sequel",
+                "entry": [
+                    {
+                        "mal_id": 551,
+                        "type": "anime",
+                        "name": "Grappler Baki: Saidai Tournament-hen",
+                        "url": "https://myanimelist.net/anime/551/Grappler_Baki__Saidai_Tournament-hen"
+                    },
+                    {
+                        "mal_id": 33566,
+                        "type": "anime",
+                        "name": "Baki: Most Evil Death Row Convicts Special Anime",
+                        "url": "https://myanimelist.net/anime/33566/Baki__Most_Evil_Death_Row_Convicts_Special_Anime"
+                    }
+                ]
+            },
+            {
+                "relation": "Adaptation",
+                "entry": [
+                    {
+                        "mal_id": 11425,
+                        "type": "manga",
+                        "name": "Grappler Baki",
+                        "url": "https://myanimelist.net/manga/11425/Grappler_Baki"
+                    }
+                ]
+            },
+            {
+                "relation": "Alternative Version",
+                "entry": [
+                    {
+                        "mal_id": 1859,
+                        "type": "anime",
+                        "name": "Grappler Baki",
+                        "url": "https://myanimelist.net/anime/1859/Grappler_Baki"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [
+                "1: \"Ai Believe\" (哀 believe) by Project BAKI (eps 1-25)",
+                "R1: \"Child Prey\" by Dir en grey (eps 1-25)"
+            ],
+            "endings": [
+                "\"Reborn\" by Project Baki"
+            ]
+        },
+        "external": [
+            {
+                "name": "Official Site",
+                "url": "http://baki.ne.jp/"
+            },
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=453"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=2035"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "http://en.wikipedia.org/wiki/Baki_the_Grappler"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": [
+        {
+            "mal_id": 1,
+            "url": null,
+            "title": "Moving Towards Destiny",
+            "title_japanese": "宿命への胎動",
+            "title_romanji": "Shukumei e no Taidou ",
+            "aired": "2001-01-09T00:00:00+00:00",
+            "score": 3.88,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=718513"
+        },
+        {
+            "mal_id": 2,
+            "url": null,
+            "title": "The Ones that Squirm",
+            "title_japanese": "蠢く者たち",
+            "title_romanji": "Ugomekusha-tachi ",
+            "aired": "2001-01-16T00:00:00+00:00",
+            "score": 4.06,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=296262"
+        },
+        {
+            "mal_id": 3,
+            "url": null,
+            "title": "The Monster of Yasha Cave",
+            "title_japanese": "夜叉岩の魔獣",
+            "title_romanji": "Yasha Iwa no Majuu ",
+            "aired": "2001-01-23T00:00:00+00:00",
+            "score": 4.09,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=296376"
+        },
+        {
+            "mal_id": 4,
+            "url": null,
+            "title": "The Fang and Tears",
+            "title_japanese": "牙と絆",
+            "title_romanji": "Kiba to Kizuna ",
+            "aired": "2001-01-30T00:00:00+00:00",
+            "score": 4.32,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1573703"
+        },
+        {
+            "mal_id": 5,
+            "url": null,
+            "title": "A Warrior's Heart",
+            "title_japanese": "戦士の心",
+            "title_romanji": "Senshi no Kokoro ",
+            "aired": "2001-02-06T00:00:00+00:00",
+            "score": 4.13,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=646285"
+        },
+        {
+            "mal_id": 6,
+            "url": null,
+            "title": "A Man's Stand",
+            "title_japanese": "侠客立ち",
+            "title_romanji": "Kyoukaku-tachi ",
+            "aired": "2001-02-13T00:00:00+00:00",
+            "score": 4.3,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=296516"
+        },
+        {
+            "mal_id": 7,
+            "url": null,
+            "title": "Gripping Attack!",
+            "title_japanese": "握撃!",
+            "title_romanji": "Akugeki! ",
+            "aired": "2001-02-20T00:00:00+00:00",
+            "score": 4.35,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=135387"
+        },
+        {
+            "mal_id": 8,
+            "url": null,
+            "title": "Demon",
+            "title_japanese": "鬼",
+            "title_romanji": "Oni ",
+            "aired": "2001-02-27T00:00:00+00:00",
+            "score": 4.2,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=296537"
+        },
+        {
+            "mal_id": 9,
+            "url": null,
+            "title": "Parting",
+            "title_japanese": "訣別",
+            "title_romanji": "Ketsubetsu ",
+            "aired": "2001-03-06T00:00:00+00:00",
+            "score": 3.99,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=296539"
+        },
+        {
+            "mal_id": 10,
+            "url": null,
+            "title": "Battlefield",
+            "title_japanese": "戦場",
+            "title_romanji": "Senjou ",
+            "aired": "2001-03-13T00:00:00+00:00",
+            "score": 4.01,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=296654"
+        },
+        {
+            "mal_id": 11,
+            "url": null,
+            "title": "Gaia",
+            "title_japanese": "ガイア",
+            "title_romanji": "Gaia ",
+            "aired": "2001-03-20T00:00:00+00:00",
+            "score": 4.16,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=296667"
+        },
+        {
+            "mal_id": 12,
+            "url": null,
+            "title": "Bite Marks",
+            "title_japanese": "噛み跡",
+            "title_romanji": "Kamiato ",
+            "aired": "2001-03-27T00:00:00+00:00",
+            "score": 4.18,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=296805"
+        },
+        {
+            "mal_id": 13,
+            "url": null,
+            "title": "Challenge",
+            "title_japanese": "挑む!",
+            "title_romanji": "Idomu! ",
+            "aired": "2001-04-03T00:00:00+00:00",
+            "score": 4.34,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=296974"
+        },
+        {
+            "mal_id": 14,
+            "url": null,
+            "title": "After Having a Dream",
+            "title_japanese": "夢を見たあと",
+            "title_romanji": "Yume wo Mita Ato ",
+            "aired": "2001-04-10T00:00:00+00:00",
+            "score": 4.36,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=296977"
+        },
+        {
+            "mal_id": 15,
+            "url": null,
+            "title": "Slave",
+            "title_japanese": "彼奴",
+            "title_romanji": "Kyatsu ",
+            "aired": "2001-04-17T00:00:00+00:00",
+            "score": 2.92,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=296979"
+        },
+        {
+            "mal_id": 16,
+            "url": null,
+            "title": "Road to the Sacred Land",
+            "title_japanese": "聖地への道",
+            "title_romanji": "Seichi e no Michi ",
+            "aired": "2001-04-24T00:00:00+00:00",
+            "score": 4.19,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=646613"
+        },
+        {
+            "mal_id": 17,
+            "url": null,
+            "title": "The Gathering",
+            "title_japanese": "集結",
+            "title_romanji": "Shuuketsu ",
+            "aired": "2001-05-01T00:00:00+00:00",
+            "score": 4.14,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=511123"
+        },
+        {
+            "mal_id": 18,
+            "url": null,
+            "title": "The Chord-Cutter",
+            "title_japanese": "紐切り",
+            "title_romanji": "Himokiri ",
+            "aired": "2001-05-08T00:00:00+00:00",
+            "score": 4.16,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=297129"
+        },
+        {
+            "mal_id": 19,
+            "url": null,
+            "title": "Opponent",
+            "title_japanese": "対戦者",
+            "title_romanji": "Taisensha ",
+            "aired": "2001-05-15T00:00:00+00:00",
+            "score": 4.1,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=297145"
+        },
+        {
+            "mal_id": 20,
+            "url": null,
+            "title": "An Honorable Loss",
+            "title_japanese": "名誉ある敗北",
+            "title_romanji": "Meiyo Aru Haiboku ",
+            "aired": "2001-05-22T00:00:00+00:00",
+            "score": 4.32,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=297278"
+        },
+        {
+            "mal_id": 21,
+            "url": null,
+            "title": "Killer Instinct",
+            "title_japanese": "殺傷本能",
+            "title_romanji": "Sasshou Honnou ",
+            "aired": "2001-05-29T00:00:00+00:00",
+            "score": 4.12,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=297314"
+        },
+        {
+            "mal_id": 22,
+            "url": null,
+            "title": "Head-On Collision",
+            "title_japanese": "両雄激突!",
+            "title_romanji": "Ryouyuu Gekitotsu! ",
+            "aired": "2001-06-12T00:00:00+00:00",
+            "score": 4.38,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=297324"
+        },
+        {
+            "mal_id": 23,
+            "url": null,
+            "title": "Fighting God, Satan!",
+            "title_japanese": "武神、死神",
+            "title_romanji": "Bushin, Shinigami ",
+            "aired": "2001-06-19T00:00:00+00:00",
+            "score": 4.49,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=297422"
+        },
+        {
+            "mal_id": 24,
+            "url": null,
+            "title": "The Devil's Payback",
+            "title_japanese": "悪魔の報酬",
+            "title_romanji": "Akuma no Houshuu ",
+            "aired": "2001-06-26T00:00:00+00:00",
+            "score": 4.34,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=193436"
+        }
+    ]
+}

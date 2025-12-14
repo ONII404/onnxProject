@@ -1,0 +1,525 @@
+{
+    "id": 383,
+    "fetched_at": "Sun Dec 14 13:03:41 2025",
+    "metadata": {
+        "mal_id": 383,
+        "url": "https://myanimelist.net/anime/383/Galaxy_Angel",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/4/6075.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/4/6075t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/4/6075l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/4/6075.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/4/6075t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/4/6075l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": "https://www.youtube-nocookie.com/embed/8AgwV9-BKR8?enablejsapi=1&wmode=opaque&autoplay=1",
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Galaxy Angel"
+            },
+            {
+                "type": "Japanese",
+                "title": "ギャラクシーエンジェル"
+            }
+        ],
+        "title": "Galaxy Angel",
+        "title_english": null,
+        "title_japanese": "ギャラクシーエンジェル",
+        "title_synonyms": [],
+        "type": "TV",
+        "source": "Game",
+        "episodes": 24,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "2001-04-08T00:00:00+00:00",
+            "to": "2001-09-30T00:00:00+00:00",
+            "prop": {
+                "from": {
+                    "day": 8,
+                    "month": 4,
+                    "year": 2001
+                },
+                "to": {
+                    "day": 30,
+                    "month": 9,
+                    "year": 2001
+                }
+            },
+            "string": "Apr 8, 2001 to Sep 30, 2001"
+        },
+        "duration": "13 min per ep",
+        "rating": "PG-13 - Teens 13 or older",
+        "score": 7.01,
+        "scored_by": 12424,
+        "rank": 4504,
+        "popularity": 4404,
+        "members": 31885,
+        "favorites": 211,
+        "synopsis": "The Angel Brigade, an elite branch of the Transbaal Empire military, are assigned to search for The Lost Technology, mysterious items from the past that hold unknown powers. Led by the soon to retire Colonel Volcott O' Huey, the Angel Brigade travel to different planets using their specially designed Emblem Frame ships to search for Lost Technology. Unfortunately, they usually mess up somehow and end up getting into all kinds of weird and troublesome situations.\n\n(Source: ANN)",
+        "background": "",
+        "season": "spring",
+        "year": 2001,
+        "broadcast": {
+            "day": "Sundays",
+            "time": "00:30",
+            "timezone": "Asia/Tokyo",
+            "string": "Sundays at 00:30 (JST)"
+        },
+        "producers": [
+            {
+                "mal_id": 23,
+                "type": "anime",
+                "name": "Bandai Visual",
+                "url": "https://myanimelist.net/anime/producer/23/Bandai_Visual"
+            },
+            {
+                "mal_id": 116,
+                "type": "anime",
+                "name": "Broccoli",
+                "url": "https://myanimelist.net/anime/producer/116/Broccoli"
+            },
+            {
+                "mal_id": 3098,
+                "type": "anime",
+                "name": "Aquatone",
+                "url": "https://myanimelist.net/anime/producer/3098/Aquatone"
+            }
+        ],
+        "licensors": [
+            {
+                "mal_id": 217,
+                "type": "anime",
+                "name": "Nozomi Entertainment",
+                "url": "https://myanimelist.net/anime/producer/217/Nozomi_Entertainment"
+            },
+            {
+                "mal_id": 233,
+                "type": "anime",
+                "name": "Bandai Entertainment",
+                "url": "https://myanimelist.net/anime/producer/233/Bandai_Entertainment"
+            }
+        ],
+        "studios": [
+            {
+                "mal_id": 11,
+                "type": "anime",
+                "name": "Madhouse",
+                "url": "https://myanimelist.net/anime/producer/11/Madhouse"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 4,
+                "type": "anime",
+                "name": "Comedy",
+                "url": "https://myanimelist.net/anime/genre/4/Comedy"
+            },
+            {
+                "mal_id": 24,
+                "type": "anime",
+                "name": "Sci-Fi",
+                "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [],
+        "demographics": [],
+        "relations": [
+            {
+                "relation": "Sequel",
+                "entry": [
+                    {
+                        "mal_id": 652,
+                        "type": "anime",
+                        "name": "Galaxy Angel Z",
+                        "url": "https://myanimelist.net/anime/652/Galaxy_Angel_Z"
+                    }
+                ]
+            },
+            {
+                "relation": "Adaptation",
+                "entry": [
+                    {
+                        "mal_id": 672,
+                        "type": "manga",
+                        "name": "Galaxy Angel",
+                        "url": "https://myanimelist.net/manga/672/Galaxy_Angel"
+                    },
+                    {
+                        "mal_id": 90069,
+                        "type": "manga",
+                        "name": "Galaxy Angel: Haitaishi no Kikan",
+                        "url": "https://myanimelist.net/manga/90069/Galaxy_Angel__Haitaishi_no_Kikan"
+                    }
+                ]
+            },
+            {
+                "relation": "Side Story",
+                "entry": [
+                    {
+                        "mal_id": 13287,
+                        "type": "anime",
+                        "name": "Galaxy Angel Specials",
+                        "url": "https://myanimelist.net/anime/13287/Galaxy_Angel_Specials"
+                    },
+                    {
+                        "mal_id": 2206,
+                        "type": "anime",
+                        "name": "Galaxy Angel Music Collection: Shouen to Shien no Cassoulet",
+                        "url": "https://myanimelist.net/anime/2206/Galaxy_Angel_Music_Collection__Shouen_to_Shien_no_Cassoulet"
+                    }
+                ]
+            },
+            {
+                "relation": "Spin-Off",
+                "entry": [
+                    {
+                        "mal_id": 1600,
+                        "type": "anime",
+                        "name": "Galaxy Angel Rune",
+                        "url": "https://myanimelist.net/anime/1600/Galaxy_Angel_Rune"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [
+                "\"Galaxy Bang! Bang!\" by Angel-tai"
+            ],
+            "endings": [
+                "\"Horoscope Rhapsody\" by Angel-tai"
+            ]
+        },
+        "external": [
+            {
+                "name": "Official Site",
+                "url": "http://www.broccoli.co.jp/ga/anime/index.html"
+            },
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=108"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=837"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "http://en.wikipedia.org/wiki/Galaxy_Angel"
+            },
+            {
+                "name": "Syoboi",
+                "url": "https://cal.syoboi.jp/tid/319"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": [
+        {
+            "mal_id": 1,
+            "url": null,
+            "title": "Resort-style Angel Preparation",
+            "title_japanese": "リゾート風幸運包みエンジェル仕立て",
+            "title_romanji": "Resort-fuu Kouun-zutsumi Angel-jitate ",
+            "aired": "2001-04-08T00:00:00+00:00",
+            "score": 4.29,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=46107"
+        },
+        {
+            "mal_id": 2,
+            "url": null,
+            "title": "Gamble Milfeulle Sauce",
+            "title_japanese": "ギャンブルポワレミルフィーユソース",
+            "title_romanji": "Gamble Poiret Milfeulle Sauce ",
+            "aired": "2001-04-15T00:00:00+00:00",
+            "score": 4.46,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=115156"
+        },
+        {
+            "mal_id": 3,
+            "url": null,
+            "title": "Vanilla-flavored Asteroid Trash Stir-Fry",
+            "title_japanese": "アステロイドの拾い物炒めヴァニラ風味",
+            "title_romanji": "Asteroid no Hiroimono Itame Vanilla Fuumi ",
+            "aired": "2001-04-22T00:00:00+00:00",
+            "score": 4.42,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=115157"
+        },
+        {
+            "mal_id": 4,
+            "url": null,
+            "title": "3 o'clock Delivery, Angel Combination Platter",
+            "title_japanese": "産地直送エンジェルの盛り合わせ",
+            "title_romanji": "Sanchi Chokusou Angel no Moriawase ",
+            "aired": "2001-05-13T00:00:00+00:00",
+            "score": 4.04,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=209716"
+        },
+        {
+            "mal_id": 5,
+            "url": null,
+            "title": "Pirate-style School Memory Terrine",
+            "title_japanese": "廃校のテリーヌ思い出仕込み海賊風",
+            "title_romanji": "Haikou no Terrine Omoide-jikomi Kaizoku-fuu ",
+            "aired": "2001-05-20T00:00:00+00:00",
+            "score": 4.5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=209717"
+        },
+        {
+            "mal_id": 6,
+            "url": null,
+            "title": "Forte's Ruinous Stew and a Dash of Trouble",
+            "title_japanese": "フォルテの遺跡煮込みトラブル漬け",
+            "title_romanji": "Forte no Iseki Nikomi Trouble Zuke ",
+            "aired": "2001-05-27T00:00:00+00:00",
+            "score": 4.33,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=209718"
+        },
+        {
+            "mal_id": 7,
+            "url": null,
+            "title": "Fun Park Specialities With Chicken Mint Compote",
+            "title_japanese": "遊園地名物にわとりコンポートミント添え",
+            "title_romanji": "Yuuenchi Meibutsu Niwatori Compte Mint-zoe ",
+            "aired": "2001-06-03T00:00:00+00:00",
+            "score": 4.37,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=209719"
+        },
+        {
+            "mal_id": 8,
+            "url": null,
+            "title": "Milfeulle's All-Natural Syrupy Inspection",
+            "title_japanese": "天然ミルフィーユの査察あんかけ",
+            "title_romanji": "Tennen Milfeulle no Sasatsu Ankake ",
+            "aired": "2001-06-10T00:00:00+00:00",
+            "score": 4.35,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=209720"
+        },
+        {
+            "mal_id": 9,
+            "url": null,
+            "title": "Roast Beef of Lost Technology",
+            "title_japanese": "ロストテクノロジーのローストビーフ",
+            "title_romanji": "Lost Technology no Roast Beef ",
+            "aired": "2001-06-17T00:00:00+00:00",
+            "score": 4.45,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=209721"
+        },
+        {
+            "mal_id": 10,
+            "url": null,
+            "title": "Rouge-flavored Spring Rolls of Love",
+            "title_japanese": "恋の小龍包ルージュ風味",
+            "title_romanji": "Koi no Xiaolongbao Rouge Fuumi ",
+            "aired": "2001-06-24T00:00:00+00:00",
+            "score": 4.44,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=209723"
+        },
+        {
+            "mal_id": 11,
+            "url": null,
+            "title": "Gun Shot Bandage Roll Sushi Bowl",
+            "title_japanese": "包帯巻き銃弾散らし寿司",
+            "title_romanji": "Houtai Maki Juudan Chirashizushi ",
+            "aired": "2001-07-01T00:00:00+00:00",
+            "score": 3.84,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1881545"
+        },
+        {
+            "mal_id": 12,
+            "url": null,
+            "title": "Glazed Baseball and Negligee",
+            "title_japanese": "ベースボールとネグリジェのグラッセ",
+            "title_romanji": "Baseball to Negligee no Glaze ",
+            "aired": "2001-07-08T00:00:00+00:00",
+            "score": 3.81,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1881715"
+        },
+        {
+            "mal_id": 13,
+            "url": null,
+            "title": "The Great Kidnapping Spectacle",
+            "title_japanese": "大誘拐満漢全席",
+            "title_romanji": "Daiyuukai Mankan Zenseki ",
+            "aired": "2001-07-15T00:00:00+00:00",
+            "score": 4.27,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1881968"
+        },
+        {
+            "mal_id": 14,
+            "url": null,
+            "title": "Downtown Soulfood Oden",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": "2001-07-22T00:00:00+00:00",
+            "score": 4.46,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1084089"
+        },
+        {
+            "mal_id": 15,
+            "url": null,
+            "title": "Lost Item Pot-au-Feu",
+            "title_japanese": "落としモノぽとふ",
+            "title_romanji": "Otoshimono Pot-au-Feu ",
+            "aired": "2001-07-29T00:00:00+00:00",
+            "score": 4.2,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1882419"
+        },
+        {
+            "mal_id": 16,
+            "url": null,
+            "title": "Grilled Girl in a Box",
+            "title_japanese": "グリル・ド・箱入りムスメ",
+            "title_romanji": "Grilled Hakoiri Musume ",
+            "aired": "2001-08-05T00:00:00+00:00",
+            "score": 4.48,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1084105"
+        },
+        {
+            "mal_id": 17,
+            "url": null,
+            "title": "Canned Angel With Gun Turret",
+            "title_japanese": "エンジェル缶詰ほうとう付き",
+            "title_romanji": "Angel Kanzume Houtou Tsuki ",
+            "aired": "2001-08-12T00:00:00+00:00",
+            "score": 4.23,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1084135"
+        },
+        {
+            "mal_id": 18,
+            "url": null,
+            "title": "Monkey Salvage Combo",
+            "title_japanese": "サルのサルベージコンボ",
+            "title_romanji": "Saru no Salvage Combo ",
+            "aired": "2001-08-19T00:00:00+00:00",
+            "score": 3.94,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1883104"
+        },
+        {
+            "mal_id": 19,
+            "url": null,
+            "title": "Angel Kiss Gateau de Milfeulle",
+            "title_japanese": "エンジェルキッス・ガトー・デ・ミルフィーユ",
+            "title_romanji": "Angel Kiss Gateau de Milfeulle ",
+            "aired": "2001-08-26T00:00:00+00:00",
+            "score": 4.41,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1885174"
+        },
+        {
+            "mal_id": 20,
+            "url": null,
+            "title": "Special Survival Combo",
+            "title_japanese": "特盛サバイバル定食",
+            "title_romanji": "Tokumori Survival Teishoku ",
+            "aired": "2001-09-02T00:00:00+00:00",
+            "score": 4.11,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1885334"
+        },
+        {
+            "mal_id": 21,
+            "url": null,
+            "title": "Deco Pizza",
+            "title_japanese": "デコピザ",
+            "title_romanji": "Deco Pizza ",
+            "aired": "2001-09-09T00:00:00+00:00",
+            "score": 4.52,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1885547"
+        },
+        {
+            "mal_id": 22,
+            "url": null,
+            "title": "Board Girl Special Secret Fried Roll",
+            "title_japanese": "看板娘特製秘密の包み焼き",
+            "title_romanji": "Kanban Musume Tokusei Himitsu no Tsutsumiyaki ",
+            "aired": "2001-09-16T00:00:00+00:00",
+            "score": 4.56,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1885921"
+        },
+        {
+            "mal_id": 23,
+            "url": null,
+            "title": "Pitch Black Laughing Pepper",
+            "title_japanese": "闇鍋お笑いペッパー",
+            "title_romanji": "Yaminabe Owarai Pepper ",
+            "aired": "2001-09-23T00:00:00+00:00",
+            "score": 4.18,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1473981"
+        },
+        {
+            "mal_id": 24,
+            "url": null,
+            "title": "Tear Flavored Missile Rice Bowl",
+            "title_japanese": "激盛ミサイル丼もっこり涙味",
+            "title_romanji": "Gekimori Missile-don Mokkori Namida Aji ",
+            "aired": "2001-09-30T00:00:00+00:00",
+            "score": 4.68,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1886879"
+        }
+    ]
+}

@@ -1,0 +1,804 @@
+{
+    "id": 2561,
+    "fetched_at": "Sun Dec 14 07:26:55 2025",
+    "metadata": {
+        "mal_id": 2561,
+        "url": "https://myanimelist.net/anime/2561/Captain_Future",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/10/87992.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/10/87992t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/10/87992l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/10/87992.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/10/87992t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/10/87992l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Captain Future"
+            },
+            {
+                "type": "Japanese",
+                "title": "キャプテンフューチャー"
+            },
+            {
+                "type": "French",
+                "title": "Capitaine Flam"
+            }
+        ],
+        "title": "Captain Future",
+        "title_english": null,
+        "title_japanese": "キャプテンフューチャー",
+        "title_synonyms": [],
+        "type": "TV",
+        "source": "Novel",
+        "episodes": 52,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "1978-11-07T00:00:00+00:00",
+            "to": "1979-12-18T00:00:00+00:00",
+            "prop": {
+                "from": {
+                    "day": 7,
+                    "month": 11,
+                    "year": 1978
+                },
+                "to": {
+                    "day": 18,
+                    "month": 12,
+                    "year": 1979
+                }
+            },
+            "string": "Nov 7, 1978 to Dec 18, 1979"
+        },
+        "duration": "23 min per ep",
+        "rating": "PG-13 - Teens 13 or older",
+        "score": 7.14,
+        "scored_by": 2733,
+        "rank": 3808,
+        "popularity": 8704,
+        "members": 6004,
+        "favorites": 32,
+        "synopsis": "Curtis Newton, aka Captain Future, is an orphan. His parents died in their artificial satellite while he was an infant. His father was a scientist, who has abandoned earth for the satellite to dedicate his life for science along with his aging friend the genius Dr Simon Wright. Wright senses his death, and decides to implant his brain in a mechanical container. They both manufactured a superior robot and an android. Captain future dedicated his life to fight evil along with his three men, the brain, android, and robot. \n\n(Source: ANN)",
+        "background": "",
+        "season": "fall",
+        "year": 1978,
+        "broadcast": {
+            "day": "Tuesdays",
+            "time": "19:30",
+            "timezone": "Asia/Tokyo",
+            "string": "Tuesdays at 19:30 (JST)"
+        },
+        "producers": [
+            {
+                "mal_id": 111,
+                "type": "anime",
+                "name": "NHK",
+                "url": "https://myanimelist.net/anime/producer/111/NHK"
+            }
+        ],
+        "licensors": [
+            {
+                "mal_id": 2278,
+                "type": "anime",
+                "name": "Harmony Gold",
+                "url": "https://myanimelist.net/anime/producer/2278/Harmony_Gold"
+            }
+        ],
+        "studios": [
+            {
+                "mal_id": 18,
+                "type": "anime",
+                "name": "Toei Animation",
+                "url": "https://myanimelist.net/anime/producer/18/Toei_Animation"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 1,
+                "type": "anime",
+                "name": "Action",
+                "url": "https://myanimelist.net/anime/genre/1/Action"
+            },
+            {
+                "mal_id": 2,
+                "type": "anime",
+                "name": "Adventure",
+                "url": "https://myanimelist.net/anime/genre/2/Adventure"
+            },
+            {
+                "mal_id": 24,
+                "type": "anime",
+                "name": "Sci-Fi",
+                "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [],
+        "demographics": [],
+        "relations": [
+            {
+                "relation": "Sequel",
+                "entry": [
+                    {
+                        "mal_id": 4509,
+                        "type": "anime",
+                        "name": "Captain Future: Kareinaru Taiyokei Race",
+                        "url": "https://myanimelist.net/anime/4509/Captain_Future__Kareinaru_Taiyokei_Race"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [
+                "\"Yume no Funanori\" composed by Yuji Ohno"
+            ],
+            "endings": [
+                "\"Poplar Douri no Ie'\" (ポプラ通りの家) by Peek-A-Boo"
+            ]
+        },
+        "external": [
+            {
+                "name": "Official Site",
+                "url": "http://www.toei-anim.co.jp/lineup/tv/captain_future/"
+            },
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=524"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=1237"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Captain_Future"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": [
+        {
+            "mal_id": 1,
+            "url": null,
+            "title": "Space-Emperor of Terror",
+            "title_japanese": "宇宙帝王あらわる",
+            "title_romanji": "Uchuu Teiou Arawaru ",
+            "aired": "1978-11-07T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 2,
+            "url": null,
+            "title": "The Prison in the Sea of Flames",
+            "title_japanese": "炎の海の牢獄",
+            "title_romanji": "Honoo no Umi no Rougoku ",
+            "aired": "1978-11-14T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 3,
+            "url": null,
+            "title": "The Miracle of the Soaring Fortress",
+            "title_japanese": "天翔ける砦の奇蹟",
+            "title_romanji": "Amagakeru Toride no Kiseki ",
+            "aired": "1978-11-21T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 4,
+            "url": null,
+            "title": "Showdown at the Satellite Noon",
+            "title_japanese": "衛星ヌーンの決戦",
+            "title_romanji": "Eisei Noon no Kessen ",
+            "aired": "1978-11-28T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 5,
+            "url": null,
+            "title": "SOS 1 billion years ago",
+            "title_japanese": "SOS1億年前",
+            "title_romanji": "SOS 1-oku Nen Mae ",
+            "aired": "1978-12-05T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 6,
+            "url": null,
+            "title": "The Riddle of the Holy Star Koom",
+            "title_japanese": "聖なる星クウムの謎",
+            "title_romanji": "Seinaru Hoshi Koom no Nazo ",
+            "aired": "1978-12-12T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 7,
+            "url": null,
+            "title": "Solar System Genesis",
+            "title_japanese": "太陽系創世記",
+            "title_romanji": "Taiyoukei Souseiki ",
+            "aired": "1978-12-19T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 8,
+            "url": null,
+            "title": "A Journey of 5 Billion Years",
+            "title_japanese": "遥かなり50億年の旅",
+            "title_romanji": "Horukanari 50-oku Nen no Tabi ",
+            "aired": "1978-12-26T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 9,
+            "url": null,
+            "title": "The conspiracy of the Wrecker",
+            "title_japanese": "破壊王（レッカー）の陰謀",
+            "title_romanji": "Wrecker no Inbou ",
+            "aired": "1979-01-09T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 10,
+            "url": null,
+            "title": "The Underwater-Trap",
+            "title_japanese": "海底の罠",
+            "title_romanji": "Kaitei no Wana ",
+            "aired": "1979-01-16T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 11,
+            "url": null,
+            "title": "The horrible Sea-Devil",
+            "title_japanese": "戦慄の海悪魔（シーデビル）",
+            "title_romanji": "Senritsu no Sea Devil ",
+            "aired": "1979-01-23T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 12,
+            "url": null,
+            "title": "The Riddle of Wrecker",
+            "title_japanese": "破壊王（レッカー）の謎",
+            "title_romanji": "Wrecker no Nazo ",
+            "aired": "1979-01-30T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 13,
+            "url": null,
+            "title": "When the atmosphere of the planet disappears",
+            "title_japanese": "惑星に空気がなくなるとき",
+            "title_romanji": "Wakusei ni Kuuki ga Naku Naru Toki ",
+            "aired": "1979-02-06T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 14,
+            "url": null,
+            "title": "The tragic Dark Planet",
+            "title_japanese": "悲劇の暗黒星",
+            "title_romanji": "Higeki no Ankokusei ",
+            "aired": "1979-02-13T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 15,
+            "url": null,
+            "title": "The Law of the Watcher",
+            "title_japanese": "見張りの掟",
+            "title_romanji": "Mihari no Okite ",
+            "aired": "1979-02-20T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 16,
+            "url": null,
+            "title": "The Ressurected Planet",
+            "title_japanese": "甦える惑星",
+            "title_romanji": "Yomigaeru Wakusei ",
+            "aired": "1979-02-27T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 17,
+            "url": null,
+            "title": "The challenge of Ul Quorn",
+            "title_japanese": "ウル・クォルンの挑戦",
+            "title_romanji": "Ul Quorn no Chousen ",
+            "aired": "1979-03-06T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 18,
+            "url": null,
+            "title": "The Dark Tribe from the Depth of the Earth",
+            "title_japanese": "暗闇族のすむ地底",
+            "title_romanji": "Kurayami Zoku no Sumu Chitei ",
+            "aired": "1979-03-13T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 19,
+            "url": null,
+            "title": "Planet - Alone",
+            "title_japanese": "惑星ただ一人",
+            "title_romanji": "Wakusei Tada Hitori ",
+            "aired": "1979-03-20T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 20,
+            "url": null,
+            "title": "The Phantoms of the transparent Planet",
+            "title_japanese": "透明惑星の幻人間",
+            "title_romanji": "Toumei Wakusei no Maboroshi Ningen ",
+            "aired": "1979-03-27T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 21,
+            "url": null,
+            "title": "The mystery stone that sleeps in the galaxy",
+            "title_japanese": "銀河に眠る神秘の石",
+            "title_romanji": "Ginga ni Nemuru Shinpi no Ishi ",
+            "aired": "1979-04-03T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 22,
+            "url": null,
+            "title": "Deathmatch at the Milkyway-Circus!",
+            "title_japanese": "銀河サーカスの死闘!",
+            "title_romanji": "Ginga Circus no Shitou ",
+            "aired": "1979-04-10T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 23,
+            "url": null,
+            "title": "Captain Future dies!",
+            "title_japanese": "キャプテンフューチャー死す!",
+            "title_romanji": "Captain Future Shisu! ",
+            "aired": "1979-04-17T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 24,
+            "url": null,
+            "title": "The undiscovered Micocosmos",
+            "title_japanese": "未知のミクロ宇宙",
+            "title_romanji": "Michi no Micro Uchuu ",
+            "aired": "1979-04-24T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 25,
+            "url": null,
+            "title": "Whirling Gravestones",
+            "title_japanese": "渦巻く墓標",
+            "title_romanji": "Uzumaku Bohyou ",
+            "aired": "1979-05-01T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 26,
+            "url": null,
+            "title": "The Howling Eternal Current",
+            "title_japanese": "吼える大氷流",
+            "title_romanji": "Hoeru Daihyouryuu ",
+            "aired": "1979-05-08T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 27,
+            "url": null,
+            "title": "The Monster Hunter talks",
+            "title_japanese": "怪獣狩人（ビブルハンター）は語る",
+            "title_romanji": "Biburu Hunter wa Kataru ",
+            "aired": "1979-05-15T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 28,
+            "url": null,
+            "title": "Illusionary Star, Illusionary Civilization",
+            "title_japanese": "幻の星幻の文明",
+            "title_romanji": "Maboroshi no Hoshi, Maboroshi no Bunmei ",
+            "aired": "1979-05-22T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 29,
+            "url": null,
+            "title": "Prisonership being hijacked!",
+            "title_japanese": "囚人船ハイジャックさる!",
+            "title_romanji": "Shuujin Fune Hijack Saru! ",
+            "aired": "1979-05-29T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 30,
+            "url": null,
+            "title": "The Great Escape from the Milkyway",
+            "title_japanese": "銀河からの大脱走",
+            "title_romanji": "Kinga kara no Dai Dassou ",
+            "aired": "1979-06-05T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 31,
+            "url": null,
+            "title": "Start from Zero",
+            "title_japanese": "ゼロからの出発",
+            "title_romanji": "Zero kara no Shuppatsu ",
+            "aired": "1979-06-12T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 32,
+            "url": null,
+            "title": "The Stardust Spaceman",
+            "title_japanese": "星くずのスペースマン",
+            "title_romanji": "Hoshi Kuzu no Spaceman ",
+            "aired": "1979-06-19T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 33,
+            "url": null,
+            "title": "Captain Future Recruiting!",
+            "title_japanese": "キャプテンフューチャー募集!",
+            "title_romanji": "Captain Future Boshuu! ",
+            "aired": "1979-06-26T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 34,
+            "url": null,
+            "title": "Horrible Space Location",
+            "title_japanese": "恐怖のスペース・ロケーション",
+            "title_romanji": "Kyoufu no Space Location ",
+            "aired": "1979-07-03T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 35,
+            "url": null,
+            "title": "The Planet of Phantoms",
+            "title_japanese": "幻影の惑星",
+            "title_romanji": "Gensei no Wakusei ",
+            "aired": "1979-07-17T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 36,
+            "url": null,
+            "title": "The set-free Ultimate Weapon",
+            "title_japanese": "放たれた最終兵器（スーパーウェポン）",
+            "title_romanji": "Hanatareta Super Weapon ",
+            "aired": "1979-07-31T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 37,
+            "url": null,
+            "title": "The disappeared Spaceships - The conspiracy of the comet king",
+            "title_japanese": "消えた宇宙船・彗星王の陰謀",
+            "title_romanji": "Kieta Uchuusen - Suisei Ou no Inbou ",
+            "aired": "1979-08-07T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 38,
+            "url": null,
+            "title": "The Governor of the Comet",
+            "title_japanese": "彗星の支配者",
+            "title_romanji": "Suisei no Shihaisha ",
+            "aired": "1979-08-14T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 39,
+            "url": null,
+            "title": "The True Colors of Alulus",
+            "title_japanese": "アルルスの正体",
+            "title_romanji": "Alulus no Shoutai ",
+            "aired": "1979-08-28T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 40,
+            "url": null,
+            "title": "Universe of Nightmare - Four Dimensions",
+            "title_japanese": "悪夢の世界・四次元",
+            "title_romanji": "Akumu no Sekai - Yojigen ",
+            "aired": "1979-09-04T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 41,
+            "url": null,
+            "title": "Immortality-Smuggling Syndicate",
+            "title_japanese": "不死密売シンジケート",
+            "title_romanji": "Fushi Mitsubai Syndicate ",
+            "aired": "1979-09-11T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 42,
+            "url": null,
+            "title": "Challenge of the Immortality-Emperor",
+            "title_japanese": "不死帝王の挑戦",
+            "title_romanji": "Fushi Teiou no Chousen ",
+            "aired": "1979-09-25T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 43,
+            "url": null,
+            "title": "Phantoms of Life and Death",
+            "title_japanese": "生と死の幻影",
+            "title_romanji": "Sei to Shi no Genei ",
+            "aired": "1979-10-09T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 44,
+            "url": null,
+            "title": "Decisive Battle in the Capital of Eternity",
+            "title_japanese": "永遠の都の決斗",
+            "title_romanji": "Eien no To no Kettou ",
+            "aired": "1979-10-23T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 45,
+            "url": null,
+            "title": "Resurrect the Legendary Hero",
+            "title_japanese": "よみがえれ伝説の英雄",
+            "title_romanji": "Yomigaere Densetsu no Eiyuu ",
+            "aired": "1979-10-30T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 46,
+            "url": null,
+            "title": "Rescue-Mission \"Grag\"",
+            "title_japanese": "グラッグ奪回作戦",
+            "title_romanji": "Grag Dakkai Sakusen ",
+            "aired": "1979-11-06T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 47,
+            "url": null,
+            "title": "Hell-Penalty - Solitude",
+            "title_japanese": "ひとりぼっちの地獄刑",
+            "title_romanji": "Hitoribocchi no Jigoku Kei ",
+            "aired": "1979-11-13T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 48,
+            "url": null,
+            "title": "The Mystery of Hero Kaful",
+            "title_japanese": "英雄カフールの謎",
+            "title_romanji": "Eiyuu Kaful no Nazo ",
+            "aired": "1979-11-20T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 49,
+            "url": null,
+            "title": "The Mystery of the Space-Ruins",
+            "title_japanese": "宇宙遺跡の謎",
+            "title_romanji": "Uchuu Iseki no Nazo ",
+            "aired": "1979-11-27T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 50,
+            "url": null,
+            "title": "The Mystery of the Semi-Monster-Race",
+            "title_japanese": "半獣人の謎",
+            "title_romanji": "Han Juujin no Nazo ",
+            "aired": "1979-12-04T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 51,
+            "url": null,
+            "title": "Showdown at the City of Death",
+            "title_japanese": "死都の対決",
+            "title_romanji": "Shi To no Taiketsu ",
+            "aired": "1979-12-11T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 52,
+            "url": null,
+            "title": "To the other side of Light and Darkness",
+            "title_japanese": "光と闇の彼方へ",
+            "title_romanji": "Hikari to Yami no Kanata e ",
+            "aired": "1979-12-18T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        }
+    ]
+}

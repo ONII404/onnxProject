@@ -1,0 +1,776 @@
+{
+    "id": 245,
+    "fetched_at": "Sun Dec 14 12:50:56 2025",
+    "metadata": {
+        "mal_id": 245,
+        "url": "https://myanimelist.net/anime/245/Great_Teacher_Onizuka",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/13/11460.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/13/11460t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/13/11460l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/13/11460.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/13/11460t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/13/11460l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Great Teacher Onizuka"
+            },
+            {
+                "type": "Synonym",
+                "title": "GTO"
+            },
+            {
+                "type": "Synonym",
+                "title": "GTO - The Animation"
+            },
+            {
+                "type": "Japanese",
+                "title": "グレート・ティーチャー・オニヅカ"
+            },
+            {
+                "type": "English",
+                "title": "Great Teacher Onizuka"
+            }
+        ],
+        "title": "Great Teacher Onizuka",
+        "title_english": "Great Teacher Onizuka",
+        "title_japanese": "グレート・ティーチャー・オニヅカ",
+        "title_synonyms": [
+            "GTO",
+            "GTO - The Animation"
+        ],
+        "type": "TV",
+        "source": "Manga",
+        "episodes": 43,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "1999-06-30T00:00:00+00:00",
+            "to": "2000-09-17T00:00:00+00:00",
+            "prop": {
+                "from": {
+                    "day": 30,
+                    "month": 6,
+                    "year": 1999
+                },
+                "to": {
+                    "day": 17,
+                    "month": 9,
+                    "year": 2000
+                }
+            },
+            "string": "Jun 30, 1999 to Sep 17, 2000"
+        },
+        "duration": "25 min per ep",
+        "rating": "R - 17+ (violence & profanity)",
+        "score": 8.68,
+        "scored_by": 440858,
+        "rank": 73,
+        "popularity": 219,
+        "members": 901299,
+        "favorites": 28279,
+        "synopsis": "Twenty-two-year-old Eikichi Onizuka—ex-biker gang leader, conqueror of Shonan, and virgin—has a dream: to become the greatest high school teacher in all of Japan. This isn't because of a passion for teaching, but because he wants a loving teenage wife when he's old and gray. Still, for a perverted, greedy, and lazy delinquent, there is more to Onizuka than meets the eye. So when he lands a job as the homeroom teacher of the Class 3-4 at the prestigious Holy Forest Academy—despite suplexing the Vice Principal—all of his talents are put to the test, as this class is particularly infamous.\n\nDue to their utter contempt for all teachers, the class' students use psychological warfare to mentally break any new homeroom teacher they get, forcing them to quit and leave school. However, Onizuka isn't your average teacher, and he's ready for any challenge in his way.\n\nBullying, suicide, and sexual harassment are just a few of the issues his students face daily. By tackling the roots of their problems, Onizuka supports them with his unpredictable and unconventional methods—even if it means jumping off a building to save a suicidal child. Thanks to his eccentric charm and fun-loving nature, Class 3-4 slowly learns just how enjoyable school can be when you're the pupils of the Great Teacher Onizuka.\n\n[Written by MAL Rewrite]",
+        "background": "First episode has a duration of 48 minutes, standard length is 24 minutes.",
+        "season": "summer",
+        "year": 1999,
+        "broadcast": {
+            "day": "Wednesdays",
+            "time": "19:30",
+            "timezone": "Asia/Tokyo",
+            "string": "Wednesdays at 19:30 (JST)"
+        },
+        "producers": [
+            {
+                "mal_id": 17,
+                "type": "anime",
+                "name": "Aniplex",
+                "url": "https://myanimelist.net/anime/producer/17/Aniplex"
+            },
+            {
+                "mal_id": 169,
+                "type": "anime",
+                "name": "Fuji TV",
+                "url": "https://myanimelist.net/anime/producer/169/Fuji_TV"
+            }
+        ],
+        "licensors": [
+            {
+                "mal_id": 467,
+                "type": "anime",
+                "name": "Discotek Media",
+                "url": "https://myanimelist.net/anime/producer/467/Discotek_Media"
+            },
+            {
+                "mal_id": 484,
+                "type": "anime",
+                "name": "Tokyopop",
+                "url": "https://myanimelist.net/anime/producer/484/Tokyopop"
+            }
+        ],
+        "studios": [
+            {
+                "mal_id": 1,
+                "type": "anime",
+                "name": "Studio Pierrot",
+                "url": "https://myanimelist.net/anime/producer/1/Studio_Pierrot"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 4,
+                "type": "anime",
+                "name": "Comedy",
+                "url": "https://myanimelist.net/anime/genre/4/Comedy"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [
+            {
+                "mal_id": 55,
+                "type": "anime",
+                "name": "Delinquents",
+                "url": "https://myanimelist.net/anime/genre/55/Delinquents"
+            },
+            {
+                "mal_id": 23,
+                "type": "anime",
+                "name": "School",
+                "url": "https://myanimelist.net/anime/genre/23/School"
+            },
+            {
+                "mal_id": 48,
+                "type": "anime",
+                "name": "Workplace",
+                "url": "https://myanimelist.net/anime/genre/48/Workplace"
+            }
+        ],
+        "demographics": [
+            {
+                "mal_id": 27,
+                "type": "anime",
+                "name": "Shounen",
+                "url": "https://myanimelist.net/anime/genre/27/Shounen"
+            }
+        ],
+        "relations": [
+            {
+                "relation": "Prequel",
+                "entry": [
+                    {
+                        "mal_id": 1913,
+                        "type": "anime",
+                        "name": "Shonan Junai Gumi!",
+                        "url": "https://myanimelist.net/anime/1913/Shonan_Junai_Gumi"
+                    }
+                ]
+            },
+            {
+                "relation": "Adaptation",
+                "entry": [
+                    {
+                        "mal_id": 336,
+                        "type": "manga",
+                        "name": "GTO",
+                        "url": "https://myanimelist.net/manga/336/GTO"
+                    }
+                ]
+            },
+            {
+                "relation": "Summary",
+                "entry": [
+                    {
+                        "mal_id": 41043,
+                        "type": "anime",
+                        "name": "Great Teacher Onizuka Recaps",
+                        "url": "https://myanimelist.net/anime/41043/Great_Teacher_Onizuka_Recaps"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [
+                "1: \"Driver's High\" by L'Arc~en~Ciel (eps 1-17)",
+                "2: \"Hitori no Yoru\" by Porno Graffitti (eps 18-43)"
+            ],
+            "endings": [
+                "1: \"Last Piece\" by Kirari (eps 1-17)",
+                "2: \"Shizuku (しずく)\" by Okuda Miwaku (eps 18-33)",
+                "3: \"CHERISHED MEMORIES\" by Hong Kong Knife (eps 34-42)",
+                "4: \"Driver's High\" by L'Arc~en~Ciel (eps 43)"
+            ]
+        },
+        "external": [
+            {
+                "name": "Official Site",
+                "url": "https://pierrot.jp/archive/1995/tv90_26.html"
+            },
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=191"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=153"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "http://en.wikipedia.org/wiki/Great_Teacher_Onizuka"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "https://ja.wikipedia.org/wiki/GTO_%28%E6%BC%AB%E7%94%BB%29"
+            },
+            {
+                "name": "Syoboi",
+                "url": "https://cal.syoboi.jp/tid/5207"
+            }
+        ],
+        "streaming": [
+            {
+                "name": "Crunchyroll",
+                "url": "http://www.crunchyroll.com/series-264719"
+            },
+            {
+                "name": "Netflix",
+                "url": "https://www.netflix.com/"
+            }
+        ]
+    },
+    "episodes": [
+        {
+            "mal_id": 1,
+            "url": "https://myanimelist.net/anime/245/Great_Teacher_Onizuka/episode/1",
+            "title": "GTO-The Legend Begins",
+            "title_japanese": "鬼塚英吉22歳! 元不良 伝説の教育実習が今はじまる!!",
+            "title_romanji": "Onizuka Eikichi 22-sai! Motofuryou Densetsu no Kyouiku Jisshuu ga Ima Hajimaru!! ",
+            "aired": "1999-06-30T00:00:00+00:00",
+            "score": 4.38,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=38844"
+        },
+        {
+            "mal_id": 2,
+            "url": "https://myanimelist.net/anime/245/Great_Teacher_Onizuka/episode/2",
+            "title": "Enter Uchiyamada!",
+            "title_japanese": "天敵・内山田教頭登場!! 大逆転!?の最終面接",
+            "title_romanji": "Tenteki Uchiyamada Kyoutou Toujou!! Daigyakuten!? no Saishuu Mensetsu ",
+            "aired": "1999-07-07T00:00:00+00:00",
+            "score": 4.32,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=38847"
+        },
+        {
+            "mal_id": 3,
+            "url": "https://myanimelist.net/anime/245/Great_Teacher_Onizuka/episode/3",
+            "title": "Late Night Roof Diving",
+            "title_japanese": "教師の仕事は命がけ?! 深夜の屋上ダイビング",
+            "title_romanji": "Kyoushi no Shigoto wa Inochigake?! Shin'ya no Okujou Diving ",
+            "aired": "1999-07-21T00:00:00+00:00",
+            "score": 4.4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=38853"
+        },
+        {
+            "mal_id": 4,
+            "url": "https://myanimelist.net/anime/245/Great_Teacher_Onizuka/episode/4",
+            "title": "The Secret Life of Onizuka",
+            "title_japanese": "攻撃開始! 今, あばかれる鬼塚の怪しい日常?!",
+            "title_romanji": "Kougeki Kaishi! Ima, Abakareru Onizuka no Ayashii Nichijou?! ",
+            "aired": "1999-08-11T00:00:00+00:00",
+            "score": 4.35,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=38860"
+        },
+        {
+            "mal_id": 5,
+            "url": "https://myanimelist.net/anime/245/Great_Teacher_Onizuka/episode/5",
+            "title": "An Eye for an Eye, a Butt for a Butt",
+            "title_japanese": "悪魔のリベンジ!! 目には目を, お尻にはお尻を",
+            "title_romanji": "Akuma no Revenge!! Me ni wa Me wo, Oshiri ni wa Oshiri wo ",
+            "aired": "1999-08-18T00:00:00+00:00",
+            "score": 4.47,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=38863"
+        },
+        {
+            "mal_id": 6,
+            "url": "https://myanimelist.net/anime/245/Great_Teacher_Onizuka/episode/6",
+            "title": "Conspiracies All Around",
+            "title_japanese": "失業確定? 抗議殺到, あいつをクビにしろ!!",
+            "title_romanji": "Shitsugyou Kakutei? Kougi Sattou, Aitsu o Kubi ni Shiro!! ",
+            "aired": "1999-08-25T00:00:00+00:00",
+            "score": 4.53,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=38874"
+        },
+        {
+            "mal_id": 7,
+            "url": "https://myanimelist.net/anime/245/Great_Teacher_Onizuka/episode/7",
+            "title": "The Mother of all Crushes",
+            "title_japanese": "最も危険な家庭訪問! 母ちゃんに手を出すな",
+            "title_romanji": "Mottomo Kiken na Katei Houmon! Kaa-chan ni Te wo Dasu na ",
+            "aired": "1999-09-01T00:00:00+00:00",
+            "score": 4.49,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=38875"
+        },
+        {
+            "mal_id": 8,
+            "url": "https://myanimelist.net/anime/245/Great_Teacher_Onizuka/episode/8",
+            "title": "Bungee Jumping Made Easy",
+            "title_japanese": "村井死す!? 決死のベイブリッジ・バンジー!",
+            "title_romanji": "Murai Shisu!? Kesshi no Bay Bridge Bungee! ",
+            "aired": "1999-09-08T00:00:00+00:00",
+            "score": 4.44,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=38879"
+        },
+        {
+            "mal_id": 9,
+            "url": "https://myanimelist.net/anime/245/Great_Teacher_Onizuka/episode/9",
+            "title": "Onizuka and the Art of War",
+            "title_japanese": "うなる筋肉! 激闘! 鬼塚VS熱血体育教師!",
+            "title_romanji": "Unaru Kinniku! Gekitou! Onizuka vs Nekketsu Taiiku Kyoushi! ",
+            "aired": "1999-09-22T00:00:00+00:00",
+            "score": 4.37,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=38886"
+        },
+        {
+            "mal_id": 10,
+            "url": "https://myanimelist.net/anime/245/Great_Teacher_Onizuka/episode/10",
+            "title": "Outside Looking In",
+            "title_japanese": "私ぬぎます! 朋子14歳・体当たりの初体験!",
+            "title_romanji": "Watashi Nugimasu! Tomoko 14-sai Taiatari no Hatsutaiken! ",
+            "aired": "1999-09-22T00:00:00+00:00",
+            "score": 4.27,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=38972"
+        },
+        {
+            "mal_id": 11,
+            "url": "https://myanimelist.net/anime/245/Great_Teacher_Onizuka/episode/11",
+            "title": "To Be Idolized by a Nation",
+            "title_japanese": "ゆれるFカップ! ビッグな胸とアイドル伝説!",
+            "title_romanji": "Yureru F-cup! Big na Mune to Idol Densetsu! ",
+            "aired": "1999-10-17T00:00:00+00:00",
+            "score": 4.52,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=38976"
+        },
+        {
+            "mal_id": 12,
+            "url": "https://myanimelist.net/anime/245/Great_Teacher_Onizuka/episode/12",
+            "title": "The Formula for Treachery",
+            "title_japanese": "鬼塚追放! 闇の策略!",
+            "title_romanji": "Onizuka Tsuihou! Yami no Sakuryaku! ",
+            "aired": "1999-10-31T00:00:00+00:00",
+            "score": 4.31,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=18127"
+        },
+        {
+            "mal_id": 13,
+            "url": "https://myanimelist.net/anime/245/Great_Teacher_Onizuka/episode/13",
+            "title": "Only the Best Will Do",
+            "title_japanese": "鬼塚またまた失業確定?!",
+            "title_romanji": "Onizuka Matamata Shitsugyou Kakutei?! ",
+            "aired": "1999-11-21T00:00:00+00:00",
+            "score": 4.26,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=39100"
+        },
+        {
+            "mal_id": 14,
+            "url": "https://myanimelist.net/anime/245/Great_Teacher_Onizuka/episode/14",
+            "title": "Between a Rock and a Hard Place",
+            "title_japanese": "地獄? 夢の二人暮らし",
+            "title_romanji": "Jigoku? Yume no Futarigurashi ",
+            "aired": "1999-12-05T00:00:00+00:00",
+            "score": 4.42,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=39262"
+        },
+        {
+            "mal_id": 15,
+            "url": "https://myanimelist.net/anime/245/Great_Teacher_Onizuka/episode/15",
+            "title": "The Great Sacrifice",
+            "title_japanese": "死闘! 血染めの解答用紙!",
+            "title_romanji": "Shitou! Chizome no Kaitou Youshi! ",
+            "aired": "1999-12-12T00:00:00+00:00",
+            "score": 4.76,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=49222"
+        },
+        {
+            "mal_id": 16,
+            "url": "https://myanimelist.net/anime/245/Great_Teacher_Onizuka/episode/16",
+            "title": "Beauty + Brains = A Dangerous Mix",
+            "title_japanese": "鬼塚マジギレ!! 強敵出現!!",
+            "title_romanji": "Onizuka Majigire!! Kyouteki Shutsugen!! ",
+            "aired": "1999-12-19T00:00:00+00:00",
+            "score": 4.41,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=49269"
+        },
+        {
+            "mal_id": 17,
+            "url": "https://myanimelist.net/anime/245/Great_Teacher_Onizuka/episode/17",
+            "title": "Falling for The Great Onizuka",
+            "title_japanese": "悪い夢! 逃亡者・鬼塚!",
+            "title_romanji": "Warui Yume! Toubousha Onizuka! ",
+            "aired": "2000-01-16T00:00:00+00:00",
+            "score": 4.51,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=49272"
+        },
+        {
+            "mal_id": 18,
+            "url": "https://myanimelist.net/anime/245/Great_Teacher_Onizuka/episode/18",
+            "title": "How to Dine and Dash",
+            "title_japanese": "再会・恩師よ......",
+            "title_romanji": "Saikai Onshi yo.. ",
+            "aired": "2000-01-23T00:00:00+00:00",
+            "score": 4.27,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=49280"
+        },
+        {
+            "mal_id": 19,
+            "url": "https://myanimelist.net/anime/245/Great_Teacher_Onizuka/episode/19",
+            "title": "Private Investigations",
+            "title_japanese": "鬼塚, 命がけの課外授業",
+            "title_romanji": "Onizuka, Inochigake no Kagai Jugyou ",
+            "aired": "2000-01-30T00:00:00+00:00",
+            "score": 4.61,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=49381"
+        },
+        {
+            "mal_id": 20,
+            "url": "https://myanimelist.net/anime/245/Great_Teacher_Onizuka/episode/20",
+            "title": "Love Letters",
+            "title_japanese": "Fからのラブレター",
+            "title_romanji": "F kara no Love Letter ",
+            "aired": "2000-02-06T00:00:00+00:00",
+            "score": 4.25,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=49408"
+        },
+        {
+            "mal_id": 21,
+            "url": "https://myanimelist.net/anime/245/Great_Teacher_Onizuka/episode/21",
+            "title": "Revolution Everywhere",
+            "title_japanese": "教師失格? 消えた冬月",
+            "title_romanji": "Kyoushi Shikkaku? Kieta Fuyutsuki ",
+            "aired": "2000-02-13T00:00:00+00:00",
+            "score": 3.98,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=49467"
+        },
+        {
+            "mal_id": 22,
+            "url": "https://myanimelist.net/anime/245/Great_Teacher_Onizuka/episode/22",
+            "title": "The Art of Demolition",
+            "title_japanese": "鬼塚爆死?! 炎の大脱出!!",
+            "title_romanji": "Onizuka Bakushi?! Honoo no Daidasshutsu!! ",
+            "aired": "2000-02-20T00:00:00+00:00",
+            "score": 4.04,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=49528"
+        },
+        {
+            "mal_id": 23,
+            "url": "https://myanimelist.net/anime/245/Great_Teacher_Onizuka/episode/23",
+            "title": "Superstition",
+            "title_japanese": "鬼塚死す!? 最後の七日間",
+            "title_romanji": "Onizuka Shisu!? Saigo no Nanokakan ",
+            "aired": "2000-02-27T00:00:00+00:00",
+            "score": 4.34,
+            "filler": true,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=49531"
+        },
+        {
+            "mal_id": 24,
+            "url": "https://myanimelist.net/anime/245/Great_Teacher_Onizuka/episode/24",
+            "title": "Compromising Positions",
+            "title_japanese": "父焦る! 家の娘に限って!!",
+            "title_romanji": "Chichi Aseru! Uchi no Ko ni Kagitte!! ",
+            "aired": "2000-03-05T00:00:00+00:00",
+            "score": 4.54,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=49537"
+        },
+        {
+            "mal_id": 25,
+            "url": "https://myanimelist.net/anime/245/Great_Teacher_Onizuka/episode/25",
+            "title": "Playing Doctor - GTO Style",
+            "title_japanese": "お色気先生に鬼塚クラッ",
+            "title_romanji": "Oiroke Sensei ni Onizuka Kura ",
+            "aired": "2000-03-12T00:00:00+00:00",
+            "score": 4.12,
+            "filler": true,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=49552"
+        },
+        {
+            "mal_id": 26,
+            "url": "https://myanimelist.net/anime/245/Great_Teacher_Onizuka/episode/26",
+            "title": "Onizuka Meets His Match",
+            "title_japanese": "湘南の鬼VSハコスカの女王",
+            "title_romanji": "Shounan no Oni vs Hakosuka no Joou ",
+            "aired": "2000-03-19T00:00:00+00:00",
+            "score": 4.19,
+            "filler": true,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=49560"
+        },
+        {
+            "mal_id": 27,
+            "url": "https://myanimelist.net/anime/245/Great_Teacher_Onizuka/episode/27",
+            "title": "GTO - Agent to the Stars",
+            "title_japanese": "トロ子の芸能界虎の穴",
+            "title_romanji": "Toroko no Geinoukai Tora no Ana ",
+            "aired": "2000-04-02T00:00:00+00:00",
+            "score": 4.31,
+            "filler": true,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=49624"
+        },
+        {
+            "mal_id": 28,
+            "url": "https://myanimelist.net/anime/245/Great_Teacher_Onizuka/episode/28",
+            "title": "Whatever Can Go Wrong, Will Go Wrong",
+            "title_japanese": "発表! 21世紀新アイドル",
+            "title_romanji": "Happyou! 21-seiki Shin Idol ",
+            "aired": "2000-04-16T00:00:00+00:00",
+            "score": 4.43,
+            "filler": true,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=49691"
+        },
+        {
+            "mal_id": 29,
+            "url": "https://myanimelist.net/anime/245/Great_Teacher_Onizuka/episode/29",
+            "title": "Studies in High Finance",
+            "title_japanese": "セーラー服と112万円",
+            "title_romanji": "Sailor Fuku to 112-man'en ",
+            "aired": "2000-04-23T00:00:00+00:00",
+            "score": 4.27,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=49808"
+        },
+        {
+            "mal_id": 30,
+            "url": "https://myanimelist.net/anime/245/Great_Teacher_Onizuka/episode/30",
+            "title": "Money Talks, GTO Walks",
+            "title_japanese": "罪と罰! 横領犯・鬼塚?!",
+            "title_romanji": "Tsumi to Batsu! Ouryouhan Onizuka?! ",
+            "aired": "2000-04-30T00:00:00+00:00",
+            "score": 4.36,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=49838"
+        },
+        {
+            "mal_id": 31,
+            "url": "https://myanimelist.net/anime/245/Great_Teacher_Onizuka/episode/31",
+            "title": "Destination: Okinawa",
+            "title_japanese": "目指せ!! 憧れの沖縄行路",
+            "title_romanji": "Mezase!! Akogare no Okinawa Kouro ",
+            "aired": "2000-05-07T00:00:00+00:00",
+            "score": 4.49,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=49944"
+        },
+        {
+            "mal_id": 32,
+            "url": "https://myanimelist.net/anime/245/Great_Teacher_Onizuka/episode/32",
+            "title": "The Law of Probability",
+            "title_japanese": "嗚呼ベンツ丸つぶれ",
+            "title_romanji": "Aa Benz-maru Tsubure ",
+            "aired": "2000-05-14T00:00:00+00:00",
+            "score": 4.53,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=50018"
+        },
+        {
+            "mal_id": 33,
+            "url": "https://myanimelist.net/anime/245/Great_Teacher_Onizuka/episode/33",
+            "title": "Search and Rescue",
+            "title_japanese": "さらば鬼塚・22才の別れ",
+            "title_romanji": "Saraba Onizuka 22-sai no Wakare ",
+            "aired": "2000-05-28T00:00:00+00:00",
+            "score": 4.67,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=50074"
+        },
+        {
+            "mal_id": 34,
+            "url": "https://myanimelist.net/anime/245/Great_Teacher_Onizuka/episode/34",
+            "title": "Good Cop/Bad Cop",
+            "title_japanese": "監獄に一番近い警官",
+            "title_romanji": "Kangoku ni Ichiban Chikai Keikan ",
+            "aired": "2000-06-04T00:00:00+00:00",
+            "score": 3.96,
+            "filler": true,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=50078"
+        },
+        {
+            "mal_id": 35,
+            "url": "https://myanimelist.net/anime/245/Great_Teacher_Onizuka/episode/35",
+            "title": "Wedding Bell Blues",
+            "title_japanese": "花嫁は14歳!! の息子あり",
+            "title_romanji": "Hanayome wa 14-sai!! no Musuko Ari ",
+            "aired": "2000-06-11T00:00:00+00:00",
+            "score": 4.35,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=50084"
+        },
+        {
+            "mal_id": 36,
+            "url": "https://myanimelist.net/anime/245/Great_Teacher_Onizuka/episode/36",
+            "title": "Self-Improvement",
+            "title_japanese": "冬月変身! 燃えろ夏女!",
+            "title_romanji": "Fuyutsuki Henshin! Moero Natsu Onna! ",
+            "aired": "2000-06-18T00:00:00+00:00",
+            "score": 4.14,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=50252"
+        },
+        {
+            "mal_id": 37,
+            "url": "https://myanimelist.net/anime/245/Great_Teacher_Onizuka/episode/37",
+            "title": "Living Together",
+            "title_japanese": "嵐の予感! 沖縄でGo!",
+            "title_romanji": "Arashi no Yokan! Okinawa de Go! ",
+            "aired": "2000-07-16T00:00:00+00:00",
+            "score": 4.54,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=47691"
+        },
+        {
+            "mal_id": 38,
+            "url": "https://myanimelist.net/anime/245/Great_Teacher_Onizuka/episode/38",
+            "title": "Great Treasure Okinawa",
+            "title_japanese": "突撃! 宝探しでGo!",
+            "title_romanji": "Totsugeki! Takarasagashi de Go! ",
+            "aired": "2000-07-30T00:00:00+00:00",
+            "score": 4.37,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=50321"
+        },
+        {
+            "mal_id": 39,
+            "url": "https://myanimelist.net/anime/245/Great_Teacher_Onizuka/episode/39",
+            "title": "Alone in the Dark",
+            "title_japanese": "二人の冒険!! 秘密の洞窟",
+            "title_romanji": "Futari no Bouken!! Himitsu no Doukutsu ",
+            "aired": "2000-08-13T00:00:00+00:00",
+            "score": 4.54,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=50325"
+        },
+        {
+            "mal_id": 40,
+            "url": "https://myanimelist.net/anime/245/Great_Teacher_Onizuka/episode/40",
+            "title": "Matters of the Heart",
+            "title_japanese": "ハート直撃!! 沖縄純愛組",
+            "title_romanji": "Heart Chokugeki!! Okinawa Jun'aigumi ",
+            "aired": "2000-08-20T00:00:00+00:00",
+            "score": 4.59,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=50327"
+        },
+        {
+            "mal_id": 41,
+            "url": "https://myanimelist.net/anime/245/Great_Teacher_Onizuka/episode/41",
+            "title": "Confessions",
+            "title_japanese": "青春少女!! 初めての告白",
+            "title_romanji": "Seishun Shoujo!! Hajimete no Kokuhaku ",
+            "aired": "2000-08-27T00:00:00+00:00",
+            "score": 4.68,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=50386"
+        },
+        {
+            "mal_id": 42,
+            "url": "https://myanimelist.net/anime/245/Great_Teacher_Onizuka/episode/42",
+            "title": "Old Wounds Revisited",
+            "title_japanese": "ラストバトル! 蘇る傷跡",
+            "title_romanji": "Last Battle! Yomigaeru Kizuato ",
+            "aired": "2000-09-10T00:00:00+00:00",
+            "score": 4.4,
+            "filler": true,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=50392"
+        },
+        {
+            "mal_id": 43,
+            "url": "https://myanimelist.net/anime/245/Great_Teacher_Onizuka/episode/43",
+            "title": "Onizuka's Final Battle",
+            "title_japanese": "挫! 愚零徒出夜露死苦!",
+            "title_romanji": "Za! Great de Yoroshiku! ",
+            "aired": "2000-09-17T00:00:00+00:00",
+            "score": 4.45,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=40064"
+        }
+    ]
+}

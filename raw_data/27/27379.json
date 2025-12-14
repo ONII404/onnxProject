@@ -1,0 +1,139 @@
+{
+    "id": 27379,
+    "fetched_at": "Sun Dec 14 10:19:36 2025",
+    "metadata": {
+        "mal_id": 27379,
+        "url": "https://myanimelist.net/anime/27379/Sekai_no_Ouja__King_Kong_Taikai",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/7/66461.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/7/66461t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/7/66461l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/7/66461.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/7/66461t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/7/66461l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Sekai no Ouja: King Kong Taikai"
+            },
+            {
+                "type": "Japanese",
+                "title": "世界の王者 キングコング大会"
+            }
+        ],
+        "title": "Sekai no Ouja: King Kong Taikai",
+        "title_english": null,
+        "title_japanese": "世界の王者 キングコング大会",
+        "title_synonyms": [],
+        "type": "TV Special",
+        "source": "Unknown",
+        "episodes": 1,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "1966-12-31T00:00:00+00:00",
+            "to": null,
+            "prop": {
+                "from": {
+                    "day": 31,
+                    "month": 12,
+                    "year": 1966
+                },
+                "to": {
+                    "day": null,
+                    "month": null,
+                    "year": null
+                }
+            },
+            "string": "Dec 31, 1966"
+        },
+        "duration": "56 min",
+        "rating": "G - All Ages",
+        "score": null,
+        "scored_by": null,
+        "rank": 14827,
+        "popularity": 18334,
+        "members": 472,
+        "favorites": 0,
+        "synopsis": "Recap of the first episodes of the TV Series.",
+        "background": "",
+        "season": null,
+        "year": null,
+        "broadcast": {
+            "day": null,
+            "time": null,
+            "timezone": null,
+            "string": null
+        },
+        "producers": [],
+        "licensors": [],
+        "studios": [
+            {
+                "mal_id": 18,
+                "type": "anime",
+                "name": "Toei Animation",
+                "url": "https://myanimelist.net/anime/producer/18/Toei_Animation"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 2,
+                "type": "anime",
+                "name": "Adventure",
+                "url": "https://myanimelist.net/anime/genre/2/Adventure"
+            },
+            {
+                "mal_id": 24,
+                "type": "anime",
+                "name": "Sci-Fi",
+                "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [],
+        "demographics": [],
+        "relations": [
+            {
+                "relation": "Sequel",
+                "entry": [
+                    {
+                        "mal_id": 19995,
+                        "type": "anime",
+                        "name": "King Kong: 001/7 Tom Thumb",
+                        "url": "https://myanimelist.net/anime/19995/King_Kong__001_7_Tom_Thumb"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [],
+            "endings": []
+        },
+        "external": [
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=7662"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": []
+}

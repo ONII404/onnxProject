@@ -1,0 +1,150 @@
+{
+    "id": 17403,
+    "fetched_at": "Sun Dec 14 09:54:13 2025",
+    "metadata": {
+        "mal_id": 17403,
+        "url": "https://myanimelist.net/anime/17403/Kaitou_Lupin__813_no_Nazo",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1759/148685.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1759/148685t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1759/148685l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1759/148685.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1759/148685t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1759/148685l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Kaitou Lupin: 813 no Nazo"
+            },
+            {
+                "type": "Synonym",
+                "title": "Lupin the Thief: Enigma of the 813"
+            },
+            {
+                "type": "Japanese",
+                "title": "怪盗ルパン 813の謎"
+            }
+        ],
+        "title": "Kaitou Lupin: 813 no Nazo",
+        "title_english": null,
+        "title_japanese": "怪盗ルパン 813の謎",
+        "title_synonyms": [
+            "Lupin the Thief: Enigma of the 813"
+        ],
+        "type": "TV Special",
+        "source": "Unknown",
+        "episodes": 1,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "1979-05-05T00:00:00+00:00",
+            "to": null,
+            "prop": {
+                "from": {
+                    "day": 5,
+                    "month": 5,
+                    "year": 1979
+                },
+                "to": {
+                    "day": null,
+                    "month": null,
+                    "year": null
+                }
+            },
+            "string": "May 5, 1979"
+        },
+        "duration": "1 hr 20 min",
+        "rating": "PG-13 - Teens 13 or older",
+        "score": 6.28,
+        "scored_by": 184,
+        "rank": 8662,
+        "popularity": 14255,
+        "members": 1185,
+        "favorites": 1,
+        "synopsis": "Based on the novel \"813\" by Maurice Leblanc.",
+        "background": "",
+        "season": null,
+        "year": null,
+        "broadcast": {
+            "day": null,
+            "time": null,
+            "timezone": null,
+            "string": null
+        },
+        "producers": [
+            {
+                "mal_id": 169,
+                "type": "anime",
+                "name": "Fuji TV",
+                "url": "https://myanimelist.net/anime/producer/169/Fuji_TV"
+            }
+        ],
+        "licensors": [],
+        "studios": [
+            {
+                "mal_id": 103,
+                "type": "anime",
+                "name": "Tatsunoko Production",
+                "url": "https://myanimelist.net/anime/producer/103/Tatsunoko_Production"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 7,
+                "type": "anime",
+                "name": "Mystery",
+                "url": "https://myanimelist.net/anime/genre/7/Mystery"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [],
+        "demographics": [],
+        "relations": [
+            {
+                "relation": "Alternative Version",
+                "entry": [
+                    {
+                        "mal_id": 10755,
+                        "type": "anime",
+                        "name": "Lupin tai Holmes",
+                        "url": "https://myanimelist.net/anime/10755/Lupin_tai_Holmes"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [],
+            "endings": []
+        },
+        "external": [
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=3179"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=9042"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": []
+}

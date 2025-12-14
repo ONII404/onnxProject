@@ -1,0 +1,203 @@
+{
+    "id": 791,
+    "fetched_at": "Sun Dec 14 07:08:07 2025",
+    "metadata": {
+        "mal_id": 791,
+        "url": "https://myanimelist.net/anime/791/Arion",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1661/112654.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1661/112654t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1661/112654l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1661/112654.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1661/112654t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1661/112654l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": "https://www.youtube-nocookie.com/embed/tZwfViuc9Wg?enablejsapi=1&wmode=opaque&autoplay=1",
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Arion"
+            },
+            {
+                "type": "Synonym",
+                "title": "Neo Heroic Fantasia Arion"
+            },
+            {
+                "type": "Japanese",
+                "title": "ネオ・ヒロイック・ファンタジア　アリオン"
+            },
+            {
+                "type": "English",
+                "title": "Arion"
+            }
+        ],
+        "title": "Arion",
+        "title_english": "Arion",
+        "title_japanese": "ネオ・ヒロイック・ファンタジア　アリオン",
+        "title_synonyms": [
+            "Neo Heroic Fantasia Arion"
+        ],
+        "type": "Movie",
+        "source": "Manga",
+        "episodes": 1,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "1986-03-15T00:00:00+00:00",
+            "to": null,
+            "prop": {
+                "from": {
+                    "day": 15,
+                    "month": 3,
+                    "year": 1986
+                },
+                "to": {
+                    "day": null,
+                    "month": null,
+                    "year": null
+                }
+            },
+            "string": "Mar 15, 1986"
+        },
+        "duration": "1 hr 59 min",
+        "rating": "R+ - Mild Nudity",
+        "score": 6.19,
+        "scored_by": 3207,
+        "rank": 9215,
+        "popularity": 7519,
+        "members": 8624,
+        "favorites": 14,
+        "synopsis": "Arion is a young shepherd who lives in Thrace with his blind mother, the goddess Demeter. Their lives are peaceful until the day Arion's uncle Hades appears and lures him to the underworld, promising that there is a way to restore his mother's sight. To achieve this, Arion must kill the god who cursed her: Zeus, the king of Olympus.\n\nAfter years of training in the underworld, Arion—now a deadly warrior—embarks on his vengeful quest to slay Zeus. On his journey to Mount Olympus, Arion forges alliances with some unlikely individuals: the giant Geedo, the thief Seneca, and the mute maiden Resphoina. As he cuts a bloody path through a vast world of warring armies and mythical monsters, Arion begins to unravel the secrets of his lineage and the fate of the scheming gods.\n\n[Written by MAL Rewrite]",
+        "background": "",
+        "season": null,
+        "year": null,
+        "broadcast": {
+            "day": null,
+            "time": null,
+            "timezone": null,
+            "string": null
+        },
+        "producers": [
+            {
+                "mal_id": 382,
+                "type": "anime",
+                "name": "Tokuma Shoten",
+                "url": "https://myanimelist.net/anime/producer/382/Tokuma_Shoten"
+            }
+        ],
+        "licensors": [
+            {
+                "mal_id": 467,
+                "type": "anime",
+                "name": "Discotek Media",
+                "url": "https://myanimelist.net/anime/producer/467/Discotek_Media"
+            }
+        ],
+        "studios": [
+            {
+                "mal_id": 14,
+                "type": "anime",
+                "name": "Sunrise",
+                "url": "https://myanimelist.net/anime/producer/14/Sunrise"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 1,
+                "type": "anime",
+                "name": "Action",
+                "url": "https://myanimelist.net/anime/genre/1/Action"
+            },
+            {
+                "mal_id": 2,
+                "type": "anime",
+                "name": "Adventure",
+                "url": "https://myanimelist.net/anime/genre/2/Adventure"
+            },
+            {
+                "mal_id": 8,
+                "type": "anime",
+                "name": "Drama",
+                "url": "https://myanimelist.net/anime/genre/8/Drama"
+            },
+            {
+                "mal_id": 10,
+                "type": "anime",
+                "name": "Fantasy",
+                "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [
+            {
+                "mal_id": 6,
+                "type": "anime",
+                "name": "Mythology",
+                "url": "https://myanimelist.net/anime/genre/6/Mythology"
+            }
+        ],
+        "demographics": [
+            {
+                "mal_id": 42,
+                "type": "anime",
+                "name": "Seinen",
+                "url": "https://myanimelist.net/anime/genre/42/Seinen"
+            }
+        ],
+        "relations": [
+            {
+                "relation": "Adaptation",
+                "entry": [
+                    {
+                        "mal_id": 23777,
+                        "type": "manga",
+                        "name": "Arion",
+                        "url": "https://myanimelist.net/manga/23777/Arion"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [],
+            "endings": [
+                "\"Pegasus no Shoujo (ペガサスの少女)\" by Kyouko Gotou"
+            ]
+        },
+        "external": [
+            {
+                "name": "Official Site",
+                "url": "www.sunrise-anime.jp/sunrise-inc/works/detail.php?cid=121"
+            },
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=398"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=807"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "http://en.wikipedia.org/wiki/Arion_%28manga%29"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": []
+}

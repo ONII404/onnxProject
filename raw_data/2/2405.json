@@ -1,0 +1,607 @@
+{
+    "id": 2405,
+    "fetched_at": "Sun Dec 14 07:24:11 2025",
+    "metadata": {
+        "mal_id": 2405,
+        "url": "https://myanimelist.net/anime/2405/Hello_Lady_Lynn",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/4/16819.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/4/16819t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/4/16819l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/4/16819.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/4/16819t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/4/16819l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Hello! Lady Lynn"
+            },
+            {
+                "type": "Synonym",
+                "title": "Hello! Lady Lin"
+            },
+            {
+                "type": "Synonym",
+                "title": "Gwendoline season 2"
+            },
+            {
+                "type": "Japanese",
+                "title": "ハロー! レディリン"
+            }
+        ],
+        "title": "Hello! Lady Lynn",
+        "title_english": null,
+        "title_japanese": "ハロー! レディリン",
+        "title_synonyms": [
+            "Hello! Lady Lin",
+            "Gwendoline season 2"
+        ],
+        "type": "TV",
+        "source": "Manga",
+        "episodes": 36,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "1988-05-12T00:00:00+00:00",
+            "to": "1989-01-26T00:00:00+00:00",
+            "prop": {
+                "from": {
+                    "day": 12,
+                    "month": 5,
+                    "year": 1988
+                },
+                "to": {
+                    "day": 26,
+                    "month": 1,
+                    "year": 1989
+                }
+            },
+            "string": "May 12, 1988 to Jan 26, 1989"
+        },
+        "duration": "24 min per ep",
+        "rating": "G - All Ages",
+        "score": 7.52,
+        "scored_by": 2041,
+        "rank": 1972,
+        "popularity": 9387,
+        "members": 4892,
+        "favorites": 31,
+        "synopsis": "This is the second series of Lady Lady. Every year at Lynn's school, an honorable “Lady Quest” is given to the most sophisticated lady. Lynn strives to receive this honor.\n\n(Source: Toei Animation)",
+        "background": "",
+        "season": "spring",
+        "year": 1988,
+        "broadcast": {
+            "day": "Thursdays",
+            "time": "18:00",
+            "timezone": "Asia/Tokyo",
+            "string": "Thursdays at 18:00 (JST)"
+        },
+        "producers": [
+            {
+                "mal_id": 2292,
+                "type": "anime",
+                "name": "Toei Advertising",
+                "url": "https://myanimelist.net/anime/producer/2292/Toei_Advertising"
+            }
+        ],
+        "licensors": [],
+        "studios": [
+            {
+                "mal_id": 18,
+                "type": "anime",
+                "name": "Toei Animation",
+                "url": "https://myanimelist.net/anime/producer/18/Toei_Animation"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 8,
+                "type": "anime",
+                "name": "Drama",
+                "url": "https://myanimelist.net/anime/genre/8/Drama"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [],
+        "demographics": [
+            {
+                "mal_id": 25,
+                "type": "anime",
+                "name": "Shoujo",
+                "url": "https://myanimelist.net/anime/genre/25/Shoujo"
+            }
+        ],
+        "relations": [
+            {
+                "relation": "Prequel",
+                "entry": [
+                    {
+                        "mal_id": 2227,
+                        "type": "anime",
+                        "name": "Lady Lady!!",
+                        "url": "https://myanimelist.net/anime/2227/Lady_Lady"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [
+                "\"Lady Crest: Tobira wo Akete (レディ・クレスト～扉を開けて～)\" by Kaori Moritani"
+            ],
+            "endings": [
+                "\"Nobara no Shouzou (野ばらの肖像)\" by Kaori Moritani"
+            ]
+        },
+        "external": [
+            {
+                "name": "Official Site",
+                "url": "http://www.toei-anim.co.jp/lineup/tv/hellolady/"
+            },
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=2067"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=1528"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "http://en.wikipedia.org/wiki/Hello!_Lady_Lynn"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": [
+        {
+            "mal_id": 1,
+            "url": null,
+            "title": "Cinderella of the Mews",
+            "title_japanese": "馬小屋のシンデレラ",
+            "title_romanji": "Umagoya no Cinderella ",
+            "aired": "1988-05-12T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 2,
+            "url": null,
+            "title": "Two Mysterious Meetings",
+            "title_japanese": "ふしぎな出会いが2つ",
+            "title_romanji": "Fushigi na deai ga Futatsu ",
+            "aired": "1988-05-19T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 3,
+            "url": null,
+            "title": "It's as Beautiful as the Wild Orchids",
+            "title_japanese": "野生のランの様に美しく",
+            "title_romanji": "Yasei no Ran no you ni Utsukushiku ",
+            "aired": "1988-05-26T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 4,
+            "url": null,
+            "title": "The Way to the Little Lady",
+            "title_japanese": "リトルレディへの道",
+            "title_romanji": "Little Lady e no Michi ",
+            "aired": "1988-06-02T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 5,
+            "url": null,
+            "title": "Event of the Green Pavilion",
+            "title_japanese": "緑の館の出来事",
+            "title_romanji": "Midori no Yakata no Dekigoto ",
+            "aired": "1988-06-09T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 6,
+            "url": null,
+            "title": "I'm Sorry, Sophie...",
+            "title_japanese": "ごめんねソフィ...",
+            "title_romanji": "Gomen ne Sophie... ",
+            "aired": "1988-06-16T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 7,
+            "url": null,
+            "title": "Andrews' Secret",
+            "title_japanese": "アンドリュウスの秘密",
+            "title_romanji": "Andrew no Himitsu ",
+            "aired": "1988-06-23T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 8,
+            "url": null,
+            "title": "The Day Lynn Rode on a Horse",
+            "title_japanese": "リンが馬に乗れた日",
+            "title_romanji": "Rin ga Uma ni Noreta hi ",
+            "aired": "1988-06-30T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 9,
+            "url": null,
+            "title": "Tearful Birthday",
+            "title_japanese": "涙にぬれた誕生日",
+            "title_romanji": "Namida ni Nureta Tanjoubi ",
+            "aired": "1988-07-07T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 10,
+            "url": null,
+            "title": "Awakening to the Crest",
+            "title_japanese": "クレストへのめざめ",
+            "title_romanji": "Crest e no Mezame ",
+            "aired": "1988-07-14T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 11,
+            "url": null,
+            "title": "My Rival is a Genius!?",
+            "title_japanese": "ライバルは天才!?",
+            "title_romanji": "Rival wa Tensai!? ",
+            "aired": "1988-07-21T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 12,
+            "url": null,
+            "title": "Goodbye Sophie",
+            "title_japanese": "さよならねソフィ",
+            "title_romanji": "Sayonara ne Sophie ",
+            "aired": "1988-07-28T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 13,
+            "url": null,
+            "title": "Please Fly!",
+            "title_japanese": "飛んで!おねがい",
+            "title_romanji": "Tonde! Onegai ",
+            "aired": "1988-08-04T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 14,
+            "url": null,
+            "title": "Run! Towards the Dream",
+            "title_japanese": "走れ!夢に向かって",
+            "title_romanji": "Hashire! Yume ni Mukatte ",
+            "aired": "1988-08-11T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 15,
+            "url": null,
+            "title": "Lynn's Farewell and Departure",
+            "title_japanese": "別れと旅立ちのリン",
+            "title_romanji": "Wakare to Tabidachi no Rin ",
+            "aired": "1988-08-18T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 16,
+            "url": null,
+            "title": "Hurry Up! To the Marble Mansion",
+            "title_japanese": "早く!マーブル館へ",
+            "title_romanji": "Hayaku! Marble-kan e ",
+            "aired": "1988-08-25T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 17,
+            "url": null,
+            "title": "Watch Out! Edward",
+            "title_japanese": "危ない!エドワード Lynn and Cathy are tied.",
+            "title_romanji": "Abunai! Edward ",
+            "aired": "1988-09-01T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 18,
+            "url": null,
+            "title": "Lynn and Sarah's Promise",
+            "title_japanese": "リンとセーラの誓い",
+            "title_romanji": "Rin to Sarah no Chikai ",
+            "aired": "1988-09-08T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 19,
+            "url": null,
+            "title": "Mom is Still Within my Heart",
+            "title_japanese": "小さな胸にはママが",
+            "title_romanji": "Chiisana Mune ni wa Mama ga ",
+            "aired": "1988-09-15T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 20,
+            "url": null,
+            "title": "Wedding of Happiness",
+            "title_japanese": "幸せのウェディング",
+            "title_romanji": "Shiawase no Wedding ",
+            "aired": "1988-09-22T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 21,
+            "url": null,
+            "title": "Why!? This Sudden Grief",
+            "title_japanese": "なぜ!?突然の悲しみが",
+            "title_romanji": "Naze!? Totsuzen no Kanashimi ga ",
+            "aired": "1988-09-29T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 22,
+            "url": null,
+            "title": "The Uninvited Transfer Student",
+            "title_japanese": "招かれざる転校生",
+            "title_romanji": "Manekare-zaru Tenkousei ",
+            "aired": "1988-10-06T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 23,
+            "url": null,
+            "title": "Why, Arthur!?",
+            "title_japanese": "なぜなのアーサー!?",
+            "title_romanji": "Naze nano Arthur!? ",
+            "aired": "1988-10-13T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 24,
+            "url": null,
+            "title": "The Secret Race at Daybreak",
+            "title_japanese": "夜明けの秘密レース",
+            "title_romanji": "Yoake no Himitsu Race ",
+            "aired": "1988-10-20T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 25,
+            "url": null,
+            "title": "Forgive Me, Everyone...",
+            "title_japanese": "みんな、許して...",
+            "title_romanji": "Minna, Yurushite... ",
+            "aired": "1988-10-27T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 26,
+            "url": null,
+            "title": "Lynn's Dream, Lynn's Crisis",
+            "title_japanese": "リンの夢 リンの危機",
+            "title_romanji": "Rin no Yume, Rin no Kiki ",
+            "aired": "1988-11-03T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 27,
+            "url": null,
+            "title": "The Marble Mansion before the Storm",
+            "title_japanese": "嵐の前のマーブル館",
+            "title_romanji": "Arashi no Mae no Marble-kan ",
+            "aired": "1988-11-10T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 28,
+            "url": null,
+            "title": "Mary's Last Plot",
+            "title_japanese": "メアリ最後の企み",
+            "title_romanji": "Mary Saigo no Takurami ",
+            "aired": "1988-11-17T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 29,
+            "url": null,
+            "title": "The Dream of the Vanishing Crest",
+            "title_japanese": "消えるクレストの夢",
+            "title_romanji": "Kieru Crest no Yume ",
+            "aired": "1988-11-24T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 30,
+            "url": null,
+            "title": "There is much Unhappiness in the Heart",
+            "title_japanese": "胸いっぱいの悲しみ",
+            "title_romanji": "Mune Ippai no Kanashimi ",
+            "aired": "1988-12-01T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 31,
+            "url": null,
+            "title": "The Symphony of Love",
+            "title_japanese": "愛のシンフォニー",
+            "title_romanji": "Ai no Symphony ",
+            "aired": "1988-12-08T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 32,
+            "url": null,
+            "title": "There is a Rainbow over Tears",
+            "title_japanese": "涙のむこうには虹が",
+            "title_romanji": "Namida no Muou ni Niji ga ",
+            "aired": "1988-12-15T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 33,
+            "url": null,
+            "title": "Gentle, Strong and Beautiful",
+            "title_japanese": "やさしく強く美しく",
+            "title_romanji": "Yasashiku Tsuyoku Utsukushiku ",
+            "aired": "1988-12-22T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 34,
+            "url": null,
+            "title": "Lynn Looks Forward to the Wind",
+            "title_japanese": "リンは風に向かって",
+            "title_romanji": "Rin wa Kaze ni Mukatte ",
+            "aired": "1988-12-29T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 35,
+            "url": null,
+            "title": "The Trio of Sadness",
+            "title_japanese": "悲しみの三重奏",
+            "title_romanji": "Kanashimi no Sanjuusou ",
+            "aired": "1989-01-19T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 36,
+            "url": null,
+            "title": "Farewell, Sadness",
+            "title_japanese": "悲しみよサヨウナラ",
+            "title_romanji": "Kanashimi yo Sayonara ",
+            "aired": "1989-01-26T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        }
+    ]
+}

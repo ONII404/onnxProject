@@ -1,0 +1,162 @@
+{
+    "id": 8685,
+    "fetched_at": "Sun Dec 14 09:20:53 2025",
+    "metadata": {
+        "mal_id": 8685,
+        "url": "https://myanimelist.net/anime/8685/Ryuuichi_Manga_Gekijou_Onbu_Obake",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/3/23928.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/3/23928t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/3/23928l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/3/23928.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/3/23928t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/3/23928l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Ryuuichi Manga Gekijou Onbu Obake"
+            },
+            {
+                "type": "Synonym",
+                "title": "Piggyback Ghost"
+            },
+            {
+                "type": "Japanese",
+                "title": "おんぶおばけ"
+            }
+        ],
+        "title": "Ryuuichi Manga Gekijou Onbu Obake",
+        "title_english": null,
+        "title_japanese": "おんぶおばけ",
+        "title_synonyms": [
+            "Piggyback Ghost"
+        ],
+        "type": "TV",
+        "source": "Original",
+        "episodes": 52,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "1972-10-07T00:00:00+00:00",
+            "to": "1973-09-29T00:00:00+00:00",
+            "prop": {
+                "from": {
+                    "day": 7,
+                    "month": 10,
+                    "year": 1972
+                },
+                "to": {
+                    "day": 29,
+                    "month": 9,
+                    "year": 1973
+                }
+            },
+            "string": "Oct 7, 1972 to Sep 29, 1973"
+        },
+        "duration": "25 min per ep",
+        "rating": "G - All Ages",
+        "score": null,
+        "scored_by": null,
+        "rank": 14654,
+        "popularity": 17312,
+        "members": 568,
+        "favorites": 1,
+        "synopsis": "The mischievous antics of a ghost in an ancient village.\n\n(Source: AniDB)",
+        "background": "",
+        "season": "fall",
+        "year": 1972,
+        "broadcast": {
+            "day": null,
+            "time": null,
+            "timezone": null,
+            "string": "Unknown"
+        },
+        "producers": [
+            {
+                "mal_id": 76,
+                "type": "anime",
+                "name": "Yomiuri Telecasting",
+                "url": "https://myanimelist.net/anime/producer/76/Yomiuri_Telecasting"
+            }
+        ],
+        "licensors": [],
+        "studios": [
+            {
+                "mal_id": 489,
+                "type": "anime",
+                "name": "TCJ",
+                "url": "https://myanimelist.net/anime/producer/489/TCJ"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 37,
+                "type": "anime",
+                "name": "Supernatural",
+                "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [],
+        "demographics": [],
+        "relations": [
+            {
+                "relation": "Prequel",
+                "entry": [
+                    {
+                        "mal_id": 7531,
+                        "type": "anime",
+                        "name": "Onbu Obake",
+                        "url": "https://myanimelist.net/anime/7531/Onbu_Obake"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [
+                "\"Onbu Obake no Uta (おんぶおばけの歌)\" by Youko Maekawa"
+            ],
+            "endings": [
+                "\"Onbu wa ne (おんぶはネ)\" by Etsuko Hamura (葉村エツコ)"
+            ]
+        },
+        "external": [
+            {
+                "name": "Official Site",
+                "url": "http://www.eiken-anime.jp/works/works019.html"
+            },
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=5491"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=1733"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "http://ja.wikipedia.org/wiki/おんぶおばけ"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": []
+}

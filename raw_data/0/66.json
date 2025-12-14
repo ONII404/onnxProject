@@ -1,0 +1,563 @@
+{
+    "id": 66,
+    "fetched_at": "Sun Dec 14 12:34:52 2025",
+    "metadata": {
+        "mal_id": 66,
+        "url": "https://myanimelist.net/anime/66/Azumanga_Daiou_The_Animation",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1066/117358.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1066/117358t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1066/117358l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1066/117358.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1066/117358t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1066/117358l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": "https://www.youtube-nocookie.com/embed/uMmnNsIwTg8?enablejsapi=1&wmode=opaque&autoplay=1",
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Azumanga Daiou The Animation"
+            },
+            {
+                "type": "Synonym",
+                "title": "Azumanga Daiou"
+            },
+            {
+                "type": "Japanese",
+                "title": "あずまんが大王 THE ANIMATION"
+            },
+            {
+                "type": "English",
+                "title": "Azumanga Daioh: The Animation"
+            }
+        ],
+        "title": "Azumanga Daiou The Animation",
+        "title_english": "Azumanga Daioh: The Animation",
+        "title_japanese": "あずまんが大王 THE ANIMATION",
+        "title_synonyms": [
+            "Azumanga Daiou"
+        ],
+        "type": "TV",
+        "source": "4-koma manga",
+        "episodes": 26,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "2002-04-09T00:00:00+00:00",
+            "to": "2002-10-01T00:00:00+00:00",
+            "prop": {
+                "from": {
+                    "day": 9,
+                    "month": 4,
+                    "year": 2002
+                },
+                "to": {
+                    "day": 1,
+                    "month": 10,
+                    "year": 2002
+                }
+            },
+            "string": "Apr 9, 2002 to Oct 1, 2002"
+        },
+        "duration": "24 min per ep",
+        "rating": "PG-13 - Teens 13 or older",
+        "score": 8.07,
+        "scored_by": 178590,
+        "rank": 590,
+        "popularity": 633,
+        "members": 413534,
+        "favorites": 9059,
+        "synopsis": "Chiyo Mihama begins her high school career as one of the strangest students in her freshman class—a tiny, 10-year-old academic prodigy with a fondness for plush dolls and homemade cooking. But her homeroom teacher, Yukari Tanizaki, is the kind of person who would hijack a student's bike to avoid being late, so \"strange\" is a relative word.\n\nThere certainly isn't a shortage of peculiar girls in Yukari-sensei's homeroom class. Accompanying Chiyo are students like Tomo Takino, an energetic tomboy with more enthusiasm than brains; Koyomi Mizuhara, Tomo's best friend whose temper has a fuse shorter than Chiyo; and Sakaki, a tall, athletic beauty whose intimidating looks hide a gentle personality and a painful obsession with cats. In addition, transfer student Ayumu Kasuga, a girl with her head stuck in the clouds, fits right in with the rest of the girls—and she has a few interesting theories about Chiyo's pigtails!\n\nTogether, this lovable group of girls experience the ups and downs of school life, their many adventures filled with constant laughter, surreal absurdity, and occasionally even touching commentary on the bittersweet, temporal nature of high school.\n\n[Written by MAL Rewrite]",
+        "background": "",
+        "season": "spring",
+        "year": 2002,
+        "broadcast": {
+            "day": "Tuesdays",
+            "time": "01:25",
+            "timezone": "Asia/Tokyo",
+            "string": "Tuesdays at 01:25 (JST)"
+        },
+        "producers": [
+            {
+                "mal_id": 79,
+                "type": "anime",
+                "name": "Genco",
+                "url": "https://myanimelist.net/anime/producer/79/Genco"
+            },
+            {
+                "mal_id": 104,
+                "type": "anime",
+                "name": "Lantis",
+                "url": "https://myanimelist.net/anime/producer/104/Lantis"
+            },
+            {
+                "mal_id": 170,
+                "type": "anime",
+                "name": "Imagica",
+                "url": "https://myanimelist.net/anime/producer/170/Imagica"
+            },
+            {
+                "mal_id": 717,
+                "type": "anime",
+                "name": "TV Tokyo Music",
+                "url": "https://myanimelist.net/anime/producer/717/TV_Tokyo_Music"
+            },
+            {
+                "mal_id": 745,
+                "type": "anime",
+                "name": "Cosmic Ray",
+                "url": "https://myanimelist.net/anime/producer/745/Cosmic_Ray"
+            },
+            {
+                "mal_id": 1344,
+                "type": "anime",
+                "name": "King Records",
+                "url": "https://myanimelist.net/anime/producer/1344/King_Records"
+            }
+        ],
+        "licensors": [
+            {
+                "mal_id": 97,
+                "type": "anime",
+                "name": "ADV Films",
+                "url": "https://myanimelist.net/anime/producer/97/ADV_Films"
+            },
+            {
+                "mal_id": 376,
+                "type": "anime",
+                "name": "Sentai Filmworks",
+                "url": "https://myanimelist.net/anime/producer/376/Sentai_Filmworks"
+            }
+        ],
+        "studios": [
+            {
+                "mal_id": 7,
+                "type": "anime",
+                "name": "J.C.Staff",
+                "url": "https://myanimelist.net/anime/producer/7/JCStaff"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 4,
+                "type": "anime",
+                "name": "Comedy",
+                "url": "https://myanimelist.net/anime/genre/4/Comedy"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [
+            {
+                "mal_id": 52,
+                "type": "anime",
+                "name": "CGDCT",
+                "url": "https://myanimelist.net/anime/genre/52/CGDCT"
+            },
+            {
+                "mal_id": 57,
+                "type": "anime",
+                "name": "Gag Humor",
+                "url": "https://myanimelist.net/anime/genre/57/Gag_Humor"
+            },
+            {
+                "mal_id": 23,
+                "type": "anime",
+                "name": "School",
+                "url": "https://myanimelist.net/anime/genre/23/School"
+            }
+        ],
+        "demographics": [],
+        "relations": [
+            {
+                "relation": "Adaptation",
+                "entry": [
+                    {
+                        "mal_id": 85,
+                        "type": "manga",
+                        "name": "Azumanga Daioh",
+                        "url": "https://myanimelist.net/manga/85/Azumanga_Daioh"
+                    }
+                ]
+            },
+            {
+                "relation": "Side Story",
+                "entry": [
+                    {
+                        "mal_id": 1593,
+                        "type": "anime",
+                        "name": "Azumanga Web Daiou",
+                        "url": "https://myanimelist.net/anime/1593/Azumanga_Web_Daiou"
+                    },
+                    {
+                        "mal_id": 659,
+                        "type": "anime",
+                        "name": "Azumanga Daiou: Gekijou Tanpen",
+                        "url": "https://myanimelist.net/anime/659/Azumanga_Daiou__Gekijou_Tanpen"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [
+                "\"Soramimi Cake\" by Oranges & Lemons"
+            ],
+            "endings": [
+                "\"Raspberry Heaven\" by Oranges & Lemons"
+            ]
+        },
+        "external": [
+            {
+                "name": "Official Site",
+                "url": "http://www.jcstaff.co.jp/sakuhin/nenpyo/2002/01_azumanga/azumanga.htm"
+            },
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=106"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=799"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "http://en.wikipedia.org/wiki/Azumanga"
+            }
+        ],
+        "streaming": [
+            {
+                "name": "HIDIVE",
+                "url": "https://www.hidive.com/tv/azumanga-daioh"
+            }
+        ]
+    },
+    "episodes": [
+        {
+            "mal_id": 1,
+            "url": null,
+            "title": "Child High School Student / She's a Prodigy / Scary Maybe? / Wildcat Tomo-chan! / The Osakan Gal",
+            "title_japanese": "「こども高校生」 「天才です」 「こわいかな?」 「爆走ともちゃん!」 「大阪人や」",
+            "title_romanji": "Kodomo Koukousei / Tensai Desu / Kowai ka na? / Bakusou Tomo-chan / Oosakajin ya ",
+            "aired": "2002-04-09T00:00:00+00:00",
+            "score": 4.17,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=9207"
+        },
+        {
+            "mal_id": 2,
+            "url": null,
+            "title": "Osaka Today As Well / P.E., Volleyball / Hiccups / The Brain... / Brand New",
+            "title_japanese": "「今日も大阪」 「体育·バレーボール」 「しゃっくり」 「脳が」 「おにゅー」",
+            "title_romanji": "Kyou mo Oosaka / Taiiku Volleyball / Shakkuri / Nou ga / Onyuu ",
+            "aired": "2002-04-16T00:00:00+00:00",
+            "score": 4.27,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=9323"
+        },
+        {
+            "mal_id": 3,
+            "url": null,
+            "title": "Nyamo / Factional Rivalry / Yukari's Here / Not My Fault / Forever and Ever",
+            "title_japanese": "「にゃも」 「派閥闘争」 「ゆかりがきた」 「悪くないもん」 「どこまでも」",
+            "title_romanji": "Nyamo / Habatsu Tousou / Yukari ga Kita / Warukunaimon / Dokomademo ",
+            "aired": "2002-04-23T00:00:00+00:00",
+            "score": 4.26,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=9324"
+        },
+        {
+            "mal_id": 4,
+            "url": null,
+            "title": "A Fun Profession / Pool, Pool, Pool / Ribbon / Just the Two of Them / A Good Person?",
+            "title_japanese": "楽しい職業 / プールプールプール / りぼん / ふたりっきり / いいひと?",
+            "title_romanji": "Tanoshii Shokugyou / Pool Pool Pool / Ribbon / Futarikkiri / Ii Hito? ",
+            "aired": "2002-04-30T00:00:00+00:00",
+            "score": 4.17,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=10522"
+        },
+        {
+            "mal_id": 5,
+            "url": null,
+            "title": "Summer Break / Welcome to Chiyo's Room / Invitation / Someone with Experience, Speak / Done For",
+            "title_japanese": "なつやすみ / ようこそちよの部屋へ / ご招待 / 経験者語って / もうだめ",
+            "title_romanji": "Natsuyasumi / Youkoso Chiyo no Heya e / Goshoutai / Keikensha Katatte / Mou Dame ",
+            "aired": "2002-05-07T00:00:00+00:00",
+            "score": 4.47,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=10523"
+        },
+        {
+            "mal_id": 6,
+            "url": null,
+            "title": "\"Equation for Victory / Sakaki of Class 3, Kagura of Class 5 / Runaway Victory / Yay / Dancing the Grand Finale\"",
+            "title_japanese": "勝利の方程式 / 三組の榊, 五組の神楽 / ぶっちぎり / わーい / 踊る大団円",
+            "title_romanji": "Shouri no Houteishiki / Sangumi no Sakaki Gokumi no Kagura / Bucchigiri / Waai / Odoru Daidenen ",
+            "aired": "2002-05-14T00:00:00+00:00",
+            "score": 4.4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=10570"
+        },
+        {
+            "mal_id": 7,
+            "url": null,
+            "title": "Fairyland Class / Man of Character / Go With Enthusiasm! / The Mascot / Enemy?",
+            "title_japanese": "おとぎの組 / 人格者 / のりのりゴー! / マスコット / 敵?",
+            "title_romanji": "Otogi no Gumi / Jinkakusha / Nori Nori Go! / Mascot / Teki? ",
+            "aired": "2002-05-21T00:00:00+00:00",
+            "score": 4.39,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=10599"
+        },
+        {
+            "mal_id": 8,
+            "url": null,
+            "title": "Osaka's New Year's Dream / In Tomo-chan's Case / In Sakaki's Case / Welcome / In Kaorin's Case",
+            "title_japanese": "大阪の初夢 / ともちゃんの場合 / 榊の場合 / ようこそ / かおりんの場合",
+            "title_romanji": "Oosaka no Hatsuyume / Tomo-chan no Baai / Sakaki no Baai / Youkoso / Kaorin no Baai ",
+            "aired": "2002-05-28T00:00:00+00:00",
+            "score": 4.23,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=10642"
+        },
+        {
+            "mal_id": 9,
+            "url": null,
+            "title": "If I Can't Pet One... / 11 Years Old / Mr. Kitty Cat / Premise / Why?",
+            "title_japanese": "触れないなら / 11才 / ねこさん... / 設定 / なんで?",
+            "title_romanji": "Furenai Nara / 11 Sai / Neko-san... / Settei / Nande? ",
+            "aired": "2002-06-04T00:00:00+00:00",
+            "score": 4.3,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=10647"
+        },
+        {
+            "mal_id": 10,
+            "url": null,
+            "title": "Draft Nominations / Class Change / Wolf / Putting on Senior Airs / Marco...",
+            "title_japanese": "ドラフト指名 / クラス替え / おおかみ / 先輩風ぴゅーぴゅー / マルコ...",
+            "title_romanji": "Draft Shimei / Classgae / Ookami / Senpai Kaze Pyuu Pyuu / Marco... ",
+            "aired": "2002-06-11T00:00:00+00:00",
+            "score": 4.34,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=10649"
+        },
+        {
+            "mal_id": 11,
+            "url": null,
+            "title": "Cosmopolitan Day / Showdown / Even If You Don't Fight / Covered in Cats / Don't Run",
+            "title_japanese": "国際都市 / 対決 / たたかなくても / ねこまみれ / 逃げないで",
+            "title_romanji": "Kokusai Toshi / Taiketsu / Tatakanakute mo / Neko Mamire / Nigenai de ",
+            "aired": "2002-06-18T00:00:00+00:00",
+            "score": 4.33,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=10790"
+        },
+        {
+            "mal_id": 12,
+            "url": null,
+            "title": "Chiyo-chan's Day / High School Friends / Lunch / Afternoon / Skipping Rope",
+            "title_japanese": "ちよちゃんの一日 / 高校のともだち / お昼 / ごご / なわとび",
+            "title_romanji": "Chiyo-chan no Ichinichi / Koukou no Tomodachi / Ohiru / Gogo / Nawatobi ",
+            "aired": "2002-06-25T00:00:00+00:00",
+            "score": 4.51,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=10791"
+        },
+        {
+            "mal_id": 13,
+            "url": null,
+            "title": "No Guard Tactics / S / Midterms / Formation / Ability",
+            "title_japanese": "ノーガード戦法 / S / 中間テスト / 結成 / 能力",
+            "title_romanji": "No Guard Senpou / S / Chuuken Test / Kessei / Nouryoku ",
+            "aired": "2002-07-02T00:00:00+00:00",
+            "score": 4.42,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=10792"
+        },
+        {
+            "mal_id": 14,
+            "url": null,
+            "title": "Shopping / Gathering / Sea! / Capturing Strategy / Adult's World",
+            "title_japanese": "おかいもの / 集合 / うみー! / 捕獲作戦 / 大人の世界",
+            "title_romanji": "Okaimono / Shuugou / Umi! / Hokaku Sakusen / Otona no Sekai ",
+            "aired": "2002-07-09T00:00:00+00:00",
+            "score": 4.67,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=10796"
+        },
+        {
+            "mal_id": 15,
+            "url": null,
+            "title": "Kimura's Family / Ya See Ya See? / An Unexpected Mother? / Hardness / Results",
+            "title_japanese": "木村家の人々 / みたみた? / 未確認奥さん / ガチガチ / 結果発表",
+            "title_romanji": "Kimura Ke no Hitobito / Mita Mita? / Mikakunin Oku-san / Gachi Gachi / Kekka Happyou ",
+            "aired": "2002-07-16T00:00:00+00:00",
+            "score": 4.55,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=11023"
+        },
+        {
+            "mal_id": 16,
+            "url": null,
+            "title": "Combination / Advent / Cute / Order / Advertising Impact",
+            "title_japanese": "くみあわせ / 降臨 / かわいい / 注文 / 宣伝効果",
+            "title_romanji": "Kumiawase / Kourin / Kawaii / Chuumon / Senden Kouka ",
+            "aired": "2002-07-23T00:00:00+00:00",
+            "score": 4.69,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=11024"
+        },
+        {
+            "mal_id": 17,
+            "url": null,
+            "title": "Osaka's Scary Story / Feeling Different / Running Teacher / Incredible Santa / Christmas Meeting",
+            "title_japanese": "大阪の怪談 / 気分転換 / 師走 / すごいサンタ / クリスマス会",
+            "title_romanji": "Osaka no Kaidan / Kibun Tenkan / Shiwasu / Sugoi Santa / Christmas Kai ",
+            "aired": "2002-07-30T00:00:00+00:00",
+            "score": 4.5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=11185"
+        },
+        {
+            "mal_id": 18,
+            "url": null,
+            "title": "Elated Yomi / Betrayal / Wakuwaku wakuwaku / Companionship's End / Go",
+            "title_japanese": "うきよみ / 裏切り / ワクワクワクワク / 仲間はずれ / ゴー",
+            "title_romanji": "Ukiyomi / Uragiri / Wakuwaku Wakuwaku / Nakama Hazure / Go ",
+            "aired": "2002-08-06T00:00:00+00:00",
+            "score": 4.52,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=11189"
+        },
+        {
+            "mal_id": 19,
+            "url": null,
+            "title": "Yawning Expert / Vaguely Youth / Adult Cherry-Blossom Viewing / Child Chery-Blossom Viewing / Cherry Blossom",
+            "title_japanese": "あくび名人 / なんだか青春 / 大人の花見 / 子供の花見 / 桜",
+            "title_romanji": "Akubi Meijin / Nandaka Seishun / Otona no Hanami / Kodomo no Hanami / Sakura ",
+            "aired": "2002-08-13T00:00:00+00:00",
+            "score": 4.55,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=11258"
+        },
+        {
+            "mal_id": 20,
+            "url": null,
+            "title": "Separation / Yukari's Birthday / Spread your wings Chiyo / Child President / Please Let Me Be Strong",
+            "title_japanese": "別離 / ゆかりの誕生日 / はばたけちよ / こども大統領 / 強く生きて下さい",
+            "title_romanji": "Betsuri / Yukari no Tanjoubi / Habatake Chiyo / Kodomo Daitouryou / Tsuyoku Ikite Kudasai ",
+            "aired": "2002-08-20T00:00:00+00:00",
+            "score": 4.46,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=11328"
+        },
+        {
+            "mal_id": 21,
+            "url": null,
+            "title": "Anticipation / I Just Couldn't... / Watery Grave / Island of Dreams / Mountain Cat",
+            "title_japanese": "期待 / いてもたっても / 海の藻屑 / 夢の島 / 山にすむネコ",
+            "title_romanji": "Kitai / Itemo Tattemo / Umi no Mokuzu / Yume no Shima / Yama ni Sumu Neko ",
+            "aired": "2002-08-27T00:00:00+00:00",
+            "score": 4.74,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=11374"
+        },
+        {
+            "mal_id": 22,
+            "url": null,
+            "title": "It's Nice / Tricked / Kurosawa-sensei / Attempted / It's Not Over Yet",
+            "title_japanese": "ナイスですよ / だまされた / 黒沢先生 / 未遂 / まだ終わってない",
+            "title_romanji": "Nice Desu yo / Damasareta / Kurosawa-sensei / Misui / Mada Owattenai ",
+            "aired": "2002-09-03T00:00:00+00:00",
+            "score": 4.62,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=11912"
+        },
+        {
+            "mal_id": 23,
+            "url": null,
+            "title": "Chewed / Cheerleaders / I Didn't Think / We'll Run Together / united",
+            "title_japanese": "かんだ / もりあげ役 / 考えてなかった / みんなで走ります / 一丸",
+            "title_romanji": "Kanda / Moriageyaku / Kangaetenakatta / Minna de Hashirimasu / Ichigan ",
+            "aired": "2002-09-10T00:00:00+00:00",
+            "score": 4.52,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=11917"
+        },
+        {
+            "mal_id": 24,
+            "url": null,
+            "title": "Career Paths / Showdown / Let's Hurry / Popularity / Together with Maya",
+            "title_japanese": "進路 / 対決 / はやく行こう / 人望 / マヤーと一緒",
+            "title_romanji": "Shinro / Taiketsu / Hayaku Ikou / Jinbou / Mayaa to Issho ",
+            "aired": "2002-09-17T00:00:00+00:00",
+            "score": 4.75,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=12075"
+        },
+        {
+            "mal_id": 25,
+            "url": null,
+            "title": "Course Discussion / Pray for Success / Fight! / Study Session / Tomo and Osaka's Day of Fate",
+            "title_japanese": "進路相談 / 合格祈願 / ファイト / 勉強会 / ともと大阪 運命の日",
+            "title_romanji": "Shinro Soudan / Goukaku Kigan / Fight / Benkyoukai / Tomo to Oosaka Unmei no Hi ",
+            "aired": "2002-09-24T00:00:00+00:00",
+            "score": 4.67,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=12078"
+        },
+        {
+            "mal_id": 26,
+            "url": null,
+            "title": "First Graduation / A Thousand Emotions / Sadness / Our Old School / Everyone",
+            "title_japanese": "初めての卒業 / 万感 / 悲しみ / 母校 / みんな",
+            "title_romanji": "Hajimete no Sotsugyou / Bankan / Kanashimi / Bokou / Minna ",
+            "aired": "2002-10-01T00:00:00+00:00",
+            "score": 4.78,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=12095"
+        }
+    ]
+}

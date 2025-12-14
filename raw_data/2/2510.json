@@ -1,0 +1,532 @@
+{
+    "id": 2510,
+    "fetched_at": "Sun Dec 14 07:25:46 2025",
+    "metadata": {
+        "mal_id": 2510,
+        "url": "https://myanimelist.net/anime/2510/Sengoku_Majin_Goushougun",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/11/18779.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/11/18779t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/11/18779l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/11/18779.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/11/18779t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/11/18779l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Sengoku Majin Goushougun"
+            },
+            {
+                "type": "Synonym",
+                "title": "Demon God of the War Torn Land Goshogun"
+            },
+            {
+                "type": "Synonym",
+                "title": "Goshogun"
+            },
+            {
+                "type": "Japanese",
+                "title": "戦国魔神ゴーショーグン"
+            },
+            {
+                "type": "English",
+                "title": "Macron 1"
+            }
+        ],
+        "title": "Sengoku Majin Goushougun",
+        "title_english": "Macron 1",
+        "title_japanese": "戦国魔神ゴーショーグン",
+        "title_synonyms": [
+            "Demon God of the War Torn Land Goshogun",
+            "Goshogun"
+        ],
+        "type": "TV",
+        "source": "Original",
+        "episodes": 26,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "1981-07-03T00:00:00+00:00",
+            "to": "1981-12-28T00:00:00+00:00",
+            "prop": {
+                "from": {
+                    "day": 3,
+                    "month": 7,
+                    "year": 1981
+                },
+                "to": {
+                    "day": 28,
+                    "month": 12,
+                    "year": 1981
+                }
+            },
+            "string": "Jul 3, 1981 to Dec 28, 1981"
+        },
+        "duration": "24 min per ep",
+        "rating": "PG-13 - Teens 13 or older",
+        "score": 6.53,
+        "scored_by": 1193,
+        "rank": 7114,
+        "popularity": 9957,
+        "members": 4108,
+        "favorites": 3,
+        "synopsis": "A meteor strikes the Earth and is found to emanate a powerful new energy called Beamler, which is used to power a battle robot, GoShogun, and a teleporting fortress, Good Thunder. The Docougar Crime Syndicate, lead by crime lord Neo Neros, try to steal the secret of the energy from the inventor of GoShogun, but he kills himself rather than let them acquire it. His son is targeted by Neo Neros next, but he is taken in by the crew aboard Good Thunder, who travel the world fighting NeoNeros's forces with GoShogun. \n\n(Source: Wikipedia)",
+        "background": "",
+        "season": "summer",
+        "year": 1981,
+        "broadcast": {
+            "day": null,
+            "time": null,
+            "timezone": null,
+            "string": "Unknown"
+        },
+        "producers": [
+            {
+                "mal_id": 16,
+                "type": "anime",
+                "name": "TV Tokyo",
+                "url": "https://myanimelist.net/anime/producer/16/TV_Tokyo"
+            }
+        ],
+        "licensors": [
+            {
+                "mal_id": 467,
+                "type": "anime",
+                "name": "Discotek Media",
+                "url": "https://myanimelist.net/anime/producer/467/Discotek_Media"
+            },
+            {
+                "mal_id": 841,
+                "type": "anime",
+                "name": "Saban Entertainment",
+                "url": "https://myanimelist.net/anime/producer/841/Saban_Entertainment"
+            }
+        ],
+        "studios": [
+            {
+                "mal_id": 242,
+                "type": "anime",
+                "name": "Ashi Productions",
+                "url": "https://myanimelist.net/anime/producer/242/Ashi_Productions"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 4,
+                "type": "anime",
+                "name": "Comedy",
+                "url": "https://myanimelist.net/anime/genre/4/Comedy"
+            },
+            {
+                "mal_id": 24,
+                "type": "anime",
+                "name": "Sci-Fi",
+                "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [
+            {
+                "mal_id": 18,
+                "type": "anime",
+                "name": "Mecha",
+                "url": "https://myanimelist.net/anime/genre/18/Mecha"
+            },
+            {
+                "mal_id": 20,
+                "type": "anime",
+                "name": "Parody",
+                "url": "https://myanimelist.net/anime/genre/20/Parody"
+            }
+        ],
+        "demographics": [],
+        "relations": [
+            {
+                "relation": "Spin-Off",
+                "entry": [
+                    {
+                        "mal_id": 2511,
+                        "type": "anime",
+                        "name": "Sengoku Majin Goushougun: Toki no Etranger",
+                        "url": "https://myanimelist.net/anime/2511/Sengoku_Majin_Goushougun__Toki_no_Etranger"
+                    }
+                ]
+            },
+            {
+                "relation": "Summary",
+                "entry": [
+                    {
+                        "mal_id": 10820,
+                        "type": "anime",
+                        "name": "Sengoku Majin Goushougun (Movie)",
+                        "url": "https://myanimelist.net/anime/10820/Sengoku_Majin_Goushougun_Movie"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [
+                "\"Goshougun Hasshin Se yo! (ゴーショーグン発進せよ)\" by Takeshi Fuji"
+            ],
+            "endings": [
+                "\"21 Century: Ginga wo Koete (21Century～銀河を越えて～)\" by Takeshi Fuji"
+            ]
+        },
+        "external": [
+            {
+                "name": "Official Site",
+                "url": "http://www.pro-reed.com/works/tv_series/w008.html"
+            },
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=1481"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=1799"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "http://en.wikipedia.org/wiki/GoShogun"
+            }
+        ],
+        "streaming": [
+            {
+                "name": "Crunchyroll",
+                "url": "http://www.crunchyroll.com/series-277979"
+            }
+        ]
+    },
+    "episodes": [
+        {
+            "mal_id": 1,
+            "url": "https://myanimelist.net/anime/2510/Sengoku_Majin_Goushougun/episode/1",
+            "title": "Goshogun, Take Off!",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 3.6,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1397352"
+        },
+        {
+            "mal_id": 2,
+            "url": "https://myanimelist.net/anime/2510/Sengoku_Majin_Goushougun/episode/2",
+            "title": "Try-3's Fierce Fight",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 3.6,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1397358"
+        },
+        {
+            "mal_id": 3,
+            "url": "https://myanimelist.net/anime/2510/Sengoku_Majin_Goushougun/episode/3",
+            "title": "Little Fighter, Go!",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 4.33,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1397534"
+        },
+        {
+            "mal_id": 4,
+            "url": "https://myanimelist.net/anime/2510/Sengoku_Majin_Goushougun/episode/4",
+            "title": "A Dangerous Prank",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 3.33,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1397548"
+        },
+        {
+            "mal_id": 5,
+            "url": "https://myanimelist.net/anime/2510/Sengoku_Majin_Goushougun/episode/5",
+            "title": "The Hellish Fantasyland",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1397578"
+        },
+        {
+            "mal_id": 6,
+            "url": "https://myanimelist.net/anime/2510/Sengoku_Majin_Goushougun/episode/6",
+            "title": "The Monster With Flashing Eyes",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 4.5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1397583"
+        },
+        {
+            "mal_id": 7,
+            "url": "https://myanimelist.net/anime/2510/Sengoku_Majin_Goushougun/episode/7",
+            "title": "Friends in the Hidden Base",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1397587"
+        },
+        {
+            "mal_id": 8,
+            "url": "https://myanimelist.net/anime/2510/Sengoku_Majin_Goushougun/episode/8",
+            "title": "Goshogun Cannot Return",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 3,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1397728"
+        },
+        {
+            "mal_id": 9,
+            "url": "https://myanimelist.net/anime/2510/Sengoku_Majin_Goushougun/episode/9",
+            "title": "The Diamonds Burn Out",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 3,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1397746"
+        },
+        {
+            "mal_id": 10,
+            "url": "https://myanimelist.net/anime/2510/Sengoku_Majin_Goushougun/episode/10",
+            "title": "The Terrifying Secret of Beamler",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 3.5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1397756"
+        },
+        {
+            "mal_id": 11,
+            "url": "https://myanimelist.net/anime/2510/Sengoku_Majin_Goushougun/episode/11",
+            "title": "Flowers For You",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1397766"
+        },
+        {
+            "mal_id": 12,
+            "url": "https://myanimelist.net/anime/2510/Sengoku_Majin_Goushougun/episode/12",
+            "title": "Montmartre, Land of Goodbyes",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 3.67,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1397919"
+        },
+        {
+            "mal_id": 13,
+            "url": "https://myanimelist.net/anime/2510/Sengoku_Majin_Goushougun/episode/13",
+            "title": "Clash in the Underworld",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 3.33,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1397944"
+        },
+        {
+            "mal_id": 14,
+            "url": "https://myanimelist.net/anime/2510/Sengoku_Majin_Goushougun/episode/14",
+            "title": "OVA Alone",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 3.5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1397952"
+        },
+        {
+            "mal_id": 15,
+            "url": "https://myanimelist.net/anime/2510/Sengoku_Majin_Goushougun/episode/15",
+            "title": "The Queen of the Hot Sands",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 3.5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1397961"
+        },
+        {
+            "mal_id": 16,
+            "url": "https://myanimelist.net/anime/2510/Sengoku_Majin_Goushougun/episode/16",
+            "title": "Farewell, Days of My Youth",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 3.67,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1397979"
+        },
+        {
+            "mal_id": 17,
+            "url": "https://myanimelist.net/anime/2510/Sengoku_Majin_Goushougun/episode/17",
+            "title": "Good Thunder in Great Danger",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 4.4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1397987"
+        },
+        {
+            "mal_id": 18,
+            "url": "https://myanimelist.net/anime/2510/Sengoku_Majin_Goushougun/episode/18",
+            "title": "Kenta Pilots Goshogun",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1398008"
+        },
+        {
+            "mal_id": 19,
+            "url": "https://myanimelist.net/anime/2510/Sengoku_Majin_Goushougun/episode/19",
+            "title": "Crush the Secret London Base",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1398016"
+        },
+        {
+            "mal_id": 20,
+            "url": "https://myanimelist.net/anime/2510/Sengoku_Majin_Goushougun/episode/20",
+            "title": "Satellite Broadcast",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1398030"
+        },
+        {
+            "mal_id": 21,
+            "url": "https://myanimelist.net/anime/2510/Sengoku_Majin_Goushougun/episode/21",
+            "title": "The Emperor's Intrigues",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 4.5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1398041"
+        },
+        {
+            "mal_id": 22,
+            "url": "https://myanimelist.net/anime/2510/Sengoku_Majin_Goushougun/episode/22",
+            "title": "Grounded! A Mystery From Below",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 3.5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1398051"
+        },
+        {
+            "mal_id": 23,
+            "url": "https://myanimelist.net/anime/2510/Sengoku_Majin_Goushougun/episode/23",
+            "title": "Good Thunder on the Loose",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1398061"
+        },
+        {
+            "mal_id": 24,
+            "url": "https://myanimelist.net/anime/2510/Sengoku_Majin_Goushougun/episode/24",
+            "title": "Crush the Ocean's Enemy",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1398078"
+        },
+        {
+            "mal_id": 25,
+            "url": "https://myanimelist.net/anime/2510/Sengoku_Majin_Goushougun/episode/25",
+            "title": "Countdown to the Final Fight",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1398096"
+        },
+        {
+            "mal_id": 26,
+            "url": "https://myanimelist.net/anime/2510/Sengoku_Majin_Goushougun/episode/26",
+            "title": "The Never-Ending Journey",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 4.33,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1398111"
+        }
+    ]
+}

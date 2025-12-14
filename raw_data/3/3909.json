@@ -1,0 +1,203 @@
+{
+    "id": 3909,
+    "fetched_at": "Sun Dec 14 08:33:00 2025",
+    "metadata": {
+        "mal_id": 3909,
+        "url": "https://myanimelist.net/anime/3909/Bikkuriman",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1125/97578.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1125/97578t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1125/97578l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1125/97578.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1125/97578t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1125/97578l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Bikkuriman"
+            },
+            {
+                "type": "Synonym",
+                "title": "Prince Hercule"
+            },
+            {
+                "type": "Japanese",
+                "title": "ビックリマン"
+            }
+        ],
+        "title": "Bikkuriman",
+        "title_english": null,
+        "title_japanese": "ビックリマン",
+        "title_synonyms": [
+            "Prince Hercule"
+        ],
+        "type": "TV",
+        "source": "Other",
+        "episodes": 75,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "1987-10-11T00:00:00+00:00",
+            "to": "1989-04-02T00:00:00+00:00",
+            "prop": {
+                "from": {
+                    "day": 11,
+                    "month": 10,
+                    "year": 1987
+                },
+                "to": {
+                    "day": 2,
+                    "month": 4,
+                    "year": 1989
+                }
+            },
+            "string": "Oct 11, 1987 to Apr 2, 1989"
+        },
+        "duration": "24 min per ep",
+        "rating": "G - All Ages",
+        "score": 5.96,
+        "scored_by": 532,
+        "rank": 10491,
+        "popularity": 13498,
+        "members": 1441,
+        "favorites": 2,
+        "synopsis": "In a world divided between angels and evil creatures, only the young hero Yamato Shintei has the power to defeat the demons...",
+        "background": "",
+        "season": "fall",
+        "year": 1987,
+        "broadcast": {
+            "day": "Sundays",
+            "time": "08:30",
+            "timezone": "Asia/Tokyo",
+            "string": "Sundays at 08:30 (JST)"
+        },
+        "producers": [],
+        "licensors": [],
+        "studios": [
+            {
+                "mal_id": 18,
+                "type": "anime",
+                "name": "Toei Animation",
+                "url": "https://myanimelist.net/anime/producer/18/Toei_Animation"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 4,
+                "type": "anime",
+                "name": "Comedy",
+                "url": "https://myanimelist.net/anime/genre/4/Comedy"
+            },
+            {
+                "mal_id": 10,
+                "type": "anime",
+                "name": "Fantasy",
+                "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [],
+        "demographics": [],
+        "relations": [
+            {
+                "relation": "Sequel",
+                "entry": [
+                    {
+                        "mal_id": 9885,
+                        "type": "anime",
+                        "name": "Shin Bikkuriman",
+                        "url": "https://myanimelist.net/anime/9885/Shin_Bikkuriman"
+                    }
+                ]
+            },
+            {
+                "relation": "Side Story",
+                "entry": [
+                    {
+                        "mal_id": 56763,
+                        "type": "anime",
+                        "name": "Bikkuriman: Rococo & Maria Kiseki",
+                        "url": "https://myanimelist.net/anime/56763/Bikkuriman__Rococo___Maria_Kiseki"
+                    },
+                    {
+                        "mal_id": 10203,
+                        "type": "anime",
+                        "name": "Bikkuriman: Daiichiji Seima Taisen",
+                        "url": "https://myanimelist.net/anime/10203/Bikkuriman__Daiichiji_Seima_Taisen"
+                    },
+                    {
+                        "mal_id": 10200,
+                        "type": "anime",
+                        "name": "Bikkuriman: Muen Zone no Hihou",
+                        "url": "https://myanimelist.net/anime/10200/Bikkuriman__Muen_Zone_no_Hihou"
+                    }
+                ]
+            },
+            {
+                "relation": "Other",
+                "entry": [
+                    {
+                        "mal_id": 56762,
+                        "type": "anime",
+                        "name": "Bikkuriman: Kirakira Tokubetsu Zoukan-gou",
+                        "url": "https://myanimelist.net/anime/56762/Bikkuriman__Kirakira_Tokubetsu_Zoukan-gou"
+                    },
+                    {
+                        "mal_id": 34700,
+                        "type": "anime",
+                        "name": "Bikkuriman Kids: Theme Fighter Nyander",
+                        "url": "https://myanimelist.net/anime/34700/Bikkuriman_Kids__Theme_Fighter_Nyander"
+                    },
+                    {
+                        "mal_id": 54914,
+                        "type": "anime",
+                        "name": "Bikkurimen",
+                        "url": "https://myanimelist.net/anime/54914/Bikkurimen"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [],
+            "endings": []
+        },
+        "external": [
+            {
+                "name": "Official Site",
+                "url": "http://www.toei-anim.co.jp/lineup/tv/bikkuri_man/"
+            },
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=2074"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=477"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "http://ja.wikipedia.org/wiki/ビックリマン_(アニメ)"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": []
+}

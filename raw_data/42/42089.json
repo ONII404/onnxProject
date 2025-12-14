@@ -1,0 +1,137 @@
+{
+    "id": 42089,
+    "fetched_at": "Sun Dec 14 11:29:06 2025",
+    "metadata": {
+        "mal_id": 42089,
+        "url": "https://myanimelist.net/anime/42089/Muumin_Pilot_Film",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1908/107754.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1908/107754t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1908/107754l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1908/107754.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1908/107754t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1908/107754l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Muumin Pilot Film"
+            },
+            {
+                "type": "Japanese",
+                "title": "ムーミン パイロットフィルム"
+            },
+            {
+                "type": "English",
+                "title": "Moomin Pilot Film"
+            }
+        ],
+        "title": "Muumin Pilot Film",
+        "title_english": "Moomin Pilot Film",
+        "title_japanese": "ムーミン パイロットフィルム",
+        "title_synonyms": [],
+        "type": "Special",
+        "source": "Book",
+        "episodes": 1,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "1989-12-16T00:00:00+00:00",
+            "to": null,
+            "prop": {
+                "from": {
+                    "day": 16,
+                    "month": 12,
+                    "year": 1989
+                },
+                "to": {
+                    "day": null,
+                    "month": null,
+                    "year": null
+                }
+            },
+            "string": "Dec 16, 1989"
+        },
+        "duration": "2 min",
+        "rating": "G - All Ages",
+        "score": null,
+        "scored_by": null,
+        "rank": 18966,
+        "popularity": 19910,
+        "members": 357,
+        "favorites": 0,
+        "synopsis": "The pilot film for the 1969 Moomin TV series. It was released to the public on the first LD volume of the 1969 series.",
+        "background": "",
+        "season": null,
+        "year": null,
+        "broadcast": {
+            "day": null,
+            "time": null,
+            "timezone": null,
+            "string": null
+        },
+        "producers": [],
+        "licensors": [],
+        "studios": [
+            {
+                "mal_id": 1846,
+                "type": "anime",
+                "name": "Tokyo Movie",
+                "url": "https://myanimelist.net/anime/producer/1846/Tokyo_Movie"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 10,
+                "type": "anime",
+                "name": "Fantasy",
+                "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [],
+        "demographics": [],
+        "relations": [
+            {
+                "relation": "Alternative Version",
+                "entry": [
+                    {
+                        "mal_id": 8234,
+                        "type": "anime",
+                        "name": "Muumin",
+                        "url": "https://myanimelist.net/anime/8234/Muumin"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [],
+            "endings": []
+        },
+        "external": [
+            {
+                "name": "Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Moomin_(1969_TV_series)"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": []
+}

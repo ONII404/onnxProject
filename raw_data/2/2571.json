@@ -1,0 +1,816 @@
+{
+    "id": 2571,
+    "fetched_at": "Sun Dec 14 07:27:14 2025",
+    "metadata": {
+        "mal_id": 2571,
+        "url": "https://myanimelist.net/anime/2571/Mitsubachi_Maya_no_Bouken",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/6/3358.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/6/3358t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/6/3358l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/6/3358.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/6/3358t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/6/3358l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Mitsubachi Maya no Bouken"
+            },
+            {
+                "type": "Synonym",
+                "title": "Adventures of Maya the Honeybee"
+            },
+            {
+                "type": "Japanese",
+                "title": "みつばちマーヤの冒険"
+            },
+            {
+                "type": "English",
+                "title": "Maya the Bee"
+            },
+            {
+                "type": "German",
+                "title": "Die Biene Maja - Ihre schönsten Abenteuer"
+            },
+            {
+                "type": "Spanish",
+                "title": "La Abeja Maya"
+            }
+        ],
+        "title": "Mitsubachi Maya no Bouken",
+        "title_english": "Maya the Bee",
+        "title_japanese": "みつばちマーヤの冒険",
+        "title_synonyms": [
+            "Adventures of Maya the Honeybee"
+        ],
+        "type": "TV",
+        "source": "Book",
+        "episodes": 52,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "1975-04-01T00:00:00+00:00",
+            "to": "1976-04-20T00:00:00+00:00",
+            "prop": {
+                "from": {
+                    "day": 1,
+                    "month": 4,
+                    "year": 1975
+                },
+                "to": {
+                    "day": 20,
+                    "month": 4,
+                    "year": 1976
+                }
+            },
+            "string": "Apr 1, 1975 to Apr 20, 1976"
+        },
+        "duration": "25 min per ep",
+        "rating": "G - All Ages",
+        "score": 6.58,
+        "scored_by": 6275,
+        "rank": 6833,
+        "popularity": 6743,
+        "members": 11244,
+        "favorites": 38,
+        "synopsis": "Maya, a newborn honeybee, brims with curiosity about the world around her. From the time she is born, she is brought up to be a worker bee, but it is difficult for her to understand and follow the strict rules of the hive because of her individuality and strong desire for independence.\n\nHaving collected all the honey around the honeycomb, Maya decides to set out on an adventure to find a flower garden in order to collect more honey for the hive. Her intentions are noble, but because she leaves the hive without permission, the Queen sends Maya's friend Willy to search for the little troublemaker. Willy joins Maya in her quest, and together, beyond the familiar hive, the two friends marvel at the sheer beauty that nature has to offer.\n\nThrough many experiences—sometimes enjoyable, sometimes terrible or sad—and encounters with various insects, Maya matures into a strong and wise honeybee.\n\n(Source: Nipponanimation)",
+        "background": "The series was based on the German children’s book Maya the Bee, originally published in 1912. Mitsubachi Maya no Bouken was notably in English twice, once for British with British voice actors and again for the United States with Canadian voice actors.",
+        "season": "spring",
+        "year": 1975,
+        "broadcast": {
+            "day": "Tuesdays",
+            "time": "19:30",
+            "timezone": "Asia/Tokyo",
+            "string": "Tuesdays at 19:30 (JST)"
+        },
+        "producers": [
+            {
+                "mal_id": 2812,
+                "type": "anime",
+                "name": "Zuiyo",
+                "url": "https://myanimelist.net/anime/producer/2812/Zuiyo"
+            }
+        ],
+        "licensors": [
+            {
+                "mal_id": 841,
+                "type": "anime",
+                "name": "Saban Entertainment",
+                "url": "https://myanimelist.net/anime/producer/841/Saban_Entertainment"
+            }
+        ],
+        "studios": [
+            {
+                "mal_id": 22,
+                "type": "anime",
+                "name": "Nippon Animation",
+                "url": "https://myanimelist.net/anime/producer/22/Nippon_Animation"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 2,
+                "type": "anime",
+                "name": "Adventure",
+                "url": "https://myanimelist.net/anime/genre/2/Adventure"
+            },
+            {
+                "mal_id": 4,
+                "type": "anime",
+                "name": "Comedy",
+                "url": "https://myanimelist.net/anime/genre/4/Comedy"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [],
+        "demographics": [
+            {
+                "mal_id": 15,
+                "type": "anime",
+                "name": "Kids",
+                "url": "https://myanimelist.net/anime/genre/15/Kids"
+            }
+        ],
+        "relations": [
+            {
+                "relation": "Sequel",
+                "entry": [
+                    {
+                        "mal_id": 8373,
+                        "type": "anime",
+                        "name": "Shin Mitsubachi Maya no Bouken",
+                        "url": "https://myanimelist.net/anime/8373/Shin_Mitsubachi_Maya_no_Bouken"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [
+                "\"Mitsubachi Maya no Bouken (みつばちマーヤの冒険)\" by Cheetah and the Honey Bee Choir"
+            ],
+            "endings": [
+                "1: \"Oyasumi Maya (おやすみマーヤ)\" by Cheetah and the Honey Bee Choir",
+                "2: \"Shinjuiro no Waltz (真珠色のワルツ)\" by Cheetah and the Honey Bee Choir"
+            ]
+        },
+        "external": [
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=1351"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=1415"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "http://en.wikipedia.org/wiki/Maya_the_Bee"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": [
+        {
+            "mal_id": 1,
+            "url": null,
+            "title": "Maya is born",
+            "title_japanese": "マーヤの誕生",
+            "title_romanji": "Maya no Tanjou ",
+            "aired": "1975-04-01T00:00:00+00:00",
+            "score": 3,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2185608"
+        },
+        {
+            "mal_id": 2,
+            "url": null,
+            "title": "A vow with dreams",
+            "title_japanese": "夢のある誓い",
+            "title_romanji": "Yume no Aru Chikai ",
+            "aired": "1975-04-08T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 3,
+            "url": null,
+            "title": "Into the Light",
+            "title_japanese": "ひかりの中へ",
+            "title_romanji": "Hikari no Naka e ",
+            "aired": "1975-04-15T00:00:00+00:00",
+            "score": 4.6,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1786385"
+        },
+        {
+            "mal_id": 4,
+            "url": null,
+            "title": "Putting Home Behind",
+            "title_japanese": "ふるさと)をあとに",
+            "title_romanji": "Furusato wo Ato ni (故郷",
+            "aired": "1975-04-22T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 5,
+            "url": null,
+            "title": "A rose has thorns and bees",
+            "title_japanese": "バラにはトゲと蜜がある",
+            "title_romanji": "Bara ni wa Toge to Mitsu ga Aru ",
+            "aired": "1975-04-29T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 6,
+            "url": null,
+            "title": "Schnook the dragonfly",
+            "title_japanese": "トンボのシュヌック",
+            "title_romanji": "Tonbo no Schnook ",
+            "aired": "1975-05-06T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 7,
+            "url": null,
+            "title": "Pook the housefly",
+            "title_japanese": "家バエのプック",
+            "title_romanji": "Iebae no Pook ",
+            "aired": "1975-05-13T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 8,
+            "url": null,
+            "title": "The spider and the lullaby",
+            "title_japanese": "クモと子守唄",
+            "title_romanji": "Kumo to Komoriuta ",
+            "aired": "1975-05-20T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 9,
+            "url": null,
+            "title": "Shelter from the rain",
+            "title_japanese": "雨やどり",
+            "title_romanji": "Ame Yadori ",
+            "aired": "1975-05-27T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 10,
+            "url": null,
+            "title": "Nest-building poem",
+            "title_japanese": "巣立の詩",
+            "title_romanji": "Sudachi no Shi ",
+            "aired": "1975-06-03T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 11,
+            "url": null,
+            "title": "A worm is a worm",
+            "title_japanese": "みみずは みみず",
+            "title_romanji": "Mimizu wa Mimizu ",
+            "aired": "1975-06-10T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 12,
+            "url": null,
+            "title": "Missing child uproar",
+            "title_japanese": "迷子さわぎ",
+            "title_romanji": "Maigo Sawagi ",
+            "aired": "1975-06-17T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 13,
+            "url": null,
+            "title": "Willie becomes an ant",
+            "title_japanese": "アリになったウイリー",
+            "title_romanji": "Ari ni Natta Willie ",
+            "aired": "1975-06-24T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 14,
+            "url": null,
+            "title": "A family of earwigs",
+            "title_japanese": "ハサミ虫の家族",
+            "title_romanji": "Hasami Mushi no Kazoku ",
+            "aired": "1975-07-01T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 15,
+            "url": null,
+            "title": "Maya's promise",
+            "title_japanese": "マーヤの約束",
+            "title_romanji": "Maya no Yakusoku ",
+            "aired": "1975-07-08T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 16,
+            "url": null,
+            "title": "Phillip's big pinch",
+            "title_japanese": "フィリップの大ピンチ",
+            "title_romanji": "Phillip no Inu Pinch ",
+            "aired": "1975-07-22T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 17,
+            "url": null,
+            "title": "100 hearts and 100 legs",
+            "title_japanese": "100の心と100の足",
+            "title_romanji": "100 no Kokoro to 100 no Ashi ",
+            "aired": "1975-07-29T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 18,
+            "url": null,
+            "title": "The rain frog's blunder",
+            "title_japanese": "雨蛙のしっぱい",
+            "title_romanji": "Amegaeru no Shippai ",
+            "aired": "1975-08-12T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 19,
+            "url": null,
+            "title": "Tear Through the Wind",
+            "title_japanese": "風をさけて",
+            "title_romanji": "Kaze wo Sakete ",
+            "aired": "1975-08-19T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 20,
+            "url": null,
+            "title": "Friends in the earth",
+            "title_japanese": "土の中の仲間たち",
+            "title_romanji": "Tsuchi no Naka no Nakama-tachi ",
+            "aired": "1975-08-26T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 21,
+            "url": null,
+            "title": "A troublesome grandma",
+            "title_japanese": "困ったおばあさん",
+            "title_romanji": "Komatta Obaa-san ",
+            "aired": "1975-09-02T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 22,
+            "url": null,
+            "title": "Maya, captain for a day",
+            "title_japanese": "マーヤの一日隊長",
+            "title_romanji": "Maya no Ichinichi Taichou ",
+            "aired": "1975-09-09T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 23,
+            "url": null,
+            "title": "Fly, Phillip!",
+            "title_japanese": "跳べ!フィリップ",
+            "title_romanji": "Tobe! Phillip ",
+            "aired": "1975-09-16T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 24,
+            "url": null,
+            "title": "The cicada's song",
+            "title_japanese": "セミの歌",
+            "title_romanji": "Semi no Uta ",
+            "aired": "1975-09-23T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 25,
+            "url": null,
+            "title": "The ant's sixth child",
+            "title_japanese": "アリの子6番",
+            "title_romanji": "Ari no Ko 6-ban ",
+            "aired": "1975-09-30T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 26,
+            "url": null,
+            "title": "Cricket's melody",
+            "title_japanese": "コオロギのメロディ",
+            "title_romanji": "Koorogi no Melody ",
+            "aired": "1975-10-07T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 27,
+            "url": null,
+            "title": "Perilous journey",
+            "title_japanese": "命がけの旅",
+            "title_romanji": "Inochigake no Tabi ",
+            "aired": "1975-10-14T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 28,
+            "url": null,
+            "title": "Beware of imposters",
+            "title_japanese": "にせものに御用心",
+            "title_romanji": "Nisemono ni Goyoushin ",
+            "aired": "1975-10-21T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 29,
+            "url": null,
+            "title": "The locusts are coming",
+            "title_japanese": "イナゴがやってくる",
+            "title_romanji": "Inago ga Yattekuru ",
+            "aired": "1975-10-28T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 30,
+            "url": null,
+            "title": "Maya's wish",
+            "title_japanese": "マーヤのお願い",
+            "title_romanji": "Maya no Onegai ",
+            "aired": "1975-11-04T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 31,
+            "url": null,
+            "title": "I want to be big",
+            "title_japanese": "大きくなりたい",
+            "title_romanji": "Oukoku Naritai ",
+            "aired": "1975-11-11T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 32,
+            "url": null,
+            "title": "Uproar in the cactus patch",
+            "title_japanese": "カボチャ畑は大騒ぎ",
+            "title_romanji": "Kabochabatake wa Ousawagi ",
+            "aired": "1975-11-18T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 33,
+            "url": null,
+            "title": "Run, run",
+            "title_japanese": "逃げろや逃げろ",
+            "title_romanji": "Nigero ya Nigero ",
+            "aired": "1975-11-25T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 34,
+            "url": null,
+            "title": "I want a house",
+            "title_japanese": "おうちがほしい",
+            "title_romanji": "Ouchi ga Hoshii ",
+            "aired": "1975-12-02T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 35,
+            "url": null,
+            "title": "Friends in the water",
+            "title_japanese": "水の中のお友達",
+            "title_romanji": "Mizu no Naka no Otomodachi ",
+            "aired": "1975-12-09T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 36,
+            "url": null,
+            "title": "Maya becomes a mother",
+            "title_japanese": "ママになったマーヤ",
+            "title_romanji": "Mama ni Natta Maya ",
+            "aired": "1975-12-16T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 37,
+            "url": null,
+            "title": "Two Phillips",
+            "title_japanese": "二人のフィリップ",
+            "title_romanji": "Futari no Phillip ",
+            "aired": "1976-01-06T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 38,
+            "url": null,
+            "title": "Big, big Willard",
+            "title_japanese": "大きな大きなウイラード",
+            "title_romanji": "Ooki na Ooki na Willard ",
+            "aired": "1975-12-23T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 39,
+            "url": null,
+            "title": "Kitty the flea child",
+            "title_japanese": "ノミの子キティ",
+            "title_romanji": "Nomi no Ko Kitty ",
+            "aired": "1976-01-13T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 40,
+            "url": null,
+            "title": "Maya in the snow",
+            "title_japanese": "雪の中のマーヤ",
+            "title_romanji": "Yuki no Naka no Maya ",
+            "aired": "1976-01-20T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 41,
+            "url": null,
+            "title": "Spring's here",
+            "title_japanese": "春がきたきた",
+            "title_romanji": "Haru ga Kita Kita ",
+            "aired": "1976-02-03T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 42,
+            "url": null,
+            "title": "Jack the moth",
+            "title_japanese": "蛾のジャック",
+            "title_romanji": "Ga no Jack ",
+            "aired": "1976-02-10T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 43,
+            "url": null,
+            "title": "Ant ranch",
+            "title_japanese": "アリの牧場",
+            "title_romanji": "Ari no Bokujou ",
+            "aired": "1976-02-17T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 44,
+            "url": null,
+            "title": "Maya's pothole plan",
+            "title_japanese": "マーヤの穴ぼこ作戦",
+            "title_romanji": "Maya no Anaboko Sakusen ",
+            "aired": "1976-02-24T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 45,
+            "url": null,
+            "title": "Liar roach",
+            "title_japanese": "ほらふきごきぶり",
+            "title_romanji": "Horafuki Gokiburi ",
+            "aired": "1976-03-02T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 46,
+            "url": null,
+            "title": "A new friend",
+            "title_japanese": "新しいお友達",
+            "title_romanji": "Atarashii Otomodachi ",
+            "aired": "1976-03-09T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 47,
+            "url": null,
+            "title": "Champion all alone",
+            "title_japanese": "一人ぼっちのチャンピオン",
+            "title_romanji": "Hitoribocchi no Champion ",
+            "aired": "1976-03-16T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 48,
+            "url": null,
+            "title": "Fly egg uproar",
+            "title_japanese": "ハエの卵騒動",
+            "title_romanji": "Hae no Tamago Soudou ",
+            "aired": "1976-03-23T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 49,
+            "url": null,
+            "title": "Bart the honeybee",
+            "title_japanese": "ミツバチのバート",
+            "title_romanji": "Mitsubachi no Bart ",
+            "aired": "1976-03-30T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 50,
+            "url": null,
+            "title": "Anthony the ant child",
+            "title_japanese": "アリの子アンソニー",
+            "title_romanji": "Ari no Ko Anthony ",
+            "aired": "1976-04-06T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 51,
+            "url": null,
+            "title": "Trap of the wasps",
+            "title_japanese": "スズメ蜂のワナ",
+            "title_romanji": "Suzumebachi no Wana ",
+            "aired": "1976-04-13T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 52,
+            "url": null,
+            "title": "Welcome home, Maya",
+            "title_japanese": "お帰りマーヤ",
+            "title_romanji": "Okaeri Maya ",
+            "aired": "1976-04-20T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        }
+    ]
+}

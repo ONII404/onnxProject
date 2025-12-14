@@ -1,0 +1,174 @@
+{
+    "id": 7779,
+    "fetched_at": "Sun Dec 14 09:13:07 2025",
+    "metadata": {
+        "mal_id": 7779,
+        "url": "https://myanimelist.net/anime/7779/Andersen_Monogatari_TV",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/7/69035.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/7/69035t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/7/69035l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/7/69035.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/7/69035t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/7/69035l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Andersen Monogatari (TV)"
+            },
+            {
+                "type": "Synonym",
+                "title": "Hans Christian Andersen Stories"
+            },
+            {
+                "type": "Synonym",
+                "title": "Anderson Stories"
+            },
+            {
+                "type": "Japanese",
+                "title": "アンデルセン物語"
+            }
+        ],
+        "title": "Andersen Monogatari (TV)",
+        "title_english": null,
+        "title_japanese": "アンデルセン物語",
+        "title_synonyms": [
+            "Hans Christian Andersen Stories",
+            "Anderson Stories"
+        ],
+        "type": "TV",
+        "source": "Unknown",
+        "episodes": 52,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "1971-01-03T00:00:00+00:00",
+            "to": "1971-12-26T00:00:00+00:00",
+            "prop": {
+                "from": {
+                    "day": 3,
+                    "month": 1,
+                    "year": 1971
+                },
+                "to": {
+                    "day": 26,
+                    "month": 12,
+                    "year": 1971
+                }
+            },
+            "string": "Jan 3, 1971 to Dec 26, 1971"
+        },
+        "duration": "24 min per ep",
+        "rating": "PG - Children",
+        "score": 6.22,
+        "scored_by": 557,
+        "rank": 9026,
+        "popularity": 13250,
+        "members": 1543,
+        "favorites": 1,
+        "synopsis": "Adaptations of numerous stories written by Hans Christian Andersen.",
+        "background": "",
+        "season": "winter",
+        "year": 1971,
+        "broadcast": {
+            "day": "Sundays",
+            "time": "19:30",
+            "timezone": "Asia/Tokyo",
+            "string": "Sundays at 19:30 (JST)"
+        },
+        "producers": [
+            {
+                "mal_id": 169,
+                "type": "anime",
+                "name": "Fuji TV",
+                "url": "https://myanimelist.net/anime/producer/169/Fuji_TV"
+            }
+        ],
+        "licensors": [],
+        "studios": [
+            {
+                "mal_id": 68,
+                "type": "anime",
+                "name": "Mushi Production",
+                "url": "https://myanimelist.net/anime/producer/68/Mushi_Production"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 8,
+                "type": "anime",
+                "name": "Drama",
+                "url": "https://myanimelist.net/anime/genre/8/Drama"
+            },
+            {
+                "mal_id": 10,
+                "type": "anime",
+                "name": "Fantasy",
+                "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [],
+        "demographics": [
+            {
+                "mal_id": 15,
+                "type": "anime",
+                "name": "Kids",
+                "url": "https://myanimelist.net/anime/genre/15/Kids"
+            }
+        ],
+        "relations": [
+            {
+                "relation": "Alternative Version",
+                "entry": [
+                    {
+                        "mal_id": 5098,
+                        "type": "anime",
+                        "name": "Andersen Monogatari",
+                        "url": "https://myanimelist.net/anime/5098/Andersen_Monogatari"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [
+                "\"Mister Andersen (ミスター・アンデルセン)\" by Taeko Sakurai, Young Fresh"
+            ],
+            "endings": []
+        },
+        "external": [
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=2314"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=434"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "http://en.wikipedia.org/wiki/Andersen_Monogatari"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": []
+}

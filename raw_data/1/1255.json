@@ -1,0 +1,181 @@
+{
+    "id": 1255,
+    "fetched_at": "Sun Dec 14 07:11:07 2025",
+    "metadata": {
+        "mal_id": 1255,
+        "url": "https://myanimelist.net/anime/1255/Saint_Seiya__Shinku_no_Shounen_Densetsu",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/11/52889.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/11/52889t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/11/52889l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/11/52889.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/11/52889t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/11/52889l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Saint Seiya: Shinku no Shounen Densetsu"
+            },
+            {
+                "type": "Japanese",
+                "title": "聖闘士星矢 真紅の少年伝説"
+            },
+            {
+                "type": "English",
+                "title": "Saint Seiya: Legend of Crimson Youth"
+            },
+            {
+                "type": "Spanish",
+                "title": "Saint Seiya Película 3: Los Caballeros del Zodiaco. La Leyenda del Joven Escarlata."
+            },
+            {
+                "type": "French",
+                "title": "Saint Seiya Film 3: Les Chevaliers du Zodiaque - Les Guerriers d'Abel"
+            }
+        ],
+        "title": "Saint Seiya: Shinku no Shounen Densetsu",
+        "title_english": "Saint Seiya: Legend of Crimson Youth",
+        "title_japanese": "聖闘士星矢 真紅の少年伝説",
+        "title_synonyms": [],
+        "type": "Movie",
+        "source": "Manga",
+        "episodes": 1,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "1988-07-23T00:00:00+00:00",
+            "to": null,
+            "prop": {
+                "from": {
+                    "day": 23,
+                    "month": 7,
+                    "year": 1988
+                },
+                "to": {
+                    "day": null,
+                    "month": null,
+                    "year": null
+                }
+            },
+            "string": "Jul 23, 1988"
+        },
+        "duration": "1 hr 14 min",
+        "rating": "PG-13 - Teens 13 or older",
+        "score": 7.21,
+        "scored_by": 9879,
+        "rank": 3424,
+        "popularity": 5637,
+        "members": 17617,
+        "favorites": 34,
+        "synopsis": "Sun God Apollo the brother of Athena is here to take Athena back to heaven and taking over the sanctuary. He revived the deceased gold saints and use them and a few god saints as bodyguards. But Athena did not obey him, Apollo had no choice but send her to hell. On the otherhand, the bronze saints are on their way to save Athena.\n\n(Source: ANN)",
+        "background": "",
+        "season": null,
+        "year": null,
+        "broadcast": {
+            "day": null,
+            "time": null,
+            "timezone": null,
+            "string": null
+        },
+        "producers": [],
+        "licensors": [
+            {
+                "mal_id": 467,
+                "type": "anime",
+                "name": "Discotek Media",
+                "url": "https://myanimelist.net/anime/producer/467/Discotek_Media"
+            }
+        ],
+        "studios": [
+            {
+                "mal_id": 18,
+                "type": "anime",
+                "name": "Toei Animation",
+                "url": "https://myanimelist.net/anime/producer/18/Toei_Animation"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 2,
+                "type": "anime",
+                "name": "Adventure",
+                "url": "https://myanimelist.net/anime/genre/2/Adventure"
+            },
+            {
+                "mal_id": 10,
+                "type": "anime",
+                "name": "Fantasy",
+                "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+            },
+            {
+                "mal_id": 24,
+                "type": "anime",
+                "name": "Sci-Fi",
+                "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [],
+        "demographics": [
+            {
+                "mal_id": 27,
+                "type": "anime",
+                "name": "Shounen",
+                "url": "https://myanimelist.net/anime/genre/27/Shounen"
+            }
+        ],
+        "relations": [
+            {
+                "relation": "Parent Story",
+                "entry": [
+                    {
+                        "mal_id": 1254,
+                        "type": "anime",
+                        "name": "Saint Seiya",
+                        "url": "https://myanimelist.net/anime/1254/Saint_Seiya"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [],
+            "endings": [
+                "\"You Are My Reason To Be\" by Hitomi Toyama and Oren Waters"
+            ]
+        },
+        "external": [
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=1887"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=3331"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "http://en.wikipedia.org/wiki/Saint_Seiya:_Legend_of_Crimson_Youth"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": []
+}

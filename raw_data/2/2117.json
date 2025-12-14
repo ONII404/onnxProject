@@ -1,0 +1,371 @@
+{
+    "id": 2117,
+    "fetched_at": "Sun Dec 14 07:20:23 2025",
+    "metadata": {
+        "mal_id": 2117,
+        "url": "https://myanimelist.net/anime/2117/Shin_Captain_Tsubasa",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1235/134518.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1235/134518t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1235/134518l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1235/134518.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1235/134518t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1235/134518l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Shin Captain Tsubasa"
+            },
+            {
+                "type": "Synonym",
+                "title": "New Captain Tsubasa"
+            },
+            {
+                "type": "Japanese",
+                "title": "新・キャプテン翼"
+            }
+        ],
+        "title": "Shin Captain Tsubasa",
+        "title_english": null,
+        "title_japanese": "新・キャプテン翼",
+        "title_synonyms": [
+            "New Captain Tsubasa"
+        ],
+        "type": "OVA",
+        "source": "Manga",
+        "episodes": 13,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "1989-07-01T00:00:00+00:00",
+            "to": "1990-07-01T00:00:00+00:00",
+            "prop": {
+                "from": {
+                    "day": 1,
+                    "month": 7,
+                    "year": 1989
+                },
+                "to": {
+                    "day": 1,
+                    "month": 7,
+                    "year": 1990
+                }
+            },
+            "string": "Jul 1, 1989 to Jul 1, 1990"
+        },
+        "duration": "26 min per ep",
+        "rating": "G - All Ages",
+        "score": 7.14,
+        "scored_by": 7821,
+        "rank": 3850,
+        "popularity": 6163,
+        "members": 13882,
+        "favorites": 15,
+        "synopsis": "Shin Captain Tsubasa takes place at the International Jr. Youth tournament (U-16) in Paris, France. After defeating the Argentina Jr. Youth, Italy Jr. Youth and France Jr. Youth teams, Japan Jr. Youth reaches the final against the powerful West Germany Jr. Youth team. The giant goal keeper Müller, the ace Kaltz and Europe's best player Schneider offer the Japan Jr. Youth team an extremely hard final match.",
+        "background": "",
+        "season": null,
+        "year": null,
+        "broadcast": {
+            "day": null,
+            "time": null,
+            "timezone": null,
+            "string": null
+        },
+        "producers": [
+            {
+                "mal_id": 166,
+                "type": "anime",
+                "name": "Movic",
+                "url": "https://myanimelist.net/anime/producer/166/Movic"
+            },
+            {
+                "mal_id": 1365,
+                "type": "anime",
+                "name": "Shueisha",
+                "url": "https://myanimelist.net/anime/producer/1365/Shueisha"
+            },
+            {
+                "mal_id": 1480,
+                "type": "anime",
+                "name": "CBS Sony Group",
+                "url": "https://myanimelist.net/anime/producer/1480/CBS_Sony_Group"
+            },
+            {
+                "mal_id": 1906,
+                "type": "anime",
+                "name": "animate",
+                "url": "https://myanimelist.net/anime/producer/1906/animate"
+            }
+        ],
+        "licensors": [],
+        "studios": [
+            {
+                "mal_id": 7,
+                "type": "anime",
+                "name": "J.C.Staff",
+                "url": "https://myanimelist.net/anime/producer/7/JCStaff"
+            },
+            {
+                "mal_id": 155,
+                "type": "anime",
+                "name": "animate Film",
+                "url": "https://myanimelist.net/anime/producer/155/animate_Film"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 30,
+                "type": "anime",
+                "name": "Sports",
+                "url": "https://myanimelist.net/anime/genre/30/Sports"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [
+            {
+                "mal_id": 77,
+                "type": "anime",
+                "name": "Team Sports",
+                "url": "https://myanimelist.net/anime/genre/77/Team_Sports"
+            }
+        ],
+        "demographics": [
+            {
+                "mal_id": 27,
+                "type": "anime",
+                "name": "Shounen",
+                "url": "https://myanimelist.net/anime/genre/27/Shounen"
+            }
+        ],
+        "relations": [
+            {
+                "relation": "Prequel",
+                "entry": [
+                    {
+                        "mal_id": 2116,
+                        "type": "anime",
+                        "name": "Captain Tsubasa",
+                        "url": "https://myanimelist.net/anime/2116/Captain_Tsubasa"
+                    }
+                ]
+            },
+            {
+                "relation": "Sequel",
+                "entry": [
+                    {
+                        "mal_id": 1674,
+                        "type": "anime",
+                        "name": "Captain Tsubasa J",
+                        "url": "https://myanimelist.net/anime/1674/Captain_Tsubasa_J"
+                    }
+                ]
+            },
+            {
+                "relation": "Adaptation",
+                "entry": [
+                    {
+                        "mal_id": 1789,
+                        "type": "manga",
+                        "name": "Captain Tsubasa",
+                        "url": "https://myanimelist.net/manga/1789/Captain_Tsubasa"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [
+                "\"So Long Dear Friend\" by JETZT"
+            ],
+            "endings": [
+                "\"Saigo no FIRST KISS\" by Maimoku Sakura"
+            ]
+        },
+        "external": [
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=506"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=6198"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": [
+        {
+            "mal_id": 1,
+            "url": null,
+            "title": "Take Flight, Tsubasa! Challenge the World",
+            "title_japanese": "翼よはばたけ! 世界への挑戦",
+            "title_romanji": "Tsubasa yo Habatake! Sekai e no Chousen ",
+            "aired": "1989-07-01T00:00:00+00:00",
+            "score": 4.3,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1788830"
+        },
+        {
+            "mal_id": 2,
+            "url": null,
+            "title": "Defeated! Start from Scratch",
+            "title_japanese": "敗北! ゼロからの再出発",
+            "title_romanji": "Haiboku! Zero kara no Saishuppatsu ",
+            "aired": "1989-08-02T00:00:00+00:00",
+            "score": 4.8,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1796416"
+        },
+        {
+            "mal_id": 3,
+            "url": null,
+            "title": "Rebirth! Golden Duo",
+            "title_japanese": "復活! ゴールデン・コンビ",
+            "title_romanji": "Fukkatsu! Golden Combi ",
+            "aired": "1989-09-01T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 4,
+            "url": null,
+            "title": "Gathering! Rivals All Over the World",
+            "title_japanese": "集結! 世界のライバルたち",
+            "title_romanji": "Shuuketsu! Sekai no Rival-tachi ",
+            "aired": "1989-10-08T00:00:00+00:00",
+            "score": 4.29,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1437882"
+        },
+        {
+            "mal_id": 5,
+            "url": null,
+            "title": "Confrontation! Defeat Hernandez",
+            "title_japanese": "対決! ヘルナンデスを倒せ",
+            "title_romanji": "Taiketsu! Hernandez wo Taose ",
+            "aired": "1989-11-01T00:00:00+00:00",
+            "score": 4.57,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1437885"
+        },
+        {
+            "mal_id": 6,
+            "url": null,
+            "title": "Blast Off! J-Boys Soccer!",
+            "title_japanese": "発進! J-BOYSサッカー",
+            "title_romanji": "Hasshin! J-Boys Soccer ",
+            "aired": "1989-12-01T00:00:00+00:00",
+            "score": 4.14,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1438459"
+        },
+        {
+            "mal_id": 7,
+            "url": null,
+            "title": "White Hot! The Genius Diaz vs. Japan",
+            "title_japanese": "白熱! 天才ディアス対全日本",
+            "title_romanji": "Hakunetsu! Tensai Diaz Tai Zennippon ",
+            "aired": "1989-12-21T00:00:00+00:00",
+            "score": 4.75,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1438468"
+        },
+        {
+            "mal_id": 8,
+            "url": null,
+            "title": "Battle! Clash of the Four Best",
+            "title_japanese": "決戦! ベスト4の激突",
+            "title_romanji": "Kessen! Best 4 no Gekitotsu ",
+            "aired": "1990-02-01T00:00:00+00:00",
+            "score": 4.4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1439732"
+        },
+        {
+            "mal_id": 9,
+            "url": null,
+            "title": "Counterattack! Break the Hometown Decision",
+            "title_japanese": "反撃! ホームタウンディシジョンを破れ",
+            "title_romanji": "Hangeki! Hometown Decision wo Yabure ",
+            "aired": "1990-03-01T00:00:00+00:00",
+            "score": 4.6,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1439743"
+        },
+        {
+            "mal_id": 10,
+            "url": null,
+            "title": "Hard Fight! Bloody Ultimate Defense",
+            "title_japanese": "激闘! 血まみれの死守",
+            "title_romanji": "Gekitou! Chimamire no Shishu ",
+            "aired": "1990-04-08T00:00:00+00:00",
+            "score": 4.8,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1439755"
+        },
+        {
+            "mal_id": 11,
+            "url": null,
+            "title": "Decisive Victory! Challenge the Steel Giant",
+            "title_japanese": "決勝! 鋼鉄の巨人に挑め",
+            "title_romanji": "Kesshou! Koutetsu no Kyojin ni Idome ",
+            "aired": "1990-05-01T00:00:00+00:00",
+            "score": 4.6,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1439767"
+        },
+        {
+            "mal_id": 12,
+            "url": null,
+            "title": "Pursuit! Has the Number One in the World Seen This?",
+            "title_japanese": "追撃! 世界一が見えた?",
+            "title_romanji": "Tsuigeki! Sekaiichi ga Mieta? ",
+            "aired": "1990-06-01T00:00:00+00:00",
+            "score": 4.5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1440142"
+        },
+        {
+            "mal_id": 13,
+            "url": null,
+            "title": "Soar, Tsubasa! The Oath to the Great Skies",
+            "title_japanese": "翼よ翔け! 大空への誓い",
+            "title_romanji": "Tsubasa yo Habatake! Oozora e no Chikai ",
+            "aired": "1990-07-01T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        }
+    ]
+}

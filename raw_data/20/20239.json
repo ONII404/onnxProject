@@ -1,0 +1,175 @@
+{
+    "id": 20239,
+    "fetched_at": "Sun Dec 14 10:05:10 2025",
+    "metadata": {
+        "mal_id": 20239,
+        "url": "https://myanimelist.net/anime/20239/Hana_no_Kakarichou",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1234/134330.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1234/134330t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1234/134330l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1234/134330.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1234/134330t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1234/134330l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Hana no Kakarichou"
+            },
+            {
+                "type": "Synonym",
+                "title": "The Happy Section Chief"
+            },
+            {
+                "type": "Synonym",
+                "title": "The Magnificient Chief Clerk"
+            },
+            {
+                "type": "Japanese",
+                "title": "花の係長"
+            }
+        ],
+        "title": "Hana no Kakarichou",
+        "title_english": null,
+        "title_japanese": "花の係長",
+        "title_synonyms": [
+            "The Happy Section Chief",
+            "The Magnificient Chief Clerk"
+        ],
+        "type": "TV",
+        "source": "Manga",
+        "episodes": 25,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "1976-10-03T00:00:00+00:00",
+            "to": "1977-03-27T00:00:00+00:00",
+            "prop": {
+                "from": {
+                    "day": 3,
+                    "month": 10,
+                    "year": 1976
+                },
+                "to": {
+                    "day": 27,
+                    "month": 3,
+                    "year": 1977
+                }
+            },
+            "string": "Oct 3, 1976 to Mar 27, 1977"
+        },
+        "duration": "25 min per ep",
+        "rating": "R+ - Mild Nudity",
+        "score": null,
+        "scored_by": null,
+        "rank": 21804,
+        "popularity": 16944,
+        "members": 610,
+        "favorites": 1,
+        "synopsis": "A wacky comedy about a man from a noble ancestry of long ago, but who in modern times is just a lowly salary man that is constantly being humiliated by his family and co-workers.\n\n(Source: AniDB)",
+        "background": "",
+        "season": "fall",
+        "year": 1976,
+        "broadcast": {
+            "day": null,
+            "time": null,
+            "timezone": null,
+            "string": "Unknown"
+        },
+        "producers": [
+            {
+                "mal_id": 55,
+                "type": "anime",
+                "name": "TV Asahi",
+                "url": "https://myanimelist.net/anime/producer/55/TV_Asahi"
+            },
+            {
+                "mal_id": 65,
+                "type": "anime",
+                "name": "Tokyo Movie Shinsha",
+                "url": "https://myanimelist.net/anime/producer/65/Tokyo_Movie_Shinsha"
+            },
+            {
+                "mal_id": 143,
+                "type": "anime",
+                "name": "Mainichi Broadcasting System",
+                "url": "https://myanimelist.net/anime/producer/143/Mainichi_Broadcasting_System"
+            }
+        ],
+        "licensors": [],
+        "studios": [],
+        "genres": [
+            {
+                "mal_id": 4,
+                "type": "anime",
+                "name": "Comedy",
+                "url": "https://myanimelist.net/anime/genre/4/Comedy"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [],
+        "demographics": [
+            {
+                "mal_id": 42,
+                "type": "anime",
+                "name": "Seinen",
+                "url": "https://myanimelist.net/anime/genre/42/Seinen"
+            }
+        ],
+        "relations": [
+            {
+                "relation": "Alternative Version",
+                "entry": [
+                    {
+                        "mal_id": 20241,
+                        "type": "anime",
+                        "name": "Manga Hana no Kakarichou",
+                        "url": "https://myanimelist.net/anime/20241/Manga_Hana_no_Kakarichou"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [
+                "\"Hana no Kakarichou (花の係長)\" by Koorogi '73"
+            ],
+            "endings": [
+                "\"Aa! Hana no Kakarichou (嗚呼!花の係長)\" by Koorogi '73"
+            ]
+        },
+        "external": [
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=5515"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=2010"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "http://ja.wikipedia.org/wiki/%E8%8A%B1%E3%81%AE%E4%BF%82%E9%95%B7"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": []
+}

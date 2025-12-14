@@ -1,0 +1,974 @@
+{
+    "id": 1471,
+    "fetched_at": "Sun Dec 14 07:14:26 2025",
+    "metadata": {
+        "mal_id": 1471,
+        "url": "https://myanimelist.net/anime/1471/City_Hunter_2",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1272/138953.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1272/138953t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1272/138953l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1272/138953.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1272/138953t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1272/138953l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "City Hunter 2"
+            },
+            {
+                "type": "Japanese",
+                "title": "シティーハンター2"
+            },
+            {
+                "type": "French",
+                "title": "Nicky Larson Saison 2"
+            }
+        ],
+        "title": "City Hunter 2",
+        "title_english": null,
+        "title_japanese": "シティーハンター2",
+        "title_synonyms": [],
+        "type": "TV",
+        "source": "Manga",
+        "episodes": 63,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "1988-04-02T00:00:00+00:00",
+            "to": "1989-07-14T00:00:00+00:00",
+            "prop": {
+                "from": {
+                    "day": 2,
+                    "month": 4,
+                    "year": 1988
+                },
+                "to": {
+                    "day": 14,
+                    "month": 7,
+                    "year": 1989
+                }
+            },
+            "string": "Apr 2, 1988 to Jul 14, 1989"
+        },
+        "duration": "25 min per ep",
+        "rating": "PG-13 - Teens 13 or older",
+        "score": 8.06,
+        "scored_by": 12478,
+        "rank": 610,
+        "popularity": 4455,
+        "members": 31026,
+        "favorites": 180,
+        "synopsis": "Ryo Saeba is a private detective, but has another face as a sweeper who cleans the city of evil. He is able enough, but has a bad habit of getting over-excited about beautiful women. It is his partner Kaori Makimura's job to protect those beautiful female clients from Ryo's sexual harassment.\n\n(Source: Sunrise)",
+        "background": "",
+        "season": "spring",
+        "year": 1988,
+        "broadcast": {
+            "day": null,
+            "time": null,
+            "timezone": null,
+            "string": "Unknown"
+        },
+        "producers": [],
+        "licensors": [
+            {
+                "mal_id": 97,
+                "type": "anime",
+                "name": "ADV Films",
+                "url": "https://myanimelist.net/anime/producer/97/ADV_Films"
+            },
+            {
+                "mal_id": 467,
+                "type": "anime",
+                "name": "Discotek Media",
+                "url": "https://myanimelist.net/anime/producer/467/Discotek_Media"
+            }
+        ],
+        "studios": [
+            {
+                "mal_id": 14,
+                "type": "anime",
+                "name": "Sunrise",
+                "url": "https://myanimelist.net/anime/producer/14/Sunrise"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 1,
+                "type": "anime",
+                "name": "Action",
+                "url": "https://myanimelist.net/anime/genre/1/Action"
+            },
+            {
+                "mal_id": 4,
+                "type": "anime",
+                "name": "Comedy",
+                "url": "https://myanimelist.net/anime/genre/4/Comedy"
+            },
+            {
+                "mal_id": 7,
+                "type": "anime",
+                "name": "Mystery",
+                "url": "https://myanimelist.net/anime/genre/7/Mystery"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [],
+        "demographics": [
+            {
+                "mal_id": 27,
+                "type": "anime",
+                "name": "Shounen",
+                "url": "https://myanimelist.net/anime/genre/27/Shounen"
+            }
+        ],
+        "relations": [
+            {
+                "relation": "Prequel",
+                "entry": [
+                    {
+                        "mal_id": 1470,
+                        "type": "anime",
+                        "name": "City Hunter",
+                        "url": "https://myanimelist.net/anime/1470/City_Hunter"
+                    }
+                ]
+            },
+            {
+                "relation": "Sequel",
+                "entry": [
+                    {
+                        "mal_id": 1472,
+                        "type": "anime",
+                        "name": "City Hunter 3",
+                        "url": "https://myanimelist.net/anime/1472/City_Hunter_3"
+                    }
+                ]
+            },
+            {
+                "relation": "Adaptation",
+                "entry": [
+                    {
+                        "mal_id": 792,
+                        "type": "manga",
+                        "name": "City Hunter",
+                        "url": "https://myanimelist.net/manga/792/City_Hunter"
+                    }
+                ]
+            },
+            {
+                "relation": "Side Story",
+                "entry": [
+                    {
+                        "mal_id": 1474,
+                        "type": "anime",
+                        "name": "City Hunter: Ai to Shukumei no Magnum",
+                        "url": "https://myanimelist.net/anime/1474/City_Hunter__Ai_to_Shukumei_no_Magnum"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [
+                "1: \"Angel Night\" by PSYS (eps 1-26)",
+                "2: \"Sara\" by Fence of Defense (eps 27-63)"
+            ],
+            "endings": [
+                "1: \"Super Girl\" by Yasuyuki Okamura (eps 1-37)",
+                "2: \"Still Love Her\" by TM Network (eps 38-63)"
+            ]
+        },
+        "external": [
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=1563"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=484"
+            }
+        ],
+        "streaming": [
+            {
+                "name": "Crunchyroll",
+                "url": "http://www.crunchyroll.com/series-278982"
+            }
+        ]
+    },
+    "episodes": [
+        {
+            "mal_id": 1,
+            "url": "https://myanimelist.net/anime/1471/City_Hunter_2/episode/1",
+            "title": "Ryo's her Future Husband? Her Horoscope says she will meet and marry him! (Part 1)",
+            "title_japanese": "獠は許嫁!? 出会って恋して占います!（前編）",
+            "title_romanji": "Ryou wa Iinazuke!? Deatte Koishite Uranaimasu! (Zenpen) ",
+            "aired": "1988-04-02T00:00:00+00:00",
+            "score": 3.86,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=562897"
+        },
+        {
+            "mal_id": 2,
+            "url": "https://myanimelist.net/anime/1471/City_Hunter_2/episode/2",
+            "title": "Ryo's Her Future Husband?! Her Horoscope Says She'll Meet and Marry Him! (Part 2)",
+            "title_japanese": "後編)",
+            "title_romanji": "Ryou wa Iinazuke!? Deatte Koishite Uranaimasu! (Kouhen) (獠は許嫁!? 出会って恋して占います! ",
+            "aired": "1988-04-15T00:00:00+00:00",
+            "score": 3.71,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=562901"
+        },
+        {
+            "mal_id": 3,
+            "url": "https://myanimelist.net/anime/1471/City_Hunter_2/episode/3",
+            "title": "Kaori in Danger! Love Means Saying Goodbye (Part 1)",
+            "title_japanese": "前編)",
+            "title_romanji": "Nerawareta Kaori!! Ai no Kotoba wa Sayounara (Zenpen) (狙われた香!! 愛の言葉はさようなら ",
+            "aired": "1988-04-22T00:00:00+00:00",
+            "score": 4.05,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=563081"
+        },
+        {
+            "mal_id": 4,
+            "url": "https://myanimelist.net/anime/1471/City_Hunter_2/episode/4",
+            "title": "Kaori in Danger! Love Means Saying Goodbye (Part 2)",
+            "title_japanese": "後編)",
+            "title_romanji": "Nerawareta Kaori!! Ai no Kotoba wa Sayounara (Kouhen) (狙われた香!! 愛の言葉はさようなら ",
+            "aired": "1988-04-30T00:00:00+00:00",
+            "score": 4.44,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=435539"
+        },
+        {
+            "mal_id": 5,
+            "url": "https://myanimelist.net/anime/1471/City_Hunter_2/episode/5",
+            "title": "A Mischievous Mokkori Detective?! A Beautiful Writer's Mystery Game",
+            "title_japanese": "モッコリ迷探偵!? 美人作家の推理ゲーム",
+            "title_romanji": "Mokkori Meitantei!? Bijin Sakka no Suiri Game ",
+            "aired": "1988-05-06T00:00:00+00:00",
+            "score": 4.2,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=564185"
+        },
+        {
+            "mal_id": 6,
+            "url": "https://myanimelist.net/anime/1471/City_Hunter_2/episode/6",
+            "title": "Ryo's a Nude Model?! The Beautiful Artist Who Stole a Masterpiece",
+            "title_japanese": "獠がヌードﾓﾃﾞﾙ!? 名画を盗んだ美人画家",
+            "title_romanji": "Ryou ga Nude Model!? Meiga wo Nusunda Bijin Gaka ",
+            "aired": "1988-05-13T00:00:00+00:00",
+            "score": 4.14,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=564187"
+        },
+        {
+            "mal_id": 7,
+            "url": "https://myanimelist.net/anime/1471/City_Hunter_2/episode/7",
+            "title": "Tropical Island Assignment - The Coconut Gal's Love Paradise",
+            "title_japanese": "南の島からの依頼 ココナツ娘と愛の楽園",
+            "title_romanji": "Minami no Shima kara no Irai - Coconut Musume to Ai no Rakuen ",
+            "aired": "1988-05-20T00:00:00+00:00",
+            "score": 4.29,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=615807"
+        },
+        {
+            "mal_id": 8,
+            "url": "https://myanimelist.net/anime/1471/City_Hunter_2/episode/8",
+            "title": "A Dangerous Detective Before You Know It - Welcome to Tokyo, Father!",
+            "title_japanese": "気がつけば危ない刑事 東京だよ お父つぁん!",
+            "title_romanji": "Ki ga Tsukeba Abunai Deka - Tokyo da yo otottsan! ",
+            "aired": "1988-05-27T00:00:00+00:00",
+            "score": 4.39,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=615811"
+        },
+        {
+            "mal_id": 9,
+            "url": "https://myanimelist.net/anime/1471/City_Hunter_2/episode/9",
+            "title": "Moving Violation in Love ! Ryo and the Beautiful Motorcycle Cop",
+            "title_japanese": "恋の速度違反! 白バイ美人と手錠で交際",
+            "title_romanji": "Koi no Speed Ihan! Shirobai Bijin to Tejou de Kousai ",
+            "aired": "1988-06-03T00:00:00+00:00",
+            "score": 4.44,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=619875"
+        },
+        {
+            "mal_id": 10,
+            "url": "https://myanimelist.net/anime/1471/City_Hunter_2/episode/10",
+            "title": "Mokkori killer? The princess's noble aura (Part 1)",
+            "title_japanese": "前編)",
+            "title_romanji": "Mokkorigoroshi!? Oujo no Kouki na Aura (Zenpen) (モッコリ殺し!? 王女の高貴なオーラ ",
+            "aired": "1988-06-10T00:00:00+00:00",
+            "score": 4.13,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=620953"
+        },
+        {
+            "mal_id": 11,
+            "url": "https://myanimelist.net/anime/1471/City_Hunter_2/episode/11",
+            "title": "Mokkori killer? The princess`s noble aura: Episode 2",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": "1988-06-17T00:00:00+00:00",
+            "score": 4.5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=620957"
+        },
+        {
+            "mal_id": 12,
+            "url": "https://myanimelist.net/anime/1471/City_Hunter_2/episode/12",
+            "title": "Must be the bloody battle outside the ring! Love cobra twist",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": "1988-06-24T00:00:00+00:00",
+            "score": 4.27,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=621465"
+        },
+        {
+            "mal_id": 13,
+            "url": "https://myanimelist.net/anime/1471/City_Hunter_2/episode/13",
+            "title": "The most advanced smuggling maneuver! Treatment by a beautiful dentist",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": "1988-07-01T00:00:00+00:00",
+            "score": 4.44,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=621471"
+        },
+        {
+            "mal_id": 14,
+            "url": "https://myanimelist.net/anime/1471/City_Hunter_2/episode/14",
+            "title": "Love can be superior to money? Mokkori vs saving girl",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": "1988-07-08T00:00:00+00:00",
+            "score": 4.21,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=628569"
+        },
+        {
+            "mal_id": 15,
+            "url": "https://myanimelist.net/anime/1471/City_Hunter_2/episode/15",
+            "title": "Don't die Falcon! Magnum with love & revenge (Part 1)",
+            "title_japanese": "前編)",
+            "title_romanji": "Shinuna! Umibouzu!! Ai to Fukushuu no Magnum (Zenpen) (死ぬな! 海坊主!! 愛と復讐のマグナム ",
+            "aired": "1988-07-15T00:00:00+00:00",
+            "score": 4.45,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1757138"
+        },
+        {
+            "mal_id": 16,
+            "url": "https://myanimelist.net/anime/1471/City_Hunter_2/episode/16",
+            "title": "Don't die Falcon! Magnum with love & revenge (Part 2)",
+            "title_japanese": "後編)",
+            "title_romanji": "Shinuna! Umibouzu!! Ai to Fukushuu no Magnum (Kouhen) (死ぬな! 海坊主!! 愛と復讐のマグナム ",
+            "aired": "1988-07-22T00:00:00+00:00",
+            "score": 4.67,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1757280"
+        },
+        {
+            "mal_id": 17,
+            "url": "https://myanimelist.net/anime/1471/City_Hunter_2/episode/17",
+            "title": "The Applicant Wants to Be a Traditional Japanese Woman?! Mokkori Can Overcome National Boundaries (Part 1)",
+            "title_japanese": "前編)",
+            "title_romanji": "Yamato Nadeshiko Shigan!? Mokkori wa Kokkyou wo Koete (Zenpen) (大和撫子志願!? モッコリは国境を越えて ",
+            "aired": "1988-07-29T00:00:00+00:00",
+            "score": 4.36,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1757365"
+        },
+        {
+            "mal_id": 18,
+            "url": "https://myanimelist.net/anime/1471/City_Hunter_2/episode/18",
+            "title": "The Applicant Wants to Be a Traditional Japanese Woman?! Mokkori Can Overcome National Boundaries (Part 2)",
+            "title_japanese": "後編)",
+            "title_romanji": "Yamato Nadeshiko Shigan!? Mokkori wa Kokkyou wo Koete (Kouhen) (大和撫子志願!? モッコリは国境を越えて ",
+            "aired": "1988-07-29T00:00:00+00:00",
+            "score": 4.31,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1757368"
+        },
+        {
+            "mal_id": 19,
+            "url": "https://myanimelist.net/anime/1471/City_Hunter_2/episode/19",
+            "title": "Kaori Takes a Great Active Role! Cheers with the Memorial Wine",
+            "title_japanese": "香ちゃん大活躍!! 思い出のワインで乾杯",
+            "title_romanji": "Kaori-chan Daikatsuyaku!! Omoide no Wine de Kanpai ",
+            "aired": "1988-08-12T00:00:00+00:00",
+            "score": 4.42,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1758156"
+        },
+        {
+            "mal_id": 20,
+            "url": "https://myanimelist.net/anime/1471/City_Hunter_2/episode/20",
+            "title": "Kaori Gets Amnesia! Goodbye, My Lovely Partner",
+            "title_japanese": "香が記憶喪失!! さらば愛しきパートナー",
+            "title_romanji": "Kaori ga Kiokusoushitsu!! Saraba Itoshiki Partner ",
+            "aired": "1988-08-19T00:00:00+00:00",
+            "score": 4.65,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1352473"
+        },
+        {
+            "mal_id": 21,
+            "url": "https://myanimelist.net/anime/1471/City_Hunter_2/episode/21",
+            "title": "Aim for the Gold Medal!! Intimate Training for the Shooting Beauty",
+            "title_japanese": "めざせ金メダル!! 射撃美人に密着指導",
+            "title_romanji": "Mezase Kin Medal!! Shageki Bijin ni Micchaku Shidou ",
+            "aired": "1988-08-19T00:00:00+00:00",
+            "score": 4.33,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1758246"
+        },
+        {
+            "mal_id": 22,
+            "url": "https://myanimelist.net/anime/1471/City_Hunter_2/episode/22",
+            "title": "The Target is Ryo! The Camerawoman Loves Danger! (Part 1)",
+            "title_japanese": "前編)",
+            "title_romanji": "Target wa Ryou! Focus Lady wa Kiken ga Daisuki! (Zenpen) (標的(ターゲット)は獠! 激写美人(フォーカスレディ)は危険が大好き! ",
+            "aired": "1988-09-09T00:00:00+00:00",
+            "score": 4.3,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1758333"
+        },
+        {
+            "mal_id": 23,
+            "url": "https://myanimelist.net/anime/1471/City_Hunter_2/episode/23",
+            "title": "The Target Is Ryo! The Camerawoman Loves Danger (Part 2)",
+            "title_japanese": "後編)",
+            "title_romanji": "Target wa Ryou! Focus Lady wa Kiken ga Daisuki! (Kouhen) (標的(ターゲット)は獠! 激写美人(フォーカスレディ)は危険が大好き! ",
+            "aired": "1988-09-09T00:00:00+00:00",
+            "score": 4.11,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1758360"
+        },
+        {
+            "mal_id": 24,
+            "url": "https://myanimelist.net/anime/1471/City_Hunter_2/episode/24",
+            "title": "The Final Weapon, Sexy Sigh. A Female Ninja Enters the Big City",
+            "title_japanese": "必殺桃色吐息!? 大都会くの一進出物語",
+            "title_romanji": "Hissatsu Momoiro Toiki!? Daitokai Kunoichi Shinshutsu Monogatari ",
+            "aired": "1988-09-16T00:00:00+00:00",
+            "score": 4.3,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1758502"
+        },
+        {
+            "mal_id": 25,
+            "url": "https://myanimelist.net/anime/1471/City_Hunter_2/episode/25",
+            "title": "Targeted Witness! A Dangerous Beauty Dressed Up Like a Man (Part 1)",
+            "title_japanese": "前編)",
+            "title_romanji": "Nerawareta Shounin! Dansou Bijo to Kiken na Futari (Zenpen) (狙われた証人! 男装美女と危険な二人 ",
+            "aired": "1988-09-30T00:00:00+00:00",
+            "score": 4.13,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1758886"
+        },
+        {
+            "mal_id": 26,
+            "url": "https://myanimelist.net/anime/1471/City_Hunter_2/episode/26",
+            "title": "Targeted Witness! A Dangerous Beauty Dressed Up Like a Man (Part 2)",
+            "title_japanese": "後編)",
+            "title_romanji": "Nerawareta Shounin! Dansou Bijo to Kiken na Futari (Kouhen) (狙われた証人! 男装美女と危険な二人 ",
+            "aired": "1988-10-07T00:00:00+00:00",
+            "score": 4.45,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1758931"
+        },
+        {
+            "mal_id": 27,
+            "url": "https://myanimelist.net/anime/1471/City_Hunter_2/episode/27",
+            "title": "Makimura's message. Memories are forever (Part 1)",
+            "title_japanese": "前編)",
+            "title_romanji": "Makimura kara no Message - Omoide wa Eien ni (Zenpen) (槇村からのメッセージ 思い出は永遠に ",
+            "aired": "1988-10-14T00:00:00+00:00",
+            "score": 4.23,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1759076"
+        },
+        {
+            "mal_id": 28,
+            "url": "https://myanimelist.net/anime/1471/City_Hunter_2/episode/28",
+            "title": "Makimura's message. Memories are forever (Part 2)",
+            "title_japanese": "後編)",
+            "title_romanji": "Makimura kara no Message - Omoide wa Eien ni (Kouhen) (槇村からのメッセージ 思い出は永遠に ",
+            "aired": "1988-10-21T00:00:00+00:00",
+            "score": 4.67,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1759138"
+        },
+        {
+            "mal_id": 29,
+            "url": "https://myanimelist.net/anime/1471/City_Hunter_2/episode/29",
+            "title": "Wounded Innocence! A Bullet and an Angel's Prayer",
+            "title_japanese": "傷だらけの純情! 鉄砲玉に天使の祈り",
+            "title_romanji": "Kizu Darake no Junjou! Teppoudama ni Tenshi no Inori ",
+            "aired": "1988-10-28T00:00:00+00:00",
+            "score": 4.11,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1759296"
+        },
+        {
+            "mal_id": 30,
+            "url": "https://myanimelist.net/anime/1471/City_Hunter_2/episode/30",
+            "title": "Ryo, Please be Deceived. Present to a Girl from Saeko",
+            "title_japanese": "獠だまされてね! 少女に冴子の贈り物",
+            "title_romanji": "Ryou Damasaretene! Shoujo ni Saeko no Okurimono ",
+            "aired": "1988-11-04T00:00:00+00:00",
+            "score": 4.58,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1759351"
+        },
+        {
+            "mal_id": 31,
+            "url": "https://myanimelist.net/anime/1471/City_Hunter_2/episode/31",
+            "title": "So Long, My Friend. The Last Shot Echoing in My Heart (Part 1)",
+            "title_japanese": "前編)",
+            "title_romanji": "Saraba Tomo yo... Kokoro ni Hibiku Last Shot (Zenpen) (さらば友よ... 心に響く最後の銃声(ラスト・ショット) ",
+            "aired": "1988-11-11T00:00:00+00:00",
+            "score": 4.5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1759442"
+        },
+        {
+            "mal_id": 32,
+            "url": "https://myanimelist.net/anime/1471/City_Hunter_2/episode/32",
+            "title": "So Long, My Friend. The Last Shot Echoing in My Heart (Part 2)",
+            "title_japanese": "後編)",
+            "title_romanji": "Saraba Tomo yo... Kokoro ni Hibiku Last Shot (Kouhen) (さらば友よ... 心に響く最後の銃声(ラスト・ショット) ",
+            "aired": "1988-11-18T00:00:00+00:00",
+            "score": 4.38,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1759524"
+        },
+        {
+            "mal_id": 33,
+            "url": "https://myanimelist.net/anime/1471/City_Hunter_2/episode/33",
+            "title": "Mokkori Contract! The Strange Journey of Ryo & a Bad Girl (Part 1)",
+            "title_japanese": "前編)",
+            "title_romanji": "Mokkori Keiyaku Seiritsu! Ryou to Furyou Musume no Chindouchuu (Zenpen) (モッコリ契約成立! 獠と不良娘の珍道中 ",
+            "aired": "1988-11-25T00:00:00+00:00",
+            "score": 4.33,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1759543"
+        },
+        {
+            "mal_id": 34,
+            "url": "https://myanimelist.net/anime/1471/City_Hunter_2/episode/34",
+            "title": "Mokkori Contract! The Strange Journey of Ryo & a Bad Girl (Part 2)",
+            "title_japanese": "後編)",
+            "title_romanji": "Mokkori Keiyaku Seiritsu! Ryou to Furyou Musume no Chindouchuu (Kouhen) (モッコリ契約成立! 獠と不良娘の珍道中 ",
+            "aired": "1988-12-02T00:00:00+00:00",
+            "score": 4.33,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1307359"
+        },
+        {
+            "mal_id": 35,
+            "url": "https://myanimelist.net/anime/1471/City_Hunter_2/episode/35",
+            "title": "Ryo is an Instructor. Extreme Mokkori Tactics",
+            "title_japanese": "獠はインストラクター 究極のモッコリ戦法",
+            "title_romanji": "Ryou wa Instructor - Kyuukyoku no Mokkori Senpou ",
+            "aired": "1988-12-09T00:00:00+00:00",
+            "score": 4.31,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1759843"
+        },
+        {
+            "mal_id": 36,
+            "url": "https://myanimelist.net/anime/1471/City_Hunter_2/episode/36",
+            "title": "Ryo is a Gourmet. Nice PR for the Soba Noodle Beauty",
+            "title_japanese": "獠は美味しんぼ! そば打ち美人に粋なPR",
+            "title_romanji": "Ryou wa Oishinbo! Soba Uchi Bijin ni Iki na PR ",
+            "aired": "1988-12-16T00:00:00+00:00",
+            "score": 4.63,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1759845"
+        },
+        {
+            "mal_id": 37,
+            "url": "https://myanimelist.net/anime/1471/City_Hunter_2/episode/37",
+            "title": "To Kaori From Ryo, With Love at Christmas (Part 1)",
+            "title_japanese": "前編)",
+            "title_romanji": "Ryou ga Kaori ni... Christmas ni Ai wo Komete (Zenpen) (獠が香に... クリスマスに愛をこめて ",
+            "aired": "1988-12-23T00:00:00+00:00",
+            "score": 4.18,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1759866"
+        },
+        {
+            "mal_id": 38,
+            "url": "https://myanimelist.net/anime/1471/City_Hunter_2/episode/38",
+            "title": "To Kaori From Ryo, With Love at Christmas (Part 2)",
+            "title_japanese": "後編)",
+            "title_romanji": "Ryou ga Kaori ni... Christmas ni Ai wo Komete (Kouhen) (獠が香に... クリスマスに愛をこめて ",
+            "aired": "1988-12-28T00:00:00+00:00",
+            "score": 4.46,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1759919"
+        },
+        {
+            "mal_id": 39,
+            "url": "https://myanimelist.net/anime/1471/City_Hunter_2/episode/39",
+            "title": "Umi-chan's a lady killer! A challenge from the lovely sweeper, Miki (Part 1)",
+            "title_japanese": "前編)",
+            "title_romanji": "Umi-chan Irootoko! Bijin Sweeper Miki ga Nikupaku (Zenpen) (海ちゃん色男! 美人スイーパー美樹が肉迫 ",
+            "aired": "1989-01-20T00:00:00+00:00",
+            "score": 4.46,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1760095"
+        },
+        {
+            "mal_id": 40,
+            "url": "https://myanimelist.net/anime/1471/City_Hunter_2/episode/40",
+            "title": "Umi-chan's a lady killer! A challenge from the lovely sweeper, Miki (Part 2)",
+            "title_japanese": "後編)",
+            "title_romanji": "Umi-chan Irootoko! Bijin Sweeper Miki ga Nikupaku (Kouhen) (海ちゃん色男! 美人スイーパー美樹が肉迫 ",
+            "aired": "1989-01-27T00:00:00+00:00",
+            "score": 4.58,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1760096"
+        },
+        {
+            "mal_id": 41,
+            "url": "https://myanimelist.net/anime/1471/City_Hunter_2/episode/41",
+            "title": "Mokkori Everywhere! Ryo's Mind and an Esper Girl (Part 1)",
+            "title_japanese": "前編)",
+            "title_romanji": "Mokkori darake! Ryou no Kokoro to Esper Shoujo (Zenpen) (モッコリだらけ! 獠の心と超能力[エスパー]少女 ",
+            "aired": "1989-02-03T00:00:00+00:00",
+            "score": 4.63,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1760738"
+        },
+        {
+            "mal_id": 42,
+            "url": "https://myanimelist.net/anime/1471/City_Hunter_2/episode/42",
+            "title": "Mokkori Everywhere! Ryo's Mind and an Esper Girl (Part 2)",
+            "title_japanese": "後編)",
+            "title_romanji": "Mokkori darake! Ryou no Kokoro to Esper Shoujo (Kouhen) (モッコリだらけ! 獠の心と超能力[エスパー]少女 ",
+            "aired": "1989-02-10T00:00:00+00:00",
+            "score": 4.4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1760740"
+        },
+        {
+            "mal_id": 43,
+            "url": "https://myanimelist.net/anime/1471/City_Hunter_2/episode/43",
+            "title": "Ryo is the Love Thief! Hidden Love Affair Behind the Magic Mirror (Part 1)",
+            "title_japanese": "前編)",
+            "title_romanji": "Ryou wa Koidorobou! Makyou ni Himeta Ai no Yukue (Zenpen) (獠は恋泥棒! 魔鏡に秘めた愛の行方 ",
+            "aired": "1989-02-17T00:00:00+00:00",
+            "score": 4.33,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1760748"
+        },
+        {
+            "mal_id": 44,
+            "url": "https://myanimelist.net/anime/1471/City_Hunter_2/episode/44",
+            "title": "Ryo is the Love Thief! Hidden Love Affair Behind the Magic Mirror (Part 2)",
+            "title_japanese": "後編)",
+            "title_romanji": "Ryou wa Koidorobou! Makyou ni Himeta Ai no Yukue (Kouhen) (獠は恋泥棒! 魔鏡に秘めた愛の行方 ",
+            "aired": "1989-02-23T00:00:00+00:00",
+            "score": 4.47,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1331481"
+        },
+        {
+            "mal_id": 45,
+            "url": "https://myanimelist.net/anime/1471/City_Hunter_2/episode/45",
+            "title": "Nineteen Year-Old Widow! Lover in the Heart of a Beautiful Sketch Artist (Part 1)",
+            "title_japanese": "前編)",
+            "title_romanji": "19-sai no Miboujin! Sketch Bijin ni Kokoro no Koibito (Zenpen) (19歳の未亡人! スケッチ美人に心の恋人 ",
+            "aired": "1989-03-03T00:00:00+00:00",
+            "score": 3.88,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1761133"
+        },
+        {
+            "mal_id": 46,
+            "url": "https://myanimelist.net/anime/1471/City_Hunter_2/episode/46",
+            "title": "Nineteen Year-Old Widow! Lover in the Heart of a Beautiful Sketch Artist: Episode 2",
+            "title_japanese": "後編)",
+            "title_romanji": "19-sai no Miboujin! Sketch Bijin ni Kokoro no Koibito (Kouhen) (19歳の未亡人! スケッチ美人に心の恋人 ",
+            "aired": "1989-03-10T00:00:00+00:00",
+            "score": 4.4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1761134"
+        },
+        {
+            "mal_id": 47,
+            "url": "https://myanimelist.net/anime/1471/City_Hunter_2/episode/47",
+            "title": "Wanting to Fall in Love Just Like a Dream. The Strategy of a Twelve Year-Old Angel (Part 1)",
+            "title_japanese": "前編)",
+            "title_romanji": "Yume Miru You ni Koishitai, 12-sai Tenshi no Sakusen (Zenpen) (夢みるように恋したい 12歳天使の作戦",
+            "aired": "1989-03-17T00:00:00+00:00",
+            "score": 4.85,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1761136"
+        },
+        {
+            "mal_id": 48,
+            "url": "https://myanimelist.net/anime/1471/City_Hunter_2/episode/48",
+            "title": "Wanting to Fall in Love Just Like a Dream. The Strategy of a Twelve Year-Old Angel (Part 2)",
+            "title_japanese": "後編)",
+            "title_romanji": "Yume Miru You ni Koishitai, 12-sai Tenshi no Sakusen (Kouhen) (夢みるように恋したい 12歳天使の作戦",
+            "aired": "1989-03-24T00:00:00+00:00",
+            "score": 4.83,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1761137"
+        },
+        {
+            "mal_id": 49,
+            "url": "https://myanimelist.net/anime/1471/City_Hunter_2/episode/49",
+            "title": "Farewell, hard-boiled city (Part 1)",
+            "title_japanese": "前編)",
+            "title_romanji": "Saraba Hard-boiled City (Zenpen) (さらばハードボイルド・シティー ",
+            "aired": "1989-03-31T00:00:00+00:00",
+            "score": 4.15,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1762076"
+        },
+        {
+            "mal_id": 50,
+            "url": "https://myanimelist.net/anime/1471/City_Hunter_2/episode/50",
+            "title": "Farewell, hard-boiled city (Part 2)",
+            "title_japanese": "後編)",
+            "title_romanji": "Saraba Hard-boiled City (Kouhen) (さらばハードボイルド・シティー ",
+            "aired": "1989-04-07T00:00:00+00:00",
+            "score": 4.68,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=651689"
+        },
+        {
+            "mal_id": 51,
+            "url": "https://myanimelist.net/anime/1471/City_Hunter_2/episode/51",
+            "title": "Crystal Prophecy! Chains of Memory Reviving in Kaori",
+            "title_japanese": "水晶の予言! 香によみがえる記憶の鎖",
+            "title_romanji": "Suishou no Kanegoto! Kaori ni Yomigaeru Kioku no Kusari ",
+            "aired": "1989-04-14T00:00:00+00:00",
+            "score": 3.85,
+            "filler": false,
+            "recap": true,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1334399"
+        },
+        {
+            "mal_id": 52,
+            "url": "https://myanimelist.net/anime/1471/City_Hunter_2/episode/52",
+            "title": "Reunion After Twenty Years! Please Look After My Sister, Mr. Saeba (Part 1)",
+            "title_japanese": "前編)",
+            "title_romanji": "20-nenme no Saiaki! Saeba-san Imouto wo Yoroshiku (Zenpen) (20年目の再会! 冴羽さん妹をよろしく ",
+            "aired": "1989-04-21T00:00:00+00:00",
+            "score": 4.56,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1762079"
+        },
+        {
+            "mal_id": 53,
+            "url": "https://myanimelist.net/anime/1471/City_Hunter_2/episode/53",
+            "title": "Reunion After Twenty Years! Please Look After My Sister, Mr. Saeba (Part 2)",
+            "title_japanese": "後編)",
+            "title_romanji": "20-nenme no Saiaki! Saeba-san Imouto wo Yoroshiku (Kouhen) (20年目の再会! 冴羽さん妹をよろしく ",
+            "aired": "1989-04-28T00:00:00+00:00",
+            "score": 4.69,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1762082"
+        },
+        {
+            "mal_id": 54,
+            "url": "https://myanimelist.net/anime/1471/City_Hunter_2/episode/54",
+            "title": "Proposal From a Seventeen Year-Old. Suspicious Date Panic (Part 1)",
+            "title_japanese": "前編)",
+            "title_romanji": "17-sai no Proposal, Giwaku no Date Panic (Zenpen) (17歳のプロポーズ 疑惑のデートパニック ",
+            "aired": "1989-05-05T00:00:00+00:00",
+            "score": 4.25,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1762174"
+        },
+        {
+            "mal_id": 55,
+            "url": "https://myanimelist.net/anime/1471/City_Hunter_2/episode/55",
+            "title": "Proposal From a Seventeen Year-Old. Suspicious Date Panic (Part 2)",
+            "title_japanese": "後編)",
+            "title_romanji": "17-sai no Proposal, Giwaku no Date Panic (Kouhen) (17歳のプロポーズ 疑惑のデートパニック ",
+            "aired": "1989-05-12T00:00:00+00:00",
+            "score": 4.3,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1762346"
+        },
+        {
+            "mal_id": 56,
+            "url": "https://myanimelist.net/anime/1471/City_Hunter_2/episode/56",
+            "title": "Shinjuku success legend. The neighbor is a beautiful dancer (Part 1)",
+            "title_japanese": "前編)",
+            "title_romanji": "Shinjuku Success Monogatari, Otonari-san wa Bijin Dancer (Zenpen) (新宿サクセス物語 お隣さんは美人ダンサー ",
+            "aired": "1989-05-19T00:00:00+00:00",
+            "score": 3.78,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1762348"
+        },
+        {
+            "mal_id": 57,
+            "url": "https://myanimelist.net/anime/1471/City_Hunter_2/episode/57",
+            "title": "Shinjuku success legend. The neighbor is a beautiful dancer (Part 2)",
+            "title_japanese": "後編)",
+            "title_romanji": "Shinjuku Success Monogatari, Otonari-san wa Bijin Dancer (Kouhen) (新宿サクセス物語 お隣さんは美人ダンサー ",
+            "aired": "1989-05-26T00:00:00+00:00",
+            "score": 3.91,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1762349"
+        },
+        {
+            "mal_id": 58,
+            "url": "https://myanimelist.net/anime/1471/City_Hunter_2/episode/58",
+            "title": "Ryo's Spartan training! The bratty Prince's growing harem (Part 1)",
+            "title_japanese": "前編)",
+            "title_romanji": "Ryo no Spartan Kyouiku! Harem Sodachi no Aku Gaki Ouji (Zenpen) (リョウのスパルタ教育! ハーレム育ちの悪ガキ王子 ",
+            "aired": "1989-06-02T00:00:00+00:00",
+            "score": 2.69,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1762859"
+        },
+        {
+            "mal_id": 59,
+            "url": "https://myanimelist.net/anime/1471/City_Hunter_2/episode/59",
+            "title": "Ryo's Spartan training! The bratty Prince's growing harem (Part 2)",
+            "title_japanese": "後編)",
+            "title_romanji": "Ryo no Spartan Kyouiku! Harem Sodachi no Aku Gaki Ouji (Kouhen) (リョウのスパルタ教育! ハーレム育ちの悪ガキ王子 ",
+            "aired": "1989-06-09T00:00:00+00:00",
+            "score": 3.56,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1762920"
+        },
+        {
+            "mal_id": 60,
+            "url": "https://myanimelist.net/anime/1471/City_Hunter_2/episode/60",
+            "title": "Love is magic. Miss Magician with a male phobia",
+            "title_japanese": "恋は魔法 ミスマジシャンは男性恐怖症",
+            "title_romanji": "Koi wa Mahou, Miss Magician wa Dansei Kyoufushou ",
+            "aired": "1989-06-23T00:00:00+00:00",
+            "score": 4.5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1763211"
+        },
+        {
+            "mal_id": 61,
+            "url": "https://myanimelist.net/anime/1471/City_Hunter_2/episode/61",
+            "title": "Good luck my sweeper. City streets for us both (Part 1)",
+            "title_japanese": "前編)",
+            "title_romanji": "Good Luck My Sweeper, Futari no City Street (Zenpen) (グッドラック マイ スイーパー 二人のシティストリート ",
+            "aired": "1989-06-30T00:00:00+00:00",
+            "score": 4.45,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1763391"
+        },
+        {
+            "mal_id": 62,
+            "url": "https://myanimelist.net/anime/1471/City_Hunter_2/episode/62",
+            "title": "Good luck my sweeper. City streets for us both (Part 2)",
+            "title_japanese": "中編)",
+            "title_romanji": "Good Luck My Sweeper, Futari no City Street (Chuuhen) (グッドラック マイ スイーパー 二人のシティストリート ",
+            "aired": "1989-07-07T00:00:00+00:00",
+            "score": 4.4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1763568"
+        },
+        {
+            "mal_id": 63,
+            "url": "https://myanimelist.net/anime/1471/City_Hunter_2/episode/63",
+            "title": "Good luck my sweeper. City streets for us both (Part 3)",
+            "title_japanese": "後編)",
+            "title_romanji": "Good Luck My Sweeper, Futari no City Street (Kouhen) (グッドラック マイ スイーパー 二人のシティストリート ",
+            "aired": "1989-07-14T00:00:00+00:00",
+            "score": 4.5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=565517"
+        }
+    ]
+}

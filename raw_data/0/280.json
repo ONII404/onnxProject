@@ -1,0 +1,818 @@
+{
+    "id": 280,
+    "fetched_at": "Sun Dec 14 12:54:21 2025",
+    "metadata": {
+        "mal_id": 280,
+        "url": "https://myanimelist.net/anime/280/Animal_Yokochou",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1393/147234.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1393/147234t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1393/147234l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1393/147234.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1393/147234t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1393/147234l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Animal Yokochou"
+            },
+            {
+                "type": "Japanese",
+                "title": "アニマル横町"
+            },
+            {
+                "type": "English",
+                "title": "Animal Lane"
+            }
+        ],
+        "title": "Animal Yokochou",
+        "title_english": "Animal Lane",
+        "title_japanese": "アニマル横町",
+        "title_synonyms": [],
+        "type": "TV",
+        "source": "Manga",
+        "episodes": 51,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "2005-10-04T00:00:00+00:00",
+            "to": "2006-09-26T00:00:00+00:00",
+            "prop": {
+                "from": {
+                    "day": 4,
+                    "month": 10,
+                    "year": 2005
+                },
+                "to": {
+                    "day": 26,
+                    "month": 9,
+                    "year": 2006
+                }
+            },
+            "string": "Oct 4, 2005 to Sep 26, 2006"
+        },
+        "duration": "23 min per ep",
+        "rating": "G - All Ages",
+        "score": 7.02,
+        "scored_by": 1425,
+        "rank": 4427,
+        "popularity": 10109,
+        "members": 3939,
+        "favorites": 15,
+        "synopsis": "On the first day her family moved to their new house, 5-year-old Ami-chan made friends with three talking animals who came out of a door in her bedroom floor, which she finds out leads to Animal Yokocho, another world. The three are Issa, an overly innocent, soft-spoken panda, Kenta, a highly strung, red-scarf-loving bear who puts on an almost constant tough-guy act, and Iyo, a rabbit who usually holds her own well-being and enjoyment over the happiness (and safety) of her friends. Even at only 5 years old, Ami-chan is easily the most rational of the group, and she's a little wary at first, but she eventually comes around and starts spending her free time with them. A typical day involves Ami-chan and the three doing different things to pass the time, often playing a seemingly innocent game, but in AniYoko style. Unfortunately for Ami-chan, the AniYoko version usually turns out to be drastically different, much less logical, and usually more dangerous than the ordinary version.\n\n(Source: ANN)",
+        "background": "",
+        "season": "fall",
+        "year": 2005,
+        "broadcast": {
+            "day": "Tuesdays",
+            "time": "18:00",
+            "timezone": "Asia/Tokyo",
+            "string": "Tuesdays at 18:00 (JST)"
+        },
+        "producers": [
+            {
+                "mal_id": 16,
+                "type": "anime",
+                "name": "TV Tokyo",
+                "url": "https://myanimelist.net/anime/producer/16/TV_Tokyo"
+            },
+            {
+                "mal_id": 53,
+                "type": "anime",
+                "name": "Dentsu",
+                "url": "https://myanimelist.net/anime/producer/53/Dentsu"
+            },
+            {
+                "mal_id": 717,
+                "type": "anime",
+                "name": "TV Tokyo Music",
+                "url": "https://myanimelist.net/anime/producer/717/TV_Tokyo_Music"
+            },
+            {
+                "mal_id": 1607,
+                "type": "anime",
+                "name": "Dentsu Tec",
+                "url": "https://myanimelist.net/anime/producer/1607/Dentsu_Tec"
+            },
+            {
+                "mal_id": 2956,
+                "type": "anime",
+                "name": "Geneon Entertainment",
+                "url": "https://myanimelist.net/anime/producer/2956/Geneon_Entertainment"
+            }
+        ],
+        "licensors": [],
+        "studios": [
+            {
+                "mal_id": 36,
+                "type": "anime",
+                "name": "Gallop",
+                "url": "https://myanimelist.net/anime/producer/36/Gallop"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 2,
+                "type": "anime",
+                "name": "Adventure",
+                "url": "https://myanimelist.net/anime/genre/2/Adventure"
+            },
+            {
+                "mal_id": 4,
+                "type": "anime",
+                "name": "Comedy",
+                "url": "https://myanimelist.net/anime/genre/4/Comedy"
+            },
+            {
+                "mal_id": 10,
+                "type": "anime",
+                "name": "Fantasy",
+                "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [],
+        "demographics": [
+            {
+                "mal_id": 25,
+                "type": "anime",
+                "name": "Shoujo",
+                "url": "https://myanimelist.net/anime/genre/25/Shoujo"
+            }
+        ],
+        "relations": [
+            {
+                "relation": "Adaptation",
+                "entry": [
+                    {
+                        "mal_id": 4096,
+                        "type": "manga",
+                        "name": "Animal Yokochou",
+                        "url": "https://myanimelist.net/manga/4096/Animal_Yokochou"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [
+                "1: \"Tondemo Nothing ~Doki☆Doki Animal Yokocho no Uta no Maki~\" by Ami with Iyo, Kenta, Issa",
+                "2: \"Love chu You!!\" by Ribbon Girl"
+            ],
+            "endings": [
+                "1: \"Fantasista Girl\" by the Indigo",
+                "2: \"Sweetie\" by Fumiko Orikasa"
+            ]
+        },
+        "external": [
+            {
+                "name": "Official Site",
+                "url": "http://www.tv-tokyo.co.jp/anime/aniyoko/"
+            },
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=3562"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=5793"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "http://en.wikipedia.org/wiki/Animal_Yokochou"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": [
+        {
+            "mal_id": 1,
+            "url": null,
+            "title": "Doki☆Doki Volume: A new friend / Doki☆Doki Volume: The door has opened",
+            "title_japanese": "どき☆どき 新しいお友達の巻 / どき☆どき 扉を開くの巻",
+            "title_romanji": "Dokidoki Atarashii Otomodachi no Maki / Dokidoki Tobira wo Hiraku no Maki ",
+            "aired": "2005-10-04T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 2,
+            "url": null,
+            "title": "Doki☆Doki Volume: Let's bake a cake / Doki☆Doki Volume: Let's do our homework",
+            "title_japanese": "ケーキを作るぞの巻 / 宿題スルンジャーの巻",
+            "title_romanji": "Dokidoki Cake wo Tsukuruzo no Maki / Dokidoki Shukudai Surunjaa no Maki ",
+            "aired": "2005-10-11T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 3,
+            "url": null,
+            "title": "Doki☆Doki Volume: Puzzled punch / Doki☆Doki Volume: Dark pan",
+            "title_japanese": "パズルでパンチ！の巻 / やみなべパーチーの巻",
+            "title_romanji": "Dokidoki Puzzle de Punch! no Maki / Dokidoki Yaminabe Party no Maki ",
+            "aired": "2005-10-18T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 4,
+            "url": null,
+            "title": "Doki☆Doki Volume: Catalog shopping / Doki☆Doki Volume: Catching a cold",
+            "title_japanese": "どき☆どき カタログショッピングの巻 / どき☆どき カゼっぴきの巻",
+            "title_romanji": "Dokidoki Catalog Shopping no Maki / Dokidoki Kazeppiki no Maki ",
+            "aired": "2005-10-25T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 5,
+            "url": null,
+            "title": "Doki☆Doki Volume: Secret diet / Doki☆Doki Volume: Fan letter",
+            "title_japanese": "どき☆どき マル秘ダイエットの巻 / どき☆どき ファンレターの巻",
+            "title_romanji": "Doki Doki Maruhi Diet no Maki / Doki Doki Fan Letter no Maki ",
+            "aired": "2005-11-01T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 6,
+            "url": null,
+            "title": "Doki☆Doki Volume: The Divine Paradise / Doki☆Doki Volume: A Big Argument",
+            "title_japanese": "どき☆どき 占いパラダイスの巻 / どき☆どき 大げんかの巻",
+            "title_romanji": "Dokidoki Uranai Paradise no Maki / Dokidoki Oogenka no Maki ",
+            "aired": "2005-11-08T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 7,
+            "url": null,
+            "title": "Doki☆Doki Volume:The Muffler Story / Doki☆Doki Volume: Iyo's Event!",
+            "title_japanese": "どき☆どき マフラー物語の巻 / どき☆どき イヨさん事件です！の巻",
+            "title_romanji": "Dokidoki Muffler Monogatari no Maki / Dokidoki Iyo-san Jiken Desu! no Maki ",
+            "aired": "2005-11-15T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 8,
+            "url": null,
+            "title": "Doki☆Doki Volume: The Crowded Road / Doki☆Doki Volume: AniYoko Shiritori",
+            "title_japanese": "どき☆どき 突っ込み道の巻 /どき☆どき アニヨコシリトリの巻",
+            "title_romanji": "Dokidoki Tsukkomi Dou no Maki / Dokidoki AniYoko Shiritori no Maki ",
+            "aired": "2005-11-22T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 9,
+            "url": null,
+            "title": "Doki☆Doki Volume: Playing Cards / Doki☆Doki Volume: Autumn's Terror",
+            "title_japanese": "どき☆どき トランプの巻 / どき☆どき 恐怖の秋の巻",
+            "title_romanji": "Dokidoki Trump no Maki / Dokidoki Kyoufu no Aki no Maki ",
+            "aired": "2005-11-29T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 10,
+            "url": null,
+            "title": "Doki☆Doki Volume: Exchange of Diaries / Doki☆Doki Volume: Murder of Yamanami-san",
+            "title_japanese": "どき☆どき 交換日記の巻 / どき☆どき ヤマナミさん殺人事件の巻",
+            "title_romanji": "Dokidoki Koukan Nikki no Maki / Dokidoki Yamanami-san Satsujin Jiken no Maki ",
+            "aired": "2005-12-06T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 11,
+            "url": null,
+            "title": "Doki☆Doki Volume: It's my Birthday / Doki☆Doki Volume: Snowball Fight",
+            "title_japanese": "どき☆どき バースデーなのだの巻 / どき☆どき 雪合戦の巻",
+            "title_romanji": "Dokidoki Birthday Nanoda no Maki / Dokidoki Yukigassen no Maki ",
+            "aired": "2005-12-13T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 12,
+            "url": null,
+            "title": "Doki☆Doki Volume: Christmas / Doki☆Doki Volume: Tactics to battle against Unsleepiness",
+            "title_japanese": "どき☆どき クリスマスの巻 / どき☆どき 不眠対策の巻",
+            "title_romanji": "Dokidoki Christmas no Maki / Dokidoki Fumin Taisaku no Maki ",
+            "aired": "2005-12-20T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 13,
+            "url": null,
+            "title": "Doki☆Doki Volume: Spring Cleaning / Doki☆Doki Volume: Hotspring",
+            "title_japanese": "どき☆どき 大掃除の巻 / どき☆どき 温泉の巻",
+            "title_romanji": "Dokidoki Daisouji no Maki / Dokidoki Onsen no Maki ",
+            "aired": "2005-12-27T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 14,
+            "url": null,
+            "title": "Doki☆Doki Volume: Everyone's Superb / Doki☆Doki Volume: Watching the House",
+            "title_japanese": "どき☆どき みんなですごろくの巻 / どき☆どき お留守番の巻",
+            "title_romanji": "Dokidoki Minna Desu Goroku no Maki / Dokidoki wo Rusuban no Maki ",
+            "aired": "2006-01-10T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 15,
+            "url": null,
+            "title": "Doki☆Doki Volume: Ku-chan Appears / Doki☆Doki Volume: Truth of Kenta",
+            "title_japanese": "どき☆どき くーちゃん初登場の巻 / どき☆どき ケンタの真実の巻",
+            "title_romanji": "Dokidoki Kuu-chan Hatsu Toujou no Maki / Dokidoki Kenta no Shinjitsu no Maki ",
+            "aired": "2006-01-17T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 16,
+            "url": null,
+            "title": "Doki☆Doki Volume: Yamanami Battle / Doki☆Doki Volume: I have many Interests",
+            "title_japanese": "どき☆どき 虫歯予防の巻 / どき☆どき 趣味いろいろの巻",
+            "title_romanji": "Dokidoki Mushiba Yobou no Maki / Dokidoki Shumi Iroiro no Maki ",
+            "aired": "2006-01-24T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 17,
+            "url": null,
+            "title": "Doki☆Doki Volume: Yamanami Battle / Doki☆Doki Volume: Speech Meet",
+            "title_japanese": "どき☆どき 対ヤマナミ戦の巻 / どき☆どき おはなし発表会の巻",
+            "title_romanji": "Dokidoki Tai Yamanamisen no Maki / Dokidoki wo Hanashi Happyoukai no Maki ",
+            "aired": "2006-01-31T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 18,
+            "url": null,
+            "title": "Doki☆Doki Volume: Eve of the Excursion / Doki☆Doki Volume: Ami's First Love?!",
+            "title_japanese": "どき☆どき 遠足イブの巻 / どき☆どき あみの初恋?!の巻",
+            "title_romanji": "Dokidoki Ensoku Eve no Maki / Dokidoki Ami no Hatsukoi!? no Maki ",
+            "aired": "2006-02-07T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 19,
+            "url": null,
+            "title": "Doki☆Doki Volume: Valentine / Doki☆Doki Volume: Big Discovery",
+            "title_japanese": "どき☆どき バレンタインの巻 / どき☆どき 大発明!?の巻",
+            "title_romanji": "Dokidoki Valentine no Maki / Dokidoki Daihatsumei!? no Maki ",
+            "aired": "2006-02-14T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 20,
+            "url": null,
+            "title": "Doki☆Doki Volume: Rival!? / Doki☆Doki Volume: Adults are...",
+            "title_japanese": "どき☆どき ライバル!? の巻 / どき☆どき オトナって… の巻",
+            "title_romanji": "Dokidoki Rival? no Maki / Dokidoki Otonatte no Maki ",
+            "aired": "2006-02-21T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 21,
+            "url": null,
+            "title": "Doki☆Doki Volume: Video War / Doki☆Doki Volume: Issa's Special Abilities",
+            "title_japanese": "どき☆どき ビデオ大作戦 の巻 / どき☆どき イッサの超能力 の巻",
+            "title_romanji": "Dokidoki Video Daisakusen no Maki / Dokidoki Issa no Chou Nouryoku no Maki ",
+            "aired": "2006-02-28T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 22,
+            "url": null,
+            "title": "Doki☆Doki Volume: Rabbit and Tortoise / Doki☆Doki Volume: Investigation Team",
+            "title_japanese": "どき☆どき うさぎとカメ の巻 / どき☆どき 探検隊 の巻",
+            "title_romanji": "Dokidoki Usagi to Kame no Maki / Dokidoki Tankentai no Maki ",
+            "aired": "2006-03-07T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 23,
+            "url": null,
+            "title": "Doki☆Doki Volume: Mini Mini Big Adventure / Doki☆Doki Volume: Aniyoko Newspaper",
+            "title_japanese": "どき☆どき ミニミニ大冒険 の巻 / どき☆どき アニ横新聞 の巻",
+            "title_romanji": "Dokidoki Minimini Daibouken no Maki / Dokidoki Ani Yoko Shinbun no Maki ",
+            "aired": "2006-03-14T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 24,
+            "url": null,
+            "title": "Doki☆Doki Volume: Invitation / Doki☆Doki Volume: Sports",
+            "title_japanese": "どき☆どき およばれ の巻 / どき☆どき おゆうぎ の巻",
+            "title_romanji": "Dokidoki Oyobare no Maki / Dokidoki Oyuugi no Maki ",
+            "aired": "2006-03-21T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 25,
+            "url": null,
+            "title": "Doki☆Doki Volume: Kindergarten / Doki☆Doki Volume: Issa's ESP",
+            "title_japanese": "どき☆どき 幼稚園 の巻 / どき☆どき イッサの超能力 の巻",
+            "title_romanji": "Dokidoki Youchien no Maki / Dokidoki Masaka? Owakare no Maki ",
+            "aired": "2006-03-28T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 26,
+            "url": null,
+            "title": "Doki☆Doki Volume: Cherry Blossom Viewing / Doki☆Doki Volume: Mr. Aniyoko",
+            "title_japanese": "どき☆どき お花見 の巻 / どき☆どき Mrアニヨコ の巻",
+            "title_romanji": "Dokidoki Ohanami no Maki / Dokidoki Mr. Aniyoko no Maki ",
+            "aired": "2006-04-04T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 27,
+            "url": null,
+            "title": "Doki☆Doki Volume: Earth's Final Day? / Doki☆Doki Volume: Treasure Chest",
+            "title_japanese": "どき☆どき 地球最後の日？の巻 / どき☆どき 玉手箱の巻",
+            "title_romanji": "Dokidoki Chikyuu Saigo no Hi? no Maki / Dokidoki Tamatebako no Maki ",
+            "aired": "2006-04-11T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 28,
+            "url": null,
+            "title": "Doki☆Doki Volume: Space Travel / Doki☆Doki Volume: Issa Runs Away",
+            "title_japanese": "どき☆どき 宇宙旅行の巻 / どき☆どき イッサの家出の巻",
+            "title_romanji": "Dokidoki Uchuu Ryokou no Maki / Dokidoki Issa no Iede no Maki ",
+            "aired": "2006-04-18T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 29,
+            "url": null,
+            "title": "Doki☆Doki Volume: Playing With Clay / Doki☆Doki Volume: Make-Believe Store",
+            "title_japanese": "どき☆どき ねんどあそびの巻 / どき☆どき お店屋さんごっこの巻",
+            "title_romanji": "Dokidoki Nendo Asobi no Maki / Dokidoki Omiseya-san Gokko no Maki ",
+            "aired": "2006-04-25T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 30,
+            "url": null,
+            "title": "Doki☆Doki Volume: Visiting Students / Doki☆Doki Volume: First Bicycle",
+            "title_japanese": "どき☆どき 家庭訪問の巻 / どき☆どき 初めての自転車の巻",
+            "title_romanji": "Dokidoki Katei Houmon no Maki / Dokidoki Hajimete no Jitensha no Maki ",
+            "aired": "2006-05-02T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 31,
+            "url": null,
+            "title": "Doki☆Doki Volume: I Want To Be Cool! / Doki☆Doki Volume: Bishoujo Iyo?",
+            "title_japanese": "どき☆どき オシャレになりたい！の巻 / どき☆どき 美少女イヨ!?の巻",
+            "title_romanji": "Dokidoki Oshare ni Naritai! no Maki / Dokidoki Bishoujo Iyo!? no Maki ",
+            "aired": "2006-05-09T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 32,
+            "url": null,
+            "title": "Doki☆Doki Volume: Manga Road / Doki☆Doki Volume: Sloth",
+            "title_japanese": "どき☆どき まんが道の巻 / どき☆どき なまけものの巻",
+            "title_romanji": "Dokidoki Mangadou no Maki / Dokidoki Namakemono no Maki ",
+            "aired": "2006-05-16T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 33,
+            "url": null,
+            "title": "Doki☆Doki Volume: Crowded Road 2 / Doki☆Doki Volume: Gardening",
+            "title_japanese": "どき☆どき 突っ込み道２の巻 / どき☆どき ガーデニングの巻",
+            "title_romanji": "Dokidoki Tsukkomidou Ni no Maki / Dokidoki Gardening no Maki ",
+            "aired": "2006-05-23T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 34,
+            "url": null,
+            "title": "Doki☆Doki Volume: Night Zoo / Doki☆Doki Volume: Iyo Vs. Iyo",
+            "title_japanese": "どき☆どき 夜の動物園の巻 / どき☆どき イヨVSイヨの巻",
+            "title_romanji": "Dokidoki Yoru no Doubutsuen no Maki / Dokidoki Iyo VS Iyo no Maki ",
+            "aired": "2006-05-30T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 35,
+            "url": null,
+            "title": "Doki☆Doki Volume: Substitution / Doki☆Doki Volume: Iyo Becomes A Spy?",
+            "title_japanese": "どき☆どき いれかわりの巻 / どき☆どき イヨ、スパイになる？の巻",
+            "title_romanji": "Dokidoki Irekawari no Maki / Dokidoki Iyo, Spy ni Naru? no Maki ",
+            "aired": "2006-06-06T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 36,
+            "url": null,
+            "title": "Doki☆Doki Volume: Princess!? / Doki☆Doki Volume: Admired Shimako-san",
+            "title_japanese": "どき☆どき プリンセス!? の巻 / どき☆どき 憧れのシマ子さん の巻",
+            "title_romanji": "Dokidoki Princess!? no Maki / Dokidoki Akogare no Shimako-san no Maki ",
+            "aired": "2006-06-13T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 37,
+            "url": null,
+            "title": "Doki☆Doki Volume: Idol Debut 1 / Doki☆Doki Volume: Idol Debut 2",
+            "title_japanese": "どき☆どき アイドルデビュー の巻 その１ / どき☆どき アイドルデビュー の巻 その２",
+            "title_romanji": "Dokidoki Idol Debut no Maki Sono Ichi / Dokidoko Idol Debut no Maki Sono Ni ",
+            "aired": "2006-06-20T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 38,
+            "url": null,
+            "title": "Doki☆Doki Volume: Magical Girl Ami / Doki☆Doki Volume: Kenta's Younger Brother?",
+            "title_japanese": "どき☆どき 魔法少女あみ の巻 / どき☆どき ケンタの弟？ の巻",
+            "title_romanji": "Dokidoki Mahou Shoujo Ami no Maki / Dokidoki Kenta no Otouto? no Maki ",
+            "aired": "2006-06-27T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 39,
+            "url": null,
+            "title": "Doki☆Doki Volume: A Load Of Issa / Doki☆Doki Volume: Dream Fortune Telling",
+            "title_japanese": "どき☆どき イッサがいっぱい の巻 / どき☆どき 夢うらない の巻",
+            "title_romanji": "Dokidoki Issa ga Ippai no Maki / Dokidoki Yume Uranai no Maki ",
+            "aired": "2006-07-04T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 40,
+            "url": null,
+            "title": "Doki☆Doki Volume: Time Machine / Doki☆Doki Volume: I'll Be Late!",
+            "title_japanese": "どき☆どき タイムマシン の巻 / どき☆どき ちこくしちゃう！ の巻",
+            "title_romanji": "Dokidoki Time Machine no Maki / Dokidoki Chikoku Shichau! no Maki ",
+            "aired": "2006-07-11T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 41,
+            "url": null,
+            "title": "Doki☆Doki Volume: I Want To Be A Regular / Doki☆Doki Volume: Aroma Night",
+            "title_japanese": "どき☆どき レギュラーになりたいの巻 / どき☆どき アロマナイトの巻",
+            "title_romanji": "Dokidoki Regular ni Naritai no Maki / Dokidoki Aroma Knight no Maki ",
+            "aired": "2006-07-18T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 42,
+            "url": null,
+            "title": "Doki☆Doki Volume: The Other Side Of AniYoko / Doki☆Doki Volume: Issa's First Love!?",
+            "title_japanese": "どき☆どき アニ横のウラ側の巻 / どき☆どき イッサの初恋!?の巻",
+            "title_romanji": "Dokidoki Ani Yoko no Uragawa no Maki / Dokidoki Issa no Hatsukoi!? no Maki ",
+            "aired": "2006-07-25T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 43,
+            "url": null,
+            "title": "Doki☆Doki Volume: Midsummer / Doki☆Doki Volume: Wild Kenta",
+            "title_japanese": "どき☆どき 夏まっさかりの巻 / どき☆どき 野生のケンタの巻",
+            "title_romanji": "Dokidoki Natsu Massakari no Maki / Dokidoki Yasei no Kenta no Maki ",
+            "aired": "2006-08-01T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 44,
+            "url": null,
+            "title": "Doki☆Doki Volume: I Want To Watch Anime! / Doki☆Doki Volume: Everyone's Gone?",
+            "title_japanese": "どき☆どき アニメが見たい！の巻 / どき☆どき 誰もいなくなった？の巻",
+            "title_romanji": "Dokidoki Anime ga Mitai! no Maki / Dokidoki Dare mo Inakunatta? no Maki ",
+            "aired": "2006-08-08T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 45,
+            "url": null,
+            "title": "Doki☆Doki Volume: Swaying Yamanami-san!? / Doki☆Doki Volume: Fly! Kenta",
+            "title_japanese": "どき☆どき ゆれるヤマナミさん!?の巻 / どき☆どき 飛べ！ケンタの巻",
+            "title_romanji": "Dokidoki Yureru Yamanami-san!? no Maki / Dokidoki Tobe! Kenta no Maki ",
+            "aired": "2006-08-15T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 46,
+            "url": null,
+            "title": "Doki☆Doki Volume: Fearful Homework / Doki☆Doki Volume: The Mysterious Love Letter",
+            "title_japanese": "どき☆どき 恐怖の宿題の巻 / どき☆どき なぞのラブレターの巻",
+            "title_romanji": "Dokidoki Kyoufu no Shukudai no Maki / Dokidoki Nazo no Loveletter no Maki ",
+            "aired": "2006-08-22T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 47,
+            "url": null,
+            "title": "Doki☆Doki Volume: Gishiki-warashi / Doki☆Doki Volume: Run, Macchi!",
+            "title_japanese": "どき☆どき ざしきわらしの巻 / どき☆どき 逃げろマッチ！の巻",
+            "title_romanji": "Dokidoki Zashikiwarashi? no Maki / Dokidoki ni Nigero Macchi! no Maki ",
+            "aired": "2006-08-29T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 48,
+            "url": null,
+            "title": "Doki☆Doki Volume: Farewell, Shimako-san / Doki☆Doki Volume: Love-Love?",
+            "title_japanese": "どき☆どき さよならシマ子さんの巻 / どき☆どき ラブラブ？の巻",
+            "title_romanji": "Dokidoki Sayonara Shimako-san no Maki / Dokidoku Lovelove? no Maki ",
+            "aired": "2006-09-05T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 49,
+            "url": null,
+            "title": "Doki☆Doki Volume: Ami And Iyo's Big Misunderstanding Part 1 / Doki☆Doki Volume: Ami And Iyo's Big Misunderstanding Part 2",
+            "title_japanese": "どき☆どき あみイヨ大混線の巻 前編 / どき☆どき あみイヨ大混線の巻 後編",
+            "title_romanji": "Dokidoki Ami Iyo Daikonsen no Maki Zenpen / Dokidoki Ami Iyo Daikonsen no Maki Kouhen ",
+            "aired": "2006-09-12T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 50,
+            "url": null,
+            "title": "Doki☆Doki Volume: Let's Go Treasure Hunting! / Doki☆Doki Volume: Pleading Note",
+            "title_japanese": "どき☆どき 宝探しにGO！の巻 / どき☆どき おねがいノートの巻",
+            "title_romanji": "Dokidoki Takarasagashi ni Go! no Maki / Dokidoki Onegai Note no Maki ",
+            "aired": "2006-09-19T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 51,
+            "url": null,
+            "title": "Doki☆Doki Volume: The Day The Door Vanishes!? / Doki☆Doki Volume: The Final Episode",
+            "title_japanese": "どき☆どき 扉が消える日!?巻 / どき☆どき 最終回の巻",
+            "title_romanji": "Dokidoki Tobira ga Kieru Hi!? no Maki / Dokidoki Saishuukai no Maki ",
+            "aired": "2006-09-26T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        }
+    ]
+}

@@ -1,0 +1,161 @@
+{
+    "id": 7786,
+    "fetched_at": "Sun Dec 14 09:13:11 2025",
+    "metadata": {
+        "mal_id": 7786,
+        "url": "https://myanimelist.net/anime/7786/Arabian_Night__Sindbad_no_Bouken",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1176/100506.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1176/100506t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1176/100506l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1176/100506.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1176/100506t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1176/100506l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": "https://www.youtube-nocookie.com/embed/lOj-juHGfkQ?enablejsapi=1&wmode=opaque&autoplay=1",
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Arabian Night: Sindbad no Bouken"
+            },
+            {
+                "type": "Japanese",
+                "title": "アラビアンナイト　シンドバッドの冒険"
+            },
+            {
+                "type": "English",
+                "title": "Arabian Nights: Sinbad's Adventures"
+            },
+            {
+                "type": "Spanish",
+                "title": "Simbad el Marino"
+            }
+        ],
+        "title": "Arabian Night: Sindbad no Bouken",
+        "title_english": "Arabian Nights: Sinbad's Adventures",
+        "title_japanese": "アラビアンナイト　シンドバッドの冒険",
+        "title_synonyms": [],
+        "type": "Movie",
+        "source": "Book",
+        "episodes": 1,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "1962-06-16T00:00:00+00:00",
+            "to": null,
+            "prop": {
+                "from": {
+                    "day": 16,
+                    "month": 6,
+                    "year": 1962
+                },
+                "to": {
+                    "day": null,
+                    "month": null,
+                    "year": null
+                }
+            },
+            "string": "Jun 16, 1962"
+        },
+        "duration": "1 hr 21 min",
+        "rating": "PG-13 - Teens 13 or older",
+        "score": 5.42,
+        "scored_by": 817,
+        "rank": 12900,
+        "popularity": 11964,
+        "members": 2285,
+        "favorites": 2,
+        "synopsis": "This is a work by Toei Animation Co., Ltd. with screenplay by Tezuka Osamu in cooperation with novelist Kita Morio. Sinbad and a boy, Ali, are stowaways on the transport ship \"Boulder,\" but they win their proper places on the ship after currying the favor of the captain. \nThen the beautiful princess Samir jumps on board to escape a wicked minister who wants to marry her, and Sinbad goes through a series of adventures to protect the princess. \n\nThe story unfolds with ups and downs, full of dramatic episodes from the original story such as a rough-and-tumble battle with a strange bird that is guarding diamonds.",
+        "background": "",
+        "season": null,
+        "year": null,
+        "broadcast": {
+            "day": null,
+            "time": null,
+            "timezone": null,
+            "string": null
+        },
+        "producers": [],
+        "licensors": [],
+        "studios": [
+            {
+                "mal_id": 18,
+                "type": "anime",
+                "name": "Toei Animation",
+                "url": "https://myanimelist.net/anime/producer/18/Toei_Animation"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 1,
+                "type": "anime",
+                "name": "Action",
+                "url": "https://myanimelist.net/anime/genre/1/Action"
+            },
+            {
+                "mal_id": 2,
+                "type": "anime",
+                "name": "Adventure",
+                "url": "https://myanimelist.net/anime/genre/2/Adventure"
+            },
+            {
+                "mal_id": 10,
+                "type": "anime",
+                "name": "Fantasy",
+                "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [],
+        "demographics": [],
+        "relations": [
+            {
+                "relation": "Alternative Version",
+                "entry": [
+                    {
+                        "mal_id": 2825,
+                        "type": "anime",
+                        "name": "Arabian Nights: Sindbad no Bouken (TV)",
+                        "url": "https://myanimelist.net/anime/2825/Arabian_Nights__Sindbad_no_Bouken_TV"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [],
+            "endings": []
+        },
+        "external": [
+            {
+                "name": "Official Site",
+                "url": "http://www.toei-anim.co.jp/lineup/movie/movie_sindbad/"
+            },
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=1779"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=3528"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": []
+}

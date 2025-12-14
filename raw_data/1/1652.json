@@ -1,0 +1,554 @@
+{
+    "id": 1652,
+    "fetched_at": "Sun Dec 14 07:15:53 2025",
+    "metadata": {
+        "mal_id": 1652,
+        "url": "https://myanimelist.net/anime/1652/Uchuu_Senkan_Yamato_III",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/11/83046.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/11/83046t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/11/83046l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/11/83046.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/11/83046t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/11/83046l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Uchuu Senkan Yamato III"
+            },
+            {
+                "type": "Synonym",
+                "title": "Uchuu Senkan Yamato 3"
+            },
+            {
+                "type": "Synonym",
+                "title": "Space Cruiser Yamato 3"
+            },
+            {
+                "type": "Synonym",
+                "title": "Space Battleship Yamato 3"
+            },
+            {
+                "type": "Synonym",
+                "title": "Star Blazers 3"
+            },
+            {
+                "type": "Japanese",
+                "title": "宇宙戦艦ヤマトⅢ"
+            },
+            {
+                "type": "English",
+                "title": "Star Blazers: The Bolar Wars"
+            }
+        ],
+        "title": "Uchuu Senkan Yamato III",
+        "title_english": "Star Blazers: The Bolar Wars",
+        "title_japanese": "宇宙戦艦ヤマトⅢ",
+        "title_synonyms": [
+            "Uchuu Senkan Yamato 3",
+            "Space Cruiser Yamato 3",
+            "Space Battleship Yamato 3",
+            "Star Blazers 3"
+        ],
+        "type": "TV",
+        "source": "Original",
+        "episodes": 25,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "1980-10-11T00:00:00+00:00",
+            "to": "1981-04-04T00:00:00+00:00",
+            "prop": {
+                "from": {
+                    "day": 11,
+                    "month": 10,
+                    "year": 1980
+                },
+                "to": {
+                    "day": 4,
+                    "month": 4,
+                    "year": 1981
+                }
+            },
+            "string": "Oct 11, 1980 to Apr 4, 1981"
+        },
+        "duration": "24 min per ep",
+        "rating": "PG-13 - Teens 13 or older",
+        "score": 6.99,
+        "scored_by": 2384,
+        "rank": 4596,
+        "popularity": 8051,
+        "members": 7239,
+        "favorites": 9,
+        "synopsis": "A stray missile from a confrontation between the Galman empire and the Bolar Federation crashes into the sun, turning it into a time bomb of radiation. The Star Force once again sets off into space, this time on a quest to look for a new world for the human race. \n\n(Source: ANN)",
+        "background": "",
+        "season": "fall",
+        "year": 1980,
+        "broadcast": {
+            "day": "Saturdays",
+            "time": "19:00",
+            "timezone": "Asia/Tokyo",
+            "string": "Saturdays at 19:00 (JST)"
+        },
+        "producers": [
+            {
+                "mal_id": 76,
+                "type": "anime",
+                "name": "Yomiuri Telecasting",
+                "url": "https://myanimelist.net/anime/producer/76/Yomiuri_Telecasting"
+            }
+        ],
+        "licensors": [],
+        "studios": [
+            {
+                "mal_id": 589,
+                "type": "anime",
+                "name": "Academy Productions",
+                "url": "https://myanimelist.net/anime/producer/589/Academy_Productions"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 1,
+                "type": "anime",
+                "name": "Action",
+                "url": "https://myanimelist.net/anime/genre/1/Action"
+            },
+            {
+                "mal_id": 2,
+                "type": "anime",
+                "name": "Adventure",
+                "url": "https://myanimelist.net/anime/genre/2/Adventure"
+            },
+            {
+                "mal_id": 8,
+                "type": "anime",
+                "name": "Drama",
+                "url": "https://myanimelist.net/anime/genre/8/Drama"
+            },
+            {
+                "mal_id": 24,
+                "type": "anime",
+                "name": "Sci-Fi",
+                "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [
+            {
+                "mal_id": 50,
+                "type": "anime",
+                "name": "Adult Cast",
+                "url": "https://myanimelist.net/anime/genre/50/Adult_Cast"
+            },
+            {
+                "mal_id": 38,
+                "type": "anime",
+                "name": "Military",
+                "url": "https://myanimelist.net/anime/genre/38/Military"
+            },
+            {
+                "mal_id": 29,
+                "type": "anime",
+                "name": "Space",
+                "url": "https://myanimelist.net/anime/genre/29/Space"
+            }
+        ],
+        "demographics": [],
+        "relations": [
+            {
+                "relation": "Prequel",
+                "entry": [
+                    {
+                        "mal_id": 3069,
+                        "type": "anime",
+                        "name": "Yamato yo Towa ni",
+                        "url": "https://myanimelist.net/anime/3069/Yamato_yo_Towa_ni"
+                    }
+                ]
+            },
+            {
+                "relation": "Sequel",
+                "entry": [
+                    {
+                        "mal_id": 3072,
+                        "type": "anime",
+                        "name": "Uchuu Senkan Yamato: Kanketsu-hen",
+                        "url": "https://myanimelist.net/anime/3072/Uchuu_Senkan_Yamato__Kanketsu-hen"
+                    }
+                ]
+            },
+            {
+                "relation": "Adaptation",
+                "entry": [
+                    {
+                        "mal_id": 33373,
+                        "type": "manga",
+                        "name": "Yamato III",
+                        "url": "https://myanimelist.net/manga/33373/Yamato_III"
+                    }
+                ]
+            },
+            {
+                "relation": "Summary",
+                "entry": [
+                    {
+                        "mal_id": 53604,
+                        "type": "anime",
+                        "name": "Uchuu Senkan Yamato III: Taiyoukei no Hakai",
+                        "url": "https://myanimelist.net/anime/53604/Uchuu_Senkan_Yamato_III__Taiyoukei_no_Hakai"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [
+                "\"Uchuu Senkan Yamato (宇宙戦艦ヤマト)\" by Isao Sasaki & the Royal Knights (eps 1-24)"
+            ],
+            "endings": [
+                "1: \"Ginga Densetsu (銀河伝説)\" by Hiromi Iwasaki (eps 1-2)",
+                "2: \"Betsuri (別離)\" by Mitsuko Horie (eps 3-6,8,10,12,14,16,18,20,22,24)",
+                "3: \"Yamato yo Eien ni (ヤマトよ永遠に)\" by Isao Sasaki (eps 7,9,11,13,15,17,19,21,23,25)"
+            ]
+        },
+        "external": [
+            {
+                "name": "Official Site",
+                "url": "http://www.bandaivisual.co.jp/yamato/data/6_yamato3.html"
+            },
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=2661"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=1200"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "http://en.wikipedia.org/wiki/Space_Battleship_Yamato#Space_Battleship_Yamato_III_.28.E5.AE.87.E5.AE.99.E6.88.A6.E8.89.A6.E3.83.A4.E3.83.9E.E3.83.88.E2.85.A2.29"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": [
+        {
+            "mal_id": 1,
+            "url": null,
+            "title": "The Solar System is Destroyed",
+            "title_japanese": "太陽系の破滅",
+            "title_romanji": "Taiyoukei no Hametsu ",
+            "aired": "1980-10-11T00:00:00+00:00",
+            "score": 3,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1419559"
+        },
+        {
+            "mal_id": 2,
+            "url": null,
+            "title": "Great Battle on the Milky Way",
+            "title_japanese": "銀河系大戦",
+            "title_romanji": "Gingakei Taisen ",
+            "aired": "1980-10-18T00:00:00+00:00",
+            "score": 4.5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1419667"
+        },
+        {
+            "mal_id": 3,
+            "url": null,
+            "title": "Yamato Embarks at Dawn",
+            "title_japanese": "ヤマト暁の発進",
+            "title_romanji": "Yamato Akatsuki no Hasshin ",
+            "aired": "1980-10-25T00:00:00+00:00",
+            "score": 4.5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1419685"
+        },
+        {
+            "mal_id": 4,
+            "url": null,
+            "title": "Shoot for Planet Mars",
+            "title_japanese": "あの火星を撃て",
+            "title_romanji": "Ano Kasei wo Ute ",
+            "aired": "1980-11-01T00:00:00+00:00",
+            "score": 5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1419850"
+        },
+        {
+            "mal_id": 5,
+            "url": null,
+            "title": "S.O.S Legendra!",
+            "title_japanese": "SOS! ラジェンドラ号",
+            "title_romanji": "SOS! Legendra Gou ",
+            "aired": "1980-11-08T00:00:00+00:00",
+            "score": 5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1419861"
+        },
+        {
+            "mal_id": 6,
+            "url": null,
+            "title": "Great Battle Near the 11th Planet",
+            "title_japanese": "激闘! 11番惑星空域",
+            "title_romanji": "Gekitou! 11-ban Wakusei Kuuiki ",
+            "aired": "1980-11-15T00:00:00+00:00",
+            "score": 4.5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=332437"
+        },
+        {
+            "mal_id": 7,
+            "url": null,
+            "title": "The Rough Seas of Alpha Centauri",
+            "title_japanese": "アルファ星波高し",
+            "title_romanji": "Alpha-sei Namitakashi ",
+            "aired": "1980-11-22T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1420198"
+        },
+        {
+            "mal_id": 8,
+            "url": null,
+            "title": "The Last Pioneer",
+            "title_japanese": "最後の開拓者",
+            "title_romanji": "Saigo no Kaitakusha ",
+            "aired": "1980-11-29T00:00:00+00:00",
+            "score": 5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1420203"
+        },
+        {
+            "mal_id": 9,
+            "url": null,
+            "title": "Battle at Barnard Star",
+            "title_japanese": "バーナード星の決闘",
+            "title_romanji": "Barnard-sei no Kettou ",
+            "aired": "1980-12-06T00:00:00+00:00",
+            "score": 4.33,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1420267"
+        },
+        {
+            "mal_id": 10,
+            "url": null,
+            "title": "Dagon's New Fleet Counter-Attacks",
+            "title_japanese": "ダゴン新鋭艦隊の反撃",
+            "title_romanji": "Dagon Shinei Kantai no Hangeki ",
+            "aired": "1980-12-13T00:00:00+00:00",
+            "score": 4.33,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=548631"
+        },
+        {
+            "mal_id": 11,
+            "url": null,
+            "title": "Yamato Faces Danger at Cygnus",
+            "title_japanese": "ヤマト危し! 魔の白鳥座星域",
+            "title_romanji": "Yamato Ayaushi! Ma no Hakuchouza Seiiki ",
+            "aired": "1980-12-20T00:00:00+00:00",
+            "score": 4.67,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1420438"
+        },
+        {
+            "mal_id": 12,
+            "url": null,
+            "title": "Stellar Prison Camp",
+            "title_japanese": "宇宙の流刑地",
+            "title_romanji": "Uchuu no Rukeichi ",
+            "aired": "1980-12-27T00:00:00+00:00",
+            "score": 4.25,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1165029"
+        },
+        {
+            "mal_id": 13,
+            "url": null,
+            "title": "Dreadful Bolar Federation",
+            "title_japanese": "恐るべし! ボラー連邦",
+            "title_romanji": "Osorubeshi! Bolar Renpou ",
+            "aired": "1981-01-03T00:00:00+00:00",
+            "score": 4.67,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1420450"
+        },
+        {
+            "mal_id": 14,
+            "url": null,
+            "title": "Subspace Submarine Captain Galman Wolf",
+            "title_japanese": "次元潜航艇ガルマンウルフ",
+            "title_romanji": "Jigen Senkoutei Galman Wolf ",
+            "aired": "1981-01-10T00:00:00+00:00",
+            "score": 5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1420495"
+        },
+        {
+            "mal_id": 15,
+            "url": null,
+            "title": "Yamato's Captured!",
+            "title_japanese": "ヤマト捕わる!!",
+            "title_romanji": "Yamato Torawaru!! ",
+            "aired": "1981-01-17T00:00:00+00:00",
+            "score": 5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1333703"
+        },
+        {
+            "mal_id": 16,
+            "url": null,
+            "title": "Festive Day for Desler",
+            "title_japanese": "デスラーの祝日",
+            "title_romanji": "Desslar no Shukujitsu ",
+            "aired": "1981-01-24T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1420498"
+        },
+        {
+            "mal_id": 17,
+            "url": null,
+            "title": "Desler's Empire in a Crisis",
+            "title_japanese": "デスラー帝国危機一髪",
+            "title_romanji": "Desslar Teikoku Kikiippatsu ",
+            "aired": "1981-02-07T00:00:00+00:00",
+            "score": 3,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1420515"
+        },
+        {
+            "mal_id": 18,
+            "url": null,
+            "title": "The Angry Sun",
+            "title_japanese": "怒る太陽",
+            "title_romanji": "Ikaru Taiyou ",
+            "aired": "1981-02-14T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1333769"
+        },
+        {
+            "mal_id": 19,
+            "url": null,
+            "title": "On the Way to Planet Phantom",
+            "title_japanese": "惑星ファンタムへの道",
+            "title_romanji": "Wakusei Phantom e no Michi ",
+            "aired": "1981-02-21T00:00:00+00:00",
+            "score": 5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1420571"
+        },
+        {
+            "mal_id": 20,
+            "url": null,
+            "title": "The Planet of Illusions",
+            "title_japanese": "幻の惑星",
+            "title_romanji": "Maboroshi no Wakusei ",
+            "aired": "1981-02-28T00:00:00+00:00",
+            "score": 5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1420579"
+        },
+        {
+            "mal_id": 21,
+            "url": null,
+            "title": "Lost Hope",
+            "title_japanese": "打ち砕かれた希望",
+            "title_romanji": "Uchikudakareta Kibou ",
+            "aired": "1981-03-07T00:00:00+00:00",
+            "score": 5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1420586"
+        },
+        {
+            "mal_id": 22,
+            "url": null,
+            "title": "Farewell Planet Phantom",
+            "title_japanese": "さらば 夢の星よ",
+            "title_romanji": "Saraba Yume no Hoshi yo ",
+            "aired": "1981-03-14T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=552359"
+        },
+        {
+            "mal_id": 23,
+            "url": null,
+            "title": "Battle at the Scalageck Star Cluster",
+            "title_japanese": "激戦! スカラゲック海峡星団",
+            "title_romanji": "Gekisen! Scalageck Kaikyou Seidan ",
+            "aired": "1981-03-21T00:00:00+00:00",
+            "score": 4.67,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1334199"
+        },
+        {
+            "mal_id": 24,
+            "url": null,
+            "title": "Secret of Planet Shalbart",
+            "title_japanese": "シャルバート星の秘密",
+            "title_romanji": "Shalbart-sei no Himitsu ",
+            "aired": "1981-03-28T00:00:00+00:00",
+            "score": 4.5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1334217"
+        },
+        {
+            "mal_id": 25,
+            "url": null,
+            "title": "Yamato, Shoot That Sun!",
+            "title_japanese": "ヤマト あの太陽を撃て!",
+            "title_romanji": "Yamato: Ano Taiyou wo Ute! ",
+            "aired": "1981-04-04T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=552423"
+        }
+    ]
+}

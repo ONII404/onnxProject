@@ -1,0 +1,150 @@
+{
+    "id": 23007,
+    "fetched_at": "Sun Dec 14 10:09:58 2025",
+    "metadata": {
+        "mal_id": 23007,
+        "url": "https://myanimelist.net/anime/23007/Ookami_Shounen_Ken_Movie",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1988/150268.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1988/150268t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1988/150268l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1988/150268.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1988/150268t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1988/150268l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Ookami Shounen Ken (Movie)"
+            },
+            {
+                "type": "Synonym",
+                "title": "Ookami Shounen Ken (1963)"
+            },
+            {
+                "type": "Japanese",
+                "title": "狼少年ケン (1963)"
+            }
+        ],
+        "title": "Ookami Shounen Ken (Movie)",
+        "title_english": null,
+        "title_japanese": "狼少年ケン (1963)",
+        "title_synonyms": [
+            "Ookami Shounen Ken (1963)"
+        ],
+        "type": "Movie",
+        "source": "Unknown",
+        "episodes": 1,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "1963-12-21T00:00:00+00:00",
+            "to": null,
+            "prop": {
+                "from": {
+                    "day": 21,
+                    "month": 12,
+                    "year": 1963
+                },
+                "to": {
+                    "day": null,
+                    "month": null,
+                    "year": null
+                }
+            },
+            "string": "Dec 21, 1963"
+        },
+        "duration": "25 min",
+        "rating": "G - All Ages",
+        "score": null,
+        "scored_by": null,
+        "rank": 19337,
+        "popularity": 15983,
+        "members": 754,
+        "favorites": 1,
+        "synopsis": null,
+        "background": "",
+        "season": null,
+        "year": null,
+        "broadcast": {
+            "day": null,
+            "time": null,
+            "timezone": null,
+            "string": null
+        },
+        "producers": [],
+        "licensors": [],
+        "studios": [
+            {
+                "mal_id": 18,
+                "type": "anime",
+                "name": "Toei Animation",
+                "url": "https://myanimelist.net/anime/producer/18/Toei_Animation"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 2,
+                "type": "anime",
+                "name": "Adventure",
+                "url": "https://myanimelist.net/anime/genre/2/Adventure"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [],
+        "demographics": [
+            {
+                "mal_id": 15,
+                "type": "anime",
+                "name": "Kids",
+                "url": "https://myanimelist.net/anime/genre/15/Kids"
+            }
+        ],
+        "relations": [
+            {
+                "relation": "Parent Story",
+                "entry": [
+                    {
+                        "mal_id": 17521,
+                        "type": "anime",
+                        "name": "Ookami Shounen Ken",
+                        "url": "https://myanimelist.net/anime/17521/Ookami_Shounen_Ken"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [],
+            "endings": []
+        },
+        "external": [
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=5477"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "http://ja.wikipedia.org/wiki/%E7%8B%BC%E5%B0%91%E5%B9%B4%E3%82%B1%E3%83%B3#.E5.8A.87.E5.A0.B4.E7.89.88"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": []
+}

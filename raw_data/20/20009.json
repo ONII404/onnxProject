@@ -1,0 +1,168 @@
+{
+    "id": 20009,
+    "fetched_at": "Sun Dec 14 10:03:11 2025",
+    "metadata": {
+        "mal_id": 20009,
+        "url": "https://myanimelist.net/anime/20009/Doubutsu_Mura_Monogatari",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/4/53319.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/4/53319t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/4/53319l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/4/53319.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/4/53319t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/4/53319l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Doubutsu Mura Monogatari"
+            },
+            {
+                "type": "Synonym",
+                "title": "The Story of the Animal's Village"
+            },
+            {
+                "type": "Synonym",
+                "title": "Animal Village Stories"
+            },
+            {
+                "type": "Synonym",
+                "title": "Dobutsu Mura Monogatari"
+            },
+            {
+                "type": "Japanese",
+                "title": "動物村ものがたり"
+            }
+        ],
+        "title": "Doubutsu Mura Monogatari",
+        "title_english": null,
+        "title_japanese": "動物村ものがたり",
+        "title_synonyms": [
+            "The Story of the Animal's Village",
+            "Animal Village Stories",
+            "Dobutsu Mura Monogatari"
+        ],
+        "type": "TV",
+        "source": "Unknown",
+        "episodes": 100,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "1970-03-30T00:00:00+00:00",
+            "to": "1970-07-21T00:00:00+00:00",
+            "prop": {
+                "from": {
+                    "day": 30,
+                    "month": 3,
+                    "year": 1970
+                },
+                "to": {
+                    "day": 21,
+                    "month": 7,
+                    "year": 1970
+                }
+            },
+            "string": "Mar 30, 1970 to Jul 21, 1970"
+        },
+        "duration": "5 min per ep",
+        "rating": "PG - Children",
+        "score": null,
+        "scored_by": null,
+        "rank": 21176,
+        "popularity": 17514,
+        "members": 546,
+        "favorites": 0,
+        "synopsis": "A short kids series featuring cute animal stories.\n\n(Source: AniDB)",
+        "background": "",
+        "season": "spring",
+        "year": 1970,
+        "broadcast": {
+            "day": null,
+            "time": null,
+            "timezone": null,
+            "string": "Unknown"
+        },
+        "producers": [
+            {
+                "mal_id": 831,
+                "type": "anime",
+                "name": "Otogi Production",
+                "url": "https://myanimelist.net/anime/producer/831/Otogi_Production"
+            }
+        ],
+        "licensors": [],
+        "studios": [
+            {
+                "mal_id": 489,
+                "type": "anime",
+                "name": "TCJ",
+                "url": "https://myanimelist.net/anime/producer/489/TCJ"
+            }
+        ],
+        "genres": [],
+        "explicit_genres": [],
+        "themes": [],
+        "demographics": [
+            {
+                "mal_id": 15,
+                "type": "anime",
+                "name": "Kids",
+                "url": "https://myanimelist.net/anime/genre/15/Kids"
+            }
+        ],
+        "relations": [
+            {
+                "relation": "Alternative Version",
+                "entry": [
+                    {
+                        "mal_id": 29924,
+                        "type": "anime",
+                        "name": "Goman-hiki",
+                        "url": "https://myanimelist.net/anime/29924/Goman-hiki"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [],
+            "endings": []
+        },
+        "external": [
+            {
+                "name": "Official Site",
+                "url": "http://www.eiken-anime.jp/works/works016.html"
+            },
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=3518"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=2179"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "http://ja.wikipedia.org/wiki/%E5%8B%95%E7%89%A9%E6%9D%91%E3%82%82%E3%81%AE%E3%81%8C%E3%81%9F%E3%82%8A"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": []
+}

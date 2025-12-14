@@ -1,0 +1,823 @@
+{
+    "id": 352,
+    "fetched_at": "Sun Dec 14 13:00:44 2025",
+    "metadata": {
+        "mal_id": 352,
+        "url": "https://myanimelist.net/anime/352/Motto_Ojamajo_Doremi",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/5/36629.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/5/36629t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/5/36629l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/5/36629.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/5/36629t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/5/36629l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Motto! Ojamajo Doremi"
+            },
+            {
+                "type": "Synonym",
+                "title": "More! Useless Witch Doremi"
+            },
+            {
+                "type": "Japanese",
+                "title": "も〜っと！おジャ魔女どれみ"
+            }
+        ],
+        "title": "Motto! Ojamajo Doremi",
+        "title_english": null,
+        "title_japanese": "も〜っと！おジャ魔女どれみ",
+        "title_synonyms": [
+            "More! Useless Witch Doremi"
+        ],
+        "type": "TV",
+        "source": "Original",
+        "episodes": 50,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "2001-02-04T00:00:00+00:00",
+            "to": "2002-01-27T00:00:00+00:00",
+            "prop": {
+                "from": {
+                    "day": 4,
+                    "month": 2,
+                    "year": 2001
+                },
+                "to": {
+                    "day": 27,
+                    "month": 1,
+                    "year": 2002
+                }
+            },
+            "string": "Feb 4, 2001 to Jan 27, 2002"
+        },
+        "duration": "24 min per ep",
+        "rating": "G - All Ages",
+        "score": 7.47,
+        "scored_by": 11537,
+        "rank": 2170,
+        "popularity": 4980,
+        "members": 24019,
+        "favorites": 161,
+        "synopsis": "After losing their magical abilities, the girls once again become witches. However, now they have to go through tests from the Witches of the Witch World. They also meet a new member from New York, Momoko.",
+        "background": "",
+        "season": "winter",
+        "year": 2001,
+        "broadcast": {
+            "day": "Sundays",
+            "time": "08:30",
+            "timezone": "Asia/Tokyo",
+            "string": "Sundays at 08:30 (JST)"
+        },
+        "producers": [
+            {
+                "mal_id": 1415,
+                "type": "anime",
+                "name": "Asahi Broadcasting",
+                "url": "https://myanimelist.net/anime/producer/1415/Asahi_Broadcasting"
+            }
+        ],
+        "licensors": [],
+        "studios": [
+            {
+                "mal_id": 18,
+                "type": "anime",
+                "name": "Toei Animation",
+                "url": "https://myanimelist.net/anime/producer/18/Toei_Animation"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 4,
+                "type": "anime",
+                "name": "Comedy",
+                "url": "https://myanimelist.net/anime/genre/4/Comedy"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [
+            {
+                "mal_id": 66,
+                "type": "anime",
+                "name": "Mahou Shoujo",
+                "url": "https://myanimelist.net/anime/genre/66/Mahou_Shoujo"
+            }
+        ],
+        "demographics": [],
+        "relations": [
+            {
+                "relation": "Prequel",
+                "entry": [
+                    {
+                        "mal_id": 351,
+                        "type": "anime",
+                        "name": "Ojamajo Doremi Sharp",
+                        "url": "https://myanimelist.net/anime/351/Ojamajo_Doremi_Sharp"
+                    }
+                ]
+            },
+            {
+                "relation": "Sequel",
+                "entry": [
+                    {
+                        "mal_id": 353,
+                        "type": "anime",
+                        "name": "Ojamajo Doremi Dokkaan!",
+                        "url": "https://myanimelist.net/anime/353/Ojamajo_Doremi_Dokkaan"
+                    }
+                ]
+            },
+            {
+                "relation": "Side Story",
+                "entry": [
+                    {
+                        "mal_id": 12591,
+                        "type": "anime",
+                        "name": "Ojamajo Doremi OVA",
+                        "url": "https://myanimelist.net/anime/12591/Ojamajo_Doremi_OVA"
+                    },
+                    {
+                        "mal_id": 2948,
+                        "type": "anime",
+                        "name": "Motto! Ojamajo Doremi: Kaeru Ishi no Himitsu",
+                        "url": "https://myanimelist.net/anime/2948/Motto_Ojamajo_Doremi__Kaeru_Ishi_no_Himitsu"
+                    },
+                    {
+                        "mal_id": 1376,
+                        "type": "anime",
+                        "name": "Ojamajo Doremi Na-i-sho",
+                        "url": "https://myanimelist.net/anime/1376/Ojamajo_Doremi_Na-i-sho"
+                    }
+                ]
+            },
+            {
+                "relation": "Summary",
+                "entry": [
+                    {
+                        "mal_id": 49671,
+                        "type": "anime",
+                        "name": "Ojamajo Doremi Dokkaan! Hana-chan ga Ippai",
+                        "url": "https://myanimelist.net/anime/49671/Ojamajo_Doremi_Dokkaan_Hana-chan_ga_Ippai"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [
+                "Ojamajo de BANBAN by MAHO-Dou"
+            ],
+            "endings": [
+                "\"Takaramono\" by Yui Komuro"
+            ]
+        },
+        "external": [
+            {
+                "name": "Official Site",
+                "url": "http://www.toei-anim.co.jp/tv/doremi_m/"
+            },
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=1766"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=1650"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/M%C5%8Dtto!_Ojamajo_Doremi"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "https://ja.wikipedia.org/wiki/%E3%81%8A%E3%82%B8%E3%83%A3%E9%AD%94%E5%A5%B3%E3%81%A9%E3%82%8C%E3%81%BF#%E3%80%8E%E3%82%82%E3%80%9C%E3%81%A3%E3%81%A8!_%E3%81%8A%E3%82%B8%E3%83%A3%E9%AD%94%E5%A5%B3%E3%81%A9%E3%82%8C%E3%81%BF%E3%80%8F%EF%BC%88%E7%AC%AC3%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA%EF%BC%89"
+            },
+            {
+                "name": "Syoboi",
+                "url": "https://cal.syoboi.jp/tid/194"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": [
+        {
+            "mal_id": 1,
+            "url": null,
+            "title": "Doremi's Stormy New School Year",
+            "title_japanese": "どれみ、嵐の新学期!",
+            "title_romanji": "Doremi, Arashi no Shingakki! ",
+            "aired": "2001-02-04T00:00:00+00:00",
+            "score": 4.17,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=292000"
+        },
+        {
+            "mal_id": 2,
+            "url": null,
+            "title": "Momoko Cries!? Secret of the Earring",
+            "title_japanese": "ももこが泣いた!?ピアスの秘密",
+            "title_romanji": "Momoko ga Naita!? Pierce no Himitsu ",
+            "aired": "2001-02-11T00:00:00+00:00",
+            "score": 4.29,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=292001"
+        },
+        {
+            "mal_id": 3,
+            "url": null,
+            "title": "I Hate You! But I Would Like to Become Friends",
+            "title_japanese": "大キライ!でも友だちになりたい!",
+            "title_romanji": "Dai Kirai! Demo Tomodachi ni Naritai! ",
+            "aired": "2001-02-18T00:00:00+00:00",
+            "score": 4.57,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=308155"
+        },
+        {
+            "mal_id": 4,
+            "url": null,
+            "title": "Welcome to the Sweet House!",
+            "title_japanese": "ようこそ、スウィートハウスへ!",
+            "title_romanji": "Youkoso, Sweet House e! ",
+            "aired": "2001-02-25T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=387535"
+        },
+        {
+            "mal_id": 5,
+            "url": null,
+            "title": "The SOS Trio Break Up!?",
+            "title_japanese": "SOSトリオが解散!?",
+            "title_romanji": "SOS Trio ga Kaisan!? ",
+            "aired": "2001-03-04T00:00:00+00:00",
+            "score": 4.14,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=308807"
+        },
+        {
+            "mal_id": 6,
+            "url": null,
+            "title": "Challenge! The First Patissier Exam",
+            "title_japanese": "挑戦!初めてのパティシエ服",
+            "title_romanji": "Chousen! Hajimete no Patissier Shiken ",
+            "aired": "2001-03-11T00:00:00+00:00",
+            "score": 4.43,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=292002"
+        },
+        {
+            "mal_id": 7,
+            "url": null,
+            "title": "Welcome Home! Hana",
+            "title_japanese": "おかえり!ハナちゃん",
+            "title_romanji": "Okaeri! Hana-chan ",
+            "aired": "2001-03-18T00:00:00+00:00",
+            "score": 4.37,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=292003"
+        },
+        {
+            "mal_id": 8,
+            "url": null,
+            "title": "What Is A Close Friend?",
+            "title_japanese": "親友って、なーに?",
+            "title_romanji": "Shinyu-tte, Nani? ",
+            "aired": "2001-03-25T00:00:00+00:00",
+            "score": 4.21,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=388015"
+        },
+        {
+            "mal_id": 9,
+            "url": null,
+            "title": "Hazuki and Masaru's Treasure",
+            "title_japanese": "はづきとまさるのたからもの",
+            "title_romanji": "Hazuki to Masaru no Takaramono ",
+            "aired": "2001-04-01T00:00:00+00:00",
+            "score": 4.47,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=388393"
+        },
+        {
+            "mal_id": 10,
+            "url": null,
+            "title": "We Don't Want to Become Adults!",
+            "title_japanese": "おとなになんてなりたくない!",
+            "title_romanji": "Otona ni nante Naritaku Nai! ",
+            "aired": "2001-04-08T00:00:00+00:00",
+            "score": 4.35,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=388401"
+        },
+        {
+            "mal_id": 11,
+            "url": null,
+            "title": "The Teacher Doesn't Stop!!",
+            "title_japanese": "先生が止まらない!!",
+            "title_romanji": "Sensei ga Tomaranai! ",
+            "aired": "2001-04-15T00:00:00+00:00",
+            "score": 4.35,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=314295"
+        },
+        {
+            "mal_id": 12,
+            "url": null,
+            "title": "Kotake vs. Demon Coach Igarashi",
+            "title_japanese": "小竹VS鬼コーチ五十嵐",
+            "title_romanji": "Kotake VS Oni Coach Igarashi ",
+            "aired": "2001-04-22T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=388531"
+        },
+        {
+            "mal_id": 13,
+            "url": null,
+            "title": "The Dream Boat That You Want!",
+            "title_japanese": "夢の船にのりたい!",
+            "title_romanji": "Yume no Fune ni Noritai! ",
+            "aired": "2001-04-29T00:00:00+00:00",
+            "score": 4.29,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=388549"
+        },
+        {
+            "mal_id": 14,
+            "url": null,
+            "title": "A Messed Up Happy Birthday",
+            "title_japanese": "波乱のハッピーバースデー",
+            "title_romanji": "Haran no Happy Birthday ",
+            "aired": "2001-05-06T00:00:00+00:00",
+            "score": 4.75,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=292088"
+        },
+        {
+            "mal_id": 15,
+            "url": null,
+            "title": "Do You Love Pretty Mothers Or Not?",
+            "title_japanese": "きれいなお母さんはスキ?キライ?",
+            "title_romanji": "Kirei na Okaasan wa Suki? Kirai? ",
+            "aired": "2001-05-13T00:00:00+00:00",
+            "score": 4.61,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=388663"
+        },
+        {
+            "mal_id": 16,
+            "url": null,
+            "title": "Isn't It Enough to be Tasty!?",
+            "title_japanese": "おいしいだけじゃ、ダメ!?",
+            "title_romanji": "Oishii dake Ja, Dame!? ",
+            "aired": "2001-05-20T00:00:00+00:00",
+            "score": 4.14,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=388971"
+        },
+        {
+            "mal_id": 17,
+            "url": null,
+            "title": "Fatal Rivals! Harukaze and Tamaki",
+            "title_japanese": "因縁のライバル!!春風と玉木",
+            "title_romanji": "Innen no Rival! Harukaze to Tamaki ",
+            "aired": "2001-05-27T00:00:00+00:00",
+            "score": 4.29,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=388979"
+        },
+        {
+            "mal_id": 18,
+            "url": null,
+            "title": "Glued To!! A Child Idol's Day",
+            "title_japanese": "密着!!チャイドルの一日",
+            "title_romanji": "Micchaku!! Chidol no Ichinichi ",
+            "aired": "2001-06-03T00:00:00+00:00",
+            "score": 4.53,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=315383"
+        },
+        {
+            "mal_id": 19,
+            "url": null,
+            "title": "Similar Parent and Child, Always Quarreling",
+            "title_japanese": "ケンカばっかり似たもの親子",
+            "title_romanji": "Kenka Bakkari Nitamono Oyako ",
+            "aired": "2001-06-10T00:00:00+00:00",
+            "score": 3.5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=389301"
+        },
+        {
+            "mal_id": 20,
+            "url": null,
+            "title": "The Classmate I Met For the First Time",
+            "title_japanese": "はじめて会うクラスメイト",
+            "title_romanji": "Hajimete Au Classmate ",
+            "aired": "2001-06-24T00:00:00+00:00",
+            "score": 4.44,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=315571"
+        },
+        {
+            "mal_id": 21,
+            "url": null,
+            "title": "Out Of Magic Powder!!",
+            "title_japanese": "まほうのもとがなくなっちゃう!!",
+            "title_romanji": "Mahou no Moto ga Naku Nachau!! ",
+            "aired": "2001-07-01T00:00:00+00:00",
+            "score": 4.13,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=389327"
+        },
+        {
+            "mal_id": 22,
+            "url": null,
+            "title": "Pop is a Big Sister??",
+            "title_japanese": "ぽっぷがお姉ちゃん??",
+            "title_romanji": "Pop ga Onee-chan?? ",
+            "aired": "2001-07-08T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=389329"
+        },
+        {
+            "mal_id": 23,
+            "url": null,
+            "title": "Clam of the Shore",
+            "title_japanese": "なぎさのハマグリ",
+            "title_romanji": "Nagisa no Hamaguri ",
+            "aired": "2001-07-15T00:00:00+00:00",
+            "score": 4.12,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=389669"
+        },
+        {
+            "mal_id": 24,
+            "url": null,
+            "title": "Rock 'N' Roll in the Music Club!?",
+            "title_japanese": "音楽クラブでロックンロール!?",
+            "title_romanji": "Ongaku Club de Rock 'N' Roll!? ",
+            "aired": "2001-07-22T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=389715"
+        },
+        {
+            "mal_id": 25,
+            "url": null,
+            "title": "A Lonely Summer Vacation",
+            "title_japanese": "ひとりぼっちの夏休み",
+            "title_romanji": "Hitoribocchi no Natsuyasumi ",
+            "aired": "2001-07-29T00:00:00+00:00",
+            "score": 4.29,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=317057"
+        },
+        {
+            "mal_id": 26,
+            "url": null,
+            "title": "Deliver Her Feelings! Aiko Goes to Osaka",
+            "title_japanese": "想いよとどけ！あいこ大阪へ",
+            "title_romanji": "Omoi yo Todoke! Aiko Osaka e ",
+            "aired": "2001-08-05T00:00:00+00:00",
+            "score": 4.23,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=389735"
+        },
+        {
+            "mal_id": 27,
+            "url": null,
+            "title": "Break Through That Malicious Exam!",
+            "title_japanese": "いじわる試験を切りぬけろ!",
+            "title_romanji": "Ijiwaru Shiken wo Kirinukero! ",
+            "aired": "2001-08-12T00:00:00+00:00",
+            "score": 4.08,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=389833"
+        },
+        {
+            "mal_id": 28,
+            "url": null,
+            "title": "All Sorts of Danger at the Witch Kindergarten!",
+            "title_japanese": "魔女幼稚園, 危機いっぱつ!",
+            "title_romanji": "Majo Youchien, Kiki Ippatsu! ",
+            "aired": "2001-08-19T00:00:00+00:00",
+            "score": 4.29,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=317255"
+        },
+        {
+            "mal_id": 29,
+            "url": null,
+            "title": "Terror! The Curse of the Well",
+            "title_japanese": "恐怖!井戸ユウレイの呪い",
+            "title_romanji": "Kyoufu! Ido Yuurei no Noroi ",
+            "aired": "2001-08-26T00:00:00+00:00",
+            "score": 3.75,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=317319"
+        },
+        {
+            "mal_id": 30,
+            "url": null,
+            "title": "Please Give Us the Illusionary Recipe!",
+            "title_japanese": "まぼろしのレシピをください!",
+            "title_romanji": "Maboroshi no Recipe wo Kudasai! ",
+            "aired": "2001-09-02T00:00:00+00:00",
+            "score": 3.88,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=317329"
+        },
+        {
+            "mal_id": 31,
+            "url": null,
+            "title": "We'll Cure It! Her Hatred of Vegetables",
+            "title_japanese": "なおしてみせます!野菜ギライ",
+            "title_romanji": "Naoshite Misemasu! Yasaigirai ",
+            "aired": "2001-09-09T00:00:00+00:00",
+            "score": 4.25,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=317325"
+        },
+        {
+            "mal_id": 32,
+            "url": null,
+            "title": "Momoko's Mama Training",
+            "title_japanese": "ももこのママ修行",
+            "title_romanji": "Momoko no Mama Shugyou ",
+            "aired": "2001-09-16T00:00:00+00:00",
+            "score": 4.21,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=309137"
+        },
+        {
+            "mal_id": 33,
+            "url": null,
+            "title": "Undefeatable!? Ojamajo Lends a Helping Hand",
+            "title_japanese": "天下無敵!?おジャ魔な助太刀",
+            "title_romanji": "Tenkamuteki!? Ojamajo na Sukedachi ",
+            "aired": "2001-09-23T00:00:00+00:00",
+            "score": 4.11,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=317547"
+        },
+        {
+            "mal_id": 34,
+            "url": null,
+            "title": "Remember! The Legendary Sweet",
+            "title_japanese": "よみがえれ!伝説のお菓子",
+            "title_romanji": "Yomigaere! Densetsu no Okashi ",
+            "aired": "2001-09-30T00:00:00+00:00",
+            "score": 4.07,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=309419"
+        },
+        {
+            "mal_id": 35,
+            "url": null,
+            "title": "Tamaki, Taking Over!?",
+            "title_japanese": "玉木, 天下をとる!?",
+            "title_romanji": "Tamaki, Tenka wo Toru!? ",
+            "aired": "2001-10-07T00:00:00+00:00",
+            "score": 4.41,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=309663"
+        },
+        {
+            "mal_id": 36,
+            "url": null,
+            "title": "Hazuki's Delicious Idea",
+            "title_japanese": "はづきのおいしいアイデア",
+            "title_romanji": "Hazuki no Oishii Idea ",
+            "aired": "2001-10-14T00:00:00+00:00",
+            "score": 3.92,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=309743"
+        },
+        {
+            "mal_id": 37,
+            "url": null,
+            "title": "The Fairies Want a Break!!",
+            "title_japanese": "妖精だって休みたい!!",
+            "title_romanji": "Yousei datte Yasumitai!! ",
+            "aired": "2001-10-21T00:00:00+00:00",
+            "score": 3.94,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=317697"
+        },
+        {
+            "mal_id": 38,
+            "url": null,
+            "title": "I Want to Go to School!",
+            "title_japanese": "学校に行きたい!",
+            "title_romanji": "Gakkou ni Ikitai! ",
+            "aired": "2001-10-28T00:00:00+00:00",
+            "score": 4.68,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=310127"
+        },
+        {
+            "mal_id": 39,
+            "url": null,
+            "title": "School Arts Festival! Who's the Lead Part?",
+            "title_japanese": "学芸会!主役はだーれ?",
+            "title_romanji": "Gakugeikai! Shuyaku wa Daare? ",
+            "aired": "2001-11-11T00:00:00+00:00",
+            "score": 4.13,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=317917"
+        },
+        {
+            "mal_id": 40,
+            "url": null,
+            "title": "Hana-chan, Digging for Potatoes!",
+            "title_japanese": "ハナちゃん, イモを掘る!",
+            "title_romanji": "Hana-chan, Imo wo Horu! ",
+            "aired": "2001-11-18T00:00:00+00:00",
+            "score": 4.63,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=317941"
+        },
+        {
+            "mal_id": 41,
+            "url": null,
+            "title": "Welcome to the Witch-Frogs' Village",
+            "title_japanese": "魔女ガエルの村おこし",
+            "title_romanji": "Majogaeru no Muraokoshi ",
+            "aired": "2001-11-25T00:00:00+00:00",
+            "score": 4.25,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=310833"
+        },
+        {
+            "mal_id": 42,
+            "url": null,
+            "title": "Heart-pounding! The Twins' Mysterious Magic",
+            "title_japanese": "ドキドキ!ふたごの不思議なまほう",
+            "title_romanji": "Dokidoki! Futago no Fushigi na Mahou ",
+            "aired": "2001-12-02T00:00:00+00:00",
+            "score": 4.27,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=392259"
+        },
+        {
+            "mal_id": 43,
+            "url": null,
+            "title": "The Ojamajo Cross the Sea",
+            "title_japanese": "おジャ魔女は海を越えて",
+            "title_romanji": "Ojamajo wa Umi wo Koete ",
+            "aired": "2001-12-09T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=392267"
+        },
+        {
+            "mal_id": 44,
+            "url": null,
+            "title": "Ai-chan Isn't Coming Back!?",
+            "title_japanese": "あいちゃんが帰っちゃう!?",
+            "title_romanji": "Ai-chan ga Kaecchau!? ",
+            "aired": "2001-12-16T00:00:00+00:00",
+            "score": 4.39,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=311233"
+        },
+        {
+            "mal_id": 45,
+            "url": null,
+            "title": "Everyone! Merry Christmas",
+            "title_japanese": "みんなで!メリークリスマス",
+            "title_romanji": "Minna de! Merry Christmas ",
+            "aired": "2001-12-23T00:00:00+00:00",
+            "score": 4.74,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=311293"
+        },
+        {
+            "mal_id": 46,
+            "url": null,
+            "title": "The Nonsensical Magical Year-end Party",
+            "title_japanese": "ハチャメチャ魔法忘年会",
+            "title_romanji": "Hachamecha Mahou Bounenkai ",
+            "aired": "2001-12-30T00:00:00+00:00",
+            "score": 4.11,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=392395"
+        },
+        {
+            "mal_id": 47,
+            "url": null,
+            "title": "Hana-chan's Great Adventure",
+            "title_japanese": "ハナちゃんの大冒険",
+            "title_romanji": "Hana-chan no Daibouken ",
+            "aired": "2002-01-06T00:00:00+00:00",
+            "score": 4.35,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=392401"
+        },
+        {
+            "mal_id": 48,
+            "url": null,
+            "title": "Zero Clues! The Final Examination",
+            "title_japanese": "手がかりゼロ!最後の試験",
+            "title_romanji": "Tegakari Zero! Saigo no Shiken ",
+            "aired": "2002-01-13T00:00:00+00:00",
+            "score": 4.56,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=311553"
+        },
+        {
+            "mal_id": 49,
+            "url": null,
+            "title": "Open Your Eyes! Manipulated Momoko",
+            "title_japanese": "目をさまして!あやつられたももこ",
+            "title_romanji": "Me wo Samashite! Ayatsurareta Momoko ",
+            "aired": "2002-01-20T00:00:00+00:00",
+            "score": 4.57,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=311577"
+        },
+        {
+            "mal_id": 50,
+            "url": null,
+            "title": "Good-bye Witch Apprentices",
+            "title_japanese": "さよなら魔女見習い",
+            "title_romanji": "Sayonara Majo Minarai ",
+            "aired": "2002-01-27T00:00:00+00:00",
+            "score": 4.68,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=311581"
+        }
+    ]
+}

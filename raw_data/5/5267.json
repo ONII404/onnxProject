@@ -1,0 +1,546 @@
+{
+    "id": 5267,
+    "fetched_at": "Sun Dec 14 08:46:52 2025",
+    "metadata": {
+        "mal_id": 5267,
+        "url": "https://myanimelist.net/anime/5267/Gamba_no_Bouken",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/10/57873.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/10/57873t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/10/57873l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/10/57873.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/10/57873t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/10/57873l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Gamba no Bouken"
+            },
+            {
+                "type": "Synonym",
+                "title": "Gamba's Adventure"
+            },
+            {
+                "type": "Synonym",
+                "title": "Ganba no Bouken"
+            },
+            {
+                "type": "Synonym",
+                "title": "The Adventures of Ganba"
+            },
+            {
+                "type": "Japanese",
+                "title": "ガンバの冒険"
+            },
+            {
+                "type": "English",
+                "title": "Adventure of Gamba"
+            },
+            {
+                "type": "Spanish",
+                "title": "Las Aventuras de Gamba"
+            }
+        ],
+        "title": "Gamba no Bouken",
+        "title_english": "Adventure of Gamba",
+        "title_japanese": "ガンバの冒険",
+        "title_synonyms": [
+            "Gamba's Adventure",
+            "Ganba no Bouken",
+            "The Adventures of Ganba"
+        ],
+        "type": "TV",
+        "source": "Novel",
+        "episodes": 26,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "1975-04-07T00:00:00+00:00",
+            "to": "1975-09-29T00:00:00+00:00",
+            "prop": {
+                "from": {
+                    "day": 7,
+                    "month": 4,
+                    "year": 1975
+                },
+                "to": {
+                    "day": 29,
+                    "month": 9,
+                    "year": 1975
+                }
+            },
+            "string": "Apr 7, 1975 to Sep 29, 1975"
+        },
+        "duration": "24 min per ep",
+        "rating": "G - All Ages",
+        "score": 7.22,
+        "scored_by": 1930,
+        "rank": 3379,
+        "popularity": 8922,
+        "members": 5634,
+        "favorites": 39,
+        "synopsis": "An adventurous wild mouse called Gamba travels with his friends to see the ocean but he finds an injured mouse and hears about the violence of white ferret Noroi. Gamba decides to help the mice suffering under Noroi's tyranny.",
+        "background": "",
+        "season": "spring",
+        "year": 1975,
+        "broadcast": {
+            "day": null,
+            "time": null,
+            "timezone": null,
+            "string": "Unknown"
+        },
+        "producers": [
+            {
+                "mal_id": 1003,
+                "type": "anime",
+                "name": "Nippon Television Network",
+                "url": "https://myanimelist.net/anime/producer/1003/Nippon_Television_Network"
+            }
+        ],
+        "licensors": [],
+        "studios": [
+            {
+                "mal_id": 65,
+                "type": "anime",
+                "name": "Tokyo Movie Shinsha",
+                "url": "https://myanimelist.net/anime/producer/65/Tokyo_Movie_Shinsha"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 2,
+                "type": "anime",
+                "name": "Adventure",
+                "url": "https://myanimelist.net/anime/genre/2/Adventure"
+            },
+            {
+                "mal_id": 41,
+                "type": "anime",
+                "name": "Suspense",
+                "url": "https://myanimelist.net/anime/genre/41/Suspense"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [
+            {
+                "mal_id": 51,
+                "type": "anime",
+                "name": "Anthropomorphic",
+                "url": "https://myanimelist.net/anime/genre/51/Anthropomorphic"
+            }
+        ],
+        "demographics": [
+            {
+                "mal_id": 15,
+                "type": "anime",
+                "name": "Kids",
+                "url": "https://myanimelist.net/anime/genre/15/Kids"
+            }
+        ],
+        "relations": [
+            {
+                "relation": "Sequel",
+                "entry": [
+                    {
+                        "mal_id": 20175,
+                        "type": "anime",
+                        "name": "Gamba to Kawauso no Bouken",
+                        "url": "https://myanimelist.net/anime/20175/Gamba_to_Kawauso_no_Bouken"
+                    }
+                ]
+            },
+            {
+                "relation": "Summary",
+                "entry": [
+                    {
+                        "mal_id": 28983,
+                        "type": "anime",
+                        "name": "Bouken-tachi Gamba to Nanbiki no Nakama",
+                        "url": "https://myanimelist.net/anime/28983/Bouken-tachi_Gamba_to_Nanbiki_no_Nakama"
+                    }
+                ]
+            },
+            {
+                "relation": "Alternative Version",
+                "entry": [
+                    {
+                        "mal_id": 30738,
+                        "type": "anime",
+                        "name": "Gamba: Gamba to Nakama-tachi",
+                        "url": "https://myanimelist.net/anime/30738/Gamba__Gamba_to_Nakama-tachi"
+                    }
+                ]
+            },
+            {
+                "relation": "Character",
+                "entry": [
+                    {
+                        "mal_id": 35710,
+                        "type": "anime",
+                        "name": "Baby Gamba",
+                        "url": "https://myanimelist.net/anime/35710/Baby_Gamba"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [
+                "\"Gamba no Uta (ガンバの唄)\" by Kawahara Sabu"
+            ],
+            "endings": [
+                "\"Boukensha-tachi no Ballad (冒険者たちのバラード)\" by Yoshihiro Sugiura (すぎうらよしひろ)"
+            ]
+        },
+        "external": [
+            {
+                "name": "Official Site",
+                "url": "http://www.tms-e.com/library/tokushu/ganba/"
+            },
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=5411"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=1434"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "http://en.wikipedia.org/wiki/Ganba_no_B%C5%8Dken"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": [
+        {
+            "mal_id": 1,
+            "url": null,
+            "title": "Out to Sea, To Adventure!",
+            "title_japanese": "冒険だ海へ出よう!",
+            "title_romanji": "Bouken Da Umi e Deyou! ",
+            "aired": "1975-04-07T00:00:00+00:00",
+            "score": 4.64,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=296437"
+        },
+        {
+            "mal_id": 2,
+            "url": null,
+            "title": "Gamba Goes Nuts Onboard",
+            "title_japanese": "ガンバ、船で大暴れ",
+            "title_romanji": "Gamba, Sen de Dai Abare ",
+            "aired": "1975-04-14T00:00:00+00:00",
+            "score": 4.38,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1446978"
+        },
+        {
+            "mal_id": 3,
+            "url": null,
+            "title": "Mission: Save Chūta!",
+            "title_japanese": "忠太を救え! 大作戦",
+            "title_romanji": "Chuuta wo Sukue! Daisakusen ",
+            "aired": "1975-04-21T00:00:00+00:00",
+            "score": 4.6,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1530758"
+        },
+        {
+            "mal_id": 4,
+            "url": null,
+            "title": "Battered by a Storm",
+            "title_japanese": "嵐にやられてメッタメタ",
+            "title_romanji": "Arashi ni Yararete Mettameta ",
+            "aired": "1975-04-28T00:00:00+00:00",
+            "score": 4.75,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1784839"
+        },
+        {
+            "mal_id": 5,
+            "url": null,
+            "title": "What Awaits on Battleship Island?",
+            "title_japanese": "なにが飛び出す? 軍艦島",
+            "title_romanji": "Nani ga Tobidasu? Gunkan Tou ",
+            "aired": "1975-05-07T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 6,
+            "url": null,
+            "title": "Fun, Fun Diving",
+            "title_japanese": "たのしいたのしい潜水艦",
+            "title_romanji": "Tanoshii Tanoshii Sensuikan ",
+            "aired": "1975-05-12T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2241601"
+        },
+        {
+            "mal_id": 7,
+            "url": null,
+            "title": "Scary, Scary Black Shadow",
+            "title_japanese": "ぶきみなぶきみな黒い影",
+            "title_romanji": "Bukimi Nabu Kimi na Kuroi Kage ",
+            "aired": "1975-05-19T00:00:00+00:00",
+            "score": 4.2,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1786584"
+        },
+        {
+            "mal_id": 8,
+            "url": null,
+            "title": "Bobo's First Love",
+            "title_japanese": "ボーボが初めて恋をした",
+            "title_romanji": "Boubo ga Hajimete Koi wo Shita ",
+            "aired": "1975-05-26T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 9,
+            "url": null,
+            "title": "Difficult Battle With The Black Fox",
+            "title_japanese": "黒ギツネとの苦しい戦い",
+            "title_romanji": "Kuro Gitsune to no Kurushii Tatakai ",
+            "aired": "1975-06-02T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2241969"
+        },
+        {
+            "mal_id": 10,
+            "url": null,
+            "title": "Seven Split Boards Going Their Separate Ways",
+            "title_japanese": "かじって別れた七つのイカダ",
+            "title_romanji": "Kajitte Wakareta Nanatsu no Ikada ",
+            "aired": "1975-06-09T00:00:00+00:00",
+            "score": 4.5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1787090"
+        },
+        {
+            "mal_id": 11,
+            "url": null,
+            "title": "After Toragorou, The Swindler!",
+            "title_japanese": "ぺてん師トラゴローを追え!",
+            "title_romanji": "Petenshi Toragorou wo Oe! ",
+            "aired": "1975-06-16T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 12,
+            "url": null,
+            "title": "A Party, A Fight, An Uproar",
+            "title_japanese": "祭りだ 喧嘩だ 大騒動",
+            "title_romanji": "Matsuri Da Kenka Da Daisoudou ",
+            "aired": "1975-06-23T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2242496"
+        },
+        {
+            "mal_id": 13,
+            "url": null,
+            "title": "Special Training!! Operation Moo-moo",
+            "title_japanese": "特訓!!モーモー大作戦",
+            "title_romanji": "Tokkun!! Moo-moo Daisakusen ",
+            "aired": "1975-06-30T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 14,
+            "url": null,
+            "title": "Attack of a Pack of Hunting Dogs",
+            "title_japanese": "襲いかかる猟犬の群れ",
+            "title_romanji": "Osoikakaru Ryouken no Mure ",
+            "aired": "1975-07-07T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 15,
+            "url": null,
+            "title": "Gamba Kidnapped by an Eagle",
+            "title_japanese": "鷹にさらわれたガンバ",
+            "title_romanji": "Taka ni Sarawareta Ganba ",
+            "aired": "1975-07-14T00:00:00+00:00",
+            "score": 4.9,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1786318"
+        },
+        {
+            "mal_id": 16,
+            "url": null,
+            "title": "Climbing Formidable Crow Peak!",
+            "title_japanese": "魔のカラス岳を登れ!",
+            "title_romanji": "Ma no Karasu Dake wo Nobore! ",
+            "aired": "1975-07-21T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 17,
+            "url": null,
+            "title": "Run, Run, For The Weasel Is Near",
+            "title_japanese": "走れ走れノロイは近い",
+            "title_romanji": "Hashire Hashire Noroi wa Chikai ",
+            "aired": "1975-07-28T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 18,
+            "url": null,
+            "title": "Curious, Fat Mice",
+            "title_japanese": "奇妙なふとったネズミたち",
+            "title_romanji": "Kimyou na Futotta Nezumi-tachi ",
+            "aired": "1975-08-04T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2243708"
+        },
+        {
+            "mal_id": 19,
+            "url": null,
+            "title": "Streaked Shearwater Sinking in Darkness",
+            "title_japanese": "闇に潜むオオミズナギ鳥",
+            "title_romanji": "Yami ni Hisomu Oomizunagi Tori ",
+            "aired": "1975-08-11T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 20,
+            "url": null,
+            "title": "We Saw a White Weasel!",
+            "title_japanese": "白イタチノロイを見た!",
+            "title_romanji": "Shiro Itachinoroi wo Mita! ",
+            "aired": "1975-08-18T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2244235"
+        },
+        {
+            "mal_id": 21,
+            "url": null,
+            "title": "13 Eyes Wet With Tears",
+            "title_japanese": "涙にぬれた13の瞳",
+            "title_romanji": "Namida ni Nureta 13 no Hitomi ",
+            "aired": "1975-08-25T00:00:00+00:00",
+            "score": 5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1844425"
+        },
+        {
+            "mal_id": 22,
+            "url": null,
+            "title": "Friends from Across the Sea",
+            "title_japanese": "海を渡って来た仲間",
+            "title_romanji": "Umi wo Watatte Kita Nakama ",
+            "aired": "1975-09-01T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 23,
+            "url": null,
+            "title": "Traitor Amid the Fortress",
+            "title_japanese": "裏切りの砦",
+            "title_romanji": "Uragiri no Toride ",
+            "aired": "1975-09-08T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2244688"
+        },
+        {
+            "mal_id": 24,
+            "url": null,
+            "title": "The Whisper of the White Demon",
+            "title_japanese": "白い悪魔のささやき",
+            "title_romanji": "Shiroi Akuma no Sasayaki ",
+            "aired": "1975-09-15T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 25,
+            "url": null,
+            "title": "Hell's Grotto",
+            "title_japanese": "地獄の岩穴",
+            "title_romanji": "Jigoku no Iwa Ana ",
+            "aired": "1975-09-22T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 26,
+            "url": null,
+            "title": "The Great Sprial: Our Final Battle",
+            "title_japanese": "最後の戦い大うずまき",
+            "title_romanji": "Saigo no Tatakai Dai Uzumaki ",
+            "aired": "1975-09-29T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        }
+    ]
+}

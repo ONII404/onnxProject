@@ -1,0 +1,180 @@
+{
+    "id": 10554,
+    "fetched_at": "Sun Dec 14 09:33:29 2025",
+    "metadata": {
+        "mal_id": 10554,
+        "url": "https://myanimelist.net/anime/10554/Yakyuukyou_no_Uta",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1998/138510.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1998/138510t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1998/138510l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1998/138510.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1998/138510t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1998/138510l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Yakyuukyou no Uta"
+            },
+            {
+                "type": "Synonym",
+                "title": "Song of Baseball Enthusiasts"
+            },
+            {
+                "type": "Japanese",
+                "title": "野球狂の詩"
+            }
+        ],
+        "title": "Yakyuukyou no Uta",
+        "title_english": null,
+        "title_japanese": "野球狂の詩",
+        "title_synonyms": [
+            "Song of Baseball Enthusiasts"
+        ],
+        "type": "TV",
+        "source": "Manga",
+        "episodes": 25,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "1977-12-23T00:00:00+00:00",
+            "to": "1979-03-26T00:00:00+00:00",
+            "prop": {
+                "from": {
+                    "day": 23,
+                    "month": 12,
+                    "year": 1977
+                },
+                "to": {
+                    "day": 26,
+                    "month": 3,
+                    "year": 1979
+                }
+            },
+            "string": "Dec 23, 1977 to Mar 26, 1979"
+        },
+        "duration": "46 min per ep",
+        "rating": "PG-13 - Teens 13 or older",
+        "score": 6.51,
+        "scored_by": 609,
+        "rank": 7302,
+        "popularity": 12436,
+        "members": 1997,
+        "favorites": 12,
+        "synopsis": "Against her insistence, Yuuki is drafted by the Tokyo Mets as the first woman player in the baseball league.",
+        "background": "",
+        "season": "winter",
+        "year": 1978,
+        "broadcast": {
+            "day": null,
+            "time": null,
+            "timezone": null,
+            "string": "Unknown"
+        },
+        "producers": [],
+        "licensors": [],
+        "studios": [
+            {
+                "mal_id": 22,
+                "type": "anime",
+                "name": "Nippon Animation",
+                "url": "https://myanimelist.net/anime/producer/22/Nippon_Animation"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 8,
+                "type": "anime",
+                "name": "Drama",
+                "url": "https://myanimelist.net/anime/genre/8/Drama"
+            },
+            {
+                "mal_id": 30,
+                "type": "anime",
+                "name": "Sports",
+                "url": "https://myanimelist.net/anime/genre/30/Sports"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [
+            {
+                "mal_id": 77,
+                "type": "anime",
+                "name": "Team Sports",
+                "url": "https://myanimelist.net/anime/genre/77/Team_Sports"
+            }
+        ],
+        "demographics": [],
+        "relations": [
+            {
+                "relation": "Adaptation",
+                "entry": [
+                    {
+                        "mal_id": 82433,
+                        "type": "manga",
+                        "name": "Yakyuukyou no Uta",
+                        "url": "https://myanimelist.net/manga/82433/Yakyuukyou_no_Uta"
+                    }
+                ]
+            },
+            {
+                "relation": "Side Story",
+                "entry": [
+                    {
+                        "mal_id": 10563,
+                        "type": "anime",
+                        "name": "Yakyuukyou no Uta: Kita no Ookami Minami no Tora",
+                        "url": "https://myanimelist.net/anime/10563/Yakyuukyou_no_Uta__Kita_no_Ookami_Minami_no_Tora"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [
+                "1: \"Yakyuukyou no Uta\" by Columbia Dansei Gasshoudan",
+                "2: \"Kita no Ookami, Minami no Tora\" by Ichirou Mizuki"
+            ],
+            "endings": [
+                "\"Yuuki no Theme\" by Mitsuko Horie"
+            ]
+        },
+        "external": [
+            {
+                "name": "Official Site",
+                "url": "http://www.nippon-animation.co.jp/work/yakyukyono_uta.html"
+            },
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=3488"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=1692"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "http://ja.wikipedia.org/wiki/野球狂の詩"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": []
+}

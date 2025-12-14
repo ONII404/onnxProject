@@ -1,0 +1,153 @@
+{
+    "id": 16490,
+    "fetched_at": "Sun Dec 14 09:46:27 2025",
+    "metadata": {
+        "mal_id": 16490,
+        "url": "https://myanimelist.net/anime/16490/Robot_Taekwon_V_wa_Hwanggeum_Nalgae",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/4/44650.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/4/44650t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/4/44650l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/4/44650.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/4/44650t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/4/44650l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Robot Taekwon V wa Hwanggeum Nalgae"
+            },
+            {
+                "type": "Synonym",
+                "title": "Robot Taekwon V vs Goldwing"
+            },
+            {
+                "type": "Synonym",
+                "title": "Robot Taekwon V vs Golden Wings"
+            },
+            {
+                "type": "Synonym",
+                "title": "Robot Taekwon V vs. Golden Wings Showdown"
+            },
+            {
+                "type": "Japanese",
+                "title": "로보트 태권V와 황금날개의 대결"
+            }
+        ],
+        "title": "Robot Taekwon V wa Hwanggeum Nalgae",
+        "title_english": null,
+        "title_japanese": "로보트 태권V와 황금날개의 대결",
+        "title_synonyms": [
+            "Robot Taekwon V vs Goldwing",
+            "Robot Taekwon V vs Golden Wings",
+            "Robot Taekwon V vs. Golden Wings Showdown"
+        ],
+        "type": "Movie",
+        "source": "Unknown",
+        "episodes": 1,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "1978-07-26T00:00:00+00:00",
+            "to": null,
+            "prop": {
+                "from": {
+                    "day": 26,
+                    "month": 7,
+                    "year": 1978
+                },
+                "to": {
+                    "day": null,
+                    "month": null,
+                    "year": null
+                }
+            },
+            "string": "Jul 26, 1978"
+        },
+        "duration": "1 hr 6 min",
+        "rating": "PG - Children",
+        "score": null,
+        "scored_by": null,
+        "rank": 14574,
+        "popularity": 18215,
+        "members": 483,
+        "favorites": 0,
+        "synopsis": "The fourth movie in the popular Korean movie series Robot Taekwon V.",
+        "background": "",
+        "season": null,
+        "year": null,
+        "broadcast": {
+            "day": null,
+            "time": null,
+            "timezone": null,
+            "string": null
+        },
+        "producers": [],
+        "licensors": [],
+        "studios": [],
+        "genres": [],
+        "explicit_genres": [],
+        "themes": [
+            {
+                "mal_id": 18,
+                "type": "anime",
+                "name": "Mecha",
+                "url": "https://myanimelist.net/anime/genre/18/Mecha"
+            }
+        ],
+        "demographics": [],
+        "relations": [
+            {
+                "relation": "Prequel",
+                "entry": [
+                    {
+                        "mal_id": 16566,
+                        "type": "anime",
+                        "name": "Robot Taekwon V 3tan! Sujung Teukgongdae",
+                        "url": "https://myanimelist.net/anime/16566/Robot_Taekwon_V_3tan_Sujung_Teukgongdae"
+                    }
+                ]
+            },
+            {
+                "relation": "Other",
+                "entry": [
+                    {
+                        "mal_id": 16560,
+                        "type": "anime",
+                        "name": "Hwanggeum Nalgae 1.2.3.",
+                        "url": "https://myanimelist.net/anime/16560/Hwanggeum_Nalgae_123"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [],
+            "endings": []
+        },
+        "external": [
+            {
+                "name": "Wikipedia",
+                "url": "http://en.wikipedia.org/wiki/Robot_Taekwon_V"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": []
+}

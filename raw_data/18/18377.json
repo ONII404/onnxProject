@@ -1,0 +1,189 @@
+{
+    "id": 18377,
+    "fetched_at": "Sun Dec 14 09:58:33 2025",
+    "metadata": {
+        "mal_id": 18377,
+        "url": "https://myanimelist.net/anime/18377/Ganbare_Tabuchi-kun_Gekitou_Pennant_Race",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1446/96591.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1446/96591t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1446/96591l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1446/96591.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1446/96591t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1446/96591l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Ganbare!! Tabuchi-kun!! Gekitou Pennant Race"
+            },
+            {
+                "type": "Synonym",
+                "title": "Go For It"
+            },
+            {
+                "type": "Synonym",
+                "title": "Tabuchi: Violent Pennant Contest"
+            },
+            {
+                "type": "Japanese",
+                "title": "がんばれ!!タブチくん!! 激闘ペナントレース"
+            }
+        ],
+        "title": "Ganbare!! Tabuchi-kun!! Gekitou Pennant Race",
+        "title_english": null,
+        "title_japanese": "がんばれ!!タブチくん!! 激闘ペナントレース",
+        "title_synonyms": [
+            "Go For It",
+            "Tabuchi: Violent Pennant Contest"
+        ],
+        "type": "Movie",
+        "source": "4-koma manga",
+        "episodes": 1,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "1980-05-03T00:00:00+00:00",
+            "to": null,
+            "prop": {
+                "from": {
+                    "day": 3,
+                    "month": 5,
+                    "year": 1980
+                },
+                "to": {
+                    "day": null,
+                    "month": null,
+                    "year": null
+                }
+            },
+            "string": "May 3, 1980"
+        },
+        "duration": "1 hr 35 min",
+        "rating": "PG-13 - Teens 13 or older",
+        "score": 5.65,
+        "scored_by": 144,
+        "rank": 12109,
+        "popularity": 17464,
+        "members": 552,
+        "favorites": 0,
+        "synopsis": "Based on Ishii Hisaichi's 1979 manga Ganbare!! Tabuchi-kun!!, serialized in weekly Manga Action magazine.\n\nThe Seibu Lions baseball team makes it to the next round of a baseball tournament thanks to the heroic efforts of its star player, Tabuchi, but the next stage will involve hard work and cooperation. In a sports anime that pitches caricatures of real-life players against cartoon characters, the Lions (whose real-life mascot is the grown-up Kimba the White Lion), keep losing games due to Tabuchi's poor condition-his shadow is getting paler. \nA group of fellow players turns up at the stadium, accompanied by Dokaben, and they encourage Tabuchi to pull through. They organize a Tabuchi Day to show him how appreciated he is, but it is a miserable failure.\nEventually, he is brought out of his depression by the arrival of a girl called Miyoko, who obliges by dressing up as a cheerleader.\n\nNote: Real-life members of the Seibu Lions baseball team are caricatured.\n\n(Source: AniDB)",
+        "background": "",
+        "season": null,
+        "year": null,
+        "broadcast": {
+            "day": null,
+            "time": null,
+            "timezone": null,
+            "string": null
+        },
+        "producers": [],
+        "licensors": [],
+        "studios": [
+            {
+                "mal_id": 65,
+                "type": "anime",
+                "name": "Tokyo Movie Shinsha",
+                "url": "https://myanimelist.net/anime/producer/65/Tokyo_Movie_Shinsha"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 4,
+                "type": "anime",
+                "name": "Comedy",
+                "url": "https://myanimelist.net/anime/genre/4/Comedy"
+            },
+            {
+                "mal_id": 30,
+                "type": "anime",
+                "name": "Sports",
+                "url": "https://myanimelist.net/anime/genre/30/Sports"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [
+            {
+                "mal_id": 77,
+                "type": "anime",
+                "name": "Team Sports",
+                "url": "https://myanimelist.net/anime/genre/77/Team_Sports"
+            }
+        ],
+        "demographics": [],
+        "relations": [
+            {
+                "relation": "Prequel",
+                "entry": [
+                    {
+                        "mal_id": 32835,
+                        "type": "anime",
+                        "name": "Ganbare!! Tabuchi-kun!!",
+                        "url": "https://myanimelist.net/anime/32835/Ganbare_Tabuchi-kun"
+                    }
+                ]
+            },
+            {
+                "relation": "Sequel",
+                "entry": [
+                    {
+                        "mal_id": 33325,
+                        "type": "anime",
+                        "name": "Ganbare!! Tabuchi-kun!! Aa Tsuppari Jinsei",
+                        "url": "https://myanimelist.net/anime/33325/Ganbare_Tabuchi-kun_Aa_Tsuppari_Jinsei"
+                    }
+                ]
+            },
+            {
+                "relation": "Adaptation",
+                "entry": [
+                    {
+                        "mal_id": 98805,
+                        "type": "manga",
+                        "name": "Ganbare!! Tabuchi-kun!!",
+                        "url": "https://myanimelist.net/manga/98805/Ganbare_Tabuchi-kun"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [],
+            "endings": [
+                "\"Ganbareraba Ai (がんばれば愛)\" by Crazy Party (クレイジー・パーティー)"
+            ]
+        },
+        "external": [
+            {
+                "name": "Official Site",
+                "url": "http://www.tms-e.com/library/old/movie/data/m_tabu2.html"
+            },
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=3143"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "http://en.wikipedia.org/wiki/Ganbare!!_Tabuchi-kun!!"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": []
+}

@@ -1,0 +1,162 @@
+{
+    "id": 31348,
+    "fetched_at": "Sun Dec 14 10:47:07 2025",
+    "metadata": {
+        "mal_id": 31348,
+        "url": "https://myanimelist.net/anime/31348/Xue_Haizi",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/7/75394.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/7/75394t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/7/75394l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/7/75394.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/7/75394t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/7/75394l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Xue Haizi"
+            },
+            {
+                "type": "Synonym",
+                "title": "The Snow Child"
+            },
+            {
+                "type": "Japanese",
+                "title": "雪孩子"
+            }
+        ],
+        "title": "Xue Haizi",
+        "title_english": null,
+        "title_japanese": "雪孩子",
+        "title_synonyms": [
+            "The Snow Child"
+        ],
+        "type": "Movie",
+        "source": "Original",
+        "episodes": 1,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "1980-12-01T00:00:00+00:00",
+            "to": null,
+            "prop": {
+                "from": {
+                    "day": 1,
+                    "month": 12,
+                    "year": 1980
+                },
+                "to": {
+                    "day": null,
+                    "month": null,
+                    "year": null
+                }
+            },
+            "string": "Dec 1980"
+        },
+        "duration": "21 min",
+        "rating": "G - All Ages",
+        "score": 5.64,
+        "scored_by": 228,
+        "rank": 12155,
+        "popularity": 17354,
+        "members": 563,
+        "favorites": 1,
+        "synopsis": "During the Winter season, mother rabbit has to go out, but she is afraid of leaving her son home alone. Her rabbit son decides to make a friend out of the snow to keep him company.",
+        "background": "",
+        "season": null,
+        "year": null,
+        "broadcast": {
+            "day": null,
+            "time": null,
+            "timezone": null,
+            "string": null
+        },
+        "producers": [
+            {
+                "mal_id": 471,
+                "type": "anime",
+                "name": "Shanghai Animation Film Studio",
+                "url": "https://myanimelist.net/anime/producer/471/Shanghai_Animation_Film_Studio"
+            }
+        ],
+        "licensors": [],
+        "studios": [],
+        "genres": [
+            {
+                "mal_id": 10,
+                "type": "anime",
+                "name": "Fantasy",
+                "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [],
+        "demographics": [
+            {
+                "mal_id": 15,
+                "type": "anime",
+                "name": "Kids",
+                "url": "https://myanimelist.net/anime/genre/15/Kids"
+            }
+        ],
+        "relations": [
+            {
+                "relation": "Sequel",
+                "entry": [
+                    {
+                        "mal_id": 43513,
+                        "type": "anime",
+                        "name": "Hui Sheng: Xiao Tu Tao Tao De Gushi",
+                        "url": "https://myanimelist.net/anime/43513/Hui_Sheng__Xiao_Tu_Tao_Tao_De_Gushi"
+                    },
+                    {
+                        "mal_id": 43607,
+                        "type": "anime",
+                        "name": "Xiao Tu Tao Tao De Gushi: Bu Pa Leng De Da Yi",
+                        "url": "https://myanimelist.net/anime/43607/Xiao_Tu_Tao_Tao_De_Gushi__Bu_Pa_Leng_De_Da_Yi"
+                    },
+                    {
+                        "mal_id": 43644,
+                        "type": "anime",
+                        "name": "Bupiao",
+                        "url": "https://myanimelist.net/anime/43644/Bupiao"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [],
+            "endings": []
+        },
+        "external": [
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=14060"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "http://zh.wikipedia.org/wiki/%E9%9B%AA%E5%AD%A9%E5%AD%90"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": []
+}

@@ -1,0 +1,143 @@
+{
+    "id": 35497,
+    "fetched_at": "Sun Dec 14 11:06:01 2025",
+    "metadata": {
+        "mal_id": 35497,
+        "url": "https://myanimelist.net/anime/35497/Hashire_Melos",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/2/85540.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/2/85540t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/2/85540l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/2/85540.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/2/85540t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/2/85540l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Hashire Melos"
+            },
+            {
+                "type": "Japanese",
+                "title": "走れメロス"
+            },
+            {
+                "type": "English",
+                "title": "Run, Melos!"
+            }
+        ],
+        "title": "Hashire Melos",
+        "title_english": "Run, Melos!",
+        "title_japanese": "走れメロス",
+        "title_synonyms": [],
+        "type": "Movie",
+        "source": "Novel",
+        "episodes": 1,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "1979-01-01T00:00:00+00:00",
+            "to": null,
+            "prop": {
+                "from": {
+                    "day": 1,
+                    "month": 1,
+                    "year": 1979
+                },
+                "to": {
+                    "day": null,
+                    "month": null,
+                    "year": null
+                }
+            },
+            "string": "1979"
+        },
+        "duration": "18 min",
+        "rating": "G - All Ages",
+        "score": 5.39,
+        "scored_by": 207,
+        "rank": 13024,
+        "popularity": 16040,
+        "members": 744,
+        "favorites": 0,
+        "synopsis": "A Gakken version of the Run, Melos!.",
+        "background": "",
+        "season": null,
+        "year": null,
+        "broadcast": {
+            "day": null,
+            "time": null,
+            "timezone": null,
+            "string": null
+        },
+        "producers": [
+            {
+                "mal_id": 198,
+                "type": "anime",
+                "name": "Gakken",
+                "url": "https://myanimelist.net/anime/producer/198/Gakken"
+            }
+        ],
+        "licensors": [],
+        "studios": [],
+        "genres": [
+            {
+                "mal_id": 2,
+                "type": "anime",
+                "name": "Adventure",
+                "url": "https://myanimelist.net/anime/genre/2/Adventure"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [],
+        "demographics": [],
+        "relations": [
+            {
+                "relation": "Alternative Version",
+                "entry": [
+                    {
+                        "mal_id": 8554,
+                        "type": "anime",
+                        "name": "Hashire Melos (1981)",
+                        "url": "https://myanimelist.net/anime/8554/Hashire_Melos_1981"
+                    },
+                    {
+                        "mal_id": 4876,
+                        "type": "anime",
+                        "name": "Hashire Melos (Movie)",
+                        "url": "https://myanimelist.net/anime/4876/Hashire_Melos_Movie"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [],
+            "endings": []
+        },
+        "external": [
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=15058"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": []
+}

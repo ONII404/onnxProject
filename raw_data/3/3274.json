@@ -1,0 +1,203 @@
+{
+    "id": 3274,
+    "fetched_at": "Sun Dec 14 08:22:06 2025",
+    "metadata": {
+        "mal_id": 3274,
+        "url": "https://myanimelist.net/anime/3274/Kinnikuman__Ooabare_Seigi_Choujin",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1274/98815.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1274/98815t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1274/98815l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1274/98815.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1274/98815t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1274/98815l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Kinnikuman: Ooabare! Seigi Choujin"
+            },
+            {
+                "type": "Synonym",
+                "title": "Kinnikuman: Dai Abareru! Seigi Choujin"
+            },
+            {
+                "type": "Synonym",
+                "title": "Kinnikuman: Great Riot! Justice Superman"
+            },
+            {
+                "type": "Synonym",
+                "title": "Kinnikuman: Daiabare! Segi Choujin"
+            },
+            {
+                "type": "Japanese",
+                "title": "キン肉マン 大暴れ！正義超人"
+            }
+        ],
+        "title": "Kinnikuman: Ooabare! Seigi Choujin",
+        "title_english": null,
+        "title_japanese": "キン肉マン 大暴れ！正義超人",
+        "title_synonyms": [
+            "Kinnikuman: Dai Abareru! Seigi Choujin",
+            "Kinnikuman: Great Riot! Justice Superman",
+            "Kinnikuman: Daiabare! Segi Choujin"
+        ],
+        "type": "Movie",
+        "source": "Manga",
+        "episodes": 1,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "1984-12-22T00:00:00+00:00",
+            "to": null,
+            "prop": {
+                "from": {
+                    "day": 22,
+                    "month": 12,
+                    "year": 1984
+                },
+                "to": {
+                    "day": null,
+                    "month": null,
+                    "year": null
+                }
+            },
+            "string": "Dec 22, 1984"
+        },
+        "duration": "48 min",
+        "rating": "PG-13 - Teens 13 or older",
+        "score": 6.12,
+        "scored_by": 686,
+        "rank": 9623,
+        "popularity": 12899,
+        "members": 1718,
+        "favorites": 0,
+        "synopsis": null,
+        "background": "Ooabare! Seigi Choujin is a 1984 Japanese animated film. It is the second theatrical film based on the anime series Kinnikuman. It was released in Japan on December 22, 1984 alongside Dr. Slump and Arale-chan: Hoyoyo! The Treasure of Nanaba Castle and Uchuu Keiji Shaider: Follow the Shigishigi Kidnapping Gang!. It is set after the Seven Akuma Choujin Arc. It was the first movie to feature the character Buffaloman and was the first of only two films to feature the Announcer (the other being Crisis in New York!). It is the first anime appearance of Bibinba, who appears as Kinnikuman's fiancee in the original manga. (Source: Wikipedia)",
+        "season": null,
+        "year": null,
+        "broadcast": {
+            "day": null,
+            "time": null,
+            "timezone": null,
+            "string": null
+        },
+        "producers": [],
+        "licensors": [],
+        "studios": [
+            {
+                "mal_id": 18,
+                "type": "anime",
+                "name": "Toei Animation",
+                "url": "https://myanimelist.net/anime/producer/18/Toei_Animation"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 4,
+                "type": "anime",
+                "name": "Comedy",
+                "url": "https://myanimelist.net/anime/genre/4/Comedy"
+            },
+            {
+                "mal_id": 30,
+                "type": "anime",
+                "name": "Sports",
+                "url": "https://myanimelist.net/anime/genre/30/Sports"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [
+            {
+                "mal_id": 54,
+                "type": "anime",
+                "name": "Combat Sports",
+                "url": "https://myanimelist.net/anime/genre/54/Combat_Sports"
+            }
+        ],
+        "demographics": [
+            {
+                "mal_id": 27,
+                "type": "anime",
+                "name": "Shounen",
+                "url": "https://myanimelist.net/anime/genre/27/Shounen"
+            }
+        ],
+        "relations": [
+            {
+                "relation": "Prequel",
+                "entry": [
+                    {
+                        "mal_id": 3273,
+                        "type": "anime",
+                        "name": "Kinnikuman (Movie)",
+                        "url": "https://myanimelist.net/anime/3273/Kinnikuman_Movie"
+                    }
+                ]
+            },
+            {
+                "relation": "Sequel",
+                "entry": [
+                    {
+                        "mal_id": 3275,
+                        "type": "anime",
+                        "name": "Kinnikuman: Seigi Choujin vs. Kodai Choujin",
+                        "url": "https://myanimelist.net/anime/3275/Kinnikuman__Seigi_Choujin_vs_Kodai_Choujin"
+                    }
+                ]
+            },
+            {
+                "relation": "Parent Story",
+                "entry": [
+                    {
+                        "mal_id": 3272,
+                        "type": "anime",
+                        "name": "Kinnikuman",
+                        "url": "https://myanimelist.net/anime/3272/Kinnikuman"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [
+                "\"Honoo no Kinnikuman (炎のキン肉マン)\" by Akira Kushida"
+            ],
+            "endings": [
+                "\"Kinnikumambo (キン肉マンボ)\" by Akira Kamiya, Koorogi '73, Shines"
+            ]
+        },
+        "external": [
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=2283"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=3672"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "http://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%B3%E8%82%89%E3%83%9E%E3%83%B3_%E5%A4%A7%E6%9A%B4%E3%82%8C!%E6%AD%A3%E7%BE%A9%E8%B6%85%E4%BA%BA"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": []
+}

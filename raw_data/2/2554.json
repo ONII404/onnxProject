@@ -1,0 +1,811 @@
+{
+    "id": 2554,
+    "fetched_at": "Sun Dec 14 07:26:37 2025",
+    "metadata": {
+        "mal_id": 2554,
+        "url": "https://myanimelist.net/anime/2554/Ai_Shoujo_Pollyanna_Story",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/13/71674.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/13/71674t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/13/71674l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/13/71674.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/13/71674t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/13/71674l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Ai Shoujo Pollyanna Story"
+            },
+            {
+                "type": "Synonym",
+                "title": "Sekai Meisaku Gekijou"
+            },
+            {
+                "type": "Synonym",
+                "title": "Story of Pollyanna"
+            },
+            {
+                "type": "Synonym",
+                "title": "Girl of Love"
+            },
+            {
+                "type": "Synonym",
+                "title": "Ai Shoujo Pollyanna Monogatari"
+            },
+            {
+                "type": "Japanese",
+                "title": "愛少女ポリアンナ物語"
+            },
+            {
+                "type": "German",
+                "title": "Wunderbare Pollyanna"
+            },
+            {
+                "type": "French",
+                "title": "Pollyanna"
+            }
+        ],
+        "title": "Ai Shoujo Pollyanna Story",
+        "title_english": null,
+        "title_japanese": "愛少女ポリアンナ物語",
+        "title_synonyms": [
+            "Sekai Meisaku Gekijou",
+            "Story of Pollyanna",
+            "Girl of Love",
+            "Ai Shoujo Pollyanna Monogatari"
+        ],
+        "type": "TV",
+        "source": "Novel",
+        "episodes": 51,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "1986-01-05T00:00:00+00:00",
+            "to": "1986-12-28T00:00:00+00:00",
+            "prop": {
+                "from": {
+                    "day": 5,
+                    "month": 1,
+                    "year": 1986
+                },
+                "to": {
+                    "day": 28,
+                    "month": 12,
+                    "year": 1986
+                }
+            },
+            "string": "Jan 5, 1986 to Dec 28, 1986"
+        },
+        "duration": "25 min per ep",
+        "rating": "G - All Ages",
+        "score": 6.95,
+        "scored_by": 2556,
+        "rank": 4756,
+        "popularity": 8313,
+        "members": 6687,
+        "favorites": 29,
+        "synopsis": "Motherless since birth, Pollyanna was an ordinary happy-go-lucky girl, leaving peacefully with her father, the vicar. Then one day her life changes completely when her father dies and she has to live with her aunt whom she has never met before. In the beginning, she seems to be detested by her but as time passes, they develop a very strong bond. \n\n(Source: ANN)",
+        "background": "",
+        "season": "winter",
+        "year": 1986,
+        "broadcast": {
+            "day": "Sundays",
+            "time": "19:30",
+            "timezone": "Asia/Tokyo",
+            "string": "Sundays at 19:30 (JST)"
+        },
+        "producers": [],
+        "licensors": [],
+        "studios": [
+            {
+                "mal_id": 22,
+                "type": "anime",
+                "name": "Nippon Animation",
+                "url": "https://myanimelist.net/anime/producer/22/Nippon_Animation"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 8,
+                "type": "anime",
+                "name": "Drama",
+                "url": "https://myanimelist.net/anime/genre/8/Drama"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [
+            {
+                "mal_id": 13,
+                "type": "anime",
+                "name": "Historical",
+                "url": "https://myanimelist.net/anime/genre/13/Historical"
+            }
+        ],
+        "demographics": [],
+        "relations": [
+            {
+                "relation": "Adaptation",
+                "entry": [
+                    {
+                        "mal_id": 170057,
+                        "type": "manga",
+                        "name": "Ai Shoujo Pollyanna Story",
+                        "url": "https://myanimelist.net/manga/170057/Ai_Shoujo_Pollyanna_Story"
+                    }
+                ]
+            },
+            {
+                "relation": "Summary",
+                "entry": [
+                    {
+                        "mal_id": 24645,
+                        "type": "anime",
+                        "name": "Ai Shoujo Pollyanna Story Specials",
+                        "url": "https://myanimelist.net/anime/24645/Ai_Shoujo_Pollyanna_Story_Specials"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [
+                "1: \"Shiawase Carnival (し・あ・わ・せ カーニバル)\" by Yuuki Kudou (eps 01-27)",
+                "2: \"Hohoemu Anata ni Aitai (微笑むあなたに会いたい)\" by Yuuki Kudou (eps 28-51)"
+            ],
+            "endings": [
+                "1: \"Ai ni Naritai (愛になりたい)\" by Yuuki Kudou (eps 1-27)",
+                "2: \"Koufuku (幸福)\" by Yuuki Kudou (eps 28-51)"
+            ]
+        },
+        "external": [
+            {
+                "name": "Official Site",
+                "url": "http://www.nippon-animation.co.jp/work/aishojo_pollyanna.html"
+            },
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=2297"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=1057"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "http://en.wikipedia.org/wiki/The_Story_of_Pollyanna,_Girl_of_Love"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": [
+        {
+            "mal_id": 1,
+            "url": null,
+            "title": "The Little Church Girl",
+            "title_japanese": "教会の小さな娘",
+            "title_romanji": "Kyoukai no Chiisana Musume ",
+            "aired": "1986-01-05T00:00:00+00:00",
+            "score": 4.14,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1186231"
+        },
+        {
+            "mal_id": 2,
+            "url": null,
+            "title": "Don't Die, Father!",
+            "title_japanese": "死なないで父さん",
+            "title_romanji": "Shinanaide, Tousan! ",
+            "aired": "1986-01-12T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1533936"
+        },
+        {
+            "mal_id": 3,
+            "url": null,
+            "title": "The Hymn on Top of the Hill",
+            "title_japanese": "丘の上の讃美歌",
+            "title_romanji": "Oka no Ue no Sanbika ",
+            "aired": "1986-01-19T00:00:00+00:00",
+            "score": 4.4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1187779"
+        },
+        {
+            "mal_id": 4,
+            "url": null,
+            "title": "Heading to the Unknown Town",
+            "title_japanese": "見知らぬ町",
+            "title_romanji": "Mishiranu Machi e ",
+            "aired": "1986-01-26T00:00:00+00:00",
+            "score": 4.5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1534227"
+        },
+        {
+            "mal_id": 5,
+            "url": null,
+            "title": "Nancy's Promise",
+            "title_japanese": "ナンシーの約束",
+            "title_romanji": "Nanshii no Yakusoku ",
+            "aired": "1986-02-02T00:00:00+00:00",
+            "score": 4.5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1534232"
+        },
+        {
+            "mal_id": 6,
+            "url": null,
+            "title": "The Commotion with New Clothes",
+            "title_japanese": "新しい服騒動",
+            "title_romanji": "Atarashii Fuku Sodou ",
+            "aired": "1986-02-09T00:00:00+00:00",
+            "score": 4.5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1534238"
+        },
+        {
+            "mal_id": 7,
+            "url": null,
+            "title": "Happy Punishment",
+            "title_japanese": "うれしいおしおき",
+            "title_romanji": "Ureshii Oshioki ",
+            "aired": "1986-02-16T00:00:00+00:00",
+            "score": 4.5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2023369"
+        },
+        {
+            "mal_id": 8,
+            "url": null,
+            "title": "The Mysterious Gentleman",
+            "title_japanese": "不思議な紳士",
+            "title_romanji": "Fushigi na Shinshi ",
+            "aired": "1986-02-23T00:00:00+00:00",
+            "score": 4.5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2023460"
+        },
+        {
+            "mal_id": 9,
+            "url": null,
+            "title": "I Can't Leave You Alone!",
+            "title_japanese": "放っておけないわ",
+            "title_romanji": "Houtte Okenaiwa ",
+            "aired": "1986-03-02T00:00:00+00:00",
+            "score": 4.5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2023462"
+        },
+        {
+            "mal_id": 10,
+            "url": null,
+            "title": "I Have to Do Something!",
+            "title_japanese": "何とかしなくちゃ!",
+            "title_romanji": "Nantoka Shinakutcha! ",
+            "aired": "1986-03-09T00:00:00+00:00",
+            "score": 4.67,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2023470"
+        },
+        {
+            "mal_id": 11,
+            "url": null,
+            "title": "In Pendleton Woods",
+            "title_japanese": "ペンデルトンの森で",
+            "title_romanji": "Pendleton no Mori de ",
+            "aired": "1986-03-16T00:00:00+00:00",
+            "score": 4.33,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2023472"
+        },
+        {
+            "mal_id": 12,
+            "url": null,
+            "title": "A Surprise for Mrs. Snow",
+            "title_japanese": "スノー夫人の驚き",
+            "title_romanji": "Sunou Fujin no Odoroki ",
+            "aired": "1986-03-23T00:00:00+00:00",
+            "score": 4.5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1197257"
+        },
+        {
+            "mal_id": 13,
+            "url": null,
+            "title": "Aunt Polly's Pity",
+            "title_japanese": "おば様はお気の毒",
+            "title_romanji": "Obasama wa Okinodoku ",
+            "aired": "1986-03-30T00:00:00+00:00",
+            "score": 4.33,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2023474"
+        },
+        {
+            "mal_id": 14,
+            "url": null,
+            "title": "Memories of the Hand Mirror",
+            "title_japanese": "手鏡の思い出",
+            "title_romanji": "Tekagami no Omoide ",
+            "aired": "1986-04-06T00:00:00+00:00",
+            "score": 4.67,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2023475"
+        },
+        {
+            "mal_id": 15,
+            "url": null,
+            "title": "The Mysterious Tonic?",
+            "title_japanese": "不思議な特効薬?",
+            "title_romanji": "Fushigina Tokkouyaku? ",
+            "aired": "1986-04-13T00:00:00+00:00",
+            "score": 4.5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2023477"
+        },
+        {
+            "mal_id": 16,
+            "url": null,
+            "title": "Don't Be Angry, Aunt Polly",
+            "title_japanese": "怒らないで!おば様",
+            "title_romanji": "Okora naide! Obasama ",
+            "aired": "1986-04-20T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1542571"
+        },
+        {
+            "mal_id": 17,
+            "url": null,
+            "title": "I Really Love Dr. Chilton!",
+            "title_japanese": "チルトン先生大好き!",
+            "title_romanji": "Chiruton Sensei Daisuki! ",
+            "aired": "1986-04-27T00:00:00+00:00",
+            "score": 4.5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2023478"
+        },
+        {
+            "mal_id": 18,
+            "url": null,
+            "title": "The Mystery of Mr. Pendleton",
+            "title_japanese": "ペンデルトンの謎",
+            "title_romanji": "Pendoruton no Nazo ",
+            "aired": "1986-05-04T00:00:00+00:00",
+            "score": 4.25,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2023480"
+        },
+        {
+            "mal_id": 19,
+            "url": null,
+            "title": "The Surprising Secret",
+            "title_japanese": "驚くべき秘密",
+            "title_romanji": "Odorokubeki Himitsu ",
+            "aired": "1986-05-11T00:00:00+00:00",
+            "score": 4.5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1203741"
+        },
+        {
+            "mal_id": 20,
+            "url": null,
+            "title": "Watch Out, Pollyanna!",
+            "title_japanese": "危ない! ポリアンナ",
+            "title_romanji": "Abunai! Pollyanna ",
+            "aired": "1986-05-18T00:00:00+00:00",
+            "score": 4.33,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1876620"
+        },
+        {
+            "mal_id": 21,
+            "url": null,
+            "title": "A Horrible Prognosis",
+            "title_japanese": "恐ろしい宣告",
+            "title_romanji": "Osoroshii Senkoku ",
+            "aired": "1986-05-25T00:00:00+00:00",
+            "score": 4.17,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1207045"
+        },
+        {
+            "mal_id": 22,
+            "url": null,
+            "title": "My Legs Can't Move!",
+            "title_japanese": "足が動かない!",
+            "title_romanji": "Ashi ga Ugokanai!! ",
+            "aired": "1986-06-01T00:00:00+00:00",
+            "score": 4.67,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1543022"
+        },
+        {
+            "mal_id": 23,
+            "url": null,
+            "title": "I Can't Find Something To Be Glad About!",
+            "title_japanese": "よかったが探せない!",
+            "title_romanji": "Yokatta ga Sagasenai! ",
+            "aired": "1986-06-08T00:00:00+00:00",
+            "score": 4.33,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1207715"
+        },
+        {
+            "mal_id": 24,
+            "url": null,
+            "title": "I Want To Walk Again!",
+            "title_japanese": "う一度歩きたい!",
+            "title_romanji": "Mou Ichido Arukitai! ",
+            "aired": "1986-06-15T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 25,
+            "url": null,
+            "title": "A Dangerous Operation",
+            "title_japanese": "危険な手術",
+            "title_romanji": "Kiken na Shujutsu ",
+            "aired": "1986-06-22T00:00:00+00:00",
+            "score": 4.67,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1543548"
+        },
+        {
+            "mal_id": 26,
+            "url": null,
+            "title": "Don't Die, Pollyanna",
+            "title_japanese": "死なないでポリアンナ",
+            "title_romanji": "Shinanaide Pollyanna ",
+            "aired": "1986-06-29T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 27,
+            "url": null,
+            "title": "Ending of the First Part: I'll Become Your Love!",
+            "title_japanese": "第1部 完 愛になりたい",
+            "title_romanji": "Dai Ichibu Kan: Ai ni Naritai ",
+            "aired": "1986-07-06T00:00:00+00:00",
+            "score": 4.83,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1543559"
+        },
+        {
+            "mal_id": 28,
+            "url": null,
+            "title": "The Hidden Shadow",
+            "title_japanese": "忍びよる影",
+            "title_romanji": "Shinobiyoru Kagei ",
+            "aired": "1986-07-13T00:00:00+00:00",
+            "score": 4.67,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1876888"
+        },
+        {
+            "mal_id": 29,
+            "url": null,
+            "title": "Goodbye, Beldingsville!",
+            "title_japanese": "さよなら! ベルディングスビル",
+            "title_romanji": "Sayonara, Beldingsville! ",
+            "aired": "1986-07-20T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 30,
+            "url": null,
+            "title": "Life in the Big City of Boston",
+            "title_japanese": "大都会ボストンの生活",
+            "title_romanji": "Daitokai Boston no Seikatsu ",
+            "aired": "1986-07-27T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 31,
+            "url": null,
+            "title": "Chipmunk Has Gone Missing!",
+            "title_japanese": "チップマックがいない!",
+            "title_romanji": "Chipmunk ga Inai! ",
+            "aired": "1986-08-03T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 32,
+            "url": null,
+            "title": "Lost Pollyanna",
+            "title_japanese": "迷子のポリアンナ",
+            "title_romanji": "Maigo no Pollyanna ",
+            "aired": "1986-08-17T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 33,
+            "url": null,
+            "title": "Where is Chipmunk",
+            "title_japanese": "チップマックはどこ?",
+            "title_romanji": "Chipmunk wa Doko? ",
+            "aired": "1986-08-24T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 34,
+            "url": null,
+            "title": "Mrs. Carew's Sad Secret",
+            "title_japanese": "カリウ夫人の悲しい秘密",
+            "title_romanji": "Carew-fujin no Kanashii Himitsu ",
+            "aired": "1986-08-31T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 35,
+            "url": null,
+            "title": "Young Lord James",
+            "title_japanese": "若君ジェームス",
+            "title_romanji": "Wakagimi James ",
+            "aired": "1986-09-07T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 36,
+            "url": null,
+            "title": "The Angel in the Alley",
+            "title_japanese": "路地裏の天使",
+            "title_romanji": "Rojiura no Tenshi ",
+            "aired": "1986-09-14T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 37,
+            "url": null,
+            "title": "I Want the Real Jamie!",
+            "title_japanese": "本当のジェミーが欲しい!",
+            "title_romanji": "Hontou no Jamie ga Hoshii!! ",
+            "aired": "1986-09-21T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 38,
+            "url": null,
+            "title": "Why Can't I Be Happy?",
+            "title_japanese": "どうして幸福になれないの?",
+            "title_romanji": "Doushite Shiawase ni Narenai no? ",
+            "aired": "1986-09-28T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 39,
+            "url": null,
+            "title": "The Trouble at The Farewell Party",
+            "title_japanese": "さよならパーティ事件",
+            "title_romanji": "Sayonara Party Jiken ",
+            "aired": "1986-10-05T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 40,
+            "url": null,
+            "title": "The Fun of Sightseeing around Boston",
+            "title_japanese": "たのしいボストン見物",
+            "title_romanji": "Tanoshī Boston Kenbutsu ",
+            "aired": "1986-10-12T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 41,
+            "url": null,
+            "title": "The Beginning of the Storm",
+            "title_japanese": "嵐のはじまり",
+            "title_romanji": "Arashi no Hajimari ",
+            "aired": "1986-10-19T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 42,
+            "url": null,
+            "title": "The Road of No Return",
+            "title_japanese": "失われた帰り道",
+            "title_romanji": "Ushinawareta Kaerimichi ",
+            "aired": "1986-10-26T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 43,
+            "url": null,
+            "title": "Don't Die, Dr. Chilton!",
+            "title_japanese": "死なないでチルトン先生!",
+            "title_romanji": "Shinanaide Chilton Sensei! ",
+            "aired": "1986-11-02T00:00:00+00:00",
+            "score": 3,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1876147"
+        },
+        {
+            "mal_id": 44,
+            "url": null,
+            "title": "Overcoming Sadness",
+            "title_japanese": "悲しみをのりこえて",
+            "title_romanji": "Kanashimi wo Norikoete ",
+            "aired": "1986-11-09T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 45,
+            "url": null,
+            "title": "The Ruined Garden",
+            "title_japanese": "荒れた花園",
+            "title_romanji": "Areta Hanazono ",
+            "aired": "1986-11-16T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 46,
+            "url": null,
+            "title": "The Mystery of Jaime Kent",
+            "title_japanese": "ジェミー・ケントの謎",
+            "title_romanji": "Jamie Kent no Nazo ",
+            "aired": "1986-11-23T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 47,
+            "url": null,
+            "title": "Dangerous Playtime",
+            "title_japanese": "危険な遊び",
+            "title_romanji": "Kiken na Asobi ",
+            "aired": "1986-11-30T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 48,
+            "url": null,
+            "title": "Save me, Jimmy!",
+            "title_japanese": "助けて!ジェミー",
+            "title_romanji": "Tasukete! Jimmy ",
+            "aired": "1986-12-07T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 49,
+            "url": null,
+            "title": "The Past Explained",
+            "title_japanese": "解きあかされた過去",
+            "title_romanji": "Tokiakasareta Kako ",
+            "aired": "1986-12-14T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 50,
+            "url": null,
+            "title": "I'm Jaime!",
+            "title_japanese": "ボクがジェミーだ!",
+            "title_romanji": "Boku ga Jaime da! ",
+            "aired": "1986-12-21T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 51,
+            "url": null,
+            "title": "Happiness Nearby",
+            "title_japanese": "幸福はすぐそばに",
+            "title_romanji": "Shiawase wa Sugu Soba ni ",
+            "aired": "1986-12-28T00:00:00+00:00",
+            "score": 4.5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1233265"
+        }
+    ]
+}

@@ -1,0 +1,771 @@
+{
+    "id": 153,
+    "fetched_at": "Sun Dec 14 12:42:11 2025",
+    "metadata": {
+        "mal_id": 153,
+        "url": "https://myanimelist.net/anime/153/Juuni_Kokuki",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/6/50859.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/6/50859t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/6/50859l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/6/50859.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/6/50859t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/6/50859l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": "https://www.youtube-nocookie.com/embed/cHyqJuD2a3s?enablejsapi=1&wmode=opaque&autoplay=1",
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Juuni Kokuki"
+            },
+            {
+                "type": "Synonym",
+                "title": "12 Kingdoms"
+            },
+            {
+                "type": "Synonym",
+                "title": "Juuni Kokki"
+            },
+            {
+                "type": "Japanese",
+                "title": "十二国記"
+            },
+            {
+                "type": "English",
+                "title": "The Twelve Kingdoms"
+            },
+            {
+                "type": "German",
+                "title": "The Twelve Kingdoms"
+            },
+            {
+                "type": "Spanish",
+                "title": "Doce Reinos"
+            },
+            {
+                "type": "French",
+                "title": "Les 12 Royaumes"
+            }
+        ],
+        "title": "Juuni Kokuki",
+        "title_english": "The Twelve Kingdoms",
+        "title_japanese": "十二国記",
+        "title_synonyms": [
+            "12 Kingdoms",
+            "Juuni Kokki"
+        ],
+        "type": "TV",
+        "source": "Novel",
+        "episodes": 45,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "2002-04-09T00:00:00+00:00",
+            "to": "2003-08-30T00:00:00+00:00",
+            "prop": {
+                "from": {
+                    "day": 9,
+                    "month": 4,
+                    "year": 2002
+                },
+                "to": {
+                    "day": 30,
+                    "month": 8,
+                    "year": 2003
+                }
+            },
+            "string": "Apr 9, 2002 to Aug 30, 2003"
+        },
+        "duration": "25 min per ep",
+        "rating": "PG-13 - Teens 13 or older",
+        "score": 8.01,
+        "scored_by": 48829,
+        "rank": 683,
+        "popularity": 1582,
+        "members": 169264,
+        "favorites": 2626,
+        "synopsis": "Youko Nakajima has only ever wanted to be normal. She does what she is asked, gets good grades, is the class president, and even helps her classmates whenever she can—but because of her red hair, she has never fit in. With her pushover attitude, Youko lets classmates take advantage of her, so she has nobody she can really call a friend.\n\nBut on an otherwise ordinary day, a man who claims to be from another world barges into Youko's classroom and bows before her. This elegant blond-haired man, Keiki, claims that Youko is his master and belongs on the throne of his kingdom. However, their first meeting is cut short as Keiki has been followed by otherworldly beasts called youma. He is able to escape with Youko into his own realm, but two other classmates—Ikuya Asano and Yuka Sugimoto—are caught up in the madness as well. Unfortunately, their troubles have only just begun, as the youma attack leaves them separated from Keiki. Alone in this strange new land, these ordinary students must learn to fend for themselves or die.\n\n[Written by MAL Rewrite]",
+        "background": "",
+        "season": "spring",
+        "year": 2002,
+        "broadcast": {
+            "day": "Tuesdays",
+            "time": "19:00",
+            "timezone": "Asia/Tokyo",
+            "string": "Tuesdays at 19:00 (JST)"
+        },
+        "producers": [
+            {
+                "mal_id": 111,
+                "type": "anime",
+                "name": "NHK",
+                "url": "https://myanimelist.net/anime/producer/111/NHK"
+            },
+            {
+                "mal_id": 161,
+                "type": "anime",
+                "name": "Sogo Vision",
+                "url": "https://myanimelist.net/anime/producer/161/Sogo_Vision"
+            }
+        ],
+        "licensors": [
+            {
+                "mal_id": 250,
+                "type": "anime",
+                "name": "Media Blasters",
+                "url": "https://myanimelist.net/anime/producer/250/Media_Blasters"
+            },
+            {
+                "mal_id": 467,
+                "type": "anime",
+                "name": "Discotek Media",
+                "url": "https://myanimelist.net/anime/producer/467/Discotek_Media"
+            }
+        ],
+        "studios": [
+            {
+                "mal_id": 1,
+                "type": "anime",
+                "name": "Studio Pierrot",
+                "url": "https://myanimelist.net/anime/producer/1/Studio_Pierrot"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 1,
+                "type": "anime",
+                "name": "Action",
+                "url": "https://myanimelist.net/anime/genre/1/Action"
+            },
+            {
+                "mal_id": 2,
+                "type": "anime",
+                "name": "Adventure",
+                "url": "https://myanimelist.net/anime/genre/2/Adventure"
+            },
+            {
+                "mal_id": 10,
+                "type": "anime",
+                "name": "Fantasy",
+                "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [
+            {
+                "mal_id": 62,
+                "type": "anime",
+                "name": "Isekai",
+                "url": "https://myanimelist.net/anime/genre/62/Isekai"
+            }
+        ],
+        "demographics": [],
+        "relations": [
+            {
+                "relation": "Adaptation",
+                "entry": [
+                    {
+                        "mal_id": 3807,
+                        "type": "manga",
+                        "name": "Juuni Kokuki",
+                        "url": "https://myanimelist.net/manga/3807/Juuni_Kokuki"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [
+                "\"Juuni Genmukyoku\" by Kunihiko, Ryo"
+            ],
+            "endings": [
+                "\"Getsumei Fuuei\" by Arisaka, Mika"
+            ]
+        },
+        "external": [
+            {
+                "name": "Official Site",
+                "url": "http://www.12kokuki.com/"
+            },
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=26"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=840"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "http://en.wikipedia.org/wiki/Juuni_Kokuki"
+            },
+            {
+                "name": "Syoboi",
+                "url": "https://cal.syoboi.jp/tid/58"
+            }
+        ],
+        "streaming": [
+            {
+                "name": "Crunchyroll",
+                "url": "http://www.crunchyroll.com/series-277960"
+            }
+        ]
+    },
+    "episodes": [
+        {
+            "mal_id": 1,
+            "url": "https://myanimelist.net/anime/153/Juuni_Kokuki/episode/1",
+            "title": "Shadow of the Moon, the Sea of Shadow - The First Chapter",
+            "title_japanese": "月の影 影の海 一章",
+            "title_romanji": "Tsuki no Kage, Kage no Umi - Isshou ",
+            "aired": "2002-04-09T00:00:00+00:00",
+            "score": 3.69,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=45626"
+        },
+        {
+            "mal_id": 2,
+            "url": "https://myanimelist.net/anime/153/Juuni_Kokuki/episode/2",
+            "title": "Shadow of the Moon, the Sea of Shadow - The Second Chapter",
+            "title_japanese": "月の影 影の海 二章",
+            "title_romanji": "Tsuki no Kage, Kage no Umi - Ni Shou ",
+            "aired": "2002-04-16T00:00:00+00:00",
+            "score": 3.95,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=54436"
+        },
+        {
+            "mal_id": 3,
+            "url": "https://myanimelist.net/anime/153/Juuni_Kokuki/episode/3",
+            "title": "Shadow of the Moon, the Sea of Shadow - The Third Chapter",
+            "title_japanese": "月の影 影の海 三章",
+            "title_romanji": "Tsuki no Kage, Kage no Umi - San Shou ",
+            "aired": "2002-04-23T00:00:00+00:00",
+            "score": 3.82,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=47967"
+        },
+        {
+            "mal_id": 4,
+            "url": "https://myanimelist.net/anime/153/Juuni_Kokuki/episode/4",
+            "title": "Shadow of the Moon, the Sea of Shadow - The Fourth Chapter",
+            "title_japanese": "月の影 影の海 四章",
+            "title_romanji": "Tsuki no Kage, Kage no Umi - Yon Shou ",
+            "aired": "2002-04-30T00:00:00+00:00",
+            "score": 3.83,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=104765"
+        },
+        {
+            "mal_id": 5,
+            "url": "https://myanimelist.net/anime/153/Juuni_Kokuki/episode/5",
+            "title": "Shadow of the Moon, the Sea of Shadow - The Fifth Chapter",
+            "title_japanese": "月の影 影の海 五章",
+            "title_romanji": "Tsuki no Kage, Kage no Umi - Go Shou ",
+            "aired": "2002-05-07T00:00:00+00:00",
+            "score": 4.07,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=104774"
+        },
+        {
+            "mal_id": 6,
+            "url": "https://myanimelist.net/anime/153/Juuni_Kokuki/episode/6",
+            "title": "Shadow of the Moon, the Sea of Shadow - The Sixth Chapter",
+            "title_japanese": "月の影 影の海 六章",
+            "title_romanji": "Tsuki no Kage, Kage no Umi - Roku Shou ",
+            "aired": "2002-05-21T00:00:00+00:00",
+            "score": 4.32,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=15251"
+        },
+        {
+            "mal_id": 7,
+            "url": "https://myanimelist.net/anime/153/Juuni_Kokuki/episode/7",
+            "title": "Shadow of the Moon, the Sea of Shadow - The Seventh Chapter",
+            "title_japanese": "月の影 影の海 七章",
+            "title_romanji": "Tsuki no Kage, Kage no Umi - Nana Shou ",
+            "aired": "2002-05-28T00:00:00+00:00",
+            "score": 4.48,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=104801"
+        },
+        {
+            "mal_id": 8,
+            "url": "https://myanimelist.net/anime/153/Juuni_Kokuki/episode/8",
+            "title": "Shadow of the Moon, the Sea of Shadow - The Eight Chapter",
+            "title_japanese": "月の影 影の海 八章",
+            "title_romanji": "Tsuki no Kage, Kage no Umi - Hachi Shou ",
+            "aired": "2002-06-04T00:00:00+00:00",
+            "score": 4.43,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=15398"
+        },
+        {
+            "mal_id": 9,
+            "url": "https://myanimelist.net/anime/153/Juuni_Kokuki/episode/9",
+            "title": "Shadow of the Moon, the Sea of Shadow - The Ninth Chapter",
+            "title_japanese": "月の影 影の海 九章",
+            "title_romanji": "Tsuki no Kage, Kage no Umi - Kyuu Shou ",
+            "aired": "2002-06-11T00:00:00+00:00",
+            "score": 4.6,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=104819"
+        },
+        {
+            "mal_id": 10,
+            "url": "https://myanimelist.net/anime/153/Juuni_Kokuki/episode/10",
+            "title": "Shadow of the Moon, the Sea of Shadow - The Tenth Chapter",
+            "title_japanese": "月の影 影の海 十章",
+            "title_romanji": "Tsuki no Kage, Kage no Umi - Juu Shou ",
+            "aired": "2002-06-18T00:00:00+00:00",
+            "score": 4.42,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=104826"
+        },
+        {
+            "mal_id": 11,
+            "url": "https://myanimelist.net/anime/153/Juuni_Kokuki/episode/11",
+            "title": "Shadow of the Moon, the Sea of Shadow - The Eleventh Chapter",
+            "title_japanese": "月の影 影の海 十一章",
+            "title_romanji": "Tsuki no Kage, Kage no Umi - Juuisshou ",
+            "aired": "2002-06-25T00:00:00+00:00",
+            "score": 4.57,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=15701"
+        },
+        {
+            "mal_id": 12,
+            "url": "https://myanimelist.net/anime/153/Juuni_Kokuki/episode/12",
+            "title": "Shadow of the Moon, the Sea of Shadow - The Twelfth Chapter",
+            "title_japanese": "月の影 影の海 十二章",
+            "title_romanji": "Tsuki no Kage, Kage no Umi - Juuni Shou ",
+            "aired": "2002-07-02T00:00:00+00:00",
+            "score": 4.35,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=274960"
+        },
+        {
+            "mal_id": 13,
+            "url": "https://myanimelist.net/anime/153/Juuni_Kokuki/episode/13",
+            "title": "Shadow of the Moon, the Sea of Shadow - The Final Chapter",
+            "title_japanese": "月の影 影の海 終章",
+            "title_romanji": "Tsuki no Kage, Kage no Umi - Shuushou ",
+            "aired": "2002-07-09T00:00:00+00:00",
+            "score": 4.47,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=15817"
+        },
+        {
+            "mal_id": 14,
+            "url": "https://myanimelist.net/anime/153/Juuni_Kokuki/episode/14",
+            "title": "Shadow of the Moon, the Sea of Shadow - Chapter of Recollection",
+            "title_japanese": "月の影 影の海 転章",
+            "title_romanji": "Tsuki no Kage, Kage no Umi - Tenshou ",
+            "aired": "2002-07-16T00:00:00+00:00",
+            "score": 3.45,
+            "filler": false,
+            "recap": true,
+            "forum_url": "https://myanimelist.net/forum/?topicid=104932"
+        },
+        {
+            "mal_id": 15,
+            "url": "https://myanimelist.net/anime/153/Juuni_Kokuki/episode/15",
+            "title": "The Sea of Wind, the Shore of Labyrinth - The First Chapter",
+            "title_japanese": "風の海 迷宮の岸 一章",
+            "title_romanji": "Kaze no Umi, Meikyuu no Kishi - Isshou ",
+            "aired": "2002-09-03T00:00:00+00:00",
+            "score": 4.38,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=15879"
+        },
+        {
+            "mal_id": 16,
+            "url": "https://myanimelist.net/anime/153/Juuni_Kokuki/episode/16",
+            "title": "The Sea of Wind, the Shore of Labyrinth - The Second Chapter",
+            "title_japanese": "風の海 迷宮の岸 二章",
+            "title_romanji": "Kaze no Umi, Meikyuu no Kishi - Ni Shou ",
+            "aired": "2002-09-10T00:00:00+00:00",
+            "score": 4.27,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=277951"
+        },
+        {
+            "mal_id": 17,
+            "url": "https://myanimelist.net/anime/153/Juuni_Kokuki/episode/17",
+            "title": "The Sea of Wind, the Shore of Labyrinth - The Third Chapter",
+            "title_japanese": "風の海 迷宮の岸 三章",
+            "title_romanji": "Kaze no Umi, Meikyuu no Kishi - San Shou ",
+            "aired": "2002-09-17T00:00:00+00:00",
+            "score": 4.27,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=277957"
+        },
+        {
+            "mal_id": 18,
+            "url": "https://myanimelist.net/anime/153/Juuni_Kokuki/episode/18",
+            "title": "The Sea of Wind, the Shore of Labyrinth - The Fourth Chapter",
+            "title_japanese": "風の海 迷宮の岸 四章",
+            "title_romanji": "Kaze no Umi, Meikyuu no Kishi - Yon Shou ",
+            "aired": "2002-09-24T00:00:00+00:00",
+            "score": 4.3,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=105211"
+        },
+        {
+            "mal_id": 19,
+            "url": "https://myanimelist.net/anime/153/Juuni_Kokuki/episode/19",
+            "title": "The Sea of Wind, the Shore of Labyrinth - The Fifth Chapter",
+            "title_japanese": "風の海 迷宮の岸 五章",
+            "title_romanji": "Kaze no Umi, Meikyuu no Kishi - Go Shou ",
+            "aired": "2002-10-01T00:00:00+00:00",
+            "score": 4.67,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=15921"
+        },
+        {
+            "mal_id": 20,
+            "url": "https://myanimelist.net/anime/153/Juuni_Kokuki/episode/20",
+            "title": "The Sea of Wind, the Shore of Labyrinth - The Final Chapter",
+            "title_japanese": "風の海 迷宮の岸 終章",
+            "title_romanji": "Kaze no Umi, Meikyuu no Kishi - Shuushou ",
+            "aired": "2002-10-08T00:00:00+00:00",
+            "score": 4.5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=15937"
+        },
+        {
+            "mal_id": 21,
+            "url": "https://myanimelist.net/anime/153/Juuni_Kokuki/episode/21",
+            "title": "The Sea of Wind, the Shore of Labyrinth - Chapter of Reminiscence",
+            "title_japanese": "風の海 迷宮の岸 転章",
+            "title_romanji": "Kaze no Umi, Meikyuu no Kishi - Tenshou ",
+            "aired": "2002-10-15T00:00:00+00:00",
+            "score": 3.32,
+            "filler": false,
+            "recap": true,
+            "forum_url": "https://myanimelist.net/forum/?topicid=105231"
+        },
+        {
+            "mal_id": 22,
+            "url": "https://myanimelist.net/anime/153/Juuni_Kokuki/episode/22",
+            "title": "A Message",
+            "title_japanese": "書簡",
+            "title_romanji": "Shokan ",
+            "aired": "2002-10-22T00:00:00+00:00",
+            "score": 4.2,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=105236"
+        },
+        {
+            "mal_id": 23,
+            "url": "https://myanimelist.net/anime/153/Juuni_Kokuki/episode/23",
+            "title": "A Great Distance in the Wind, the Sky at Dawn - Chapter One",
+            "title_japanese": "風の万里 黎明の空 一章",
+            "title_romanji": "Kaze no Banri, Reimei no Sora - Isshou ",
+            "aired": "2002-10-29T00:00:00+00:00",
+            "score": 4.2,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=105512"
+        },
+        {
+            "mal_id": 24,
+            "url": "https://myanimelist.net/anime/153/Juuni_Kokuki/episode/24",
+            "title": "A Great Distance in the Wind, the Sky at Dawn - Chapter Two",
+            "title_japanese": "風の万里 黎明の空 二章",
+            "title_romanji": "Kaze no Banri, Reimei no Sora - Ni Shou ",
+            "aired": "2002-11-05T00:00:00+00:00",
+            "score": 4.18,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=105519"
+        },
+        {
+            "mal_id": 25,
+            "url": "https://myanimelist.net/anime/153/Juuni_Kokuki/episode/25",
+            "title": "A Great Distance in the Wind, the Sky at Dawn - Chapter Three",
+            "title_japanese": "風の万里 黎明の空 三章",
+            "title_romanji": "Kaze no Banri, Reimei no Sora - San Shou ",
+            "aired": "2002-11-12T00:00:00+00:00",
+            "score": 4.32,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=16026"
+        },
+        {
+            "mal_id": 26,
+            "url": "https://myanimelist.net/anime/153/Juuni_Kokuki/episode/26",
+            "title": "A Great Distance in the Wind, the Sky at Dawn - Chapter Four",
+            "title_japanese": "風の万里 黎明の空 四章",
+            "title_romanji": "Kaze no Banri, Reimei no Sora - Yon Shou ",
+            "aired": "2002-11-19T00:00:00+00:00",
+            "score": 4.28,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=105732"
+        },
+        {
+            "mal_id": 27,
+            "url": "https://myanimelist.net/anime/153/Juuni_Kokuki/episode/27",
+            "title": "A Great Distance in the Wind, the Sky at Dawn - Chapter Five",
+            "title_japanese": "風の万里 黎明の空 五章",
+            "title_romanji": "Kaze no Banri, Reimei no Sora - Go Shou ",
+            "aired": "2002-11-26T00:00:00+00:00",
+            "score": 4.51,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=435639"
+        },
+        {
+            "mal_id": 28,
+            "url": "https://myanimelist.net/anime/153/Juuni_Kokuki/episode/28",
+            "title": "A Great Distance in the Wind, the Sky at Dawn - Chapter Six",
+            "title_japanese": "風の万里 黎明の空 六章",
+            "title_romanji": "Kaze no Banri, Reimei no Sora - Roku Shou ",
+            "aired": "2002-12-03T00:00:00+00:00",
+            "score": 4.18,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=106368"
+        },
+        {
+            "mal_id": 29,
+            "url": "https://myanimelist.net/anime/153/Juuni_Kokuki/episode/29",
+            "title": "A Great Distance in the Wind, the Sky at Dawn - Chapter Seven",
+            "title_japanese": "風の万里 黎明の空 七章",
+            "title_romanji": "Kaze no Banri, Reimei no Sora - Nana Shou ",
+            "aired": "2002-12-10T00:00:00+00:00",
+            "score": 4.4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=107401"
+        },
+        {
+            "mal_id": 30,
+            "url": "https://myanimelist.net/anime/153/Juuni_Kokuki/episode/30",
+            "title": "A Great Distance in the Wind, the Sky at Dawn - Chapter Eight",
+            "title_japanese": "風の万里 黎明の空 八章",
+            "title_romanji": "Kaze no Banri, Reimei no Sora - Hachi Shou ",
+            "aired": "2002-12-17T00:00:00+00:00",
+            "score": 4.46,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=17900"
+        },
+        {
+            "mal_id": 31,
+            "url": "https://myanimelist.net/anime/153/Juuni_Kokuki/episode/31",
+            "title": "A Great Distance in the Wind, the Sky at Dawn - Reminiscence Chapter",
+            "title_japanese": "風の万里 黎明の空 転章",
+            "title_romanji": "Kaze no Banri, Reimei no Sora - Tenshou ",
+            "aired": "2003-01-07T00:00:00+00:00",
+            "score": 4.28,
+            "filler": false,
+            "recap": true,
+            "forum_url": "https://myanimelist.net/forum/?topicid=107414"
+        },
+        {
+            "mal_id": 32,
+            "url": "https://myanimelist.net/anime/153/Juuni_Kokuki/episode/32",
+            "title": "A Great Distance in the Wind, the Sky at Dawn - Chapter Nine",
+            "title_japanese": "風の万里 黎明の空 九章",
+            "title_romanji": "Kaze no Banri, Reimei no Sora - Kyuu Shou ",
+            "aired": "2003-01-14T00:00:00+00:00",
+            "score": 4.09,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=107432"
+        },
+        {
+            "mal_id": 33,
+            "url": "https://myanimelist.net/anime/153/Juuni_Kokuki/episode/33",
+            "title": "A Great Distance in the Wind, the Sky at Dawn - Chapter Ten",
+            "title_japanese": "風の万里 黎明の空 十章",
+            "title_romanji": "Kaze no Banri, Reimei no Sora - Juu Shou ",
+            "aired": "2003-01-21T00:00:00+00:00",
+            "score": 4.58,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=17912"
+        },
+        {
+            "mal_id": 34,
+            "url": "https://myanimelist.net/anime/153/Juuni_Kokuki/episode/34",
+            "title": "A Great Distance in the Wind, the Sky at Dawn - Chapter Eleven",
+            "title_japanese": "風の万里 黎明の空 十一章",
+            "title_romanji": "Kaze no Banri, Reimei no Sora - Juuisshou ",
+            "aired": "2003-01-28T00:00:00+00:00",
+            "score": 4.65,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=18009"
+        },
+        {
+            "mal_id": 35,
+            "url": "https://myanimelist.net/anime/153/Juuni_Kokuki/episode/35",
+            "title": "A Great Distance in the Wind, the Sky at Dawn - Chapter Twelve",
+            "title_japanese": "風の万里 黎明の空 十二章",
+            "title_romanji": "Kaze no Banri, Reimei no Sora - Juuni Shou ",
+            "aired": "2003-02-04T00:00:00+00:00",
+            "score": 4.76,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=107441"
+        },
+        {
+            "mal_id": 36,
+            "url": "https://myanimelist.net/anime/153/Juuni_Kokuki/episode/36",
+            "title": "A Great Distance in the Wind, the Sky at Dawn - Chapter Thirteen",
+            "title_japanese": "風の万里 黎明の空 十三章",
+            "title_romanji": "Kaze no Banri, Reimei no Sora - Juusan Shou ",
+            "aired": "2003-02-18T00:00:00+00:00",
+            "score": 4.57,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=107446"
+        },
+        {
+            "mal_id": 37,
+            "url": "https://myanimelist.net/anime/153/Juuni_Kokuki/episode/37",
+            "title": "A Great Distance in the Wind, the Sky at Dawn - Chapter Fourteen",
+            "title_japanese": "風の万里 黎明の空 十四章",
+            "title_romanji": "Kaze no Banri, Reimei no Sora - Juuyon Shou ",
+            "aired": "2003-02-25T00:00:00+00:00",
+            "score": 4.58,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=107451"
+        },
+        {
+            "mal_id": 38,
+            "url": "https://myanimelist.net/anime/153/Juuni_Kokuki/episode/38",
+            "title": "A Great Distance in the Wind, the Sky at Dawn - Chapter Fifteen",
+            "title_japanese": "風の万里 黎明の空 十五章",
+            "title_romanji": "Kaze no Banri, Reimei no Sora - Juugo Shou ",
+            "aired": "2003-03-04T00:00:00+00:00",
+            "score": 4.81,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=18091"
+        },
+        {
+            "mal_id": 39,
+            "url": "https://myanimelist.net/anime/153/Juuni_Kokuki/episode/39",
+            "title": "A Great Distance in the Wind, the Sky at Dawn - Final Chapter",
+            "title_japanese": "風の万里 黎明の空 終章",
+            "title_romanji": "Kaze no Banri, Reimei no Sora - Shuushou ",
+            "aired": "2003-03-11T00:00:00+00:00",
+            "score": 4.93,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=18098"
+        },
+        {
+            "mal_id": 40,
+            "url": "https://myanimelist.net/anime/153/Juuni_Kokuki/episode/40",
+            "title": "Ally of the Moon",
+            "title_japanese": "乗月",
+            "title_romanji": "Jougetsu ",
+            "aired": "2003-07-05T00:00:00+00:00",
+            "score": 4.33,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=108178"
+        },
+        {
+            "mal_id": 41,
+            "url": "https://myanimelist.net/anime/153/Juuni_Kokuki/episode/41",
+            "title": "Sea God of the East, Vast Sea of the West - Chapter One",
+            "title_japanese": "東の海神 西の滄海 一章",
+            "title_romanji": "Higashi no Watatsumi, Nishi no Soukai - Isshou ",
+            "aired": "2003-07-26T00:00:00+00:00",
+            "score": 4.34,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=18103"
+        },
+        {
+            "mal_id": 42,
+            "url": "https://myanimelist.net/anime/153/Juuni_Kokuki/episode/42",
+            "title": "Sea God of the East, Vast Sea of the West - Chapter Two",
+            "title_japanese": "東の海神 西の滄海 二章",
+            "title_romanji": "Higashi no Watatsumi, Nishi no Soukai - Ni Shou ",
+            "aired": "2003-08-02T00:00:00+00:00",
+            "score": 4.25,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=597667"
+        },
+        {
+            "mal_id": 43,
+            "url": "https://myanimelist.net/anime/153/Juuni_Kokuki/episode/43",
+            "title": "Sea God of the East, Vast Sea of the West - Chapter Three",
+            "title_japanese": "東の海神 西の滄海 三章",
+            "title_romanji": "Higashi no Watatsumi, Nishi no Soukai - San Shou ",
+            "aired": "2003-04-16T00:00:00+00:00",
+            "score": 4.1,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=109707"
+        },
+        {
+            "mal_id": 44,
+            "url": "https://myanimelist.net/anime/153/Juuni_Kokuki/episode/44",
+            "title": "Sea God of the East, Vast Sea of the West - Final Chapter",
+            "title_japanese": "東の海神 西の滄海 終章",
+            "title_romanji": "Higashi no Watatsumi, Nishi no Soukai - Shuushou ",
+            "aired": "2003-08-23T00:00:00+00:00",
+            "score": 4.17,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=109716"
+        },
+        {
+            "mal_id": 45,
+            "url": "https://myanimelist.net/anime/153/Juuni_Kokuki/episode/45",
+            "title": "Sea God of the East, Vast Sea of the West - Reminiscence Chapter",
+            "title_japanese": "東の海神 西の滄海 転章",
+            "title_romanji": "Higashi no Watatsumi, Nishi no Soukai - Tenshou ",
+            "aired": "2003-04-30T00:00:00+00:00",
+            "score": 3.52,
+            "filler": false,
+            "recap": true,
+            "forum_url": "https://myanimelist.net/forum/?topicid=73956"
+        }
+    ]
+}

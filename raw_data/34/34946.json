@@ -1,0 +1,147 @@
+{
+    "id": 34946,
+    "fetched_at": "Sun Dec 14 10:55:39 2025",
+    "metadata": {
+        "mal_id": 34946,
+        "url": "https://myanimelist.net/anime/34946/Yuki_no_Joou",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/8/84376.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/8/84376t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/8/84376l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/8/84376.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/8/84376t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/8/84376l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Yuki no Joou"
+            },
+            {
+                "type": "Japanese",
+                "title": "雪の女王"
+            },
+            {
+                "type": "English",
+                "title": "The Snow Queen"
+            }
+        ],
+        "title": "Yuki no Joou",
+        "title_english": "The Snow Queen",
+        "title_japanese": "雪の女王",
+        "title_synonyms": [],
+        "type": "Movie",
+        "source": "Book",
+        "episodes": 1,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "1978-01-01T00:00:00+00:00",
+            "to": null,
+            "prop": {
+                "from": {
+                    "day": 1,
+                    "month": 1,
+                    "year": 1978
+                },
+                "to": {
+                    "day": null,
+                    "month": null,
+                    "year": null
+                }
+            },
+            "string": "1978"
+        },
+        "duration": "19 min",
+        "rating": "G - All Ages",
+        "score": 5.61,
+        "scored_by": 155,
+        "rank": 12280,
+        "popularity": 18023,
+        "members": 500,
+        "favorites": 0,
+        "synopsis": "A stop-motion adaptation of Hans Christian Andersen's The Snow Queen.",
+        "background": "It won the 32nd Japan Film Technology Award.",
+        "season": null,
+        "year": null,
+        "broadcast": {
+            "day": null,
+            "time": null,
+            "timezone": null,
+            "string": null
+        },
+        "producers": [
+            {
+                "mal_id": 198,
+                "type": "anime",
+                "name": "Gakken",
+                "url": "https://myanimelist.net/anime/producer/198/Gakken"
+            }
+        ],
+        "licensors": [],
+        "studios": [],
+        "genres": [
+            {
+                "mal_id": 10,
+                "type": "anime",
+                "name": "Fantasy",
+                "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [],
+        "demographics": [],
+        "relations": [
+            {
+                "relation": "Alternative Version",
+                "entry": [
+                    {
+                        "mal_id": 22485,
+                        "type": "anime",
+                        "name": "Hello Kitty no Yuki no Joou",
+                        "url": "https://myanimelist.net/anime/22485/Hello_Kitty_no_Yuki_no_Joou"
+                    },
+                    {
+                        "mal_id": 754,
+                        "type": "anime",
+                        "name": "Yuki no Joou (TV)",
+                        "url": "https://myanimelist.net/anime/754/Yuki_no_Joou_TV"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [],
+            "endings": []
+        },
+        "external": [
+            {
+                "name": "Official Site",
+                "url": "http://gakken.co.jp/campaign/70th/archives/"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "https://ja.wikipedia.org/wiki/%E9%9B%AA%E3%81%AE%E5%A5%B3%E7%8E%8B"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": []
+}

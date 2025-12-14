@@ -1,0 +1,167 @@
+{
+    "id": 9520,
+    "fetched_at": "Sun Dec 14 09:26:43 2025",
+    "metadata": {
+        "mal_id": 9520,
+        "url": "https://myanimelist.net/anime/9520/Zero_Tester",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1296/96987.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1296/96987t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1296/96987l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1296/96987.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1296/96987t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1296/96987l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Zero Tester"
+            },
+            {
+                "type": "Japanese",
+                "title": "ゼロテスター"
+            }
+        ],
+        "title": "Zero Tester",
+        "title_english": null,
+        "title_japanese": "ゼロテスター",
+        "title_synonyms": [],
+        "type": "TV",
+        "source": "Original",
+        "episodes": 39,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "1973-10-01T00:00:00+00:00",
+            "to": "1974-06-24T00:00:00+00:00",
+            "prop": {
+                "from": {
+                    "day": 1,
+                    "month": 10,
+                    "year": 1973
+                },
+                "to": {
+                    "day": 24,
+                    "month": 6,
+                    "year": 1974
+                }
+            },
+            "string": "Oct 1, 1973 to Jun 24, 1974"
+        },
+        "duration": "24 min per ep",
+        "rating": "PG-13 - Teens 13 or older",
+        "score": 6.03,
+        "scored_by": 564,
+        "rank": 10166,
+        "popularity": 13240,
+        "members": 1550,
+        "favorites": 2,
+        "synopsis": "A series of space accidents turn out to be the work of the Armanoid aliens, who plan to conquer Earth. Professor Tachibana gathers a team around him at the Future Science Invention Center and prepares five state-of-the-art vehicles for Shin, Go, Lisa, and Captain Kenmotsu. Three of the Tester vehicles combine to make the giant Zero Tester robot, which successfully sees off the Armanoid invasion in 38 episodes. The rest of the series, retitled ZT: Save the Earth! (Chikyu wo Mamotte!), was aimed at a younger age group and featured an attack by the new Gallos aliens.",
+        "background": "",
+        "season": "fall",
+        "year": 1973,
+        "broadcast": {
+            "day": "Mondays",
+            "time": "19:00",
+            "timezone": "Asia/Tokyo",
+            "string": "Mondays at 19:00 (JST)"
+        },
+        "producers": [
+            {
+                "mal_id": 577,
+                "type": "anime",
+                "name": "Tohokushinsha Film Corporation",
+                "url": "https://myanimelist.net/anime/producer/577/Tohokushinsha_Film_Corporation"
+            },
+            {
+                "mal_id": 3246,
+                "type": "anime",
+                "name": "Soueisha",
+                "url": "https://myanimelist.net/anime/producer/3246/Soueisha"
+            }
+        ],
+        "licensors": [],
+        "studios": [
+            {
+                "mal_id": 14,
+                "type": "anime",
+                "name": "Sunrise",
+                "url": "https://myanimelist.net/anime/producer/14/Sunrise"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 2,
+                "type": "anime",
+                "name": "Adventure",
+                "url": "https://myanimelist.net/anime/genre/2/Adventure"
+            },
+            {
+                "mal_id": 24,
+                "type": "anime",
+                "name": "Sci-Fi",
+                "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [
+            {
+                "mal_id": 18,
+                "type": "anime",
+                "name": "Mecha",
+                "url": "https://myanimelist.net/anime/genre/18/Mecha"
+            }
+        ],
+        "demographics": [],
+        "relations": [
+            {
+                "relation": "Sequel",
+                "entry": [
+                    {
+                        "mal_id": 9522,
+                        "type": "anime",
+                        "name": "Zero Tester: Chikyuu wo Mamore!",
+                        "url": "https://myanimelist.net/anime/9522/Zero_Tester__Chikyuu_wo_Mamore"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [
+                "\"Zero Tester (ゼロテスター)\" by Masato Shimon, Suginami Jidou Gasshoudan"
+            ],
+            "endings": [
+                "\"Ai Suru Daichi (愛する大地)\" by Royal Knights"
+            ]
+        },
+        "external": [
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=2195"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=1627"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": []
+}

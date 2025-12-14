@@ -1,0 +1,163 @@
+{
+    "id": 8373,
+    "fetched_at": "Sun Dec 14 09:17:37 2025",
+    "metadata": {
+        "mal_id": 8373,
+        "url": "https://myanimelist.net/anime/8373/Shin_Mitsubachi_Maya_no_Bouken",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/10/22043.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/10/22043t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/10/22043l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/10/22043.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/10/22043t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/10/22043l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Shin Mitsubachi Maya no Bouken"
+            },
+            {
+                "type": "Synonym",
+                "title": "Maya the Bee (1982)"
+            },
+            {
+                "type": "Japanese",
+                "title": "新みつばちマーヤの冒険"
+            },
+            {
+                "type": "English",
+                "title": "The New Adventures of Honeybee Maya"
+            }
+        ],
+        "title": "Shin Mitsubachi Maya no Bouken",
+        "title_english": "The New Adventures of Honeybee Maya",
+        "title_japanese": "新みつばちマーヤの冒険",
+        "title_synonyms": [
+            "Maya the Bee (1982)"
+        ],
+        "type": "TV",
+        "source": "Unknown",
+        "episodes": 52,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "1982-10-12T00:00:00+00:00",
+            "to": "1983-09-27T00:00:00+00:00",
+            "prop": {
+                "from": {
+                    "day": 12,
+                    "month": 10,
+                    "year": 1982
+                },
+                "to": {
+                    "day": 27,
+                    "month": 9,
+                    "year": 1983
+                }
+            },
+            "string": "Oct 12, 1982 to Sep 27, 1983"
+        },
+        "duration": "25 min per ep",
+        "rating": "G - All Ages",
+        "score": 6.42,
+        "scored_by": 2319,
+        "rank": 7850,
+        "popularity": 9730,
+        "members": 4415,
+        "favorites": 7,
+        "synopsis": "The sequel to Mitsubachi Maya no Bouken.",
+        "background": "",
+        "season": "fall",
+        "year": 1982,
+        "broadcast": {
+            "day": null,
+            "time": null,
+            "timezone": null,
+            "string": "Unknown"
+        },
+        "producers": [],
+        "licensors": [],
+        "studios": [
+            {
+                "mal_id": 22,
+                "type": "anime",
+                "name": "Nippon Animation",
+                "url": "https://myanimelist.net/anime/producer/22/Nippon_Animation"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 2,
+                "type": "anime",
+                "name": "Adventure",
+                "url": "https://myanimelist.net/anime/genre/2/Adventure"
+            },
+            {
+                "mal_id": 4,
+                "type": "anime",
+                "name": "Comedy",
+                "url": "https://myanimelist.net/anime/genre/4/Comedy"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [],
+        "demographics": [],
+        "relations": [
+            {
+                "relation": "Prequel",
+                "entry": [
+                    {
+                        "mal_id": 2571,
+                        "type": "anime",
+                        "name": "Mitsubachi Maya no Bouken",
+                        "url": "https://myanimelist.net/anime/2571/Mitsubachi_Maya_no_Bouken"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [
+                "\"Mitsubachi Maya no Bouken\" by Keiko Nishina"
+            ],
+            "endings": []
+        },
+        "external": [
+            {
+                "name": "Official Site",
+                "url": "http://www.nippon-animation.co.jp/work/shin_mitsubachimaya.html"
+            },
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=3663"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=1497"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "http://en.wikipedia.org/wiki/Maya_the_Bee"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": []
+}

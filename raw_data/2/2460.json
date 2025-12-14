@@ -1,0 +1,205 @@
+{
+    "id": 2460,
+    "fetched_at": "Sun Dec 14 07:25:03 2025",
+    "metadata": {
+        "mal_id": 2460,
+        "url": "https://myanimelist.net/anime/2460/Maison_Ikkoku__Kanketsu-hen",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1571/135332.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1571/135332t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1571/135332l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1571/135332.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1571/135332t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1571/135332l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Maison Ikkoku: Kanketsu-hen"
+            },
+            {
+                "type": "Synonym",
+                "title": "Maison Ikkoku: Kanketsuhen,"
+            },
+            {
+                "type": "Japanese",
+                "title": "めぞん一刻 完結篇"
+            },
+            {
+                "type": "English",
+                "title": "Maison Ikkoku: Final Chapter"
+            },
+            {
+                "type": "German",
+                "title": "Maison Ikkoku: Kanketsuhen"
+            },
+            {
+                "type": "Spanish",
+                "title": "Maison Ikkoku (Juliette je táime): La Película"
+            }
+        ],
+        "title": "Maison Ikkoku: Kanketsu-hen",
+        "title_english": "Maison Ikkoku: Final Chapter",
+        "title_japanese": "めぞん一刻 完結篇",
+        "title_synonyms": [
+            "Maison Ikkoku: Kanketsuhen,"
+        ],
+        "type": "Movie",
+        "source": "Manga",
+        "episodes": 1,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "1988-02-06T00:00:00+00:00",
+            "to": null,
+            "prop": {
+                "from": {
+                    "day": 6,
+                    "month": 2,
+                    "year": 1988
+                },
+                "to": {
+                    "day": null,
+                    "month": null,
+                    "year": null
+                }
+            },
+            "string": "Feb 6, 1988"
+        },
+        "duration": "1 hr 5 min",
+        "rating": "PG-13 - Teens 13 or older",
+        "score": 7.12,
+        "scored_by": 3885,
+        "rank": 3934,
+        "popularity": 7530,
+        "members": 8592,
+        "favorites": 10,
+        "synopsis": "The Maison Ikkoku tennants throw a party to celebrate the marriage of Yuusaku and Kyouko. However, during the party Yuusaku hears that Kyouko is waiting for a letter. He becomes jealous and begins to doubt Kyouko, worrying that she still loves someone else. When the morning arrives, the answer to his worries is revealed...\n\n(Source: AniDB)",
+        "background": "",
+        "season": null,
+        "year": null,
+        "broadcast": {
+            "day": null,
+            "time": null,
+            "timezone": null,
+            "string": null
+        },
+        "producers": [
+            {
+                "mal_id": 99,
+                "type": "anime",
+                "name": "Kitty Films",
+                "url": "https://myanimelist.net/anime/producer/99/Kitty_Films"
+            }
+        ],
+        "licensors": [],
+        "studios": [
+            {
+                "mal_id": 30,
+                "type": "anime",
+                "name": "Ajia-do",
+                "url": "https://myanimelist.net/anime/producer/30/Ajia-do"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 4,
+                "type": "anime",
+                "name": "Comedy",
+                "url": "https://myanimelist.net/anime/genre/4/Comedy"
+            },
+            {
+                "mal_id": 8,
+                "type": "anime",
+                "name": "Drama",
+                "url": "https://myanimelist.net/anime/genre/8/Drama"
+            },
+            {
+                "mal_id": 22,
+                "type": "anime",
+                "name": "Romance",
+                "url": "https://myanimelist.net/anime/genre/22/Romance"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [
+            {
+                "mal_id": 50,
+                "type": "anime",
+                "name": "Adult Cast",
+                "url": "https://myanimelist.net/anime/genre/50/Adult_Cast"
+            }
+        ],
+        "demographics": [
+            {
+                "mal_id": 42,
+                "type": "anime",
+                "name": "Seinen",
+                "url": "https://myanimelist.net/anime/genre/42/Seinen"
+            }
+        ],
+        "relations": [
+            {
+                "relation": "Prequel",
+                "entry": [
+                    {
+                        "mal_id": 1453,
+                        "type": "anime",
+                        "name": "Maison Ikkoku",
+                        "url": "https://myanimelist.net/anime/1453/Maison_Ikkoku"
+                    }
+                ]
+            },
+            {
+                "relation": "Alternative Version",
+                "entry": [
+                    {
+                        "mal_id": 1453,
+                        "type": "anime",
+                        "name": "Maison Ikkoku",
+                        "url": "https://myanimelist.net/anime/1453/Maison_Ikkoku"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [],
+            "endings": [
+                "\"Glass no Kiss\" by Rika Himenogi"
+            ]
+        },
+        "external": [
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=491"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=1864"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "http://en.wikipedia.org/wiki/Maison_Ikkoku"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": []
+}

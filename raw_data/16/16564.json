@@ -1,0 +1,141 @@
+{
+    "id": 16564,
+    "fetched_at": "Sun Dec 14 09:47:25 2025",
+    "metadata": {
+        "mal_id": 16564,
+        "url": "https://myanimelist.net/anime/16564/84_Taekwon_V",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1576/116113.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1576/116113t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1576/116113l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1576/116113.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1576/116113t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1576/116113l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "84 Taekwon V"
+            },
+            {
+                "type": "Japanese",
+                "title": "'84 태권V"
+            },
+            {
+                "type": "English",
+                "title": "Robot Taekwon V 84"
+            }
+        ],
+        "title": "84 Taekwon V",
+        "title_english": "Robot Taekwon V 84",
+        "title_japanese": "'84 태권V",
+        "title_synonyms": [],
+        "type": "Movie",
+        "source": "Original",
+        "episodes": 1,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "1984-08-03T00:00:00+00:00",
+            "to": null,
+            "prop": {
+                "from": {
+                    "day": 3,
+                    "month": 8,
+                    "year": 1984
+                },
+                "to": {
+                    "day": null,
+                    "month": null,
+                    "year": null
+                }
+            },
+            "string": "Aug 3, 1984"
+        },
+        "duration": "1 hr 18 min",
+        "rating": "PG - Children",
+        "score": 4.89,
+        "scored_by": 222,
+        "rank": 13934,
+        "popularity": 15924,
+        "members": 760,
+        "favorites": 0,
+        "synopsis": "The seventh movie in the popular Korean movie series Robot Taekwon V.",
+        "background": "",
+        "season": null,
+        "year": null,
+        "broadcast": {
+            "day": null,
+            "time": null,
+            "timezone": null,
+            "string": null
+        },
+        "producers": [],
+        "licensors": [],
+        "studios": [],
+        "genres": [
+            {
+                "mal_id": 24,
+                "type": "anime",
+                "name": "Sci-Fi",
+                "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [
+            {
+                "mal_id": 18,
+                "type": "anime",
+                "name": "Mecha",
+                "url": "https://myanimelist.net/anime/genre/18/Mecha"
+            }
+        ],
+        "demographics": [],
+        "relations": [
+            {
+                "relation": "Prequel",
+                "entry": [
+                    {
+                        "mal_id": 16568,
+                        "type": "anime",
+                        "name": "Super Taekwon V",
+                        "url": "https://myanimelist.net/anime/16568/Super_Taekwon_V"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [],
+            "endings": []
+        },
+        "external": [
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=10250"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "http://en.wikipedia.org/wiki/Robot_Taekwon_V"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": []
+}

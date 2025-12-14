@@ -1,0 +1,124 @@
+{
+    "id": 23001,
+    "fetched_at": "Sun Dec 14 10:09:43 2025",
+    "metadata": {
+        "mal_id": 23001,
+        "url": "https://myanimelist.net/anime/23001/Manga_Jinbutsushi",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/13/59663.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/13/59663t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/13/59663l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/13/59663.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/13/59663t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/13/59663l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Manga Jinbutsushi"
+            },
+            {
+                "type": "Synonym",
+                "title": "Illustrated Stories of Great Individuals"
+            },
+            {
+                "type": "Japanese",
+                "title": "マンガ人物史"
+            }
+        ],
+        "title": "Manga Jinbutsushi",
+        "title_english": null,
+        "title_japanese": "マンガ人物史",
+        "title_synonyms": [
+            "Illustrated Stories of Great Individuals"
+        ],
+        "type": "TV",
+        "source": "Unknown",
+        "episodes": 365,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "1970-08-01T00:00:00+00:00",
+            "to": "1971-09-30T00:00:00+00:00",
+            "prop": {
+                "from": {
+                    "day": 1,
+                    "month": 8,
+                    "year": 1970
+                },
+                "to": {
+                    "day": 30,
+                    "month": 9,
+                    "year": 1971
+                }
+            },
+            "string": "Aug 1, 1970 to Sep 30, 1971"
+        },
+        "duration": "5 min per ep",
+        "rating": "G - All Ages",
+        "score": null,
+        "scored_by": null,
+        "rank": 18489,
+        "popularity": 17579,
+        "members": 539,
+        "favorites": 1,
+        "synopsis": "A short documentary series. Each 5 minute episode aired Monday through Saturday.\n\n(Source: AniDB)",
+        "background": "",
+        "season": "summer",
+        "year": 1970,
+        "broadcast": {
+            "day": null,
+            "time": null,
+            "timezone": null,
+            "string": "Unknown"
+        },
+        "producers": [],
+        "licensors": [],
+        "studios": [],
+        "genres": [],
+        "explicit_genres": [],
+        "themes": [
+            {
+                "mal_id": 13,
+                "type": "anime",
+                "name": "Historical",
+                "url": "https://myanimelist.net/anime/genre/13/Historical"
+            }
+        ],
+        "demographics": [],
+        "relations": [],
+        "theme": {
+            "openings": [],
+            "endings": []
+        },
+        "external": [
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=4951"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=979"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": []
+}

@@ -1,0 +1,148 @@
+{
+    "id": 10755,
+    "fetched_at": "Sun Dec 14 09:34:25 2025",
+    "metadata": {
+        "mal_id": 10755,
+        "url": "https://myanimelist.net/anime/10755/Lupin_tai_Holmes",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1412/139527.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1412/139527t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1412/139527l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1412/139527.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1412/139527t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1412/139527l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Lupin tai Holmes"
+            },
+            {
+                "type": "Synonym",
+                "title": "Lupin vs. Holmes"
+            },
+            {
+                "type": "Synonym",
+                "title": "Lupin Against Holmes"
+            },
+            {
+                "type": "Japanese",
+                "title": "ルパン対ホームズ"
+            }
+        ],
+        "title": "Lupin tai Holmes",
+        "title_english": null,
+        "title_japanese": "ルパン対ホームズ",
+        "title_synonyms": [
+            "Lupin vs. Holmes",
+            "Lupin Against Holmes"
+        ],
+        "type": "TV Special",
+        "source": "Unknown",
+        "episodes": 1,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "1981-05-05T00:00:00+00:00",
+            "to": null,
+            "prop": {
+                "from": {
+                    "day": 5,
+                    "month": 5,
+                    "year": 1981
+                },
+                "to": {
+                    "day": null,
+                    "month": null,
+                    "year": null
+                }
+            },
+            "string": "May 5, 1981"
+        },
+        "duration": "1 hr 5 min",
+        "rating": "PG-13 - Teens 13 or older",
+        "score": 5.86,
+        "scored_by": 254,
+        "rank": 11024,
+        "popularity": 14091,
+        "members": 1242,
+        "favorites": 1,
+        "synopsis": "Based on a story by Maurice Leblanc.",
+        "background": "",
+        "season": null,
+        "year": null,
+        "broadcast": {
+            "day": null,
+            "time": null,
+            "timezone": null,
+            "string": null
+        },
+        "producers": [],
+        "licensors": [],
+        "studios": [
+            {
+                "mal_id": 18,
+                "type": "anime",
+                "name": "Toei Animation",
+                "url": "https://myanimelist.net/anime/producer/18/Toei_Animation"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 7,
+                "type": "anime",
+                "name": "Mystery",
+                "url": "https://myanimelist.net/anime/genre/7/Mystery"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [],
+        "demographics": [],
+        "relations": [
+            {
+                "relation": "Alternative Version",
+                "entry": [
+                    {
+                        "mal_id": 17403,
+                        "type": "anime",
+                        "name": "Kaitou Lupin: 813 no Nazo",
+                        "url": "https://myanimelist.net/anime/17403/Kaitou_Lupin__813_no_Nazo"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [],
+            "endings": []
+        },
+        "external": [
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=3178"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=8997"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": []
+}

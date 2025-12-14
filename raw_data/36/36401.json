@@ -1,0 +1,142 @@
+{
+    "id": 36401,
+    "fetched_at": "Sun Dec 14 11:10:01 2025",
+    "metadata": {
+        "mal_id": 36401,
+        "url": "https://myanimelist.net/anime/36401/Kozou_no_Koushin",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/12/87825.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/12/87825t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/12/87825l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/12/87825.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/12/87825t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/12/87825l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Kozou no Koushin"
+            },
+            {
+                "type": "Synonym",
+                "title": "Minna no Uta"
+            },
+            {
+                "type": "Japanese",
+                "title": "子象の行進"
+            },
+            {
+                "type": "English",
+                "title": "Baby Elephant Walk"
+            }
+        ],
+        "title": "Kozou no Koushin",
+        "title_english": "Baby Elephant Walk",
+        "title_japanese": "子象の行進",
+        "title_synonyms": [
+            "Minna no Uta"
+        ],
+        "type": "Music",
+        "source": "Music",
+        "episodes": 1,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "1976-02-05T00:00:00+00:00",
+            "to": null,
+            "prop": {
+                "from": {
+                    "day": 5,
+                    "month": 2,
+                    "year": 1976
+                },
+                "to": {
+                    "day": null,
+                    "month": null,
+                    "year": null
+                }
+            },
+            "string": "Feb 5, 1976"
+        },
+        "duration": "2 min",
+        "rating": "G - All Ages",
+        "score": 5.4,
+        "scored_by": 139,
+        "rank": null,
+        "popularity": 20721,
+        "members": 306,
+        "favorites": 0,
+        "synopsis": "A Japanese rendition of Henry Mancini's song Baby Elephant Walk which was originally created for the 1962 American film \"Hatari!\".",
+        "background": "",
+        "season": null,
+        "year": null,
+        "broadcast": {
+            "day": null,
+            "time": null,
+            "timezone": null,
+            "string": null
+        },
+        "producers": [
+            {
+                "mal_id": 111,
+                "type": "anime",
+                "name": "NHK",
+                "url": "https://myanimelist.net/anime/producer/111/NHK"
+            }
+        ],
+        "licensors": [],
+        "studios": [],
+        "genres": [],
+        "explicit_genres": [],
+        "themes": [
+            {
+                "mal_id": 19,
+                "type": "anime",
+                "name": "Music",
+                "url": "https://myanimelist.net/anime/genre/19/Music"
+            }
+        ],
+        "demographics": [
+            {
+                "mal_id": 15,
+                "type": "anime",
+                "name": "Kids",
+                "url": "https://myanimelist.net/anime/genre/15/Kids"
+            }
+        ],
+        "relations": [],
+        "theme": {
+            "openings": [],
+            "endings": []
+        },
+        "external": [
+            {
+                "name": "Official Site",
+                "url": "https://www.nhk.or.jp/minna/songs/MIN197602_01/"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "https://ja.wikipedia.org/wiki/%E5%AD%90%E8%B1%A1%E3%81%AE%E8%A1%8C%E9%80%B2"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": []
+}

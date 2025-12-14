@@ -1,0 +1,736 @@
+{
+    "id": 2542,
+    "fetched_at": "Sun Dec 14 07:26:02 2025",
+    "metadata": {
+        "mal_id": 2542,
+        "url": "https://myanimelist.net/anime/2542/Lady_Georgie",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1271/92965.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1271/92965t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1271/92965l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1271/92965.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1271/92965t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1271/92965l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Lady Georgie"
+            },
+            {
+                "type": "Synonym",
+                "title": "Joaninha"
+            },
+            {
+                "type": "Japanese",
+                "title": "レディジョージィ"
+            },
+            {
+                "type": "German",
+                "title": "Georgie"
+            },
+            {
+                "type": "French",
+                "title": "Georgie"
+            }
+        ],
+        "title": "Lady Georgie",
+        "title_english": null,
+        "title_japanese": "レディジョージィ",
+        "title_synonyms": [
+            "Joaninha"
+        ],
+        "type": "TV",
+        "source": "Manga",
+        "episodes": 45,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "1983-04-09T00:00:00+00:00",
+            "to": "1984-02-25T00:00:00+00:00",
+            "prop": {
+                "from": {
+                    "day": 9,
+                    "month": 4,
+                    "year": 1983
+                },
+                "to": {
+                    "day": 25,
+                    "month": 2,
+                    "year": 1984
+                }
+            },
+            "string": "Apr 9, 1983 to Feb 25, 1984"
+        },
+        "duration": "24 min per ep",
+        "rating": "PG-13 - Teens 13 or older",
+        "score": 7.18,
+        "scored_by": 4927,
+        "rank": 3594,
+        "popularity": 6579,
+        "members": 11929,
+        "favorites": 75,
+        "synopsis": "An Australian farmer returns home from the woods with a baby named Georgie. The girl lives ignoring the terrible secret hidden in the golden bracelet on her hand. Her \"Father\" and Her \"brothers\", Abel and Arthur, love her dearly, but her \"mother\" considers her an intruder and doesn't manage to open her heart to the girl. Georgie grows up into a beautiful young girl, and both her \"brothers\" are deeply in love with her. Not knowing the truth, Georgie eventually falls in love with the handsome grandson of the British Governor. When Mother finally reveals the truth to her and condemns the girl for being an exile's daughter, Georgie leaves for Britain in search of her real parents - and for her love, who has also left Australia. Abel and Arthur follow her and the three are thrown into the cruel world of London aristocracy, lies and intrigues.",
+        "background": "",
+        "season": "spring",
+        "year": 1983,
+        "broadcast": {
+            "day": "Saturdays",
+            "time": "19:00",
+            "timezone": "Asia/Tokyo",
+            "string": "Saturdays at 19:00 (JST)"
+        },
+        "producers": [
+            {
+                "mal_id": 55,
+                "type": "anime",
+                "name": "TV Asahi",
+                "url": "https://myanimelist.net/anime/producer/55/TV_Asahi"
+            },
+            {
+                "mal_id": 142,
+                "type": "anime",
+                "name": "Asatsu DK",
+                "url": "https://myanimelist.net/anime/producer/142/Asatsu_DK"
+            }
+        ],
+        "licensors": [
+            {
+                "mal_id": 467,
+                "type": "anime",
+                "name": "Discotek Media",
+                "url": "https://myanimelist.net/anime/producer/467/Discotek_Media"
+            }
+        ],
+        "studios": [
+            {
+                "mal_id": 65,
+                "type": "anime",
+                "name": "Tokyo Movie Shinsha",
+                "url": "https://myanimelist.net/anime/producer/65/Tokyo_Movie_Shinsha"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 8,
+                "type": "anime",
+                "name": "Drama",
+                "url": "https://myanimelist.net/anime/genre/8/Drama"
+            },
+            {
+                "mal_id": 22,
+                "type": "anime",
+                "name": "Romance",
+                "url": "https://myanimelist.net/anime/genre/22/Romance"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [
+            {
+                "mal_id": 13,
+                "type": "anime",
+                "name": "Historical",
+                "url": "https://myanimelist.net/anime/genre/13/Historical"
+            }
+        ],
+        "demographics": [
+            {
+                "mal_id": 25,
+                "type": "anime",
+                "name": "Shoujo",
+                "url": "https://myanimelist.net/anime/genre/25/Shoujo"
+            }
+        ],
+        "relations": [
+            {
+                "relation": "Adaptation",
+                "entry": [
+                    {
+                        "mal_id": 2685,
+                        "type": "manga",
+                        "name": "Georgie",
+                        "url": "https://myanimelist.net/manga/2685/Georgie"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [
+                "''Wasurareta Message'' by Yamamoto Yuriko"
+            ],
+            "endings": [
+                "\"Yasashisa wo Arigatou\" by Yamamoto Yuriko"
+            ]
+        },
+        "external": [
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=3652"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=1852"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": [
+        {
+            "mal_id": 1,
+            "url": null,
+            "title": "The Bracelet’s Secret",
+            "title_japanese": "腕輪の秘密",
+            "title_romanji": "Udewa no Himitsu ",
+            "aired": "1983-04-09T00:00:00+00:00",
+            "score": 4.29,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=38909"
+        },
+        {
+            "mal_id": 2,
+            "url": null,
+            "title": "Father's Promise",
+            "title_japanese": "父さんの約束",
+            "title_romanji": "Tousan no Yakusoku ",
+            "aired": "1983-04-16T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1742535"
+        },
+        {
+            "mal_id": 3,
+            "url": null,
+            "title": "The Lezard's Island",
+            "title_japanese": "トカゲ島のできごと",
+            "title_romanji": "Tokage Shima no Dekigoto ",
+            "aired": "1983-04-23T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1742587"
+        },
+        {
+            "mal_id": 4,
+            "url": null,
+            "title": "Daddy stay with us",
+            "title_japanese": "父さん、 死んじゃいや!",
+            "title_romanji": "Tousan, Shinjaiya ",
+            "aired": "1983-04-30T00:00:00+00:00",
+            "score": 4.33,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1742605"
+        },
+        {
+            "mal_id": 5,
+            "url": null,
+            "title": "Will they sell the farm?",
+            "title_japanese": "牧場を 売らないで…",
+            "title_romanji": "Bokujou wo Uranaide… ",
+            "aired": "1983-05-07T00:00:00+00:00",
+            "score": 4.5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1742700"
+        },
+        {
+            "mal_id": 6,
+            "url": null,
+            "title": "Children's Dreams",
+            "title_japanese": "兄妹の すてきな夢",
+            "title_romanji": "Kyoudai no Suteki na Yume ",
+            "aired": "1983-05-14T00:00:00+00:00",
+            "score": 3.75,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1742799"
+        },
+        {
+            "mal_id": 7,
+            "url": null,
+            "title": "The Bracelet Lost",
+            "title_japanese": "なくなった ブレスレット",
+            "title_romanji": "Nakunatta Bracelet ",
+            "aired": "1983-05-21T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1742878"
+        },
+        {
+            "mal_id": 8,
+            "url": null,
+            "title": "Sister Katie",
+            "title_japanese": "友だちは いじめっ子?",
+            "title_romanji": "Tomodachi wa Ijimekko? ",
+            "aired": "1983-05-28T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1742994"
+        },
+        {
+            "mal_id": 9,
+            "url": null,
+            "title": "The Other Abel",
+            "title_japanese": "おかしなアベル",
+            "title_romanji": "Okashi na Abel ",
+            "aired": "1983-06-04T00:00:00+00:00",
+            "score": 3.75,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1742995"
+        },
+        {
+            "mal_id": 10,
+            "url": null,
+            "title": "Happy Birthday Mother",
+            "title_japanese": "母さんが笑った!",
+            "title_romanji": "Kaasan ga Waratta! ",
+            "aired": "1983-06-11T00:00:00+00:00",
+            "score": 4.75,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=88084"
+        },
+        {
+            "mal_id": 11,
+            "url": null,
+            "title": "An Unexpected Visit",
+            "title_japanese": "思いがけない お客さま",
+            "title_romanji": "Omoigakenai Okyaku-sama ",
+            "aired": "1983-06-18T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1743138"
+        },
+        {
+            "mal_id": 12,
+            "url": null,
+            "title": "Georgie's New Room",
+            "title_japanese": "今日から一人部屋",
+            "title_romanji": null,
+            "aired": "1983-06-25T00:00:00+00:00",
+            "score": 4.25,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1743210"
+        },
+        {
+            "mal_id": 13,
+            "url": null,
+            "title": "Abel Is Jelous",
+            "title_japanese": "アベルが ヤキモチをやいた!",
+            "title_romanji": null,
+            "aired": "1983-07-02T00:00:00+00:00",
+            "score": 4.5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1743214"
+        },
+        {
+            "mal_id": 14,
+            "url": null,
+            "title": "The wolves",
+            "title_japanese": "アベルの決意",
+            "title_romanji": "Abel no Ketsui ",
+            "aired": "1983-07-09T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1743228"
+        },
+        {
+            "mal_id": 15,
+            "url": null,
+            "title": "Bettie The Vermin",
+            "title_japanese": "じゃじゃ馬ベッキィ",
+            "title_romanji": "Jajauma Becky ",
+            "aired": "1983-07-16T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1743287"
+        },
+        {
+            "mal_id": 16,
+            "url": null,
+            "title": "The Birthday Dinner",
+            "title_japanese": "ベッキィの誕生日",
+            "title_romanji": "Becky no Tanjoubi ",
+            "aired": "1983-07-23T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1743311"
+        },
+        {
+            "mal_id": 17,
+            "url": null,
+            "title": "Kim Finds a Bride",
+            "title_japanese": "ラップのお嫁さん",
+            "title_romanji": "Rapp no Oyomesan ",
+            "aired": "1983-07-30T00:00:00+00:00",
+            "score": 4.67,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1743386"
+        },
+        {
+            "mal_id": 18,
+            "url": null,
+            "title": "The Gentleman",
+            "title_japanese": "アーサーの嘘",
+            "title_romanji": "Arthur no Uso ",
+            "aired": "1983-08-06T00:00:00+00:00",
+            "score": 4.25,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1743388"
+        },
+        {
+            "mal_id": 19,
+            "url": null,
+            "title": "Georgie The Dressmaker",
+            "title_japanese": "デザイナーに なるの?!",
+            "title_romanji": "Designer ni naru no? ",
+            "aired": "1983-08-13T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1743390"
+        },
+        {
+            "mal_id": 20,
+            "url": null,
+            "title": "Abel's Going Away",
+            "title_japanese": "さようなら オーストラリア",
+            "title_romanji": "Sayounara Australia ",
+            "aired": "1983-08-20T00:00:00+00:00",
+            "score": 4.25,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1743391"
+        },
+        {
+            "mal_id": 21,
+            "url": null,
+            "title": "Blue As The Sky",
+            "title_japanese": "瞳の色は 優しいブルー",
+            "title_romanji": "Hitomi no Iro wa Yasashii Blue ",
+            "aired": "1983-08-27T00:00:00+00:00",
+            "score": 4.4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1743557"
+        },
+        {
+            "mal_id": 22,
+            "url": null,
+            "title": "Abel is Back",
+            "title_japanese": "お帰りなさい アベル",
+            "title_romanji": "Okaerinasai Abel ",
+            "aired": "1983-09-03T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1743559"
+        },
+        {
+            "mal_id": 23,
+            "url": null,
+            "title": "The Railroad",
+            "title_japanese": "その人の名は… ロエル",
+            "title_romanji": null,
+            "aired": "1983-09-10T00:00:00+00:00",
+            "score": 4.17,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1743767"
+        },
+        {
+            "mal_id": 24,
+            "url": null,
+            "title": "First Kiss",
+            "title_japanese": "はじめての キス!",
+            "title_romanji": "Hajimete no Kiss! ",
+            "aired": "1983-09-17T00:00:00+00:00",
+            "score": 4.67,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1743769"
+        },
+        {
+            "mal_id": 25,
+            "url": null,
+            "title": "The Secret Revealed",
+            "title_japanese": "ジョージィの かくされた過去の秘密",
+            "title_romanji": null,
+            "aired": "1983-09-24T00:00:00+00:00",
+            "score": 4.67,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1743771"
+        },
+        {
+            "mal_id": 26,
+            "url": null,
+            "title": "A Night of Storm",
+            "title_japanese": "嵐の夜・愛を うちあけるロエル…",
+            "title_romanji": null,
+            "aired": "1983-10-01T00:00:00+00:00",
+            "score": 4.67,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1743894"
+        },
+        {
+            "mal_id": 27,
+            "url": null,
+            "title": "Georgie's Sadness",
+            "title_japanese": "秘密を知った 悲しみのジョージィ",
+            "title_romanji": "Himitsu wo Shitta Kanashimi no Georgie ",
+            "aired": "1983-10-08T00:00:00+00:00",
+            "score": 4.5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1743916"
+        },
+        {
+            "mal_id": 28,
+            "url": null,
+            "title": "A Cruel Dilemma",
+            "title_japanese": "ベルとアーサー・ 二つの愛のかたち",
+            "title_romanji": null,
+            "aired": "1983-10-15T00:00:00+00:00",
+            "score": 4.83,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1743986"
+        },
+        {
+            "mal_id": 29,
+            "url": null,
+            "title": "Georgie's Decision",
+            "title_japanese": "旅立ちの 決心をするジョージィ",
+            "title_romanji": null,
+            "aired": "1983-10-22T00:00:00+00:00",
+            "score": 4.67,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1743987"
+        },
+        {
+            "mal_id": 30,
+            "url": null,
+            "title": "Mother's Death",
+            "title_japanese": "ジョージィを追うアベル そして母の死",
+            "title_romanji": null,
+            "aired": "1983-10-29T00:00:00+00:00",
+            "score": 4.86,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1744200"
+        },
+        {
+            "mal_id": 31,
+            "url": null,
+            "title": "Towards England",
+            "title_japanese": "ちりぢりになって イギリスへ向かう三人",
+            "title_romanji": null,
+            "aired": "1983-11-12T00:00:00+00:00",
+            "score": 4.67,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1744317"
+        },
+        {
+            "mal_id": 32,
+            "url": null,
+            "title": "Three Ships",
+            "title_japanese": "船員ジョージィと 夢見る少女キャサリン",
+            "title_romanji": null,
+            "aired": "1983-11-19T00:00:00+00:00",
+            "score": 4.67,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1744457"
+        },
+        {
+            "mal_id": 33,
+            "url": null,
+            "title": "The Terrible Piege",
+            "title_japanese": "ジョージィにかけられた 恐ろしいワナ",
+            "title_romanji": null,
+            "aired": "1983-11-26T00:00:00+00:00",
+            "score": 4.71,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1744463"
+        },
+        {
+            "mal_id": 34,
+            "url": null,
+            "title": "The Reunion",
+            "title_japanese": "再会する二人 ～ジョージィとロエル～",
+            "title_romanji": null,
+            "aired": "1983-12-03T00:00:00+00:00",
+            "score": 4.86,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1744527"
+        },
+        {
+            "mal_id": 35,
+            "url": null,
+            "title": "Dreams And Tears",
+            "title_japanese": "おばあちゃんの 夢とロエルの涙",
+            "title_romanji": null,
+            "aired": "1983-12-10T00:00:00+00:00",
+            "score": 4.67,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1744621"
+        },
+        {
+            "mal_id": 36,
+            "url": null,
+            "title": "The Blind",
+            "title_japanese": "ジョージィを 見つけたアベル!",
+            "title_romanji": null,
+            "aired": "1983-12-17T00:00:00+00:00",
+            "score": 4.83,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1744626"
+        },
+        {
+            "mal_id": 37,
+            "url": null,
+            "title": "Abel's Judgement",
+            "title_japanese": "ロエルとの結婚に 反対するアベル",
+            "title_romanji": null,
+            "aired": "1983-12-24T00:00:00+00:00",
+            "score": 4.83,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1744629"
+        },
+        {
+            "mal_id": 38,
+            "url": null,
+            "title": "The Duke's Menaces",
+            "title_japanese": "忍びよるダンゲリング 公爵の魔の手",
+            "title_romanji": null,
+            "aired": "1984-01-07T00:00:00+00:00",
+            "score": 4.67,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1744631"
+        },
+        {
+            "mal_id": 39,
+            "url": null,
+            "title": "The Debutants' Ball",
+            "title_japanese": "王室舞踏会は 危険がいっぱい!",
+            "title_romanji": null,
+            "aired": "1984-01-14T00:00:00+00:00",
+            "score": 4.86,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1744716"
+        },
+        {
+            "mal_id": 40,
+            "url": null,
+            "title": "The Fear",
+            "title_japanese": "脱出するロエル とジョージィ",
+            "title_romanji": null,
+            "aired": "1984-01-21T00:00:00+00:00",
+            "score": 4.83,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1744752"
+        },
+        {
+            "mal_id": 41,
+            "url": null,
+            "title": "Georgie Sells The Bracelet",
+            "title_japanese": "大切な指輪を 売るジョージィ",
+            "title_romanji": null,
+            "aired": "1984-01-28T00:00:00+00:00",
+            "score": 4.83,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1744924"
+        },
+        {
+            "mal_id": 42,
+            "url": null,
+            "title": "The Sacrifice",
+            "title_japanese": "ロエルのために 必死に働くジョージィ",
+            "title_romanji": null,
+            "aired": "1984-02-04T00:00:00+00:00",
+            "score": 4.86,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1744927"
+        },
+        {
+            "mal_id": 43,
+            "url": null,
+            "title": "Farewell Laurent",
+            "title_japanese": "さようなら 愛しいロエル",
+            "title_romanji": "Sayounara Itoshii Lowell ",
+            "aired": "1984-02-11T00:00:00+00:00",
+            "score": 4.67,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1744930"
+        },
+        {
+            "mal_id": 44,
+            "url": null,
+            "title": "Father",
+            "title_japanese": "父にめぐり会う ジョージィ",
+            "title_romanji": null,
+            "aired": "1984-02-18T00:00:00+00:00",
+            "score": 4.78,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1745028"
+        },
+        {
+            "mal_id": 45,
+            "url": null,
+            "title": "The Nightmare's End",
+            "title_japanese": "心は ブーメランのように",
+            "title_romanji": null,
+            "aired": "1984-02-25T00:00:00+00:00",
+            "score": 3.38,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1296785"
+        }
+    ]
+}

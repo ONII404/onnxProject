@@ -1,0 +1,170 @@
+{
+    "id": 5091,
+    "fetched_at": "Sun Dec 14 08:45:13 2025",
+    "metadata": {
+        "mal_id": 5091,
+        "url": "https://myanimelist.net/anime/5091/Manga_Sarutobi_Sasuke",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/11/57257.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/11/57257t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/11/57257l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/11/57257.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/11/57257t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/11/57257l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Manga Sarutobi Sasuke"
+            },
+            {
+                "type": "Synonym",
+                "title": "Sasuke TV"
+            },
+            {
+                "type": "Japanese",
+                "title": "まんが猿飛佐助"
+            },
+            {
+                "type": "English",
+                "title": "Ninja the Wonder Boy"
+            }
+        ],
+        "title": "Manga Sarutobi Sasuke",
+        "title_english": "Ninja the Wonder Boy",
+        "title_japanese": "まんが猿飛佐助",
+        "title_synonyms": [
+            "Sasuke TV"
+        ],
+        "type": "TV",
+        "source": "Original",
+        "episodes": 24,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "1979-10-09T00:00:00+00:00",
+            "to": "1980-04-15T00:00:00+00:00",
+            "prop": {
+                "from": {
+                    "day": 9,
+                    "month": 10,
+                    "year": 1979
+                },
+                "to": {
+                    "day": 15,
+                    "month": 4,
+                    "year": 1980
+                }
+            },
+            "string": "Oct 9, 1979 to Apr 15, 1980"
+        },
+        "duration": "20 min per ep",
+        "rating": "PG - Children",
+        "score": 6.78,
+        "scored_by": 1177,
+        "rank": 5635,
+        "popularity": 11801,
+        "members": 2403,
+        "favorites": 11,
+        "synopsis": "Sasuke is the story of a ninja child that starts right after the battle of Sekigahara where Tokugawa Ieyasu becomes shogun of Japan. Sarutobi Sasuke (Jump Like Monkey Sasuke) was a famous ninja in the employ of Sanada Daisuke who fought for the losing side against Ieyasu. He was believed to have committed suicide when he was trapped in a castle, but the story takes off that he really escaped and that Sarutobi is not a name of a ninja but a whole ninja clan. (from AniDB)",
+        "background": "",
+        "season": "fall",
+        "year": 1979,
+        "broadcast": {
+            "day": null,
+            "time": null,
+            "timezone": null,
+            "string": "Unknown"
+        },
+        "producers": [
+            {
+                "mal_id": 452,
+                "type": "anime",
+                "name": "Knack Productions",
+                "url": "https://myanimelist.net/anime/producer/452/Knack_Productions"
+            }
+        ],
+        "licensors": [],
+        "studios": [],
+        "genres": [
+            {
+                "mal_id": 2,
+                "type": "anime",
+                "name": "Adventure",
+                "url": "https://myanimelist.net/anime/genre/2/Adventure"
+            },
+            {
+                "mal_id": 4,
+                "type": "anime",
+                "name": "Comedy",
+                "url": "https://myanimelist.net/anime/genre/4/Comedy"
+            },
+            {
+                "mal_id": 37,
+                "type": "anime",
+                "name": "Supernatural",
+                "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [
+            {
+                "mal_id": 13,
+                "type": "anime",
+                "name": "Historical",
+                "url": "https://myanimelist.net/anime/genre/13/Historical"
+            }
+        ],
+        "demographics": [],
+        "relations": [
+            {
+                "relation": "Character",
+                "entry": [
+                    {
+                        "mal_id": 4948,
+                        "type": "anime",
+                        "name": "Shounen Sarutobi Sasuke",
+                        "url": "https://myanimelist.net/anime/4948/Shounen_Sarutobi_Sasuke"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [
+                "\"Sarutobi Sanjou\" by Aquarius"
+            ],
+            "endings": [
+                "\"Sasuke Tobe (Sasuke Fly; 佐助翔べ)\" by Aquarius (アクエリアス)"
+            ]
+        },
+        "external": [
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=3091"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=2308"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": []
+}

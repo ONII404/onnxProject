@@ -1,0 +1,156 @@
+{
+    "id": 30028,
+    "fetched_at": "Sun Dec 14 10:40:11 2025",
+    "metadata": {
+        "mal_id": 30028,
+        "url": "https://myanimelist.net/anime/30028/Sekai_Meisaku_Douwa_Series",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/12/71937.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/12/71937t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/12/71937l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/12/71937.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/12/71937t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/12/71937l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Sekai Meisaku Douwa Series"
+            },
+            {
+                "type": "Synonym",
+                "title": "Sekai Meisaku Douwa Manga Series"
+            },
+            {
+                "type": "Synonym",
+                "title": "World Masterpiece Fairy Tale Series"
+            },
+            {
+                "type": "Japanese",
+                "title": "世界名作童話シリーズ"
+            }
+        ],
+        "title": "Sekai Meisaku Douwa Series",
+        "title_english": null,
+        "title_japanese": "世界名作童話シリーズ",
+        "title_synonyms": [
+            "Sekai Meisaku Douwa Manga Series",
+            "World Masterpiece Fairy Tale Series"
+        ],
+        "type": "TV",
+        "source": "Unknown",
+        "episodes": 4,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "1988-04-07T00:00:00+00:00",
+            "to": "1988-04-28T00:00:00+00:00",
+            "prop": {
+                "from": {
+                    "day": 7,
+                    "month": 4,
+                    "year": 1988
+                },
+                "to": {
+                    "day": 28,
+                    "month": 4,
+                    "year": 1988
+                }
+            },
+            "string": "Apr 7, 1988 to Apr 28, 1988"
+        },
+        "duration": "25 min per ep",
+        "rating": "G - All Ages",
+        "score": 6.28,
+        "scored_by": 120,
+        "rank": 8684,
+        "popularity": 16636,
+        "members": 651,
+        "favorites": 0,
+        "synopsis": "Toei's month long run of fairy tale stories.",
+        "background": "",
+        "season": "spring",
+        "year": 1988,
+        "broadcast": {
+            "day": "Thursdays",
+            "time": "18:00",
+            "timezone": "Asia/Tokyo",
+            "string": "Thursdays at 18:00 (JST)"
+        },
+        "producers": [],
+        "licensors": [],
+        "studios": [
+            {
+                "mal_id": 18,
+                "type": "anime",
+                "name": "Toei Animation",
+                "url": "https://myanimelist.net/anime/producer/18/Toei_Animation"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 2,
+                "type": "anime",
+                "name": "Adventure",
+                "url": "https://myanimelist.net/anime/genre/2/Adventure"
+            },
+            {
+                "mal_id": 10,
+                "type": "anime",
+                "name": "Fantasy",
+                "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [
+            {
+                "mal_id": 13,
+                "type": "anime",
+                "name": "Historical",
+                "url": "https://myanimelist.net/anime/genre/13/Historical"
+            }
+        ],
+        "demographics": [
+            {
+                "mal_id": 15,
+                "type": "anime",
+                "name": "Kids",
+                "url": "https://myanimelist.net/anime/genre/15/Kids"
+            }
+        ],
+        "relations": [],
+        "theme": {
+            "openings": [],
+            "endings": []
+        },
+        "external": [
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=6603"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=1038"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": []
+}

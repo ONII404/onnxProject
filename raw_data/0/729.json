@@ -1,0 +1,792 @@
+{
+    "id": 729,
+    "fetched_at": "Sun Dec 14 07:08:00 2025",
+    "metadata": {
+        "mal_id": 729,
+        "url": "https://myanimelist.net/anime/729/Hiatari_Ryoukou",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1207/134823.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1207/134823t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1207/134823l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1207/134823.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1207/134823t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1207/134823l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Hiatari Ryoukou!"
+            },
+            {
+                "type": "Synonym",
+                "title": "Hiatari Ryoukou"
+            },
+            {
+                "type": "Japanese",
+                "title": "陽あたり良好！"
+            },
+            {
+                "type": "English",
+                "title": "Sunny Ryoko"
+            },
+            {
+                "type": "Spanish",
+                "title": "Alegre Juventud"
+            },
+            {
+                "type": "French",
+                "title": "Hiatari Ryôkô"
+            }
+        ],
+        "title": "Hiatari Ryoukou!",
+        "title_english": "Sunny Ryoko",
+        "title_japanese": "陽あたり良好！",
+        "title_synonyms": [
+            "Hiatari Ryoukou"
+        ],
+        "type": "TV",
+        "source": "Manga",
+        "episodes": 48,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "1987-03-29T00:00:00+00:00",
+            "to": "1988-03-20T00:00:00+00:00",
+            "prop": {
+                "from": {
+                    "day": 29,
+                    "month": 3,
+                    "year": 1987
+                },
+                "to": {
+                    "day": 20,
+                    "month": 3,
+                    "year": 1988
+                }
+            },
+            "string": "Mar 29, 1987 to Mar 20, 1988"
+        },
+        "duration": "25 min per ep",
+        "rating": "PG-13 - Teens 13 or older",
+        "score": 7.02,
+        "scored_by": 1523,
+        "rank": 4442,
+        "popularity": 8508,
+        "members": 6340,
+        "favorites": 17,
+        "synopsis": "Kishimoto Kasumi, a 15-year-old girl, was supposed to live at her auntie's house in order to go to high school since April. However, when she moved to the house she was surprised with the fact that there were already four new male students living in the same house. To make the matter worse, that day while she was taking a bath, Takasugi Yusaku, one of those boys, came into the bath and saw her naked. This is how Kasumi's troublesome high school days started. \n\n(Source: AniDB)",
+        "background": "",
+        "season": "spring",
+        "year": 1987,
+        "broadcast": {
+            "day": "Sundays",
+            "time": "19:00",
+            "timezone": "Asia/Tokyo",
+            "string": "Sundays at 19:00 (JST)"
+        },
+        "producers": [
+            {
+                "mal_id": 245,
+                "type": "anime",
+                "name": "TOHO",
+                "url": "https://myanimelist.net/anime/producer/245/TOHO"
+            }
+        ],
+        "licensors": [],
+        "studios": [
+            {
+                "mal_id": 86,
+                "type": "anime",
+                "name": "Group TAC",
+                "url": "https://myanimelist.net/anime/producer/86/Group_TAC"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 4,
+                "type": "anime",
+                "name": "Comedy",
+                "url": "https://myanimelist.net/anime/genre/4/Comedy"
+            },
+            {
+                "mal_id": 22,
+                "type": "anime",
+                "name": "Romance",
+                "url": "https://myanimelist.net/anime/genre/22/Romance"
+            },
+            {
+                "mal_id": 30,
+                "type": "anime",
+                "name": "Sports",
+                "url": "https://myanimelist.net/anime/genre/30/Sports"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [
+            {
+                "mal_id": 23,
+                "type": "anime",
+                "name": "School",
+                "url": "https://myanimelist.net/anime/genre/23/School"
+            }
+        ],
+        "demographics": [
+            {
+                "mal_id": 25,
+                "type": "anime",
+                "name": "Shoujo",
+                "url": "https://myanimelist.net/anime/genre/25/Shoujo"
+            }
+        ],
+        "relations": [
+            {
+                "relation": "Sequel",
+                "entry": [
+                    {
+                        "mal_id": 1552,
+                        "type": "anime",
+                        "name": "Hiatari Ryoukou! Yume no Naka ni Kimi ga Ita",
+                        "url": "https://myanimelist.net/anime/1552/Hiatari_Ryoukou_Yume_no_Naka_ni_Kimi_ga_Ita"
+                    }
+                ]
+            },
+            {
+                "relation": "Adaptation",
+                "entry": [
+                    {
+                        "mal_id": 3168,
+                        "type": "manga",
+                        "name": "Hiatari Ryoukou!",
+                        "url": "https://myanimelist.net/manga/3168/Hiatari_Ryoukou"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [
+                "1: \"Hiatari Ryôkô\" by Aki Asakura (eps 1-17)",
+                "2: \"Kaettekita Machikadô\" by Hiroaki Serizawa (eps 18-37)",
+                "3: \"Kanashimi wa BEAT ni Kaete (Rise and Shine)\" by Ami Ozaki (eps 38-48)"
+            ],
+            "endings": [
+                "1: \"Shitauchi no Maria\" by Yume Kôba (eps 1-17)",
+                "2: \"Knife no Ue no Natsu\" by Hiroaki Serizawa (eps 18-37)",
+                "3: \"Sekaijû no Hitsuji Kazoe Sasenaide\" by Ami Ozaki (eps 38-48)"
+            ]
+        },
+        "external": [
+            {
+                "name": "Official Site",
+                "url": "http://www.mxtv.co.jp/hiatari/"
+            },
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=3047"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=1756"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "http://en.wikipedia.org/wiki/Hiatari_Ryōkō!"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": [
+        {
+            "mal_id": 1,
+            "url": null,
+            "title": "Kasumi and Yuusaku Meet... in the Bath?!",
+            "title_japanese": "かすみと勇作·出会いはおフロで...!?",
+            "title_romanji": "Kasumi to Yuusaku: Deai wa Ofuro de...!? ",
+            "aired": "1987-03-29T00:00:00+00:00",
+            "score": 4.3,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=363673"
+        },
+        {
+            "mal_id": 2,
+            "url": null,
+            "title": "The First Storm of Spring! Who's the Boss of the Cheer Squad?",
+            "title_japanese": "春一番!応援団のボスは誰?",
+            "title_romanji": "Haruichiban! Ouendan no Boss wa Dare? ",
+            "aired": "1987-04-05T00:00:00+00:00",
+            "score": 4.43,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=364017"
+        },
+        {
+            "mal_id": 3,
+            "url": null,
+            "title": "Entrance Ceremony Pandemonium! The Shadowy Cheer Squad Appeared!!",
+            "title_japanese": "入学式大荒れ!でてきたぞ影の応援団!!",
+            "title_romanji": "Nyuugakushiki Ooare! Detekita zo Kage no Ouendan! ",
+            "aired": "1987-04-12T00:00:00+00:00",
+            "score": 4.33,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=368347"
+        },
+        {
+            "mal_id": 4,
+            "url": null,
+            "title": "Kasumi in Danger! The Cheer Squad Leader Has a Secret",
+            "title_japanese": "かすみがあぶない!応援団長には秘密があるぞ",
+            "title_romanji": "Kasumi ga Abunai! Ouendanchou ni wa Himitsu ga Aru zo ",
+            "aired": "1987-04-19T00:00:00+00:00",
+            "score": 4.43,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=375389"
+        },
+        {
+            "mal_id": 5,
+            "url": null,
+            "title": "The Squad Leader's Misgivings: What Kind of Guy is the Mysterious Man Kodama",
+            "title_japanese": "団長の疑惑·謎の男児玉は一体何者だ",
+            "title_romanji": "Danchou no Giwaku: Nazo no Danshi wa Ittai Nanimono da ",
+            "aired": "1987-04-26T00:00:00+00:00",
+            "score": 4.6,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1596018"
+        },
+        {
+            "mal_id": 6,
+            "url": null,
+            "title": "Yuusaku Raids the Ouendan!? The Squad Leader Mystery Is Solved",
+            "title_japanese": "勇作·応援団に殴り込み!? 団長の謎は解けたゾ",
+            "title_romanji": "Yuusaku Ouendan ni Nagurikomi!? Danchou no Nazo wa Toketa zo ",
+            "aired": "1987-05-03T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 7,
+            "url": null,
+            "title": "Episode 7",
+            "title_japanese": "さあ野球部をたて直せ!夕日に誓ったあいつの心",
+            "title_romanji": "Saa Yakyuubu wo Tate Naose! Yuuhi ni Chikatta Aitsu no Kokoro ",
+            "aired": "1987-05-10T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 8,
+            "url": null,
+            "title": "Episode 8",
+            "title_japanese": "かすみ傷だらけの新人戦 とどけ!勇作の応援歌",
+            "title_romanji": "Kasumi Kizudarake no Shinjinsen Todoke! Yuusaku no Ouenka ",
+            "aired": "1987-05-17T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 9,
+            "url": null,
+            "title": "The Baseball Club Is in a Pinch!! The First Practice Game",
+            "title_japanese": "野球部がピンチだ!! 初めての練習試合",
+            "title_romanji": "Yakyuubu ga Pinch da!! Hajimete no Renshuu Shiai ",
+            "aired": "1987-05-24T00:00:00+00:00",
+            "score": 4.67,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1816042"
+        },
+        {
+            "mal_id": 10,
+            "url": null,
+            "title": "What, Yuusaku is Joining the Baseball Club!?",
+            "title_japanese": "エッ 勇作が野球部に!? キャプテン関の猛ノック",
+            "title_romanji": "E! Yuusaku ga Yakyuubu ni!? Captain-zeki no Mou Knock ",
+            "aired": "1987-05-31T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 11,
+            "url": null,
+            "title": "Episode 11",
+            "title_japanese": "圭子の熱い想いは...二人だけのデート",
+            "title_romanji": "Keiko no Atsui Omoi wa...... Futari dake no Date ",
+            "aired": "1987-06-07T00:00:00+00:00",
+            "score": 4.25,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1464672"
+        },
+        {
+            "mal_id": 12,
+            "url": null,
+            "title": "Episode 12",
+            "title_japanese": "大混乱!かすみと圭子の愛の背番号8",
+            "title_romanji": "Dai Haran! Kasumi to Keiko no Ai no Sebangou 8 ",
+            "aired": "1987-06-14T00:00:00+00:00",
+            "score": 4.5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1466274"
+        },
+        {
+            "mal_id": 13,
+            "url": null,
+            "title": "Episode 13",
+            "title_japanese": "奇跡!? 明条野球部·1回戦サヨナラ勝ち",
+            "title_romanji": "Kiseki!? Myoujou Yakyuubu Ikkaisen Sayonara Kachi ",
+            "aired": "1987-06-21T00:00:00+00:00",
+            "score": 4.29,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1466430"
+        },
+        {
+            "mal_id": 14,
+            "url": null,
+            "title": "Episode 14",
+            "title_japanese": "どうした勇作?! 今はとにかく甲子園!",
+            "title_romanji": "Doushita Yuusaku!? Ima wa Tonikaku Koushien! ",
+            "aired": "1987-06-28T00:00:00+00:00",
+            "score": 4.2,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1466757"
+        },
+        {
+            "mal_id": 15,
+            "url": null,
+            "title": "Episode 15",
+            "title_japanese": "ゴメンネ克彦さん!今夜だけあいつと‥‥",
+            "title_romanji": "Gomen ne Katsuhiko-san! Konya dake...... ",
+            "aired": "1987-07-05T00:00:00+00:00",
+            "score": 4.5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1467101"
+        },
+        {
+            "mal_id": 16,
+            "url": null,
+            "title": "Episode 16",
+            "title_japanese": "負けられない!かすみも燃える準決勝!",
+            "title_romanji": "Makerarenai! Kasumi mo Moeru Junkesshou! ",
+            "aired": "1987-07-12T00:00:00+00:00",
+            "score": 4.5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1467429"
+        },
+        {
+            "mal_id": 17,
+            "url": null,
+            "title": "Episode 17",
+            "title_japanese": "今日を精一杯!熱くなりそな決勝戦!",
+            "title_romanji": "Kyou wo Seiippai! Atsuku Nari So na Kesshousen! ",
+            "aired": "1987-08-02T00:00:00+00:00",
+            "score": 4.5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1467546"
+        },
+        {
+            "mal_id": 18,
+            "url": null,
+            "title": "Episode 18",
+            "title_japanese": "見ていて克彦さん!思いっきり決勝戦",
+            "title_romanji": "Miteite Katsuhiko-san! Omoikkiri Kesshousen! ",
+            "aired": "1987-08-09T00:00:00+00:00",
+            "score": 4.2,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1467915"
+        },
+        {
+            "mal_id": 19,
+            "url": null,
+            "title": "Episode 19",
+            "title_japanese": "どうしてなの?とまらない涙は誰のせい",
+            "title_romanji": "Doushite na no? Tomaranai Namida wa Dare no Sei ",
+            "aired": "1987-08-16T00:00:00+00:00",
+            "score": 3.8,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1468262"
+        },
+        {
+            "mal_id": 20,
+            "url": null,
+            "title": "Episode 20",
+            "title_japanese": "キスさせて!真夏の海は危険がいっぱい",
+            "title_romanji": "Kiss Sasete! Manatsu no Umi wa Kiken ga Ippai ",
+            "aired": "1987-08-30T00:00:00+00:00",
+            "score": 4.25,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1468576"
+        },
+        {
+            "mal_id": 21,
+            "url": null,
+            "title": "Episode 21",
+            "title_japanese": "一人だけの午後 ゆれるハートも最高気温",
+            "title_romanji": "Hitori dake no Gogo Yureru Heart mo Saikou Kion ",
+            "aired": "1987-09-06T00:00:00+00:00",
+            "score": 4.25,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1468880"
+        },
+        {
+            "mal_id": 22,
+            "url": null,
+            "title": "Episode 22",
+            "title_japanese": "正面衝突!?気になる二人のライバル宣言",
+            "title_romanji": "Shoumen Shoutotsu!? Ki ni Naru Futari no Rival Sengon ",
+            "aired": "1987-09-13T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1469192"
+        },
+        {
+            "mal_id": 23,
+            "url": null,
+            "title": "Episode 23",
+            "title_japanese": "いつ会える? 祈りをこめて最後の花火",
+            "title_romanji": "Itsu Aeru? Inori wo Komete Saigo no Hanabi ",
+            "aired": "1987-09-20T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1469314"
+        },
+        {
+            "mal_id": 24,
+            "url": null,
+            "title": "Episode 24",
+            "title_japanese": "熱いエアメイル 今はハートを聞かないで",
+            "title_romanji": "Atsui Air Mail Ima wa Heart wo Kikanaide ",
+            "aired": "1987-09-27T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": true,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1271803"
+        },
+        {
+            "mal_id": 25,
+            "url": null,
+            "title": "Episode 25",
+            "title_japanese": "誤解しないで!ただの同居人なんだから",
+            "title_romanji": "Gokai Shinaide! Tada no Doukyonin Dakara ",
+            "aired": "1987-10-04T00:00:00+00:00",
+            "score": 4.33,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1610950"
+        },
+        {
+            "mal_id": 26,
+            "url": null,
+            "title": "Episode 26",
+            "title_japanese": "デートさせたいの?勇作は誰の応援団",
+            "title_romanji": "Date Sasetai no? Yuusaku wa Dare no Ouendan ",
+            "aired": "1987-10-11T00:00:00+00:00",
+            "score": 3,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1612607"
+        },
+        {
+            "mal_id": 27,
+            "url": null,
+            "title": "Episode 27",
+            "title_japanese": "心配無用!あいつが仕組んだ奇妙なデート",
+            "title_romanji": "Shinpai Muyou! Aitsu ga Shikunda Kimyou na Date ",
+            "aired": "1987-10-18T00:00:00+00:00",
+            "score": 4.5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1612715"
+        },
+        {
+            "mal_id": 28,
+            "url": null,
+            "title": "Episode 28",
+            "title_japanese": "ハートも暴風雨 今夜はあいつと二人きり",
+            "title_romanji": "Heart mo Boufuuu: Konya wa Aitsu to Futarikiri ",
+            "aired": "1987-10-25T00:00:00+00:00",
+            "score": 5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1614736"
+        },
+        {
+            "mal_id": 29,
+            "url": null,
+            "title": "Episode 29",
+            "title_japanese": "えッ秋季大会に欠場?どうなるの野球部",
+            "title_romanji": "E! Shuuki Taikai ni Ketsujou? Dou Naru no Yakyuubu ",
+            "aired": "1987-11-01T00:00:00+00:00",
+            "score": 3.67,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1629830"
+        },
+        {
+            "mal_id": 30,
+            "url": null,
+            "title": "Episode 30",
+            "title_japanese": "野球部ピンチ!黙って見てはいられない",
+            "title_romanji": "Yakyuubu Pinch! Damatte Mite wa Irarenai ",
+            "aired": "1987-11-08T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 31,
+            "url": null,
+            "title": "Episode 31",
+            "title_japanese": "えっ!? あの人が?スーツで決めた新監督",
+            "title_romanji": "E!? Ano Hito ga? Suit de Kimeta Shinkantoku ",
+            "aired": "1987-11-15T00:00:00+00:00",
+            "score": 4.33,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1611522"
+        },
+        {
+            "mal_id": 32,
+            "url": null,
+            "title": "Episode 32",
+            "title_japanese": "おもしろそうね 監督克彦さんの初練",
+            "title_romanji": "Omoshirosou ne: Kantoku Katsuhiko-san no Hatsu Renshuu ",
+            "aired": "1987-11-22T00:00:00+00:00",
+            "score": 4.33,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1629860"
+        },
+        {
+            "mal_id": 33,
+            "url": null,
+            "title": "Episode 33",
+            "title_japanese": "いよいよ秋季大会 新生野球部の実力は?",
+            "title_romanji": "Iyoiyo Shuuki Taikai: Shinsei Yakyuubu no Jitsuryoku wa? ",
+            "aired": "1987-11-29T00:00:00+00:00",
+            "score": 3.4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1629868"
+        },
+        {
+            "mal_id": 34,
+            "url": null,
+            "title": "Episode 34",
+            "title_japanese": "不満爆発?野球ができない野球部なんて",
+            "title_romanji": "Fuman Bakuhatsu? Yakyuu ga Dekinai Yakyuubu Nante ",
+            "aired": "1987-12-06T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 35,
+            "url": null,
+            "title": "Episode 35",
+            "title_japanese": "すれ違い演劇祭 なんで勇作は知らん顔?",
+            "title_romanji": "Surechigai Engekisai: Nante Yuusaku wa Shiran Kao? ",
+            "aired": "1987-12-13T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 36,
+            "url": null,
+            "title": "Episode 36",
+            "title_japanese": "かすみちゃんゴメン イキなサンタの贈り物",
+            "title_romanji": "Kasumi-chan Gomen: Iki na Santa no Okurimono ",
+            "aired": "1987-12-20T00:00:00+00:00",
+            "score": 4.33,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1632228"
+        },
+        {
+            "mal_id": 37,
+            "url": null,
+            "title": "Episode 37",
+            "title_japanese": "期待が重い!クイズに出場 かすみと勇作",
+            "title_romanji": "Kitai ga Omoi! Quiz ni Shutsujou: Kasumi to Yuusaku ",
+            "aired": "1987-12-27T00:00:00+00:00",
+            "score": 4.5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1632485"
+        },
+        {
+            "mal_id": 38,
+            "url": null,
+            "title": "Episode 38",
+            "title_japanese": "身も心も震える思い寒風のガマン大会",
+            "title_romanji": "Mi mo Kokoro mo Furueru Omoi: Kanbuu no Gaman Taikai ",
+            "aired": "1988-01-10T00:00:00+00:00",
+            "score": 3.67,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1632498"
+        },
+        {
+            "mal_id": 39,
+            "url": null,
+            "title": "Episode 39",
+            "title_japanese": "本音が聞きたい!このままじゃ二人は...",
+            "title_romanji": "Honne ga Kikitai! Kono Mama Ja Futari wa... ",
+            "aired": "1988-01-17T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1632739"
+        },
+        {
+            "mal_id": 40,
+            "url": null,
+            "title": "Episode 40",
+            "title_japanese": "気迫の勇作五人抜き!弱体剣道部を救え",
+            "title_romanji": "Kihaku no Yuusaku Gonin Nuki! Jakutai Kendoubu wo Sukue ",
+            "aired": "1988-01-24T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 41,
+            "url": null,
+            "title": "Episode 41",
+            "title_japanese": "白熱ツアー かすみをスキーに連れてって",
+            "title_romanji": "Hakunetsu Tour: Kasumi wo Ski ni Tsuretette ",
+            "aired": "1988-01-31T00:00:00+00:00",
+            "score": 4.25,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1632946"
+        },
+        {
+            "mal_id": 42,
+            "url": null,
+            "title": "Episode 42",
+            "title_japanese": "遭難...!?死ぬ前に好きだと言って!",
+            "title_romanji": "Sounan......!? Shinu Mae ni Suki da to Itte! ",
+            "aired": "1988-02-07T00:00:00+00:00",
+            "score": 4.5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1632975"
+        },
+        {
+            "mal_id": 43,
+            "url": null,
+            "title": "Episode 43",
+            "title_japanese": "どっちも好き!ゆれるハートが微妙なかすみ",
+            "title_romanji": "Docchi mo Suki! Yureru Heart ga Bimyou na Kasumi ",
+            "aired": "1988-02-14T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1633480"
+        },
+        {
+            "mal_id": 44,
+            "url": null,
+            "title": "Episode 44",
+            "title_japanese": "燃えちゃった野球部 俺たちが秘密兵器!?",
+            "title_romanji": "Moechatta Yakyuubu: Oretachi ga Himitsu Heiki!? ",
+            "aired": "1988-02-21T00:00:00+00:00",
+            "score": 3.5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1633482"
+        },
+        {
+            "mal_id": 45,
+            "url": null,
+            "title": "Episode 45",
+            "title_japanese": "打つなら打ってみろ! 男の勝負 克彦対勇作",
+            "title_romanji": "Utsu nara Utsutte Miro! Otoko no Shoubu Katsuhiko tai Yuusaku ",
+            "aired": "1988-02-28T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1633491"
+        },
+        {
+            "mal_id": 46,
+            "url": null,
+            "title": "Episode 46",
+            "title_japanese": "勇作が野球部へ!? 今度はかすみが応援団",
+            "title_romanji": "Yuusaku ga Yakyuubu e!? Kondo wa Kasumi ga Ouendan ",
+            "aired": "1988-03-06T00:00:00+00:00",
+            "score": 3.8,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1633506"
+        },
+        {
+            "mal_id": 47,
+            "url": null,
+            "title": "Episode 47",
+            "title_japanese": "かすみが転校!? このまま離れてもいいの？",
+            "title_romanji": "Kasumi ga Tenkou!? Kono Mama Hanarete mo Ii no? ",
+            "aired": "1988-03-13T00:00:00+00:00",
+            "score": 4.67,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1633713"
+        },
+        {
+            "mal_id": 48,
+            "url": null,
+            "title": "Episode 48",
+            "title_japanese": "さよなら想い出 笑顔に涙は似合わない",
+            "title_romanji": "Sayonara Omoide: Egao ni Namida wa Niawanai ",
+            "aired": "1988-03-20T00:00:00+00:00",
+            "score": 3.75,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1633758"
+        }
+    ]
+}

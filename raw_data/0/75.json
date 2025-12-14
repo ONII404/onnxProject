@@ -1,0 +1,568 @@
+{
+    "id": 75,
+    "fetched_at": "Sun Dec 14 12:35:35 2025",
+    "metadata": {
+        "mal_id": 75,
+        "url": "https://myanimelist.net/anime/75/Soukyuu_no_Fafner__Dead_Aggressor",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/3/50365.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/3/50365t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/3/50365l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/3/50365.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/3/50365t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/3/50365l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": "https://www.youtube-nocookie.com/embed/Tr15k66G9cs?enablejsapi=1&wmode=opaque&autoplay=1",
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Soukyuu no Fafner: Dead Aggressor"
+            },
+            {
+                "type": "Synonym",
+                "title": "Fafner in the Azure: Dead Aggressor"
+            },
+            {
+                "type": "Japanese",
+                "title": "蒼穹のファフナーDead Aggressor"
+            },
+            {
+                "type": "English",
+                "title": "Fafner"
+            }
+        ],
+        "title": "Soukyuu no Fafner: Dead Aggressor",
+        "title_english": "Fafner",
+        "title_japanese": "蒼穹のファフナーDead Aggressor",
+        "title_synonyms": [
+            "Fafner in the Azure: Dead Aggressor"
+        ],
+        "type": "TV",
+        "source": "Original",
+        "episodes": 25,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "2004-07-05T00:00:00+00:00",
+            "to": "2004-12-27T00:00:00+00:00",
+            "prop": {
+                "from": {
+                    "day": 5,
+                    "month": 7,
+                    "year": 2004
+                },
+                "to": {
+                    "day": 27,
+                    "month": 12,
+                    "year": 2004
+                }
+            },
+            "string": "Jul 5, 2004 to Dec 27, 2004"
+        },
+        "duration": "24 min per ep",
+        "rating": "PG-13 - Teens 13 or older",
+        "score": 7.25,
+        "scored_by": 16051,
+        "rank": 3192,
+        "popularity": 3420,
+        "members": 52146,
+        "favorites": 275,
+        "synopsis": "Tatsumiyajima is the central island in the middle of a small cluster of islands, in a sleepy backwater of the Japanese isles. Not much happens there, and the island's young people go to school knowing that their lives are likely to remain peaceful and undisturbed. Or so they have been taught... but the truth is different. The fate of mankind is on the line, and Tatsumiyajima is the last line of defense against a hostile and incomprehensible enemy. At the center of it all, fighting for Humanity's continued existence, is the giant robot Fafner, the dragon that guards this final treasure of mankind.\n\n(Source: ANN)",
+        "background": "",
+        "season": "summer",
+        "year": 2004,
+        "broadcast": {
+            "day": "Mondays",
+            "time": "01:30",
+            "timezone": "Asia/Tokyo",
+            "string": "Mondays at 01:30 (JST)"
+        },
+        "producers": [
+            {
+                "mal_id": 717,
+                "type": "anime",
+                "name": "TV Tokyo Music",
+                "url": "https://myanimelist.net/anime/producer/717/TV_Tokyo_Music"
+            },
+            {
+                "mal_id": 1344,
+                "type": "anime",
+                "name": "King Records",
+                "url": "https://myanimelist.net/anime/producer/1344/King_Records"
+            }
+        ],
+        "licensors": [
+            {
+                "mal_id": 102,
+                "type": "anime",
+                "name": "Funimation",
+                "url": "https://myanimelist.net/anime/producer/102/Funimation"
+            },
+            {
+                "mal_id": 1459,
+                "type": "anime",
+                "name": "Geneon Entertainment USA",
+                "url": "https://myanimelist.net/anime/producer/1459/Geneon_Entertainment_USA"
+            }
+        ],
+        "studios": [
+            {
+                "mal_id": 27,
+                "type": "anime",
+                "name": "Xebec",
+                "url": "https://myanimelist.net/anime/producer/27/Xebec"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 8,
+                "type": "anime",
+                "name": "Drama",
+                "url": "https://myanimelist.net/anime/genre/8/Drama"
+            },
+            {
+                "mal_id": 24,
+                "type": "anime",
+                "name": "Sci-Fi",
+                "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [
+            {
+                "mal_id": 18,
+                "type": "anime",
+                "name": "Mecha",
+                "url": "https://myanimelist.net/anime/genre/18/Mecha"
+            },
+            {
+                "mal_id": 38,
+                "type": "anime",
+                "name": "Military",
+                "url": "https://myanimelist.net/anime/genre/38/Military"
+            }
+        ],
+        "demographics": [],
+        "relations": [
+            {
+                "relation": "Prequel",
+                "entry": [
+                    {
+                        "mal_id": 560,
+                        "type": "anime",
+                        "name": "Soukyuu no Fafner: Dead Aggressor - Right of Left",
+                        "url": "https://myanimelist.net/anime/560/Soukyuu_no_Fafner__Dead_Aggressor_-_Right_of_Left"
+                    }
+                ]
+            },
+            {
+                "relation": "Sequel",
+                "entry": [
+                    {
+                        "mal_id": 8098,
+                        "type": "anime",
+                        "name": "Soukyuu no Fafner: Dead Aggressor - Heaven and Earth",
+                        "url": "https://myanimelist.net/anime/8098/Soukyuu_no_Fafner__Dead_Aggressor_-_Heaven_and_Earth"
+                    }
+                ]
+            },
+            {
+                "relation": "Adaptation",
+                "entry": [
+                    {
+                        "mal_id": 20540,
+                        "type": "manga",
+                        "name": "Soukyuu no Fafner: Dead Aggressor",
+                        "url": "https://myanimelist.net/manga/20540/Soukyuu_no_Fafner__Dead_Aggressor"
+                    },
+                    {
+                        "mal_id": 13393,
+                        "type": "manga",
+                        "name": "Soukyuu no Fafner: Dead Aggressor",
+                        "url": "https://myanimelist.net/manga/13393/Soukyuu_no_Fafner__Dead_Aggressor"
+                    },
+                    {
+                        "mal_id": 86647,
+                        "type": "manga",
+                        "name": "Soukyuu no Fafner: Dead Aggressor",
+                        "url": "https://myanimelist.net/manga/86647/Soukyuu_no_Fafner__Dead_Aggressor"
+                    }
+                ]
+            },
+            {
+                "relation": "Spin-Off",
+                "entry": [
+                    {
+                        "mal_id": 50675,
+                        "type": "anime",
+                        "name": "Soukyuu no Fafner: Dead Aggressor - Behind the Line",
+                        "url": "https://myanimelist.net/anime/50675/Soukyuu_no_Fafner__Dead_Aggressor_-_Behind_the_Line"
+                    }
+                ]
+            },
+            {
+                "relation": "Summary",
+                "entry": [
+                    {
+                        "mal_id": 9494,
+                        "type": "anime",
+                        "name": "Soukyuu no Fafner: Dead Aggressor - Arcadian Memory",
+                        "url": "https://myanimelist.net/anime/9494/Soukyuu_no_Fafner__Dead_Aggressor_-_Arcadian_Memory"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [
+                "\"Shangri-La\" by angela"
+            ],
+            "endings": [
+                "1: \"Separation\" by angela (eps 01-14,16-24)",
+                "2: \"Proof\" by angela (eps 15)",
+                "3: \"Shangri-La\" by angela (eps 25)"
+            ]
+        },
+        "external": [
+            {
+                "name": "Official Site",
+                "url": "http://www.fafner.jp/"
+            },
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=1806"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=3870"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "http://en.wikipedia.org/wiki/Soukyuu_no_Fafner"
+            }
+        ],
+        "streaming": [
+            {
+                "name": "Crunchyroll",
+                "url": "http://www.crunchyroll.com/series-283247"
+            }
+        ]
+    },
+    "episodes": [
+        {
+            "mal_id": 1,
+            "url": "https://myanimelist.net/anime/75/Soukyuu_no_Fafner__Dead_Aggressor/episode/1",
+            "title": "Beginning (Paradise)",
+            "title_japanese": "楽園[はじまり]",
+            "title_romanji": "Hajimari ",
+            "aired": "2004-07-05T00:00:00+00:00",
+            "score": 3.64,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=259330"
+        },
+        {
+            "mal_id": 2,
+            "url": "https://myanimelist.net/anime/75/Soukyuu_no_Fafner__Dead_Aggressor/episode/2",
+            "title": "Life (Confession)",
+            "title_japanese": "告知 ～ いのち",
+            "title_romanji": "Kokuchi - Inochi ",
+            "aired": "2004-07-12T00:00:00+00:00",
+            "score": 3.62,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=259335"
+        },
+        {
+            "mal_id": 3,
+            "url": "https://myanimelist.net/anime/75/Soukyuu_no_Fafner__Dead_Aggressor/episode/3",
+            "title": "Truth (Labyrinth)",
+            "title_japanese": "迷宮 ～ しんじつ",
+            "title_romanji": "Meikyuu - Shinjitsu ",
+            "aired": "2004-07-19T00:00:00+00:00",
+            "score": 3.71,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=81773"
+        },
+        {
+            "mal_id": 4,
+            "url": "https://myanimelist.net/anime/75/Soukyuu_no_Fafner__Dead_Aggressor/episode/4",
+            "title": "Departure (Escape)",
+            "title_japanese": "逃航 ～ ふなで",
+            "title_romanji": "Toukou - Funade ",
+            "aired": "2004-07-26T00:00:00+00:00",
+            "score": 3.47,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=600873"
+        },
+        {
+            "mal_id": 5,
+            "url": "https://myanimelist.net/anime/75/Soukyuu_no_Fafner__Dead_Aggressor/episode/5",
+            "title": "Pledge (Promise)",
+            "title_japanese": "約束 ～ ちかい",
+            "title_romanji": "Yakusoku - Chikai ",
+            "aired": "2004-08-02T00:00:00+00:00",
+            "score": 3.56,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=82368"
+        },
+        {
+            "mal_id": 6,
+            "url": "https://myanimelist.net/anime/75/Soukyuu_no_Fafner__Dead_Aggressor/episode/6",
+            "title": "Sacrifice (Soaring Sky)",
+            "title_japanese": "翔空 ～ ぎせい",
+            "title_romanji": "Kakezora - Gisei ",
+            "aired": "2004-08-16T00:00:00+00:00",
+            "score": 3.9,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=60217"
+        },
+        {
+            "mal_id": 7,
+            "url": "https://myanimelist.net/anime/75/Soukyuu_no_Fafner__Dead_Aggressor/episode/7",
+            "title": "Parent & Children (Family)",
+            "title_japanese": "家賊 ～ おやこ",
+            "title_romanji": "Kazoku - Oyako ",
+            "aired": "2004-08-23T00:00:00+00:00",
+            "score": 3.71,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=83783"
+        },
+        {
+            "mal_id": 8,
+            "url": "https://myanimelist.net/anime/75/Soukyuu_no_Fafner__Dead_Aggressor/episode/8",
+            "title": "Koyo (Strife)",
+            "title_japanese": "確執 ～ こうよう",
+            "title_romanji": "Kakushitsu - Kouyou ",
+            "aired": "2004-08-30T00:00:00+00:00",
+            "score": 3.57,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=83960"
+        },
+        {
+            "mal_id": 9,
+            "url": "https://myanimelist.net/anime/75/Soukyuu_no_Fafner__Dead_Aggressor/episode/9",
+            "title": "Parting (Assimilation)",
+            "title_japanese": "同化 ～ わかれ",
+            "title_romanji": "Douka - Wakare ",
+            "aired": "2004-09-06T00:00:00+00:00",
+            "score": 3.9,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=261326"
+        },
+        {
+            "mal_id": 10,
+            "url": "https://myanimelist.net/anime/75/Soukyuu_no_Fafner__Dead_Aggressor/episode/10",
+            "title": "Crossing Paths (Disintegration)",
+            "title_japanese": "分解 ～ すれちがい",
+            "title_romanji": "Bunkai - Surechigai ",
+            "aired": "2004-09-13T00:00:00+00:00",
+            "score": 3.35,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=261334"
+        },
+        {
+            "mal_id": 11,
+            "url": "https://myanimelist.net/anime/75/Soukyuu_no_Fafner__Dead_Aggressor/episode/11",
+            "title": "Human Force (Old & New)",
+            "title_japanese": "旧新 ～ じんるいぐん",
+            "title_romanji": "Kyuushin - Jinrui-gun ",
+            "aired": "2004-09-20T00:00:00+00:00",
+            "score": 3.93,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=261367"
+        },
+        {
+            "mal_id": 12,
+            "url": "https://myanimelist.net/anime/75/Soukyuu_no_Fafner__Dead_Aggressor/episode/12",
+            "title": "Desperation (Absence)",
+            "title_japanese": "不在 ～ あせり",
+            "title_romanji": "Fuzai - Aseri ",
+            "aired": "2004-09-27T00:00:00+00:00",
+            "score": 3.85,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=84481"
+        },
+        {
+            "mal_id": 13,
+            "url": "https://myanimelist.net/anime/75/Soukyuu_no_Fafner__Dead_Aggressor/episode/13",
+            "title": "Festum (Erosion)",
+            "title_japanese": "侵蝕 ～ フェストゥム",
+            "title_romanji": "Shinkoku - Festum ",
+            "aired": "2004-10-04T00:00:00+00:00",
+            "score": 4.06,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=261378"
+        },
+        {
+            "mal_id": 14,
+            "url": "https://myanimelist.net/anime/75/Soukyuu_no_Fafner__Dead_Aggressor/episode/14",
+            "title": "Occupation (Awakening)",
+            "title_japanese": "覚醒 ～ せんりょう",
+            "title_romanji": "Kakusei - Senryou ",
+            "aired": "2004-10-11T00:00:00+00:00",
+            "score": 4.18,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=261532"
+        },
+        {
+            "mal_id": 15,
+            "url": "https://myanimelist.net/anime/75/Soukyuu_no_Fafner__Dead_Aggressor/episode/15",
+            "title": "Scream (Memory)",
+            "title_japanese": "記憶 ～ さけび",
+            "title_romanji": "Kioku - Sakebi ",
+            "aired": "2004-10-18T00:00:00+00:00",
+            "score": 4.19,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=261536"
+        },
+        {
+            "mal_id": 16,
+            "url": "https://myanimelist.net/anime/75/Soukyuu_no_Fafner__Dead_Aggressor/episode/16",
+            "title": "Welcome Home (Friends)",
+            "title_japanese": "朋友 ～ おかえり",
+            "title_romanji": "Houyuu - Okaeri ",
+            "aired": "2004-10-25T00:00:00+00:00",
+            "score": 4.18,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=85015"
+        },
+        {
+            "mal_id": 17,
+            "url": "https://myanimelist.net/anime/75/Soukyuu_no_Fafner__Dead_Aggressor/episode/17",
+            "title": "Device (Survival)",
+            "title_japanese": "生存 ～ しかけ",
+            "title_romanji": "Seizon - Shikake ",
+            "aired": "2004-11-01T00:00:00+00:00",
+            "score": 3.87,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=261549"
+        },
+        {
+            "mal_id": 18,
+            "url": "https://myanimelist.net/anime/75/Soukyuu_no_Fafner__Dead_Aggressor/episode/18",
+            "title": "Memory (Father)",
+            "title_japanese": "父親 ～ おもいで",
+            "title_romanji": "Chichioya - Omoide ",
+            "aired": "2004-11-08T00:00:00+00:00",
+            "score": 3.94,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=261563"
+        },
+        {
+            "mal_id": 19,
+            "url": "https://myanimelist.net/anime/75/Soukyuu_no_Fafner__Dead_Aggressor/episode/19",
+            "title": "Sight (Maya)",
+            "title_japanese": "真矢 ～ まなざし",
+            "title_romanji": "Maya - Manazashi ",
+            "aired": "2004-11-15T00:00:00+00:00",
+            "score": 4.13,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=261737"
+        },
+        {
+            "mal_id": 20,
+            "url": "https://myanimelist.net/anime/75/Soukyuu_no_Fafner__Dead_Aggressor/episode/20",
+            "title": "Light (Lantern)",
+            "title_japanese": "燈火 ～ ともしび",
+            "title_romanji": "Touka - Tomoshibi ",
+            "aired": "2004-11-22T00:00:00+00:00",
+            "score": 4.33,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=85822"
+        },
+        {
+            "mal_id": 21,
+            "url": "https://myanimelist.net/anime/75/Soukyuu_no_Fafner__Dead_Aggressor/episode/21",
+            "title": "Future (Sakura)",
+            "title_japanese": "咲良 ～ みらい",
+            "title_romanji": "Sakura - Mirai ",
+            "aired": "2004-11-29T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=261757"
+        },
+        {
+            "mal_id": 22,
+            "url": "https://myanimelist.net/anime/75/Soukyuu_no_Fafner__Dead_Aggressor/episode/22",
+            "title": "Power (Protection)",
+            "title_japanese": "守護 ～ ちから",
+            "title_romanji": "Ibutsu - Chikara ",
+            "aired": "2004-12-06T00:00:00+00:00",
+            "score": 4.28,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=261763"
+        },
+        {
+            "mal_id": 23,
+            "url": "https://myanimelist.net/anime/75/Soukyuu_no_Fafner__Dead_Aggressor/episode/23",
+            "title": "Decoy (Pillage)",
+            "title_japanese": "劫掠 ～ おとり",
+            "title_romanji": "Gouka - Otori ",
+            "aired": "2004-12-13T00:00:00+00:00",
+            "score": 4.25,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=261765"
+        },
+        {
+            "mal_id": 24,
+            "url": "https://myanimelist.net/anime/75/Soukyuu_no_Fafner__Dead_Aggressor/episode/24",
+            "title": "Mir (Conversation)",
+            "title_japanese": "対話 ～ ミール",
+            "title_romanji": "Kyokugen - Mir ",
+            "aired": "2004-12-20T00:00:00+00:00",
+            "score": 4.33,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=261858"
+        },
+        {
+            "mal_id": 25,
+            "url": "https://myanimelist.net/anime/75/Soukyuu_no_Fafner__Dead_Aggressor/episode/25",
+            "title": "The Sky (Azure)",
+            "title_japanese": "蒼穹 ～ そら",
+            "title_romanji": "Sora ",
+            "aired": "2004-12-27T00:00:00+00:00",
+            "score": 4.03,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=87732"
+        }
+    ]
+}

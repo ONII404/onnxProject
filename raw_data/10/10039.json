@@ -1,0 +1,147 @@
+{
+    "id": 10039,
+    "fetched_at": "Sun Dec 14 09:31:03 2025",
+    "metadata": {
+        "mal_id": 10039,
+        "url": "https://myanimelist.net/anime/10039/Chinpui_Specials",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/7/27734.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/7/27734t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/7/27734l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/7/27734.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/7/27734t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/7/27734l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Chinpui Specials"
+            },
+            {
+                "type": "Synonym",
+                "title": "Timpui"
+            },
+            {
+                "type": "Japanese",
+                "title": "チンプイ"
+            }
+        ],
+        "title": "Chinpui Specials",
+        "title_english": null,
+        "title_japanese": "チンプイ",
+        "title_synonyms": [
+            "Timpui"
+        ],
+        "type": "Special",
+        "source": "Unknown",
+        "episodes": 2,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "1989-12-29T00:00:00+00:00",
+            "to": null,
+            "prop": {
+                "from": {
+                    "day": 29,
+                    "month": 12,
+                    "year": 1989
+                },
+                "to": {
+                    "day": null,
+                    "month": null,
+                    "year": null
+                }
+            },
+            "string": "Dec 29, 1989"
+        },
+        "duration": "10 min per ep",
+        "rating": "G - All Ages",
+        "score": 5.84,
+        "scored_by": 160,
+        "rank": 11155,
+        "popularity": 17561,
+        "members": 541,
+        "favorites": 0,
+        "synopsis": "Chinpui specials.",
+        "background": "",
+        "season": null,
+        "year": null,
+        "broadcast": {
+            "day": null,
+            "time": null,
+            "timezone": null,
+            "string": null
+        },
+        "producers": [],
+        "licensors": [],
+        "studios": [
+            {
+                "mal_id": 247,
+                "type": "anime",
+                "name": "Shin-Ei Animation",
+                "url": "https://myanimelist.net/anime/producer/247/Shin-Ei_Animation"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 4,
+                "type": "anime",
+                "name": "Comedy",
+                "url": "https://myanimelist.net/anime/genre/4/Comedy"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [],
+        "demographics": [],
+        "relations": [
+            {
+                "relation": "Parent Story",
+                "entry": [
+                    {
+                        "mal_id": 5908,
+                        "type": "anime",
+                        "name": "Chinpui",
+                        "url": "https://myanimelist.net/anime/5908/Chinpui"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [],
+            "endings": []
+        },
+        "external": [
+            {
+                "name": "Official Site",
+                "url": "http://www.shin-ei-animation.jp/chinpui/"
+            },
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=5227"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=1259"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": []
+}

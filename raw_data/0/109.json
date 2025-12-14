@@ -1,0 +1,519 @@
+{
+    "id": 109,
+    "fetched_at": "Sun Dec 14 12:38:04 2025",
+    "metadata": {
+        "mal_id": 109,
+        "url": "https://myanimelist.net/anime/109/Bakuretsu_Tenshi",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/10/22647.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/10/22647t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/10/22647l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/10/22647.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/10/22647t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/10/22647l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": "https://www.youtube-nocookie.com/embed/r7JAExwWKJI?enablejsapi=1&wmode=opaque&autoplay=1",
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Bakuretsu Tenshi"
+            },
+            {
+                "type": "Synonym",
+                "title": "Bakuretsu Tenshi"
+            },
+            {
+                "type": "Japanese",
+                "title": "爆裂天使"
+            },
+            {
+                "type": "English",
+                "title": "Burst Angel"
+            },
+            {
+                "type": "German",
+                "title": "Burst Angel"
+            }
+        ],
+        "title": "Bakuretsu Tenshi",
+        "title_english": "Burst Angel",
+        "title_japanese": "爆裂天使",
+        "title_synonyms": [
+            "Bakuretsu Tenshi"
+        ],
+        "type": "TV",
+        "source": "Original",
+        "episodes": 24,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "2004-04-07T00:00:00+00:00",
+            "to": "2004-09-15T00:00:00+00:00",
+            "prop": {
+                "from": {
+                    "day": 7,
+                    "month": 4,
+                    "year": 2004
+                },
+                "to": {
+                    "day": 15,
+                    "month": 9,
+                    "year": 2004
+                }
+            },
+            "string": "Apr 7, 2004 to Sep 15, 2004"
+        },
+        "duration": "23 min per ep",
+        "rating": "PG-13 - Teens 13 or older",
+        "score": 6.77,
+        "scored_by": 32337,
+        "rank": 5680,
+        "popularity": 2778,
+        "members": 75265,
+        "favorites": 241,
+        "synopsis": "In Japan's not-too-distant future, crime has become so common that the government has legalised firearms for citizens to use in self-defence. To combat this new wave of wrongdoing, the Recently Armed Police of Tokyo was established in hopes of hunting down criminals with lethal force.\n\nKyohei Tachibana is a gifted culinary student who dreams of saving up enough money to become a pastry chef in France. When four young mercenaries ask him to be their cook, he's forced into making a tough choice. As Jo, Meg, Sei, and Amy take on the bloodiest jobs in the chaotic city of Tokyo, Kyohei accepts an imminent descent into the world of crime—and he'll do a lot more than just cooking!",
+        "background": "",
+        "season": "spring",
+        "year": 2004,
+        "broadcast": {
+            "day": "Tuesdays",
+            "time": "02:12",
+            "timezone": "Asia/Tokyo",
+            "string": "Tuesdays at 02:12 (JST)"
+        },
+        "producers": [
+            {
+                "mal_id": 42,
+                "type": "anime",
+                "name": "GDH",
+                "url": "https://myanimelist.net/anime/producer/42/GDH"
+            },
+            {
+                "mal_id": 55,
+                "type": "anime",
+                "name": "TV Asahi",
+                "url": "https://myanimelist.net/anime/producer/55/TV_Asahi"
+            },
+            {
+                "mal_id": 170,
+                "type": "anime",
+                "name": "Imagica",
+                "url": "https://myanimelist.net/anime/producer/170/Imagica"
+            }
+        ],
+        "licensors": [
+            {
+                "mal_id": 102,
+                "type": "anime",
+                "name": "Funimation",
+                "url": "https://myanimelist.net/anime/producer/102/Funimation"
+            }
+        ],
+        "studios": [
+            {
+                "mal_id": 3,
+                "type": "anime",
+                "name": "Gonzo",
+                "url": "https://myanimelist.net/anime/producer/3/Gonzo"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 2,
+                "type": "anime",
+                "name": "Adventure",
+                "url": "https://myanimelist.net/anime/genre/2/Adventure"
+            },
+            {
+                "mal_id": 24,
+                "type": "anime",
+                "name": "Sci-Fi",
+                "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [
+            {
+                "mal_id": 18,
+                "type": "anime",
+                "name": "Mecha",
+                "url": "https://myanimelist.net/anime/genre/18/Mecha"
+            }
+        ],
+        "demographics": [],
+        "relations": [
+            {
+                "relation": "Prequel",
+                "entry": [
+                    {
+                        "mal_id": 2205,
+                        "type": "anime",
+                        "name": "Bakuretsu Tenshi: Infinity",
+                        "url": "https://myanimelist.net/anime/2205/Bakuretsu_Tenshi__Infinity"
+                    }
+                ]
+            },
+            {
+                "relation": "Adaptation",
+                "entry": [
+                    {
+                        "mal_id": 1564,
+                        "type": "manga",
+                        "name": "Bakuretsu Tenshi: Angel's Adolescence",
+                        "url": "https://myanimelist.net/manga/1564/Bakuretsu_Tenshi__Angels_Adolescence"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [
+                "\"Loosey\" by THE STRiPES"
+            ],
+            "endings": [
+                "\"Under the Sky\" by Cloudica"
+            ]
+        },
+        "external": [
+            {
+                "name": "Official Site",
+                "url": "https://www.gonzo.co.jp/works/bakuretu-tenshi/index.html"
+            },
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=1536"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=3560"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Burst_Angel"
+            }
+        ],
+        "streaming": [
+            {
+                "name": "Crunchyroll",
+                "url": "http://www.crunchyroll.com/series-274715"
+            }
+        ]
+    },
+    "episodes": [
+        {
+            "mal_id": 1,
+            "url": "https://myanimelist.net/anime/109/Bakuretsu_Tenshi/episode/1",
+            "title": "Hell Comes Silently",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 3.68,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=87239"
+        },
+        {
+            "mal_id": 2,
+            "url": "https://myanimelist.net/anime/109/Bakuretsu_Tenshi/episode/2",
+            "title": "The Heartless Gunfighter",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=56989"
+        },
+        {
+            "mal_id": 3,
+            "url": "https://myanimelist.net/anime/109/Bakuretsu_Tenshi/episode/3",
+            "title": "City Where the Beast Howls",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 3.67,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=291892"
+        },
+        {
+            "mal_id": 4,
+            "url": "https://myanimelist.net/anime/109/Bakuretsu_Tenshi/episode/4",
+            "title": "The Brothers Die at Dawn",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 3.8,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=291893"
+        },
+        {
+            "mal_id": 5,
+            "url": "https://myanimelist.net/anime/109/Bakuretsu_Tenshi/episode/5",
+            "title": "Mansion Where Lurks the Demon",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 3.8,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=291899"
+        },
+        {
+            "mal_id": 6,
+            "url": "https://myanimelist.net/anime/109/Bakuretsu_Tenshi/episode/6",
+            "title": "Wash this Garden With Blood!",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 3.75,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=291902"
+        },
+        {
+            "mal_id": 7,
+            "url": "https://myanimelist.net/anime/109/Bakuretsu_Tenshi/episode/7",
+            "title": "Black Sky",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 3.73,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=57068"
+        },
+        {
+            "mal_id": 8,
+            "url": "https://myanimelist.net/anime/109/Bakuretsu_Tenshi/episode/8",
+            "title": "The Wounded Fugitive",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 3.83,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=291908"
+        },
+        {
+            "mal_id": 9,
+            "url": "https://myanimelist.net/anime/109/Bakuretsu_Tenshi/episode/9",
+            "title": "Party of the Dragon",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 3.71,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=291914"
+        },
+        {
+            "mal_id": 10,
+            "url": "https://myanimelist.net/anime/109/Bakuretsu_Tenshi/episode/10",
+            "title": "Uncharted Cyberspace",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 3.67,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=291921"
+        },
+        {
+            "mal_id": 11,
+            "url": "https://myanimelist.net/anime/109/Bakuretsu_Tenshi/episode/11",
+            "title": "Eastern Angel, Western Hawk",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=57087"
+        },
+        {
+            "mal_id": 12,
+            "url": "https://myanimelist.net/anime/109/Bakuretsu_Tenshi/episode/12",
+            "title": "Tower of Tears",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 3.67,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=57089"
+        },
+        {
+            "mal_id": 13,
+            "url": "https://myanimelist.net/anime/109/Bakuretsu_Tenshi/episode/13",
+            "title": "Showdown in Osaka",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 3.33,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=292021"
+        },
+        {
+            "mal_id": 14,
+            "url": "https://myanimelist.net/anime/109/Bakuretsu_Tenshi/episode/14",
+            "title": "Wild Kids",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 4.27,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=57095"
+        },
+        {
+            "mal_id": 15,
+            "url": "https://myanimelist.net/anime/109/Bakuretsu_Tenshi/episode/15",
+            "title": "Slingin' Oil",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 3.7,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=122351"
+        },
+        {
+            "mal_id": 16,
+            "url": "https://myanimelist.net/anime/109/Bakuretsu_Tenshi/episode/16",
+            "title": "The Man With No Name",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 4.17,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=105387"
+        },
+        {
+            "mal_id": 17,
+            "url": "https://myanimelist.net/anime/109/Bakuretsu_Tenshi/episode/17",
+            "title": "Dueling Angels",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 3.45,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=72904"
+        },
+        {
+            "mal_id": 18,
+            "url": "https://myanimelist.net/anime/109/Bakuretsu_Tenshi/episode/18",
+            "title": "The Immortal Classmate",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 4.5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=74026"
+        },
+        {
+            "mal_id": 19,
+            "url": "https://myanimelist.net/anime/109/Bakuretsu_Tenshi/episode/19",
+            "title": "24 Hour Strategy",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 3.67,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=74667"
+        },
+        {
+            "mal_id": 20,
+            "url": "https://myanimelist.net/anime/109/Bakuretsu_Tenshi/episode/20",
+            "title": "Blood Red Highway",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=74669"
+        },
+        {
+            "mal_id": 21,
+            "url": "https://myanimelist.net/anime/109/Bakuretsu_Tenshi/episode/21",
+            "title": "New Sheriff in Town",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 4.17,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=76506"
+        },
+        {
+            "mal_id": 22,
+            "url": "https://myanimelist.net/anime/109/Bakuretsu_Tenshi/episode/22",
+            "title": "Genocide Angels",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 3.78,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=77746"
+        },
+        {
+            "mal_id": 23,
+            "url": "https://myanimelist.net/anime/109/Bakuretsu_Tenshi/episode/23",
+            "title": "Red Sea Gallows",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 3.5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=259813"
+        },
+        {
+            "mal_id": 24,
+            "url": "https://myanimelist.net/anime/109/Bakuretsu_Tenshi/episode/24",
+            "title": "Angels, Explode!",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 3.42,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=75409"
+        },
+        {
+            "mal_id": 25,
+            "url": null,
+            "title": "The Lightness and Darkness of Jo",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        }
+    ]
+}

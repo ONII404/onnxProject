@@ -1,0 +1,1151 @@
+{
+    "id": 232,
+    "fetched_at": "Sun Dec 14 12:49:07 2025",
+    "metadata": {
+        "mal_id": 232,
+        "url": "https://myanimelist.net/anime/232/Cardcaptor_Sakura",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/8/60781.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/8/60781t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/8/60781l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/8/60781.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/8/60781t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/8/60781l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": "https://www.youtube-nocookie.com/embed/luM4oGFSpT8?enablejsapi=1&wmode=opaque&autoplay=1",
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Cardcaptor Sakura"
+            },
+            {
+                "type": "Synonym",
+                "title": "CCS"
+            },
+            {
+                "type": "Synonym",
+                "title": "Cardcaptors"
+            },
+            {
+                "type": "Synonym",
+                "title": "Card Captor Sakura"
+            },
+            {
+                "type": "Japanese",
+                "title": "カードキャプターさくら"
+            },
+            {
+                "type": "English",
+                "title": "Cardcaptor Sakura"
+            }
+        ],
+        "title": "Cardcaptor Sakura",
+        "title_english": "Cardcaptor Sakura",
+        "title_japanese": "カードキャプターさくら",
+        "title_synonyms": [
+            "CCS",
+            "Cardcaptors",
+            "Card Captor Sakura"
+        ],
+        "type": "TV",
+        "source": "Manga",
+        "episodes": 70,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "1998-04-07T00:00:00+00:00",
+            "to": "2000-03-21T00:00:00+00:00",
+            "prop": {
+                "from": {
+                    "day": 7,
+                    "month": 4,
+                    "year": 1998
+                },
+                "to": {
+                    "day": 21,
+                    "month": 3,
+                    "year": 2000
+                }
+            },
+            "string": "Apr 7, 1998 to Mar 21, 2000"
+        },
+        "duration": "25 min per ep",
+        "rating": "PG - Children",
+        "score": 8.18,
+        "scored_by": 231466,
+        "rank": 438,
+        "popularity": 529,
+        "members": 478591,
+        "favorites": 14565,
+        "synopsis": "Ten-year-old Sakura Kinomoto is an ordinary fourth-grade student living in Tomoeda until, one day, she stumbles upon a mysterious book of cards titled \"The Clow.\" Pondering over her discovery, she unintentionally causes a magical gust of wind to scatter the cards all over town.\n\nThe accident awakens the Beast of the Seal—Keroberos, nicknamed \"Kero\"—who tells Sakura that she has released the mystical \"Clow Cards\" created by the sorcerer Clow Reed. Due to each Card's ability to act independently and their incredible power, Clow had sealed them away. Now that they have been set free, the Cards pose great danger to the world, and it is up to Sakura to put an end to them.\n\nAppointing Sakura as the \"Cardcaptor\" and granting her the Sealed Key, Kero tasks her with finding and recapturing all the Clow Cards. Alongside her best friend Tomoyo Daidouji, and with Kero's guidance, Sakura must learn to balance her new secret duty with the everyday troubles as she takes flight on her magical adventures as Cardcaptor Sakura.\n\n[Written by MAL Rewrite]",
+        "background": "Cardcaptor Sakura won the Animage Grand Prix award for Best Anime in 1999.",
+        "season": "spring",
+        "year": 1998,
+        "broadcast": {
+            "day": "Tuesdays",
+            "time": "18:00",
+            "timezone": "Asia/Tokyo",
+            "string": "Tuesdays at 18:00 (JST)"
+        },
+        "producers": [
+            {
+                "mal_id": 111,
+                "type": "anime",
+                "name": "NHK",
+                "url": "https://myanimelist.net/anime/producer/111/NHK"
+            },
+            {
+                "mal_id": 159,
+                "type": "anime",
+                "name": "Kodansha",
+                "url": "https://myanimelist.net/anime/producer/159/Kodansha"
+            },
+            {
+                "mal_id": 161,
+                "type": "anime",
+                "name": "Sogo Vision",
+                "url": "https://myanimelist.net/anime/producer/161/Sogo_Vision"
+            }
+        ],
+        "licensors": [
+            {
+                "mal_id": 215,
+                "type": "anime",
+                "name": "Nelvana",
+                "url": "https://myanimelist.net/anime/producer/215/Nelvana"
+            },
+            {
+                "mal_id": 372,
+                "type": "anime",
+                "name": "NIS America",
+                "url": "https://myanimelist.net/anime/producer/372/NIS_America"
+            },
+            {
+                "mal_id": 1459,
+                "type": "anime",
+                "name": "Geneon Entertainment USA",
+                "url": "https://myanimelist.net/anime/producer/1459/Geneon_Entertainment_USA"
+            }
+        ],
+        "studios": [
+            {
+                "mal_id": 11,
+                "type": "anime",
+                "name": "Madhouse",
+                "url": "https://myanimelist.net/anime/producer/11/Madhouse"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 2,
+                "type": "anime",
+                "name": "Adventure",
+                "url": "https://myanimelist.net/anime/genre/2/Adventure"
+            },
+            {
+                "mal_id": 4,
+                "type": "anime",
+                "name": "Comedy",
+                "url": "https://myanimelist.net/anime/genre/4/Comedy"
+            },
+            {
+                "mal_id": 8,
+                "type": "anime",
+                "name": "Drama",
+                "url": "https://myanimelist.net/anime/genre/8/Drama"
+            },
+            {
+                "mal_id": 22,
+                "type": "anime",
+                "name": "Romance",
+                "url": "https://myanimelist.net/anime/genre/22/Romance"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [
+            {
+                "mal_id": 66,
+                "type": "anime",
+                "name": "Mahou Shoujo",
+                "url": "https://myanimelist.net/anime/genre/66/Mahou_Shoujo"
+            },
+            {
+                "mal_id": 23,
+                "type": "anime",
+                "name": "School",
+                "url": "https://myanimelist.net/anime/genre/23/School"
+            }
+        ],
+        "demographics": [
+            {
+                "mal_id": 25,
+                "type": "anime",
+                "name": "Shoujo",
+                "url": "https://myanimelist.net/anime/genre/25/Shoujo"
+            }
+        ],
+        "relations": [
+            {
+                "relation": "Sequel",
+                "entry": [
+                    {
+                        "mal_id": 372,
+                        "type": "anime",
+                        "name": "Cardcaptor Sakura Movie 2: Fuuin Sareta Card",
+                        "url": "https://myanimelist.net/anime/372/Cardcaptor_Sakura_Movie_2__Fuuin_Sareta_Card"
+                    },
+                    {
+                        "mal_id": 35320,
+                        "type": "anime",
+                        "name": "Cardcaptor Sakura: Clear Card-hen Prologue - Sakura to Futatsu no Kuma",
+                        "url": "https://myanimelist.net/anime/35320/Cardcaptor_Sakura__Clear_Card-hen_Prologue_-_Sakura_to_Futatsu_no_Kuma"
+                    }
+                ]
+            },
+            {
+                "relation": "Adaptation",
+                "entry": [
+                    {
+                        "mal_id": 106,
+                        "type": "manga",
+                        "name": "Cardcaptor Sakura",
+                        "url": "https://myanimelist.net/manga/106/Cardcaptor_Sakura"
+                    }
+                ]
+            },
+            {
+                "relation": "Side Story",
+                "entry": [
+                    {
+                        "mal_id": 2424,
+                        "type": "anime",
+                        "name": "Suteki desu wa, Sakura-chan! Tomoyo no Cardcaptor Sakura Katsuyaku Video Nikki!",
+                        "url": "https://myanimelist.net/anime/2424/Suteki_desu_wa_Sakura-chan_Tomoyo_no_Cardcaptor_Sakura_Katsuyaku_Video_Nikki"
+                    },
+                    {
+                        "mal_id": 371,
+                        "type": "anime",
+                        "name": "Cardcaptor Sakura Movie 1",
+                        "url": "https://myanimelist.net/anime/371/Cardcaptor_Sakura_Movie_1"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [
+                "1: \"Catch You Catch Me\" by Gumi (eps 1-35)",
+                "2: \"Tobira wo Akete\" by ANZA (eps 36-46)",
+                "3: \"Platinum\" by Maaya Sakamoto (eps 47-70)"
+            ],
+            "endings": [
+                "1: \"Groovy!\" by Koumi Hirose (eps 1-35)",
+                "2: \"Honey\" by Chihiro (eps 36-45)",
+                "3: \"Tobira wo Akete\" by ANZA (eps 46)",
+                "4: \"Fruits Candy\" by Megumi Kojima (eps 47-69)",
+                "5: \"Platinum\" by Maaya Sakamoto (eps 70)"
+            ]
+        },
+        "external": [
+            {
+                "name": "Official Site",
+                "url": "http://www6.nhk.or.jp/anime/program/detail.html?i=sakura"
+            },
+            {
+                "name": "Official Site",
+                "url": "https://ccsakura-official.com/"
+            },
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=102"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=126"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Cardcaptor_Sakura#Anime"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%BC%E3%83%89%E3%82%AD%E3%83%A3%E3%83%97%E3%82%BF%E3%83%BC%E3%81%95%E3%81%8F%E3%82%89"
+            },
+            {
+                "name": "Syoboi",
+                "url": "https://cal.syoboi.jp/tid/371"
+            },
+            {
+                "name": "Bangumi",
+                "url": "https://bangumi.tv/subject/1940"
+            }
+        ],
+        "streaming": [
+            {
+                "name": "Crunchyroll",
+                "url": "http://www.crunchyroll.com/series-262373"
+            },
+            {
+                "name": "Netflix",
+                "url": "https://www.netflix.com/"
+            }
+        ]
+    },
+    "episodes": [
+        {
+            "mal_id": 1,
+            "url": "https://myanimelist.net/anime/232/Cardcaptor_Sakura/episode/1",
+            "title": "Sakura and the Strange Magical Book",
+            "title_japanese": "さくらと不思議な魔法の本",
+            "title_romanji": "Sakura to Fushigi na Mahou no Hon ",
+            "aired": "1998-04-07T00:00:00+00:00",
+            "score": 4.36,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=42950"
+        },
+        {
+            "mal_id": 2,
+            "url": "https://myanimelist.net/anime/232/Cardcaptor_Sakura/episode/2",
+            "title": "Sakura's Wonderful Friend",
+            "title_japanese": "さくらのすてきなお友達",
+            "title_romanji": "Sakura no Suteki na Otomodachi ",
+            "aired": "1998-04-14T00:00:00+00:00",
+            "score": 4.32,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=92361"
+        },
+        {
+            "mal_id": 3,
+            "url": "https://myanimelist.net/anime/232/Cardcaptor_Sakura/episode/3",
+            "title": "Sakura's Breathtaking First Date",
+            "title_japanese": "さくらのドキドキ初デート",
+            "title_romanji": "Sakura no Doki Doki Hatsu Date ",
+            "aired": "1998-04-21T00:00:00+00:00",
+            "score": 4.39,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=92633"
+        },
+        {
+            "mal_id": 4,
+            "url": "https://myanimelist.net/anime/232/Cardcaptor_Sakura/episode/4",
+            "title": "Sakura's Exhausting Sunday",
+            "title_japanese": "さくらのくたくた日曜日",
+            "title_romanji": "Sakura no Kuta Kuta Nichiyoubi ",
+            "aired": "1998-04-28T00:00:00+00:00",
+            "score": 4.46,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=92744"
+        },
+        {
+            "mal_id": 5,
+            "url": "https://myanimelist.net/anime/232/Cardcaptor_Sakura/episode/5",
+            "title": "Sakura, a Panda, and a Darling Little Store",
+            "title_japanese": "さくらとパンダとかわいいお店",
+            "title_romanji": "Sakura to Panda to Kawaii Omise ",
+            "aired": "1998-05-05T00:00:00+00:00",
+            "score": 4.29,
+            "filler": true,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=92911"
+        },
+        {
+            "mal_id": 6,
+            "url": "https://myanimelist.net/anime/232/Cardcaptor_Sakura/episode/6",
+            "title": "Sakura and Memories of her Mother",
+            "title_japanese": "さくらとおかあさんの思い出",
+            "title_romanji": "Sakura to Okaasan no Omoide ",
+            "aired": "1998-05-12T00:00:00+00:00",
+            "score": 4.58,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=93130"
+        },
+        {
+            "mal_id": 7,
+            "url": "https://myanimelist.net/anime/232/Cardcaptor_Sakura/episode/7",
+            "title": "Sakura's First Attempt as a Thief",
+            "title_japanese": "さくらの怪盗初挑戦!?",
+            "title_romanji": "Sakura no Kaitou Hatsu Chousen!? ",
+            "aired": "1998-05-19T00:00:00+00:00",
+            "score": 4.45,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=42330"
+        },
+        {
+            "mal_id": 8,
+            "url": "https://myanimelist.net/anime/232/Cardcaptor_Sakura/episode/8",
+            "title": "Sakura's Rival Appears",
+            "title_japanese": "さくらのライバル、登場!",
+            "title_romanji": "Sakura no Rival Toujou! ",
+            "aired": "1998-06-02T00:00:00+00:00",
+            "score": 4.41,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=42442"
+        },
+        {
+            "mal_id": 9,
+            "url": "https://myanimelist.net/anime/232/Cardcaptor_Sakura/episode/9",
+            "title": "Sakura and the Mysterious Brooch",
+            "title_japanese": "さくらとふしぎなブローチ",
+            "title_romanji": "Sakura to Fushigi na Brooch ",
+            "aired": "1998-06-09T00:00:00+00:00",
+            "score": 4.3,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=92612"
+        },
+        {
+            "mal_id": 10,
+            "url": "https://myanimelist.net/anime/232/Cardcaptor_Sakura/episode/10",
+            "title": "Sakura and the Flowering Sports Day",
+            "title_japanese": "さくらと花の運動会",
+            "title_romanji": "Sakura to Hana no Undoukai ",
+            "aired": "1998-06-16T00:00:00+00:00",
+            "score": 4.26,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=95253"
+        },
+        {
+            "mal_id": 11,
+            "url": "https://myanimelist.net/anime/232/Cardcaptor_Sakura/episode/11",
+            "title": "Sakura, Tomoyo, and the Giant House",
+            "title_japanese": "さくらと知世と大きなお家",
+            "title_romanji": "Sakura to Tomoyo to Ookina Ie ",
+            "aired": "1998-06-23T00:00:00+00:00",
+            "score": 4.34,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=95829"
+        },
+        {
+            "mal_id": 12,
+            "url": "https://myanimelist.net/anime/232/Cardcaptor_Sakura/episode/12",
+            "title": "Sakura's Never-Ending Day",
+            "title_japanese": "さくらの終わらない一日",
+            "title_romanji": "Sakura no Owaranai Ichinichi ",
+            "aired": "1998-06-30T00:00:00+00:00",
+            "score": 4.46,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=96544"
+        },
+        {
+            "mal_id": 13,
+            "url": "https://myanimelist.net/anime/232/Cardcaptor_Sakura/episode/13",
+            "title": "Sakura and a Mammoth Test of Strength",
+            "title_japanese": "さくらとゾウの力くらべ",
+            "title_romanji": "Sakura to Zou no Chikara Kurabe ",
+            "aired": "1998-07-07T00:00:00+00:00",
+            "score": 4.42,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=97341"
+        },
+        {
+            "mal_id": 14,
+            "url": "https://myanimelist.net/anime/232/Cardcaptor_Sakura/episode/14",
+            "title": "Sakura, Toya, and Cinderella",
+            "title_japanese": "さくらと桃矢でシンデレラ",
+            "title_romanji": "Sakura to Touya to Cinderella ",
+            "aired": "1998-07-14T00:00:00+00:00",
+            "score": 4.36,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=42988"
+        },
+        {
+            "mal_id": 15,
+            "url": "https://myanimelist.net/anime/232/Cardcaptor_Sakura/episode/15",
+            "title": "Sakura and Kero's Big Fight",
+            "title_japanese": "さくらとケロの大げんか",
+            "title_romanji": "Sakura to Kero no Daigenka ",
+            "aired": "1998-07-21T00:00:00+00:00",
+            "score": 4.27,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=42989"
+        },
+        {
+            "mal_id": 16,
+            "url": "https://myanimelist.net/anime/232/Cardcaptor_Sakura/episode/16",
+            "title": "Sakura and a Rainbow of Memories",
+            "title_japanese": "さくらと思い出の虹",
+            "title_romanji": "Sakura to Omoide no Niji ",
+            "aired": "1998-08-08T00:00:00+00:00",
+            "score": 4.56,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=44025"
+        },
+        {
+            "mal_id": 17,
+            "url": "https://myanimelist.net/anime/232/Cardcaptor_Sakura/episode/17",
+            "title": "Sakura's Terrifying Test of Courage",
+            "title_japanese": "さくらのこわーいきもだめし",
+            "title_romanji": "Sakura no Kowai Kimodameshi ",
+            "aired": "1998-08-11T00:00:00+00:00",
+            "score": 4.34,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=100095"
+        },
+        {
+            "mal_id": 18,
+            "url": "https://myanimelist.net/anime/232/Cardcaptor_Sakura/episode/18",
+            "title": "Sakura, Yukito, and the Summer Festival",
+            "title_japanese": "さくらと雪兎と夏祭り",
+            "title_romanji": "Sakura to Yukito no Natsumatsuri ",
+            "aired": "1998-08-18T00:00:00+00:00",
+            "score": 4.35,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=100412"
+        },
+        {
+            "mal_id": 19,
+            "url": "https://myanimelist.net/anime/232/Cardcaptor_Sakura/episode/19",
+            "title": "Sakura and Her Summer Vacation Homework",
+            "title_japanese": "さくらと夏休みの宿題",
+            "title_romanji": "Sakura to Natsuyasumi no Shukudai ",
+            "aired": "1998-09-01T00:00:00+00:00",
+            "score": 4.27,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=100771"
+        },
+        {
+            "mal_id": 20,
+            "url": "https://myanimelist.net/anime/232/Cardcaptor_Sakura/episode/20",
+            "title": "Transfer Student Versus Sakura",
+            "title_japanese": "さくらとたたかう転校生",
+            "title_romanji": "Sakura to Tatakau Tenkousei ",
+            "aired": "1998-09-08T00:00:00+00:00",
+            "score": 4.33,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=93206"
+        },
+        {
+            "mal_id": 21,
+            "url": "https://myanimelist.net/anime/232/Cardcaptor_Sakura/episode/21",
+            "title": "Sakura's Extra Long Marathon",
+            "title_japanese": "さくらのながーいマラソン大会",
+            "title_romanji": "Sakura no Nagai Marathon Taikai ",
+            "aired": "1998-09-15T00:00:00+00:00",
+            "score": 4.33,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=103331"
+        },
+        {
+            "mal_id": 22,
+            "url": "https://myanimelist.net/anime/232/Cardcaptor_Sakura/episode/22",
+            "title": "Sakura and Her Caring Father",
+            "title_japanese": "さくらとやさしいお父さん",
+            "title_romanji": "Sakura to Yasashii Otousan ",
+            "aired": "1998-09-22T00:00:00+00:00",
+            "score": 4.61,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=105605"
+        },
+        {
+            "mal_id": 23,
+            "url": "https://myanimelist.net/anime/232/Cardcaptor_Sakura/episode/23",
+            "title": "Sakura, Tomoyo, and a Wonderful Song",
+            "title_japanese": "さくらと知世とすてきな歌",
+            "title_romanji": "Sakura to Tomoyo to Suteki na Uta ",
+            "aired": "1998-09-29T00:00:00+00:00",
+            "score": 4.41,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=104064"
+        },
+        {
+            "mal_id": 24,
+            "url": "https://myanimelist.net/anime/232/Cardcaptor_Sakura/episode/24",
+            "title": "Sakura's Little Adventure",
+            "title_japanese": "さくらの小さな大冒険",
+            "title_romanji": "Sakura no Chiisa na Daibouken ",
+            "aired": "1998-10-06T00:00:00+00:00",
+            "score": 4.56,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=93358"
+        },
+        {
+            "mal_id": 25,
+            "url": "https://myanimelist.net/anime/232/Cardcaptor_Sakura/episode/25",
+            "title": "Sakura and One More Sakura",
+            "title_japanese": "さくらともう一人のさくら",
+            "title_romanji": "Sakura to Mou Hitori no Sakura ",
+            "aired": "1998-10-13T00:00:00+00:00",
+            "score": 4.63,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=104075"
+        },
+        {
+            "mal_id": 26,
+            "url": "https://myanimelist.net/anime/232/Cardcaptor_Sakura/episode/26",
+            "title": "Sakura and the Wonderful Teacher",
+            "title_japanese": "さくらとすてきな先生",
+            "title_romanji": "Sakura to Suteki na Sensei ",
+            "aired": "1998-10-20T00:00:00+00:00",
+            "score": 4.46,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=169120"
+        },
+        {
+            "mal_id": 27,
+            "url": "https://myanimelist.net/anime/232/Cardcaptor_Sakura/episode/27",
+            "title": "Sakura and the Shrine of Memories",
+            "title_japanese": "さくらと思い出の神社",
+            "title_romanji": "Sakura to Omoide no Jinja ",
+            "aired": "1998-10-27T00:00:00+00:00",
+            "score": 4.55,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=167881"
+        },
+        {
+            "mal_id": 28,
+            "url": "https://myanimelist.net/anime/232/Cardcaptor_Sakura/episode/28",
+            "title": "Sakura and the Charm Cards",
+            "title_japanese": "さくらとおまじないカード",
+            "title_romanji": "Sakura to Omajinai Card ",
+            "aired": "1998-11-03T00:00:00+00:00",
+            "score": 4.3,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=106443"
+        },
+        {
+            "mal_id": 29,
+            "url": "https://myanimelist.net/anime/232/Cardcaptor_Sakura/episode/29",
+            "title": "Sakura's Sweet Cooking",
+            "title_japanese": "さくらのあまーいクッキング",
+            "title_romanji": "Sakura no Amai Cooking ",
+            "aired": "1998-11-10T00:00:00+00:00",
+            "score": 4.15,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=93637"
+        },
+        {
+            "mal_id": 30,
+            "url": "https://myanimelist.net/anime/232/Cardcaptor_Sakura/episode/30",
+            "title": "Sakura and the Injured Card",
+            "title_japanese": "さくらとケガをしたカード",
+            "title_romanji": "Sakura to Kega wo Shita Card ",
+            "aired": "1998-11-17T00:00:00+00:00",
+            "score": 4.53,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=93718"
+        },
+        {
+            "mal_id": 31,
+            "url": "https://myanimelist.net/anime/232/Cardcaptor_Sakura/episode/31",
+            "title": "Sakura and the Nameless Book",
+            "title_japanese": "さくらと名前のない本",
+            "title_romanji": "Sakura to Namae no Nai Hon ",
+            "aired": "1998-11-24T00:00:00+00:00",
+            "score": 4.37,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=77630"
+        },
+        {
+            "mal_id": 32,
+            "url": "https://myanimelist.net/anime/232/Cardcaptor_Sakura/episode/32",
+            "title": "Sakura, Kero, and Xiaolang",
+            "title_japanese": "さくらとケロと小狼と",
+            "title_romanji": "Sakura to Kero to Shaoran to ",
+            "aired": "1998-12-01T00:00:00+00:00",
+            "score": 4.56,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=77634"
+        },
+        {
+            "mal_id": 33,
+            "url": "https://myanimelist.net/anime/232/Cardcaptor_Sakura/episode/33",
+            "title": "Sakura's Frozen Ice Skating Trip",
+            "title_japanese": "さくらのさむーいアイススケート",
+            "title_romanji": "Sakura no Samui Ice Skate ",
+            "aired": "1998-12-15T00:00:00+00:00",
+            "score": 4.44,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=110501"
+        },
+        {
+            "mal_id": 34,
+            "url": "https://myanimelist.net/anime/232/Cardcaptor_Sakura/episode/34",
+            "title": "Sakura, Yukito, and the Midday Moon",
+            "title_japanese": "さくらと雪兎と昼の月",
+            "title_romanji": "Sakura to Yukito to Hiru no Tsuki ",
+            "aired": "1998-12-22T00:00:00+00:00",
+            "score": 4.46,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=131718"
+        },
+        {
+            "mal_id": 35,
+            "url": "https://myanimelist.net/anime/232/Cardcaptor_Sakura/episode/35",
+            "title": "Sakura's Wonderful Christmas",
+            "title_japanese": "さくらのすてきなクリスマス",
+            "title_romanji": "Sakura no Suteki na Christmas ",
+            "aired": "1998-12-29T00:00:00+00:00",
+            "score": 4.67,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=132237"
+        },
+        {
+            "mal_id": 36,
+            "url": "https://myanimelist.net/anime/232/Cardcaptor_Sakura/episode/36",
+            "title": "Sakura and the Snowy New School Term",
+            "title_japanese": "さくらと雪の新学期",
+            "title_romanji": "Sakura to Yuki no Shingakki ",
+            "aired": "1999-04-06T00:00:00+00:00",
+            "score": 4.4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=132405"
+        },
+        {
+            "mal_id": 37,
+            "url": "https://myanimelist.net/anime/232/Cardcaptor_Sakura/episode/37",
+            "title": "Sakura and Tomoyo's Lost Voice",
+            "title_japanese": "さくらと消えた知世の声",
+            "title_romanji": "Sakura to Kieta Tomoyo no Koe ",
+            "aired": "1999-04-13T00:00:00+00:00",
+            "score": 4.51,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=104634"
+        },
+        {
+            "mal_id": 38,
+            "url": "https://myanimelist.net/anime/232/Cardcaptor_Sakura/episode/38",
+            "title": "Sakura's Strawberry Picking Adventure",
+            "title_japanese": "さくらの楽しいいちご狩り",
+            "title_romanji": "Sakura no Tanoshii Ichigo Gari ",
+            "aired": "1999-04-20T00:00:00+00:00",
+            "score": 4.38,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=104639"
+        },
+        {
+            "mal_id": 39,
+            "url": "https://myanimelist.net/anime/232/Cardcaptor_Sakura/episode/39",
+            "title": "Sakura's Dizzy Fever Day",
+            "title_japanese": "さくらのふらふら熱曜日",
+            "title_romanji": "Sakura no Fura Fura Netsuyoubi ",
+            "aired": "1999-04-27T00:00:00+00:00",
+            "score": 4.61,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=170386"
+        },
+        {
+            "mal_id": 40,
+            "url": "https://myanimelist.net/anime/232/Cardcaptor_Sakura/episode/40",
+            "title": "Sakura and Her Dream Self",
+            "title_japanese": "さくらと夢の中のさくら",
+            "title_romanji": "Sakura to Yume no Naka no Sakura ",
+            "aired": "1999-05-11T00:00:00+00:00",
+            "score": 4.65,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=169227"
+        },
+        {
+            "mal_id": 41,
+            "url": "https://myanimelist.net/anime/232/Cardcaptor_Sakura/episode/41",
+            "title": "Sakura, Xiaolang, and a Sea of Sand",
+            "title_japanese": "さくらと小狼と砂の海",
+            "title_romanji": "Sakura to Shaoran to Suna no Umi ",
+            "aired": "1999-05-18T00:00:00+00:00",
+            "score": 4.55,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=169229"
+        },
+        {
+            "mal_id": 42,
+            "url": "https://myanimelist.net/anime/232/Cardcaptor_Sakura/episode/42",
+            "title": "Sakura and the Arts Festival Blackout",
+            "title_japanese": "さくらのまっくら学芸会",
+            "title_romanji": "Sakura no Makkura Gakugeikai ",
+            "aired": "1999-05-25T00:00:00+00:00",
+            "score": 4.64,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=104909"
+        },
+        {
+            "mal_id": 43,
+            "url": "https://myanimelist.net/anime/232/Cardcaptor_Sakura/episode/43",
+            "title": "Sakura and Meiling's Farewell",
+            "title_japanese": "さくらのさよなら苺鈴",
+            "title_romanji": "Sakura no Sayonara Meiling ",
+            "aired": "1999-06-01T00:00:00+00:00",
+            "score": 4.56,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=104910"
+        },
+        {
+            "mal_id": 44,
+            "url": "https://myanimelist.net/anime/232/Cardcaptor_Sakura/episode/44",
+            "title": "Sakura, Kero, and the Mysterious Teacher",
+            "title_japanese": "さくらとケロと不思議な先生",
+            "title_romanji": "Sakura to Kero to Fushigi na Sensei ",
+            "aired": "1999-06-08T00:00:00+00:00",
+            "score": 4.63,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=198492"
+        },
+        {
+            "mal_id": 45,
+            "url": "https://myanimelist.net/anime/232/Cardcaptor_Sakura/episode/45",
+            "title": "Sakura and the Final Clow Card",
+            "title_japanese": "さくらと最後のクロウカード",
+            "title_romanji": "Sakura to Saigo no Clow Card ",
+            "aired": "1999-06-15T00:00:00+00:00",
+            "score": 4.7,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=198634"
+        },
+        {
+            "mal_id": 46,
+            "url": "https://myanimelist.net/anime/232/Cardcaptor_Sakura/episode/46",
+            "title": "Sakura and the Final Judgment",
+            "title_japanese": "さくらと最後の審判",
+            "title_romanji": "Sakura to Saigo no Shinpan ",
+            "aired": "1999-06-22T00:00:00+00:00",
+            "score": 4.59,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=78298"
+        },
+        {
+            "mal_id": 47,
+            "url": "https://myanimelist.net/anime/232/Cardcaptor_Sakura/episode/47",
+            "title": "Sakura and the Mysterious Transfer Student",
+            "title_japanese": "さくらと不思議な転校生",
+            "title_romanji": "Sakura to Fushigi na Tenkousei ",
+            "aired": "1999-09-07T00:00:00+00:00",
+            "score": 4.45,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=199883"
+        },
+        {
+            "mal_id": 48,
+            "url": "https://myanimelist.net/anime/232/Cardcaptor_Sakura/episode/48",
+            "title": "Sakura and the Awakened Star Key",
+            "title_japanese": "さくらとめざめた星の鍵",
+            "title_romanji": "Sakura to Mezameta Hoshi no Kagi ",
+            "aired": "1999-09-14T00:00:00+00:00",
+            "score": 4.39,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=200389"
+        },
+        {
+            "mal_id": 49,
+            "url": "https://myanimelist.net/anime/232/Cardcaptor_Sakura/episode/49",
+            "title": "Sakura and the Dangerous Piano",
+            "title_japanese": "さくらとキケンなピアノ",
+            "title_romanji": "Sakura to Kiken na Piano ",
+            "aired": "1999-09-21T00:00:00+00:00",
+            "score": 4.28,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=200655"
+        },
+        {
+            "mal_id": 50,
+            "url": "https://myanimelist.net/anime/232/Cardcaptor_Sakura/episode/50",
+            "title": "Sakura, Xiaolang, and the Invisible Thread",
+            "title_japanese": "さくらと小狼とみえない糸",
+            "title_romanji": "Sakura to Shaoran to Mienai Ito ",
+            "aired": "1999-09-28T00:00:00+00:00",
+            "score": 4.38,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=200833"
+        },
+        {
+            "mal_id": 51,
+            "url": "https://myanimelist.net/anime/232/Cardcaptor_Sakura/episode/51",
+            "title": "Sakura and the Big Teddy Bear",
+            "title_japanese": "さくらと大きなぬいぐるみ",
+            "title_romanji": "Sakura to Ookina Nuigurumi ",
+            "aired": "1999-10-05T00:00:00+00:00",
+            "score": 4.44,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=79245"
+        },
+        {
+            "mal_id": 52,
+            "url": "https://myanimelist.net/anime/232/Cardcaptor_Sakura/episode/52",
+            "title": "Sakura's Sheep Warning!?",
+            "title_japanese": "さくらのひつじ注意報?!",
+            "title_romanji": "Sakura no Hitsuji Chuuihou!? ",
+            "aired": "1999-10-12T00:00:00+00:00",
+            "score": 4.35,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=79257"
+        },
+        {
+            "mal_id": 53,
+            "url": "https://myanimelist.net/anime/232/Cardcaptor_Sakura/episode/53",
+            "title": "Sakura and the Panicky Bike",
+            "title_japanese": "さくらとパニック自転車",
+            "title_romanji": "Sakura to Panic Jitensha ",
+            "aired": "1999-10-19T00:00:00+00:00",
+            "score": 4.46,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=79481"
+        },
+        {
+            "mal_id": 54,
+            "url": "https://myanimelist.net/anime/232/Cardcaptor_Sakura/episode/54",
+            "title": "Sakura and the Calendar of Memories",
+            "title_japanese": "さくらと思い出のカレンダー",
+            "title_romanji": "Sakura to Omoide no Calenda ",
+            "aired": "1999-10-26T00:00:00+00:00",
+            "score": 4.48,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=79854"
+        },
+        {
+            "mal_id": 55,
+            "url": "https://myanimelist.net/anime/232/Cardcaptor_Sakura/episode/55",
+            "title": "Sakura in Wonderland",
+            "title_japanese": "さくらと不思議の国のさくら",
+            "title_romanji": "Sakura to Fushigi no Kuni no Sakura ",
+            "aired": "1999-11-02T00:00:00+00:00",
+            "score": 4.34,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=202260"
+        },
+        {
+            "mal_id": 56,
+            "url": "https://myanimelist.net/anime/232/Cardcaptor_Sakura/episode/56",
+            "title": "Sakura, Kero, and the Sweet Meeting",
+            "title_japanese": "さくらとケロのお菓子な出会い??",
+            "title_romanji": "Sakura to Kero no Okashi na Deai?? ",
+            "aired": "1999-11-09T00:00:00+00:00",
+            "score": 4.36,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=105385"
+        },
+        {
+            "mal_id": 57,
+            "url": "https://myanimelist.net/anime/232/Cardcaptor_Sakura/episode/57",
+            "title": "Sakura, Xiaolang, and the Elevator",
+            "title_japanese": "さくらと小狼とエレベーター",
+            "title_romanji": "Sakura to Shaoran to Elevator ",
+            "aired": "1999-11-16T00:00:00+00:00",
+            "score": 4.72,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=203100"
+        },
+        {
+            "mal_id": 58,
+            "url": "https://myanimelist.net/anime/232/Cardcaptor_Sakura/episode/58",
+            "title": "Sakura and the Double Trouble",
+            "title_japanese": "さくらと二人の大ピンチ",
+            "title_romanji": "Sakura to Futari no Dai Pinch ",
+            "aired": "1999-11-30T00:00:00+00:00",
+            "score": 4.22,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=203510"
+        },
+        {
+            "mal_id": 59,
+            "url": "https://myanimelist.net/anime/232/Cardcaptor_Sakura/episode/59",
+            "title": "Sakura, Tomoyo, and the Ball Trap",
+            "title_japanese": "さくらと知世とボールの罠",
+            "title_romanji": "Sakura to Tomoyo to Ball no Wana ",
+            "aired": "1999-12-07T00:00:00+00:00",
+            "score": 4.34,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=203636"
+        },
+        {
+            "mal_id": 60,
+            "url": "https://myanimelist.net/anime/232/Cardcaptor_Sakura/episode/60",
+            "title": "Sakura and the Precious Friend",
+            "title_japanese": "さくらと大切なお友達",
+            "title_romanji": "Sakura to Taisetsu na Otomodachi ",
+            "aired": "1999-12-14T00:00:00+00:00",
+            "score": 4.73,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=86350"
+        },
+        {
+            "mal_id": 61,
+            "url": "https://myanimelist.net/anime/232/Cardcaptor_Sakura/episode/61",
+            "title": "Sakura, the Cards, and Her Gifts",
+            "title_japanese": "さくらとカードとプレゼント",
+            "title_romanji": "Sakura to Card to Present ",
+            "aired": "1999-12-21T00:00:00+00:00",
+            "score": 4.58,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=204001"
+        },
+        {
+            "mal_id": 62,
+            "url": "https://myanimelist.net/anime/232/Cardcaptor_Sakura/episode/62",
+            "title": "Sakura and the Strange Fortune",
+            "title_japanese": "さくらと不思議なおみくじ",
+            "title_romanji": "Sakura to Fushigi na Omikuji ",
+            "aired": "2000-01-04T00:00:00+00:00",
+            "score": 4.24,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=204173"
+        },
+        {
+            "mal_id": 63,
+            "url": "https://myanimelist.net/anime/232/Cardcaptor_Sakura/episode/63",
+            "title": "Sakura and the Water Park Wave",
+            "title_japanese": "さくらとプールと大きな波",
+            "title_romanji": "Sakura to Pool to Ookina Nami ",
+            "aired": "2000-01-11T00:00:00+00:00",
+            "score": 4.11,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=204259"
+        },
+        {
+            "mal_id": 64,
+            "url": "https://myanimelist.net/anime/232/Cardcaptor_Sakura/episode/64",
+            "title": "Sakura and the Snowy Ski Class",
+            "title_japanese": "さくらと吹雪のスキー教室",
+            "title_romanji": "Sakura to Fubuki no Ski Kyuoushitsu ",
+            "aired": "2000-01-18T00:00:00+00:00",
+            "score": 4.39,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=204421"
+        },
+        {
+            "mal_id": 65,
+            "url": "https://myanimelist.net/anime/232/Cardcaptor_Sakura/episode/65",
+            "title": "Sakura, Yukito, and His Fading Power",
+            "title_japanese": "さくらと雪兎と消えゆく力",
+            "title_romanji": "Sakura to Yukito to Kieyuku Chikara ",
+            "aired": "2000-02-15T00:00:00+00:00",
+            "score": 4.71,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=204503"
+        },
+        {
+            "mal_id": 66,
+            "url": "https://myanimelist.net/anime/232/Cardcaptor_Sakura/episode/66",
+            "title": "Sakura and Who She Likes the Most",
+            "title_japanese": "さくらの一番好きな人",
+            "title_romanji": "Sakura no Ichiban Suki na Hito ",
+            "aired": "2000-02-22T00:00:00+00:00",
+            "score": 4.82,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=205845"
+        },
+        {
+            "mal_id": 67,
+            "url": "https://myanimelist.net/anime/232/Cardcaptor_Sakura/episode/67",
+            "title": "Sakura, Xiaolang, and Tsukimine Shrine",
+            "title_japanese": "さくらと小狼と月峰神社",
+            "title_romanji": "Sakura to Shaoran to Tsukimine Jinja ",
+            "aired": "2000-02-29T00:00:00+00:00",
+            "score": 4.59,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=206021"
+        },
+        {
+            "mal_id": 68,
+            "url": "https://myanimelist.net/anime/232/Cardcaptor_Sakura/episode/68",
+            "title": "Sakura, the Past, and Clow Reed",
+            "title_japanese": "さくらと過去とクロウ·リード",
+            "title_romanji": "Sakura to Kako to Clow Reed ",
+            "aired": "2000-03-07T00:00:00+00:00",
+            "score": 4.66,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=206161"
+        },
+        {
+            "mal_id": 69,
+            "url": "https://myanimelist.net/anime/232/Cardcaptor_Sakura/episode/69",
+            "title": "Sakura and the Appearance of Clow Reed",
+            "title_japanese": "さくらと現れたクロウ·リード",
+            "title_romanji": "Sakura to Arawareta Clow Reed ",
+            "aired": "2000-03-14T00:00:00+00:00",
+            "score": 4.75,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=206377"
+        },
+        {
+            "mal_id": 70,
+            "url": "https://myanimelist.net/anime/232/Cardcaptor_Sakura/episode/70",
+            "title": "Sakura and Her True Feelings",
+            "title_japanese": "さくらと本当の想い",
+            "title_romanji": "Sakura to Hontou no Omoi ",
+            "aired": "2000-03-21T00:00:00+00:00",
+            "score": 4.63,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=15732"
+        }
+    ]
+}

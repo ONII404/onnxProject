@@ -1,0 +1,190 @@
+{
+    "id": 5832,
+    "fetched_at": "Sun Dec 14 08:52:08 2025",
+    "metadata": {
+        "mal_id": 5832,
+        "url": "https://myanimelist.net/anime/5832/Tiger_Mask_Nisei",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/9/71349.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/9/71349t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/9/71349l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/9/71349.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/9/71349t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/9/71349l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Tiger Mask Nisei"
+            },
+            {
+                "type": "Synonym",
+                "title": "Tiger Mask II"
+            },
+            {
+                "type": "Japanese",
+                "title": "タイガーマスク二世"
+            }
+        ],
+        "title": "Tiger Mask Nisei",
+        "title_english": null,
+        "title_japanese": "タイガーマスク二世",
+        "title_synonyms": [
+            "Tiger Mask II"
+        ],
+        "type": "TV",
+        "source": "Manga",
+        "episodes": 33,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "1981-04-20T00:00:00+00:00",
+            "to": "1982-01-18T00:00:00+00:00",
+            "prop": {
+                "from": {
+                    "day": 20,
+                    "month": 4,
+                    "year": 1981
+                },
+                "to": {
+                    "day": 18,
+                    "month": 1,
+                    "year": 1982
+                }
+            },
+            "string": "Apr 20, 1981 to Jan 18, 1982"
+        },
+        "duration": "24 min per ep",
+        "rating": "R - 17+ (violence & profanity)",
+        "score": 7.31,
+        "scored_by": 3461,
+        "rank": 2866,
+        "popularity": 7984,
+        "members": 7404,
+        "favorites": 26,
+        "synopsis": "Second season to the original Tiger Mask, with a different cast of characters.",
+        "background": "",
+        "season": "spring",
+        "year": 1981,
+        "broadcast": {
+            "day": "Mondays",
+            "time": "19:00",
+            "timezone": "Asia/Tokyo",
+            "string": "Mondays at 19:00 (JST)"
+        },
+        "producers": [],
+        "licensors": [],
+        "studios": [
+            {
+                "mal_id": 18,
+                "type": "anime",
+                "name": "Toei Animation",
+                "url": "https://myanimelist.net/anime/producer/18/Toei_Animation"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 8,
+                "type": "anime",
+                "name": "Drama",
+                "url": "https://myanimelist.net/anime/genre/8/Drama"
+            },
+            {
+                "mal_id": 30,
+                "type": "anime",
+                "name": "Sports",
+                "url": "https://myanimelist.net/anime/genre/30/Sports"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [
+            {
+                "mal_id": 54,
+                "type": "anime",
+                "name": "Combat Sports",
+                "url": "https://myanimelist.net/anime/genre/54/Combat_Sports"
+            }
+        ],
+        "demographics": [],
+        "relations": [
+            {
+                "relation": "Prequel",
+                "entry": [
+                    {
+                        "mal_id": 3009,
+                        "type": "anime",
+                        "name": "Tiger Mask",
+                        "url": "https://myanimelist.net/anime/3009/Tiger_Mask"
+                    }
+                ]
+            },
+            {
+                "relation": "Sequel",
+                "entry": [
+                    {
+                        "mal_id": 32881,
+                        "type": "anime",
+                        "name": "Tiger Mask W",
+                        "url": "https://myanimelist.net/anime/32881/Tiger_Mask_W"
+                    }
+                ]
+            },
+            {
+                "relation": "Adaptation",
+                "entry": [
+                    {
+                        "mal_id": 30575,
+                        "type": "manga",
+                        "name": "Tiger Mask",
+                        "url": "https://myanimelist.net/manga/30575/Tiger_Mask"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [
+                "\"Tiger Mask Nisei (タイガーマスク二世)\" by Columbia Yurikago Kai, Ichirou Mizuki"
+            ],
+            "endings": [
+                "\"Inochi wo Kakete (いのちをかけて)\" by Koorogi '73, Ichirou Mizuki"
+            ]
+        },
+        "external": [
+            {
+                "name": "Official Site",
+                "url": "http://www.toei-anim.co.jp/lineup/tv/tigermask_2/"
+            },
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=863"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=1523"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Tiger_Mask_II"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": []
+}

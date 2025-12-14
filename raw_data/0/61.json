@@ -1,0 +1,537 @@
+{
+    "id": 61,
+    "fetched_at": "Sun Dec 14 12:34:25 2025",
+    "metadata": {
+        "mal_id": 61,
+        "url": "https://myanimelist.net/anime/61/DNAngel",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1126/98904.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1126/98904t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1126/98904l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1126/98904.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1126/98904t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1126/98904l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": "https://www.youtube-nocookie.com/embed/u41_Wclv2GE?enablejsapi=1&wmode=opaque&autoplay=1",
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "D.N.Angel"
+            },
+            {
+                "type": "Synonym",
+                "title": "DN Angel"
+            },
+            {
+                "type": "Synonym",
+                "title": "DNAngel"
+            },
+            {
+                "type": "Japanese",
+                "title": "Ｄ・Ｎ・ＡＮＧＥＬ"
+            },
+            {
+                "type": "English",
+                "title": "D.N.Angel"
+            }
+        ],
+        "title": "D.N.Angel",
+        "title_english": "D.N.Angel",
+        "title_japanese": "Ｄ・Ｎ・ＡＮＧＥＬ",
+        "title_synonyms": [
+            "DN Angel",
+            "DNAngel"
+        ],
+        "type": "TV",
+        "source": "Manga",
+        "episodes": 26,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "2003-04-03T00:00:00+00:00",
+            "to": "2003-09-25T00:00:00+00:00",
+            "prop": {
+                "from": {
+                    "day": 3,
+                    "month": 4,
+                    "year": 2003
+                },
+                "to": {
+                    "day": 25,
+                    "month": 9,
+                    "year": 2003
+                }
+            },
+            "string": "Apr 3, 2003 to Sep 25, 2003"
+        },
+        "duration": "23 min per ep",
+        "rating": "PG-13 - Teens 13 or older",
+        "score": 7.15,
+        "scored_by": 101010,
+        "rank": 3786,
+        "popularity": 1418,
+        "members": 190575,
+        "favorites": 1296,
+        "synopsis": "Daisuke Niwa is a clumsy, block-headed, and wimpy middle school student who has few redeeming qualities. On his 14th birthday, he finally decides to confess his love to his longtime crush Risa Harada, but is rejected. \n\nIn an unexpected turn of events, however, Daisuke finds himself transforming into Dark Mousy, the infamous phantom thief, whenever his mind is set on Risa. Though Daisuke is unaware of this strange heritage, his mother is certainly not: since before the boy was born, his mother had been planning for him to steal valuable works of art and let the name of the elusive art thief be known.\n\nWith doubt and confusion constantly clouding his mind, Daisuke finds himself struggling in his relationships with classmates and family. And it is not long before Daisuke realizes that he is not the only one with a fated family legacy—his greatest adversary could be the one classmate he is most unwilling to fight. \n\n[Written by MAL Rewrite]",
+        "background": "",
+        "season": "spring",
+        "year": 2003,
+        "broadcast": {
+            "day": "Thursdays",
+            "time": "18:30",
+            "timezone": "Asia/Tokyo",
+            "string": "Thursdays at 18:30 (JST)"
+        },
+        "producers": [
+            {
+                "mal_id": 113,
+                "type": "anime",
+                "name": "Kadokawa Shoten",
+                "url": "https://myanimelist.net/anime/producer/113/Kadokawa_Shoten"
+            }
+        ],
+        "licensors": [
+            {
+                "mal_id": 97,
+                "type": "anime",
+                "name": "ADV Films",
+                "url": "https://myanimelist.net/anime/producer/97/ADV_Films"
+            },
+            {
+                "mal_id": 467,
+                "type": "anime",
+                "name": "Discotek Media",
+                "url": "https://myanimelist.net/anime/producer/467/Discotek_Media"
+            }
+        ],
+        "studios": [
+            {
+                "mal_id": 27,
+                "type": "anime",
+                "name": "Xebec",
+                "url": "https://myanimelist.net/anime/producer/27/Xebec"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 1,
+                "type": "anime",
+                "name": "Action",
+                "url": "https://myanimelist.net/anime/genre/1/Action"
+            },
+            {
+                "mal_id": 4,
+                "type": "anime",
+                "name": "Comedy",
+                "url": "https://myanimelist.net/anime/genre/4/Comedy"
+            },
+            {
+                "mal_id": 10,
+                "type": "anime",
+                "name": "Fantasy",
+                "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+            },
+            {
+                "mal_id": 22,
+                "type": "anime",
+                "name": "Romance",
+                "url": "https://myanimelist.net/anime/genre/22/Romance"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [
+            {
+                "mal_id": 23,
+                "type": "anime",
+                "name": "School",
+                "url": "https://myanimelist.net/anime/genre/23/School"
+            }
+        ],
+        "demographics": [
+            {
+                "mal_id": 25,
+                "type": "anime",
+                "name": "Shoujo",
+                "url": "https://myanimelist.net/anime/genre/25/Shoujo"
+            }
+        ],
+        "relations": [
+            {
+                "relation": "Adaptation",
+                "entry": [
+                    {
+                        "mal_id": 94,
+                        "type": "manga",
+                        "name": "D.N.Angel",
+                        "url": "https://myanimelist.net/manga/94/DNAngel"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [
+                "\"Byakuya ~ True Light\" by Miyamoto Shunichi"
+            ],
+            "endings": [
+                "1: \"Yasashii gogo\" by Minawo (eps 1-12)",
+                "2: \"Hajimari no hi\" by Minawo (eps 13-23,25)",
+                "3: \"Caged Bird\" by Shunichi Miyamoto (eps 24)",
+                "4: \"Michishirube\" by Shunichi Miyamoto (eps 26)"
+            ]
+        },
+        "external": [
+            {
+                "name": "Official Site",
+                "url": "http://www.jvcmusic.co.jp/m-serve/tv/dn_angel/"
+            },
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=621"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=2288"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "http://en.wikipedia.org/wiki/D.N.Angel"
+            }
+        ],
+        "streaming": [
+            {
+                "name": "Crunchyroll",
+                "url": "http://www.crunchyroll.com/series-283988"
+            }
+        ]
+    },
+    "episodes": [
+        {
+            "mal_id": 1,
+            "url": "https://myanimelist.net/anime/61/DNAngel/episode/1",
+            "title": "Dark Revived",
+            "title_japanese": "復活のダーク",
+            "title_romanji": "Fukkatsu no Dark ",
+            "aired": "2003-04-03T00:00:00+00:00",
+            "score": 4.32,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=32253"
+        },
+        {
+            "mal_id": 2,
+            "url": "https://myanimelist.net/anime/61/DNAngel/episode/2",
+            "title": "Rekindled Feelings",
+            "title_japanese": "よみがえる思い",
+            "title_romanji": "Yomigaeru Omoi ",
+            "aired": "2003-04-10T00:00:00+00:00",
+            "score": 4.14,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=72552"
+        },
+        {
+            "mal_id": 3,
+            "url": "https://myanimelist.net/anime/61/DNAngel/episode/3",
+            "title": "Whisper of the Unicorn",
+            "title_japanese": "ユニコーンのささやき",
+            "title_romanji": "Unicorn no Sasayaki ",
+            "aired": "2003-04-17T00:00:00+00:00",
+            "score": 4.19,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=33399"
+        },
+        {
+            "mal_id": 4,
+            "url": "https://myanimelist.net/anime/61/DNAngel/episode/4",
+            "title": "Between Light and Darkness",
+            "title_japanese": "光と闇の間に...",
+            "title_romanji": "Hikari to Yami no Hazama ni... ",
+            "aired": "2003-04-24T00:00:00+00:00",
+            "score": 4.67,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=78302"
+        },
+        {
+            "mal_id": 5,
+            "url": "https://myanimelist.net/anime/61/DNAngel/episode/5",
+            "title": "Double Cooking",
+            "title_japanese": "ダブルクッキング",
+            "title_romanji": "Double Cooking ",
+            "aired": "2003-05-01T00:00:00+00:00",
+            "score": 4.36,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=82604"
+        },
+        {
+            "mal_id": 6,
+            "url": "https://myanimelist.net/anime/61/DNAngel/episode/6",
+            "title": "St. White Memories",
+            "title_japanese": "セント ホワイト メモリース",
+            "title_romanji": "Saint White Memories ",
+            "aired": "2003-05-08T00:00:00+00:00",
+            "score": 4.48,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=86378"
+        },
+        {
+            "mal_id": 7,
+            "url": "https://myanimelist.net/anime/61/DNAngel/episode/7",
+            "title": "Adonis of the Promise Garden",
+            "title_japanese": "誓いの庭のアドニス",
+            "title_romanji": "Chikai no Niwa no Adonis ",
+            "aired": "2003-05-15T00:00:00+00:00",
+            "score": 3.82,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=90750"
+        },
+        {
+            "mal_id": 8,
+            "url": "https://myanimelist.net/anime/61/DNAngel/episode/8",
+            "title": "Menou's Warning Letter",
+            "title_japanese": "瑪瑙の予告状",
+            "title_romanji": "Menou no Yokokujou ",
+            "aired": "2003-05-22T00:00:00+00:00",
+            "score": 4.32,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=92383"
+        },
+        {
+            "mal_id": 9,
+            "url": "https://myanimelist.net/anime/61/DNAngel/episode/9",
+            "title": "A Little Romance",
+            "title_japanese": "小さな恋",
+            "title_romanji": "Chiisana Koi ",
+            "aired": "2003-05-29T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=92384"
+        },
+        {
+            "mal_id": 10,
+            "url": "https://myanimelist.net/anime/61/DNAngel/episode/10",
+            "title": "The Portrait of a Certain Musician",
+            "title_japanese": "ある音楽家の肖像",
+            "title_romanji": "Aru Ongakuka no Shouzou ",
+            "aired": "2003-06-05T00:00:00+00:00",
+            "score": 3.93,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=131513"
+        },
+        {
+            "mal_id": 11,
+            "url": "https://myanimelist.net/anime/61/DNAngel/episode/11",
+            "title": "The Temple of Neptune",
+            "title_japanese": "海神の神殿",
+            "title_romanji": "Neptune no Shinden ",
+            "aired": "2003-06-12T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=510039"
+        },
+        {
+            "mal_id": 12,
+            "url": "https://myanimelist.net/anime/61/DNAngel/episode/12",
+            "title": "Together with Rutile",
+            "title_japanese": "リチルとともに...",
+            "title_romanji": "Rutile to Tomo ni... ",
+            "aired": "2003-06-19T00:00:00+00:00",
+            "score": 4.47,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=302597"
+        },
+        {
+            "mal_id": 13,
+            "url": "https://myanimelist.net/anime/61/DNAngel/episode/13",
+            "title": "The Eternal Mark",
+            "title_japanese": "永遠の標",
+            "title_romanji": "Towa no Shirube ",
+            "aired": "2003-06-26T00:00:00+00:00",
+            "score": 3.67,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=543833"
+        },
+        {
+            "mal_id": 14,
+            "url": "https://myanimelist.net/anime/61/DNAngel/episode/14",
+            "title": "A New Rival",
+            "title_japanese": "新たなるライバル",
+            "title_romanji": "Aratanaru Rival ",
+            "aired": "2003-07-03T00:00:00+00:00",
+            "score": 3.95,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=95820"
+        },
+        {
+            "mal_id": 15,
+            "url": "https://myanimelist.net/anime/61/DNAngel/episode/15",
+            "title": "Barbecue Panic",
+            "title_japanese": "バーベキューパニック",
+            "title_romanji": "Barbecue Panic ",
+            "aired": "2003-07-10T00:00:00+00:00",
+            "score": 3.67,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1337057"
+        },
+        {
+            "mal_id": 16,
+            "url": "https://myanimelist.net/anime/61/DNAngel/episode/16",
+            "title": "I Found Her",
+            "title_japanese": "見つけたよ",
+            "title_romanji": "Mitsuketa yo ",
+            "aired": "2003-07-17T00:00:00+00:00",
+            "score": 4.41,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=418099"
+        },
+        {
+            "mal_id": 17,
+            "url": "https://myanimelist.net/anime/61/DNAngel/episode/17",
+            "title": "A Summer Without Dark",
+            "title_japanese": "ダークのいない夏",
+            "title_romanji": "Dark no Inai Natsu ",
+            "aired": "2003-07-24T00:00:00+00:00",
+            "score": 3.85,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=418119"
+        },
+        {
+            "mal_id": 18,
+            "url": "https://myanimelist.net/anime/61/DNAngel/episode/18",
+            "title": "The Two Under The Shooting Stars",
+            "title_japanese": "星降る夜の二人",
+            "title_romanji": "Hoshifuru Yoru no Futari ",
+            "aired": "2003-07-31T00:00:00+00:00",
+            "score": 4.43,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=95854"
+        },
+        {
+            "mal_id": 19,
+            "url": "https://myanimelist.net/anime/61/DNAngel/episode/19",
+            "title": "Beautiful Heroine",
+            "title_japanese": "すてきなヒロイン",
+            "title_romanji": "Suteki na Heroine ",
+            "aired": "2003-08-07T00:00:00+00:00",
+            "score": 4.08,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=544909"
+        },
+        {
+            "mal_id": 20,
+            "url": "https://myanimelist.net/anime/61/DNAngel/episode/20",
+            "title": "Because I Wanted To See You",
+            "title_japanese": "逢いたくて",
+            "title_romanji": "Aitakute ",
+            "aired": "2003-08-14T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1337063"
+        },
+        {
+            "mal_id": 21,
+            "url": "https://myanimelist.net/anime/61/DNAngel/episode/21",
+            "title": "An Icy Voice Calling",
+            "title_japanese": "凍てついた呼び声",
+            "title_romanji": "Itetsuita Yobigoe ",
+            "aired": "2003-08-21T00:00:00+00:00",
+            "score": 4.3,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=544939"
+        },
+        {
+            "mal_id": 22,
+            "url": "https://myanimelist.net/anime/61/DNAngel/episode/22",
+            "title": "Ice and Snow",
+            "title_japanese": "アイス アンド スノウ",
+            "title_romanji": "Ice and Snow ",
+            "aired": "2003-08-28T00:00:00+00:00",
+            "score": 4.25,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=544945"
+        },
+        {
+            "mal_id": 23,
+            "url": "https://myanimelist.net/anime/61/DNAngel/episode/23",
+            "title": "The Second Hand of Time",
+            "title_japanese": "時の秒針",
+            "title_romanji": "Toki no Byoushin ",
+            "aired": "2003-09-04T00:00:00+00:00",
+            "score": 4.38,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=545253"
+        },
+        {
+            "mal_id": 24,
+            "url": "https://myanimelist.net/anime/61/DNAngel/episode/24",
+            "title": "Snow Falls in The Heart",
+            "title_japanese": "心に雪が降る",
+            "title_romanji": "Kokoro ni Yuki ga Furu ",
+            "aired": "2003-09-11T00:00:00+00:00",
+            "score": 4.45,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=545263"
+        },
+        {
+            "mal_id": 25,
+            "url": "https://myanimelist.net/anime/61/DNAngel/episode/25",
+            "title": "The Black Wings",
+            "title_japanese": "黒翼",
+            "title_romanji": "Kokuyoku ",
+            "aired": "2003-09-18T00:00:00+00:00",
+            "score": 4.54,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1337729"
+        },
+        {
+            "mal_id": 26,
+            "url": "https://myanimelist.net/anime/61/DNAngel/episode/26",
+            "title": "Eternal Dark",
+            "title_japanese": "永遠のダーク",
+            "title_romanji": "Eien no Dark ",
+            "aired": "2003-09-25T00:00:00+00:00",
+            "score": 4.48,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=33525"
+        }
+    ]
+}

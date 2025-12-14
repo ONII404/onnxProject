@@ -1,0 +1,154 @@
+{
+    "id": 10203,
+    "fetched_at": "Sun Dec 14 09:31:56 2025",
+    "metadata": {
+        "mal_id": 10203,
+        "url": "https://myanimelist.net/anime/10203/Bikkuriman__Daiichiji_Seima_Taisen",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1436/97580.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1436/97580t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1436/97580l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1436/97580.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1436/97580t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1436/97580l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Bikkuriman: Daiichiji Seima Taisen"
+            },
+            {
+                "type": "Japanese",
+                "title": "ビックリマン 第一次聖魔大戦"
+            }
+        ],
+        "title": "Bikkuriman: Daiichiji Seima Taisen",
+        "title_english": null,
+        "title_japanese": "ビックリマン 第一次聖魔大戦",
+        "title_synonyms": [],
+        "type": "Movie",
+        "source": "Unknown",
+        "episodes": 1,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "1988-03-12T00:00:00+00:00",
+            "to": null,
+            "prop": {
+                "from": {
+                    "day": 12,
+                    "month": 3,
+                    "year": 1988
+                },
+                "to": {
+                    "day": null,
+                    "month": null,
+                    "year": null
+                }
+            },
+            "string": "Mar 12, 1988"
+        },
+        "duration": "30 min",
+        "rating": null,
+        "score": null,
+        "scored_by": null,
+        "rank": 20327,
+        "popularity": 18400,
+        "members": 466,
+        "favorites": 1,
+        "synopsis": "First Bikkuriman film.",
+        "background": "",
+        "season": null,
+        "year": null,
+        "broadcast": {
+            "day": null,
+            "time": null,
+            "timezone": null,
+            "string": null
+        },
+        "producers": [],
+        "licensors": [],
+        "studios": [
+            {
+                "mal_id": 18,
+                "type": "anime",
+                "name": "Toei Animation",
+                "url": "https://myanimelist.net/anime/producer/18/Toei_Animation"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 1,
+                "type": "anime",
+                "name": "Action",
+                "url": "https://myanimelist.net/anime/genre/1/Action"
+            },
+            {
+                "mal_id": 2,
+                "type": "anime",
+                "name": "Adventure",
+                "url": "https://myanimelist.net/anime/genre/2/Adventure"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [],
+        "demographics": [
+            {
+                "mal_id": 15,
+                "type": "anime",
+                "name": "Kids",
+                "url": "https://myanimelist.net/anime/genre/15/Kids"
+            }
+        ],
+        "relations": [
+            {
+                "relation": "Parent Story",
+                "entry": [
+                    {
+                        "mal_id": 3909,
+                        "type": "anime",
+                        "name": "Bikkuriman",
+                        "url": "https://myanimelist.net/anime/3909/Bikkuriman"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [],
+            "endings": []
+        },
+        "external": [
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=2318"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=3658"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "http://ja.wikipedia.org/wiki/ビックリマン_(アニメ)#.E7.89.B9.E5.88.A5.E7.95.AA.E7.B5.84.E3.80.8C.E3.82.AD.E3.83.A9.E3.82.AD.E3.83.A9.E7.89.B9.E5.88.A5.E5.A2.97.E5.88.8A.E5.8F.B7.E3.80.8D"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": []
+}

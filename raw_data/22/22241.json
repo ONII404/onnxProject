@@ -1,0 +1,150 @@
+{
+    "id": 22241,
+    "fetched_at": "Sun Dec 14 10:07:57 2025",
+    "metadata": {
+        "mal_id": 22241,
+        "url": "https://myanimelist.net/anime/22241/Ribbon_no_Kishi_Pilot",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/12/58317.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/12/58317t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/12/58317l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/12/58317.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/12/58317t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/12/58317l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Ribbon no Kishi Pilot"
+            },
+            {
+                "type": "Synonym",
+                "title": "Princess Knight Pilot Film"
+            },
+            {
+                "type": "Japanese",
+                "title": "リボンの騎士（パイロット）"
+            }
+        ],
+        "title": "Ribbon no Kishi Pilot",
+        "title_english": null,
+        "title_japanese": "リボンの騎士（パイロット）",
+        "title_synonyms": [
+            "Princess Knight Pilot Film"
+        ],
+        "type": "Special",
+        "source": "Unknown",
+        "episodes": 1,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "1966-11-28T00:00:00+00:00",
+            "to": null,
+            "prop": {
+                "from": {
+                    "day": 28,
+                    "month": 11,
+                    "year": 1966
+                },
+                "to": {
+                    "day": null,
+                    "month": null,
+                    "year": null
+                }
+            },
+            "string": "Nov 28, 1966"
+        },
+        "duration": "28 min",
+        "rating": "G - All Ages",
+        "score": 5.57,
+        "scored_by": 232,
+        "rank": 12392,
+        "popularity": 15695,
+        "members": 812,
+        "favorites": 0,
+        "synopsis": "Unaired pilot episode of Ribbon no Kishi.",
+        "background": "",
+        "season": null,
+        "year": null,
+        "broadcast": {
+            "day": null,
+            "time": null,
+            "timezone": null,
+            "string": null
+        },
+        "producers": [],
+        "licensors": [],
+        "studios": [
+            {
+                "mal_id": 68,
+                "type": "anime",
+                "name": "Mushi Production",
+                "url": "https://myanimelist.net/anime/producer/68/Mushi_Production"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 2,
+                "type": "anime",
+                "name": "Adventure",
+                "url": "https://myanimelist.net/anime/genre/2/Adventure"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [],
+        "demographics": [],
+        "relations": [
+            {
+                "relation": "Sequel",
+                "entry": [
+                    {
+                        "mal_id": 3024,
+                        "type": "anime",
+                        "name": "Ribbon no Kishi",
+                        "url": "https://myanimelist.net/anime/3024/Ribbon_no_Kishi"
+                    }
+                ]
+            },
+            {
+                "relation": "Adaptation",
+                "entry": [
+                    {
+                        "mal_id": 75571,
+                        "type": "manga",
+                        "name": "Ribbon no Kishi (1963)",
+                        "url": "https://myanimelist.net/manga/75571/Ribbon_no_Kishi_1963"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [],
+            "endings": []
+        },
+        "external": [
+            {
+                "name": "Official Site",
+                "url": "http://tezukaosamu.net/jp/anime/100.html"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": []
+}

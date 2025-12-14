@@ -1,0 +1,177 @@
+{
+    "id": 8879,
+    "fetched_at": "Sun Dec 14 09:22:29 2025",
+    "metadata": {
+        "mal_id": 8879,
+        "url": "https://myanimelist.net/anime/8879/Dolphin_Ouji",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/5/24629.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/5/24629t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/5/24629l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/5/24629.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/5/24629t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/5/24629l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Dolphin Ouji"
+            },
+            {
+                "type": "Synonym",
+                "title": "Dorufin Ouji"
+            },
+            {
+                "type": "Japanese",
+                "title": "ドルフィン王子"
+            }
+        ],
+        "title": "Dolphin Ouji",
+        "title_english": null,
+        "title_japanese": "ドルフィン王子",
+        "title_synonyms": [
+            "Dorufin Ouji"
+        ],
+        "type": "TV",
+        "source": "Unknown",
+        "episodes": 3,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "1965-04-04T00:00:00+00:00",
+            "to": "1965-04-18T00:00:00+00:00",
+            "prop": {
+                "from": {
+                    "day": 4,
+                    "month": 4,
+                    "year": 1965
+                },
+                "to": {
+                    "day": 18,
+                    "month": 4,
+                    "year": 1965
+                }
+            },
+            "string": "Apr 4, 1965 to Apr 18, 1965"
+        },
+        "duration": "23 min per ep",
+        "rating": "G - All Ages",
+        "score": null,
+        "scored_by": null,
+        "rank": 21087,
+        "popularity": 16505,
+        "members": 669,
+        "favorites": 0,
+        "synopsis": "Produced as a short experimental trial series of only 3 episodes and filmed in black and white. Inspired in part by the novel \"Deep Range\" by Arthur C. Clarke, the tale of an undersea boy (Dolphin Prince) with a pet dolphin, who swam in a wetsuit with a built-in jetpack and stunned his enemies with an aqua-boomerang. The episodes featured his mermaid friend Neptuna and Dr. Mariner, with stories entitled \"Secret Of The Red Vortex\", \"Call Of The Sea\" and \"Attack Of The Sea-Star People.\"\n\n(Source: Wikipedia and The Anime Encyclopedia)",
+        "background": "",
+        "season": "spring",
+        "year": 1965,
+        "broadcast": {
+            "day": null,
+            "time": null,
+            "timezone": null,
+            "string": "Unknown"
+        },
+        "producers": [
+            {
+                "mal_id": 169,
+                "type": "anime",
+                "name": "Fuji TV",
+                "url": "https://myanimelist.net/anime/producer/169/Fuji_TV"
+            }
+        ],
+        "licensors": [],
+        "studios": [
+            {
+                "mal_id": 3179,
+                "type": "anime",
+                "name": "TV Douga",
+                "url": "https://myanimelist.net/anime/producer/3179/TV_Douga"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 1,
+                "type": "anime",
+                "name": "Action",
+                "url": "https://myanimelist.net/anime/genre/1/Action"
+            },
+            {
+                "mal_id": 2,
+                "type": "anime",
+                "name": "Adventure",
+                "url": "https://myanimelist.net/anime/genre/2/Adventure"
+            },
+            {
+                "mal_id": 24,
+                "type": "anime",
+                "name": "Sci-Fi",
+                "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [],
+        "demographics": [
+            {
+                "mal_id": 15,
+                "type": "anime",
+                "name": "Kids",
+                "url": "https://myanimelist.net/anime/genre/15/Kids"
+            }
+        ],
+        "relations": [
+            {
+                "relation": "Sequel",
+                "entry": [
+                    {
+                        "mal_id": 8897,
+                        "type": "anime",
+                        "name": "Ganbare! Marine Kid",
+                        "url": "https://myanimelist.net/anime/8897/Ganbare_Marine_Kid"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [],
+            "endings": []
+        },
+        "external": [
+            {
+                "name": "Official Site",
+                "url": "http://www.begets.co.jp/tvmanga/db/data/013dolphin.html"
+            },
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=3576"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=779"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "http://en.wikipedia.org/wiki/Marine_Boy"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": []
+}

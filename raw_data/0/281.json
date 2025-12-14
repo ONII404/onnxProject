@@ -1,0 +1,193 @@
+{
+    "id": 281,
+    "fetched_at": "Sun Dec 14 12:54:27 2025",
+    "metadata": {
+        "mal_id": 281,
+        "url": "https://myanimelist.net/anime/281/Akane_Maniax",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/6/5237.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/6/5237t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/6/5237l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/6/5237.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/6/5237t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/6/5237l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Akane Maniax"
+            },
+            {
+                "type": "Synonym",
+                "title": "Kimi ga Nozomu Eien Gaiden"
+            },
+            {
+                "type": "Synonym",
+                "title": "The Eternity You Desire Gaiden"
+            },
+            {
+                "type": "Japanese",
+                "title": "アカネマニアックス"
+            }
+        ],
+        "title": "Akane Maniax",
+        "title_english": null,
+        "title_japanese": "アカネマニアックス",
+        "title_synonyms": [
+            "Kimi ga Nozomu Eien Gaiden",
+            "The Eternity You Desire Gaiden"
+        ],
+        "type": "OVA",
+        "source": "Visual novel",
+        "episodes": 3,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "2004-11-25T00:00:00+00:00",
+            "to": "2005-08-26T00:00:00+00:00",
+            "prop": {
+                "from": {
+                    "day": 25,
+                    "month": 11,
+                    "year": 2004
+                },
+                "to": {
+                    "day": 26,
+                    "month": 8,
+                    "year": 2005
+                }
+            },
+            "string": "Nov 25, 2004 to Aug 26, 2005"
+        },
+        "duration": "27 min per ep",
+        "rating": "PG-13 - Teens 13 or older",
+        "score": 5.72,
+        "scored_by": 9810,
+        "rank": 11747,
+        "popularity": 5405,
+        "members": 19777,
+        "favorites": 10,
+        "synopsis": "Jouji Gouda is a new transfer student at Hakuryo High. He fell in love at first sight and boldly proposed to Akane Suzumiya, representative of his class, on his first day at the new school. Although Akane finds him very annoying, hot-blooded and simple-minded Jouji never gives up and would do anything to express his love towards Akane.",
+        "background": "",
+        "season": null,
+        "year": null,
+        "broadcast": {
+            "day": null,
+            "time": null,
+            "timezone": null,
+            "string": null
+        },
+        "producers": [
+            {
+                "mal_id": 104,
+                "type": "anime",
+                "name": "Lantis",
+                "url": "https://myanimelist.net/anime/producer/104/Lantis"
+            },
+            {
+                "mal_id": 108,
+                "type": "anime",
+                "name": "Media Factory",
+                "url": "https://myanimelist.net/anime/producer/108/Media_Factory"
+            },
+            {
+                "mal_id": 182,
+                "type": "anime",
+                "name": "Age",
+                "url": "https://myanimelist.net/anime/producer/182/Age"
+            }
+        ],
+        "licensors": [],
+        "studios": [
+            {
+                "mal_id": 1873,
+                "type": "anime",
+                "name": "Silver",
+                "url": "https://myanimelist.net/anime/producer/1873/Silver"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 4,
+                "type": "anime",
+                "name": "Comedy",
+                "url": "https://myanimelist.net/anime/genre/4/Comedy"
+            },
+            {
+                "mal_id": 22,
+                "type": "anime",
+                "name": "Romance",
+                "url": "https://myanimelist.net/anime/genre/22/Romance"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [
+            {
+                "mal_id": 18,
+                "type": "anime",
+                "name": "Mecha",
+                "url": "https://myanimelist.net/anime/genre/18/Mecha"
+            }
+        ],
+        "demographics": [],
+        "relations": [
+            {
+                "relation": "Spin-Off",
+                "entry": [
+                    {
+                        "mal_id": 147,
+                        "type": "anime",
+                        "name": "Kimi ga Nozomu Eien",
+                        "url": "https://myanimelist.net/anime/147/Kimi_ga_Nozomu_Eien"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [
+                "\"Beginning\" by Minami Kuribayashi"
+            ],
+            "endings": [
+                "1: \"Arigato...\" by Kaori Mizuhashi (eps 1-2)",
+                "2: \"MuvLuv\" by Minami Kuribayashi (eps 3)"
+            ]
+        },
+        "external": [
+            {
+                "name": "Official Site",
+                "url": "http://www.akamani.com/"
+            },
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=2425"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=3916"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "http://en.wikipedia.org/wiki/Akane_Maniax"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": []
+}

@@ -1,0 +1,2145 @@
+{
+    "id": 223,
+    "fetched_at": "Sun Dec 14 07:06:00 2025",
+    "metadata": {
+        "mal_id": 223,
+        "url": "https://myanimelist.net/anime/223/Dragon_Ball",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1887/92364.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1887/92364t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1887/92364l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1887/92364.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1887/92364t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1887/92364l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": "https://www.youtube-nocookie.com/embed/fg_fP7cRJXg?enablejsapi=1&wmode=opaque&autoplay=1",
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Dragon Ball"
+            },
+            {
+                "type": "Synonym",
+                "title": "Dragonball"
+            },
+            {
+                "type": "Synonym",
+                "title": "DB"
+            },
+            {
+                "type": "Japanese",
+                "title": "ドラゴンボール"
+            },
+            {
+                "type": "English",
+                "title": "Dragon Ball"
+            }
+        ],
+        "title": "Dragon Ball",
+        "title_english": "Dragon Ball",
+        "title_japanese": "ドラゴンボール",
+        "title_synonyms": [
+            "Dragonball",
+            "DB"
+        ],
+        "type": "TV",
+        "source": "Manga",
+        "episodes": 153,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "1986-02-26T00:00:00+00:00",
+            "to": "1989-04-12T00:00:00+00:00",
+            "prop": {
+                "from": {
+                    "day": 26,
+                    "month": 2,
+                    "year": 1986
+                },
+                "to": {
+                    "day": 12,
+                    "month": 4,
+                    "year": 1989
+                }
+            },
+            "string": "Feb 26, 1986 to Apr 12, 1989"
+        },
+        "duration": "24 min per ep",
+        "rating": "PG-13 - Teens 13 or older",
+        "score": 7.98,
+        "scored_by": 714389,
+        "rank": 723,
+        "popularity": 150,
+        "members": 1119935,
+        "favorites": 17643,
+        "synopsis": "Gokuu Son is a young boy who lives in the woods all alone—that is, until a girl named Bulma runs into him in her search for a set of magical objects called the \"Dragon Balls.\" Since the artifacts are said to grant one wish to whoever collects all seven, Bulma hopes to gather them and wish for a perfect boyfriend. Gokuu happens to be in possession of a dragon ball, but unfortunately for Bulma, he refuses to part ways with it, so she makes him a deal: he can tag along on her journey if he lets her borrow the dragon ball's power. With that, the two set off on the journey of a lifetime.\n\nThey don't go on the journey alone. On the way, they meet the old Muten-Roshi and wannabe disciple Kuririn, with whom Gokuu trains to become a stronger martial artist for the upcoming World Martial Arts Tournament. However, it's not all fun and games; the ability to make any wish come true is a powerful one, and there are others who would do much worse than just wishing for a boyfriend. To stop those who would try to abuse the legendary power, they train to become stronger fighters, using their newfound strength to help the people around them along the way.\n\n[Written by MAL Rewrite]",
+        "background": "Adapts the first 194 chapters of Akira Toriyama’s Dragon Ball manga.",
+        "season": "winter",
+        "year": 1986,
+        "broadcast": {
+            "day": "Wednesdays",
+            "time": "19:00",
+            "timezone": "Asia/Tokyo",
+            "string": "Wednesdays at 19:00 (JST)"
+        },
+        "producers": [
+            {
+                "mal_id": 169,
+                "type": "anime",
+                "name": "Fuji TV",
+                "url": "https://myanimelist.net/anime/producer/169/Fuji_TV"
+            }
+        ],
+        "licensors": [
+            {
+                "mal_id": 102,
+                "type": "anime",
+                "name": "Funimation",
+                "url": "https://myanimelist.net/anime/producer/102/Funimation"
+            }
+        ],
+        "studios": [
+            {
+                "mal_id": 18,
+                "type": "anime",
+                "name": "Toei Animation",
+                "url": "https://myanimelist.net/anime/producer/18/Toei_Animation"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 1,
+                "type": "anime",
+                "name": "Action",
+                "url": "https://myanimelist.net/anime/genre/1/Action"
+            },
+            {
+                "mal_id": 2,
+                "type": "anime",
+                "name": "Adventure",
+                "url": "https://myanimelist.net/anime/genre/2/Adventure"
+            },
+            {
+                "mal_id": 4,
+                "type": "anime",
+                "name": "Comedy",
+                "url": "https://myanimelist.net/anime/genre/4/Comedy"
+            },
+            {
+                "mal_id": 10,
+                "type": "anime",
+                "name": "Fantasy",
+                "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [
+            {
+                "mal_id": 17,
+                "type": "anime",
+                "name": "Martial Arts",
+                "url": "https://myanimelist.net/anime/genre/17/Martial_Arts"
+            }
+        ],
+        "demographics": [
+            {
+                "mal_id": 27,
+                "type": "anime",
+                "name": "Shounen",
+                "url": "https://myanimelist.net/anime/genre/27/Shounen"
+            }
+        ],
+        "relations": [
+            {
+                "relation": "Sequel",
+                "entry": [
+                    {
+                        "mal_id": 813,
+                        "type": "anime",
+                        "name": "Dragon Ball Z",
+                        "url": "https://myanimelist.net/anime/813/Dragon_Ball_Z"
+                    },
+                    {
+                        "mal_id": 6033,
+                        "type": "anime",
+                        "name": "Dragon Ball Kai",
+                        "url": "https://myanimelist.net/anime/6033/Dragon_Ball_Kai"
+                    }
+                ]
+            },
+            {
+                "relation": "Adaptation",
+                "entry": [
+                    {
+                        "mal_id": 42,
+                        "type": "manga",
+                        "name": "Dragon Ball",
+                        "url": "https://myanimelist.net/manga/42/Dragon_Ball"
+                    }
+                ]
+            },
+            {
+                "relation": "Spin-Off",
+                "entry": [
+                    {
+                        "mal_id": 2520,
+                        "type": "anime",
+                        "name": "Dragon Ball Specials",
+                        "url": "https://myanimelist.net/anime/2520/Dragon_Ball_Specials"
+                    }
+                ]
+            },
+            {
+                "relation": "Alternative Version",
+                "entry": [
+                    {
+                        "mal_id": 502,
+                        "type": "anime",
+                        "name": "Dragon Ball Movie 1: Shen Long no Densetsu",
+                        "url": "https://myanimelist.net/anime/502/Dragon_Ball_Movie_1__Shen_Long_no_Densetsu"
+                    },
+                    {
+                        "mal_id": 891,
+                        "type": "anime",
+                        "name": "Dragon Ball Movie 2: Majinjou no Nemurihime",
+                        "url": "https://myanimelist.net/anime/891/Dragon_Ball_Movie_2__Majinjou_no_Nemurihime"
+                    },
+                    {
+                        "mal_id": 892,
+                        "type": "anime",
+                        "name": "Dragon Ball Movie 3: Makafushigi Daibouken",
+                        "url": "https://myanimelist.net/anime/892/Dragon_Ball_Movie_3__Makafushigi_Daibouken"
+                    },
+                    {
+                        "mal_id": 893,
+                        "type": "anime",
+                        "name": "Dragon Ball Movie 4: Saikyou e no Michi",
+                        "url": "https://myanimelist.net/anime/893/Dragon_Ball_Movie_4__Saikyou_e_no_Michi"
+                    }
+                ]
+            },
+            {
+                "relation": "Character",
+                "entry": [
+                    {
+                        "mal_id": 2222,
+                        "type": "anime",
+                        "name": "Dr. Slump: Arale-chan",
+                        "url": "https://myanimelist.net/anime/2222/Dr_Slump__Arale-chan"
+                    },
+                    {
+                        "mal_id": 30450,
+                        "type": "anime",
+                        "name": "Dr. Slump: Hoyoyo! Arale no Himitsu Dai Koukai da yo!!",
+                        "url": "https://myanimelist.net/anime/30450/Dr_Slump__Hoyoyo_Arale_no_Himitsu_Dai_Koukai_da_yo"
+                    }
+                ]
+            },
+            {
+                "relation": "Other",
+                "entry": [
+                    {
+                        "mal_id": 37885,
+                        "type": "anime",
+                        "name": "Super Dragon Ball Heroes",
+                        "url": "https://myanimelist.net/anime/37885/Super_Dragon_Ball_Heroes"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [
+                "\"Makafushigi Adventure\" by Hiroki Takahashi"
+            ],
+            "endings": [
+                "\"Romatikku Ageru Yo\" by Ushio Hashimoto"
+            ]
+        },
+        "external": [
+            {
+                "name": "Official Site",
+                "url": "http://www.toei-anim.co.jp/tv/dragon/"
+            },
+            {
+                "name": "@DB_super2015",
+                "url": "https://twitter.com/DB_super2015"
+            },
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=231"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=243"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "http://en.wikipedia.org/wiki/Dragon_Ball_%28anime%29"
+            },
+            {
+                "name": "Syoboi",
+                "url": "https://cal.syoboi.jp/tid/2485"
+            }
+        ],
+        "streaming": [
+            {
+                "name": "Crunchyroll",
+                "url": "http://www.crunchyroll.com/series-282412"
+            }
+        ]
+    },
+    "episodes": [
+        {
+            "mal_id": 1,
+            "url": "https://myanimelist.net/anime/223/Dragon_Ball/episode/1",
+            "title": "The Secret of the Dragon Balls",
+            "title_japanese": "ブルマと孫悟空",
+            "title_romanji": "Bulma to Son Gokuu ",
+            "aired": "1986-02-26T00:00:00+00:00",
+            "score": 4.16,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=147586"
+        },
+        {
+            "mal_id": 2,
+            "url": "https://myanimelist.net/anime/223/Dragon_Ball/episode/2",
+            "title": "The Emperor's Quest",
+            "title_japanese": "あらららー！タマがない！",
+            "title_romanji": "Arararaa! Tama ga Nai! ",
+            "aired": "1986-03-05T00:00:00+00:00",
+            "score": 4.16,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=147668"
+        },
+        {
+            "mal_id": 3,
+            "url": "https://myanimelist.net/anime/223/Dragon_Ball/episode/3",
+            "title": "The Nimbus Cloud of Roshi",
+            "title_japanese": "亀仙人のキント雲",
+            "title_romanji": "Kame-Sennin no Kinto-Un ",
+            "aired": "1986-03-12T00:00:00+00:00",
+            "score": 4.19,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=147670"
+        },
+        {
+            "mal_id": 4,
+            "url": "https://myanimelist.net/anime/223/Dragon_Ball/episode/4",
+            "title": "Oolong the Terrible",
+            "title_japanese": "人さらい妖怪ウーロン",
+            "title_romanji": "Hitosarai Youkai Oolong ",
+            "aired": "1986-03-19T00:00:00+00:00",
+            "score": 4.16,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=48551"
+        },
+        {
+            "mal_id": 5,
+            "url": "https://myanimelist.net/anime/223/Dragon_Ball/episode/5",
+            "title": "Yamcha the Desert Bandit",
+            "title_japanese": "つよくて悪い砂漠のヤムチャ",
+            "title_romanji": "Tsuyokute Warui Sabaku no Yamucha ",
+            "aired": "1986-03-26T00:00:00+00:00",
+            "score": 4.16,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=48554"
+        },
+        {
+            "mal_id": 6,
+            "url": "https://myanimelist.net/anime/223/Dragon_Ball/episode/6",
+            "title": "Keep an Eye on the Dragon Balls",
+            "title_japanese": "真夜中の訪問者たち",
+            "title_romanji": "Mayonaka no Houmonsha-tachi ",
+            "aired": "1986-04-02T00:00:00+00:00",
+            "score": 4.19,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=147685"
+        },
+        {
+            "mal_id": 7,
+            "url": "https://myanimelist.net/anime/223/Dragon_Ball/episode/7",
+            "title": "The Ox King on Fire Mountain",
+            "title_japanese": "フライパン山の牛魔王",
+            "title_romanji": "Frypan Yama no Gyuumaou ",
+            "aired": "1986-04-09T00:00:00+00:00",
+            "score": 4.22,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=288174"
+        },
+        {
+            "mal_id": 8,
+            "url": "https://myanimelist.net/anime/223/Dragon_Ball/episode/8",
+            "title": "The Kamehameha Wave",
+            "title_japanese": "亀仙人のカメハメ波",
+            "title_romanji": "Kame-Sennin no Kamehameha ",
+            "aired": "1986-04-16T00:00:00+00:00",
+            "score": 4.37,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=215165"
+        },
+        {
+            "mal_id": 9,
+            "url": "https://myanimelist.net/anime/223/Dragon_Ball/episode/9",
+            "title": "Boss Rabbit's Magic Touch",
+            "title_japanese": "うさぎオヤブンの得意技",
+            "title_romanji": "Usagi Oyabun no Tokui Waza ",
+            "aired": "1986-04-23T00:00:00+00:00",
+            "score": 4.07,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=288589"
+        },
+        {
+            "mal_id": 10,
+            "url": "https://myanimelist.net/anime/223/Dragon_Ball/episode/10",
+            "title": "The Dragon Balls are Stolen!",
+            "title_japanese": "Ｄ．Ｂ．うばわれる！！",
+            "title_romanji": "Dragon Ball Ubawareru!! ",
+            "aired": "1986-04-30T00:00:00+00:00",
+            "score": 4.06,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=288676"
+        },
+        {
+            "mal_id": 11,
+            "url": "https://myanimelist.net/anime/223/Dragon_Ball/episode/11",
+            "title": "The Penalty is Pinball",
+            "title_japanese": "ついに龍あらわる！",
+            "title_romanji": "Tsui ni Dragon Arawaru! ",
+            "aired": "1986-05-07T00:00:00+00:00",
+            "score": 4.15,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=266963"
+        },
+        {
+            "mal_id": 12,
+            "url": "https://myanimelist.net/anime/223/Dragon_Ball/episode/12",
+            "title": "A Wish to the Eternal Dragon",
+            "title_japanese": "神龍への願い",
+            "title_romanji": "Shenron e no Negai ",
+            "aired": "1986-05-14T00:00:00+00:00",
+            "score": 4.33,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=288678"
+        },
+        {
+            "mal_id": 13,
+            "url": "https://myanimelist.net/anime/223/Dragon_Ball/episode/13",
+            "title": "The Legend of Goku",
+            "title_japanese": "悟空の大変身",
+            "title_romanji": "Gokuu no Dai Henshin ",
+            "aired": "1986-05-21T00:00:00+00:00",
+            "score": 4.49,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=49708"
+        },
+        {
+            "mal_id": 14,
+            "url": "https://myanimelist.net/anime/223/Dragon_Ball/episode/14",
+            "title": "Goku's Rival",
+            "title_japanese": "悟空のライバル？参上！！",
+            "title_romanji": "Gokuu no Rival? Sanjou!! ",
+            "aired": "1986-05-28T00:00:00+00:00",
+            "score": 4.19,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=288684"
+        },
+        {
+            "mal_id": 15,
+            "url": "https://myanimelist.net/anime/223/Dragon_Ball/episode/15",
+            "title": "Look Out for Launch",
+            "title_japanese": "不思議な女の子ランチ",
+            "title_romanji": "Fushigi na Onna no Ko Ranchi ",
+            "aired": "1986-06-04T00:00:00+00:00",
+            "score": 4.09,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=51827"
+        },
+        {
+            "mal_id": 16,
+            "url": "https://myanimelist.net/anime/223/Dragon_Ball/episode/16",
+            "title": "Find That Stone!",
+            "title_japanese": "修業 · 石さがし",
+            "title_romanji": "Shugyou: Ishi Sagashi ",
+            "aired": "1986-06-11T00:00:00+00:00",
+            "score": 4.21,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=291369"
+        },
+        {
+            "mal_id": 17,
+            "url": "https://myanimelist.net/anime/223/Dragon_Ball/episode/17",
+            "title": "Milk Delivery",
+            "title_japanese": "命がけ！牛乳はいたつ",
+            "title_romanji": "Inochigake! Gyuunyuu Haitatsu ",
+            "aired": "1986-06-18T00:00:00+00:00",
+            "score": 4.34,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=57083"
+        },
+        {
+            "mal_id": 18,
+            "url": "https://myanimelist.net/anime/223/Dragon_Ball/episode/18",
+            "title": "The Turtle Hermit Way",
+            "title_japanese": "亀仙流きつーい修業",
+            "title_romanji": "Kame-senryuu Kitsuui Shugyou ",
+            "aired": "1986-06-25T00:00:00+00:00",
+            "score": 4.34,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=291375"
+        },
+        {
+            "mal_id": 19,
+            "url": "https://myanimelist.net/anime/223/Dragon_Ball/episode/19",
+            "title": "The Tournament Begins",
+            "title_japanese": "天下一武道会はじまる！",
+            "title_romanji": "Tenkaichi Budoukai Hajimaru! ",
+            "aired": "1986-07-02T00:00:00+00:00",
+            "score": 4.41,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=267648"
+        },
+        {
+            "mal_id": 20,
+            "url": "https://myanimelist.net/anime/223/Dragon_Ball/episode/20",
+            "title": "Elimination Round",
+            "title_japanese": "でるか！？修行の威力",
+            "title_romanji": "Deru ka!? Shugyou no Iryoku ",
+            "aired": "1986-07-09T00:00:00+00:00",
+            "score": 4.41,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=57888"
+        },
+        {
+            "mal_id": 21,
+            "url": "https://myanimelist.net/anime/223/Dragon_Ball/episode/21",
+            "title": "Smells Like Trouble",
+            "title_japanese": "危うし！クリリン",
+            "title_romanji": "Ayaushi! Kuririn ",
+            "aired": "1986-07-16T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=58030"
+        },
+        {
+            "mal_id": 22,
+            "url": "https://myanimelist.net/anime/223/Dragon_Ball/episode/22",
+            "title": "Quarterfinals Begin",
+            "title_japanese": "ヤムチャＶＳジャッキーチュン",
+            "title_romanji": "Yamucha vs Jackie Chun ",
+            "aired": "1986-07-23T00:00:00+00:00",
+            "score": 4.23,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=58122"
+        },
+        {
+            "mal_id": 23,
+            "url": "https://myanimelist.net/anime/223/Dragon_Ball/episode/23",
+            "title": "Monster Beast Giran",
+            "title_japanese": "出たーっ！強敵ギラン",
+            "title_romanji": "Deta! Kyouteki Giran ",
+            "aired": "1986-07-30T00:00:00+00:00",
+            "score": 4.24,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=262213"
+        },
+        {
+            "mal_id": 24,
+            "url": "https://myanimelist.net/anime/223/Dragon_Ball/episode/24",
+            "title": "Krillin's Frantic Attack!",
+            "title_japanese": "クリリン必死の大攻防戦",
+            "title_romanji": "Kuririn Hisshi no Dai Koubousen ",
+            "aired": "1986-08-06T00:00:00+00:00",
+            "score": 4.42,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=263073"
+        },
+        {
+            "mal_id": 25,
+            "url": "https://myanimelist.net/anime/223/Dragon_Ball/episode/25",
+            "title": "Danger From Above",
+            "title_japanese": "たて悟空！恐るべき天空X字拳",
+            "title_romanji": "Tate Gokuu! Osoru Beki Tenkuu Pekeji-ken ",
+            "aired": "1986-08-13T00:00:00+00:00",
+            "score": 4.56,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=263675"
+        },
+        {
+            "mal_id": 26,
+            "url": "https://myanimelist.net/anime/223/Dragon_Ball/episode/26",
+            "title": "The Grand Finals",
+            "title_japanese": "決勝戦だ！！カメハメ波",
+            "title_romanji": "Kesshousen da!! Kamehameha ",
+            "aired": "1986-08-20T00:00:00+00:00",
+            "score": 4.41,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=291774"
+        },
+        {
+            "mal_id": 27,
+            "url": "https://myanimelist.net/anime/223/Dragon_Ball/episode/27",
+            "title": "Number One Under the Moon?",
+            "title_japanese": "悟空 · 最大のピンチ",
+            "title_romanji": "Gokuu: Saidai no Pinch ",
+            "aired": "1986-08-27T00:00:00+00:00",
+            "score": 4.54,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=59909"
+        },
+        {
+            "mal_id": 28,
+            "url": "https://myanimelist.net/anime/223/Dragon_Ball/episode/28",
+            "title": "The Final Blow",
+            "title_japanese": "激突！！パワー対パワー",
+            "title_romanji": "Gekitotsu!! Power tai Power ",
+            "aired": "1986-09-03T00:00:00+00:00",
+            "score": 4.56,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=23269"
+        },
+        {
+            "mal_id": 29,
+            "url": "https://myanimelist.net/anime/223/Dragon_Ball/episode/29",
+            "title": "The Roaming Lake",
+            "title_japanese": "ふたたび冒険 さまよう湖",
+            "title_romanji": "Futatabi Bouken Samayou Mizuumi ",
+            "aired": "1986-09-10T00:00:00+00:00",
+            "score": 4.21,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=291905"
+        },
+        {
+            "mal_id": 30,
+            "url": "https://myanimelist.net/anime/223/Dragon_Ball/episode/30",
+            "title": "Pilaf and the Mystery Force",
+            "title_japanese": "ピラフと謎の軍団",
+            "title_romanji": "Pilaf to Nazo no Gundan ",
+            "aired": "1986-09-17T00:00:00+00:00",
+            "score": 4.03,
+            "filler": true,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=291915"
+        },
+        {
+            "mal_id": 31,
+            "url": "https://myanimelist.net/anime/223/Dragon_Ball/episode/31",
+            "title": "Wedding Plans?",
+            "title_japanese": "ゲゲ！ニセ悟空出現！！",
+            "title_romanji": "Gege! Nise Gokuu Shutsugen!! ",
+            "aired": "1986-09-24T00:00:00+00:00",
+            "score": 4.24,
+            "filler": true,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=299973"
+        },
+        {
+            "mal_id": 32,
+            "url": "https://myanimelist.net/anime/223/Dragon_Ball/episode/32",
+            "title": "The Flying Fortress — Vanished!",
+            "title_japanese": "消えた！？ 空とぶ要塞",
+            "title_romanji": "Kieta!? Sora Tobu Yousai ",
+            "aired": "1986-10-01T00:00:00+00:00",
+            "score": 4.05,
+            "filler": true,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=296885"
+        },
+        {
+            "mal_id": 33,
+            "url": "https://myanimelist.net/anime/223/Dragon_Ball/episode/33",
+            "title": "The Legend of a Dragon",
+            "title_japanese": "龍の伝説",
+            "title_romanji": "Doragon no Densetsu ",
+            "aired": "1986-10-08T00:00:00+00:00",
+            "score": 3.93,
+            "filler": true,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=297191"
+        },
+        {
+            "mal_id": 34,
+            "url": "https://myanimelist.net/anime/223/Dragon_Ball/episode/34",
+            "title": "Cruel General Red",
+            "title_japanese": "非情のレッドリボン",
+            "title_romanji": "Hijou no Red Ribbon ",
+            "aired": "1986-10-15T00:00:00+00:00",
+            "score": 4.17,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=297195"
+        },
+        {
+            "mal_id": 35,
+            "url": "https://myanimelist.net/anime/223/Dragon_Ball/episode/35",
+            "title": "Cold Reception",
+            "title_japanese": "北の少女スノ",
+            "title_romanji": "Kita no Shoujo Suno ",
+            "aired": "1986-10-22T00:00:00+00:00",
+            "score": 4.23,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=329923"
+        },
+        {
+            "mal_id": 36,
+            "url": "https://myanimelist.net/anime/223/Dragon_Ball/episode/36",
+            "title": "Major Metallitron",
+            "title_japanese": "マッスル塔の恐怖",
+            "title_romanji": "Muscle Tower no Kyoufu ",
+            "aired": "1986-10-29T00:00:00+00:00",
+            "score": 4.06,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=281249"
+        },
+        {
+            "mal_id": 37,
+            "url": "https://myanimelist.net/anime/223/Dragon_Ball/episode/37",
+            "title": "Ninja Murasaki is Coming!",
+            "title_japanese": "忍者ムラサキ参上",
+            "title_romanji": "Ninja Murasaki Sanjou ",
+            "aired": "1986-11-05T00:00:00+00:00",
+            "score": 4.04,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=297479"
+        },
+        {
+            "mal_id": 38,
+            "url": "https://myanimelist.net/anime/223/Dragon_Ball/episode/38",
+            "title": "Five Murasakis",
+            "title_japanese": "恐るべし！！分身の術",
+            "title_romanji": "Osorubeshi!! Bunshin no Jutsu ",
+            "aired": "1986-11-12T00:00:00+00:00",
+            "score": 3.91,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=329935"
+        },
+        {
+            "mal_id": 39,
+            "url": "https://myanimelist.net/anime/223/Dragon_Ball/episode/39",
+            "title": "Mysterious Android No. 8",
+            "title_japanese": "謎の人造人間８号",
+            "title_romanji": "Nazo no Jinzouningen 8-gou ",
+            "aired": "1986-11-19T00:00:00+00:00",
+            "score": 3.99,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=329961"
+        },
+        {
+            "mal_id": 40,
+            "url": "https://myanimelist.net/anime/223/Dragon_Ball/episode/40",
+            "title": "Horrifying Buyon",
+            "title_japanese": "どうする悟空！！戦慄のブヨン",
+            "title_romanji": "Dou Suru Gokuu!! Senritsu no Buyon ",
+            "aired": "1986-11-26T00:00:00+00:00",
+            "score": 4.05,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=329971"
+        },
+        {
+            "mal_id": 41,
+            "url": "https://myanimelist.net/anime/223/Dragon_Ball/episode/41",
+            "title": "The Fall of Muscle Tower",
+            "title_japanese": "マッスルタワーの最期",
+            "title_romanji": "Muscle Tower no Saigo ",
+            "aired": "1986-12-03T00:00:00+00:00",
+            "score": 4.21,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=294328"
+        },
+        {
+            "mal_id": 42,
+            "url": "https://myanimelist.net/anime/223/Dragon_Ball/episode/42",
+            "title": "The Secret of Dr. Flappe",
+            "title_japanese": "危機一髪！！ガンバレ８ちゃん",
+            "title_romanji": "Kiki Ippatsu!! Ganbare Hatchan ",
+            "aired": "1986-12-10T00:00:00+00:00",
+            "score": 3.99,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=330129"
+        },
+        {
+            "mal_id": 43,
+            "url": "https://myanimelist.net/anime/223/Dragon_Ball/episode/43",
+            "title": "A Trip to the City",
+            "title_japanese": "西の都のブルマんち",
+            "title_romanji": "Nishi no Miyako no Bulma Nchi ",
+            "aired": "1986-12-17T00:00:00+00:00",
+            "score": 4.34,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=330155"
+        },
+        {
+            "mal_id": 44,
+            "url": "https://myanimelist.net/anime/223/Dragon_Ball/episode/44",
+            "title": "Master Thief, Hasky",
+            "title_japanese": "悟空と仲間と危険がいっぱい",
+            "title_romanji": "Gokuu to Nakama to Kiken ga Ippai ",
+            "aired": "1986-12-24T00:00:00+00:00",
+            "score": 4.26,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=330427"
+        },
+        {
+            "mal_id": 45,
+            "url": "https://myanimelist.net/anime/223/Dragon_Ball/episode/45",
+            "title": "Danger in the Air",
+            "title_japanese": "気をつけろ！空中の罠",
+            "title_romanji": "Ki wo Tsukero! Kuuchuu no Wana ",
+            "aired": "1987-01-07T00:00:00+00:00",
+            "score": 4.11,
+            "filler": true,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=330555"
+        },
+        {
+            "mal_id": 46,
+            "url": "https://myanimelist.net/anime/223/Dragon_Ball/episode/46",
+            "title": "Bulma's Bad Day",
+            "title_japanese": "ブルマの大失敗",
+            "title_romanji": "Bulma no Dai-Shippai ",
+            "aired": "1987-01-14T00:00:00+00:00",
+            "score": 3.96,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=146340"
+        },
+        {
+            "mal_id": 47,
+            "url": "https://myanimelist.net/anime/223/Dragon_Ball/episode/47",
+            "title": "Kame House — Found!",
+            "title_japanese": "ＫＡＭＥ ＨＯＵＳＥ 発見さる！！",
+            "title_romanji": "Kame House Hakken Saru!! ",
+            "aired": "1987-01-21T00:00:00+00:00",
+            "score": 3.96,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=299197"
+        },
+        {
+            "mal_id": 48,
+            "url": "https://myanimelist.net/anime/223/Dragon_Ball/episode/48",
+            "title": "Deep Blue Sea",
+            "title_japanese": "ブルー将軍攻撃開始！！",
+            "title_romanji": "Blue Shougun Kougeki Kaishi!! ",
+            "aired": "1987-01-28T00:00:00+00:00",
+            "score": 3.95,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=300352"
+        },
+        {
+            "mal_id": 49,
+            "url": "https://myanimelist.net/anime/223/Dragon_Ball/episode/49",
+            "title": "Roshi Surprise",
+            "title_japanese": "危うしランチさん",
+            "title_romanji": "Ayaushi Lunch-san ",
+            "aired": "1987-02-04T00:00:00+00:00",
+            "score": 4.09,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=303154"
+        },
+        {
+            "mal_id": 50,
+            "url": "https://myanimelist.net/anime/223/Dragon_Ball/episode/50",
+            "title": "The Trap is Sprung",
+            "title_japanese": "海賊たちのワナ",
+            "title_romanji": "Kaizoku-tachi no Wana ",
+            "aired": "1987-02-11T00:00:00+00:00",
+            "score": 4.02,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=122698"
+        },
+        {
+            "mal_id": 51,
+            "url": "https://myanimelist.net/anime/223/Dragon_Ball/episode/51",
+            "title": "Beware of Robot",
+            "title_japanese": "海底のガードマン",
+            "title_romanji": "Kaitei no Guard ",
+            "aired": "1987-02-18T00:00:00+00:00",
+            "score": 4.04,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=350763"
+        },
+        {
+            "mal_id": 52,
+            "url": "https://myanimelist.net/anime/223/Dragon_Ball/episode/52",
+            "title": "The Pirate Treasure",
+            "title_japanese": "やった！お宝発見",
+            "title_romanji": "Yatta! Otakara Hakken ",
+            "aired": "1987-02-25T00:00:00+00:00",
+            "score": 4.26,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=350781"
+        },
+        {
+            "mal_id": 53,
+            "url": "https://myanimelist.net/anime/223/Dragon_Ball/episode/53",
+            "title": "Blue, Black and Blue",
+            "title_japanese": "恐怖の光る眼",
+            "title_romanji": "Kyoufu no Hikaru Me ",
+            "aired": "1987-03-04T00:00:00+00:00",
+            "score": 4.26,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=350801"
+        },
+        {
+            "mal_id": 54,
+            "url": "https://myanimelist.net/anime/223/Dragon_Ball/episode/54",
+            "title": "Escape From Pirate Cave",
+            "title_japanese": "逃げろや逃げろ！！大脱出",
+            "title_romanji": "Nigero ya Nigero!! Dai-Dasshutsu ",
+            "aired": "1987-03-11T00:00:00+00:00",
+            "score": 4.15,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=306675"
+        },
+        {
+            "mal_id": 55,
+            "url": "https://myanimelist.net/anime/223/Dragon_Ball/episode/55",
+            "title": "Penguin Village",
+            "title_japanese": "んちゃ！追ってペンギン村",
+            "title_romanji": "N-cha! Otte Penguin Mura ",
+            "aired": "1987-03-18T00:00:00+00:00",
+            "score": 3.96,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=350829"
+        },
+        {
+            "mal_id": 56,
+            "url": "https://myanimelist.net/anime/223/Dragon_Ball/episode/56",
+            "title": "Strange Visitor",
+            "title_japanese": "うほほーい！アラレ雲にのる",
+            "title_romanji": "Uhohoui! Arale Kumo ni Noru ",
+            "aired": "1987-03-25T00:00:00+00:00",
+            "score": 3.84,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=26512"
+        },
+        {
+            "mal_id": 57,
+            "url": "https://myanimelist.net/anime/223/Dragon_Ball/episode/57",
+            "title": "Arale vs. Blue",
+            "title_japanese": "対決！アラレＶＳブルー",
+            "title_romanji": "Taiketsu! Arale vs Blue ",
+            "aired": "1987-04-08T00:00:00+00:00",
+            "score": 3.99,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=350893"
+        },
+        {
+            "mal_id": 58,
+            "url": "https://myanimelist.net/anime/223/Dragon_Ball/episode/58",
+            "title": "The Land of Korin",
+            "title_japanese": "魔境の聖地カリン",
+            "title_romanji": "Makyou no Seichi Karin ",
+            "aired": "1987-04-15T00:00:00+00:00",
+            "score": 4.13,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=350913"
+        },
+        {
+            "mal_id": 59,
+            "url": "https://myanimelist.net/anime/223/Dragon_Ball/episode/59",
+            "title": "The Notorious Mercenary",
+            "title_japanese": "きた！世界一の殺し屋＂桃白白＂",
+            "title_romanji": "Kita! Sekaiichi no Koroshiya Taopaipai ",
+            "aired": "1987-04-22T00:00:00+00:00",
+            "score": 4.53,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=350931"
+        },
+        {
+            "mal_id": 60,
+            "url": "https://myanimelist.net/anime/223/Dragon_Ball/episode/60",
+            "title": "Tao Attacks!",
+            "title_japanese": "勝負！！カメハメ波ＶＳどどん波",
+            "title_romanji": "Shoubu!! Kamehameha vs Dodonpa ",
+            "aired": "1987-04-29T00:00:00+00:00",
+            "score": 4.33,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=151261"
+        },
+        {
+            "mal_id": 61,
+            "url": "https://myanimelist.net/anime/223/Dragon_Ball/episode/61",
+            "title": "Korin Tower",
+            "title_japanese": "カリン塔のカリン様",
+            "title_romanji": "Karin-Tou no Karin-sama ",
+            "aired": "1987-05-06T00:00:00+00:00",
+            "score": 4.59,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=350939"
+        },
+        {
+            "mal_id": 62,
+            "url": "https://myanimelist.net/anime/223/Dragon_Ball/episode/62",
+            "title": "Sacred Water",
+            "title_japanese": "果して！？超聖水のききめ",
+            "title_romanji": "Hatashite!? Chouseisui no Kikime ",
+            "aired": "1987-05-13T00:00:00+00:00",
+            "score": 4.44,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=350947"
+        },
+        {
+            "mal_id": 63,
+            "url": "https://myanimelist.net/anime/223/Dragon_Ball/episode/63",
+            "title": "The Return of Goku",
+            "title_japanese": "孫悟空の逆襲",
+            "title_romanji": "Son Gokuu no Gyakushuu ",
+            "aired": "1987-05-20T00:00:00+00:00",
+            "score": 4.45,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=505665"
+        },
+        {
+            "mal_id": 64,
+            "url": "https://myanimelist.net/anime/223/Dragon_Ball/episode/64",
+            "title": "The Last of Mercenary Tao",
+            "title_japanese": "最後の桃白白",
+            "title_romanji": "Saigo no Taopaipai ",
+            "aired": "1987-05-27T00:00:00+00:00",
+            "score": 4.39,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=382601"
+        },
+        {
+            "mal_id": 65,
+            "url": "https://myanimelist.net/anime/223/Dragon_Ball/episode/65",
+            "title": "Confront the Red Ribbon Army",
+            "title_japanese": "ゆけ悟空！突撃開始",
+            "title_romanji": "Yuke Gokuu! Totsugeki Kaishi ",
+            "aired": "1987-06-10T00:00:00+00:00",
+            "score": 4.18,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=353533"
+        },
+        {
+            "mal_id": 66,
+            "url": "https://myanimelist.net/anime/223/Dragon_Ball/episode/66",
+            "title": "A Real Bind",
+            "title_japanese": "レッドリボン軍必死の攻防",
+            "title_romanji": "Red Ribbon Gun Hisshi no Koubou ",
+            "aired": "1987-06-17T00:00:00+00:00",
+            "score": 4.31,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=354059"
+        },
+        {
+            "mal_id": 67,
+            "url": "https://myanimelist.net/anime/223/Dragon_Ball/episode/67",
+            "title": "The End of Commander Red",
+            "title_japanese": "レッド総帥死す！！",
+            "title_romanji": "Red Sousui Shisu!! ",
+            "aired": "1987-06-24T00:00:00+00:00",
+            "score": 4.27,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=354071"
+        },
+        {
+            "mal_id": 68,
+            "url": "https://myanimelist.net/anime/223/Dragon_Ball/episode/68",
+            "title": "The Last Dragon Ball ",
+            "title_japanese": "最後のドラゴンボール",
+            "title_romanji": "Saigo no Dragon Ball ",
+            "aired": "1987-07-01T00:00:00+00:00",
+            "score": 4.29,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=383497"
+        },
+        {
+            "mal_id": 69,
+            "url": "https://myanimelist.net/anime/223/Dragon_Ball/episode/69",
+            "title": "Who is Fortuneteller Baba?",
+            "title_japanese": "キュートな！？占いババ",
+            "title_romanji": "Cute na!? Uranai Baba ",
+            "aired": "1987-07-08T00:00:00+00:00",
+            "score": 4.2,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=389313"
+        },
+        {
+            "mal_id": 70,
+            "url": "https://myanimelist.net/anime/223/Dragon_Ball/episode/70",
+            "title": "We are the Five Warriors",
+            "title_japanese": "突撃！われら５人の戦士",
+            "title_romanji": "Totsugeki! Warera Gonin no Senshi ",
+            "aired": "1987-07-15T00:00:00+00:00",
+            "score": 4.09,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=389325"
+        },
+        {
+            "mal_id": 71,
+            "url": "https://myanimelist.net/anime/223/Dragon_Ball/episode/71",
+            "title": "Deadly Battle",
+            "title_japanese": "決死の大流血戦",
+            "title_romanji": "Kesshi no Dairyuukessen ",
+            "aired": "1987-07-22T00:00:00+00:00",
+            "score": 4.22,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=389335"
+        },
+        {
+            "mal_id": 72,
+            "url": "https://myanimelist.net/anime/223/Dragon_Ball/episode/72",
+            "title": "Goku's Turn",
+            "title_japanese": "悟空見参！悪魔の便所",
+            "title_romanji": "Son Gokuu Kenzan! Akuma no Benjo ",
+            "aired": "1987-07-29T00:00:00+00:00",
+            "score": 4.06,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=389361"
+        },
+        {
+            "mal_id": 73,
+            "url": "https://myanimelist.net/anime/223/Dragon_Ball/episode/73",
+            "title": "The Devilmite Beam",
+            "title_japanese": "必殺アクマイト光線とは！？",
+            "title_romanji": "Hissatsu Akumaitokousen to wa!? ",
+            "aired": "1987-08-05T00:00:00+00:00",
+            "score": 4.21,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=389847"
+        },
+        {
+            "mal_id": 74,
+            "url": "https://myanimelist.net/anime/223/Dragon_Ball/episode/74",
+            "title": "The Mysterious Fifth Man ",
+            "title_japanese": "なぞの五人目の男",
+            "title_romanji": "Nazo no Goninme no Otoko ",
+            "aired": "1987-08-12T00:00:00+00:00",
+            "score": 4.23,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=389859"
+        },
+        {
+            "mal_id": 75,
+            "url": "https://myanimelist.net/anime/223/Dragon_Ball/episode/75",
+            "title": "The Strong Ones",
+            "title_japanese": "激突！！強敵同志",
+            "title_romanji": "Gekitotsu!! Kyouteki Doushi ",
+            "aired": "1987-08-19T00:00:00+00:00",
+            "score": 4.45,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=389873"
+        },
+        {
+            "mal_id": 76,
+            "url": "https://myanimelist.net/anime/223/Dragon_Ball/episode/76",
+            "title": "True Colors of the Masked Man",
+            "title_japanese": "仮面男の正体は！？",
+            "title_romanji": "Kamen Otoko no Shoutai ha!? ",
+            "aired": "1987-08-26T00:00:00+00:00",
+            "score": 4.72,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=389887"
+        },
+        {
+            "mal_id": 77,
+            "url": "https://myanimelist.net/anime/223/Dragon_Ball/episode/77",
+            "title": "Pilaf's Tactics",
+            "title_japanese": "ピラフの大作戦",
+            "title_romanji": "Pilaf no Daisakusen ",
+            "aired": "1987-09-02T00:00:00+00:00",
+            "score": 4.23,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=390407"
+        },
+        {
+            "mal_id": 78,
+            "url": "https://myanimelist.net/anime/223/Dragon_Ball/episode/78",
+            "title": "The Eternal Dragon Rises",
+            "title_japanese": "神龍ふたたび",
+            "title_romanji": "Shenron Futatabi ",
+            "aired": "1987-09-09T00:00:00+00:00",
+            "score": 4.61,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=395581"
+        },
+        {
+            "mal_id": 79,
+            "url": "https://myanimelist.net/anime/223/Dragon_Ball/episode/79",
+            "title": "Terror and Plague",
+            "title_japanese": "金角·銀角の人食いひょうたん",
+            "title_romanji": "Kinkaku: Ginkaku no Hito Kui Hyoutan ",
+            "aired": "1987-09-16T00:00:00+00:00",
+            "score": 4.21,
+            "filler": true,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=292252"
+        },
+        {
+            "mal_id": 80,
+            "url": "https://myanimelist.net/anime/223/Dragon_Ball/episode/80",
+            "title": "Goku vs. Sky Dragon",
+            "title_japanese": "いざ御前試合！悟空ＶＳ天龍",
+            "title_romanji": "Iza Gozen Shiai! Gokuu vs Tenron ",
+            "aired": "1987-09-23T00:00:00+00:00",
+            "score": 4.06,
+            "filler": true,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=399301"
+        },
+        {
+            "mal_id": 81,
+            "url": "https://myanimelist.net/anime/223/Dragon_Ball/episode/81",
+            "title": "Goku Goes to Demon Land",
+            "title_japanese": "悟空·魔界へ行く",
+            "title_romanji": "Gokuu: Makai e Iku ",
+            "aired": "1987-09-30T00:00:00+00:00",
+            "score": 4.1,
+            "filler": true,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=400559"
+        },
+        {
+            "mal_id": 82,
+            "url": "https://myanimelist.net/anime/223/Dragon_Ball/episode/82",
+            "title": "The Rampage of InoShikaCho",
+            "title_japanese": "あばれ怪獣イノシカチョウ",
+            "title_romanji": "Abare Kaijuu Inoshi Kachou ",
+            "aired": "1987-10-07T00:00:00+00:00",
+            "score": 3.99,
+            "filler": true,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=400561"
+        },
+        {
+            "mal_id": 83,
+            "url": "https://myanimelist.net/anime/223/Dragon_Ball/episode/83",
+            "title": "Which Way to Papaya Island?",
+            "title_japanese": "いそげ悟空!天下一武道会",
+            "title_romanji": "Isoge Gokuu! Tenka-ichi Budoukai ",
+            "aired": "1987-10-14T00:00:00+00:00",
+            "score": 3.96,
+            "filler": true,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=153358"
+        },
+        {
+            "mal_id": 84,
+            "url": "https://myanimelist.net/anime/223/Dragon_Ball/episode/84",
+            "title": "Rivals and Arrivals",
+            "title_japanese": "めざせ武道天下一！！",
+            "title_romanji": "Mezase Budou Tenka-ichi!! ",
+            "aired": "1987-10-21T00:00:00+00:00",
+            "score": 4.3,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=401553"
+        },
+        {
+            "mal_id": 85,
+            "url": "https://myanimelist.net/anime/223/Dragon_Ball/episode/85",
+            "title": "Preliminary Peril",
+            "title_japanese": "勝ちのこるぞっ！！予選サバイバル",
+            "title_romanji": "Kachinokoru zo!! Yosen Survival ",
+            "aired": "1987-10-28T00:00:00+00:00",
+            "score": 4.29,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=406299"
+        },
+        {
+            "mal_id": 86,
+            "url": "https://myanimelist.net/anime/223/Dragon_Ball/episode/86",
+            "title": "Then There Were Eight",
+            "title_japanese": "決定！！８人の勇者たち",
+            "title_romanji": "Kettei!! Hachinin no Yuusha-tachi ",
+            "aired": "1987-11-04T00:00:00+00:00",
+            "score": 4.38,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=406719"
+        },
+        {
+            "mal_id": 87,
+            "url": "https://myanimelist.net/anime/223/Dragon_Ball/episode/87",
+            "title": "Yamcha vs. Tien",
+            "title_japanese": "対決！！ヤムチャＶＳ天津飯",
+            "title_romanji": "Taiketsu!! Yamucha vs Tenshinhan ",
+            "aired": "1987-11-11T00:00:00+00:00",
+            "score": 4.4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=408173"
+        },
+        {
+            "mal_id": 88,
+            "url": "https://myanimelist.net/anime/223/Dragon_Ball/episode/88",
+            "title": "Yamcha's Big Break",
+            "title_japanese": "ゆけヤムチャ！恐るべし天津飯",
+            "title_romanji": "Yuke Yamucha! Osoru Beshi Tenshinhan ",
+            "aired": "1987-11-18T00:00:00+00:00",
+            "score": 4.53,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=355271"
+        },
+        {
+            "mal_id": 89,
+            "url": "https://myanimelist.net/anime/223/Dragon_Ball/episode/89",
+            "title": "Full-Moon Vengeance",
+            "title_japanese": "恐怖!!満月の恨み",
+            "title_romanji": "Kyoufu!! Mangetsu no Urami ",
+            "aired": "1987-11-25T00:00:00+00:00",
+            "score": 4.22,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=355281"
+        },
+        {
+            "mal_id": 90,
+            "url": "https://myanimelist.net/anime/223/Dragon_Ball/episode/90",
+            "title": "The Dodon Wave",
+            "title_japanese": "なななっ!!なんと どどん波",
+            "title_romanji": "Nanana!! Nanto Dodonpa ",
+            "aired": "1987-12-02T00:00:00+00:00",
+            "score": 4.37,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=355289"
+        },
+        {
+            "mal_id": 91,
+            "url": "https://myanimelist.net/anime/223/Dragon_Ball/episode/91",
+            "title": "Counting Controversy!!",
+            "title_japanese": "逆転！！クリリンの８でんネ大作戦",
+            "title_romanji": "Gyakuten!! Kuririn no Paaden ne Daisakusen ",
+            "aired": "1987-12-09T00:00:00+00:00",
+            "score": 4.36,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=355293"
+        },
+        {
+            "mal_id": 92,
+            "url": "https://myanimelist.net/anime/223/Dragon_Ball/episode/92",
+            "title": "Goku Enters the Ring",
+            "title_japanese": "おまたせーっ！孫悟空参上！！",
+            "title_romanji": "Omatase! Son Gokuu Sanjou!! ",
+            "aired": "1987-12-16T00:00:00+00:00",
+            "score": 4.24,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=355301"
+        },
+        {
+            "mal_id": 93,
+            "url": "https://myanimelist.net/anime/223/Dragon_Ball/episode/93",
+            "title": "Tien Shinhan vs. Jackie Chun",
+            "title_japanese": "実力伯仲！！天津飯ＶＳジャッキー",
+            "title_romanji": "Jitsuryoku Hakuchuu!! Tenshinhan vs Jackie ",
+            "aired": "1987-12-23T00:00:00+00:00",
+            "score": 4.51,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=355307"
+        },
+        {
+            "mal_id": 94,
+            "url": "https://myanimelist.net/anime/223/Dragon_Ball/episode/94",
+            "title": "Stepping Down",
+            "title_japanese": "ゲゲゲッ！！新鶴仙流·太陽拳",
+            "title_romanji": "Gegege!! Shin Tsurusenryuu Taiyouken ",
+            "aired": "1987-12-30T00:00:00+00:00",
+            "score": 4.54,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=476973"
+        },
+        {
+            "mal_id": 95,
+            "url": "https://myanimelist.net/anime/223/Dragon_Ball/episode/95",
+            "title": "Goku vs. Krillin",
+            "title_japanese": "ファイト！！悟空ＶＳクリリン",
+            "title_romanji": "Fight!! Gokuu vs Kuririn ",
+            "aired": "1988-01-06T00:00:00+00:00",
+            "score": 4.48,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=476987"
+        },
+        {
+            "mal_id": 96,
+            "url": "https://myanimelist.net/anime/223/Dragon_Ball/episode/96",
+            "title": "Tail's Tale",
+            "title_japanese": "まさか悟空！？クリリンの大作戦",
+            "title_romanji": "Masa ka Gokuu!? Kuririn no Daisakusen ",
+            "aired": "1988-01-13T00:00:00+00:00",
+            "score": 4.49,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=477399"
+        },
+        {
+            "mal_id": 97,
+            "url": "https://myanimelist.net/anime/223/Dragon_Ball/episode/97",
+            "title": "Final Match: Goku vs. Tien",
+            "title_japanese": "決勝！！はたして武道天下一は！？",
+            "title_romanji": "Kesshou!! Hatashite Budou Tenka-ichi wa!? ",
+            "aired": "1988-01-20T00:00:00+00:00",
+            "score": 4.43,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=477891"
+        },
+        {
+            "mal_id": 98,
+            "url": "https://myanimelist.net/anime/223/Dragon_Ball/episode/98",
+            "title": "Victory's Edge",
+            "title_japanese": "秘技·排球拳ＶＳ戦闘パワー",
+            "title_romanji": "Higi: Haikyuuken vs Sentou Power ",
+            "aired": "1988-01-27T00:00:00+00:00",
+            "score": 4.46,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=477897"
+        },
+        {
+            "mal_id": 99,
+            "url": "https://myanimelist.net/anime/223/Dragon_Ball/episode/99",
+            "title": "Tien's Insurrection",
+            "title_japanese": "天津飯の苦悩！！",
+            "title_romanji": "Tenshinhan no Kunou!! ",
+            "aired": "1988-02-03T00:00:00+00:00",
+            "score": 4.43,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=479359"
+        },
+        {
+            "mal_id": 100,
+            "url": "https://myanimelist.net/anime/223/Dragon_Ball/episode/100",
+            "title": "The Spirit Cannon",
+            "title_japanese": "生か死か！？最後の手段",
+            "title_romanji": "Sei ka Shi ka!? Saigo no Shudan ",
+            "aired": "1988-02-10T00:00:00+00:00",
+            "score": 4.49,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=480989"
+        },
+        {
+            "mal_id": 101,
+            "url": "https://myanimelist.net/anime/223/Dragon_Ball/episode/101",
+            "title": "The Fallen",
+            "title_japanese": "武道会終了！そして…！！",
+            "title_romanji": "Budoukai Shuuryou! Soshite...!! ",
+            "aired": "1988-02-17T00:00:00+00:00",
+            "score": 4.68,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=403017"
+        },
+        {
+            "mal_id": 102,
+            "url": "https://myanimelist.net/anime/223/Dragon_Ball/episode/102",
+            "title": "Enter King Piccolo",
+            "title_japanese": "クリリンの死恐ろしき陰謀！！",
+            "title_romanji": "Kuririn no Shi Osoroshiki Inbou!! ",
+            "aired": "1988-02-24T00:00:00+00:00",
+            "score": 4.52,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=486137"
+        },
+        {
+            "mal_id": 103,
+            "url": "https://myanimelist.net/anime/223/Dragon_Ball/episode/103",
+            "title": "Tambourine Attacks!",
+            "title_japanese": "ピッコロ大魔王の恐怖！！",
+            "title_romanji": "Pikkolo Daimaou no Kyoufu!! ",
+            "aired": "1988-03-02T00:00:00+00:00",
+            "score": 4.34,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=490095"
+        },
+        {
+            "mal_id": 104,
+            "url": "https://myanimelist.net/anime/223/Dragon_Ball/episode/104",
+            "title": "Mark of the Demon",
+            "title_japanese": "よみがえれ孫悟空！！",
+            "title_romanji": "Yomigaere Son Gokuu!! ",
+            "aired": "1988-03-09T00:00:00+00:00",
+            "score": 4.24,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=490109"
+        },
+        {
+            "mal_id": 105,
+            "url": "https://myanimelist.net/anime/223/Dragon_Ball/episode/105",
+            "title": "Here Comes Yajirobe",
+            "title_japanese": "怪男児·ヤジロベー登場！！",
+            "title_romanji": "Kaidanji: Yajirobee Toujou!! ",
+            "aired": "1988-03-16T00:00:00+00:00",
+            "score": 4.4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=490117"
+        },
+        {
+            "mal_id": 106,
+            "url": "https://myanimelist.net/anime/223/Dragon_Ball/episode/106",
+            "title": "Terrible Tambourine",
+            "title_japanese": "魔獣·タンバリンがやってくる！！",
+            "title_romanji": "Majuu: Tanbarin ga Yatte Kuru!! ",
+            "aired": "1988-03-23T00:00:00+00:00",
+            "score": 4.3,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=590935"
+        },
+        {
+            "mal_id": 107,
+            "url": "https://myanimelist.net/anime/223/Dragon_Ball/episode/107",
+            "title": "Tien's Atonement",
+            "title_japanese": "孫悟空·怒り爆発！！",
+            "title_romanji": "Son Gokuu: Ikari Bakuhatsu!! ",
+            "aired": "1988-04-06T00:00:00+00:00",
+            "score": 4.28,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=492897"
+        },
+        {
+            "mal_id": 108,
+            "url": "https://myanimelist.net/anime/223/Dragon_Ball/episode/108",
+            "title": "Goku's Revenge",
+            "title_japanese": "ピッコロ大魔王降り立つ！！",
+            "title_romanji": "Pikkolo Daimaou Oritatsu!! ",
+            "aired": "1988-04-13T00:00:00+00:00",
+            "score": 4.34,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=492913"
+        },
+        {
+            "mal_id": 109,
+            "url": "https://myanimelist.net/anime/223/Dragon_Ball/episode/109",
+            "title": "Goku vs. King Piccolo",
+            "title_japanese": "孫悟空対ピッコロ大魔王",
+            "title_romanji": "Son Gokuu tai Pikkolo Daimaou ",
+            "aired": "1988-04-20T00:00:00+00:00",
+            "score": 4.41,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=492919"
+        },
+        {
+            "mal_id": 110,
+            "url": "https://myanimelist.net/anime/223/Dragon_Ball/episode/110",
+            "title": "Piccolo Closes In",
+            "title_japanese": "がんばれっ！孫悟空！！",
+            "title_romanji": "Ganbare! Son Gokuu!! ",
+            "aired": "1988-05-04T00:00:00+00:00",
+            "score": 4.45,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=495745"
+        },
+        {
+            "mal_id": 111,
+            "url": "https://myanimelist.net/anime/223/Dragon_Ball/episode/111",
+            "title": "Roshi's Gambit",
+            "title_japanese": "亀仙人の最後の魔封波！！",
+            "title_romanji": "Kame-sennin no Saigo no Mafuuba!! ",
+            "aired": "1988-05-11T00:00:00+00:00",
+            "score": 4.52,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=495755"
+        },
+        {
+            "mal_id": 112,
+            "url": "https://myanimelist.net/anime/223/Dragon_Ball/episode/112",
+            "title": "King Piccolo's Wish",
+            "title_japanese": "若がえるか！？ピッコロ大魔王",
+            "title_romanji": "Wakagaeru ka!? Pikkolo Daimaou ",
+            "aired": "1988-05-18T00:00:00+00:00",
+            "score": 4.48,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=496271"
+        },
+        {
+            "mal_id": 113,
+            "url": "https://myanimelist.net/anime/223/Dragon_Ball/episode/113",
+            "title": "Siege on Chow Castle",
+            "title_japanese": "キングキャッスルの攻防！！",
+            "title_romanji": "King Castle no Koubou!! ",
+            "aired": "1988-05-25T00:00:00+00:00",
+            "score": 4.36,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=496897"
+        },
+        {
+            "mal_id": 114,
+            "url": "https://myanimelist.net/anime/223/Dragon_Ball/episode/114",
+            "title": "Conquest and Power",
+            "title_japanese": "悟空のねがい！！カリン様もなやむ",
+            "title_romanji": "Gokuu no Negai!! Karin-sama mo Nayamu ",
+            "aired": "1988-06-01T00:00:00+00:00",
+            "score": 4.42,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=403431"
+        },
+        {
+            "mal_id": 115,
+            "url": "https://myanimelist.net/anime/223/Dragon_Ball/episode/115",
+            "title": "Awaken Darkness",
+            "title_japanese": "手に入れろ！謎の超神水",
+            "title_romanji": "Te ni Irero! Nazo no Choushinsui ",
+            "aired": "1988-06-08T00:00:00+00:00",
+            "score": 4.09,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=351417"
+        },
+        {
+            "mal_id": 116,
+            "url": "https://myanimelist.net/anime/223/Dragon_Ball/episode/116",
+            "title": "A Taste of Destiny",
+            "title_japanese": "生きていた亀仙人！？",
+            "title_romanji": "Ikite Ita Kame-sennin!? ",
+            "aired": "1988-06-22T00:00:00+00:00",
+            "score": 4.3,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=351435"
+        },
+        {
+            "mal_id": 117,
+            "url": "https://myanimelist.net/anime/223/Dragon_Ball/episode/117",
+            "title": "The Ultimate Sacrifice",
+            "title_japanese": "孫悟空ついに発進！！",
+            "title_romanji": "Son Gokuu Tsui ni Hasshin!! ",
+            "aired": "1988-06-29T00:00:00+00:00",
+            "score": 4.42,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=351439"
+        },
+        {
+            "mal_id": 118,
+            "url": "https://myanimelist.net/anime/223/Dragon_Ball/episode/118",
+            "title": "Prelude to Vengeance",
+            "title_japanese": "天津飯の決意！！",
+            "title_romanji": "Tenshinhan no Ketsui!! ",
+            "aired": "1988-07-06T00:00:00+00:00",
+            "score": 4.22,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=351451"
+        },
+        {
+            "mal_id": 119,
+            "url": "https://myanimelist.net/anime/223/Dragon_Ball/episode/119",
+            "title": "Battle Cry",
+            "title_japanese": "きまるか！？伝説の魔封波",
+            "title_romanji": "Kimaru ka!? Densetsu no Mafuuba ",
+            "aired": "1988-07-20T00:00:00+00:00",
+            "score": 4.55,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=351455"
+        },
+        {
+            "mal_id": 120,
+            "url": "https://myanimelist.net/anime/223/Dragon_Ball/episode/120",
+            "title": "Goku Strikes Back",
+            "title_japanese": "悟空·怒りのフルパワー！！",
+            "title_romanji": "Gokuu: Ikari no Furu Power!! ",
+            "aired": "1988-07-27T00:00:00+00:00",
+            "score": 4.45,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=351525"
+        },
+        {
+            "mal_id": 121,
+            "url": "https://myanimelist.net/anime/223/Dragon_Ball/episode/121",
+            "title": "The Biggest Crisis",
+            "title_japanese": "孫悟空最大の危機！！",
+            "title_romanji": "Son Gokuu Saidai no Kiki!! ",
+            "aired": "1988-08-03T00:00:00+00:00",
+            "score": 4.51,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=351527"
+        },
+        {
+            "mal_id": 122,
+            "url": "https://myanimelist.net/anime/223/Dragon_Ball/episode/122",
+            "title": "Final Showdown",
+            "title_japanese": "最後の賭け！！",
+            "title_romanji": "Saigo no Kake!! ",
+            "aired": "1988-08-10T00:00:00+00:00",
+            "score": 4.73,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=351531"
+        },
+        {
+            "mal_id": 123,
+            "url": "https://myanimelist.net/anime/223/Dragon_Ball/episode/123",
+            "title": "Lost and Found",
+            "title_japanese": "如意棒の秘密",
+            "title_romanji": "Nyoibou no Himitsu ",
+            "aired": "1988-08-17T00:00:00+00:00",
+            "score": 4.53,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=351537"
+        },
+        {
+            "mal_id": 124,
+            "url": "https://myanimelist.net/anime/223/Dragon_Ball/episode/124",
+            "title": "Temple Above the Clouds ",
+            "title_japanese": "雲の上の神殿",
+            "title_romanji": "Kumo no Ue no Shinden ",
+            "aired": "1988-08-24T00:00:00+00:00",
+            "score": 4.42,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=351627"
+        },
+        {
+            "mal_id": 125,
+            "url": "https://myanimelist.net/anime/223/Dragon_Ball/episode/125",
+            "title": "Earth's Guardian Emerges",
+            "title_japanese": "神様登場！！",
+            "title_romanji": "Kami-sama Toujou!! ",
+            "aired": "1988-08-31T00:00:00+00:00",
+            "score": 4.65,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=351659"
+        },
+        {
+            "mal_id": 126,
+            "url": "https://myanimelist.net/anime/223/Dragon_Ball/episode/126",
+            "title": "Eternal Dragon Resurrected",
+            "title_japanese": "よみがえる神龍！！",
+            "title_romanji": "Yomigaeru Shenron!! ",
+            "aired": "1988-09-14T00:00:00+00:00",
+            "score": 4.49,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=351669"
+        },
+        {
+            "mal_id": 127,
+            "url": "https://myanimelist.net/anime/223/Dragon_Ball/episode/127",
+            "title": "Quicker than Lightning",
+            "title_japanese": "カミナリよりも速く！！",
+            "title_romanji": "Kaminari yori mo Hayaku!! ",
+            "aired": "1988-09-21T00:00:00+00:00",
+            "score": 4.24,
+            "filler": true,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=351727"
+        },
+        {
+            "mal_id": 128,
+            "url": "https://myanimelist.net/anime/223/Dragon_Ball/episode/128",
+            "title": "Secret of the Woods",
+            "title_japanese": "空のように静かに",
+            "title_romanji": "Sora no you ni Shizuka ni ",
+            "aired": "1988-09-28T00:00:00+00:00",
+            "score": 4.04,
+            "filler": true,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=351731"
+        },
+        {
+            "mal_id": 129,
+            "url": "https://myanimelist.net/anime/223/Dragon_Ball/episode/129",
+            "title": "The Time Room",
+            "title_japanese": "時をかける悟空",
+            "title_romanji": "Toki wo Kakeru Gokuu ",
+            "aired": "1988-10-12T00:00:00+00:00",
+            "score": 4.36,
+            "filler": true,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=351739"
+        },
+        {
+            "mal_id": 130,
+            "url": "https://myanimelist.net/anime/223/Dragon_Ball/episode/130",
+            "title": "Goku's Doll",
+            "title_japanese": "悟空の敵は…悟空！？",
+            "title_romanji": "Gokuu no Teki wa...Gokuu!? ",
+            "aired": "1988-10-19T00:00:00+00:00",
+            "score": 4.23,
+            "filler": true,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=351765"
+        },
+        {
+            "mal_id": 131,
+            "url": "https://myanimelist.net/anime/223/Dragon_Ball/episode/131",
+            "title": "Walking Their Own Ways",
+            "title_japanese": "それぞれの道をめざして",
+            "title_romanji": "Sorezore no Michi wo Mezashite ",
+            "aired": "1988-10-26T00:00:00+00:00",
+            "score": 3.86,
+            "filler": true,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=351791"
+        },
+        {
+            "mal_id": 132,
+            "url": "https://myanimelist.net/anime/223/Dragon_Ball/episode/132",
+            "title": "Hotter than Lava",
+            "title_japanese": "マグマより熱く",
+            "title_romanji": "Maguma yori Atsuku ",
+            "aired": "1988-11-02T00:00:00+00:00",
+            "score": 3.8,
+            "filler": true,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=351865"
+        },
+        {
+            "mal_id": 133,
+            "url": "https://myanimelist.net/anime/223/Dragon_Ball/episode/133",
+            "title": "Changes",
+            "title_japanese": "嵐の前の再会",
+            "title_romanji": "Arashi no Mae no Saikai ",
+            "aired": "1988-11-09T00:00:00+00:00",
+            "score": 4.68,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=351867"
+        },
+        {
+            "mal_id": 134,
+            "url": "https://myanimelist.net/anime/223/Dragon_Ball/episode/134",
+            "title": "Preliminary Peril",
+            "title_japanese": "波乱の天下一武道会",
+            "title_romanji": "Haran no Tenka-ichi Budoukai ",
+            "aired": "1988-11-16T00:00:00+00:00",
+            "score": 4.59,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=351943"
+        },
+        {
+            "mal_id": 135,
+            "url": "https://myanimelist.net/anime/223/Dragon_Ball/episode/135",
+            "title": "Battle of the Eight",
+            "title_japanese": "選ばれた８人",
+            "title_romanji": "Erabareta Hachinin ",
+            "aired": "1988-11-23T00:00:00+00:00",
+            "score": 4.49,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=352013"
+        },
+        {
+            "mal_id": 136,
+            "url": "https://myanimelist.net/anime/223/Dragon_Ball/episode/136",
+            "title": "Tien Shinhan vs. Mercenary Tao",
+            "title_japanese": "殺し屋桃白白の逆襲",
+            "title_romanji": "Koroshiya Taopaipai no Gyakushuu ",
+            "aired": "1988-11-30T00:00:00+00:00",
+            "score": 4.61,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=352673"
+        },
+        {
+            "mal_id": 137,
+            "url": "https://myanimelist.net/anime/223/Dragon_Ball/episode/137",
+            "title": "Anonymous Proposal",
+            "title_japanese": "孫悟空の結婚",
+            "title_romanji": "Son Gokuu no Kekkon ",
+            "aired": "1988-12-07T00:00:00+00:00",
+            "score": 4.66,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=352689"
+        },
+        {
+            "mal_id": 138,
+            "url": "https://myanimelist.net/anime/223/Dragon_Ball/episode/138",
+            "title": "The Mysterious Hero",
+            "title_japanese": "謎の男·シェン",
+            "title_romanji": "Nazo no Otoko, Shen ",
+            "aired": "1988-12-14T00:00:00+00:00",
+            "score": 4.46,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=352699"
+        },
+        {
+            "mal_id": 139,
+            "url": "https://myanimelist.net/anime/223/Dragon_Ball/episode/139",
+            "title": "Rematch",
+            "title_japanese": "激闘ふたたび！悟空ＶＳ天津飯",
+            "title_romanji": "Gekitou Futatabi! Gokuu vs Tienshinhan ",
+            "aired": "1988-12-21T00:00:00+00:00",
+            "score": 4.65,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=352701"
+        },
+        {
+            "mal_id": 140,
+            "url": "https://myanimelist.net/anime/223/Dragon_Ball/episode/140",
+            "title": "Goku Gains Speed",
+            "title_japanese": "ほんとうの力",
+            "title_romanji": "Hontou no Chikara ",
+            "aired": "1989-01-11T00:00:00+00:00",
+            "score": 4.56,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=352735"
+        },
+        {
+            "mal_id": 141,
+            "url": "https://myanimelist.net/anime/223/Dragon_Ball/episode/141",
+            "title": "The Four Faces of Tien",
+            "title_japanese": "四人の天津飯",
+            "title_romanji": "Yonin no Tenshinhan ",
+            "aired": "1989-01-18T00:00:00+00:00",
+            "score": 4.55,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=7003"
+        },
+        {
+            "mal_id": 142,
+            "url": "https://myanimelist.net/anime/223/Dragon_Ball/episode/142",
+            "title": "Kami vs. Piccolo",
+            "title_japanese": "どっちが強い！？神ＶＳピッコロ大魔王",
+            "title_romanji": "Docchi ga Tsuyoi!? Kami vs Pikkolo Daimaou ",
+            "aired": "1989-01-25T00:00:00+00:00",
+            "score": 4.61,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=352917"
+        },
+        {
+            "mal_id": 143,
+            "url": "https://myanimelist.net/anime/223/Dragon_Ball/episode/143",
+            "title": "Battle for the Future",
+            "title_japanese": "この世の運命を賭けて！",
+            "title_romanji": "Kono Yo no Unmei wo Kakete! ",
+            "aired": "1989-02-01T00:00:00+00:00",
+            "score": 4.61,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=352949"
+        },
+        {
+            "mal_id": 144,
+            "url": "https://myanimelist.net/anime/223/Dragon_Ball/episode/144",
+            "title": "Super Kamehameha",
+            "title_japanese": "でた！究極の超カメハメ波",
+            "title_romanji": "Deta! Kyuukyoku no Chou Kamehameha ",
+            "aired": "1989-02-08T00:00:00+00:00",
+            "score": 4.59,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=352951"
+        },
+        {
+            "mal_id": 145,
+            "url": "https://myanimelist.net/anime/223/Dragon_Ball/episode/145",
+            "title": "Junior No More",
+            "title_japanese": "ピッコロ大魔王超巨身術",
+            "title_romanji": "Pikkolo Daimaou Choukyoshinjutsu ",
+            "aired": "1989-02-15T00:00:00+00:00",
+            "score": 4.48,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=352967"
+        },
+        {
+            "mal_id": 146,
+            "url": "https://myanimelist.net/anime/223/Dragon_Ball/episode/146",
+            "title": "Goku's Trap",
+            "title_japanese": "孫悟空のワナ",
+            "title_romanji": "Son Gokuu no Wana ",
+            "aired": "1989-02-22T00:00:00+00:00",
+            "score": 4.49,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=353003"
+        },
+        {
+            "mal_id": 147,
+            "url": "https://myanimelist.net/anime/223/Dragon_Ball/episode/147",
+            "title": "Goku Hangs On",
+            "title_japanese": "万事休す！！",
+            "title_romanji": "Banji Kyuusu!! ",
+            "aired": "1989-03-01T00:00:00+00:00",
+            "score": 4.68,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=353025"
+        },
+        {
+            "mal_id": 148,
+            "url": "https://myanimelist.net/anime/223/Dragon_Ball/episode/148",
+            "title": "The Victor",
+            "title_japanese": "やった！地球上最強の男",
+            "title_romanji": "Yatta! Chikyuujou Saikyou no Otoko ",
+            "aired": "1989-03-08T00:00:00+00:00",
+            "score": 4.72,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=353035"
+        },
+        {
+            "mal_id": 149,
+            "url": "https://myanimelist.net/anime/223/Dragon_Ball/episode/149",
+            "title": "Dress in Flames",
+            "title_japanese": "炎の中のウエディングドレス",
+            "title_romanji": "Honou no Naka no Wedding Dress ",
+            "aired": "1989-03-15T00:00:00+00:00",
+            "score": 4,
+            "filler": true,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=353037"
+        },
+        {
+            "mal_id": 150,
+            "url": "https://myanimelist.net/anime/223/Dragon_Ball/episode/150",
+            "title": "The Fire-Eater",
+            "title_japanese": "幻の火喰い鳥",
+            "title_romanji": "Maboroshi no Hi Kui Dori ",
+            "aired": "1989-03-22T00:00:00+00:00",
+            "score": 4.11,
+            "filler": true,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=353041"
+        },
+        {
+            "mal_id": 151,
+            "url": "https://myanimelist.net/anime/223/Dragon_Ball/episode/151",
+            "title": "Outrageous Octagon",
+            "title_japanese": "チチの花嫁修業のおかげです",
+            "title_romanji": "Chichi no Hanayome Shugyou no Okage Desu ",
+            "aired": "1989-04-05T00:00:00+00:00",
+            "score": 4.07,
+            "filler": true,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=353051"
+        },
+        {
+            "mal_id": 152,
+            "url": "https://myanimelist.net/anime/223/Dragon_Ball/episode/152",
+            "title": "Mystery of the Dark World",
+            "title_japanese": "いそげ悟空！五行山のなぞ",
+            "title_romanji": "Isoge Gokuu! Gogyouzan no Nazo ",
+            "aired": "1989-04-12T00:00:00+00:00",
+            "score": 4.18,
+            "filler": true,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=353063"
+        },
+        {
+            "mal_id": 153,
+            "url": "https://myanimelist.net/anime/223/Dragon_Ball/episode/153",
+            "title": "The End, the Beginning",
+            "title_japanese": "燃えるフライパン山！一瞬の決死行",
+            "title_romanji": "Moeru Frypan Yama! Isshun no Kesshikou ",
+            "aired": "1989-04-19T00:00:00+00:00",
+            "score": 4.35,
+            "filler": true,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=353067"
+        }
+    ]
+}

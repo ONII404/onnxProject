@@ -1,0 +1,180 @@
+{
+    "id": 3201,
+    "fetched_at": "Sun Dec 14 08:21:00 2025",
+    "metadata": {
+        "mal_id": 3201,
+        "url": "https://myanimelist.net/anime/3201/Pure-tou_no_Nakama-tachi",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/12/47013.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/12/47013t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/12/47013l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/12/47013.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/12/47013t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/12/47013l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Pure-tou no Nakama-tachi"
+            },
+            {
+                "type": "Synonym",
+                "title": "Serendipity Monogatari: Pyuatou no Nakamatachi"
+            },
+            {
+                "type": "Japanese",
+                "title": "セレンディピティ物語 ピュア島の仲間たち"
+            },
+            {
+                "type": "English",
+                "title": "Serendipity the Pink Dragon"
+            }
+        ],
+        "title": "Pure-tou no Nakama-tachi",
+        "title_english": "Serendipity the Pink Dragon",
+        "title_japanese": "セレンディピティ物語 ピュア島の仲間たち",
+        "title_synonyms": [
+            "Serendipity Monogatari: Pyuatou no Nakamatachi"
+        ],
+        "type": "TV",
+        "source": "Picture book",
+        "episodes": 26,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "1983-07-01T00:00:00+00:00",
+            "to": "1983-12-23T00:00:00+00:00",
+            "prop": {
+                "from": {
+                    "day": 1,
+                    "month": 7,
+                    "year": 1983
+                },
+                "to": {
+                    "day": 23,
+                    "month": 12,
+                    "year": 1983
+                }
+            },
+            "string": "Jul 1, 1983 to Dec 23, 1983"
+        },
+        "duration": "22 min per ep",
+        "rating": "G - All Ages",
+        "score": 6.35,
+        "scored_by": 687,
+        "rank": 8260,
+        "popularity": 13478,
+        "members": 1449,
+        "favorites": 3,
+        "synopsis": "Kona is a boy who has a friend: a pink dragon named Serendipity with a kind nature. They want to stop the evil captain who tries steal gold from their peaceful island.",
+        "background": "",
+        "season": "summer",
+        "year": 1983,
+        "broadcast": {
+            "day": null,
+            "time": null,
+            "timezone": null,
+            "string": "Unknown"
+        },
+        "producers": [],
+        "licensors": [],
+        "studios": [],
+        "genres": [
+            {
+                "mal_id": 10,
+                "type": "anime",
+                "name": "Fantasy",
+                "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [],
+        "demographics": [
+            {
+                "mal_id": 15,
+                "type": "anime",
+                "name": "Kids",
+                "url": "https://myanimelist.net/anime/genre/15/Kids"
+            }
+        ],
+        "relations": [],
+        "theme": {
+            "openings": [
+                "\"ピュア島の仲間たち (Pyua-tou no Nakama-tachi)\" by Megumi Hara"
+            ],
+            "endings": [
+                "\"青い海のＢＥＧＩN (Aoi umi no BEGIN)\" by Shoko Sano"
+            ]
+        },
+        "external": [
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=4200"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=1396"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "http://en.wikipedia.org/wiki/Serendipity_the_Pink_Dragon"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": [
+        {
+            "mal_id": 1,
+            "url": null,
+            "title": "Born on a Gentle Beach",
+            "title_japanese": "優しの浜辺で誕生",
+            "title_romanji": null,
+            "aired": "1983-07-01T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 2,
+            "url": null,
+            "title": "Queen of Pure Island",
+            "title_japanese": "ピュア島の女王",
+            "title_romanji": null,
+            "aired": "1983-07-08T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 3,
+            "url": null,
+            "title": "Sea of Fairies",
+            "title_japanese": "妖精たちの海",
+            "title_romanji": null,
+            "aired": "1983-07-15T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        }
+    ]
+}

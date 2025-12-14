@@ -1,0 +1,138 @@
+{
+    "id": 30075,
+    "fetched_at": "Sun Dec 14 10:40:58 2025",
+    "metadata": {
+        "mal_id": 30075,
+        "url": "https://myanimelist.net/anime/30075/Yuki_no_Hi_no_Tayori",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/6/72056.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/6/72056t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/6/72056l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/6/72056.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/6/72056t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/6/72056l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Yuki no Hi no Tayori"
+            },
+            {
+                "type": "Synonym",
+                "title": "Minna no Uta"
+            },
+            {
+                "type": "Japanese",
+                "title": "雪の日のたより"
+            }
+        ],
+        "title": "Yuki no Hi no Tayori",
+        "title_english": null,
+        "title_japanese": "雪の日のたより",
+        "title_synonyms": [
+            "Minna no Uta"
+        ],
+        "type": "Music",
+        "source": "Original",
+        "episodes": 1,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "1978-02-04T00:00:00+00:00",
+            "to": null,
+            "prop": {
+                "from": {
+                    "day": 4,
+                    "month": 2,
+                    "year": 1978
+                },
+                "to": {
+                    "day": null,
+                    "month": null,
+                    "year": null
+                }
+            },
+            "string": "Feb 4, 1978"
+        },
+        "duration": "2 min",
+        "rating": "G - All Ages",
+        "score": 5.23,
+        "scored_by": 339,
+        "rank": null,
+        "popularity": 16872,
+        "members": 619,
+        "favorites": 1,
+        "synopsis": "A music video for the song by Youko Yoda that was featured on NHK's Minna no Uta program.\n\nA little girl reminisces in winter of what spring will bring.",
+        "background": "",
+        "season": null,
+        "year": null,
+        "broadcast": {
+            "day": null,
+            "time": null,
+            "timezone": null,
+            "string": null
+        },
+        "producers": [
+            {
+                "mal_id": 111,
+                "type": "anime",
+                "name": "NHK",
+                "url": "https://myanimelist.net/anime/producer/111/NHK"
+            }
+        ],
+        "licensors": [],
+        "studios": [],
+        "genres": [],
+        "explicit_genres": [],
+        "themes": [
+            {
+                "mal_id": 19,
+                "type": "anime",
+                "name": "Music",
+                "url": "https://myanimelist.net/anime/genre/19/Music"
+            }
+        ],
+        "demographics": [
+            {
+                "mal_id": 15,
+                "type": "anime",
+                "name": "Kids",
+                "url": "https://myanimelist.net/anime/genre/15/Kids"
+            }
+        ],
+        "relations": [],
+        "theme": {
+            "openings": [],
+            "endings": []
+        },
+        "external": [
+            {
+                "name": "Official Site",
+                "url": "https://www.nhk.or.jp/minna/songs/MIN197802_04/"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "http://ja.wikipedia.org/wiki/%E5%B2%A1%E6%9C%AC%E5%BF%A0%E6%88%90"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": []
+}

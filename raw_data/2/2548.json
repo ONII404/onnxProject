@@ -1,0 +1,774 @@
+{
+    "id": 2548,
+    "fetched_at": "Sun Dec 14 07:26:20 2025",
+    "metadata": {
+        "mal_id": 2548,
+        "url": "https://myanimelist.net/anime/2548/Ai_no_Wakakusa_Monogatari",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/2/3210.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/2/3210t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/2/3210l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/2/3210.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/2/3210t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/2/3210l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Ai no Wakakusa Monogatari"
+            },
+            {
+                "type": "Synonym",
+                "title": "Sekai Meisaku Gekijou"
+            },
+            {
+                "type": "Japanese",
+                "title": "愛の若草物語"
+            },
+            {
+                "type": "English",
+                "title": "Tales of Little Women"
+            }
+        ],
+        "title": "Ai no Wakakusa Monogatari",
+        "title_english": "Tales of Little Women",
+        "title_japanese": "愛の若草物語",
+        "title_synonyms": [
+            "Sekai Meisaku Gekijou"
+        ],
+        "type": "TV",
+        "source": "Novel",
+        "episodes": 48,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "1987-01-11T00:00:00+00:00",
+            "to": "1987-12-27T00:00:00+00:00",
+            "prop": {
+                "from": {
+                    "day": 11,
+                    "month": 1,
+                    "year": 1987
+                },
+                "to": {
+                    "day": 27,
+                    "month": 12,
+                    "year": 1987
+                }
+            },
+            "string": "Jan 11, 1987 to Dec 27, 1987"
+        },
+        "duration": "24 min per ep",
+        "rating": "G - All Ages",
+        "score": 7.39,
+        "scored_by": 3819,
+        "rank": 2509,
+        "popularity": 6914,
+        "members": 10558,
+        "favorites": 45,
+        "synopsis": "Meg, faithful and gentle, Jo, independent and energetic, Beth, quiet and shy, Amy, amiable and precocious–the four sisters live vigorously and happily at home with their gentle mother while waiting for their father to return from the Civil War. Helping each other, they challenge their fates and grow up to become wonderful women.",
+        "background": "Tales of Little Women originally aired in 1987 as one of Nippon Animation's World Masterpiece Theater programs. Many staffers from Studio Ghibli such as Yoshifumi Kondo were involved in multiple production positions. Tales of Little Women was licensed and dubbed by Saban Entertainment, and broadcasted on HBO in 1988 in North America. This made it one of only three World Masterpiece Theater programs to be dubbed in English.",
+        "season": "winter",
+        "year": 1987,
+        "broadcast": {
+            "day": "Sundays",
+            "time": "19:30",
+            "timezone": "Asia/Tokyo",
+            "string": "Sundays at 19:30 (JST)"
+        },
+        "producers": [],
+        "licensors": [
+            {
+                "mal_id": 841,
+                "type": "anime",
+                "name": "Saban Entertainment",
+                "url": "https://myanimelist.net/anime/producer/841/Saban_Entertainment"
+            }
+        ],
+        "studios": [
+            {
+                "mal_id": 22,
+                "type": "anime",
+                "name": "Nippon Animation",
+                "url": "https://myanimelist.net/anime/producer/22/Nippon_Animation"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 8,
+                "type": "anime",
+                "name": "Drama",
+                "url": "https://myanimelist.net/anime/genre/8/Drama"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [
+            {
+                "mal_id": 13,
+                "type": "anime",
+                "name": "Historical",
+                "url": "https://myanimelist.net/anime/genre/13/Historical"
+            }
+        ],
+        "demographics": [],
+        "relations": [
+            {
+                "relation": "Sequel",
+                "entry": [
+                    {
+                        "mal_id": 2558,
+                        "type": "anime",
+                        "name": "Wakakusa Monogatari: Nan to Jo-sensei",
+                        "url": "https://myanimelist.net/anime/2558/Wakakusa_Monogatari__Nan_to_Jo-sensei"
+                    }
+                ]
+            },
+            {
+                "relation": "Summary",
+                "entry": [
+                    {
+                        "mal_id": 15607,
+                        "type": "anime",
+                        "name": "Ai no Wakakusa Monogatari Specials",
+                        "url": "https://myanimelist.net/anime/15607/Ai_no_Wakakusa_Monogatari_Specials"
+                    }
+                ]
+            },
+            {
+                "relation": "Alternative Version",
+                "entry": [
+                    {
+                        "mal_id": 4132,
+                        "type": "anime",
+                        "name": "Wakakusa no Yon Shimai",
+                        "url": "https://myanimelist.net/anime/4132/Wakakusa_no_Yon_Shimai"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [
+                "1: \"Wakakusa no Shoutaijou (若草の招待状)\" by Eri Nitta (eps 01-14)",
+                "2: \"Itsuka Kitto! (いつかきっと!)\" by Mayumi Shou, Keiko Han, Eiko Yamada, Rei Sakuma (eps 15-48)"
+            ],
+            "endings": [
+                "1: \"Sekiyou to Kaze to Melody (夕陽と風とメロディ)\" by Eri Nitta (eps 01-14)",
+                "2: \"Otou-sama e no Lullaby (お父さまへのララバイ)\" by Satoko Shimonari (eps 15-48)"
+            ]
+        },
+        "external": [
+            {
+                "name": "Official Site",
+                "url": "http://www.nipponanimation.com/catalogue/054/"
+            },
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=2290"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=801"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "http://en.wikipedia.org/wiki/Little_Women_%281987_TV_series%29"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": [
+        {
+            "mal_id": 1,
+            "url": null,
+            "title": "Papa Came Home!!",
+            "title_japanese": "パパが帰って来た！！",
+            "title_romanji": "Papa ga Kaette Kita! ",
+            "aired": "1987-01-11T00:00:00+00:00",
+            "score": 3.57,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1814283"
+        },
+        {
+            "mal_id": 2,
+            "url": null,
+            "title": "Milky Ann Has Been Found",
+            "title_japanese": "ミルキー・アンを拾った",
+            "title_romanji": "Milky Anne wo Hirotta ",
+            "aired": "1987-01-18T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 3,
+            "url": null,
+            "title": "Watch Out! Escape Quickly!!",
+            "title_japanese": "あぶない！早く逃げて！！",
+            "title_romanji": "Abunai! Hayaku Nigete! ",
+            "aired": "1987-01-25T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 4,
+            "url": null,
+            "title": "The Battle Begins!",
+            "title_japanese": "戦争がはじまる！",
+            "title_romanji": "Sensou ga Hajimaru! ",
+            "aired": "1987-02-01T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 5,
+            "url": null,
+            "title": "The Town Burns Down!",
+            "title_japanese": "町が燃えてしまう！",
+            "title_romanji": "Machi ga Moete Shimau! ",
+            "aired": "1987-02-08T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 6,
+            "url": null,
+            "title": "Goodbye Hometown!",
+            "title_japanese": "さよなら ふるさと！",
+            "title_romanji": "Sayonara Furusato! ",
+            "aired": "1987-02-15T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2228669"
+        },
+        {
+            "mal_id": 7,
+            "url": null,
+            "title": "Auntie is Ill-Tempered!",
+            "title_japanese": "おば様はいじわる！",
+            "title_romanji": "Oba-sama wa Ijiwaru ",
+            "aired": "1987-02-22T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 8,
+            "url": null,
+            "title": "A Loan for a House, Please!",
+            "title_japanese": "お家を貸して下さい！",
+            "title_romanji": "Ouchi wo Kashite Kudasai! ",
+            "aired": "1987-03-01T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 9,
+            "url": null,
+            "title": "Short-Tempered Jo!",
+            "title_japanese": "怒りん坊のジョオ！",
+            "title_romanji": "Okorinbou no Jo! ",
+            "aired": "1987-03-08T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 10,
+            "url": null,
+            "title": "Praise and Critiques",
+            "title_japanese": "ほめられて けなされて",
+            "title_romanji": "Homerarete Kenasarete ",
+            "aired": "1987-03-15T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2208378"
+        },
+        {
+            "mal_id": 11,
+            "url": null,
+            "title": "Aunt Martha is Pitiful!",
+            "title_japanese": "マーサおば様はお気の毒！",
+            "title_romanji": "Martha Oba-sama wa Okinodoku! ",
+            "aired": "1987-03-22T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 12,
+            "url": null,
+            "title": "I Hate Thunder!",
+            "title_japanese": "雷なんて大嫌い！",
+            "title_romanji": "Kaminari Nante Daikirai! ",
+            "aired": "1987-03-29T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 13,
+            "url": null,
+            "title": "Our Strange House",
+            "title_japanese": "私たちの変な家",
+            "title_romanji": "Watashi-tachi no Hen na Ie ",
+            "aired": "1987-04-05T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 14,
+            "url": null,
+            "title": "Amy and Bad Friends",
+            "title_japanese": "エイミーと悪い友だち",
+            "title_romanji": "Amy to Warui Tomodachi ",
+            "aired": "1987-04-12T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 15,
+            "url": null,
+            "title": "The Strange Boy Next Door!",
+            "title_japanese": "お隣からのぞく不思議な少年！",
+            "title_romanji": "Otonari kara Nozoku Fushigi na Shounen ",
+            "aired": "1987-04-19T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 16,
+            "url": null,
+            "title": "Terrible! Meg is Not a Thief!!",
+            "title_japanese": "ひどい！メグは泥棒なんかじゃない！！",
+            "title_romanji": "Hidoi! Meg wa Dorobou Nanka ja Nai!! ",
+            "aired": "1987-04-26T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 17,
+            "url": null,
+            "title": "Jo and President Lincoln's Speech!",
+            "title_japanese": "ジョオとリンカーン大統領の演説！",
+            "title_romanji": "Jo to Lincoln Daitouryou no Enzetsu ",
+            "aired": "1987-05-03T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 18,
+            "url": null,
+            "title": "Meg and Jo's Debut at the Ball!?",
+            "title_japanese": "メグとジョオ舞踏会にデビュー！？",
+            "title_romanji": "Meg to Jo Butoukai ni Debut ",
+            "aired": "1987-05-10T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 19,
+            "url": null,
+            "title": "The Burnt Dress and the Nice Gentleman",
+            "title_japanese": "おこげドレスと素敵な紳士",
+            "title_romanji": "Okoge Dress to Suteki na Shinshi ",
+            "aired": "1987-05-17T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 20,
+            "url": null,
+            "title": "Vigorous Jo's Visit!",
+            "title_japanese": "ジョオのお見舞いは元気いっぱい！",
+            "title_romanji": "Jo no Omimai wa Genki Ippai! ",
+            "aired": "1987-05-24T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 21,
+            "url": null,
+            "title": "Announcement! Jo's Enthusiastic Work of Self-Confidence",
+            "title_japanese": "発表！はりきりジョオの自信作",
+            "title_romanji": "Happyou! Harikiri Jo no Jishin Saku ",
+            "aired": "1987-05-31T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 22,
+            "url": null,
+            "title": "A Hungry Christmas",
+            "title_japanese": "おなかのすいたクリスマス",
+            "title_romanji": "Onaka no Suita Christmas ",
+            "aired": "1987-06-07T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 23,
+            "url": null,
+            "title": "Beth! The Great Joy of an Unexpected Gift!!",
+            "title_japanese": "ベス！思いがけない贈物に大喜び！！",
+            "title_romanji": "Beth! Omoigakenai Okurimono ni Ooyorokobi!! ",
+            "aired": "1987-06-14T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 24,
+            "url": null,
+            "title": "The Beginning of Meg's Little Love?",
+            "title_japanese": "メグの小さな恋のはじまり？",
+            "title_romanji": "Meg no Chiisana Koi no Hajimari? ",
+            "aired": "1987-06-21T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 25,
+            "url": null,
+            "title": "Novelist Jo's $2 Masterpiece!",
+            "title_japanese": "小説家ジョオの２ドルの傑作！",
+            "title_romanji": "Shousetsuka Jo no 2$ no Kessaku ",
+            "aired": "1987-06-28T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 26,
+            "url": null,
+            "title": "Shy Beth and the Old Gentleman Next Door",
+            "title_japanese": "怖がりベスとお隣の老紳士",
+            "title_romanji": "Kowagari Beth to Otonari no Roushinshi ",
+            "aired": "1987-07-05T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 27,
+            "url": null,
+            "title": "Amy is Punished at School!",
+            "title_japanese": "学校でお仕置されたエイミー！",
+            "title_romanji": "Gakkou de Oshiokisareata Amy! ",
+            "aired": "1987-07-12T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 28,
+            "url": null,
+            "title": "Amy! What Are You Doing!",
+            "title_japanese": "エイミー！なんてことするの！",
+            "title_romanji": "Amy! Nante Koto Suru no! ",
+            "aired": "1987-08-02T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 29,
+            "url": null,
+            "title": "Don't Die! Amy Has Fallen in the River!",
+            "title_japanese": "死なないで！エイミーが川に落ちた!",
+            "title_romanji": "Shinanaide! Amy ga Kawa ni Ochita! ",
+            "aired": "1987-08-09T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 30,
+            "url": null,
+            "title": "I Wish I Could Say I'm Sorry!",
+            "title_japanese": "ゴメンねと言えたらいいのに!",
+            "title_romanji": "Gomenne to Iietara Ii no ni! ",
+            "aired": "1987-08-16T00:00:00+00:00",
+            "score": 1,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2209703"
+        },
+        {
+            "mal_id": 31,
+            "url": null,
+            "title": "Meg is Not a Doll!",
+            "title_japanese": "メグはきせかえ人形じゃない！",
+            "title_romanji": "Meg wa Kisekae Ningyou ja Nai! ",
+            "aired": "1987-08-30T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 32,
+            "url": null,
+            "title": "Aunt Martha is a Worrywart",
+            "title_japanese": "困ったマーサおばさんの性格",
+            "title_romanji": "Komata Martha Oba-san no Seikaku ",
+            "aired": "1987-09-06T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 33,
+            "url": null,
+            "title": "A Fun, Fun Outdoor Party!",
+            "title_japanese": "楽しい楽しい野外パーティだ！",
+            "title_romanji": "Tanoshii Tanoshii Yagai Party Da! ",
+            "aired": "1987-09-13T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 34,
+            "url": null,
+            "title": "Amy Had a Bad Dream!",
+            "title_japanese": "エイミーは悪い夢を見た！",
+            "title_romanji": "Amy wa Warui Yume wo Mita! ",
+            "aired": "1987-09-20T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 35,
+            "url": null,
+            "title": "Meg, So That's Love!!",
+            "title_japanese": "メグ、それはやっぱり恋なのよ！！",
+            "title_romanji": "Meg, Sore wa Yappari Koi na no yo!! ",
+            "aired": "1987-09-27T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 36,
+            "url": null,
+            "title": "Jo's Story is in the Newspaper!",
+            "title_japanese": "ジョオの小説が新聞にのった！",
+            "title_romanji": "Jo no Shousetsu ga Shinbun ni Notta! ",
+            "aired": "1987-10-04T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 37,
+            "url": null,
+            "title": "Father is Dying... Jo Sells Her Hair!",
+            "title_japanese": "チチキトク・・・ジョオが髪を売った！？",
+            "title_romanji": "Chichi Kitoku... Jo ga Kami wo Utta! ",
+            "aired": "1987-10-11T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 38,
+            "url": null,
+            "title": "The Telegram of Bad News!",
+            "title_japanese": "悪い知らせの電報がきた！",
+            "title_romanji": "Waruishirase no Denpou ga Kita! ",
+            "aired": "1987-10-18T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 39,
+            "url": null,
+            "title": "Letters, Letters, Letters We All Wrote",
+            "title_japanese": "みんなが書いた手紙、手紙、手紙",
+            "title_romanji": "Minna ga Kaita Tegami, Tegami, Tegami ",
+            "aired": "1987-10-25T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 40,
+            "url": null,
+            "title": "Beth Caught the Scarlet Fever!",
+            "title_japanese": "ベスが猩紅熱にかかった！",
+            "title_romanji": "Beth ga Shoukounetsu ni Kakatta! ",
+            "aired": "1987-11-01T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 41,
+            "url": null,
+            "title": "Mother, Come Home Quickly!",
+            "title_japanese": "母さま早く帰ってきて！",
+            "title_romanji": "Okaa-sama Hayaku Kaette Kite! ",
+            "aired": "1987-11-08T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 42,
+            "url": null,
+            "title": "God, Please Save Beth!",
+            "title_japanese": "神様、どうかベスを助けて！",
+            "title_romanji": "Kamisama, Douka Beth wo Tasukete! ",
+            "aired": "1987-11-15T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 43,
+            "url": null,
+            "title": "Go to New York, Jo!",
+            "title_japanese": "大都会ニューヨークへ行こう！ジョオ",
+            "title_romanji": "Daitokai New York e Ikou! Jo ",
+            "aired": "1987-11-22T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 44,
+            "url": null,
+            "title": "The Case of the Fake Letter - Who's the Culprit?",
+            "title_japanese": "ニセ手紙事件・犯人は誰か？",
+            "title_romanji": "Nise Tegami Jiken - Hannin wa Dareka? ",
+            "aired": "1987-11-29T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 45,
+            "url": null,
+            "title": "Grandfather Hit Laurie!",
+            "title_japanese": "おじいさまがローリーをなぐった！",
+            "title_romanji": "Ojii-sama ga Laurie wo Nagutta! ",
+            "aired": "1987-12-06T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 46,
+            "url": null,
+            "title": "An Unexpected Christmas Present",
+            "title_japanese": "思いがけないクリスマスプレゼント",
+            "title_romanji": "Omoigakenai Christmas Present ",
+            "aired": "1987-12-13T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 47,
+            "url": null,
+            "title": "Goodbye, Anthony!",
+            "title_japanese": "さよなら！アンソニー",
+            "title_romanji": "Sayonara! Anthony ",
+            "aired": "1987-12-20T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 48,
+            "url": null,
+            "title": "Springtime! Everyone Sets Out",
+            "title_japanese": "春！それぞれの旅立ち",
+            "title_romanji": "Haru! Sorezore no Tabidachi ",
+            "aired": "1987-12-27T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2210408"
+        }
+    ]
+}

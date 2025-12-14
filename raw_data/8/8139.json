@@ -1,0 +1,165 @@
+{
+    "id": 8139,
+    "fetched_at": "Sun Dec 14 09:14:33 2025",
+    "metadata": {
+        "mal_id": 8139,
+        "url": "https://myanimelist.net/anime/8139/Shin_Minashigo_Hutch",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/12/20347.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/12/20347t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/12/20347l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/12/20347.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/12/20347t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/12/20347l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Shin Minashigo Hutch"
+            },
+            {
+                "type": "Japanese",
+                "title": "新みなしごハッチ"
+            },
+            {
+                "type": "English",
+                "title": "The New Adventures of Hutch the Honeybee"
+            }
+        ],
+        "title": "Shin Minashigo Hutch",
+        "title_english": "The New Adventures of Hutch the Honeybee",
+        "title_japanese": "新みなしごハッチ",
+        "title_synonyms": [],
+        "type": "TV",
+        "source": "Unknown",
+        "episodes": 26,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "1974-04-05T00:00:00+00:00",
+            "to": "1974-09-27T00:00:00+00:00",
+            "prop": {
+                "from": {
+                    "day": 5,
+                    "month": 4,
+                    "year": 1974
+                },
+                "to": {
+                    "day": 27,
+                    "month": 9,
+                    "year": 1974
+                }
+            },
+            "string": "Apr 5, 1974 to Sep 27, 1974"
+        },
+        "duration": "24 min per ep",
+        "rating": "G - All Ages",
+        "score": 6.31,
+        "scored_by": 815,
+        "rank": 8482,
+        "popularity": 12993,
+        "members": 1664,
+        "favorites": 3,
+        "synopsis": "The sequel to Konchuu Monogatari Minashigo Hutch where Hutch struggles with married life.",
+        "background": "",
+        "season": "spring",
+        "year": 1974,
+        "broadcast": {
+            "day": null,
+            "time": null,
+            "timezone": null,
+            "string": "Unknown"
+        },
+        "producers": [],
+        "licensors": [],
+        "studios": [
+            {
+                "mal_id": 103,
+                "type": "anime",
+                "name": "Tatsunoko Production",
+                "url": "https://myanimelist.net/anime/producer/103/Tatsunoko_Production"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 2,
+                "type": "anime",
+                "name": "Adventure",
+                "url": "https://myanimelist.net/anime/genre/2/Adventure"
+            },
+            {
+                "mal_id": 4,
+                "type": "anime",
+                "name": "Comedy",
+                "url": "https://myanimelist.net/anime/genre/4/Comedy"
+            },
+            {
+                "mal_id": 8,
+                "type": "anime",
+                "name": "Drama",
+                "url": "https://myanimelist.net/anime/genre/8/Drama"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [],
+        "demographics": [],
+        "relations": [
+            {
+                "relation": "Prequel",
+                "entry": [
+                    {
+                        "mal_id": 3858,
+                        "type": "anime",
+                        "name": "Konchuu Monogatari Minashigo Hutch",
+                        "url": "https://myanimelist.net/anime/3858/Konchuu_Monogatari_Minashigo_Hutch"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [
+                "\"Shin Minashigo Hutch (新みなしごハッチ)\" by Yuri Shimazaki"
+            ],
+            "endings": [
+                "\"Utsukushi no Oka (美しの丘)\" by Singers Three, Yuri Shimazaki"
+            ]
+        },
+        "external": [
+            {
+                "name": "Official Site",
+                "url": "http://www.tatsunoko.co.jp/works/archive/hatch_1974.html"
+            },
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=3367"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=1742"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "http://en.wikipedia.org/wiki/New_Honeybee_Hutch"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": []
+}

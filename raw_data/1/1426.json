@@ -1,0 +1,829 @@
+{
+    "id": 1426,
+    "fetched_at": "Sun Dec 14 07:13:31 2025",
+    "metadata": {
+        "mal_id": 1426,
+        "url": "https://myanimelist.net/anime/1426/Lupin_III__Part_III",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1441/100440.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1441/100440t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1441/100440l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1441/100440.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1441/100440t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1441/100440l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Lupin III: Part III"
+            },
+            {
+                "type": "Synonym",
+                "title": "Rupan Sansei: Part III"
+            },
+            {
+                "type": "Synonym",
+                "title": "Lupin Sansei: Part III"
+            },
+            {
+                "type": "Japanese",
+                "title": "ルパン三世 - Part III"
+            },
+            {
+                "type": "German",
+                "title": "Lupin the Third Part 3"
+            },
+            {
+                "type": "Spanish",
+                "title": "Lupin the Third Part 3"
+            },
+            {
+                "type": "French",
+                "title": "Lupin the Third Part 3"
+            }
+        ],
+        "title": "Lupin III: Part III",
+        "title_english": null,
+        "title_japanese": "ルパン三世 - Part III",
+        "title_synonyms": [
+            "Rupan Sansei: Part III",
+            "Lupin Sansei: Part III"
+        ],
+        "type": "TV",
+        "source": "Manga",
+        "episodes": 50,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "1984-03-03T00:00:00+00:00",
+            "to": "1985-12-25T00:00:00+00:00",
+            "prop": {
+                "from": {
+                    "day": 3,
+                    "month": 3,
+                    "year": 1984
+                },
+                "to": {
+                    "day": 25,
+                    "month": 12,
+                    "year": 1985
+                }
+            },
+            "string": "Mar 3, 1984 to Dec 25, 1985"
+        },
+        "duration": "24 min per ep",
+        "rating": "R+ - Mild Nudity",
+        "score": 7.29,
+        "scored_by": 7598,
+        "rank": 2977,
+        "popularity": 4915,
+        "members": 24898,
+        "favorites": 34,
+        "synopsis": "Lupin III chronicles the adventures of Arsene Lupin III, the world's greatest thief, and his partners in crime: master marksman Daisuke Jigen, beautiful and scheming Fujiko Mine and stoic samurai Goemon Ishikawa XIII. Lupin and his gang travel around the globe in search of the world's greatest treasures and riches and always keeping one step ahead of the tireless Inspector Zenigata, who has vowed to bring Lupin to justice. \n\n(Source: ANN)",
+        "background": "",
+        "season": "spring",
+        "year": 1984,
+        "broadcast": {
+            "day": null,
+            "time": null,
+            "timezone": null,
+            "string": "Unknown"
+        },
+        "producers": [
+            {
+                "mal_id": 76,
+                "type": "anime",
+                "name": "Yomiuri Telecasting",
+                "url": "https://myanimelist.net/anime/producer/76/Yomiuri_Telecasting"
+            }
+        ],
+        "licensors": [
+            {
+                "mal_id": 467,
+                "type": "anime",
+                "name": "Discotek Media",
+                "url": "https://myanimelist.net/anime/producer/467/Discotek_Media"
+            }
+        ],
+        "studios": [
+            {
+                "mal_id": 65,
+                "type": "anime",
+                "name": "Tokyo Movie Shinsha",
+                "url": "https://myanimelist.net/anime/producer/65/Tokyo_Movie_Shinsha"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 1,
+                "type": "anime",
+                "name": "Action",
+                "url": "https://myanimelist.net/anime/genre/1/Action"
+            },
+            {
+                "mal_id": 2,
+                "type": "anime",
+                "name": "Adventure",
+                "url": "https://myanimelist.net/anime/genre/2/Adventure"
+            },
+            {
+                "mal_id": 4,
+                "type": "anime",
+                "name": "Comedy",
+                "url": "https://myanimelist.net/anime/genre/4/Comedy"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [
+            {
+                "mal_id": 50,
+                "type": "anime",
+                "name": "Adult Cast",
+                "url": "https://myanimelist.net/anime/genre/50/Adult_Cast"
+            }
+        ],
+        "demographics": [
+            {
+                "mal_id": 42,
+                "type": "anime",
+                "name": "Seinen",
+                "url": "https://myanimelist.net/anime/genre/42/Seinen"
+            }
+        ],
+        "relations": [
+            {
+                "relation": "Prequel",
+                "entry": [
+                    {
+                        "mal_id": 1425,
+                        "type": "anime",
+                        "name": "Lupin III: Part II",
+                        "url": "https://myanimelist.net/anime/1425/Lupin_III__Part_II"
+                    }
+                ]
+            },
+            {
+                "relation": "Sequel",
+                "entry": [
+                    {
+                        "mal_id": 27947,
+                        "type": "anime",
+                        "name": "Lupin III (2015)",
+                        "url": "https://myanimelist.net/anime/27947/Lupin_III_2015"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [
+                "\"Sexy Adventure (セクシー・アドベンチャー)\" by Yusuke Nakamura"
+            ],
+            "endings": [
+                "\"Fairy Night (フェアリー・ナイト)\" by Sonia Rosa"
+            ]
+        },
+        "external": [
+            {
+                "name": "Official Site",
+                "url": "http://www.tms-e.com/library/old/tv/data/t_rupin_part3.html"
+            },
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=1485"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=887"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "http://en.wikipedia.org/wiki/List_of_Lupin_III_Part_III_episodes"
+            }
+        ],
+        "streaming": [
+            {
+                "name": "Crunchyroll",
+                "url": "http://www.crunchyroll.com/series-267533"
+            }
+        ]
+    },
+    "episodes": [
+        {
+            "mal_id": 1,
+            "url": "https://myanimelist.net/anime/1426/Lupin_III__Part_III/episode/1",
+            "title": "The Gold Is Beckoning Lupin",
+            "title_japanese": "金塊はルパンを呼ぶ",
+            "title_romanji": "Kinkai wa Lupin wo Yobu ",
+            "aired": "1984-03-03T00:00:00+00:00",
+            "score": 3.72,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=317739"
+        },
+        {
+            "mal_id": 2,
+            "url": "https://myanimelist.net/anime/1426/Lupin_III__Part_III/episode/2",
+            "title": "Expose the Great Trap",
+            "title_japanese": "大いなる罠を暴け",
+            "title_romanji": "Ouinaru Wana wo Abake ",
+            "aired": "1984-03-10T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1193319"
+        },
+        {
+            "mal_id": 3,
+            "url": "https://myanimelist.net/anime/1426/Lupin_III__Part_III/episode/3",
+            "title": "Hello, Hell's Angel",
+            "title_japanese": "こんにちは 地獄の天使",
+            "title_romanji": "Konnichiwa Jigoku no Tenshi ",
+            "aired": "1984-03-17T00:00:00+00:00",
+            "score": 4.35,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=573601"
+        },
+        {
+            "mal_id": 4,
+            "url": "https://myanimelist.net/anime/1426/Lupin_III__Part_III/episode/4",
+            "title": "Telepathy Is Love's Signal",
+            "title_japanese": "テレパシーは愛のシグナル",
+            "title_romanji": "Telepathy wa Ai no Signal ",
+            "aired": "1984-03-24T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=573607"
+        },
+        {
+            "mal_id": 5,
+            "url": "https://myanimelist.net/anime/1426/Lupin_III__Part_III/episode/5",
+            "title": "Goemon, the Invincible",
+            "title_japanese": "五右ェ門無双",
+            "title_romanji": "Goemon Musou ",
+            "aired": "1984-04-07T00:00:00+00:00",
+            "score": 3.85,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1707264"
+        },
+        {
+            "mal_id": 6,
+            "url": "https://myanimelist.net/anime/1426/Lupin_III__Part_III/episode/6",
+            "title": "Here Comes Lupin in a Tank",
+            "title_japanese": "ルパンが戦車でやってきた",
+            "title_romanji": "Lupin ga Sensha de Yattekita ",
+            "aired": "1984-05-19T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=573639"
+        },
+        {
+            "mal_id": 7,
+            "url": "https://myanimelist.net/anime/1426/Lupin_III__Part_III/episode/7",
+            "title": "Garb, the Grim Reaper",
+            "title_japanese": "死神ガーブと呼ばれた男",
+            "title_romanji": "Shinigami Garb to Yobareta Otoko ",
+            "aired": "1984-05-26T00:00:00+00:00",
+            "score": 4.31,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1196715"
+        },
+        {
+            "mal_id": 8,
+            "url": "https://myanimelist.net/anime/1426/Lupin_III__Part_III/episode/8",
+            "title": "Operation Mother Mary Getaway",
+            "title_japanese": "聖母マリアの脱出作戦",
+            "title_romanji": "Seibo Mary no Dasshutsu Sakusen ",
+            "aired": "1984-06-09T00:00:00+00:00",
+            "score": 3.31,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1197213"
+        },
+        {
+            "mal_id": 9,
+            "url": "https://myanimelist.net/anime/1426/Lupin_III__Part_III/episode/9",
+            "title": "Clones Will Cost You",
+            "title_japanese": "コピー人間は高くつく",
+            "title_romanji": "Copy Ningen wa Takaku Tsuku ",
+            "aired": "1984-06-16T00:00:00+00:00",
+            "score": 3.8,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1668301"
+        },
+        {
+            "mal_id": 10,
+            "url": "https://myanimelist.net/anime/1426/Lupin_III__Part_III/episode/10",
+            "title": "A Treasure That Smells Like a Trap",
+            "title_japanese": "秘宝は陰謀の匂い",
+            "title_romanji": "Hihou wa Inbou no Nioi ",
+            "aired": "1984-06-23T00:00:00+00:00",
+            "score": 4.12,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1707296"
+        },
+        {
+            "mal_id": 11,
+            "url": "https://myanimelist.net/anime/1426/Lupin_III__Part_III/episode/11",
+            "title": "The Ruby Sheds Tears of Blood",
+            "title_japanese": "ルビーは血の汗を流す",
+            "title_romanji": "Ruby wa Chi no Ase wo Nagasu ",
+            "aired": "1984-07-07T00:00:00+00:00",
+            "score": 4.08,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=573973"
+        },
+        {
+            "mal_id": 12,
+            "url": "https://myanimelist.net/anime/1426/Lupin_III__Part_III/episode/12",
+            "title": "The Prisoner Inside the Baltan Manor",
+            "title_japanese": "バルタン館のとりこ",
+            "title_romanji": "Baltan-kan no Toriko ",
+            "aired": "1984-07-28T00:00:00+00:00",
+            "score": 4.14,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1204277"
+        },
+        {
+            "mal_id": 13,
+            "url": "https://myanimelist.net/anime/1426/Lupin_III__Part_III/episode/13",
+            "title": "Musical Variation of Monkey Business",
+            "title_japanese": "悪のり変装曲",
+            "title_romanji": "Warunori Hensoukyoku ",
+            "aired": "1984-10-20T00:00:00+00:00",
+            "score": 3.35,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=574477"
+        },
+        {
+            "mal_id": 14,
+            "url": "https://myanimelist.net/anime/1426/Lupin_III__Part_III/episode/14",
+            "title": "Care to Play a Kidnapping Game?",
+            "title_japanese": "誘拐ゲームはお好き",
+            "title_romanji": "Yuukai Game wa Osuki ",
+            "aired": "1984-10-27T00:00:00+00:00",
+            "score": 3.81,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=575051"
+        },
+        {
+            "mal_id": 15,
+            "url": "https://myanimelist.net/anime/1426/Lupin_III__Part_III/episode/15",
+            "title": "The Killer Comes Silently",
+            "title_japanese": "殺しが静かにやってくる",
+            "title_romanji": "Koroshi ga Shizuka ni Yattekuru ",
+            "aired": "1984-11-03T00:00:00+00:00",
+            "score": 3.47,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=700795"
+        },
+        {
+            "mal_id": 16,
+            "url": "https://myanimelist.net/anime/1426/Lupin_III__Part_III/episode/16",
+            "title": "A Golden Apple Has Its Poison",
+            "title_japanese": "黄金のリンゴには毒がある",
+            "title_romanji": "Ougon no Ringo Niwa Doku ga Aru ",
+            "aired": "1984-11-10T00:00:00+00:00",
+            "score": 3.85,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=576525"
+        },
+        {
+            "mal_id": 17,
+            "url": "https://myanimelist.net/anime/1426/Lupin_III__Part_III/episode/17",
+            "title": "Are You Really Getting Married?",
+            "title_japanese": "結婚するって本当ですか",
+            "title_romanji": "Kekkon Surutte Hontou Desu ka ",
+            "aired": "1984-11-17T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1220921"
+        },
+        {
+            "mal_id": 18,
+            "url": "https://myanimelist.net/anime/1426/Lupin_III__Part_III/episode/18",
+            "title": "Showtime Smells Of Death",
+            "title_japanese": "ショータイムは死の香り",
+            "title_romanji": "Showtime wa Shi no Kaori ",
+            "aired": "1984-11-24T00:00:00+00:00",
+            "score": 4.42,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=576845"
+        },
+        {
+            "mal_id": 19,
+            "url": "https://myanimelist.net/anime/1426/Lupin_III__Part_III/episode/19",
+            "title": "Walk The Wilderness Of Betrayal",
+            "title_japanese": "裏切りの荒野を走れ",
+            "title_romanji": "Uragiri no Kouya wo Hashire ",
+            "aired": "1984-12-01T00:00:00+00:00",
+            "score": 4.23,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1224303"
+        },
+        {
+            "mal_id": 20,
+            "url": "https://myanimelist.net/anime/1426/Lupin_III__Part_III/episode/20",
+            "title": "The Man Who Erased His Past",
+            "title_japanese": "過去を消した男",
+            "title_romanji": "Kako wo Keshita Otoko ",
+            "aired": "1984-12-08T00:00:00+00:00",
+            "score": 3.55,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1224805"
+        },
+        {
+            "mal_id": 21,
+            "url": "https://myanimelist.net/anime/1426/Lupin_III__Part_III/episode/21",
+            "title": "Farewell, Golden Legend",
+            "title_japanese": "さらば黄金伝説",
+            "title_romanji": "Saraba Ougon Densetsu ",
+            "aired": "1984-12-15T00:00:00+00:00",
+            "score": 3.6,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1707515"
+        },
+        {
+            "mal_id": 22,
+            "url": "https://myanimelist.net/anime/1426/Lupin_III__Part_III/episode/22",
+            "title": "Fire Doesn't Suit A Diamond",
+            "title_japanese": "ダイヤに炎は似合わない",
+            "title_romanji": "Dia ni Honou wa Niawanai ",
+            "aired": "1984-12-22T00:00:00+00:00",
+            "score": 3.67,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1225857"
+        },
+        {
+            "mal_id": 23,
+            "url": "https://myanimelist.net/anime/1426/Lupin_III__Part_III/episode/23",
+            "title": "Operation Beirut Mobile Bank Heist",
+            "title_japanese": "ベイルート移動銀行強奪作戦",
+            "title_romanji": "Beirut Idou-ginkou-goudatsu-sakusen ",
+            "aired": "1984-12-29T00:00:00+00:00",
+            "score": 3.89,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=703687"
+        },
+        {
+            "mal_id": 24,
+            "url": "https://myanimelist.net/anime/1426/Lupin_III__Part_III/episode/24",
+            "title": "Rest In Peace, My Friend",
+            "title_japanese": "友よ深く眠れ",
+            "title_romanji": "Tomoyo Fukaku Nemure ",
+            "aired": "1985-01-12T00:00:00+00:00",
+            "score": 4.53,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1707525"
+        },
+        {
+            "mal_id": 25,
+            "url": "https://myanimelist.net/anime/1426/Lupin_III__Part_III/episode/25",
+            "title": "We're No Angels",
+            "title_japanese": "俺たちは天使じゃない",
+            "title_romanji": "Oretachi wa Tenshi Janai ",
+            "aired": "1985-01-19T00:00:00+00:00",
+            "score": 3.64,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=705583"
+        },
+        {
+            "mal_id": 26,
+            "url": "https://myanimelist.net/anime/1426/Lupin_III__Part_III/episode/26",
+            "title": "The Ghost Of New York",
+            "title_japanese": "ニューヨークの幽霊",
+            "title_romanji": "New York no Yuurei ",
+            "aired": "1985-01-26T00:00:00+00:00",
+            "score": 3.77,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=579073"
+        },
+        {
+            "mal_id": 27,
+            "url": "https://myanimelist.net/anime/1426/Lupin_III__Part_III/episode/27",
+            "title": "Code Name Is The Star Of Alaska",
+            "title_japanese": "暗号名はアラスカの星",
+            "title_romanji": "Angoumei wa Alaska no Hoshi ",
+            "aired": "1985-02-02T00:00:00+00:00",
+            "score": 4.2,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1231465"
+        },
+        {
+            "mal_id": 28,
+            "url": "https://myanimelist.net/anime/1426/Lupin_III__Part_III/episode/28",
+            "title": "The Star of Alaska Is A Ticket To Hell",
+            "title_japanese": "アラスカの星は地獄への報酬",
+            "title_romanji": "Alaska no Hoshi wa Jigoku e no Houshuu ",
+            "aired": "1985-02-09T00:00:00+00:00",
+            "score": 4.2,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=706413"
+        },
+        {
+            "mal_id": 29,
+            "url": "https://myanimelist.net/anime/1426/Lupin_III__Part_III/episode/29",
+            "title": "A Honeymoon To The Moon",
+            "title_japanese": "月へハネムーンに行こう",
+            "title_romanji": "Tsuki e Honey-Moon ni Ikou ",
+            "aired": "1985-02-16T00:00:00+00:00",
+            "score": 3.21,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1707725"
+        },
+        {
+            "mal_id": 30,
+            "url": "https://myanimelist.net/anime/1426/Lupin_III__Part_III/episode/30",
+            "title": "The Name Of The Cocktail Is Revenge",
+            "title_japanese": "カクテルの名は復讐",
+            "title_romanji": "Cocktail no Na wa Fukushuu ",
+            "aired": "1985-02-23T00:00:00+00:00",
+            "score": 4.29,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=707291"
+        },
+        {
+            "mal_id": 31,
+            "url": "https://myanimelist.net/anime/1426/Lupin_III__Part_III/episode/31",
+            "title": "Reversal, Reversal, And Another Reversal",
+            "title_japanese": "逆転 逆転 また逆転",
+            "title_romanji": "Gyakuten. Gyakuten mata Gyakuten ",
+            "aired": "1985-03-02T00:00:00+00:00",
+            "score": 4.33,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=579753"
+        },
+        {
+            "mal_id": 32,
+            "url": "https://myanimelist.net/anime/1426/Lupin_III__Part_III/episode/32",
+            "title": "The 10 Million Dollar Key",
+            "title_japanese": "1000万ドルの鍵",
+            "title_romanji": "1000-man Dollar no Kagi ",
+            "aired": "1985-03-09T00:00:00+00:00",
+            "score": 3.7,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1707752"
+        },
+        {
+            "mal_id": 33,
+            "url": "https://myanimelist.net/anime/1426/Lupin_III__Part_III/episode/33",
+            "title": "Boy Genius Plays A Dangerous Game",
+            "title_japanese": "天才少年の危険な遊び",
+            "title_romanji": "Tensai Shounen no Kiken na Asobi ",
+            "aired": "1985-03-16T00:00:00+00:00",
+            "score": 3.7,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=708369"
+        },
+        {
+            "mal_id": 34,
+            "url": "https://myanimelist.net/anime/1426/Lupin_III__Part_III/episode/34",
+            "title": "Manhattan Crisis",
+            "title_japanese": "マンハッタン·クライシス",
+            "title_romanji": "Manhattan Crisis ",
+            "aired": "1985-03-23T00:00:00+00:00",
+            "score": 4.1,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1243903"
+        },
+        {
+            "mal_id": 35,
+            "url": "https://myanimelist.net/anime/1426/Lupin_III__Part_III/episode/35",
+            "title": "The Target Beyond The Snowy Field",
+            "title_japanese": "ターゲットは白銀の果てに",
+            "title_romanji": "Target wa Hakugin no Hate ni ",
+            "aired": "1985-03-30T00:00:00+00:00",
+            "score": 3.91,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1707769"
+        },
+        {
+            "mal_id": 36,
+            "url": "https://myanimelist.net/anime/1426/Lupin_III__Part_III/episode/36",
+            "title": "When The Eagle Descends",
+            "title_japanese": "鷲の舞い降りる時",
+            "title_romanji": "Washi no Maioriru Toki ",
+            "aired": "1985-04-06T00:00:00+00:00",
+            "score": 3.43,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1246147"
+        },
+        {
+            "mal_id": 37,
+            "url": "https://myanimelist.net/anime/1426/Lupin_III__Part_III/episode/37",
+            "title": "Pops Rages With Anger",
+            "title_japanese": "父っつぁん大いに怒る",
+            "title_romanji": "Tottsuan Oui ni Ikaru ",
+            "aired": "1985-04-20T00:00:00+00:00",
+            "score": 3.75,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1707793"
+        },
+        {
+            "mal_id": 38,
+            "url": "https://myanimelist.net/anime/1426/Lupin_III__Part_III/episode/38",
+            "title": "Letizia Who Loved Me",
+            "title_japanese": "俺を愛したレティシア",
+            "title_romanji": "Ore wo Aishita Letizia ",
+            "aired": "1985-04-27T00:00:00+00:00",
+            "score": 3.82,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1707812"
+        },
+        {
+            "mal_id": 39,
+            "url": "https://myanimelist.net/anime/1426/Lupin_III__Part_III/episode/39",
+            "title": "Give The Gold To My Rival",
+            "title_japanese": "ライバルに黄金を",
+            "title_romanji": "Rival ni Ougon wo ",
+            "aired": "1985-05-11T00:00:00+00:00",
+            "score": 4.33,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1250147"
+        },
+        {
+            "mal_id": 40,
+            "url": "https://myanimelist.net/anime/1426/Lupin_III__Part_III/episode/40",
+            "title": "Lottery Ticket Mayhem",
+            "title_japanese": "一枚のお宝で大混戦",
+            "title_romanji": "Ichimai no Otakara de Dai-konsen ",
+            "aired": "1985-05-25T00:00:00+00:00",
+            "score": 4.08,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1251645"
+        },
+        {
+            "mal_id": 41,
+            "url": "https://myanimelist.net/anime/1426/Lupin_III__Part_III/episode/41",
+            "title": "The Night Under Martial Law",
+            "title_japanese": "戒厳令の夜",
+            "title_romanji": "Kaigenrei no Yoru ",
+            "aired": "1985-06-08T00:00:00+00:00",
+            "score": 2.92,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=714135"
+        },
+        {
+            "mal_id": 42,
+            "url": "https://myanimelist.net/anime/1426/Lupin_III__Part_III/episode/42",
+            "title": "Steal The Pyramid's Insurance Money",
+            "title_japanese": "ピラミッドの保険金を奪え",
+            "title_romanji": "Pyramid no Hokenkin wo Ubae ",
+            "aired": "1985-06-22T00:00:00+00:00",
+            "score": 3.45,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1252921"
+        },
+        {
+            "mal_id": 43,
+            "url": "https://myanimelist.net/anime/1426/Lupin_III__Part_III/episode/43",
+            "title": "Farewell, Cinderella",
+            "title_japanese": "さらばシンデレラ",
+            "title_romanji": "Saraba Cinderella ",
+            "aired": "1985-06-29T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1254359"
+        },
+        {
+            "mal_id": 44,
+            "url": "https://myanimelist.net/anime/1426/Lupin_III__Part_III/episode/44",
+            "title": "Our Daddies Are A Thief",
+            "title_japanese": "ボクたちのパパは泥棒",
+            "title_romanji": "Boku-tachi no Papa wa Dorobou ",
+            "aired": "1985-07-06T00:00:00+00:00",
+            "score": 4.42,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1321881"
+        },
+        {
+            "mal_id": 45,
+            "url": "https://myanimelist.net/anime/1426/Lupin_III__Part_III/episode/45",
+            "title": "A Toast To The Con Game",
+            "title_japanese": "コンゲームに乾杯",
+            "title_romanji": "Con-Game ni Kanpai ",
+            "aired": "1985-07-20T00:00:00+00:00",
+            "score": 3.58,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1707991"
+        },
+        {
+            "mal_id": 46,
+            "url": "https://myanimelist.net/anime/1426/Lupin_III__Part_III/episode/46",
+            "title": "My Scrap Metal Wings",
+            "title_japanese": "俺の翼はスクラップ",
+            "title_romanji": "Ore no Tsubasa wa Scrap ",
+            "aired": "1985-07-27T00:00:00+00:00",
+            "score": 3.73,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1255795"
+        },
+        {
+            "mal_id": 47,
+            "url": "https://myanimelist.net/anime/1426/Lupin_III__Part_III/episode/47",
+            "title": "The Sinuous Painting",
+            "title_japanese": "一枚の迷画",
+            "title_romanji": "Ichimai no Meiga ",
+            "aired": "1985-08-17T00:00:00+00:00",
+            "score": 3.92,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1256247"
+        },
+        {
+            "mal_id": 48,
+            "url": "https://myanimelist.net/anime/1426/Lupin_III__Part_III/episode/48",
+            "title": "Tears Stood in Hades' Eyes",
+            "title_japanese": "ハディスの涙",
+            "title_romanji": "Hades no Namida ",
+            "aired": "1985-08-31T00:00:00+00:00",
+            "score": 3.67,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1708002"
+        },
+        {
+            "mal_id": 49,
+            "url": "https://myanimelist.net/anime/1426/Lupin_III__Part_III/episode/49",
+            "title": "The Day Pops Was Adopted",
+            "title_japanese": "とっつぁんが養子になった日",
+            "title_romanji": "Tottsuan ga Youshi ni Natta hi ",
+            "aired": "1985-09-28T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=715245"
+        },
+        {
+            "mal_id": 50,
+            "url": "https://myanimelist.net/anime/1426/Lupin_III__Part_III/episode/50",
+            "title": "Destroy Ivanov, The Atomic Submarine",
+            "title_japanese": "原潜イワノフの抹殺指令",
+            "title_romanji": "Gensen Ivanov no Massatsu-shirei ",
+            "aired": "1985-12-25T00:00:00+00:00",
+            "score": 3.82,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=323211"
+        }
+    ]
+}

@@ -1,0 +1,152 @@
+{
+    "id": 3842,
+    "fetched_at": "Sun Dec 14 08:30:59 2025",
+    "metadata": {
+        "mal_id": 3842,
+        "url": "https://myanimelist.net/anime/3842/Doubutsu_Takarajima",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1084/100515.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1084/100515t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1084/100515l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1084/100515.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1084/100515t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1084/100515l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": "https://www.youtube-nocookie.com/embed/HK7fkSBFrcU?enablejsapi=1&wmode=opaque&autoplay=1",
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Doubutsu Takarajima"
+            },
+            {
+                "type": "Japanese",
+                "title": "どうぶつ宝島"
+            },
+            {
+                "type": "English",
+                "title": "Animal Treasure Island"
+            },
+            {
+                "type": "Spanish",
+                "title": "La Isla del Tesoro"
+            }
+        ],
+        "title": "Doubutsu Takarajima",
+        "title_english": "Animal Treasure Island",
+        "title_japanese": "どうぶつ宝島",
+        "title_synonyms": [],
+        "type": "Movie",
+        "source": "Novel",
+        "episodes": 1,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "1971-03-20T00:00:00+00:00",
+            "to": null,
+            "prop": {
+                "from": {
+                    "day": 20,
+                    "month": 3,
+                    "year": 1971
+                },
+                "to": {
+                    "day": null,
+                    "month": null,
+                    "year": null
+                }
+            },
+            "string": "Mar 20, 1971"
+        },
+        "duration": "1 hr 18 min",
+        "rating": "G - All Ages",
+        "score": 6.29,
+        "scored_by": 1426,
+        "rank": 8617,
+        "popularity": 10573,
+        "members": 3396,
+        "favorites": 6,
+        "synopsis": "Jim is working as an innkeeper, together with his friend, the mouse Gran. One day, a mysterious man visits the inn, leaving a map behind. The map shows an island with a treasure. So the duo sets off in their own little boat, trying to fulfil their dreams and leaving the inn far behind. But it seems more people knows of the map, as they cross paths with Captain Silver and his band of wild pirates. Jim, Gran and their new friend Kathy tries to beat them in the treasure hunt that ensues.\n\n(Source ANN)",
+        "background": "",
+        "season": null,
+        "year": null,
+        "broadcast": {
+            "day": null,
+            "time": null,
+            "timezone": null,
+            "string": null
+        },
+        "producers": [],
+        "licensors": [
+            {
+                "mal_id": 467,
+                "type": "anime",
+                "name": "Discotek Media",
+                "url": "https://myanimelist.net/anime/producer/467/Discotek_Media"
+            }
+        ],
+        "studios": [
+            {
+                "mal_id": 18,
+                "type": "anime",
+                "name": "Toei Animation",
+                "url": "https://myanimelist.net/anime/producer/18/Toei_Animation"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 2,
+                "type": "anime",
+                "name": "Adventure",
+                "url": "https://myanimelist.net/anime/genre/2/Adventure"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [],
+        "demographics": [],
+        "relations": [
+            {
+                "relation": "Adaptation",
+                "entry": [
+                    {
+                        "mal_id": 13971,
+                        "type": "manga",
+                        "name": "Dobutsu Takarajima",
+                        "url": "https://myanimelist.net/manga/13971/Dobutsu_Takarajima"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [],
+            "endings": []
+        },
+        "external": [
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=2214"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=1466"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": []
+}

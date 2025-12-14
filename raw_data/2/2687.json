@@ -1,0 +1,186 @@
+{
+    "id": 2687,
+    "fetched_at": "Sun Dec 14 07:29:48 2025",
+    "metadata": {
+        "mal_id": 2687,
+        "url": "https://myanimelist.net/anime/2687/Gokuu_no_Daibouken",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/7/53219.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/7/53219t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/7/53219l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/7/53219.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/7/53219t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/7/53219l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Gokuu no Daibouken"
+            },
+            {
+                "type": "Synonym",
+                "title": "Adventures of Goku"
+            },
+            {
+                "type": "Synonym",
+                "title": "Goku's Great Adventures"
+            },
+            {
+                "type": "Japanese",
+                "title": "悟空の大冒険"
+            },
+            {
+                "type": "English",
+                "title": "Adventures of the Monkey King"
+            }
+        ],
+        "title": "Gokuu no Daibouken",
+        "title_english": "Adventures of the Monkey King",
+        "title_japanese": "悟空の大冒険",
+        "title_synonyms": [
+            "Adventures of Goku",
+            "Goku's Great Adventures"
+        ],
+        "type": "TV",
+        "source": "Unknown",
+        "episodes": 39,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "1967-01-07T00:00:00+00:00",
+            "to": "1967-09-30T00:00:00+00:00",
+            "prop": {
+                "from": {
+                    "day": 7,
+                    "month": 1,
+                    "year": 1967
+                },
+                "to": {
+                    "day": 30,
+                    "month": 9,
+                    "year": 1967
+                }
+            },
+            "string": "Jan 7, 1967 to Sep 30, 1967"
+        },
+        "duration": "26 min per ep",
+        "rating": "G - All Ages",
+        "score": 6.3,
+        "scored_by": 662,
+        "rank": 8542,
+        "popularity": 13215,
+        "members": 1563,
+        "favorites": 3,
+        "synopsis": "In this film, because of complaints from children that Goku is depicted as too much of an eager student, he is instead portrayed as a very naughty modern boy. It then received so many complaints from the PTA about its bad language that it was forced out of the show after all.\n\n(Source: Official Site)",
+        "background": "",
+        "season": "winter",
+        "year": 1967,
+        "broadcast": {
+            "day": "Saturdays",
+            "time": "19:00",
+            "timezone": "Asia/Tokyo",
+            "string": "Saturdays at 19:00 (JST)"
+        },
+        "producers": [
+            {
+                "mal_id": 169,
+                "type": "anime",
+                "name": "Fuji TV",
+                "url": "https://myanimelist.net/anime/producer/169/Fuji_TV"
+            }
+        ],
+        "licensors": [],
+        "studios": [
+            {
+                "mal_id": 68,
+                "type": "anime",
+                "name": "Mushi Production",
+                "url": "https://myanimelist.net/anime/producer/68/Mushi_Production"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 4,
+                "type": "anime",
+                "name": "Comedy",
+                "url": "https://myanimelist.net/anime/genre/4/Comedy"
+            },
+            {
+                "mal_id": 10,
+                "type": "anime",
+                "name": "Fantasy",
+                "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [],
+        "demographics": [],
+        "relations": [
+            {
+                "relation": "Prequel",
+                "entry": [
+                    {
+                        "mal_id": 23815,
+                        "type": "anime",
+                        "name": "Gokuu no Daibouken Pilot",
+                        "url": "https://myanimelist.net/anime/23815/Gokuu_no_Daibouken_Pilot"
+                    }
+                ]
+            },
+            {
+                "relation": "Alternative Version",
+                "entry": [
+                    {
+                        "mal_id": 20189,
+                        "type": "anime",
+                        "name": "Boku no Son Gokuu",
+                        "url": "https://myanimelist.net/anime/20189/Boku_no_Son_Gokuu"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [
+                "\"Gokuu no Daibouken March (悟空の大冒険マーチ)\" by Young Fresh"
+            ],
+            "endings": []
+        },
+        "external": [
+            {
+                "name": "Official Site",
+                "url": "http://www.b-ch.com/ttl/index.php?ttl_c=2331"
+            },
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=1517"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=1502"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Gokū_no_Daibōken"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": []
+}

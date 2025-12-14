@@ -1,0 +1,160 @@
+{
+    "id": 33484,
+    "fetched_at": "Sun Dec 14 10:52:40 2025",
+    "metadata": {
+        "mal_id": 33484,
+        "url": "https://myanimelist.net/anime/33484/Shiroi_Zou",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/4/80519.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/4/80519t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/4/80519l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/4/80519.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/4/80519t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/4/80519l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Shiroi Zou"
+            },
+            {
+                "type": "Synonym",
+                "title": "White Elephant"
+            },
+            {
+                "type": "Japanese",
+                "title": "しろいぞう"
+            }
+        ],
+        "title": "Shiroi Zou",
+        "title_english": null,
+        "title_japanese": "しろいぞう",
+        "title_synonyms": [
+            "White Elephant"
+        ],
+        "type": "Movie",
+        "source": "Other",
+        "episodes": 1,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "1963-01-01T00:00:00+00:00",
+            "to": null,
+            "prop": {
+                "from": {
+                    "day": 1,
+                    "month": 1,
+                    "year": 1963
+                },
+                "to": {
+                    "day": null,
+                    "month": null,
+                    "year": null
+                }
+            },
+            "string": "1963"
+        },
+        "duration": "11 min",
+        "rating": "G - All Ages",
+        "score": 5.66,
+        "scored_by": 117,
+        "rank": 12022,
+        "popularity": 19692,
+        "members": 370,
+        "favorites": 0,
+        "synopsis": "A Matsue Jinbo production of the classic \"White Elephant\" story where a kind white elephant is tricked into helping a human who leads others back so the elephant would be captured.",
+        "background": "",
+        "season": null,
+        "year": null,
+        "broadcast": {
+            "day": null,
+            "time": null,
+            "timezone": null,
+            "string": null
+        },
+        "producers": [
+            {
+                "mal_id": 198,
+                "type": "anime",
+                "name": "Gakken",
+                "url": "https://myanimelist.net/anime/producer/198/Gakken"
+            }
+        ],
+        "licensors": [],
+        "studios": [
+            {
+                "mal_id": 1091,
+                "type": "anime",
+                "name": "Gakken Eigakyoku",
+                "url": "https://myanimelist.net/anime/producer/1091/Gakken_Eigakyoku"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 1,
+                "type": "anime",
+                "name": "Action",
+                "url": "https://myanimelist.net/anime/genre/1/Action"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [
+            {
+                "mal_id": 13,
+                "type": "anime",
+                "name": "Historical",
+                "url": "https://myanimelist.net/anime/genre/13/Historical"
+            }
+        ],
+        "demographics": [
+            {
+                "mal_id": 15,
+                "type": "anime",
+                "name": "Kids",
+                "url": "https://myanimelist.net/anime/genre/15/Kids"
+            }
+        ],
+        "relations": [
+            {
+                "relation": "Alternative Version",
+                "entry": [
+                    {
+                        "mal_id": 30070,
+                        "type": "anime",
+                        "name": "Shiroi Zou (1981)",
+                        "url": "https://myanimelist.net/anime/30070/Shiroi_Zou_1981"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [],
+            "endings": []
+        },
+        "external": [
+            {
+                "name": "Official Site",
+                "url": "http://gakken.co.jp/campaign/70th/archives/"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": []
+}

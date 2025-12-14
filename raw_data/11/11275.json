@@ -1,0 +1,156 @@
+{
+    "id": 11275,
+    "fetched_at": "Sun Dec 14 09:36:46 2025",
+    "metadata": {
+        "mal_id": 11275,
+        "url": "https://myanimelist.net/anime/11275/Akadou_Suzunosuke",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/9/56397.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/9/56397t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/9/56397l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/9/56397.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/9/56397t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/9/56397l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Akadou Suzunosuke"
+            },
+            {
+                "type": "Synonym",
+                "title": "Redbreast Suzunosuke"
+            },
+            {
+                "type": "Japanese",
+                "title": "赤胴鈴之助"
+            }
+        ],
+        "title": "Akadou Suzunosuke",
+        "title_english": null,
+        "title_japanese": "赤胴鈴之助",
+        "title_synonyms": [
+            "Redbreast Suzunosuke"
+        ],
+        "type": "TV",
+        "source": "Unknown",
+        "episodes": 52,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "1972-04-05T00:00:00+00:00",
+            "to": "1973-03-28T00:00:00+00:00",
+            "prop": {
+                "from": {
+                    "day": 5,
+                    "month": 4,
+                    "year": 1972
+                },
+                "to": {
+                    "day": 28,
+                    "month": 3,
+                    "year": 1973
+                }
+            },
+            "string": "Apr 5, 1972 to Mar 28, 1973"
+        },
+        "duration": "24 min per ep",
+        "rating": "PG-13 - Teens 13 or older",
+        "score": 6.16,
+        "scored_by": 487,
+        "rank": 9414,
+        "popularity": 13858,
+        "members": 1310,
+        "favorites": 1,
+        "synopsis": "A young swordsman finds himself involved in a plot to overthrow the shogunate.\n\n(Source: AniDB)",
+        "background": "",
+        "season": "spring",
+        "year": 1972,
+        "broadcast": {
+            "day": "Wednesdays",
+            "time": "19:00",
+            "timezone": "Asia/Tokyo",
+            "string": "Wednesdays at 19:00 (JST)"
+        },
+        "producers": [
+            {
+                "mal_id": 65,
+                "type": "anime",
+                "name": "Tokyo Movie Shinsha",
+                "url": "https://myanimelist.net/anime/producer/65/Tokyo_Movie_Shinsha"
+            }
+        ],
+        "licensors": [],
+        "studios": [],
+        "genres": [
+            {
+                "mal_id": 2,
+                "type": "anime",
+                "name": "Adventure",
+                "url": "https://myanimelist.net/anime/genre/2/Adventure"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [
+            {
+                "mal_id": 13,
+                "type": "anime",
+                "name": "Historical",
+                "url": "https://myanimelist.net/anime/genre/13/Historical"
+            }
+        ],
+        "demographics": [],
+        "relations": [
+            {
+                "relation": "Adaptation",
+                "entry": [
+                    {
+                        "mal_id": 28271,
+                        "type": "manga",
+                        "name": "Akadou Suzunosuke",
+                        "url": "https://myanimelist.net/manga/28271/Akadou_Suzunosuke"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [
+                "\"Ganbare! Akadou Suzunosuke (がんばれ!赤胴鈴之助)\" by Tokyo Jouhoku Shounenshoujo Gasshoudan"
+            ],
+            "endings": []
+        },
+        "external": [
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=3071"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=1068"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "http://ja.wikipedia.org/wiki/赤胴鈴之助#.E3.82.A2.E3.83.8B.E3.83.A1"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": []
+}

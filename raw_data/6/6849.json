@@ -1,0 +1,136 @@
+{
+    "id": 6849,
+    "fetched_at": "Sun Dec 14 09:03:31 2025",
+    "metadata": {
+        "mal_id": 6849,
+        "url": "https://myanimelist.net/anime/6849/Bouken_Dankichi__Hyouryuu_no_Maki",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/8/15853.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/8/15853t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/8/15853l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/8/15853.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/8/15853t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/8/15853l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Bouken Dankichi: Hyouryuu no Maki"
+            },
+            {
+                "type": "Synonym",
+                "title": "Boken Dankichi: Hyoryu no Maki"
+            },
+            {
+                "type": "Japanese",
+                "title": "冒険ダン吉～漂流の巻～"
+            },
+            {
+                "type": "English",
+                "title": "Dankichi on a Tropical Island"
+            }
+        ],
+        "title": "Bouken Dankichi: Hyouryuu no Maki",
+        "title_english": "Dankichi on a Tropical Island",
+        "title_japanese": "冒険ダン吉～漂流の巻～",
+        "title_synonyms": [
+            "Boken Dankichi: Hyoryu no Maki"
+        ],
+        "type": "Movie",
+        "source": "Original",
+        "episodes": 1,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "1934-01-01T00:00:00+00:00",
+            "to": null,
+            "prop": {
+                "from": {
+                    "day": 1,
+                    "month": 1,
+                    "year": 1934
+                },
+                "to": {
+                    "day": null,
+                    "month": null,
+                    "year": null
+                }
+            },
+            "string": "1934"
+        },
+        "duration": "1 min",
+        "rating": "G - All Ages",
+        "score": 4.26,
+        "scored_by": 708,
+        "rank": 14361,
+        "popularity": 13920,
+        "members": 1292,
+        "favorites": 0,
+        "synopsis": "A boy fights with savage tribesmen and animals on a tropical island.",
+        "background": "",
+        "season": null,
+        "year": null,
+        "broadcast": {
+            "day": null,
+            "time": null,
+            "timezone": null,
+            "string": null
+        },
+        "producers": [],
+        "licensors": [],
+        "studios": [],
+        "genres": [
+            {
+                "mal_id": 2,
+                "type": "anime",
+                "name": "Adventure",
+                "url": "https://myanimelist.net/anime/genre/2/Adventure"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [],
+        "demographics": [],
+        "relations": [
+            {
+                "relation": "Sequel",
+                "entry": [
+                    {
+                        "mal_id": 5814,
+                        "type": "anime",
+                        "name": "Dankichi-jima no Olympic Taikai",
+                        "url": "https://myanimelist.net/anime/5814/Dankichi-jima_no_Olympic_Taikai"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [],
+            "endings": []
+        },
+        "external": [
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=7196"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": []
+}

@@ -1,0 +1,150 @@
+{
+    "id": 20093,
+    "fetched_at": "Sun Dec 14 10:03:52 2025",
+    "metadata": {
+        "mal_id": 20093,
+        "url": "https://myanimelist.net/anime/20093/Furiten-kun",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1939/96650.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1939/96650t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1939/96650l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1939/96650.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1939/96650t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1939/96650l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Furiten-kun"
+            },
+            {
+                "type": "Japanese",
+                "title": "フリテンくん"
+            }
+        ],
+        "title": "Furiten-kun",
+        "title_english": null,
+        "title_japanese": "フリテンくん",
+        "title_synonyms": [],
+        "type": "Movie",
+        "source": "4-koma manga",
+        "episodes": 1,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "1981-04-11T00:00:00+00:00",
+            "to": null,
+            "prop": {
+                "from": {
+                    "day": 11,
+                    "month": 4,
+                    "year": 1981
+                },
+                "to": {
+                    "day": null,
+                    "month": null,
+                    "year": null
+                }
+            },
+            "string": "Apr 11, 1981"
+        },
+        "duration": "1 hr 15 min",
+        "rating": "R+ - Mild Nudity",
+        "score": 5.99,
+        "scored_by": 138,
+        "rank": 10338,
+        "popularity": 16839,
+        "members": 623,
+        "favorites": 0,
+        "synopsis": "Based on the yonkoma manga by Ueda Masashi.",
+        "background": "",
+        "season": null,
+        "year": null,
+        "broadcast": {
+            "day": null,
+            "time": null,
+            "timezone": null,
+            "string": null
+        },
+        "producers": [],
+        "licensors": [],
+        "studios": [
+            {
+                "mal_id": 452,
+                "type": "anime",
+                "name": "Knack Productions",
+                "url": "https://myanimelist.net/anime/producer/452/Knack_Productions"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 4,
+                "type": "anime",
+                "name": "Comedy",
+                "url": "https://myanimelist.net/anime/genre/4/Comedy"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [],
+        "demographics": [
+            {
+                "mal_id": 42,
+                "type": "anime",
+                "name": "Seinen",
+                "url": "https://myanimelist.net/anime/genre/42/Seinen"
+            }
+        ],
+        "relations": [
+            {
+                "relation": "Sequel",
+                "entry": [
+                    {
+                        "mal_id": 20095,
+                        "type": "anime",
+                        "name": "Furiten-kun (1990)",
+                        "url": "https://myanimelist.net/anime/20095/Furiten-kun_1990"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [],
+            "endings": [
+                "\"Have a Nice Day\" by Nakazaki Hideya"
+            ]
+        },
+        "external": [
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=7708"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=8231"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "http://en.wikipedia.org/wiki/Furiten-kun"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": []
+}

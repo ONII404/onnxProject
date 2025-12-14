@@ -1,0 +1,168 @@
+{
+    "id": 7713,
+    "fetched_at": "Sun Dec 14 09:12:48 2025",
+    "metadata": {
+        "mal_id": 7713,
+        "url": "https://myanimelist.net/anime/7713/Nihon_Mukashibanashi__Saru_Kani",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/6/18628.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/6/18628t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/6/18628l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/6/18628.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/6/18628t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/6/18628l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Nihon Mukashibanashi: Saru Kani"
+            },
+            {
+                "type": "Synonym",
+                "title": "Nippon Mukashibanashi: Sarukani"
+            },
+            {
+                "type": "Synonym",
+                "title": "Monkey and Crab"
+            },
+            {
+                "type": "Synonym",
+                "title": "The Monkey and the Crab: A Japanese Tale"
+            },
+            {
+                "type": "Japanese",
+                "title": "日本むかしばなし さるかに"
+            }
+        ],
+        "title": "Nihon Mukashibanashi: Saru Kani",
+        "title_english": null,
+        "title_japanese": "日本むかしばなし さるかに",
+        "title_synonyms": [
+            "Nippon Mukashibanashi: Sarukani",
+            "Monkey and Crab",
+            "The Monkey and the Crab: A Japanese Tale"
+        ],
+        "type": "Movie",
+        "source": "Other",
+        "episodes": 1,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "1972-01-01T00:00:00+00:00",
+            "to": null,
+            "prop": {
+                "from": {
+                    "day": 1,
+                    "month": 1,
+                    "year": 1972
+                },
+                "to": {
+                    "day": null,
+                    "month": null,
+                    "year": null
+                }
+            },
+            "string": "1972"
+        },
+        "duration": "19 min",
+        "rating": "G - All Ages",
+        "score": 5.23,
+        "scored_by": 217,
+        "rank": 13420,
+        "popularity": 17362,
+        "members": 562,
+        "favorites": 0,
+        "synopsis": "An adaptation of an old Japanese folk tale also titled \"Saru Kani Gassen.\" The story involves the two main characters: a crab and a monkey. Through the chance of luck, the crab finds a rice ball simultaneously as the monkey finds an apricot seed. The monkey does not want the apricot seed so he negotiates a trade with the crab for his rice ball. The monkey eats the rice ball immediately where as the crab plants the apricot seed and cares for it until it becomes a tall tree with plenty of apricot fruits. At this point, the crab cannot climb the tree to get the apricots, so he needs the monkey to get him the apricots. This is where the story takes a turn for the worse.",
+        "background": "",
+        "season": null,
+        "year": null,
+        "broadcast": {
+            "day": null,
+            "time": null,
+            "timezone": null,
+            "string": null
+        },
+        "producers": [
+            {
+                "mal_id": 198,
+                "type": "anime",
+                "name": "Gakken",
+                "url": "https://myanimelist.net/anime/producer/198/Gakken"
+            }
+        ],
+        "licensors": [],
+        "studios": [],
+        "genres": [
+            {
+                "mal_id": 10,
+                "type": "anime",
+                "name": "Fantasy",
+                "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [],
+        "demographics": [],
+        "relations": [
+            {
+                "relation": "Alternative Version",
+                "entry": [
+                    {
+                        "mal_id": 10742,
+                        "type": "anime",
+                        "name": "Saru to Kani no Gassen",
+                        "url": "https://myanimelist.net/anime/10742/Saru_to_Kani_no_Gassen"
+                    },
+                    {
+                        "mal_id": 30045,
+                        "type": "anime",
+                        "name": "Shin Saru Kani Gassen",
+                        "url": "https://myanimelist.net/anime/30045/Shin_Saru_Kani_Gassen"
+                    },
+                    {
+                        "mal_id": 23867,
+                        "type": "anime",
+                        "name": "Saru Kani Gassen: Ijimekkozaru to Shoujiki Kani-san",
+                        "url": "https://myanimelist.net/anime/23867/Saru_Kani_Gassen__Ijimekkozaru_to_Shoujiki_Kani-san"
+                    },
+                    {
+                        "mal_id": 33335,
+                        "type": "anime",
+                        "name": "Hajimete no Eigo: Nippon Mukashibanashi",
+                        "url": "https://myanimelist.net/anime/33335/Hajimete_no_Eigo__Nippon_Mukashibanashi"
+                    },
+                    {
+                        "mal_id": 30059,
+                        "type": "anime",
+                        "name": "Saru Kani Gassen",
+                        "url": "https://myanimelist.net/anime/30059/Saru_Kani_Gassen"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [],
+            "endings": []
+        },
+        "external": [],
+        "streaming": []
+    },
+    "episodes": []
+}

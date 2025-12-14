@@ -1,0 +1,372 @@
+{
+    "id": 141,
+    "fetched_at": "Sun Dec 14 12:41:02 2025",
+    "metadata": {
+        "mal_id": 141,
+        "url": "https://myanimelist.net/anime/141/Jinki_Extend",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/3/44792.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/3/44792t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/3/44792l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/3/44792.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/3/44792t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/3/44792l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": "https://www.youtube-nocookie.com/embed/6WHu_TFrqGY?enablejsapi=1&wmode=opaque&autoplay=1",
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Jinki:Extend"
+            },
+            {
+                "type": "Japanese",
+                "title": "ジンキ・エクステンド"
+            },
+            {
+                "type": "English",
+                "title": "Jinki: Extend"
+            }
+        ],
+        "title": "Jinki:Extend",
+        "title_english": "Jinki: Extend",
+        "title_japanese": "ジンキ・エクステンド",
+        "title_synonyms": [],
+        "type": "TV",
+        "source": "Manga",
+        "episodes": 12,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "2005-01-06T00:00:00+00:00",
+            "to": "2005-03-24T00:00:00+00:00",
+            "prop": {
+                "from": {
+                    "day": 6,
+                    "month": 1,
+                    "year": 2005
+                },
+                "to": {
+                    "day": 24,
+                    "month": 3,
+                    "year": 2005
+                }
+            },
+            "string": "Jan 6, 2005 to Mar 24, 2005"
+        },
+        "duration": "23 min per ep",
+        "rating": "R - 17+ (violence & profanity)",
+        "score": 6.04,
+        "scored_by": 4842,
+        "rank": 10059,
+        "popularity": 6306,
+        "members": 13153,
+        "favorites": 11,
+        "synopsis": "Aoba is a young girl who loves to build models of robots. She lived alone with her grandmother until her grandmother passes away. Shortly after she is kidnapped and brought to a secret base where she discovers a huge robot. The piloted robots fight against Ancient-Jinki in The Grand Savanna, but the true meaning behind the fights is hidden. Aoba works hard at the base so one day she can pilot one of the robots and discover these secrets.",
+        "background": "",
+        "season": "winter",
+        "year": 2005,
+        "broadcast": {
+            "day": "Thursdays",
+            "time": "02:12",
+            "timezone": "Asia/Tokyo",
+            "string": "Thursdays at 02:12 (JST)"
+        },
+        "producers": [
+            {
+                "mal_id": 55,
+                "type": "anime",
+                "name": "TV Asahi",
+                "url": "https://myanimelist.net/anime/producer/55/TV_Asahi"
+            },
+            {
+                "mal_id": 721,
+                "type": "anime",
+                "name": "GANSIS",
+                "url": "https://myanimelist.net/anime/producer/721/GANSIS"
+            },
+            {
+                "mal_id": 3024,
+                "type": "anime",
+                "name": "Fonishia",
+                "url": "https://myanimelist.net/anime/producer/3024/Fonishia"
+            }
+        ],
+        "licensors": [
+            {
+                "mal_id": 97,
+                "type": "anime",
+                "name": "ADV Films",
+                "url": "https://myanimelist.net/anime/producer/97/ADV_Films"
+            },
+            {
+                "mal_id": 102,
+                "type": "anime",
+                "name": "Funimation",
+                "url": "https://myanimelist.net/anime/producer/102/Funimation"
+            }
+        ],
+        "studios": [
+            {
+                "mal_id": 91,
+                "type": "anime",
+                "name": "feel.",
+                "url": "https://myanimelist.net/anime/producer/91/feel"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 24,
+                "type": "anime",
+                "name": "Sci-Fi",
+                "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [
+            {
+                "mal_id": 18,
+                "type": "anime",
+                "name": "Mecha",
+                "url": "https://myanimelist.net/anime/genre/18/Mecha"
+            }
+        ],
+        "demographics": [
+            {
+                "mal_id": 27,
+                "type": "anime",
+                "name": "Shounen",
+                "url": "https://myanimelist.net/anime/genre/27/Shounen"
+            }
+        ],
+        "relations": [
+            {
+                "relation": "Adaptation",
+                "entry": [
+                    {
+                        "mal_id": 1850,
+                        "type": "manga",
+                        "name": "Jinki:Extend",
+                        "url": "https://myanimelist.net/manga/1850/Jinki_Extend"
+                    }
+                ]
+            },
+            {
+                "relation": "Side Story",
+                "entry": [
+                    {
+                        "mal_id": 848,
+                        "type": "anime",
+                        "name": "Jinki:Extend - Sorekara",
+                        "url": "https://myanimelist.net/anime/848/Jinki_Extend_-_Sorekara"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [
+                "\"FLY AWAY\" by unicorn table"
+            ],
+            "endings": [
+                "\"Mirai to Yuu na no Kotae\" by angela"
+            ]
+        },
+        "external": [
+            {
+                "name": "Official Site",
+                "url": "http://www.jinki.info/"
+            },
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=2742"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=4658"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "http://en.wikipedia.org/wiki/Jinki:Extend"
+            }
+        ],
+        "streaming": [
+            {
+                "name": "Crunchyroll",
+                "url": "http://www.crunchyroll.com/series-283245"
+            }
+        ]
+    },
+    "episodes": [
+        {
+            "mal_id": 1,
+            "url": "https://myanimelist.net/anime/141/Jinki_Extend/episode/1",
+            "title": "The Battlefield the Girl Saw",
+            "title_japanese": "少女が見た戦場",
+            "title_romanji": "Shoujo ga Mita Senjou ",
+            "aired": "2005-01-06T00:00:00+00:00",
+            "score": 3.8,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=453641"
+        },
+        {
+            "mal_id": 2,
+            "url": "https://myanimelist.net/anime/141/Jinki_Extend/episode/2",
+            "title": "After the Tears",
+            "title_japanese": "涙のあと",
+            "title_romanji": "Namida no Ato ",
+            "aired": "2005-01-13T00:00:00+00:00",
+            "score": 4.5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=453671"
+        },
+        {
+            "mal_id": 3,
+            "url": "https://myanimelist.net/anime/141/Jinki_Extend/episode/3",
+            "title": "Quality and Quantity",
+            "title_japanese": "質と量",
+            "title_romanji": "Shitsu to Ryou ",
+            "aired": "2005-01-20T00:00:00+00:00",
+            "score": 3.75,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=453673"
+        },
+        {
+            "mal_id": 4,
+            "url": "https://myanimelist.net/anime/141/Jinki_Extend/episode/4",
+            "title": "Face-to-Face",
+            "title_japanese": "対面",
+            "title_romanji": "Taimen ",
+            "aired": "2005-01-27T00:00:00+00:00",
+            "score": 4.5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=453691"
+        },
+        {
+            "mal_id": 5,
+            "url": "https://myanimelist.net/anime/141/Jinki_Extend/episode/5",
+            "title": "Of Enemies and Allies",
+            "title_japanese": "敵と味方と",
+            "title_romanji": "Teki to Mikata to ",
+            "aired": "2005-02-03T00:00:00+00:00",
+            "score": 4.63,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=453697"
+        },
+        {
+            "mal_id": 6,
+            "url": "https://myanimelist.net/anime/141/Jinki_Extend/episode/6",
+            "title": "The Pilot in Black",
+            "title_japanese": "黒の操主",
+            "title_romanji": "Kuro no Soushu ",
+            "aired": "2005-02-10T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=453709"
+        },
+        {
+            "mal_id": 7,
+            "url": "https://myanimelist.net/anime/141/Jinki_Extend/episode/7",
+            "title": "The Ends of Ambition",
+            "title_japanese": "野望の果て",
+            "title_romanji": "Yabou no Hate ",
+            "aired": "2005-02-17T00:00:00+00:00",
+            "score": 4.25,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=453719"
+        },
+        {
+            "mal_id": 8,
+            "url": "https://myanimelist.net/anime/141/Jinki_Extend/episode/8",
+            "title": "Silvery-Winged Visitor",
+            "title_japanese": "銀翼の来訪者",
+            "title_romanji": "Gin'yoku no Raihousha ",
+            "aired": "2005-02-24T00:00:00+00:00",
+            "score": 3.5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=453941"
+        },
+        {
+            "mal_id": 9,
+            "url": "https://myanimelist.net/anime/141/Jinki_Extend/episode/9",
+            "title": "Winner of the Game",
+            "title_japanese": "ゲームの勝者",
+            "title_romanji": "Game no Shousha ",
+            "aired": "2005-03-03T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=453953"
+        },
+        {
+            "mal_id": 10,
+            "url": "https://myanimelist.net/anime/141/Jinki_Extend/episode/10",
+            "title": "Red and Black",
+            "title_japanese": "赤と黒",
+            "title_romanji": "Aka to Kuro ",
+            "aired": "2005-03-10T00:00:00+00:00",
+            "score": 4.29,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=453961"
+        },
+        {
+            "mal_id": 11,
+            "url": "https://myanimelist.net/anime/141/Jinki_Extend/episode/11",
+            "title": "Family",
+            "title_japanese": "家族",
+            "title_romanji": "Kazoku ",
+            "aired": "2005-03-17T00:00:00+00:00",
+            "score": 4.13,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=453965"
+        },
+        {
+            "mal_id": 12,
+            "url": "https://myanimelist.net/anime/141/Jinki_Extend/episode/12",
+            "title": "Blue and Red",
+            "title_japanese": "青と赤",
+            "title_romanji": "Ao to Aka ",
+            "aired": "2005-03-24T00:00:00+00:00",
+            "score": 3.6,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=301537"
+        },
+        {
+            "mal_id": 13,
+            "url": null,
+            "title": "And Then...",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        }
+    ]
+}

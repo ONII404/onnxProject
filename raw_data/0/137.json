@@ -1,0 +1,313 @@
+{
+    "id": 137,
+    "fetched_at": "Sun Dec 14 12:40:44 2025",
+    "metadata": {
+        "mal_id": 137,
+        "url": "https://myanimelist.net/anime/137/Hunter_x_Hunter__Original_Video_Animation",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1/137.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1/137t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1/137l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1/137.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1/137t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1/137l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Hunter x Hunter: Original Video Animation"
+            },
+            {
+                "type": "Synonym",
+                "title": "Hunter x Hunter OVA"
+            },
+            {
+                "type": "Synonym",
+                "title": "Hunter x Hunter: Yorkshin City Kanketsu-hen"
+            },
+            {
+                "type": "Japanese",
+                "title": "HUNTER×HUNTER Original Video Animation"
+            }
+        ],
+        "title": "Hunter x Hunter: Original Video Animation",
+        "title_english": null,
+        "title_japanese": "HUNTER×HUNTER Original Video Animation",
+        "title_synonyms": [
+            "Hunter x Hunter OVA",
+            "Hunter x Hunter: Yorkshin City Kanketsu-hen"
+        ],
+        "type": "OVA",
+        "source": "Manga",
+        "episodes": 8,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "2002-01-17T00:00:00+00:00",
+            "to": "2002-04-17T00:00:00+00:00",
+            "prop": {
+                "from": {
+                    "day": 17,
+                    "month": 1,
+                    "year": 2002
+                },
+                "to": {
+                    "day": 17,
+                    "month": 4,
+                    "year": 2002
+                }
+            },
+            "string": "Jan 17, 2002 to Apr 17, 2002"
+        },
+        "duration": "23 min per ep",
+        "rating": "PG-13 - Teens 13 or older",
+        "score": 8.31,
+        "scored_by": 69890,
+        "rank": 291,
+        "popularity": 1883,
+        "members": 135608,
+        "favorites": 439,
+        "synopsis": "After reuniting with Gon and his friends, Kurapika explained to them the risks he bears because of his abilities. Believing that his target of revenge is no longer alive and the search for his fallen comrade's eyes could truly begin, Kurapika soon after receives a message informing him that all the Spiders still lived. After much discussion between his friends, Gon, Kurapika and company decided to hunt after the one Spider member who's ability could ultimately result in Kurapika's defeat and death. Based on the manga by Togashi Yoshihiro.",
+        "background": "",
+        "season": null,
+        "year": null,
+        "broadcast": {
+            "day": null,
+            "time": null,
+            "timezone": null,
+            "string": null
+        },
+        "producers": [],
+        "licensors": [],
+        "studios": [
+            {
+                "mal_id": 22,
+                "type": "anime",
+                "name": "Nippon Animation",
+                "url": "https://myanimelist.net/anime/producer/22/Nippon_Animation"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 1,
+                "type": "anime",
+                "name": "Action",
+                "url": "https://myanimelist.net/anime/genre/1/Action"
+            },
+            {
+                "mal_id": 2,
+                "type": "anime",
+                "name": "Adventure",
+                "url": "https://myanimelist.net/anime/genre/2/Adventure"
+            },
+            {
+                "mal_id": 10,
+                "type": "anime",
+                "name": "Fantasy",
+                "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [],
+        "demographics": [
+            {
+                "mal_id": 27,
+                "type": "anime",
+                "name": "Shounen",
+                "url": "https://myanimelist.net/anime/genre/27/Shounen"
+            }
+        ],
+        "relations": [
+            {
+                "relation": "Prequel",
+                "entry": [
+                    {
+                        "mal_id": 136,
+                        "type": "anime",
+                        "name": "Hunter x Hunter",
+                        "url": "https://myanimelist.net/anime/136/Hunter_x_Hunter"
+                    }
+                ]
+            },
+            {
+                "relation": "Sequel",
+                "entry": [
+                    {
+                        "mal_id": 138,
+                        "type": "anime",
+                        "name": "Hunter x Hunter: Greed Island",
+                        "url": "https://myanimelist.net/anime/138/Hunter_x_Hunter__Greed_Island"
+                    }
+                ]
+            },
+            {
+                "relation": "Adaptation",
+                "entry": [
+                    {
+                        "mal_id": 26,
+                        "type": "manga",
+                        "name": "Hunter x Hunter",
+                        "url": "https://myanimelist.net/manga/26/Hunter_x_Hunter"
+                    }
+                ]
+            },
+            {
+                "relation": "Alternative Version",
+                "entry": [
+                    {
+                        "mal_id": 11061,
+                        "type": "anime",
+                        "name": "Hunter x Hunter (2011)",
+                        "url": "https://myanimelist.net/anime/11061/Hunter_x_Hunter_2011"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [
+                "\"Pale Ale\" by Kurosawa, Ken'ichi"
+            ],
+            "endings": [
+                "\"Carry on\" by Kurosawa, Ken'ichi"
+            ]
+        },
+        "external": [
+            {
+                "name": "Official Site",
+                "url": "http://www.nippon-animation.co.jp/work/1823/"
+            },
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=173"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=1135"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "http://en.wikipedia.org/wiki/Special:Search/Hunter_x_Hunter"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "https://ja.wikipedia.org/wiki/HUNTER%C3%97HUNTER_(1999%E5%B9%B4%E3%81%AE%E3%82%A2%E3%83%8B%E3%83%A1)#OVA_2"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": [
+        {
+            "mal_id": 1,
+            "url": null,
+            "title": "Spider × Corpse × Fake",
+            "title_japanese": "蜘蛛×死体×フェイク",
+            "title_romanji": "Kumo × Shitai × Fake ",
+            "aired": "2002-01-17T00:00:00+00:00",
+            "score": 4.22,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=277390"
+        },
+        {
+            "mal_id": 2,
+            "url": null,
+            "title": "Friends × Costumes × Hell's Ear",
+            "title_japanese": "仲間×変装×地獄耳",
+            "title_romanji": "Hakama × Hensou × Jigoku Mimi ",
+            "aired": "2002-01-17T00:00:00+00:00",
+            "score": 4.34,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=277399"
+        },
+        {
+            "mal_id": 3,
+            "url": null,
+            "title": "Pursuit × Escape × Spiders on the Run",
+            "title_japanese": "追跡×逃亡×走り出した蜘蛛",
+            "title_romanji": "Tsuiseki × Toubou × Hashiridashita Kumo ",
+            "aired": "2002-02-20T00:00:00+00:00",
+            "score": 4.41,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=277400"
+        },
+        {
+            "mal_id": 4,
+            "url": null,
+            "title": "Hostages × Insignificant Bugs × Communicated Emotions",
+            "title_japanese": "人質×虫けら×伝わった思い",
+            "title_romanji": "Hitojichi × Mushikera × Tsutawatta Omoi ",
+            "aired": "2002-02-20T00:00:00+00:00",
+            "score": 4.55,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=264993"
+        },
+        {
+            "mal_id": 5,
+            "url": null,
+            "title": "Report × Darkness × Released Chain",
+            "title_japanese": "時報×暗闇×放たれた鎖",
+            "title_romanji": "Jihou × Kurayami × Hanatareta Kusari ",
+            "aired": "2002-03-20T00:00:00+00:00",
+            "score": 4.32,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=165283"
+        },
+        {
+            "mal_id": 6,
+            "url": null,
+            "title": "Dispute × Break-up × Swinging Fist",
+            "title_japanese": "挑発×分裂×振り上げた拳",
+            "title_romanji": "Chouhatsu × Bunretsu × Furiageta Kobushi ",
+            "aired": "2002-03-20T00:00:00+00:00",
+            "score": 4.48,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=280021"
+        },
+        {
+            "mal_id": 7,
+            "url": null,
+            "title": "Exchange × Revenge × Judgment Chain",
+            "title_japanese": "交渉×復讐×律する鎖",
+            "title_romanji": "Koushou × Fukushuu × Rissuru Kusari ",
+            "aired": "2002-04-17T00:00:00+00:00",
+            "score": 4.45,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=280028"
+        },
+        {
+            "mal_id": 8,
+            "url": null,
+            "title": "Feelings × Hopelessness × The Spider's Downfall",
+            "title_japanese": "想い×断念×引き裂かれたクモ",
+            "title_romanji": "Omoi × Dannen × Hikisakareta Kumo ",
+            "aired": "2002-04-17T00:00:00+00:00",
+            "score": 4.54,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=280029"
+        }
+    ]
+}

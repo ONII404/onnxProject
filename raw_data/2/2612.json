@@ -1,0 +1,180 @@
+{
+    "id": 2612,
+    "fetched_at": "Sun Dec 14 07:28:31 2025",
+    "metadata": {
+        "mal_id": 2612,
+        "url": "https://myanimelist.net/anime/2612/Spoon_Obasan",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/2/3531.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/2/3531t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/2/3531l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/2/3531.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/2/3531t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/2/3531l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Spoon Obasan"
+            },
+            {
+                "type": "Synonym",
+                "title": "Old-Lady Spoon"
+            },
+            {
+                "type": "Synonym",
+                "title": "Spoon Oba-san"
+            },
+            {
+                "type": "Japanese",
+                "title": "スプーンおばさん"
+            },
+            {
+                "type": "English",
+                "title": "Mrs. Pepperpot"
+            }
+        ],
+        "title": "Spoon Obasan",
+        "title_english": "Mrs. Pepperpot",
+        "title_japanese": "スプーンおばさん",
+        "title_synonyms": [
+            "Old-Lady Spoon",
+            "Spoon Oba-san"
+        ],
+        "type": "TV",
+        "source": "Novel",
+        "episodes": 130,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "1983-04-04T00:00:00+00:00",
+            "to": "1984-03-09T00:00:00+00:00",
+            "prop": {
+                "from": {
+                    "day": 4,
+                    "month": 4,
+                    "year": 1983
+                },
+                "to": {
+                    "day": 9,
+                    "month": 3,
+                    "year": 1984
+                }
+            },
+            "string": "Apr 4, 1983 to Mar 9, 1984"
+        },
+        "duration": "10 min per ep",
+        "rating": "PG - Children",
+        "score": 6.64,
+        "scored_by": 1377,
+        "rank": 6473,
+        "popularity": 11190,
+        "members": 2852,
+        "favorites": 5,
+        "synopsis": "An older woman wears a small spoon around her neck but every now and then, she shrinks to the size of a mouse because of the spoon. She sees the world then from a completely different perspective and has all kind of strange adventures together with Wendy, the mouse and many others.\n\n(Source: ANN)",
+        "background": "",
+        "season": "spring",
+        "year": 1983,
+        "broadcast": {
+            "day": null,
+            "time": null,
+            "timezone": null,
+            "string": "Not scheduled once per week"
+        },
+        "producers": [
+            {
+                "mal_id": 111,
+                "type": "anime",
+                "name": "NHK",
+                "url": "https://myanimelist.net/anime/producer/111/NHK"
+            },
+            {
+                "mal_id": 198,
+                "type": "anime",
+                "name": "Gakken",
+                "url": "https://myanimelist.net/anime/producer/198/Gakken"
+            }
+        ],
+        "licensors": [
+            {
+                "mal_id": 467,
+                "type": "anime",
+                "name": "Discotek Media",
+                "url": "https://myanimelist.net/anime/producer/467/Discotek_Media"
+            }
+        ],
+        "studios": [
+            {
+                "mal_id": 1,
+                "type": "anime",
+                "name": "Studio Pierrot",
+                "url": "https://myanimelist.net/anime/producer/1/Studio_Pierrot"
+            }
+        ],
+        "genres": [],
+        "explicit_genres": [],
+        "themes": [],
+        "demographics": [
+            {
+                "mal_id": 15,
+                "type": "anime",
+                "name": "Kids",
+                "url": "https://myanimelist.net/anime/genre/15/Kids"
+            }
+        ],
+        "relations": [
+            {
+                "relation": "Other",
+                "entry": [
+                    {
+                        "mal_id": 39888,
+                        "type": "anime",
+                        "name": "Ringo no Mori no Koneko-tachi",
+                        "url": "https://myanimelist.net/anime/39888/Ringo_no_Mori_no_Koneko-tachi"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [
+                "\"Yume-iro no Spoon 夢色のスプーン)\" by Mari Iijima"
+            ],
+            "endings": [
+                "\"Ringo no Mori no Koneko-tachi (リンゴの森の子猫たち)\" by Mari Iijima"
+            ]
+        },
+        "external": [
+            {
+                "name": "Official Site",
+                "url": "https://pierrot.jp/archive/1980/tv80_05.html"
+            },
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=2738"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=1467"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": []
+}

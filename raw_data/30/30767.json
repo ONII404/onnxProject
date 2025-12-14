@@ -1,0 +1,157 @@
+{
+    "id": 30767,
+    "fetched_at": "Sun Dec 14 10:45:05 2025",
+    "metadata": {
+        "mal_id": 30767,
+        "url": "https://myanimelist.net/anime/30767/Wonder_3_Pilot",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/13/74032.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/13/74032t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/13/74032l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/13/74032.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/13/74032t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/13/74032l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Wonder 3 Pilot"
+            },
+            {
+                "type": "Synonym",
+                "title": "Wonder Three Pilot"
+            },
+            {
+                "type": "Japanese",
+                "title": "ワンダースリー"
+            }
+        ],
+        "title": "Wonder 3 Pilot",
+        "title_english": null,
+        "title_japanese": "ワンダースリー",
+        "title_synonyms": [
+            "Wonder Three Pilot"
+        ],
+        "type": "Special",
+        "source": "Unknown",
+        "episodes": 1,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "1965-01-01T00:00:00+00:00",
+            "to": null,
+            "prop": {
+                "from": {
+                    "day": 1,
+                    "month": 1,
+                    "year": 1965
+                },
+                "to": {
+                    "day": null,
+                    "month": null,
+                    "year": null
+                }
+            },
+            "string": "1965"
+        },
+        "duration": "15 min",
+        "rating": "G - All Ages",
+        "score": 5.71,
+        "scored_by": 123,
+        "rank": 11809,
+        "popularity": 18922,
+        "members": 430,
+        "favorites": 0,
+        "synopsis": "Wonder Three pilot episode.",
+        "background": "",
+        "season": null,
+        "year": null,
+        "broadcast": {
+            "day": null,
+            "time": null,
+            "timezone": null,
+            "string": null
+        },
+        "producers": [],
+        "licensors": [],
+        "studios": [
+            {
+                "mal_id": 68,
+                "type": "anime",
+                "name": "Mushi Production",
+                "url": "https://myanimelist.net/anime/producer/68/Mushi_Production"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 1,
+                "type": "anime",
+                "name": "Action",
+                "url": "https://myanimelist.net/anime/genre/1/Action"
+            },
+            {
+                "mal_id": 2,
+                "type": "anime",
+                "name": "Adventure",
+                "url": "https://myanimelist.net/anime/genre/2/Adventure"
+            },
+            {
+                "mal_id": 4,
+                "type": "anime",
+                "name": "Comedy",
+                "url": "https://myanimelist.net/anime/genre/4/Comedy"
+            },
+            {
+                "mal_id": 24,
+                "type": "anime",
+                "name": "Sci-Fi",
+                "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [],
+        "demographics": [],
+        "relations": [
+            {
+                "relation": "Alternative Version",
+                "entry": [
+                    {
+                        "mal_id": 4088,
+                        "type": "anime",
+                        "name": "Wonder 3",
+                        "url": "https://myanimelist.net/anime/4088/Wonder_3"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [],
+            "endings": []
+        },
+        "external": [
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=2876"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": []
+}

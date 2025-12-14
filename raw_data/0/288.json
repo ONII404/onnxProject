@@ -1,0 +1,881 @@
+{
+    "id": 288,
+    "fetched_at": "Sun Dec 14 12:55:17 2025",
+    "metadata": {
+        "mal_id": 288,
+        "url": "https://myanimelist.net/anime/288/Bakuten_Shoot_Beyblade",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1429/127983.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1429/127983t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1429/127983l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1429/127983.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1429/127983t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1429/127983l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Bakuten Shoot Beyblade"
+            },
+            {
+                "type": "Japanese",
+                "title": "爆転シュート　ベイブレード"
+            },
+            {
+                "type": "English",
+                "title": "Beyblade"
+            },
+            {
+                "type": "German",
+                "title": "Beyblade"
+            }
+        ],
+        "title": "Bakuten Shoot Beyblade",
+        "title_english": "Beyblade",
+        "title_japanese": "爆転シュート　ベイブレード",
+        "title_synonyms": [],
+        "type": "TV",
+        "source": "Manga",
+        "episodes": 51,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "2001-01-08T00:00:00+00:00",
+            "to": "2001-12-24T00:00:00+00:00",
+            "prop": {
+                "from": {
+                    "day": 8,
+                    "month": 1,
+                    "year": 2001
+                },
+                "to": {
+                    "day": 24,
+                    "month": 12,
+                    "year": 2001
+                }
+            },
+            "string": "Jan 8, 2001 to Dec 24, 2001"
+        },
+        "duration": "23 min per ep",
+        "rating": "PG - Children",
+        "score": 6.8,
+        "scored_by": 75732,
+        "rank": 5508,
+        "popularity": 2050,
+        "members": 120904,
+        "favorites": 427,
+        "synopsis": "Thirteen-year-old Tyson Granger (Takao Kinomiya), along with his fellow teammates, Kai Hiwatari, Max Tate (Max Mizuhura), and Ray Kon (Rei Kon), strive to become the greatest Beybladers in the world. With the technical help of the team's resident genius, Kenny (Kyouju), and with the powerful strength of their BitBeasts, the Bladebreakers armed with their tops (AKA: Blades) attempt to reach their goal.\n\n(Source: ANN)",
+        "background": "",
+        "season": "winter",
+        "year": 2001,
+        "broadcast": {
+            "day": "Mondays",
+            "time": "18:00",
+            "timezone": "Asia/Tokyo",
+            "string": "Mondays at 18:00 (JST)"
+        },
+        "producers": [
+            {
+                "mal_id": 16,
+                "type": "anime",
+                "name": "TV Tokyo",
+                "url": "https://myanimelist.net/anime/producer/16/TV_Tokyo"
+            },
+            {
+                "mal_id": 127,
+                "type": "anime",
+                "name": "Yomiko Advertising",
+                "url": "https://myanimelist.net/anime/producer/127/Yomiko_Advertising"
+            },
+            {
+                "mal_id": 164,
+                "type": "anime",
+                "name": "d-rights",
+                "url": "https://myanimelist.net/anime/producer/164/d-rights"
+            },
+            {
+                "mal_id": 3172,
+                "type": "anime",
+                "name": "Arts Pro",
+                "url": "https://myanimelist.net/anime/producer/3172/Arts_Pro"
+            }
+        ],
+        "licensors": [
+            {
+                "mal_id": 215,
+                "type": "anime",
+                "name": "Nelvana",
+                "url": "https://myanimelist.net/anime/producer/215/Nelvana"
+            },
+            {
+                "mal_id": 467,
+                "type": "anime",
+                "name": "Discotek Media",
+                "url": "https://myanimelist.net/anime/producer/467/Discotek_Media"
+            }
+        ],
+        "studios": [
+            {
+                "mal_id": 11,
+                "type": "anime",
+                "name": "Madhouse",
+                "url": "https://myanimelist.net/anime/producer/11/Madhouse"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 2,
+                "type": "anime",
+                "name": "Adventure",
+                "url": "https://myanimelist.net/anime/genre/2/Adventure"
+            },
+            {
+                "mal_id": 4,
+                "type": "anime",
+                "name": "Comedy",
+                "url": "https://myanimelist.net/anime/genre/4/Comedy"
+            },
+            {
+                "mal_id": 30,
+                "type": "anime",
+                "name": "Sports",
+                "url": "https://myanimelist.net/anime/genre/30/Sports"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [],
+        "demographics": [
+            {
+                "mal_id": 15,
+                "type": "anime",
+                "name": "Kids",
+                "url": "https://myanimelist.net/anime/genre/15/Kids"
+            }
+        ],
+        "relations": [
+            {
+                "relation": "Sequel",
+                "entry": [
+                    {
+                        "mal_id": 1669,
+                        "type": "anime",
+                        "name": "Bakuten Shoot Beyblade 2002",
+                        "url": "https://myanimelist.net/anime/1669/Bakuten_Shoot_Beyblade_2002"
+                    }
+                ]
+            },
+            {
+                "relation": "Adaptation",
+                "entry": [
+                    {
+                        "mal_id": 852,
+                        "type": "manga",
+                        "name": "Bakuten Shoot Beyblade",
+                        "url": "https://myanimelist.net/manga/852/Bakuten_Shoot_Beyblade"
+                    }
+                ]
+            },
+            {
+                "relation": "Spin-Off",
+                "entry": [
+                    {
+                        "mal_id": 55978,
+                        "type": "anime",
+                        "name": "BeyWarriors: Cyborg",
+                        "url": "https://myanimelist.net/anime/55978/BeyWarriors__Cyborg"
+                    }
+                ]
+            },
+            {
+                "relation": "Other",
+                "entry": [
+                    {
+                        "mal_id": 5962,
+                        "type": "anime",
+                        "name": "Metal Fight Beyblade",
+                        "url": "https://myanimelist.net/anime/5962/Metal_Fight_Beyblade"
+                    },
+                    {
+                        "mal_id": 31049,
+                        "type": "anime",
+                        "name": "Beyblade Burst",
+                        "url": "https://myanimelist.net/anime/31049/Beyblade_Burst"
+                    },
+                    {
+                        "mal_id": 56566,
+                        "type": "anime",
+                        "name": "Beyblade X",
+                        "url": "https://myanimelist.net/anime/56566/Beyblade_X"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [
+                "1: \"Fighting Spirits-SONG FOR BEYBLADE-\" by system-B"
+            ],
+            "endings": [
+                "1: \"Cheer Song\" by system-B"
+            ]
+        },
+        "external": [
+            {
+                "name": "Official Site",
+                "url": "http://www.d-rights.com/beyblade/2002/2001/index.html"
+            },
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=595"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=931"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "http://en.wikipedia.org/wiki/Beyblade"
+            }
+        ],
+        "streaming": [
+            {
+                "name": "Crunchyroll",
+                "url": "http://www.crunchyroll.com/series-268755"
+            },
+            {
+                "name": "Netflix",
+                "url": "https://www.netflix.com/"
+            }
+        ]
+    },
+    "episodes": [
+        {
+            "mal_id": 1,
+            "url": "https://myanimelist.net/anime/288/Bakuten_Shoot_Beyblade/episode/1",
+            "title": "The Blade Raider",
+            "title_japanese": "爆転バトル、ゴー·シュート!",
+            "title_romanji": "Bakuten Battle, Go Shoot! ",
+            "aired": "2001-01-08T00:00:00+00:00",
+            "score": 4.23,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=772651"
+        },
+        {
+            "mal_id": 2,
+            "url": "https://myanimelist.net/anime/288/Bakuten_Shoot_Beyblade/episode/2",
+            "title": "Day of the Dragoon",
+            "title_japanese": "ほえろ青龍! ドラグーン誕生!",
+            "title_romanji": "Hoero Seiryuu! Dragoon Tanjou! ",
+            "aired": "2001-01-15T00:00:00+00:00",
+            "score": 3.85,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=772731"
+        },
+        {
+            "mal_id": 3,
+            "url": "https://myanimelist.net/anime/288/Bakuten_Shoot_Beyblade/episode/3",
+            "title": "Take it to the Max!",
+            "title_japanese": "新しき友、その名はマックス",
+            "title_romanji": "Atarashiki Tomo, Sono Na wa Max ",
+            "aired": "2001-01-22T00:00:00+00:00",
+            "score": 4.12,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=772779"
+        },
+        {
+            "mal_id": 4,
+            "url": "https://myanimelist.net/anime/288/Bakuten_Shoot_Beyblade/episode/4",
+            "title": "The Qualifier Begins",
+            "title_japanese": "開幕! バトルトーナメント",
+            "title_romanji": "Kaimaku! Battle Tournament ",
+            "aired": "2001-01-29T00:00:00+00:00",
+            "score": 4.29,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=846679"
+        },
+        {
+            "mal_id": 5,
+            "url": "https://myanimelist.net/anime/288/Bakuten_Shoot_Beyblade/episode/5",
+            "title": "Draciel of Approval",
+            "title_japanese": "激突! マックスVSカイ",
+            "title_romanji": "Gekitotsu! Max vs Kai ",
+            "aired": "2001-02-05T00:00:00+00:00",
+            "score": 4.17,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=846937"
+        },
+        {
+            "mal_id": 6,
+            "url": "https://myanimelist.net/anime/288/Bakuten_Shoot_Beyblade/episode/6",
+            "title": "Dragoon Storm",
+            "title_japanese": "吹き荒れろ! ドラグーンストーム",
+            "title_romanji": "Fukiareru! Dragoon Storm ",
+            "aired": "2001-02-12T00:00:00+00:00",
+            "score": 4.09,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=847059"
+        },
+        {
+            "mal_id": 7,
+            "url": "https://myanimelist.net/anime/288/Bakuten_Shoot_Beyblade/episode/7",
+            "title": "Thirteen Candles",
+            "title_japanese": "タカオVSカイ 宿命の対決",
+            "title_romanji": "Takao vs Kai Shukumei no Taiketsu ",
+            "aired": "2001-02-19T00:00:00+00:00",
+            "score": 3.94,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=854513"
+        },
+        {
+            "mal_id": 8,
+            "url": "https://myanimelist.net/anime/288/Bakuten_Shoot_Beyblade/episode/8",
+            "title": "Bladin' in the Streets",
+            "title_japanese": "結成! BBAチーム、世界へ",
+            "title_romanji": "Kessei! BBA Team Sekai e ",
+            "aired": "2001-02-26T00:00:00+00:00",
+            "score": 3.59,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=854535"
+        },
+        {
+            "mal_id": 9,
+            "url": "https://myanimelist.net/anime/288/Bakuten_Shoot_Beyblade/episode/9",
+            "title": "Showdown in Hong Kong",
+            "title_japanese": "新たなる聖獣、白虎族",
+            "title_romanji": "Aratanaru Seijuu Byakkozoku ",
+            "aired": "2001-03-05T00:00:00+00:00",
+            "score": 3.9,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=854547"
+        },
+        {
+            "mal_id": 10,
+            "url": "https://myanimelist.net/anime/288/Bakuten_Shoot_Beyblade/episode/10",
+            "title": "Battle in the Sky",
+            "title_japanese": "駆け上がれ! アジア大会!",
+            "title_romanji": "Kakeagare! Asia Taikai! ",
+            "aired": "2001-03-12T00:00:00+00:00",
+            "score": 4.16,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=854557"
+        },
+        {
+            "mal_id": 11,
+            "url": "https://myanimelist.net/anime/288/Bakuten_Shoot_Beyblade/episode/11",
+            "title": "Bye Bye Bit Beast",
+            "title_japanese": "レイ、白虎を失う!",
+            "title_romanji": "Rei, Byakko wo Ushinau! ",
+            "aired": "2001-03-19T00:00:00+00:00",
+            "score": 3.88,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=860671"
+        },
+        {
+            "mal_id": 12,
+            "url": "https://myanimelist.net/anime/288/Bakuten_Shoot_Beyblade/episode/12",
+            "title": "Adios Bladebreakers",
+            "title_japanese": "さらばBBΑチーム!",
+            "title_romanji": "Saraba BBA Team! ",
+            "aired": "2001-03-26T00:00:00+00:00",
+            "score": 3.44,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=860747"
+        },
+        {
+            "mal_id": 13,
+            "url": "https://myanimelist.net/anime/288/Bakuten_Shoot_Beyblade/episode/13",
+            "title": "Crouching Lion, Hidden Tiger",
+            "title_japanese": "さけべレイ! うなれ白虎!",
+            "title_romanji": "Sakebe Rei! Unare Byakko! ",
+            "aired": "2001-04-02T00:00:00+00:00",
+            "score": 3.83,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=891781"
+        },
+        {
+            "mal_id": 14,
+            "url": "https://myanimelist.net/anime/288/Bakuten_Shoot_Beyblade/episode/14",
+            "title": "The Race is On!",
+            "title_japanese": "不戦敗? 分断のBBΑチーム",
+            "title_romanji": "Fusenpai? Bundan no BBA Team ",
+            "aired": "2001-04-09T00:00:00+00:00",
+            "score": 3.36,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=891861"
+        },
+        {
+            "mal_id": 15,
+            "url": "https://myanimelist.net/anime/288/Bakuten_Shoot_Beyblade/episode/15",
+            "title": "Going for the Gold",
+            "title_japanese": "決戦!アジアの頂点をかけて!",
+            "title_romanji": "Kessen! Asia no Chouten wo Kakete! ",
+            "aired": "2001-04-16T00:00:00+00:00",
+            "score": 3.5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=905581"
+        },
+        {
+            "mal_id": 16,
+            "url": "https://myanimelist.net/anime/288/Bakuten_Shoot_Beyblade/episode/16",
+            "title": "My Enemy, My Friend",
+            "title_japanese": "白虎VS山猫",
+            "title_romanji": "Byakko VS Yamaneko ",
+            "aired": "2001-04-23T00:00:00+00:00",
+            "score": 3.91,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=905731"
+        },
+        {
+            "mal_id": 17,
+            "url": "https://myanimelist.net/anime/288/Bakuten_Shoot_Beyblade/episode/17",
+            "title": "A Score to Settle",
+            "title_japanese": "ファイナルバトル!漆黒の稲妻!",
+            "title_romanji": "Final Battle! Shikkoku no Inazuma! ",
+            "aired": "2001-04-30T00:00:00+00:00",
+            "score": 3.64,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1070637"
+        },
+        {
+            "mal_id": 18,
+            "url": "https://myanimelist.net/anime/288/Bakuten_Shoot_Beyblade/episode/18",
+            "title": "A Star is Born!",
+            "title_japanese": "負けるな!小さなブレーダー",
+            "title_romanji": "Makeru na! Chiisana Blader ",
+            "aired": "2001-05-07T00:00:00+00:00",
+            "score": 3.4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1070667"
+        },
+        {
+            "mal_id": 19,
+            "url": "https://myanimelist.net/anime/288/Bakuten_Shoot_Beyblade/episode/19",
+            "title": "Under the Microscope",
+            "title_japanese": "上陸、新たな戦場!",
+            "title_romanji": "Jouriku, Arata na Senjou! ",
+            "aired": "2001-05-14T00:00:00+00:00",
+            "score": 3.73,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1070677"
+        },
+        {
+            "mal_id": 20,
+            "url": "https://myanimelist.net/anime/288/Bakuten_Shoot_Beyblade/episode/20",
+            "title": "All Relative",
+            "title_japanese": "戦慄のアメリカン・パワー!",
+            "title_romanji": "Senritsu no American Power! ",
+            "aired": "2001-05-21T00:00:00+00:00",
+            "score": 3.86,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1070691"
+        },
+        {
+            "mal_id": 21,
+            "url": "https://myanimelist.net/anime/288/Bakuten_Shoot_Beyblade/episode/21",
+            "title": "Practice Makes Perfect",
+            "title_japanese": "特訓!新しき力を求めて",
+            "title_romanji": "Tokkun! Atarashiki Chikara wo Motomete ",
+            "aired": "2001-05-28T00:00:00+00:00",
+            "score": 3,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1074255"
+        },
+        {
+            "mal_id": 22,
+            "url": "https://myanimelist.net/anime/288/Bakuten_Shoot_Beyblade/episode/22",
+            "title": "Blading with the Stars",
+            "title_japanese": "大統領VS世界選抜!",
+            "title_romanji": "Daitouryou VS Sekai Senbatsu! ",
+            "aired": "2001-06-04T00:00:00+00:00",
+            "score": 3.8,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1074271"
+        },
+        {
+            "mal_id": 23,
+            "url": "https://myanimelist.net/anime/288/Bakuten_Shoot_Beyblade/episode/23",
+            "title": "Showdown in Vegas",
+            "title_japanese": "開幕 アメリカ大会!",
+            "title_romanji": "Kaimaku America Taikai! ",
+            "aired": "2001-06-11T00:00:00+00:00",
+            "score": 4.27,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1081643"
+        },
+        {
+            "mal_id": 24,
+            "url": "https://myanimelist.net/anime/288/Bakuten_Shoot_Beyblade/episode/24",
+            "title": "Viva Las Vegas",
+            "title_japanese": "アメリカンヒーロー、マイケルの力",
+            "title_romanji": "American Hero, Michael no Chikara ",
+            "aired": "2001-06-18T00:00:00+00:00",
+            "score": 3.67,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1081689"
+        },
+        {
+            "mal_id": 25,
+            "url": "https://myanimelist.net/anime/288/Bakuten_Shoot_Beyblade/episode/25",
+            "title": "My Way or the Highway",
+            "title_japanese": "準決勝、超高速サーキット!!",
+            "title_romanji": "Junkesshou, Choukousoku Circuit!! ",
+            "aired": "2001-06-25T00:00:00+00:00",
+            "score": 3.55,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1081721"
+        },
+        {
+            "mal_id": 26,
+            "url": "https://myanimelist.net/anime/288/Bakuten_Shoot_Beyblade/episode/26",
+            "title": "Catch a Shooting All-Star",
+            "title_japanese": "激突!アメリカ大会決勝戦",
+            "title_romanji": "Gekitotsu! America Taikai Kesshousen ",
+            "aired": "2001-07-02T00:00:00+00:00",
+            "score": 3.75,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1081833"
+        },
+        {
+            "mal_id": 27,
+            "url": "https://myanimelist.net/anime/288/Bakuten_Shoot_Beyblade/episode/27",
+            "title": "The Battle of America",
+            "title_japanese": "灼熱のスコーピオン!",
+            "title_romanji": "Shakunetsu no Scorpion! ",
+            "aired": "2001-07-09T00:00:00+00:00",
+            "score": 3.56,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1081855"
+        },
+        {
+            "mal_id": 28,
+            "url": "https://myanimelist.net/anime/288/Bakuten_Shoot_Beyblade/episode/28",
+            "title": "Bottom of the Ninth",
+            "title_japanese": "決着!アメリカ大会!!",
+            "title_romanji": "Kecchaku! America Taikai!! ",
+            "aired": "2001-07-16T00:00:00+00:00",
+            "score": 3.73,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1081881"
+        },
+        {
+            "mal_id": 29,
+            "url": "https://myanimelist.net/anime/288/Bakuten_Shoot_Beyblade/episode/29",
+            "title": "Play it Again, Dizzi!",
+            "title_japanese": "BBA 熱き戦いの軌跡",
+            "title_romanji": "BBA Atsuki Tatakai no Kiseki ",
+            "aired": "2001-07-23T00:00:00+00:00",
+            "score": 3.18,
+            "filler": false,
+            "recap": true,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1081897"
+        },
+        {
+            "mal_id": 30,
+            "url": "https://myanimelist.net/anime/288/Bakuten_Shoot_Beyblade/episode/30",
+            "title": "Cruising For A Bruising",
+            "title_japanese": "聖獣を従える者",
+            "title_romanji": "Seijuu wo Shitagaeru Mono ",
+            "aired": "2001-07-30T00:00:00+00:00",
+            "score": 3.6,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1081913"
+        },
+        {
+            "mal_id": 31,
+            "url": "https://myanimelist.net/anime/288/Bakuten_Shoot_Beyblade/episode/31",
+            "title": "London Calling",
+            "title_japanese": "ヨーロッパ、波乱の旅立ち",
+            "title_romanji": "Europe, Haran no Tabidachi ",
+            "aired": "2001-08-06T00:00:00+00:00",
+            "score": 3.78,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1081927"
+        },
+        {
+            "mal_id": 32,
+            "url": "https://myanimelist.net/anime/288/Bakuten_Shoot_Beyblade/episode/32",
+            "title": "Darkness at the End of the Tunnel...",
+            "title_japanese": "強襲! 闇のブレーダー!",
+            "title_romanji": "Kyoushuu! Yami no Blader! ",
+            "aired": "2001-08-13T00:00:00+00:00",
+            "score": 3.64,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1081949"
+        },
+        {
+            "mal_id": 33,
+            "url": "https://myanimelist.net/anime/288/Bakuten_Shoot_Beyblade/episode/33",
+            "title": "Last Tangle in Paris",
+            "title_japanese": "黒い影の軍団",
+            "title_romanji": "Kuroi Kage no Gundan ",
+            "aired": "2001-08-20T00:00:00+00:00",
+            "score": 3.5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1083025"
+        },
+        {
+            "mal_id": 34,
+            "url": "https://myanimelist.net/anime/288/Bakuten_Shoot_Beyblade/episode/34",
+            "title": "Art Attack",
+            "title_japanese": "華麗なる聖獣使い",
+            "title_romanji": "Karei Naru Seijuu Tsukai ",
+            "aired": "2001-08-27T00:00:00+00:00",
+            "score": 3.67,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1083093"
+        },
+        {
+            "mal_id": 35,
+            "url": "https://myanimelist.net/anime/288/Bakuten_Shoot_Beyblade/episode/35",
+            "title": "When in Rome... Beyblade!",
+            "title_japanese": "コロッセオの決闘!",
+            "title_romanji": "Colloseum no Kettou! ",
+            "aired": "2001-09-03T00:00:00+00:00",
+            "score": 3.8,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1083111"
+        },
+        {
+            "mal_id": 36,
+            "url": "https://myanimelist.net/anime/288/Bakuten_Shoot_Beyblade/episode/36",
+            "title": "Déjà vu all Over Again",
+            "title_japanese": "倒せ!アンピスバイナ",
+            "title_romanji": "Taose! Amphisbaena ",
+            "aired": "2001-09-10T00:00:00+00:00",
+            "score": 4.2,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1083131"
+        },
+        {
+            "mal_id": 37,
+            "url": "https://myanimelist.net/anime/288/Bakuten_Shoot_Beyblade/episode/37",
+            "title": "A Knight to Remember!",
+            "title_japanese": "女王陛下のブレーダー",
+            "title_romanji": "Joouheika no Blader ",
+            "aired": "2001-09-17T00:00:00+00:00",
+            "score": 3.9,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1093075"
+        },
+        {
+            "mal_id": 38,
+            "url": "https://myanimelist.net/anime/288/Bakuten_Shoot_Beyblade/episode/38",
+            "title": "Olympia Challenge",
+            "title_japanese": "結成!最強のユーロチーム",
+            "title_romanji": "Kessei! Saikyou no Euro Team ",
+            "aired": "2001-09-24T00:00:00+00:00",
+            "score": 4.14,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1093091"
+        },
+        {
+            "mal_id": 39,
+            "url": "https://myanimelist.net/anime/288/Bakuten_Shoot_Beyblade/episode/39",
+            "title": "A Majestic Battle... a Majestic Victory?",
+            "title_japanese": "決めろ!勝利への力",
+            "title_romanji": "Kimero! Shouri e no Chikara ",
+            "aired": "2001-10-01T00:00:00+00:00",
+            "score": 4.11,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1094103"
+        },
+        {
+            "mal_id": 40,
+            "url": "https://myanimelist.net/anime/288/Bakuten_Shoot_Beyblade/episode/40",
+            "title": "Hot Battle in a Cold Town",
+            "title_japanese": "決勝の地ロシア",
+            "title_romanji": "Kesshou no Chi Russia ",
+            "aired": "2001-10-08T00:00:00+00:00",
+            "score": 4.46,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1094117"
+        },
+        {
+            "mal_id": 41,
+            "url": "https://myanimelist.net/anime/288/Bakuten_Shoot_Beyblade/episode/41",
+            "title": "Out of the Past",
+            "title_japanese": "いまわしき記憶の扉",
+            "title_romanji": "Imawashiki Kioku no Tobira ",
+            "aired": "2001-10-15T00:00:00+00:00",
+            "score": 4.6,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1098873"
+        },
+        {
+            "mal_id": 42,
+            "url": "https://myanimelist.net/anime/288/Bakuten_Shoot_Beyblade/episode/42",
+            "title": "Drawn to the Darkness",
+            "title_japanese": "最強を望む者",
+            "title_romanji": "Saikyou wo Nozomu Mono ",
+            "aired": "2001-10-22T00:00:00+00:00",
+            "score": 4.18,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1098909"
+        },
+        {
+            "mal_id": 43,
+            "url": "https://myanimelist.net/anime/288/Bakuten_Shoot_Beyblade/episode/43",
+            "title": "Live and Let Kai!",
+            "title_japanese": "悪夢のセレモニーマッチ",
+            "title_romanji": "Akumu no Ceremony Match ",
+            "aired": "2001-10-29T00:00:00+00:00",
+            "score": 4.33,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1134377"
+        },
+        {
+            "mal_id": 44,
+            "url": "https://myanimelist.net/anime/288/Bakuten_Shoot_Beyblade/episode/44",
+            "title": "Losing Kai",
+            "title_japanese": "さらばカイ!",
+            "title_romanji": "Saraba Kai! ",
+            "aired": "2001-11-05T00:00:00+00:00",
+            "score": 4.33,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1134391"
+        },
+        {
+            "mal_id": 45,
+            "url": "https://myanimelist.net/anime/288/Bakuten_Shoot_Beyblade/episode/45",
+            "title": "Breaking the Ice",
+            "title_japanese": "バイカル湖の決闘",
+            "title_romanji": "Baikal-ko no Kettou ",
+            "aired": "2001-11-12T00:00:00+00:00",
+            "score": 4.08,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1134413"
+        },
+        {
+            "mal_id": 46,
+            "url": "https://myanimelist.net/anime/288/Bakuten_Shoot_Beyblade/episode/46",
+            "title": "First Strike",
+            "title_japanese": "ボーグ襲来!",
+            "title_romanji": "Borg Shuurai! ",
+            "aired": "2001-11-19T00:00:00+00:00",
+            "score": 4.56,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1134421"
+        },
+        {
+            "mal_id": 47,
+            "url": "https://myanimelist.net/anime/288/Bakuten_Shoot_Beyblade/episode/47",
+            "title": "A Lesson for Tyson",
+            "title_japanese": "再会!ユーロチーム",
+            "title_romanji": "Saikai! Euro Team ",
+            "aired": "2001-11-26T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1134431"
+        },
+        {
+            "mal_id": 48,
+            "url": "https://myanimelist.net/anime/288/Bakuten_Shoot_Beyblade/episode/48",
+            "title": "Victory in Defeat",
+            "title_japanese": "カイの選択",
+            "title_romanji": "Kai no Sentaku ",
+            "aired": "2001-12-03T00:00:00+00:00",
+            "score": 4.5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1135587"
+        },
+        {
+            "mal_id": 49,
+            "url": "https://myanimelist.net/anime/288/Bakuten_Shoot_Beyblade/episode/49",
+            "title": "A Wicked Wind Blows",
+            "title_japanese": "白虎の叫び",
+            "title_romanji": "Byakko no Sakebi ",
+            "aired": "2001-12-10T00:00:00+00:00",
+            "score": 4.53,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1135611"
+        },
+        {
+            "mal_id": 50,
+            "url": "https://myanimelist.net/anime/288/Bakuten_Shoot_Beyblade/episode/50",
+            "title": "New and Cyber-Improved...",
+            "title_japanese": "雪原の黙示録",
+            "title_romanji": "Setsugen no Mokushiroku ",
+            "aired": "2001-12-17T00:00:00+00:00",
+            "score": 4.4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1135627"
+        },
+        {
+            "mal_id": 51,
+            "url": "https://myanimelist.net/anime/288/Bakuten_Shoot_Beyblade/episode/51",
+            "title": "Final Showdown",
+            "title_japanese": "ベイブレードよ永遠に!",
+            "title_romanji": "Beyblade yo Eien ni! ",
+            "aired": "2001-12-24T00:00:00+00:00",
+            "score": 4.39,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1135637"
+        }
+    ]
+}

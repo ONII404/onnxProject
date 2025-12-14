@@ -1,0 +1,834 @@
+{
+    "id": 132,
+    "fetched_at": "Sun Dec 14 12:40:15 2025",
+    "metadata": {
+        "mal_id": 132,
+        "url": "https://myanimelist.net/anime/132/GetBackers",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1056/109721.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1056/109721t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1056/109721l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1056/109721.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1056/109721t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1056/109721l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": "https://www.youtube-nocookie.com/embed/Och-uZvtJ0A?enablejsapi=1&wmode=opaque&autoplay=1",
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "GetBackers"
+            },
+            {
+                "type": "Synonym",
+                "title": "GetBackers: Dakkanya"
+            },
+            {
+                "type": "Japanese",
+                "title": "ゲットバッカーズ　奪還屋"
+            },
+            {
+                "type": "English",
+                "title": "Getbackers"
+            },
+            {
+                "type": "German",
+                "title": "Getbackers"
+            },
+            {
+                "type": "Spanish",
+                "title": "Get Backers"
+            },
+            {
+                "type": "French",
+                "title": "Get Backers"
+            }
+        ],
+        "title": "GetBackers",
+        "title_english": "Getbackers",
+        "title_japanese": "ゲットバッカーズ　奪還屋",
+        "title_synonyms": [
+            "GetBackers: Dakkanya"
+        ],
+        "type": "TV",
+        "source": "Manga",
+        "episodes": 49,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "2002-10-05T00:00:00+00:00",
+            "to": "2003-09-20T00:00:00+00:00",
+            "prop": {
+                "from": {
+                    "day": 5,
+                    "month": 10,
+                    "year": 2002
+                },
+                "to": {
+                    "day": 20,
+                    "month": 9,
+                    "year": 2003
+                }
+            },
+            "string": "Oct 5, 2002 to Sep 20, 2003"
+        },
+        "duration": "24 min per ep",
+        "rating": "PG-13 - Teens 13 or older",
+        "score": 7.56,
+        "scored_by": 55326,
+        "rank": 1789,
+        "popularity": 1962,
+        "members": 127650,
+        "favorites": 910,
+        "synopsis": "Mido Ban and Amano Ginji are known as the Get Backers, retrievers with a success rate of 100%. Whatever is lost or stolen, they can definitely get it back. Despite their powerful abilities and enthusiastic behavior, Ban and Ginji are terminally broke no matter what they do simply because few people would actually desire to hire them. As a result, the pair of them tend to do dangerous jobs, often leading to unwanted re-encounters with their old (and dangerous) friends.",
+        "background": "",
+        "season": "fall",
+        "year": 2002,
+        "broadcast": {
+            "day": "Saturdays",
+            "time": "17:30",
+            "timezone": "Asia/Tokyo",
+            "string": "Saturdays at 17:30 (JST)"
+        },
+        "producers": [
+            {
+                "mal_id": 145,
+                "type": "anime",
+                "name": "TBS",
+                "url": "https://myanimelist.net/anime/producer/145/TBS"
+            },
+            {
+                "mal_id": 159,
+                "type": "anime",
+                "name": "Kodansha",
+                "url": "https://myanimelist.net/anime/producer/159/Kodansha"
+            },
+            {
+                "mal_id": 160,
+                "type": "anime",
+                "name": "Rondo Robe",
+                "url": "https://myanimelist.net/anime/producer/160/Rondo_Robe"
+            },
+            {
+                "mal_id": 211,
+                "type": "anime",
+                "name": "Rakuonsha",
+                "url": "https://myanimelist.net/anime/producer/211/Rakuonsha"
+            }
+        ],
+        "licensors": [
+            {
+                "mal_id": 97,
+                "type": "anime",
+                "name": "ADV Films",
+                "url": "https://myanimelist.net/anime/producer/97/ADV_Films"
+            },
+            {
+                "mal_id": 376,
+                "type": "anime",
+                "name": "Sentai Filmworks",
+                "url": "https://myanimelist.net/anime/producer/376/Sentai_Filmworks"
+            }
+        ],
+        "studios": [
+            {
+                "mal_id": 37,
+                "type": "anime",
+                "name": "Studio Deen",
+                "url": "https://myanimelist.net/anime/producer/37/Studio_Deen"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 1,
+                "type": "anime",
+                "name": "Action",
+                "url": "https://myanimelist.net/anime/genre/1/Action"
+            },
+            {
+                "mal_id": 7,
+                "type": "anime",
+                "name": "Mystery",
+                "url": "https://myanimelist.net/anime/genre/7/Mystery"
+            },
+            {
+                "mal_id": 37,
+                "type": "anime",
+                "name": "Supernatural",
+                "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [
+            {
+                "mal_id": 31,
+                "type": "anime",
+                "name": "Super Power",
+                "url": "https://myanimelist.net/anime/genre/31/Super_Power"
+            }
+        ],
+        "demographics": [
+            {
+                "mal_id": 27,
+                "type": "anime",
+                "name": "Shounen",
+                "url": "https://myanimelist.net/anime/genre/27/Shounen"
+            }
+        ],
+        "relations": [
+            {
+                "relation": "Adaptation",
+                "entry": [
+                    {
+                        "mal_id": 19,
+                        "type": "manga",
+                        "name": "GetBackers",
+                        "url": "https://myanimelist.net/manga/19/GetBackers"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [
+                "1: \"Yuragu Koto Nai Ai\" by Naomi Tamura (eps 1-25)",
+                "2: \"Barairo no Sekai\" by PIERROT (eps 26-49)"
+            ],
+            "endings": [
+                "1: \"Ichibyo No Refrain\" by Otoha (eps 1-13)",
+                "2: \"Namida no Hurricane\" by Bon Bon Blanco (eps 14-25)",
+                "3: \"Mr. Déjà vu\" by naja (eps 26-37)",
+                "4: \"Changin'\" by Nona Reeves (eps 38-48)",
+                "5: \"Yuragu Koto Nai Ai\" by Naomi Tamura (eps 49)"
+            ]
+        },
+        "external": [
+            {
+                "name": "Official Site",
+                "url": "http://www.tbs.co.jp/getbackers/"
+            },
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=272"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=1840"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "http://en.wikipedia.org/wiki/Get_Backers"
+            }
+        ],
+        "streaming": [
+            {
+                "name": "HIDIVE",
+                "url": "https://www.hidive.com/tv/get-backers"
+            }
+        ]
+    },
+    "episodes": [
+        {
+            "mal_id": 1,
+            "url": null,
+            "title": "The Initials are G & B",
+            "title_japanese": "イニシャルはG&B",
+            "title_romanji": "Initial wa G to B ",
+            "aired": "2002-10-05T00:00:00+00:00",
+            "score": 4.1,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=37821"
+        },
+        {
+            "mal_id": 2,
+            "url": null,
+            "title": "Get Back the Rusted Bonds!",
+            "title_japanese": "錆びた絆を奪り還せ!",
+            "title_romanji": "Sabita Kizuna wo Torikaese! ",
+            "aired": "2002-10-12T00:00:00+00:00",
+            "score": 4.12,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=453399"
+        },
+        {
+            "mal_id": 3,
+            "url": null,
+            "title": "Operation: Recover the Platinum!",
+            "title_japanese": "プラチナ奪還作戦!",
+            "title_romanji": "Platinum Dakkan Sakusen! ",
+            "aired": "2002-10-19T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=37822"
+        },
+        {
+            "mal_id": 4,
+            "url": null,
+            "title": "Recovery Service vs. Transport Service",
+            "title_japanese": "奪還屋VS運び屋",
+            "title_romanji": "Dakkanya vs Hakobiya ",
+            "aired": "2002-10-26T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=37823"
+        },
+        {
+            "mal_id": 5,
+            "url": null,
+            "title": "Death Match at Sunrise: The Lightning Emperor vs. Doctor Jackal",
+            "title_japanese": "暁の死闘 雷帝 VS Dr. J",
+            "title_romanji": "Akatsuki no Shitou: Raitei vs Dr. Jackal ",
+            "aired": "2002-11-02T00:00:00+00:00",
+            "score": 3.92,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=210174"
+        },
+        {
+            "mal_id": 6,
+            "url": null,
+            "title": "Get Back the Divine Melody!",
+            "title_japanese": "神の旋律を奪り還せ!",
+            "title_romanji": "Kami no Shirabe wo Torikaese! ",
+            "aired": "2002-11-09T00:00:00+00:00",
+            "score": 4.25,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=254943"
+        },
+        {
+            "mal_id": 7,
+            "url": null,
+            "title": "The Animal Transformation of the Beast Master",
+            "title_japanese": "獣変化ビーストマスター",
+            "title_romanji": "Juuhenge Beast Master ",
+            "aired": "2002-11-16T00:00:00+00:00",
+            "score": 4.08,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=254957"
+        },
+        {
+            "mal_id": 8,
+            "url": null,
+            "title": "Timbre of Life, Resound!",
+            "title_japanese": "響け、生命の音色",
+            "title_romanji": "Hibike, Inochi no Oto ",
+            "aired": "2002-11-23T00:00:00+00:00",
+            "score": 4.25,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=626025"
+        },
+        {
+            "mal_id": 9,
+            "url": null,
+            "title": "Get Back the Phantom Sunflowers! (Part One)",
+            "title_japanese": "幻のひまわりを奪り還せ!·前編",
+            "title_romanji": "Maboroshi no Himawari wo Torikaese! (Zenpen) ",
+            "aired": "2002-11-30T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=676397"
+        },
+        {
+            "mal_id": 10,
+            "url": null,
+            "title": "Get Back the Phantom Sunflowers! (Part Two)",
+            "title_japanese": "幻のひまわりを奪り還せ!·後編",
+            "title_romanji": "Maboroshi no Himawari wo Torikaese! (Kouhen) ",
+            "aired": "2002-12-07T00:00:00+00:00",
+            "score": 4.17,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=38200"
+        },
+        {
+            "mal_id": 11,
+            "url": null,
+            "title": "Breach the Limitless Fortress Operation: Recover IL",
+            "title_japanese": "潜入、無限城·IL奪還作戦",
+            "title_romanji": "Sennyuu, Mugenjou: IL Dakkan Sakusen ",
+            "aired": "2002-12-14T00:00:00+00:00",
+            "score": 4.43,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=538062"
+        },
+        {
+            "mal_id": 12,
+            "url": null,
+            "title": "The Unknown Boy, Makubex",
+            "title_japanese": "未知なる少年、MAKUBEX",
+            "title_romanji": "Michinaru Shounen, Makubex ",
+            "aired": "2002-12-21T00:00:00+00:00",
+            "score": 4.29,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=489091"
+        },
+        {
+            "mal_id": 13,
+            "url": null,
+            "title": "Explosion! Fuchouin-School Thread Technique",
+            "title_japanese": "炸裂!風鳥院流弦術",
+            "title_romanji": "Sakuretsu! Fuuchouinryuu Genjutsu ",
+            "aired": "2002-11-28T00:00:00+00:00",
+            "score": 4.25,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=538074"
+        },
+        {
+            "mal_id": 14,
+            "url": null,
+            "title": "The New Four Kings",
+            "title_japanese": "新たなる四天王",
+            "title_romanji": "Aratanaru Shitennou ",
+            "aired": "2003-01-11T00:00:00+00:00",
+            "score": 4.5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=676689"
+        },
+        {
+            "mal_id": 15,
+            "url": null,
+            "title": "The Loulan Dance Whip That Whirls in the Night",
+            "title_japanese": "闇に舞う楼蘭舞踏鞭",
+            "title_romanji": "Yami ni Mau Loulan Butouben ",
+            "aired": "2003-01-18T00:00:00+00:00",
+            "score": 4.27,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=38529"
+        },
+        {
+            "mal_id": 16,
+            "url": null,
+            "title": "Explosion! The Lightning Emperor Angry",
+            "title_japanese": "爆発!怒りの雷帝",
+            "title_romanji": "Bakuhatsu! Ikari no Raitei ",
+            "aired": "2003-01-25T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=38695"
+        },
+        {
+            "mal_id": 17,
+            "url": null,
+            "title": "Gathering, Retrieval Team!",
+            "title_japanese": "集結、奪還チーム!",
+            "title_romanji": "Shuuketsu, Dakkan Team! ",
+            "aired": "2003-02-01T00:00:00+00:00",
+            "score": 3.75,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=676791"
+        },
+        {
+            "mal_id": 18,
+            "url": null,
+            "title": "Crash! Shido vs. Emishi",
+            "title_japanese": "激突!士度VS笑師",
+            "title_romanji": "Gekitotsu! Shido VS Emishi ",
+            "aired": "2003-02-08T00:00:00+00:00",
+            "score": 3.6,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=538118"
+        },
+        {
+            "mal_id": 19,
+            "url": null,
+            "title": "Oh, My Friend... Kazuki vs. Juubei",
+            "title_japanese": "友よ...花月VS十兵衛",
+            "title_romanji": "Tomo yo... Kazuki VS Juubei ",
+            "aired": "2003-02-15T00:00:00+00:00",
+            "score": 3.83,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=213514"
+        },
+        {
+            "mal_id": 20,
+            "url": null,
+            "title": "The Man From Babylon City",
+            "title_japanese": "バビロンシティから来た男",
+            "title_romanji": "Babylon City kara Kita Otoko ",
+            "aired": "2003-02-22T00:00:00+00:00",
+            "score": 3.5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=676821"
+        },
+        {
+            "mal_id": 21,
+            "url": null,
+            "title": "Blades of Revenge: Ban vs. Fudou",
+            "title_japanese": "復習の刃·蛮VS不動",
+            "title_romanji": "Fukushuu no Yaiba: Ban vs Fudou ",
+            "aired": "2003-03-01T00:00:00+00:00",
+            "score": 3.5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=538196"
+        },
+        {
+            "mal_id": 22,
+            "url": null,
+            "title": "Awakening! The Advent of the Lightning Emperor",
+            "title_japanese": "覚醒!雷帝降臨",
+            "title_romanji": "Kakusei! Raitei Kourin ",
+            "aired": "2003-03-08T00:00:00+00:00",
+            "score": 4.44,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=42001"
+        },
+        {
+            "mal_id": 23,
+            "url": null,
+            "title": "Attack! Virtual Corps",
+            "title_japanese": "襲撃!ヴァーチャル軍団",
+            "title_romanji": "Shuugeki! Virtual Gundan ",
+            "aired": "2003-03-15T00:00:00+00:00",
+            "score": 3.25,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=677127"
+        },
+        {
+            "mal_id": 24,
+            "url": null,
+            "title": "The Final Fight! Ginji vs. Makubex",
+            "title_japanese": "最後の戦い!銀次 VS MAKUBEX",
+            "title_romanji": "Saigo no Tatakai! Ginji vs Makubex ",
+            "aired": "2003-03-22T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=677145"
+        },
+        {
+            "mal_id": 25,
+            "url": null,
+            "title": "Get Back the Limitless Future!",
+            "title_japanese": "無限の未来を奪り還せ!",
+            "title_romanji": "Mugen no Mirai wo Torikaese! ",
+            "aired": "2003-04-05T00:00:00+00:00",
+            "score": 3.09,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=503403"
+        },
+        {
+            "mal_id": 26,
+            "url": null,
+            "title": "Stream Recovery: The Hot Springs Travel Diary!?",
+            "title_japanese": "湯けむり温泉奪還紀行!?",
+            "title_romanji": "Yukemuri Onsen Dakkan Kikou!? ",
+            "aired": "2003-04-12T00:00:00+00:00",
+            "score": 3.89,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=42476"
+        },
+        {
+            "mal_id": 27,
+            "url": null,
+            "title": "High School Girl vs. Recovery Service",
+            "title_japanese": "女子高生VS奪還屋",
+            "title_romanji": "Jyoshikousei VS Dakkanya ",
+            "aired": "2003-04-19T00:00:00+00:00",
+            "score": 3.46,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=105573"
+        },
+        {
+            "mal_id": 28,
+            "url": null,
+            "title": "The Man Who Lost His Past",
+            "title_japanese": "過去を失くした男",
+            "title_romanji": "Kako wo Nakushita Otoko ",
+            "aired": "2003-04-26T00:00:00+00:00",
+            "score": 3.33,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=677183"
+        },
+        {
+            "mal_id": 29,
+            "url": null,
+            "title": "Get Back the Arms of the Goddess!",
+            "title_japanese": "女神の腕を奪り還せ!",
+            "title_romanji": "Megami no Ude wo Torikaese! ",
+            "aired": "2003-05-03T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=43362"
+        },
+        {
+            "mal_id": 30,
+            "url": null,
+            "title": "Mystery Assassins: The Miroku Brothers",
+            "title_japanese": "謎の刺客·弥勒兄弟",
+            "title_romanji": "Nazo no Shikaku: Miroku Kyoudai ",
+            "aired": "2003-05-10T00:00:00+00:00",
+            "score": 3.75,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=490263"
+        },
+        {
+            "mal_id": 31,
+            "url": null,
+            "title": "Hera and Kait",
+            "title_japanese": "ヘラとカイト",
+            "title_romanji": "Hera to Kait ",
+            "aired": "2003-05-17T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=677211"
+        },
+        {
+            "mal_id": 32,
+            "url": null,
+            "title": "The Mission Starts! Ginji vs. Miroku",
+            "title_japanese": "作戦開始!銀次VS弥勒",
+            "title_romanji": "Mission Start! Ginji vs Miroku ",
+            "aired": "2003-05-24T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=677219"
+        },
+        {
+            "mal_id": 33,
+            "url": null,
+            "title": "Get Back the Eternal Goddess!",
+            "title_japanese": "永久の女神を奪り還せ!",
+            "title_romanji": "Towa no Megami wo Torikaese! ",
+            "aired": "2003-05-31T00:00:00+00:00",
+            "score": 3.6,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=677231"
+        },
+        {
+            "mal_id": 34,
+            "url": null,
+            "title": "The GetBackers Break Up?! The Enemy is Ban Midou!",
+            "title_japanese": "GB解散?!敵は美堂蛮!",
+            "title_romanji": "GB Kaisan?! Teki wa Midou Ban! ",
+            "aired": "2003-06-07T00:00:00+00:00",
+            "score": 3.88,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=43861"
+        },
+        {
+            "mal_id": 35,
+            "url": null,
+            "title": "Get Back the Flame of Life!",
+            "title_japanese": "命の炎を奪り還せ!",
+            "title_romanji": "Inochi no Honoo wo Torikaese! ",
+            "aired": "2003-06-14T00:00:00+00:00",
+            "score": 4.5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=677253"
+        },
+        {
+            "mal_id": 36,
+            "url": null,
+            "title": "Children of Destiny",
+            "title_japanese": "運命の子供たち",
+            "title_romanji": "Unmei no Kodomo-tachi ",
+            "aired": "2003-06-21T00:00:00+00:00",
+            "score": 5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=677259"
+        },
+        {
+            "mal_id": 37,
+            "url": null,
+            "title": "Do Your Best, Natsumi!",
+            "title_japanese": "夏実がんばる!",
+            "title_romanji": "Natsumi Ganbaru! ",
+            "aired": "2003-06-28T00:00:00+00:00",
+            "score": 4.29,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=148832"
+        },
+        {
+            "mal_id": 38,
+            "url": null,
+            "title": "A Recital Just For You",
+            "title_japanese": "あなただけのリサイタル",
+            "title_romanji": "Anata dake no Recital ",
+            "aired": "2003-07-05T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=677677"
+        },
+        {
+            "mal_id": 39,
+            "url": null,
+            "title": "Ginji's Hospitalized? It's a Hospital! Everyone Assembled",
+            "title_japanese": "銀次入院?病院ダヨ!全員集合!",
+            "title_romanji": "Ginji Nyuuin? Byouin Da yo! Zenin Shuugou! ",
+            "aired": "2003-07-12T00:00:00+00:00",
+            "score": 4.88,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=44405"
+        },
+        {
+            "mal_id": 40,
+            "url": null,
+            "title": "Monkey Counterattack!",
+            "title_japanese": "逆襲の猿!",
+            "title_romanji": "Gyakushuu no Saru! ",
+            "aired": "2003-07-19T00:00:00+00:00",
+            "score": 3.29,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=677695"
+        },
+        {
+            "mal_id": 41,
+            "url": null,
+            "title": "Farewell, My Beloved",
+            "title_japanese": "さらば愛しき人よ",
+            "title_romanji": "Saraba Itoshiki Hito yo ",
+            "aired": "2003-07-26T00:00:00+00:00",
+            "score": 4.2,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=677715"
+        },
+        {
+            "mal_id": 42,
+            "url": null,
+            "title": "The Cost of Betrayal",
+            "title_japanese": "裏切りの代償",
+            "title_romanji": "Uragiri no Daishou ",
+            "aired": "2003-08-02T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=677721"
+        },
+        {
+            "mal_id": 43,
+            "url": null,
+            "title": "The Man Who Came Back... The Limitless Fortress, Once More",
+            "title_japanese": "帰ってきた男...無限城、再び",
+            "title_romanji": "Kaettekita Otoko... Mugenjyou, Futatabi ",
+            "aired": "2003-08-09T00:00:00+00:00",
+            "score": 4.25,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=678017"
+        },
+        {
+            "mal_id": 44,
+            "url": null,
+            "title": "The Last of the Four Kings",
+            "title_japanese": "最後の四天王",
+            "title_romanji": "Saigo no Shitennou ",
+            "aired": "2003-08-16T00:00:00+00:00",
+            "score": 4.67,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=678025"
+        },
+        {
+            "mal_id": 45,
+            "url": null,
+            "title": "Demon of Revenge: Fudou Passes Away Dies",
+            "title_japanese": "復讐鬼·不動逝く",
+            "title_romanji": "Fukushuuki: Fudou Iku ",
+            "aired": "2003-08-23T00:00:00+00:00",
+            "score": 4.6,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=678055"
+        },
+        {
+            "mal_id": 46,
+            "url": null,
+            "title": "The Brain Trust",
+            "title_japanese": "ブレイン·トラスト",
+            "title_romanji": "Brain Trust ",
+            "aired": "2003-08-30T00:00:00+00:00",
+            "score": 4.44,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=44933"
+        },
+        {
+            "mal_id": 47,
+            "url": null,
+            "title": "Storm the Beltline! Ginji vs. Masaki",
+            "title_japanese": "ベルトライン突入!銀次VS柾",
+            "title_romanji": "Belt-line Totsunyuu! Ginji vs Masaki ",
+            "aired": "2003-09-06T00:00:00+00:00",
+            "score": 4.5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=678073"
+        },
+        {
+            "mal_id": 48,
+            "url": null,
+            "title": "Fated Showdown: Ban vs. Akabane",
+            "title_japanese": "宿命の対決、·蛮VS赤屍",
+            "title_romanji": "Shukumei no Taiketsu, Ban vs Akabane ",
+            "aired": "2003-09-13T00:00:00+00:00",
+            "score": 4.67,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=45104"
+        },
+        {
+            "mal_id": 49,
+            "url": null,
+            "title": "GetBackers",
+            "title_japanese": "ゲットバッカーズ",
+            "title_romanji": "GetBackers ",
+            "aired": "2003-09-20T00:00:00+00:00",
+            "score": 4.08,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=45614"
+        }
+    ]
+}

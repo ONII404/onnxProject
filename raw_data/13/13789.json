@@ -1,0 +1,172 @@
+{
+    "id": 13789,
+    "fetched_at": "Sun Dec 14 09:43:18 2025",
+    "metadata": {
+        "mal_id": 13789,
+        "url": "https://myanimelist.net/anime/13789/Little_Nemo_Pilot_1984",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1957/153724.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1957/153724t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1957/153724l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1957/153724.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1957/153724t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1957/153724l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Little Nemo Pilot (1984)"
+            },
+            {
+                "type": "Japanese",
+                "title": "リトル・ニモ パイロット"
+            },
+            {
+                "type": "English",
+                "title": "Little Nemo: Adventures in Slumberland Pilot"
+            }
+        ],
+        "title": "Little Nemo Pilot (1984)",
+        "title_english": "Little Nemo: Adventures in Slumberland Pilot",
+        "title_japanese": "リトル・ニモ パイロット",
+        "title_synonyms": [],
+        "type": "Special",
+        "source": "Picture book",
+        "episodes": 1,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "1984-01-01T00:00:00+00:00",
+            "to": null,
+            "prop": {
+                "from": {
+                    "day": 1,
+                    "month": 1,
+                    "year": 1984
+                },
+                "to": {
+                    "day": null,
+                    "month": null,
+                    "year": null
+                }
+            },
+            "string": "1984"
+        },
+        "duration": "3 min",
+        "rating": "G - All Ages",
+        "score": 6.17,
+        "scored_by": 646,
+        "rank": 9345,
+        "popularity": 13696,
+        "members": 1371,
+        "favorites": 0,
+        "synopsis": "Little Nemo: Adventures in Slumberland was released in American theaters in 1992. However, at one point earlier in its development many people from Studio Ghibli (Spirited Away, My Neighbour Totoro) had been involved with the project. In 1984 they produced this test pilot.",
+        "background": "",
+        "season": null,
+        "year": null,
+        "broadcast": {
+            "day": null,
+            "time": null,
+            "timezone": null,
+            "string": null
+        },
+        "producers": [
+            {
+                "mal_id": 65,
+                "type": "anime",
+                "name": "Tokyo Movie Shinsha",
+                "url": "https://myanimelist.net/anime/producer/65/Tokyo_Movie_Shinsha"
+            }
+        ],
+        "licensors": [
+            {
+                "mal_id": 467,
+                "type": "anime",
+                "name": "Discotek Media",
+                "url": "https://myanimelist.net/anime/producer/467/Discotek_Media"
+            }
+        ],
+        "studios": [
+            {
+                "mal_id": 73,
+                "type": "anime",
+                "name": "TMS Entertainment",
+                "url": "https://myanimelist.net/anime/producer/73/TMS_Entertainment"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 2,
+                "type": "anime",
+                "name": "Adventure",
+                "url": "https://myanimelist.net/anime/genre/2/Adventure"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [],
+        "demographics": [],
+        "relations": [
+            {
+                "relation": "Alternative Version",
+                "entry": [
+                    {
+                        "mal_id": 49117,
+                        "type": "anime",
+                        "name": "Little Nemo Pilot",
+                        "url": "https://myanimelist.net/anime/49117/Little_Nemo_Pilot"
+                    },
+                    {
+                        "mal_id": 20463,
+                        "type": "anime",
+                        "name": "Little Nemo Pilot (1987)",
+                        "url": "https://myanimelist.net/anime/20463/Little_Nemo_Pilot_1987"
+                    }
+                ]
+            },
+            {
+                "relation": "Other",
+                "entry": [
+                    {
+                        "mal_id": 2286,
+                        "type": "anime",
+                        "name": "Little Nemo",
+                        "url": "https://myanimelist.net/anime/2286/Little_Nemo"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [],
+            "endings": []
+        },
+        "external": [
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=2530"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "http://en.wikipedia.org/wiki/Little_Nemo:_Adventures_in_Slumberland#Production"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": []
+}

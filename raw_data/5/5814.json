@@ -1,0 +1,130 @@
+{
+    "id": 5814,
+    "fetched_at": "Sun Dec 14 08:51:45 2025",
+    "metadata": {
+        "mal_id": 5814,
+        "url": "https://myanimelist.net/anime/5814/Dankichi-jima_no_Olympic_Taikai",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/4/12226.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/4/12226t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/4/12226l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/4/12226.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/4/12226t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/4/12226l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Dankichi-jima no Olympic Taikai"
+            },
+            {
+                "type": "Japanese",
+                "title": "ダン吉島のオリムピック大会"
+            },
+            {
+                "type": "English",
+                "title": "Olympic Games on Dankichi Island"
+            }
+        ],
+        "title": "Dankichi-jima no Olympic Taikai",
+        "title_english": "Olympic Games on Dankichi Island",
+        "title_japanese": "ダン吉島のオリムピック大会",
+        "title_synonyms": [],
+        "type": "Movie",
+        "source": "Original",
+        "episodes": 1,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "1932-01-01T00:00:00+00:00",
+            "to": null,
+            "prop": {
+                "from": {
+                    "day": 1,
+                    "month": 1,
+                    "year": 1932
+                },
+                "to": {
+                    "day": null,
+                    "month": null,
+                    "year": null
+                }
+            },
+            "string": "1932"
+        },
+        "duration": "2 min",
+        "rating": "G - All Ages",
+        "score": 4.25,
+        "scored_by": 942,
+        "rank": 14363,
+        "popularity": 12999,
+        "members": 1663,
+        "favorites": 0,
+        "synopsis": "Short movie from 1932.",
+        "background": "",
+        "season": null,
+        "year": null,
+        "broadcast": {
+            "day": null,
+            "time": null,
+            "timezone": null,
+            "string": null
+        },
+        "producers": [],
+        "licensors": [],
+        "studios": [],
+        "genres": [
+            {
+                "mal_id": 30,
+                "type": "anime",
+                "name": "Sports",
+                "url": "https://myanimelist.net/anime/genre/30/Sports"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [],
+        "demographics": [],
+        "relations": [
+            {
+                "relation": "Prequel",
+                "entry": [
+                    {
+                        "mal_id": 6849,
+                        "type": "anime",
+                        "name": "Bouken Dankichi: Hyouryuu no Maki",
+                        "url": "https://myanimelist.net/anime/6849/Bouken_Dankichi__Hyouryuu_no_Maki"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [],
+            "endings": []
+        },
+        "external": [
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=6711"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": []
+}

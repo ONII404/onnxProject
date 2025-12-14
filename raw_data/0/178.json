@@ -1,0 +1,528 @@
+{
+    "id": 178,
+    "fetched_at": "Sun Dec 14 12:44:30 2025",
+    "metadata": {
+        "mal_id": 178,
+        "url": "https://myanimelist.net/anime/178/Ultra_Maniac",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/8/53571.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/8/53571t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/8/53571l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/8/53571.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/8/53571t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/8/53571l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Ultra Maniac"
+            },
+            {
+                "type": "Japanese",
+                "title": "ウルトラマニアック"
+            },
+            {
+                "type": "English",
+                "title": "Ultra Maniac"
+            }
+        ],
+        "title": "Ultra Maniac",
+        "title_english": "Ultra Maniac",
+        "title_japanese": "ウルトラマニアック",
+        "title_synonyms": [],
+        "type": "TV",
+        "source": "Manga",
+        "episodes": 26,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "2003-05-20T00:00:00+00:00",
+            "to": "2003-11-11T00:00:00+00:00",
+            "prop": {
+                "from": {
+                    "day": 20,
+                    "month": 5,
+                    "year": 2003
+                },
+                "to": {
+                    "day": 11,
+                    "month": 11,
+                    "year": 2003
+                }
+            },
+            "string": "May 20, 2003 to Nov 11, 2003"
+        },
+        "duration": "23 min per ep",
+        "rating": "G - All Ages",
+        "score": 7.15,
+        "scored_by": 14614,
+        "rank": 3767,
+        "popularity": 4157,
+        "members": 36067,
+        "favorites": 150,
+        "synopsis": "Fantasies and miracles never interested Ayu Tateishi, a popular second-year student at her middle school. She was content with preserving her image of being cool, calm, and collected—all to catch the eye of her crush, Tetsushi Kaji. Ayu's carefree youthful days are interrupted by the appearance of Nina Sakura, a new transfer student who turns out to be a witch. As the only person who knows about Nina's ability to cast spells using a mini-computer, Ayu is forced to help Nina with her mission to find the five Holy Stones, qualifying her to marry the prince of the Magic Kingdom.\n\nUnfortunately, Nina's ineptitude with magic and her habit of meddling in Ayu's personal life cause nothing but trouble for the two of them as Ayu toils to maintain her good reputation and Nina struggles to hide her secret from the discerning eye of Hiroki Tsujiai, Tetsushi's best friend and an avid fan of manga. And when Nina's search for the five Holy Stones brings allies and challengers from the Magic Kingdom, Ayu is dragged into a world she never even dreamed was possible.\n\n[Written by MAL Rewrite]",
+        "background": "",
+        "season": "spring",
+        "year": 2003,
+        "broadcast": {
+            "day": "Tuesdays",
+            "time": "22:00",
+            "timezone": "Asia/Tokyo",
+            "string": "Tuesdays at 22:00 (JST)"
+        },
+        "producers": [
+            {
+                "mal_id": 318,
+                "type": "anime",
+                "name": "WAO World",
+                "url": "https://myanimelist.net/anime/producer/318/WAO_World"
+            }
+        ],
+        "licensors": [
+            {
+                "mal_id": 467,
+                "type": "anime",
+                "name": "Discotek Media",
+                "url": "https://myanimelist.net/anime/producer/467/Discotek_Media"
+            },
+            {
+                "mal_id": 1459,
+                "type": "anime",
+                "name": "Geneon Entertainment USA",
+                "url": "https://myanimelist.net/anime/producer/1459/Geneon_Entertainment_USA"
+            }
+        ],
+        "studios": [
+            {
+                "mal_id": 242,
+                "type": "anime",
+                "name": "Ashi Productions",
+                "url": "https://myanimelist.net/anime/producer/242/Ashi_Productions"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 4,
+                "type": "anime",
+                "name": "Comedy",
+                "url": "https://myanimelist.net/anime/genre/4/Comedy"
+            },
+            {
+                "mal_id": 10,
+                "type": "anime",
+                "name": "Fantasy",
+                "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+            },
+            {
+                "mal_id": 22,
+                "type": "anime",
+                "name": "Romance",
+                "url": "https://myanimelist.net/anime/genre/22/Romance"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [
+            {
+                "mal_id": 23,
+                "type": "anime",
+                "name": "School",
+                "url": "https://myanimelist.net/anime/genre/23/School"
+            }
+        ],
+        "demographics": [
+            {
+                "mal_id": 25,
+                "type": "anime",
+                "name": "Shoujo",
+                "url": "https://myanimelist.net/anime/genre/25/Shoujo"
+            }
+        ],
+        "relations": [
+            {
+                "relation": "Adaptation",
+                "entry": [
+                    {
+                        "mal_id": 956,
+                        "type": "manga",
+                        "name": "Ultra Maniac",
+                        "url": "https://myanimelist.net/manga/956/Ultra_Maniac"
+                    }
+                ]
+            },
+            {
+                "relation": "Alternative Version",
+                "entry": [
+                    {
+                        "mal_id": 179,
+                        "type": "anime",
+                        "name": "Ultra Maniac OVA",
+                        "url": "https://myanimelist.net/anime/179/Ultra_Maniac_OVA"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [
+                "\"Kagami no Naka\" by can/goo"
+            ],
+            "endings": [
+                "\"Hitotsu=Unmei Kyoudoutai\" by can/goo"
+            ]
+        },
+        "external": [
+            {
+                "name": "Official Site",
+                "url": "http://www.animax.co.jp/ultra_m/"
+            },
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=710"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=2287"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "http://en.wikipedia.org/wiki/Ultra_Maniac"
+            }
+        ],
+        "streaming": [
+            {
+                "name": "Crunchyroll",
+                "url": "http://www.crunchyroll.com/series-277977"
+            }
+        ]
+    },
+    "episodes": [
+        {
+            "mal_id": 1,
+            "url": "https://myanimelist.net/anime/178/Ultra_Maniac/episode/1",
+            "title": "Ayu & Nina",
+            "title_japanese": "Ayu & Nina",
+            "title_romanji": "Ayu & Nina ",
+            "aired": "2003-05-20T00:00:00+00:00",
+            "score": 4.21,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=271179"
+        },
+        {
+            "mal_id": 2,
+            "url": "https://myanimelist.net/anime/178/Ultra_Maniac/episode/2",
+            "title": "Boy Meets Girl",
+            "title_japanese": "Boy meets girl",
+            "title_romanji": "Boy Meets Girl ",
+            "aired": "2003-05-27T00:00:00+00:00",
+            "score": 4.29,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=271180"
+        },
+        {
+            "mal_id": 3,
+            "url": "https://myanimelist.net/anime/178/Ultra_Maniac/episode/3",
+            "title": "Change Over",
+            "title_japanese": "Change over",
+            "title_romanji": "Change Over ",
+            "aired": "2003-06-03T00:00:00+00:00",
+            "score": 4.3,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=271181"
+        },
+        {
+            "mal_id": 4,
+            "url": "https://myanimelist.net/anime/178/Ultra_Maniac/episode/4",
+            "title": "D.C. (Da Capo)",
+            "title_japanese": "Da Capo)",
+            "title_romanji": "Da Capo (D.C. ",
+            "aired": "2003-06-10T00:00:00+00:00",
+            "score": 4.33,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=271182"
+        },
+        {
+            "mal_id": 5,
+            "url": "https://myanimelist.net/anime/178/Ultra_Maniac/episode/5",
+            "title": "Enigma",
+            "title_japanese": "Enigma",
+            "title_romanji": "Enigma ",
+            "aired": "2003-06-17T00:00:00+00:00",
+            "score": 4.2,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=271184"
+        },
+        {
+            "mal_id": 6,
+            "url": "https://myanimelist.net/anime/178/Ultra_Maniac/episode/6",
+            "title": "Fight Over",
+            "title_japanese": "Fight over",
+            "title_romanji": "Fight Over ",
+            "aired": "2003-06-24T00:00:00+00:00",
+            "score": 4.31,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=121580"
+        },
+        {
+            "mal_id": 7,
+            "url": "https://myanimelist.net/anime/178/Ultra_Maniac/episode/7",
+            "title": "Gigantic Pets",
+            "title_japanese": "Gigantic pets",
+            "title_romanji": "Gigantic Pets ",
+            "aired": "2003-07-01T00:00:00+00:00",
+            "score": 3.92,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=271187"
+        },
+        {
+            "mal_id": 8,
+            "url": "https://myanimelist.net/anime/178/Ultra_Maniac/episode/8",
+            "title": "Hello, Little Girls",
+            "title_japanese": "Hello, little girls",
+            "title_romanji": "Hello, Little Girls ",
+            "aired": "2003-07-08T00:00:00+00:00",
+            "score": 4.56,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=271188"
+        },
+        {
+            "mal_id": 9,
+            "url": "https://myanimelist.net/anime/178/Ultra_Maniac/episode/9",
+            "title": "Item",
+            "title_japanese": "Item",
+            "title_romanji": "Item ",
+            "aired": "2003-07-15T00:00:00+00:00",
+            "score": 4.17,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=271189"
+        },
+        {
+            "mal_id": 10,
+            "url": "https://myanimelist.net/anime/178/Ultra_Maniac/episode/10",
+            "title": "Jack Straw",
+            "title_japanese": "Jack straw",
+            "title_romanji": "Jack Straw ",
+            "aired": "2003-07-22T00:00:00+00:00",
+            "score": 4.55,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=271190"
+        },
+        {
+            "mal_id": 11,
+            "url": "https://myanimelist.net/anime/178/Ultra_Maniac/episode/11",
+            "title": "Knight Spirit",
+            "title_japanese": "Knight spirit",
+            "title_romanji": "Knight Spirit ",
+            "aired": "2003-07-29T00:00:00+00:00",
+            "score": 4.3,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=271191"
+        },
+        {
+            "mal_id": 12,
+            "url": "https://myanimelist.net/anime/178/Ultra_Maniac/episode/12",
+            "title": "Lovesick Night",
+            "title_japanese": "Lovesick night",
+            "title_romanji": "Lovesick Night ",
+            "aired": "2003-08-05T00:00:00+00:00",
+            "score": 4.58,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=271192"
+        },
+        {
+            "mal_id": 13,
+            "url": "https://myanimelist.net/anime/178/Ultra_Maniac/episode/13",
+            "title": "Magic Vest",
+            "title_japanese": "Magic vest",
+            "title_romanji": "Magic Vest ",
+            "aired": "2003-08-12T00:00:00+00:00",
+            "score": 4.33,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=271193"
+        },
+        {
+            "mal_id": 14,
+            "url": "https://myanimelist.net/anime/178/Ultra_Maniac/episode/14",
+            "title": "Negative Girl",
+            "title_japanese": "Negative girl",
+            "title_romanji": "Negative Girl ",
+            "aired": "2003-08-19T00:00:00+00:00",
+            "score": 4.56,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=271194"
+        },
+        {
+            "mal_id": 15,
+            "url": "https://myanimelist.net/anime/178/Ultra_Maniac/episode/15",
+            "title": "Orange Stone",
+            "title_japanese": "Orange stone",
+            "title_romanji": "Orange Stone ",
+            "aired": "2003-08-26T00:00:00+00:00",
+            "score": 4.55,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=271195"
+        },
+        {
+            "mal_id": 16,
+            "url": "https://myanimelist.net/anime/178/Ultra_Maniac/episode/16",
+            "title": "Pinch Hitter",
+            "title_japanese": "Pinch hitter",
+            "title_romanji": "Pinch Hitter ",
+            "aired": "2003-09-02T00:00:00+00:00",
+            "score": 4.67,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=271196"
+        },
+        {
+            "mal_id": 17,
+            "url": "https://myanimelist.net/anime/178/Ultra_Maniac/episode/17",
+            "title": "Quest",
+            "title_japanese": "Quest",
+            "title_romanji": "Quest ",
+            "aired": "2003-09-09T00:00:00+00:00",
+            "score": 4.76,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=271198"
+        },
+        {
+            "mal_id": 18,
+            "url": "https://myanimelist.net/anime/178/Ultra_Maniac/episode/18",
+            "title": "R & B",
+            "title_japanese": "R&B",
+            "title_romanji": "R & B ",
+            "aired": "2003-09-16T00:00:00+00:00",
+            "score": 4.31,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=271200"
+        },
+        {
+            "mal_id": 19,
+            "url": "https://myanimelist.net/anime/178/Ultra_Maniac/episode/19",
+            "title": "Stand By Me",
+            "title_japanese": "Stand by me",
+            "title_romanji": "Stand By Me ",
+            "aired": "2003-09-23T00:00:00+00:00",
+            "score": 4.46,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=271201"
+        },
+        {
+            "mal_id": 20,
+            "url": "https://myanimelist.net/anime/178/Ultra_Maniac/episode/20",
+            "title": "Tangle",
+            "title_japanese": "Tangle",
+            "title_romanji": "Tangle ",
+            "aired": "2003-09-30T00:00:00+00:00",
+            "score": 4.67,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=271202"
+        },
+        {
+            "mal_id": 21,
+            "url": "https://myanimelist.net/anime/178/Ultra_Maniac/episode/21",
+            "title": "Untangle",
+            "title_japanese": "Untangle",
+            "title_romanji": "Untangle ",
+            "aired": "2003-10-07T00:00:00+00:00",
+            "score": 4.89,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=271203"
+        },
+        {
+            "mal_id": 22,
+            "url": "https://myanimelist.net/anime/178/Ultra_Maniac/episode/22",
+            "title": "Virgin Love",
+            "title_japanese": "Virgin love",
+            "title_romanji": "Virgin Love ",
+            "aired": "2003-10-14T00:00:00+00:00",
+            "score": 4.45,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=271204"
+        },
+        {
+            "mal_id": 23,
+            "url": "https://myanimelist.net/anime/178/Ultra_Maniac/episode/23",
+            "title": "Wonderful Night",
+            "title_japanese": "Wonderful night",
+            "title_romanji": "Wonderful Night ",
+            "aired": "2003-10-21T00:00:00+00:00",
+            "score": 4.5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=271205"
+        },
+        {
+            "mal_id": 24,
+            "url": "https://myanimelist.net/anime/178/Ultra_Maniac/episode/24",
+            "title": "X-Day",
+            "title_japanese": "X-Day",
+            "title_romanji": "X-Day ",
+            "aired": "2003-10-28T00:00:00+00:00",
+            "score": 4.4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=271206"
+        },
+        {
+            "mal_id": 25,
+            "url": "https://myanimelist.net/anime/178/Ultra_Maniac/episode/25",
+            "title": "Yes, I Like You",
+            "title_japanese": "Yes, I like you",
+            "title_romanji": "Yes, I Like You ",
+            "aired": "2003-11-04T00:00:00+00:00",
+            "score": 4.73,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=271207"
+        },
+        {
+            "mal_id": 26,
+            "url": "https://myanimelist.net/anime/178/Ultra_Maniac/episode/26",
+            "title": "Zoom In",
+            "title_japanese": "Zoom in",
+            "title_romanji": "Zoom In ",
+            "aired": "2003-11-11T00:00:00+00:00",
+            "score": 4.63,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=271209"
+        }
+    ]
+}

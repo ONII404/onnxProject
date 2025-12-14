@@ -1,0 +1,193 @@
+{
+    "id": 4481,
+    "fetched_at": "Sun Dec 14 08:40:13 2025",
+    "metadata": {
+        "mal_id": 4481,
+        "url": "https://myanimelist.net/anime/4481/Saiyuuki",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1741/100518.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1741/100518t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1741/100518l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1741/100518.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1741/100518t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1741/100518l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": "https://www.youtube-nocookie.com/embed/7c5LEgQQW8E?enablejsapi=1&wmode=opaque&autoplay=1",
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Saiyuuki"
+            },
+            {
+                "type": "Synonym",
+                "title": "Saiyuki"
+            },
+            {
+                "type": "Synonym",
+                "title": "Journey to the West"
+            },
+            {
+                "type": "Synonym",
+                "title": "The Magic Land of Alakazam"
+            },
+            {
+                "type": "Japanese",
+                "title": "西遊記"
+            },
+            {
+                "type": "English",
+                "title": "Alakazam the Great"
+            },
+            {
+                "type": "German",
+                "title": "Alakazam: König der Tiere"
+            }
+        ],
+        "title": "Saiyuuki",
+        "title_english": "Alakazam the Great",
+        "title_japanese": "西遊記",
+        "title_synonyms": [
+            "Saiyuki",
+            "Journey to the West",
+            "The Magic Land of Alakazam"
+        ],
+        "type": "Movie",
+        "source": "Novel",
+        "episodes": 1,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "1960-08-14T00:00:00+00:00",
+            "to": null,
+            "prop": {
+                "from": {
+                    "day": 14,
+                    "month": 8,
+                    "year": 1960
+                },
+                "to": {
+                    "day": null,
+                    "month": null,
+                    "year": null
+                }
+            },
+            "string": "Aug 14, 1960"
+        },
+        "duration": "1 hr 28 min",
+        "rating": "G - All Ages",
+        "score": 6.2,
+        "scored_by": 1524,
+        "rank": 9107,
+        "popularity": 10140,
+        "members": 3912,
+        "favorites": 7,
+        "synopsis": "Upon a mountain, a monkey is born from stone—nameless, parentless, and friendless. That is, until one day, he encounters a young female monkey named RinRin, who offers to be his friend. Through RinRin's encouragement, he becomes king after a test of bravery; however, his personality sours. When RinRin tells him that humans are the most intelligent creatures on Earth, the monkey vows to become smarter than them. He leaves RinRin behind and trains with a mountain hermit who gives him the name Son-Goku.\n\nFollowing Goku's imprisonment for using his newfound powers to steal a celestial fruit from heaven, he is rescued by a monk. In exchange, he is asked to accompany the monk on a journey to India. This journey will prove to be yet another challenge for the monkey to overcome.\n\n[Written by MAL Rewrite]",
+        "background": "",
+        "season": null,
+        "year": null,
+        "broadcast": {
+            "day": null,
+            "time": null,
+            "timezone": null,
+            "string": null
+        },
+        "producers": [],
+        "licensors": [],
+        "studios": [
+            {
+                "mal_id": 18,
+                "type": "anime",
+                "name": "Toei Animation",
+                "url": "https://myanimelist.net/anime/producer/18/Toei_Animation"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 2,
+                "type": "anime",
+                "name": "Adventure",
+                "url": "https://myanimelist.net/anime/genre/2/Adventure"
+            },
+            {
+                "mal_id": 10,
+                "type": "anime",
+                "name": "Fantasy",
+                "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [
+            {
+                "mal_id": 6,
+                "type": "anime",
+                "name": "Mythology",
+                "url": "https://myanimelist.net/anime/genre/6/Mythology"
+            }
+        ],
+        "demographics": [],
+        "relations": [
+            {
+                "relation": "Adaptation",
+                "entry": [
+                    {
+                        "mal_id": 19507,
+                        "type": "manga",
+                        "name": "Boku no Son Goku",
+                        "url": "https://myanimelist.net/manga/19507/Boku_no_Son_Goku"
+                    }
+                ]
+            },
+            {
+                "relation": "Alternative Version",
+                "entry": [
+                    {
+                        "mal_id": 20189,
+                        "type": "anime",
+                        "name": "Boku no Son Gokuu",
+                        "url": "https://myanimelist.net/anime/20189/Boku_no_Son_Gokuu"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [],
+            "endings": []
+        },
+        "external": [
+            {
+                "name": "Official Site",
+                "url": "http://en.tezuka.co.jp/anime/sakuhin/mv/mv001.html"
+            },
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=2199"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=631"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "http://en.wikipedia.org/wiki/Alakazam_the_Great"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": []
+}

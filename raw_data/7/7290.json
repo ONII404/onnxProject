@@ -1,0 +1,178 @@
+{
+    "id": 7290,
+    "fetched_at": "Sun Dec 14 09:09:03 2025",
+    "metadata": {
+        "mal_id": 7290,
+        "url": "https://myanimelist.net/anime/7290/Cyborg_009__Kaijuu_Sensou",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/9/76036.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/9/76036t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/9/76036l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/9/76036.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/9/76036t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/9/76036l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": "https://www.youtube-nocookie.com/embed/B0hIV93ke8g?enablejsapi=1&wmode=opaque&autoplay=1",
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Cyborg 009: Kaijuu Sensou"
+            },
+            {
+                "type": "Synonym",
+                "title": "Cyborg 009 Kaishuu Sensou"
+            },
+            {
+                "type": "Japanese",
+                "title": "サイボーグ００９ 怪獣戦争"
+            },
+            {
+                "type": "English",
+                "title": "Cyborg 009 and the Monster Wars"
+            }
+        ],
+        "title": "Cyborg 009: Kaijuu Sensou",
+        "title_english": "Cyborg 009 and the Monster Wars",
+        "title_japanese": "サイボーグ００９ 怪獣戦争",
+        "title_synonyms": [
+            "Cyborg 009 Kaishuu Sensou"
+        ],
+        "type": "Movie",
+        "source": "Unknown",
+        "episodes": 1,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "1967-03-19T00:00:00+00:00",
+            "to": null,
+            "prop": {
+                "from": {
+                    "day": 19,
+                    "month": 3,
+                    "year": 1967
+                },
+                "to": {
+                    "day": null,
+                    "month": null,
+                    "year": null
+                }
+            },
+            "string": "Mar 19, 1967"
+        },
+        "duration": "1 hr",
+        "rating": "PG - Children",
+        "score": 5.93,
+        "scored_by": 1234,
+        "rank": 10668,
+        "popularity": 11057,
+        "members": 2957,
+        "favorites": 1,
+        "synopsis": "The evil organization 'Black Ghost' attacked around the world, using dinosaur (plesiosaur) type giant robots, and the team of 9 cyborgs launched their quest for the Black Ghost's hideout. 009 meets a girl named Helena...\n\n(Source: upp.so-net.ne.jp)",
+        "background": "",
+        "season": null,
+        "year": null,
+        "broadcast": {
+            "day": null,
+            "time": null,
+            "timezone": null,
+            "string": null
+        },
+        "producers": [],
+        "licensors": [],
+        "studios": [
+            {
+                "mal_id": 18,
+                "type": "anime",
+                "name": "Toei Animation",
+                "url": "https://myanimelist.net/anime/producer/18/Toei_Animation"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 1,
+                "type": "anime",
+                "name": "Action",
+                "url": "https://myanimelist.net/anime/genre/1/Action"
+            },
+            {
+                "mal_id": 2,
+                "type": "anime",
+                "name": "Adventure",
+                "url": "https://myanimelist.net/anime/genre/2/Adventure"
+            },
+            {
+                "mal_id": 24,
+                "type": "anime",
+                "name": "Sci-Fi",
+                "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [],
+        "demographics": [],
+        "relations": [
+            {
+                "relation": "Prequel",
+                "entry": [
+                    {
+                        "mal_id": 6872,
+                        "type": "anime",
+                        "name": "Cyborg 009",
+                        "url": "https://myanimelist.net/anime/6872/Cyborg_009"
+                    }
+                ]
+            },
+            {
+                "relation": "Adaptation",
+                "entry": [
+                    {
+                        "mal_id": 1639,
+                        "type": "manga",
+                        "name": "Cyborg 009",
+                        "url": "https://myanimelist.net/manga/1639/Cyborg_009"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [],
+            "endings": []
+        },
+        "external": [
+            {
+                "name": "Official Site",
+                "url": "http://www.toei-anim.co.jp/lineup/movie/movie_cyborg009/"
+            },
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=2205"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=2881"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "http://en.wikipedia.org/wiki/Cyborg_009#1966-68"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": []
+}

@@ -1,0 +1,167 @@
+{
+    "id": 14253,
+    "fetched_at": "Sun Dec 14 09:44:18 2025",
+    "metadata": {
+        "mal_id": 14253,
+        "url": "https://myanimelist.net/anime/14253/My_Melody_no_Akazukin",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/12/72894.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/12/72894t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/12/72894l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/12/72894.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/12/72894t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/12/72894l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "My Melody no Akazukin"
+            },
+            {
+                "type": "Synonym",
+                "title": "My Melody's Little Red Riding Hood"
+            },
+            {
+                "type": "Japanese",
+                "title": "マイメロディの赤ずきん"
+            }
+        ],
+        "title": "My Melody no Akazukin",
+        "title_english": null,
+        "title_japanese": "マイメロディの赤ずきん",
+        "title_synonyms": [
+            "My Melody's Little Red Riding Hood"
+        ],
+        "type": "Movie",
+        "source": "Unknown",
+        "episodes": 1,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "1989-07-22T00:00:00+00:00",
+            "to": null,
+            "prop": {
+                "from": {
+                    "day": 22,
+                    "month": 7,
+                    "year": 1989
+                },
+                "to": {
+                    "day": null,
+                    "month": null,
+                    "year": null
+                }
+            },
+            "string": "Jul 22, 1989"
+        },
+        "duration": "33 min",
+        "rating": "G - All Ages",
+        "score": 5.91,
+        "scored_by": 238,
+        "rank": 10791,
+        "popularity": 15309,
+        "members": 899,
+        "favorites": 0,
+        "synopsis": "My Melody stars in the re-created story of Little Red Riding Hood.",
+        "background": "Screened alongside Kiki to Lala no Aoi Tori and Hello Kitty no Cinderella at the first Sanrio Sekai Meisaku Eigakan theatrical road show.",
+        "season": null,
+        "year": null,
+        "broadcast": {
+            "day": null,
+            "time": null,
+            "timezone": null,
+            "string": null
+        },
+        "producers": [
+            {
+                "mal_id": 150,
+                "type": "anime",
+                "name": "Sanrio",
+                "url": "https://myanimelist.net/anime/producer/150/Sanrio"
+            }
+        ],
+        "licensors": [],
+        "studios": [],
+        "genres": [
+            {
+                "mal_id": 10,
+                "type": "anime",
+                "name": "Fantasy",
+                "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [],
+        "demographics": [
+            {
+                "mal_id": 15,
+                "type": "anime",
+                "name": "Kids",
+                "url": "https://myanimelist.net/anime/genre/15/Kids"
+            }
+        ],
+        "relations": [
+            {
+                "relation": "Alternative Version",
+                "entry": [
+                    {
+                        "mal_id": 30468,
+                        "type": "anime",
+                        "name": "My Melody no Akazukin (OVA)",
+                        "url": "https://myanimelist.net/anime/30468/My_Melody_no_Akazukin_OVA"
+                    }
+                ]
+            },
+            {
+                "relation": "Other",
+                "entry": [
+                    {
+                        "mal_id": 9291,
+                        "type": "anime",
+                        "name": "Hello Kitty no Cinderella",
+                        "url": "https://myanimelist.net/anime/9291/Hello_Kitty_no_Cinderella"
+                    },
+                    {
+                        "mal_id": 9292,
+                        "type": "anime",
+                        "name": "Kiki to Lala no Aoi Tori",
+                        "url": "https://myanimelist.net/anime/9292/Kiki_to_Lala_no_Aoi_Tori"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [],
+            "endings": []
+        },
+        "external": [
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=5796"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=9240"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": []
+}

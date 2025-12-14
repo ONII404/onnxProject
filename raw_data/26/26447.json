@@ -1,0 +1,151 @@
+{
+    "id": 26447,
+    "fetched_at": "Sun Dec 14 10:19:20 2025",
+    "metadata": {
+        "mal_id": 26447,
+        "url": "https://myanimelist.net/anime/26447/Uchuusen_Sagittarius_Pilot",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/4/66367.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/4/66367t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/4/66367l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/4/66367.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/4/66367t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/4/66367l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Uchuusen Sagittarius Pilot"
+            },
+            {
+                "type": "Synonym",
+                "title": "Spaceship Sagittarius Pilot"
+            },
+            {
+                "type": "Synonym",
+                "title": "The Space Sagittarius Pilot"
+            },
+            {
+                "type": "Japanese",
+                "title": "宇宙船サジタリウス"
+            }
+        ],
+        "title": "Uchuusen Sagittarius Pilot",
+        "title_english": null,
+        "title_japanese": "宇宙船サジタリウス",
+        "title_synonyms": [
+            "Spaceship Sagittarius Pilot",
+            "The Space Sagittarius Pilot"
+        ],
+        "type": "Special",
+        "source": "Original",
+        "episodes": 1,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "1982-01-01T00:00:00+00:00",
+            "to": null,
+            "prop": {
+                "from": {
+                    "day": 1,
+                    "month": 1,
+                    "year": 1982
+                },
+                "to": {
+                    "day": null,
+                    "month": null,
+                    "year": null
+                }
+            },
+            "string": "1982"
+        },
+        "duration": "5 min",
+        "rating": "G - All Ages",
+        "score": 5.69,
+        "scored_by": 188,
+        "rank": 11884,
+        "popularity": 18711,
+        "members": 445,
+        "favorites": 0,
+        "synopsis": "The pilot episode made for Uchuusen Sagittarius. Features the original comic book art and no voice acting.\n\n(Source: Wikipedia)",
+        "background": "",
+        "season": null,
+        "year": null,
+        "broadcast": {
+            "day": null,
+            "time": null,
+            "timezone": null,
+            "string": null
+        },
+        "producers": [],
+        "licensors": [],
+        "studios": [],
+        "genres": [
+            {
+                "mal_id": 2,
+                "type": "anime",
+                "name": "Adventure",
+                "url": "https://myanimelist.net/anime/genre/2/Adventure"
+            },
+            {
+                "mal_id": 24,
+                "type": "anime",
+                "name": "Sci-Fi",
+                "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [],
+        "demographics": [],
+        "relations": [
+            {
+                "relation": "Prequel",
+                "entry": [
+                    {
+                        "mal_id": 3317,
+                        "type": "anime",
+                        "name": "Uchuusen Sagittarius",
+                        "url": "https://myanimelist.net/anime/3317/Uchuusen_Sagittarius"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [],
+            "endings": []
+        },
+        "external": [
+            {
+                "name": "Official Site",
+                "url": "http://www.nippon-animation.co.jp/work/uchusen_sagittarius.html"
+            },
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=1833"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "http://en.wikipedia.org/wiki/Uch%C5%ABsen_Sagittarius"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": []
+}

@@ -1,0 +1,183 @@
+{
+    "id": 7336,
+    "fetched_at": "Sun Dec 14 09:09:26 2025",
+    "metadata": {
+        "mal_id": 7336,
+        "url": "https://myanimelist.net/anime/7336/Cyborg_009__Chou_Ginga_Densetsu",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/3/17466.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/3/17466t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/3/17466l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/3/17466.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/3/17466t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/3/17466l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": "https://www.youtube-nocookie.com/embed/ND0bq157tQI?enablejsapi=1&wmode=opaque&autoplay=1",
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Cyborg 009: Chou Ginga Densetsu"
+            },
+            {
+                "type": "Synonym",
+                "title": "Defenders of The Vortex"
+            },
+            {
+                "type": "Japanese",
+                "title": "サイボーグ００９・超銀河伝説"
+            },
+            {
+                "type": "English",
+                "title": "Cyborg 009: Legend of the Super Galaxy"
+            },
+            {
+                "type": "German",
+                "title": "Gefährlicher Countdown für Cyborg 009"
+            },
+            {
+                "type": "Spanish",
+                "title": "Cyborg 009: La Leyenda de la Supergalaxia"
+            }
+        ],
+        "title": "Cyborg 009: Chou Ginga Densetsu",
+        "title_english": "Cyborg 009: Legend of the Super Galaxy",
+        "title_japanese": "サイボーグ００９・超銀河伝説",
+        "title_synonyms": [
+            "Defenders of The Vortex"
+        ],
+        "type": "Movie",
+        "source": "Unknown",
+        "episodes": 1,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "1980-12-20T00:00:00+00:00",
+            "to": null,
+            "prop": {
+                "from": {
+                    "day": 20,
+                    "month": 12,
+                    "year": 1980
+                },
+                "to": {
+                    "day": null,
+                    "month": null,
+                    "year": null
+                }
+            },
+            "string": "Dec 20, 1980"
+        },
+        "duration": "2 hr 9 min",
+        "rating": "PG-13 - Teens 13 or older",
+        "score": 6.32,
+        "scored_by": 1247,
+        "rank": 8418,
+        "popularity": 10330,
+        "members": 3648,
+        "favorites": 5,
+        "synopsis": "The cyborgs are no longer on duty, they live normal lives until a mysterious space ship lands on earth. The only survivor on the ship warns about an evil conqueror called Zoa that wants to conquer the universe, which means the cyborgs are back in action...\n(Source: ANN)",
+        "background": "",
+        "season": null,
+        "year": null,
+        "broadcast": {
+            "day": null,
+            "time": null,
+            "timezone": null,
+            "string": null
+        },
+        "producers": [],
+        "licensors": [],
+        "studios": [
+            {
+                "mal_id": 18,
+                "type": "anime",
+                "name": "Toei Animation",
+                "url": "https://myanimelist.net/anime/producer/18/Toei_Animation"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 1,
+                "type": "anime",
+                "name": "Action",
+                "url": "https://myanimelist.net/anime/genre/1/Action"
+            },
+            {
+                "mal_id": 24,
+                "type": "anime",
+                "name": "Sci-Fi",
+                "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [
+            {
+                "mal_id": 29,
+                "type": "anime",
+                "name": "Space",
+                "url": "https://myanimelist.net/anime/genre/29/Space"
+            }
+        ],
+        "demographics": [],
+        "relations": [
+            {
+                "relation": "Adaptation",
+                "entry": [
+                    {
+                        "mal_id": 1639,
+                        "type": "manga",
+                        "name": "Cyborg 009",
+                        "url": "https://myanimelist.net/manga/1639/Cyborg_009"
+                    }
+                ]
+            },
+            {
+                "relation": "Parent Story",
+                "entry": [
+                    {
+                        "mal_id": 4690,
+                        "type": "anime",
+                        "name": "Cyborg 009 (1979)",
+                        "url": "https://myanimelist.net/anime/4690/Cyborg_009_1979"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [],
+            "endings": []
+        },
+        "external": [
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=2242"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=1839"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "http://en.wikipedia.org/wiki/Cyborg_009"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": []
+}

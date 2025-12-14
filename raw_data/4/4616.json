@@ -1,0 +1,165 @@
+{
+    "id": 4616,
+    "fetched_at": "Sun Dec 14 08:42:00 2025",
+    "metadata": {
+        "mal_id": 4616,
+        "url": "https://myanimelist.net/anime/4616/Yumemiru_Topo_Gigio",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1303/150413.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1303/150413t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1303/150413l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1303/150413.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1303/150413t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1303/150413l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Yumemiru Topo Gigio"
+            },
+            {
+                "type": "Synonym",
+                "title": "Dreaming Topo Gigio"
+            },
+            {
+                "type": "Synonym",
+                "title": "Yumemiru Toppo Jijo"
+            },
+            {
+                "type": "Japanese",
+                "title": "夢見るトッポ・ジージョ"
+            }
+        ],
+        "title": "Yumemiru Topo Gigio",
+        "title_english": null,
+        "title_japanese": "夢見るトッポ・ジージョ",
+        "title_synonyms": [
+            "Dreaming Topo Gigio",
+            "Yumemiru Toppo Jijo"
+        ],
+        "type": "TV",
+        "source": "Unknown",
+        "episodes": 13,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "1988-10-07T00:00:00+00:00",
+            "to": "1988-12-30T00:00:00+00:00",
+            "prop": {
+                "from": {
+                    "day": 7,
+                    "month": 10,
+                    "year": 1988
+                },
+                "to": {
+                    "day": 30,
+                    "month": 12,
+                    "year": 1988
+                }
+            },
+            "string": "Oct 7, 1988 to Dec 30, 1988"
+        },
+        "duration": "26 min per ep",
+        "rating": "PG - Children",
+        "score": 6.04,
+        "scored_by": 525,
+        "rank": 10093,
+        "popularity": 13967,
+        "members": 1277,
+        "favorites": 0,
+        "synopsis": "Created by Maria Perego, Topo Gigio has been a beloved character for more than two decades. This animated TV series features numerous exciting stories and introduces many friends.\n\nTopo Gigio is the first mouse astronaut to travel the Milky Way. Can a mouse become an astronaut? Well, Topo Gigio has come from a year 2,388,400 years ahead in the future. He is friendly and can talk with humans. He makes friends with his neighbors including a girl, her pet mouse, cats, and other mice.\n\n(Source: AniDB)",
+        "background": "",
+        "season": "fall",
+        "year": 1988,
+        "broadcast": {
+            "day": "Fridays",
+            "time": "18:30",
+            "timezone": "Asia/Tokyo",
+            "string": "Fridays at 18:30 (JST)"
+        },
+        "producers": [],
+        "licensors": [],
+        "studios": [
+            {
+                "mal_id": 22,
+                "type": "anime",
+                "name": "Nippon Animation",
+                "url": "https://myanimelist.net/anime/producer/22/Nippon_Animation"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 2,
+                "type": "anime",
+                "name": "Adventure",
+                "url": "https://myanimelist.net/anime/genre/2/Adventure"
+            },
+            {
+                "mal_id": 4,
+                "type": "anime",
+                "name": "Comedy",
+                "url": "https://myanimelist.net/anime/genre/4/Comedy"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [],
+        "demographics": [
+            {
+                "mal_id": 15,
+                "type": "anime",
+                "name": "Kids",
+                "url": "https://myanimelist.net/anime/genre/15/Kids"
+            }
+        ],
+        "relations": [
+            {
+                "relation": "Prequel",
+                "entry": [
+                    {
+                        "mal_id": 4584,
+                        "type": "anime",
+                        "name": "Topo Gigio",
+                        "url": "https://myanimelist.net/anime/4584/Topo_Gigio"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [
+                "\"Tango Chu Chu\" by Satoko Yamano"
+            ],
+            "endings": [
+                "\"Dreaming Topo Gigio\" by Satoko Yamano"
+            ]
+        },
+        "external": [
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=5055"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=1663"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": []
+}

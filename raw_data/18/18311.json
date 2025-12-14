@@ -1,0 +1,167 @@
+{
+    "id": 18311,
+    "fetched_at": "Sun Dec 14 09:57:46 2025",
+    "metadata": {
+        "mal_id": 18311,
+        "url": "https://myanimelist.net/anime/18311/Meoteoldosa",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/2/49077.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/2/49077t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/2/49077l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/2/49077.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/2/49077t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/2/49077l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Meoteoldosa"
+            },
+            {
+                "type": "Synonym",
+                "title": "Magic Boy Muttul"
+            },
+            {
+                "type": "Synonym",
+                "title": "Tlaoist Mutul"
+            },
+            {
+                "type": "Japanese",
+                "title": "머털도사"
+            }
+        ],
+        "title": "Meoteoldosa",
+        "title_english": null,
+        "title_japanese": "머털도사",
+        "title_synonyms": [
+            "Magic Boy Muttul",
+            "Tlaoist Mutul"
+        ],
+        "type": "Movie",
+        "source": "Unknown",
+        "episodes": 1,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "1989-01-01T00:00:00+00:00",
+            "to": null,
+            "prop": {
+                "from": {
+                    "day": 1,
+                    "month": 1,
+                    "year": 1989
+                },
+                "to": {
+                    "day": null,
+                    "month": null,
+                    "year": null
+                }
+            },
+            "string": "1989"
+        },
+        "duration": "1 hr 20 min",
+        "rating": null,
+        "score": null,
+        "scored_by": null,
+        "rank": 18667,
+        "popularity": 20586,
+        "members": 314,
+        "favorites": 0,
+        "synopsis": "A 1989 Korean movie about a young monk possessing supernatural powers.",
+        "background": "",
+        "season": null,
+        "year": null,
+        "broadcast": {
+            "day": null,
+            "time": null,
+            "timezone": null,
+            "string": null
+        },
+        "producers": [],
+        "licensors": [],
+        "studios": [],
+        "genres": [
+            {
+                "mal_id": 1,
+                "type": "anime",
+                "name": "Action",
+                "url": "https://myanimelist.net/anime/genre/1/Action"
+            },
+            {
+                "mal_id": 2,
+                "type": "anime",
+                "name": "Adventure",
+                "url": "https://myanimelist.net/anime/genre/2/Adventure"
+            },
+            {
+                "mal_id": 10,
+                "type": "anime",
+                "name": "Fantasy",
+                "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [],
+        "demographics": [
+            {
+                "mal_id": 15,
+                "type": "anime",
+                "name": "Kids",
+                "url": "https://myanimelist.net/anime/genre/15/Kids"
+            }
+        ],
+        "relations": [
+            {
+                "relation": "Sequel",
+                "entry": [
+                    {
+                        "mal_id": 18329,
+                        "type": "anime",
+                        "name": "Meoteoldosawa Ttomae",
+                        "url": "https://myanimelist.net/anime/18329/Meoteoldosawa_Ttomae"
+                    }
+                ]
+            },
+            {
+                "relation": "Alternative Version",
+                "entry": [
+                    {
+                        "mal_id": 48200,
+                        "type": "anime",
+                        "name": "Meoteoldosa (TV)",
+                        "url": "https://myanimelist.net/anime/48200/Meoteoldosa_TV"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [],
+            "endings": []
+        },
+        "external": [
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13931"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": []
+}

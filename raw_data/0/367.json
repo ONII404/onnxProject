@@ -1,0 +1,173 @@
+{
+    "id": 367,
+    "fetched_at": "Sun Dec 14 13:02:11 2025",
+    "metadata": {
+        "mal_id": 367,
+        "url": "https://myanimelist.net/anime/367/Akazukin_Chacha_OVA",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1404/95392.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1404/95392t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1404/95392l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1404/95392.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1404/95392t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1404/95392l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Akazukin Chacha OVA"
+            },
+            {
+                "type": "Japanese",
+                "title": "赤ずきんチャチャ (1995)"
+            }
+        ],
+        "title": "Akazukin Chacha OVA",
+        "title_english": null,
+        "title_japanese": "赤ずきんチャチャ (1995)",
+        "title_synonyms": [],
+        "type": "OVA",
+        "source": "Manga",
+        "episodes": 3,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "1995-12-06T00:00:00+00:00",
+            "to": "1996-03-06T00:00:00+00:00",
+            "prop": {
+                "from": {
+                    "day": 6,
+                    "month": 12,
+                    "year": 1995
+                },
+                "to": {
+                    "day": 6,
+                    "month": 3,
+                    "year": 1996
+                }
+            },
+            "string": "Dec 6, 1995 to Mar 6, 1996"
+        },
+        "duration": "24 min per ep",
+        "rating": "G - All Ages",
+        "score": 7.02,
+        "scored_by": 1153,
+        "rank": 4427,
+        "popularity": 10853,
+        "members": 3138,
+        "favorites": 6,
+        "synopsis": "Following the original TV series, the story tells the efforts of Momiji Gakuen, Chacha's rival school principal, to discover what is so special about Urara Gakuen students and what she could do to \"produce\" the best students.",
+        "background": "",
+        "season": null,
+        "year": null,
+        "broadcast": {
+            "day": null,
+            "time": null,
+            "timezone": null,
+            "string": null
+        },
+        "producers": [
+            {
+                "mal_id": 139,
+                "type": "anime",
+                "name": "Nihon Ad Systems",
+                "url": "https://myanimelist.net/anime/producer/139/Nihon_Ad_Systems"
+            }
+        ],
+        "licensors": [],
+        "studios": [
+            {
+                "mal_id": 36,
+                "type": "anime",
+                "name": "Gallop",
+                "url": "https://myanimelist.net/anime/producer/36/Gallop"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 4,
+                "type": "anime",
+                "name": "Comedy",
+                "url": "https://myanimelist.net/anime/genre/4/Comedy"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [
+            {
+                "mal_id": 66,
+                "type": "anime",
+                "name": "Mahou Shoujo",
+                "url": "https://myanimelist.net/anime/genre/66/Mahou_Shoujo"
+            }
+        ],
+        "demographics": [
+            {
+                "mal_id": 25,
+                "type": "anime",
+                "name": "Shoujo",
+                "url": "https://myanimelist.net/anime/genre/25/Shoujo"
+            }
+        ],
+        "relations": [
+            {
+                "relation": "Prequel",
+                "entry": [
+                    {
+                        "mal_id": 103,
+                        "type": "anime",
+                        "name": "Akazukin Chacha",
+                        "url": "https://myanimelist.net/anime/103/Akazukin_Chacha"
+                    }
+                ]
+            },
+            {
+                "relation": "Adaptation",
+                "entry": [
+                    {
+                        "mal_id": 7270,
+                        "type": "manga",
+                        "name": "Akazukin Chacha",
+                        "url": "https://myanimelist.net/manga/7270/Akazukin_Chacha"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [
+                "\"Make Me Smile\" by Yuki Matsuura"
+            ],
+            "endings": [
+                "\"Negai wa Hitotsu (願いはひとつ)\" by Yuki Matsuura"
+            ]
+        },
+        "external": [
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=869"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=2056"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": []
+}

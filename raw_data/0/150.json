@@ -1,0 +1,877 @@
+{
+    "id": 150,
+    "fetched_at": "Sun Dec 14 12:41:55 2025",
+    "metadata": {
+        "mal_id": 150,
+        "url": "https://myanimelist.net/anime/150/Blood_",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/10/10183.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/10/10183t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/10/10183l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/10/10183.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/10/10183t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/10/10183l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": "https://www.youtube-nocookie.com/embed/mjJ1W08vCKM?enablejsapi=1&wmode=opaque&autoplay=1",
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Blood+"
+            },
+            {
+                "type": "Synonym",
+                "title": "Blood Plus"
+            },
+            {
+                "type": "Japanese",
+                "title": "ブラッドプラス"
+            },
+            {
+                "type": "English",
+                "title": "Blood+"
+            }
+        ],
+        "title": "Blood+",
+        "title_english": "Blood+",
+        "title_japanese": "ブラッドプラス",
+        "title_synonyms": [
+            "Blood Plus"
+        ],
+        "type": "TV",
+        "source": "Original",
+        "episodes": 50,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "2005-10-08T00:00:00+00:00",
+            "to": "2006-09-23T00:00:00+00:00",
+            "prop": {
+                "from": {
+                    "day": 8,
+                    "month": 10,
+                    "year": 2005
+                },
+                "to": {
+                    "day": 23,
+                    "month": 9,
+                    "year": 2006
+                }
+            },
+            "string": "Oct 8, 2005 to Sep 23, 2006"
+        },
+        "duration": "23 min per ep",
+        "rating": "R - 17+ (violence & profanity)",
+        "score": 7.6,
+        "scored_by": 164266,
+        "rank": 1663,
+        "popularity": 669,
+        "members": 393974,
+        "favorites": 4494,
+        "synopsis": "Saya Otonashi is a seemingly ordinary girl living a mundane life with her adoptive family in Okinawa City. In fact, her only peculiarities are suffering from anemia and being unable to remember any of her life beyond the previous year.\n\nHowever, Saya's forgotten past quickly comes back to haunt her—one night, she is attacked at school by a creature that feeds on human blood. Just when all hope seems lost, a mysterious man named Haji appears and fends off the creature temporarily. But when her rescuer forces her to drink his blood, Saya suddenly enters a trance and slays the monster with ease, using her own blood as a catalyst. \n\nSaya then learns of an organization named Red Shield, founded for the sole purpose of defeating the hellish beasts. Now Saya and Haji must work together with Red Shield to fight these fearsome monsters and unlock the secrets to the girl's past.\n\n[Written by MAL Rewrite]",
+        "background": "",
+        "season": "fall",
+        "year": 2005,
+        "broadcast": {
+            "day": "Saturdays",
+            "time": "18:00",
+            "timezone": "Asia/Tokyo",
+            "string": "Saturdays at 18:00 (JST)"
+        },
+        "producers": [
+            {
+                "mal_id": 17,
+                "type": "anime",
+                "name": "Aniplex",
+                "url": "https://myanimelist.net/anime/producer/17/Aniplex"
+            },
+            {
+                "mal_id": 143,
+                "type": "anime",
+                "name": "Mainichi Broadcasting System",
+                "url": "https://myanimelist.net/anime/producer/143/Mainichi_Broadcasting_System"
+            },
+            {
+                "mal_id": 2946,
+                "type": "anime",
+                "name": "eNa",
+                "url": "https://myanimelist.net/anime/producer/2946/eNa"
+            }
+        ],
+        "licensors": [
+            {
+                "mal_id": 15,
+                "type": "anime",
+                "name": "Sony Pictures Entertainment",
+                "url": "https://myanimelist.net/anime/producer/15/Sony_Pictures_Entertainment"
+            }
+        ],
+        "studios": [
+            {
+                "mal_id": 10,
+                "type": "anime",
+                "name": "Production I.G",
+                "url": "https://myanimelist.net/anime/producer/10/Production_IG"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 1,
+                "type": "anime",
+                "name": "Action",
+                "url": "https://myanimelist.net/anime/genre/1/Action"
+            },
+            {
+                "mal_id": 8,
+                "type": "anime",
+                "name": "Drama",
+                "url": "https://myanimelist.net/anime/genre/8/Drama"
+            },
+            {
+                "mal_id": 14,
+                "type": "anime",
+                "name": "Horror",
+                "url": "https://myanimelist.net/anime/genre/14/Horror"
+            },
+            {
+                "mal_id": 7,
+                "type": "anime",
+                "name": "Mystery",
+                "url": "https://myanimelist.net/anime/genre/7/Mystery"
+            },
+            {
+                "mal_id": 37,
+                "type": "anime",
+                "name": "Supernatural",
+                "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [
+            {
+                "mal_id": 58,
+                "type": "anime",
+                "name": "Gore",
+                "url": "https://myanimelist.net/anime/genre/58/Gore"
+            },
+            {
+                "mal_id": 38,
+                "type": "anime",
+                "name": "Military",
+                "url": "https://myanimelist.net/anime/genre/38/Military"
+            },
+            {
+                "mal_id": 32,
+                "type": "anime",
+                "name": "Vampire",
+                "url": "https://myanimelist.net/anime/genre/32/Vampire"
+            }
+        ],
+        "demographics": [],
+        "relations": [
+            {
+                "relation": "Adaptation",
+                "entry": [
+                    {
+                        "mal_id": 747,
+                        "type": "manga",
+                        "name": "Blood+",
+                        "url": "https://myanimelist.net/manga/747/Blood_"
+                    },
+                    {
+                        "mal_id": 10410,
+                        "type": "manga",
+                        "name": "Blood+",
+                        "url": "https://myanimelist.net/manga/10410/Blood_"
+                    }
+                ]
+            },
+            {
+                "relation": "Alternative Version",
+                "entry": [
+                    {
+                        "mal_id": 405,
+                        "type": "anime",
+                        "name": "Blood: The Last Vampire",
+                        "url": "https://myanimelist.net/anime/405/Blood__The_Last_Vampire"
+                    }
+                ]
+            },
+            {
+                "relation": "Other",
+                "entry": [
+                    {
+                        "mal_id": 10490,
+                        "type": "anime",
+                        "name": "Blood-C",
+                        "url": "https://myanimelist.net/anime/10490/Blood-C"
+                    },
+                    {
+                        "mal_id": 10681,
+                        "type": "anime",
+                        "name": "Blood-C: The Last Dark",
+                        "url": "https://myanimelist.net/anime/10681/Blood-C__The_Last_Dark"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [
+                "1: \"Aozora no Namida (青空のナミダ)\" by Hitomi Takahashi  (eps 1-13)",
+                "2: \"SEASON’S CALL\" by HYDE (eps 14-25)",
+                "3: \"Colors of the Heart\" by UVERworld (eps 26-38)",
+                "4: \"Raion (雷音)\" by Jinn (eps 39-50)"
+            ],
+            "endings": [
+                "1: \"Kataritsugu koto\" by Chitose Hajime (eps 1-13, 50)",
+                "2: \"CRY NO MORE\" by Mika Nakashima (eps 14-25)",
+                "3: \"This Love\" by Angela Aki (eps 26-38)",
+                "4: \"Brand New Map\" by K (eps 39-49)"
+            ]
+        },
+        "external": [
+            {
+                "name": "Official Site",
+                "url": "http://www.blood.tv/"
+            },
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=3186"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=5088"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "http://en.wikipedia.org/wiki/Blood%2B"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "https://ja.wikipedia.org/wiki/BLOOD%2B"
+            },
+            {
+                "name": "Syoboi",
+                "url": "https://cal.syoboi.jp/tid/688"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": [
+        {
+            "mal_id": 1,
+            "url": null,
+            "title": "First Kiss",
+            "title_japanese": "ファーストキス",
+            "title_romanji": "First Kiss ",
+            "aired": "2005-10-08T00:00:00+00:00",
+            "score": 4.26,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=14519"
+        },
+        {
+            "mal_id": 2,
+            "url": null,
+            "title": "Magic Words",
+            "title_japanese": "魔法の言葉",
+            "title_romanji": "Mahou no Kotoba ",
+            "aired": "2005-10-15T00:00:00+00:00",
+            "score": 4.13,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=14520"
+        },
+        {
+            "mal_id": 3,
+            "url": null,
+            "title": "The Place Where it All Began",
+            "title_japanese": "はじまりの場所",
+            "title_romanji": "Hajimari no Basho ",
+            "aired": "2005-10-22T00:00:00+00:00",
+            "score": 4.16,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=14522"
+        },
+        {
+            "mal_id": 4,
+            "url": null,
+            "title": "Dangerous Boy",
+            "title_japanese": "あぶない少年",
+            "title_romanji": "Abunai Shounen ",
+            "aired": "2005-10-29T00:00:00+00:00",
+            "score": 4.24,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=17998"
+        },
+        {
+            "mal_id": 5,
+            "url": null,
+            "title": "Beyond the Dark Forest",
+            "title_japanese": "暗い森の向こうへ",
+            "title_romanji": "Kurai Mori no Mukou e ",
+            "aired": "2005-11-05T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=17999"
+        },
+        {
+            "mal_id": 6,
+            "url": null,
+            "title": "My Father's Hands",
+            "title_japanese": "お父さんの手",
+            "title_romanji": "Otou-san no Te ",
+            "aired": "2005-11-12T00:00:00+00:00",
+            "score": 4.27,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=18000"
+        },
+        {
+            "mal_id": 7,
+            "url": null,
+            "title": "I Must Do It",
+            "title_japanese": "私がやらなきゃ",
+            "title_romanji": "Watashi ga Yaranakya (",
+            "aired": "2005-11-19T00:00:00+00:00",
+            "score": 4.07,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=18002"
+        },
+        {
+            "mal_id": 8,
+            "url": null,
+            "title": "Phantom of the School",
+            "title_japanese": "ファントム·オブ·ザ·スクール",
+            "title_romanji": "Phantom of the School ",
+            "aired": "2005-11-26T00:00:00+00:00",
+            "score": 4.25,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=18267"
+        },
+        {
+            "mal_id": 9,
+            "url": null,
+            "title": "Rainbow for Each",
+            "title_japanese": "それぞれの虹",
+            "title_romanji": "Sorezore no Niji ",
+            "aired": "2005-12-03T00:00:00+00:00",
+            "score": 3.94,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=47410"
+        },
+        {
+            "mal_id": 10,
+            "url": null,
+            "title": "I Want to See You",
+            "title_japanese": "あなたに会いたい",
+            "title_romanji": "Anata ni Aitai ",
+            "aired": "2005-12-10T00:00:00+00:00",
+            "score": 4.08,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=51878"
+        },
+        {
+            "mal_id": 11,
+            "url": null,
+            "title": "After the Dance",
+            "title_japanese": "ダンスのあとで",
+            "title_romanji": "Dance no Ato de ",
+            "aired": "2005-12-17T00:00:00+00:00",
+            "score": 4.44,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=51882"
+        },
+        {
+            "mal_id": 12,
+            "url": null,
+            "title": "Lured by the White Mist",
+            "title_japanese": "白い霧にさそわれて",
+            "title_romanji": "Shiroi Kiri ni Sasowarete ",
+            "aired": "2005-12-24T00:00:00+00:00",
+            "score": 4.13,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=51905"
+        },
+        {
+            "mal_id": 13,
+            "url": null,
+            "title": "Jungle Paradise",
+            "title_japanese": "ジャングル·パラダイス",
+            "title_romanji": "Jungle Paradise ",
+            "aired": "2006-01-07T00:00:00+00:00",
+            "score": 4.28,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2103"
+        },
+        {
+            "mal_id": 14,
+            "url": null,
+            "title": "The Last Sunday",
+            "title_japanese": "さいごの日曜日",
+            "title_romanji": "Saigo no Nichiyoubi ",
+            "aired": "2006-01-14T00:00:00+00:00",
+            "score": 4.04,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=48397"
+        },
+        {
+            "mal_id": 15,
+            "url": null,
+            "title": "I Want to Pursue!",
+            "title_japanese": "おいかけたいの",
+            "title_romanji": "Oikaketai no! ",
+            "aired": "2006-01-21T00:00:00+00:00",
+            "score": 3.93,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=36068"
+        },
+        {
+            "mal_id": 16,
+            "url": null,
+            "title": "Siberian Express",
+            "title_japanese": "シベリアンエクスプレス",
+            "title_romanji": "Siberian Express ",
+            "aired": "2006-01-28T00:00:00+00:00",
+            "score": 4.34,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=88434"
+        },
+        {
+            "mal_id": 17,
+            "url": null,
+            "title": "Do you Remember the Promise?",
+            "title_japanese": "約束おぼえてる?",
+            "title_romanji": "Yakusoku wo Oboeteru? ",
+            "aired": "2006-02-04T00:00:00+00:00",
+            "score": 4.3,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=26681"
+        },
+        {
+            "mal_id": 18,
+            "url": null,
+            "title": "Moon Over Ekaterinburg",
+            "title_japanese": "エカテリンブルグの月",
+            "title_romanji": "Ekaterinburg no Tsuki ",
+            "aired": "2006-02-11T00:00:00+00:00",
+            "score": 4.25,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=26688"
+        },
+        {
+            "mal_id": 19,
+            "url": null,
+            "title": "Broken Heart",
+            "title_japanese": "折れたココロ",
+            "title_romanji": "Oreta Kokoro ",
+            "aired": "2006-02-18T00:00:00+00:00",
+            "score": 4.42,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=26691"
+        },
+        {
+            "mal_id": 20,
+            "url": null,
+            "title": "Chevalier",
+            "title_japanese": "シュヴァリエ",
+            "title_romanji": "Chevalier ",
+            "aired": "2006-02-25T00:00:00+00:00",
+            "score": 4.45,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=83587"
+        },
+        {
+            "mal_id": 21,
+            "url": null,
+            "title": "Sour Grapes",
+            "title_japanese": "すっぱいぶどう",
+            "title_romanji": "Suppai Budou ",
+            "aired": "2006-03-04T00:00:00+00:00",
+            "score": 4.26,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=88435"
+        },
+        {
+            "mal_id": 22,
+            "url": null,
+            "title": "The Zoo",
+            "title_japanese": "動物園",
+            "title_romanji": "Doubutsuen ",
+            "aired": "2006-03-11T00:00:00+00:00",
+            "score": 4.54,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=38160"
+        },
+        {
+            "mal_id": 23,
+            "url": null,
+            "title": "Two Chevaliers",
+            "title_japanese": "ふたりのシュヴァリエ",
+            "title_romanji": "Futari no Chevalier ",
+            "aired": "2006-03-18T00:00:00+00:00",
+            "score": 4.5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=88436"
+        },
+        {
+            "mal_id": 24,
+            "url": null,
+            "title": "Airy Singing Voice",
+            "title_japanese": "軽やかなる歌声",
+            "title_romanji": "Karoyaka Naru Utagoe ",
+            "aired": "2006-03-25T00:00:00+00:00",
+            "score": 4.45,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=84139"
+        },
+        {
+            "mal_id": 25,
+            "url": null,
+            "title": "The Red Shield",
+            "title_japanese": "赤い盾",
+            "title_romanji": "Akai Tate ",
+            "aired": "2006-04-01T00:00:00+00:00",
+            "score": 4.18,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=88437"
+        },
+        {
+            "mal_id": 26,
+            "url": null,
+            "title": "Those Who Serve Saya",
+            "title_japanese": "サヤに従うもの",
+            "title_romanji": "Saya ni Shitagau Mono ",
+            "aired": "2006-04-08T00:00:00+00:00",
+            "score": 4.44,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=26706"
+        },
+        {
+            "mal_id": 27,
+            "url": null,
+            "title": "Paris, Je t'Aime",
+            "title_japanese": "パリ·ジュテーム",
+            "title_romanji": "Paris, Je t'aime ",
+            "aired": "2006-04-15T00:00:00+00:00",
+            "score": 4.41,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=88438"
+        },
+        {
+            "mal_id": 28,
+            "url": null,
+            "title": "Limited Existence",
+            "title_japanese": "限りあるもの",
+            "title_romanji": "Kagiri Aru Mono ",
+            "aired": "2006-04-22T00:00:00+00:00",
+            "score": 4.42,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=84159"
+        },
+        {
+            "mal_id": 29,
+            "url": null,
+            "title": "Cursed Blood",
+            "title_japanese": "呪われた血",
+            "title_romanji": "Norowareta Chi ",
+            "aired": "2006-04-29T00:00:00+00:00",
+            "score": 4.44,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=73253"
+        },
+        {
+            "mal_id": 30,
+            "url": null,
+            "title": "Joel's Diary",
+            "title_japanese": "ジョエルの日記",
+            "title_romanji": "Joel no Nikki ",
+            "aired": "2006-05-06T00:00:00+00:00",
+            "score": 4.55,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=29769"
+        },
+        {
+            "mal_id": 31,
+            "url": null,
+            "title": "Breaking Shield",
+            "title_japanese": "壊れゆく盾",
+            "title_romanji": "Koware Yuku Tate ",
+            "aired": "2006-05-13T00:00:00+00:00",
+            "score": 4.18,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=88439"
+        },
+        {
+            "mal_id": 32,
+            "url": null,
+            "title": "Boy Meets Girl",
+            "title_japanese": "ボーイ·ミーツ·ガール",
+            "title_romanji": "Boy Meets Girl ",
+            "aired": "2006-05-20T00:00:00+00:00",
+            "score": 4.16,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2793"
+        },
+        {
+            "mal_id": 33,
+            "url": null,
+            "title": "The Power of Believing",
+            "title_japanese": "信じるチカラ",
+            "title_romanji": "Shinjiru Chikara ",
+            "aired": "2006-05-27T00:00:00+00:00",
+            "score": 4.25,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=40179"
+        },
+        {
+            "mal_id": 34,
+            "url": null,
+            "title": "World Where We Exist",
+            "title_japanese": "俺たちのいる世界",
+            "title_romanji": "Oretachi no Iru Sekai ",
+            "aired": "2006-06-03T00:00:00+00:00",
+            "score": 3.83,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=79374"
+        },
+        {
+            "mal_id": 35,
+            "url": null,
+            "title": "Tomorrow Without Hope",
+            "title_japanese": "希望のない明日",
+            "title_romanji": "Kibou no Nai Ashita ",
+            "aired": "2006-06-10T00:00:00+00:00",
+            "score": 4.38,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=88440"
+        },
+        {
+            "mal_id": 36,
+            "url": null,
+            "title": "Mismatched Feelings",
+            "title_japanese": "すれちがう想い",
+            "title_romanji": "Surechigau Omoi ",
+            "aired": "2006-06-17T00:00:00+00:00",
+            "score": 4.08,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=37597"
+        },
+        {
+            "mal_id": 37,
+            "url": null,
+            "title": "To the Sheer Level of Madness",
+            "title_japanese": "狂おしいまでに",
+            "title_romanji": "Kuruoshii Made ni ",
+            "aired": "2006-06-24T00:00:00+00:00",
+            "score": 4.59,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=88441"
+        },
+        {
+            "mal_id": 38,
+            "url": null,
+            "title": "The Showdown Island",
+            "title_japanese": "決戦の島",
+            "title_romanji": "Kessen no Shima ",
+            "aired": "2006-07-01T00:00:00+00:00",
+            "score": 4.58,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=88442"
+        },
+        {
+            "mal_id": 39,
+            "url": null,
+            "title": "The Magic Words, Once More",
+            "title_japanese": "魔法の言葉をもう一度",
+            "title_romanji": "Mahou no Kotoba wo Mouichido ",
+            "aired": "2006-07-08T00:00:00+00:00",
+            "score": 4.22,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=88443"
+        },
+        {
+            "mal_id": 40,
+            "url": null,
+            "title": "Dreams That Chevaliers Dream",
+            "title_japanese": "シュヴァリエの見る夢",
+            "title_romanji": "Chevalier no Miru Yume ",
+            "aired": "2006-07-15T00:00:00+00:00",
+            "score": 4.37,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=88444"
+        },
+        {
+            "mal_id": 41,
+            "url": null,
+            "title": "The Place Where I Belong",
+            "title_japanese": "私の居場所",
+            "title_romanji": "Watashi no Ibasho ",
+            "aired": "2006-07-22T00:00:00+00:00",
+            "score": 4.23,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=88445"
+        },
+        {
+            "mal_id": 42,
+            "url": null,
+            "title": "Soprano of Miracles",
+            "title_japanese": "響く、歌声",
+            "title_romanji": "Hibiku, Utagoe ",
+            "aired": "2006-07-29T00:00:00+00:00",
+            "score": 4.4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=88446"
+        },
+        {
+            "mal_id": 43,
+            "url": null,
+            "title": "Confused Heart",
+            "title_japanese": "こころ乱れて",
+            "title_romanji": "Kokoro Midarete ",
+            "aired": "2006-08-05T00:00:00+00:00",
+            "score": 4.41,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=88447"
+        },
+        {
+            "mal_id": 44,
+            "url": null,
+            "title": "Into the Light",
+            "title_japanese": "光の中に",
+            "title_romanji": "Hikari no Naka ni ",
+            "aired": "2006-08-12T00:00:00+00:00",
+            "score": 4.08,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=88448"
+        },
+        {
+            "mal_id": 45,
+            "url": null,
+            "title": "Turn the Palm of Your Hand Toward the Sun",
+            "title_japanese": "手のひらを太陽に",
+            "title_romanji": "Te no Hira wo Taiyou ni ",
+            "aired": "2006-08-19T00:00:00+00:00",
+            "score": 4.34,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=88450"
+        },
+        {
+            "mal_id": 46,
+            "url": null,
+            "title": "May Tomorrow Be a Clear Day",
+            "title_japanese": "あした天気になあれ",
+            "title_romanji": "Ashita Tenki ni Naare ",
+            "aired": "2006-08-26T00:00:00+00:00",
+            "score": 4.12,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=88451"
+        },
+        {
+            "mal_id": 47,
+            "url": null,
+            "title": "Beyond All Blood",
+            "title_japanese": "全ての血を超えて",
+            "title_romanji": "Subete no Chi wo Koete ",
+            "aired": "2006-09-02T00:00:00+00:00",
+            "score": 4.34,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=88452"
+        },
+        {
+            "mal_id": 48,
+            "url": null,
+            "title": "Skyscraper Opera",
+            "title_japanese": "摩天楼オペラ",
+            "title_romanji": "Matenrou Opera ",
+            "aired": "2006-09-09T00:00:00+00:00",
+            "score": 4.48,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=88453"
+        },
+        {
+            "mal_id": 49,
+            "url": null,
+            "title": "Two Queens",
+            "title_japanese": "二人の女王",
+            "title_romanji": "Futari no Joou ",
+            "aired": "2006-09-16T00:00:00+00:00",
+            "score": 4.32,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=88454"
+        },
+        {
+            "mal_id": 50,
+            "url": null,
+            "title": "Nan-kuru-nai-sah",
+            "title_japanese": "ナンクルナイサ",
+            "title_romanji": "Nankurunaisa ",
+            "aired": "2006-09-23T00:00:00+00:00",
+            "score": 4.45,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=48275"
+        }
+    ]
+}

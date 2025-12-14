@@ -1,0 +1,137 @@
+{
+    "id": 16730,
+    "fetched_at": "Sun Dec 14 09:48:12 2025",
+    "metadata": {
+        "mal_id": 16730,
+        "url": "https://myanimelist.net/anime/16730/Ojamanga_Yamada-kun_Movie",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1495/148677.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1495/148677t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1495/148677l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1495/148677.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1495/148677t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1495/148677l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Ojamanga Yamada-kun (Movie)"
+            },
+            {
+                "type": "Japanese",
+                "title": "おじゃまんが山田くん"
+            }
+        ],
+        "title": "Ojamanga Yamada-kun (Movie)",
+        "title_english": null,
+        "title_japanese": "おじゃまんが山田くん",
+        "title_synonyms": [],
+        "type": "Movie",
+        "source": "Unknown",
+        "episodes": 1,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "1981-03-14T00:00:00+00:00",
+            "to": null,
+            "prop": {
+                "from": {
+                    "day": 14,
+                    "month": 3,
+                    "year": 1981
+                },
+                "to": {
+                    "day": null,
+                    "month": null,
+                    "year": null
+                }
+            },
+            "string": "Mar 14, 1981"
+        },
+        "duration": "25 min",
+        "rating": null,
+        "score": 6.03,
+        "scored_by": 167,
+        "rank": 10141,
+        "popularity": 16765,
+        "members": 633,
+        "favorites": 0,
+        "synopsis": null,
+        "background": "",
+        "season": null,
+        "year": null,
+        "broadcast": {
+            "day": null,
+            "time": null,
+            "timezone": null,
+            "string": null
+        },
+        "producers": [
+            {
+                "mal_id": 113,
+                "type": "anime",
+                "name": "Kadokawa Shoten",
+                "url": "https://myanimelist.net/anime/producer/113/Kadokawa_Shoten"
+            }
+        ],
+        "licensors": [],
+        "studios": [],
+        "genres": [
+            {
+                "mal_id": 4,
+                "type": "anime",
+                "name": "Comedy",
+                "url": "https://myanimelist.net/anime/genre/4/Comedy"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [],
+        "demographics": [],
+        "relations": [
+            {
+                "relation": "Alternative Version",
+                "entry": [
+                    {
+                        "mal_id": 16530,
+                        "type": "anime",
+                        "name": "Ojamanga Yamada-kun",
+                        "url": "https://myanimelist.net/anime/16530/Ojamanga_Yamada-kun"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [],
+            "endings": []
+        },
+        "external": [
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=9626"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "http://ja.wikipedia.org/wiki/%E3%81%8A%E3%81%98%E3%82%83%E3%81%BE%E3%82%93%E3%81%8C%E5%B1%B1%E7%94%B0%E3%81%8F%E3%82%93"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": []
+}

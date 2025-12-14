@@ -1,0 +1,752 @@
+{
+    "id": 865,
+    "fetched_at": "Sun Dec 14 07:08:24 2025",
+    "metadata": {
+        "mal_id": 865,
+        "url": "https://myanimelist.net/anime/865/Kikou_Senki_Dragonar",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/13/11236.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/13/11236t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/13/11236l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/13/11236.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/13/11236t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/13/11236l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Kikou Senki Dragonar"
+            },
+            {
+                "type": "Japanese",
+                "title": "機甲戦記ドラグナー"
+            },
+            {
+                "type": "English",
+                "title": "Metal Armor Dragonar"
+            }
+        ],
+        "title": "Kikou Senki Dragonar",
+        "title_english": "Metal Armor Dragonar",
+        "title_japanese": "機甲戦記ドラグナー",
+        "title_synonyms": [],
+        "type": "TV",
+        "source": "Original",
+        "episodes": 48,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "1987-02-07T00:00:00+00:00",
+            "to": "1988-01-30T00:00:00+00:00",
+            "prop": {
+                "from": {
+                    "day": 7,
+                    "month": 2,
+                    "year": 1987
+                },
+                "to": {
+                    "day": 30,
+                    "month": 1,
+                    "year": 1988
+                }
+            },
+            "string": "Feb 7, 1987 to Jan 30, 1988"
+        },
+        "duration": "24 min per ep",
+        "rating": "PG-13 - Teens 13 or older",
+        "score": 6.72,
+        "scored_by": 1627,
+        "rank": 5965,
+        "popularity": 8091,
+        "members": 7123,
+        "favorites": 12,
+        "synopsis": "A.D. 2087 - the United Lunar Empire Giganos wages war on the Earth Federation Military to take control of the planet and establish a \"rebirth\" of the human race. During an invasion of a colony by Giganos' forces, three civilian men stumble upon a trio of top-secret Metal Armor units called \"Dragonars\" and pilot them to combat the enemy forces.",
+        "background": "",
+        "season": "winter",
+        "year": 1987,
+        "broadcast": {
+            "day": "Saturdays",
+            "time": "17:30",
+            "timezone": "Asia/Tokyo",
+            "string": "Saturdays at 17:30 (JST)"
+        },
+        "producers": [
+            {
+                "mal_id": 64,
+                "type": "anime",
+                "name": "Sotsu",
+                "url": "https://myanimelist.net/anime/producer/64/Sotsu"
+            },
+            {
+                "mal_id": 1366,
+                "type": "anime",
+                "name": "Nagoya Broadcasting Network",
+                "url": "https://myanimelist.net/anime/producer/1366/Nagoya_Broadcasting_Network"
+            }
+        ],
+        "licensors": [],
+        "studios": [
+            {
+                "mal_id": 14,
+                "type": "anime",
+                "name": "Sunrise",
+                "url": "https://myanimelist.net/anime/producer/14/Sunrise"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 2,
+                "type": "anime",
+                "name": "Adventure",
+                "url": "https://myanimelist.net/anime/genre/2/Adventure"
+            },
+            {
+                "mal_id": 24,
+                "type": "anime",
+                "name": "Sci-Fi",
+                "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [
+            {
+                "mal_id": 18,
+                "type": "anime",
+                "name": "Mecha",
+                "url": "https://myanimelist.net/anime/genre/18/Mecha"
+            },
+            {
+                "mal_id": 29,
+                "type": "anime",
+                "name": "Space",
+                "url": "https://myanimelist.net/anime/genre/29/Space"
+            }
+        ],
+        "demographics": [],
+        "relations": [],
+        "theme": {
+            "openings": [
+                "1: \"Yume-iro Chaser\" by Mami Ayukawa (eps 1-26)",
+                "2: \"Starlight Serenade\" by Mami Yamase (eps 27-48)"
+            ],
+            "endings": [
+                "1: \"Illusion wo Sagashite\" by Mami Ayukawa",
+                "2: \"Shiny Boy\" by Mami Yamase"
+            ]
+        },
+        "external": [
+            {
+                "name": "Official Site",
+                "url": "http://www.dragonar.net/"
+            },
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=1112"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=2185"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "http://en.wikipedia.org/wiki/Metal_Armor_Dragonar"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": [
+        {
+            "mal_id": 1,
+            "url": null,
+            "title": "Day of Fire",
+            "title_japanese": "炎の日",
+            "title_romanji": "Honoo no Hi ",
+            "aired": "1987-02-07T00:00:00+00:00",
+            "score": 3.73,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=247724"
+        },
+        {
+            "mal_id": 2,
+            "url": null,
+            "title": "Battle in the Ruins",
+            "title_japanese": "廃墟の死闘",
+            "title_romanji": "Haikyo no Shitou ",
+            "aired": "1987-02-14T00:00:00+00:00",
+            "score": 3.63,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=247774"
+        },
+        {
+            "mal_id": 3,
+            "url": null,
+            "title": "The Blue Eagle of Giganos",
+            "title_japanese": "ギガノスの蒼き鷹",
+            "title_romanji": "Giganos no Ao Kitaka ",
+            "aired": "1987-02-21T00:00:00+00:00",
+            "score": 3,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1937295"
+        },
+        {
+            "mal_id": 4,
+            "url": null,
+            "title": "The Men's Battlefield",
+            "title_japanese": "男たちの戦場",
+            "title_romanji": "Otoko-tachi no Senjou ",
+            "aired": "1987-02-28T00:00:00+00:00",
+            "score": 4.33,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1937823"
+        },
+        {
+            "mal_id": 5,
+            "url": null,
+            "title": "Battle of Promise",
+            "title_japanese": "誓いの出撃",
+            "title_romanji": "Chikai no Shutsugeki ",
+            "aired": "1987-03-07T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1937838"
+        },
+        {
+            "mal_id": 6,
+            "url": null,
+            "title": "Training for Warriors",
+            "title_japanese": "戦士への試練",
+            "title_romanji": "Senshi e no Shiren ",
+            "aired": "1987-03-14T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 7,
+            "url": null,
+            "title": "Goodbye Japther",
+            "title_japanese": "さらばチェホフ",
+            "title_romanji": "Saraba Japther ",
+            "aired": "1987-03-21T00:00:00+00:00",
+            "score": 4.67,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1938227"
+        },
+        {
+            "mal_id": 8,
+            "url": null,
+            "title": "Battle: Retrieve Prisoners [Part One]",
+            "title_japanese": "捕虜奪回作戦 前編",
+            "title_romanji": "Horyo Dakkai Sakusen (Zenpen) ",
+            "aired": "1987-03-28T00:00:00+00:00",
+            "score": 4.67,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1938236"
+        },
+        {
+            "mal_id": 9,
+            "url": null,
+            "title": "Battle: Retrieve Prisoners [Part Two]",
+            "title_japanese": "捕虜奪回作戦 後編",
+            "title_romanji": "Horyo Dakkai Sakusen (Kouhen) ",
+            "aired": "1987-04-11T00:00:00+00:00",
+            "score": 4.33,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1941043"
+        },
+        {
+            "mal_id": 10,
+            "url": null,
+            "title": "Intense Battle",
+            "title_japanese": "体あたりの防戦",
+            "title_romanji": "Taiatari no Bousen ",
+            "aired": "1987-04-18T00:00:00+00:00",
+            "score": 4.33,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1941071"
+        },
+        {
+            "mal_id": 11,
+            "url": null,
+            "title": "Land of Feverish Hope",
+            "title_japanese": "熱望の大地",
+            "title_romanji": "Netsubou no Daichi ",
+            "aired": "1987-04-25T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1941093"
+        },
+        {
+            "mal_id": 12,
+            "url": null,
+            "title": "To Each Their Own Path",
+            "title_japanese": "それぞれの帰還",
+            "title_romanji": "Sorezore no Kikan ",
+            "aired": "1987-05-02T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1941121"
+        },
+        {
+            "mal_id": 13,
+            "url": null,
+            "title": "Countdown to Mass Driver",
+            "title_japanese": "マスドライバー発射指令",
+            "title_romanji": "Mass Driver Hassha Shirei ",
+            "aired": "1987-05-09T00:00:00+00:00",
+            "score": 4.5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1941850"
+        },
+        {
+            "mal_id": 14,
+            "url": null,
+            "title": "A New Journey",
+            "title_japanese": "新たなる旅立ち",
+            "title_romanji": "Arata naru Tabidachi ",
+            "aired": "1987-05-23T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1941984"
+        },
+        {
+            "mal_id": 15,
+            "url": null,
+            "title": "Dragonar's Close Shave",
+            "title_japanese": "ドラグナー)艦隊危機一髪",
+            "title_romanji": "D (Dragonar) Kantai Kiki Ippatsu (D",
+            "aired": "1987-05-30T00:00:00+00:00",
+            "score": 4.5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2118364"
+        },
+        {
+            "mal_id": 16,
+            "url": null,
+            "title": "Trap of the Replenishment Base",
+            "title_japanese": "補給基地の罠",
+            "title_romanji": "Hokyuu Kichi no Wana ",
+            "aired": "1987-06-06T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2118372"
+        },
+        {
+            "mal_id": 17,
+            "url": null,
+            "title": "Destruction Grant",
+            "title_japanese": "ノーラッド破壊工作",
+            "title_romanji": "Norad Hakai Kousaku ",
+            "aired": "1987-06-13T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2118591"
+        },
+        {
+            "mal_id": 18,
+            "url": null,
+            "title": "The Blue Eagle's Suprise Attack",
+            "title_japanese": "奇襲の蒼き鷹",
+            "title_romanji": "Kishuu no Aoki Taka ",
+            "aired": "1987-06-20T00:00:00+00:00",
+            "score": 5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2118594"
+        },
+        {
+            "mal_id": 19,
+            "url": null,
+            "title": "Flight Weapon D (Dragonar)",
+            "title_japanese": "ドラグナー)",
+            "title_romanji": "Hikou Heiki D (Dragonar) (飛行兵器D",
+            "aired": "1987-06-27T00:00:00+00:00",
+            "score": 4.5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1996966"
+        },
+        {
+            "mal_id": 20,
+            "url": null,
+            "title": "Meeting Again on the Ocean",
+            "title_japanese": "洋上の再会",
+            "title_romanji": "Youjou no Saikai ",
+            "aired": "1987-07-04T00:00:00+00:00",
+            "score": 5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2118608"
+        },
+        {
+            "mal_id": 21,
+            "url": null,
+            "title": "Enemy MA (Metal Armor) Capture Maneuvers",
+            "title_japanese": "メタルアーマー)奪取作戦",
+            "title_romanji": "Teki MA (Metal Armor) Dasshu Sakusen (敵MA",
+            "aired": "1987-07-11T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2118615"
+        },
+        {
+            "mal_id": 22,
+            "url": null,
+            "title": "Giganos Fortress Destruction Order",
+            "title_japanese": "ギガノス要塞破壊命令",
+            "title_romanji": "Giganos Yousai Hakai Meirei ",
+            "aired": "1987-07-18T00:00:00+00:00",
+            "score": 5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2118617"
+        },
+        {
+            "mal_id": 23,
+            "url": null,
+            "title": "Confrontation with Maio Plato",
+            "title_japanese": "対決マイヨ・プラート",
+            "title_romanji": "Taiketsu Maio Plato ",
+            "aired": "1987-07-25T00:00:00+00:00",
+            "score": 4.67,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1948007"
+        },
+        {
+            "mal_id": 24,
+            "url": null,
+            "title": "Large Shanghai Flight",
+            "title_japanese": "上海大逃走",
+            "title_romanji": "Shanghai Dai Tousou ",
+            "aired": "1987-08-01T00:00:00+00:00",
+            "score": 4.25,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1493825"
+        },
+        {
+            "mal_id": 25,
+            "url": null,
+            "title": "D-Weapon Re-Planning",
+            "title_japanese": "ディー)兵器改造計画",
+            "title_romanji": "D Heiki Kaizou Keikaku (D",
+            "aired": "1987-08-08T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1998083"
+        },
+        {
+            "mal_id": 26,
+            "url": null,
+            "title": "Fear of Gun Jiem",
+            "title_japanese": "恐怖のグン ジェム",
+            "title_romanji": "Kyoufu no Gun Jiem ",
+            "aired": "1987-08-15T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2118825"
+        },
+        {
+            "mal_id": 27,
+            "url": null,
+            "title": "Seeing! Dragonar Guerrilla Warfare Party",
+            "title_japanese": "見参!ドラグナー遊撃隊",
+            "title_romanji": "Kenzan! Dragonar Yuugeki tai ",
+            "aired": "1987-08-22T00:00:00+00:00",
+            "score": 4.67,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1998580"
+        },
+        {
+            "mal_id": 28,
+            "url": null,
+            "title": "The Threatening Viper Unit",
+            "title_japanese": "脅威の毒蛇部隊",
+            "title_romanji": "Kyoui no Dokuhebi Butai ",
+            "aired": "1987-08-29T00:00:00+00:00",
+            "score": 3.5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1998780"
+        },
+        {
+            "mal_id": 29,
+            "url": null,
+            "title": "Disappearance! Rescue Linda",
+            "title_japanese": "潜入!リンダを救え",
+            "title_romanji": "Sennyuu! Linda wo Sukue ",
+            "aired": "1987-09-05T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1998784"
+        },
+        {
+            "mal_id": 30,
+            "url": null,
+            "title": "Necessary Shooting! Chain Saw Attack",
+            "title_japanese": "必殺!チェーンソー・アタック",
+            "title_romanji": "Hissatsu! Chain Saw Attack ",
+            "aired": "1987-09-12T00:00:00+00:00",
+            "score": 5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2118885"
+        },
+        {
+            "mal_id": 31,
+            "url": null,
+            "title": "Assassins from the Moon",
+            "title_japanese": "月からの刺客",
+            "title_romanji": "Tsuki kara no Shikaku ",
+            "aired": "1987-09-19T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2119043"
+        },
+        {
+            "mal_id": 32,
+            "url": null,
+            "title": "Sniper of Vengeance",
+            "title_japanese": "スナイパー)",
+            "title_romanji": "Fukushuu no Sniper (復讐の狙撃兵",
+            "aired": "1987-09-26T00:00:00+00:00",
+            "score": 5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2119047"
+        },
+        {
+            "mal_id": 33,
+            "url": null,
+            "title": "Betrayal of Giganos",
+            "title_japanese": "ギガノスの異変",
+            "title_romanji": "Giganos no Ihen ",
+            "aired": "1987-10-03T00:00:00+00:00",
+            "score": 5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1948325"
+        },
+        {
+            "mal_id": 34,
+            "url": null,
+            "title": "Close Attack! Earth Spider Maneuvers",
+            "title_japanese": "迫撃!土蜘蛛作戦",
+            "title_romanji": "Hakugeki! Tsuchigumo Sakusen ",
+            "aired": "1987-10-10T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2119787"
+        },
+        {
+            "mal_id": 35,
+            "url": null,
+            "title": "Fear! Infinite Movement Gun",
+            "title_japanese": "恐怖!無限機動砲",
+            "title_romanji": "Kyoufu! Mugen Kidou Hou ",
+            "aired": "1987-10-17T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2119790"
+        },
+        {
+            "mal_id": 36,
+            "url": null,
+            "title": "Super Attack! Gun Jiem's Anger",
+            "title_japanese": "猛攻!怒りのグンジェム",
+            "title_romanji": "Moukou! Ikari no Gun Jiem ",
+            "aired": "1987-10-24T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2119796"
+        },
+        {
+            "mal_id": 37,
+            "url": null,
+            "title": "Overthrow! Viper Seiryuu sword",
+            "title_japanese": "打倒!毒蛇の青竜刀",
+            "title_romanji": "Datou! Dokuhebi no Seiryuutou ",
+            "aired": "1987-11-07T00:00:00+00:00",
+            "score": 5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2120576"
+        },
+        {
+            "mal_id": 38,
+            "url": null,
+            "title": "Appearance! Ultimate MA (Metal Armor)",
+            "title_japanese": "メタルアーマー)",
+            "title_romanji": "Toujou! Kyuukyoku no M.A (Metal Armor) (登場!究極のM・A",
+            "aired": "1987-11-14T00:00:00+00:00",
+            "score": 5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2120585"
+        },
+        {
+            "mal_id": 39,
+            "url": null,
+            "title": "Heroic! Gun Jiem's Last Moments",
+            "title_japanese": "壮絶!グンジェムの最期",
+            "title_romanji": "Souzetsu! Gun Jiem no Saigo ",
+            "aired": "1987-11-21T00:00:00+00:00",
+            "score": 5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2120605"
+        },
+        {
+            "mal_id": 40,
+            "url": null,
+            "title": "Cunning! Major Haidel Nekken",
+            "title_japanese": "狡猾!ハイデルネッケン少佐",
+            "title_romanji": "Koukatsu! Haidel Nekken Shousa ",
+            "aired": "1987-11-28T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2120911"
+        },
+        {
+            "mal_id": 41,
+            "url": null,
+            "title": "Revival! Blue Eagle of Giganos",
+            "title_japanese": "復活!ギガノスの蒼き鷹",
+            "title_romanji": "Fukkatsu! Giganos no Aoki Taka ",
+            "aired": "1987-12-05T00:00:00+00:00",
+            "score": 5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2120970"
+        },
+        {
+            "mal_id": 42,
+            "url": null,
+            "title": "Move! Giganos' Invincible Fortress",
+            "title_japanese": "発動!ギガノス無敵要塞",
+            "title_romanji": "Hatsudou! Giganos Muteki Yousai ",
+            "aired": "1987-12-12T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2121033"
+        },
+        {
+            "mal_id": 43,
+            "url": null,
+            "title": "Decision! Enormous Fortress Attack Order",
+            "title_japanese": "決断!巨大要塞攻撃指令",
+            "title_romanji": "Ketsudan! Kyodai Yousai Kougeki Shirei ",
+            "aired": "1987-12-19T00:00:00+00:00",
+            "score": 4.5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2121034"
+        },
+        {
+            "mal_id": 44,
+            "url": null,
+            "title": "Heartless! Dragonar vs. Dragonar",
+            "title_japanese": "非情!ドラグナー対ドラグナー",
+            "title_romanji": "Hijou! Dragonar vs. Dragonar ",
+            "aired": "1987-12-26T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2121039"
+        },
+        {
+            "mal_id": 45,
+            "url": null,
+            "title": "Special Attack! Blue Eagle's Vengeance",
+            "title_japanese": "特攻!復讐の蒼き鷹",
+            "title_romanji": "Tokkou! Fukushuu no Aoki Taka ",
+            "aired": "1988-01-09T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2121044"
+        },
+        {
+            "mal_id": 46,
+            "url": null,
+            "title": "Break In! Rescue Aoi Wakaba",
+            "title_japanese": "突入!アオイワカバ救出",
+            "title_romanji": "Totsunyuu! Aoi Wakaba Kyuushutsu ",
+            "aired": "1988-01-16T00:00:00+00:00",
+            "score": 5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2121052"
+        },
+        {
+            "mal_id": 47,
+            "url": null,
+            "title": "Pressing Hard! Captain Min's Pursuit",
+            "title_japanese": "肉迫!ミン大尉の猛追",
+            "title_romanji": null,
+            "aired": "1988-01-23T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2121059"
+        },
+        {
+            "mal_id": 48,
+            "url": null,
+            "title": "The Universal (Heavenly) Victory",
+            "title_japanese": "おおぞら)の凱歌",
+            "title_romanji": "Dai Oozora no Gaika (大宇宙",
+            "aired": "1988-01-30T00:00:00+00:00",
+            "score": 5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2121064"
+        }
+    ]
+}

@@ -1,0 +1,220 @@
+{
+    "id": 3071,
+    "fetched_at": "Sun Dec 14 08:18:32 2025",
+    "metadata": {
+        "mal_id": 3071,
+        "url": "https://myanimelist.net/anime/3071/Uchuu_Senkan_Yamato__Aratanaru_Tabidachi",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/3/83050.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/3/83050t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/3/83050l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/3/83050.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/3/83050t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/3/83050l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Uchuu Senkan Yamato: Aratanaru Tabidachi"
+            },
+            {
+                "type": "Japanese",
+                "title": "宇宙戦艦ヤマト 新たなる旅立ち"
+            },
+            {
+                "type": "English",
+                "title": "Space Battleship Yamato: The New Voyage"
+            }
+        ],
+        "title": "Uchuu Senkan Yamato: Aratanaru Tabidachi",
+        "title_english": "Space Battleship Yamato: The New Voyage",
+        "title_japanese": "宇宙戦艦ヤマト 新たなる旅立ち",
+        "title_synonyms": [],
+        "type": "TV Special",
+        "source": "Original",
+        "episodes": 1,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "1979-07-31T00:00:00+00:00",
+            "to": null,
+            "prop": {
+                "from": {
+                    "day": 31,
+                    "month": 7,
+                    "year": 1979
+                },
+                "to": {
+                    "day": null,
+                    "month": null,
+                    "year": null
+                }
+            },
+            "string": "Jul 31, 1979"
+        },
+        "duration": "1 hr 35 min",
+        "rating": "PG-13 - Teens 13 or older",
+        "score": 6.65,
+        "scored_by": 1850,
+        "rank": 6397,
+        "popularity": 9401,
+        "members": 4867,
+        "favorites": 2,
+        "synopsis": "It is the year 2201. The Yamato has returned from the devastating battle with Emperor Zordar and the Comet Empire. Sanada, Aihara, and Shima are released from the hospital, and go to pay their respects to the fallen crew members at Okita's memorial. They meet Tokugawa's son Tasuke, who says that he will be joining the crew once he graduates from cadet school. The next day at his graduation, he ends up capsizing a boat full of new cadets because they are all too busy staring at the Yamato to watch where they are going.\n\nAfter some problems during launch due to the new engine crew hitting the wrong switches and stalling the ship, the Yamato departs on what should be a simple training mission.\n\n(Source: AniDB)",
+        "background": "",
+        "season": null,
+        "year": null,
+        "broadcast": {
+            "day": null,
+            "time": null,
+            "timezone": null,
+            "string": null
+        },
+        "producers": [
+            {
+                "mal_id": 3172,
+                "type": "anime",
+                "name": "Arts Pro",
+                "url": "https://myanimelist.net/anime/producer/3172/Arts_Pro"
+            }
+        ],
+        "licensors": [],
+        "studios": [
+            {
+                "mal_id": 589,
+                "type": "anime",
+                "name": "Academy Productions",
+                "url": "https://myanimelist.net/anime/producer/589/Academy_Productions"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 1,
+                "type": "anime",
+                "name": "Action",
+                "url": "https://myanimelist.net/anime/genre/1/Action"
+            },
+            {
+                "mal_id": 8,
+                "type": "anime",
+                "name": "Drama",
+                "url": "https://myanimelist.net/anime/genre/8/Drama"
+            },
+            {
+                "mal_id": 24,
+                "type": "anime",
+                "name": "Sci-Fi",
+                "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [
+            {
+                "mal_id": 50,
+                "type": "anime",
+                "name": "Adult Cast",
+                "url": "https://myanimelist.net/anime/genre/50/Adult_Cast"
+            },
+            {
+                "mal_id": 38,
+                "type": "anime",
+                "name": "Military",
+                "url": "https://myanimelist.net/anime/genre/38/Military"
+            },
+            {
+                "mal_id": 29,
+                "type": "anime",
+                "name": "Space",
+                "url": "https://myanimelist.net/anime/genre/29/Space"
+            }
+        ],
+        "demographics": [],
+        "relations": [
+            {
+                "relation": "Prequel",
+                "entry": [
+                    {
+                        "mal_id": 1651,
+                        "type": "anime",
+                        "name": "Uchuu Senkan Yamato 2",
+                        "url": "https://myanimelist.net/anime/1651/Uchuu_Senkan_Yamato_2"
+                    }
+                ]
+            },
+            {
+                "relation": "Sequel",
+                "entry": [
+                    {
+                        "mal_id": 3069,
+                        "type": "anime",
+                        "name": "Yamato yo Towa ni",
+                        "url": "https://myanimelist.net/anime/3069/Yamato_yo_Towa_ni"
+                    }
+                ]
+            },
+            {
+                "relation": "Adaptation",
+                "entry": [
+                    {
+                        "mal_id": 33369,
+                        "type": "manga",
+                        "name": "Uchuu Senkan Yamato: Aratanaru Tabidachi",
+                        "url": "https://myanimelist.net/manga/33369/Uchuu_Senkan_Yamato__Aratanaru_Tabidachi"
+                    }
+                ]
+            },
+            {
+                "relation": "Alternative Version",
+                "entry": [
+                    {
+                        "mal_id": 40389,
+                        "type": "anime",
+                        "name": "Uchuu Senkan Yamato 2205: Aratanaru Tabidachi",
+                        "url": "https://myanimelist.net/anime/40389/Uchuu_Senkan_Yamato_2205__Aratanaru_Tabidachi"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [],
+            "endings": []
+        },
+        "external": [
+            {
+                "name": "Official Site",
+                "url": "http://www.bandaivisual.co.jp/yamato/data/4_arata.html"
+            },
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=2811"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=3752"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "http://en.wikipedia.org/wiki/Space_Battleship_Yamato#Yamato:_The_New_Voyage_.28.E5.AE.87.E5.AE.99.E6.88.A6.E8.89.A6.E3.83.A4.E3.83.9E.E3.83.88_.E6.96.B0.E3.81.9F.E3.81.AA.E3.82.8B.E6.97.85.E7.AB.8B.E3.81.A1.29"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": []
+}

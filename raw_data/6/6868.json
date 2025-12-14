@@ -1,0 +1,160 @@
+{
+    "id": 6868,
+    "fetched_at": "Sun Dec 14 09:03:58 2025",
+    "metadata": {
+        "mal_id": 6868,
+        "url": "https://myanimelist.net/anime/6868/Wansa-kun",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/9/56761.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/9/56761t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/9/56761l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/9/56761.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/9/56761t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/9/56761l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Wansa-kun"
+            },
+            {
+                "type": "Japanese",
+                "title": "ワンサくん"
+            },
+            {
+                "type": "English",
+                "title": "Little Wansa"
+            }
+        ],
+        "title": "Wansa-kun",
+        "title_english": "Little Wansa",
+        "title_japanese": "ワンサくん",
+        "title_synonyms": [],
+        "type": "TV",
+        "source": "Manga",
+        "episodes": 26,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "1973-04-02T00:00:00+00:00",
+            "to": "1973-09-24T00:00:00+00:00",
+            "prop": {
+                "from": {
+                    "day": 2,
+                    "month": 4,
+                    "year": 1973
+                },
+                "to": {
+                    "day": 24,
+                    "month": 9,
+                    "year": 1973
+                }
+            },
+            "string": "Apr 2, 1973 to Sep 24, 1973"
+        },
+        "duration": "25 min per ep",
+        "rating": "PG - Children",
+        "score": 5.95,
+        "scored_by": 454,
+        "rank": 10562,
+        "popularity": 13352,
+        "members": 1498,
+        "favorites": 1,
+        "synopsis": "The hero of Wansa-kun is Wansa, a puppy who is sold for a pittance, then escapes, and spends much of the rest of the series looking for his mother.",
+        "background": "",
+        "season": "spring",
+        "year": 1973,
+        "broadcast": {
+            "day": null,
+            "time": null,
+            "timezone": null,
+            "string": "Unknown"
+        },
+        "producers": [],
+        "licensors": [],
+        "studios": [
+            {
+                "mal_id": 68,
+                "type": "anime",
+                "name": "Mushi Production",
+                "url": "https://myanimelist.net/anime/producer/68/Mushi_Production"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 4,
+                "type": "anime",
+                "name": "Comedy",
+                "url": "https://myanimelist.net/anime/genre/4/Comedy"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [],
+        "demographics": [],
+        "relations": [
+            {
+                "relation": "Adaptation",
+                "entry": [
+                    {
+                        "mal_id": 29617,
+                        "type": "manga",
+                        "name": "Wansa-kun",
+                        "url": "https://myanimelist.net/manga/29617/Wansa-kun"
+                    }
+                ]
+            },
+            {
+                "relation": "Summary",
+                "entry": [
+                    {
+                        "mal_id": 21161,
+                        "type": "anime",
+                        "name": "Wansa-kun OVA",
+                        "url": "https://myanimelist.net/anime/21161/Wansa-kun_OVA"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [],
+            "endings": []
+        },
+        "external": [
+            {
+                "name": "Official Site",
+                "url": "http://tezukaosamu.net/jp/anime/42.html"
+            },
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=2880"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=1481"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "http://en.wikipedia.org/wiki/Little_Wansa"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": []
+}

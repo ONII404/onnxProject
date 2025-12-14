@@ -1,0 +1,154 @@
+{
+    "id": 10000,
+    "fetched_at": "Sun Dec 14 09:30:51 2025",
+    "metadata": {
+        "mal_id": 10000,
+        "url": "https://myanimelist.net/anime/10000/Esper_Mami_Special__My_Angel_Mami-chan",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/2/27652.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/2/27652t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/2/27652l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/2/27652.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/2/27652t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/2/27652l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Esper Mami Special: My Angel Mami-chan"
+            },
+            {
+                "type": "Japanese",
+                "title": "エスパー魔美スペシャル マイエンジェル魔美ちゃん"
+            }
+        ],
+        "title": "Esper Mami Special: My Angel Mami-chan",
+        "title_english": null,
+        "title_japanese": "エスパー魔美スペシャル マイエンジェル魔美ちゃん",
+        "title_synonyms": [],
+        "type": "TV Special",
+        "source": "Manga",
+        "episodes": 1,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "1988-12-27T00:00:00+00:00",
+            "to": null,
+            "prop": {
+                "from": {
+                    "day": 27,
+                    "month": 12,
+                    "year": 1988
+                },
+                "to": {
+                    "day": null,
+                    "month": null,
+                    "year": null
+                }
+            },
+            "string": "Dec 27, 1988"
+        },
+        "duration": "23 min",
+        "rating": "PG-13 - Teens 13 or older",
+        "score": 6.19,
+        "scored_by": 150,
+        "rank": 9223,
+        "popularity": 16870,
+        "members": 618,
+        "favorites": 0,
+        "synopsis": "An end-of-year special, aired between episodes 84 and 85.",
+        "background": "",
+        "season": null,
+        "year": null,
+        "broadcast": {
+            "day": null,
+            "time": null,
+            "timezone": null,
+            "string": null
+        },
+        "producers": [],
+        "licensors": [],
+        "studios": [
+            {
+                "mal_id": 247,
+                "type": "anime",
+                "name": "Shin-Ei Animation",
+                "url": "https://myanimelist.net/anime/producer/247/Shin-Ei_Animation"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 4,
+                "type": "anime",
+                "name": "Comedy",
+                "url": "https://myanimelist.net/anime/genre/4/Comedy"
+            },
+            {
+                "mal_id": 37,
+                "type": "anime",
+                "name": "Supernatural",
+                "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [
+            {
+                "mal_id": 31,
+                "type": "anime",
+                "name": "Super Power",
+                "url": "https://myanimelist.net/anime/genre/31/Super_Power"
+            }
+        ],
+        "demographics": [],
+        "relations": [
+            {
+                "relation": "Parent Story",
+                "entry": [
+                    {
+                        "mal_id": 3023,
+                        "type": "anime",
+                        "name": "Esper Mami",
+                        "url": "https://myanimelist.net/anime/3023/Esper_Mami"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [],
+            "endings": []
+        },
+        "external": [
+            {
+                "name": "Official Site",
+                "url": "http://www.shin-ei-animation.jp/mami/"
+            },
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=2684"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "http://ja.wikipedia.org/wiki/エスパー魔美"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": []
+}

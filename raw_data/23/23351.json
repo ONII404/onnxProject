@@ -1,0 +1,470 @@
+{
+    "id": 23351,
+    "fetched_at": "Sun Dec 14 10:11:45 2025",
+    "metadata": {
+        "mal_id": 23351,
+        "url": "https://myanimelist.net/anime/23351/Youkaiden_Nekome_Kozou",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1215/112592.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1215/112592t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1215/112592l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1215/112592.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1215/112592t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1215/112592l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Youkaiden Nekome Kozou"
+            },
+            {
+                "type": "Japanese",
+                "title": "妖怪伝 猫目小僧"
+            },
+            {
+                "type": "English",
+                "title": "Cat Eyed Boy"
+            }
+        ],
+        "title": "Youkaiden Nekome Kozou",
+        "title_english": "Cat Eyed Boy",
+        "title_japanese": "妖怪伝 猫目小僧",
+        "title_synonyms": [],
+        "type": "TV",
+        "source": "Manga",
+        "episodes": 25,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "1976-04-01T00:00:00+00:00",
+            "to": "1976-09-30T00:00:00+00:00",
+            "prop": {
+                "from": {
+                    "day": 1,
+                    "month": 4,
+                    "year": 1976
+                },
+                "to": {
+                    "day": 30,
+                    "month": 9,
+                    "year": 1976
+                }
+            },
+            "string": "Apr 1, 1976 to Sep 30, 1976"
+        },
+        "duration": "25 min per ep",
+        "rating": "G - All Ages",
+        "score": 5.93,
+        "scored_by": 231,
+        "rank": 10656,
+        "popularity": 13736,
+        "members": 1355,
+        "favorites": 0,
+        "synopsis": "The story is told by the cat-eyed boy, hated by humans and demons, who engages in tales of terror, including monsters and children.",
+        "background": "",
+        "season": "spring",
+        "year": 1976,
+        "broadcast": {
+            "day": null,
+            "time": null,
+            "timezone": null,
+            "string": "Unknown"
+        },
+        "producers": [],
+        "licensors": [],
+        "studios": [
+            {
+                "mal_id": 450,
+                "type": "anime",
+                "name": "Wako Production",
+                "url": "https://myanimelist.net/anime/producer/450/Wako_Production"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 2,
+                "type": "anime",
+                "name": "Adventure",
+                "url": "https://myanimelist.net/anime/genre/2/Adventure"
+            },
+            {
+                "mal_id": 14,
+                "type": "anime",
+                "name": "Horror",
+                "url": "https://myanimelist.net/anime/genre/14/Horror"
+            },
+            {
+                "mal_id": 37,
+                "type": "anime",
+                "name": "Supernatural",
+                "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [
+            {
+                "mal_id": 40,
+                "type": "anime",
+                "name": "Psychological",
+                "url": "https://myanimelist.net/anime/genre/40/Psychological"
+            }
+        ],
+        "demographics": [
+            {
+                "mal_id": 42,
+                "type": "anime",
+                "name": "Seinen",
+                "url": "https://myanimelist.net/anime/genre/42/Seinen"
+            }
+        ],
+        "relations": [
+            {
+                "relation": "Adaptation",
+                "entry": [
+                    {
+                        "mal_id": 5550,
+                        "type": "manga",
+                        "name": "Nekome Kozou",
+                        "url": "https://myanimelist.net/manga/5550/Nekome_Kozou"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [
+                "\"Nekome Kozou (猫目小僧)\" by Columbia Yurikago Kai, Horie Mitsuko"
+            ],
+            "endings": []
+        },
+        "external": [
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=4710"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "http://ja.wikipedia.org/wiki/%E5%A6%96%E6%80%AA%E4%BC%9D_%E7%8C%AB%E7%9B%AE%E5%B0%8F%E5%83%A7"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": [
+        {
+            "mal_id": 1,
+            "url": null,
+            "title": "Nurturing Parent Guardian",
+            "title_japanese": "子そだて仁王",
+            "title_romanji": "Kosodate Niou ",
+            "aired": "1976-04-01T00:00:00+00:00",
+            "score": 3.83,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1834397"
+        },
+        {
+            "mal_id": 2,
+            "url": null,
+            "title": "Long Neck Mound",
+            "title_japanese": "くびなが塚",
+            "title_romanji": "Kubina ga Tsuka ",
+            "aired": "1976-04-08T00:00:00+00:00",
+            "score": 4.5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2163063"
+        },
+        {
+            "mal_id": 3,
+            "url": null,
+            "title": "Confrontation!! The Grudge-Settling Ground Swirl",
+            "title_japanese": "対決！！うらみの地むぐり",
+            "title_romanji": "Taiketsu!! Urami no Chi Muguri ",
+            "aired": "1976-04-15T00:00:00+00:00",
+            "score": 4.5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2163064"
+        },
+        {
+            "mal_id": 4,
+            "url": null,
+            "title": "Mother's Visage",
+            "title_japanese": "母のおもかげ",
+            "title_romanji": "Haha no Omokage ",
+            "aired": "1976-04-22T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 5,
+            "url": null,
+            "title": "Weeping Old Woman and Crying Man",
+            "title_japanese": "なみだ婆と泣き男",
+            "title_romanji": "Namida Baba to Naki Otoko ",
+            "aired": "1976-04-29T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 6,
+            "url": null,
+            "title": "Pitiful Beach Skull",
+            "title_japanese": "哀れ・浜ドクロ",
+            "title_romanji": "Aware: Hama Dokuro ",
+            "aired": "1976-05-06T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 7,
+            "url": null,
+            "title": "Curse of the Clumsy Person",
+            "title_japanese": "ずんべらの呪い",
+            "title_romanji": "Zunbera no Noroi ",
+            "aired": "1976-05-13T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 8,
+            "url": null,
+            "title": "Pseudo Hell",
+            "title_japanese": "地獄もどき",
+            "title_romanji": "Jigoku Modoki ",
+            "aired": "1976-05-20T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 9,
+            "url": null,
+            "title": "Mysterious Dark Sorcerer",
+            "title_japanese": "謎の闇法師",
+            "title_romanji": "Nazo no Yami Houshi ",
+            "aired": "1976-05-27T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 10,
+            "url": null,
+            "title": "Blood-Cursed Mountain Witch",
+            "title_japanese": "血ののろいやまじょろう",
+            "title_romanji": "Chi no Noroi Yamajorou ",
+            "aired": "1976-06-03T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 11,
+            "url": null,
+            "title": "Lake Monster Covered in Goo",
+            "title_japanese": "湖の怪物べったり",
+            "title_romanji": "Mizuumi no Kaibutsu Bettari ",
+            "aired": "1976-06-10T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 12,
+            "url": null,
+            "title": "Shaking Monk",
+            "title_japanese": "ゆさぶり坊主",
+            "title_romanji": "Yusaburi Bouzu ",
+            "aired": "1976-06-17T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 13,
+            "url": null,
+            "title": "Fury of the Mystic Stone",
+            "title_japanese": "妖石の怒り",
+            "title_romanji": "Youseki no Ikari ",
+            "aired": "1976-07-24T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 14,
+            "url": null,
+            "title": "Mystery! The Woman Living in the Mirror",
+            "title_japanese": "怪奇！鏡に住む女",
+            "title_romanji": "Kaiki! Kagami ni Sumu Onna ",
+            "aired": "1976-07-01T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 15,
+            "url": null,
+            "title": "The Wet Woman Crying on a Moonlit Night",
+            "title_japanese": "月夜に泣くぬれ女",
+            "title_romanji": "Tsukiyo ni Naku Nure Onna ",
+            "aired": "1976-07-08T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 16,
+            "url": null,
+            "title": "Resentment of the Temple Bell",
+            "title_japanese": "釣り鐘のうらみ",
+            "title_romanji": "Tsurigane no Urami ",
+            "aired": "1976-07-15T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 17,
+            "url": null,
+            "title": "Mystery: The Turtle's Hundred-Year Comb",
+            "title_japanese": "怪奇・百年亀のクシ",
+            "title_romanji": "Kaiki: Hyakunen Kame no Kushi ",
+            "aired": "1976-07-22T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 18,
+            "url": null,
+            "title": "Hill Where the Spirits Awoke",
+            "title_japanese": "霊が目ざめた丘",
+            "title_romanji": "Rei ga Mezameta Oka ",
+            "aired": "1976-07-29T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 19,
+            "url": null,
+            "title": "The Witch of the Misty Valley",
+            "title_japanese": "霧の谷の魔女",
+            "title_romanji": "Kiri no Tani no Majo ",
+            "aired": "1976-08-05T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 20,
+            "url": null,
+            "title": "Tears of Abandoned Doll",
+            "title_japanese": "捨てられた人形の涙",
+            "title_romanji": "Suterareta Ningyou no Namida ",
+            "aired": "1976-08-12T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 21,
+            "url": null,
+            "title": "Echoes of the Enchanted Tree",
+            "title_japanese": "妖木こだま",
+            "title_romanji": "Youboku Kodama ",
+            "aired": "1976-08-19T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 22,
+            "url": null,
+            "title": "Festival Music Summons Spirits",
+            "title_japanese": "祭ばやしが霊を呼ぶ",
+            "title_romanji": "Matsuri Bayashi ga Rei wo Yobu ",
+            "aired": "1976-09-02T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 23,
+            "url": null,
+            "title": "The Crying Voice Heard on a Rainy Night",
+            "title_japanese": "雨の夜に聞える泣き声",
+            "title_romanji": "Ame no Yoru ni Kikoeru Nakigoe ",
+            "aired": "1976-09-09T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 24,
+            "url": null,
+            "title": "Night Science Laboratory",
+            "title_japanese": "夜の理科実験室",
+            "title_romanji": "Yoru no Rika Jikken Shitsu ",
+            "aired": "1976-09-16T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 25,
+            "url": null,
+            "title": "Reunion of Tears",
+            "title_japanese": "涙の再会",
+            "title_romanji": "Namida no Saikai ",
+            "aired": "1976-09-30T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        }
+    ]
+}

@@ -1,0 +1,168 @@
+{
+    "id": 30096,
+    "fetched_at": "Sun Dec 14 10:41:47 2025",
+    "metadata": {
+        "mal_id": 30096,
+        "url": "https://myanimelist.net/anime/30096/Lao_Fu_Zi_Shui_Hu_Chuan",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/9/72100.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/9/72100t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/9/72100l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/9/72100.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/9/72100t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/9/72100l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Lao Fu Zi Shui Hu Chuan"
+            },
+            {
+                "type": "Synonym",
+                "title": "Old Master Q: Water Tiger"
+            },
+            {
+                "type": "Synonym",
+                "title": "Lao Fuzi Shui Hu Chuan"
+            },
+            {
+                "type": "Japanese",
+                "title": "老夫子水虎傳"
+            }
+        ],
+        "title": "Lao Fu Zi Shui Hu Chuan",
+        "title_english": null,
+        "title_japanese": "老夫子水虎傳",
+        "title_synonyms": [
+            "Old Master Q: Water Tiger",
+            "Lao Fuzi Shui Hu Chuan"
+        ],
+        "type": "Movie",
+        "source": "Unknown",
+        "episodes": 1,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "1982-07-10T00:00:00+00:00",
+            "to": null,
+            "prop": {
+                "from": {
+                    "day": 10,
+                    "month": 7,
+                    "year": 1982
+                },
+                "to": {
+                    "day": null,
+                    "month": null,
+                    "year": null
+                }
+            },
+            "string": "Jul 10, 1982"
+        },
+        "duration": "1 hr 12 min",
+        "rating": "G - All Ages",
+        "score": 6.06,
+        "scored_by": 177,
+        "rank": 9963,
+        "popularity": 17622,
+        "members": 534,
+        "favorites": 2,
+        "synopsis": "Old Master Q and gang travels to the past.",
+        "background": "",
+        "season": null,
+        "year": null,
+        "broadcast": {
+            "day": null,
+            "time": null,
+            "timezone": null,
+            "string": null
+        },
+        "producers": [],
+        "licensors": [],
+        "studios": [],
+        "genres": [
+            {
+                "mal_id": 4,
+                "type": "anime",
+                "name": "Comedy",
+                "url": "https://myanimelist.net/anime/genre/4/Comedy"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [
+            {
+                "mal_id": 13,
+                "type": "anime",
+                "name": "Historical",
+                "url": "https://myanimelist.net/anime/genre/13/Historical"
+            }
+        ],
+        "demographics": [
+            {
+                "mal_id": 42,
+                "type": "anime",
+                "name": "Seinen",
+                "url": "https://myanimelist.net/anime/genre/42/Seinen"
+            }
+        ],
+        "relations": [
+            {
+                "relation": "Prequel",
+                "entry": [
+                    {
+                        "mal_id": 30095,
+                        "type": "anime",
+                        "name": "Qi Cai Lao Fu Zi",
+                        "url": "https://myanimelist.net/anime/30095/Qi_Cai_Lao_Fu_Zi"
+                    }
+                ]
+            },
+            {
+                "relation": "Sequel",
+                "entry": [
+                    {
+                        "mal_id": 30097,
+                        "type": "anime",
+                        "name": "Shan T Lao Fu Zi",
+                        "url": "https://myanimelist.net/anime/30097/Shan_T_Lao_Fu_Zi"
+                    }
+                ]
+            },
+            {
+                "relation": "Adaptation",
+                "entry": [
+                    {
+                        "mal_id": 48175,
+                        "type": "manga",
+                        "name": "Old Master Q",
+                        "url": "https://myanimelist.net/manga/48175/Old_Master_Q"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [],
+            "endings": []
+        },
+        "external": [],
+        "streaming": []
+    },
+    "episodes": []
+}

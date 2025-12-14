@@ -1,0 +1,804 @@
+{
+    "id": 278,
+    "fetched_at": "Sun Dec 14 12:54:09 2025",
+    "metadata": {
+        "mal_id": 278,
+        "url": "https://myanimelist.net/anime/278/Viewtiful_Joe",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1/278.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1/278t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1/278l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1/278.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1/278t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1/278l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": "https://www.youtube-nocookie.com/embed/8SzLFT94MPU?enablejsapi=1&wmode=opaque&autoplay=1",
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Viewtiful Joe"
+            },
+            {
+                "type": "Synonym",
+                "title": "Beautiful Joe"
+            },
+            {
+                "type": "Japanese",
+                "title": "ビューティフル ジョー"
+            }
+        ],
+        "title": "Viewtiful Joe",
+        "title_english": null,
+        "title_japanese": "ビューティフル ジョー",
+        "title_synonyms": [
+            "Beautiful Joe"
+        ],
+        "type": "TV",
+        "source": "Game",
+        "episodes": 51,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "2004-10-02T00:00:00+00:00",
+            "to": "2005-09-24T00:00:00+00:00",
+            "prop": {
+                "from": {
+                    "day": 2,
+                    "month": 10,
+                    "year": 2004
+                },
+                "to": {
+                    "day": 24,
+                    "month": 9,
+                    "year": 2005
+                }
+            },
+            "string": "Oct 2, 2004 to Sep 24, 2005"
+        },
+        "duration": "24 min per ep",
+        "rating": "PG-13 - Teens 13 or older",
+        "score": 6.76,
+        "scored_by": 5858,
+        "rank": 5750,
+        "popularity": 6322,
+        "members": 13079,
+        "favorites": 28,
+        "synopsis": "Joe, a red-headed movie buff, and Silvia, his girlfriend, are having a bit of relationship trouble. Silvia feels that Joe is taking her for-granted and wants to do something together for once, so Joe decides to take her to see an old action movie featuring his favorite hero, Captain Blue. What started out as a cute movie date takes a turn for the worst when Silvia is pulled into the movie by the leader of the evil organization, Jado.\n\nJoe follows her into the mysterious \"Movieland,\" and is granted a powerful device known as a V-Watch by Captain Blue himself. With it, he transforms into the action hero named \"Viewtiful Joe\" and goes off to rescue his girlfriend before she can be used by Jado to take over the world. It's a long road to go from average Joe to full-blown hero, but he'll give it his all to save both his girl and the world—and he'll do it in the most \"view-ti-ful\" way possible.",
+        "background": "Viewtiful Joe is an adaptation of a video game of the same title created by CAPCOM.",
+        "season": "fall",
+        "year": 2004,
+        "broadcast": {
+            "day": "Saturdays",
+            "time": "07:00",
+            "timezone": "Asia/Tokyo",
+            "string": "Saturdays at 07:00 (JST)"
+        },
+        "producers": [
+            {
+                "mal_id": 16,
+                "type": "anime",
+                "name": "TV Tokyo",
+                "url": "https://myanimelist.net/anime/producer/16/TV_Tokyo"
+            },
+            {
+                "mal_id": 135,
+                "type": "anime",
+                "name": "MediaNet",
+                "url": "https://myanimelist.net/anime/producer/135/MediaNet"
+            },
+            {
+                "mal_id": 240,
+                "type": "anime",
+                "name": "Capcom",
+                "url": "https://myanimelist.net/anime/producer/240/Capcom"
+            },
+            {
+                "mal_id": 2823,
+                "type": "anime",
+                "name": "We've Inc.",
+                "url": "https://myanimelist.net/anime/producer/2823/Weve_Inc"
+            }
+        ],
+        "licensors": [
+            {
+                "mal_id": 1459,
+                "type": "anime",
+                "name": "Geneon Entertainment USA",
+                "url": "https://myanimelist.net/anime/producer/1459/Geneon_Entertainment_USA"
+            }
+        ],
+        "studios": [
+            {
+                "mal_id": 86,
+                "type": "anime",
+                "name": "Group TAC",
+                "url": "https://myanimelist.net/anime/producer/86/Group_TAC"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 1,
+                "type": "anime",
+                "name": "Action",
+                "url": "https://myanimelist.net/anime/genre/1/Action"
+            },
+            {
+                "mal_id": 4,
+                "type": "anime",
+                "name": "Comedy",
+                "url": "https://myanimelist.net/anime/genre/4/Comedy"
+            },
+            {
+                "mal_id": 24,
+                "type": "anime",
+                "name": "Sci-Fi",
+                "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [],
+        "demographics": [],
+        "relations": [],
+        "theme": {
+            "openings": [
+                "1: \"Brighter side\" by SaGa (eps 1-20)",
+                "2: \"Brighter side (different arrangement)\" by SaGa (eps 21-38)",
+                "3: \"Spirit Awake\" by SaGa (eps 39-51)"
+            ],
+            "endings": [
+                "1: \"And you\" by SaGa (eps 1-20)",
+                "2: \"And you (different arrangement)\" by SaGa (eps 21-38)",
+                "3: \"Tougenkyou (桃源郷)\" by Amasia Landscape (eps 39-51)"
+            ]
+        },
+        "external": [
+            {
+                "name": "Official Site",
+                "url": "http://www.tv-tokyo.co.jp/anime/vj/"
+            },
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=2611"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=4325"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "http://en.wikipedia.org/wiki/Viewtiful_Joe_(anime)"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": [
+        {
+            "mal_id": 1,
+            "url": null,
+            "title": "Just a Dude Named Joe",
+            "title_japanese": "その男ジョー！の巻",
+            "title_romanji": "Sono Otoko Joe! no Maki ",
+            "aired": "2004-10-02T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 2,
+            "url": null,
+            "title": "What's-His-Name to the Rescue!",
+            "title_japanese": "つかめ！伝説の必殺技の巻",
+            "title_romanji": "Tsukame! Densetsu no Hissatsuwaza No Maki ",
+            "aired": "2004-10-09T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 3,
+            "url": null,
+            "title": "Dude, Did You Say Viewtiful?",
+            "title_japanese": "オレは、ビューティフル ジョー！の巻",
+            "title_romanji": "Ore wa, Viewtiful Joe! no Maki ",
+            "aired": "2004-10-16T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 4,
+            "url": null,
+            "title": "Tutus To You, Too",
+            "title_japanese": "シルヴィアＳＯＳ！の巻",
+            "title_romanji": "Sylvia SOS! no Maki ",
+            "aired": "2004-10-23T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 5,
+            "url": null,
+            "title": "Howdy, Partner!",
+            "title_japanese": "登場！キャプテン ブルー ジュニアの巻",
+            "title_romanji": "Toujou! Captain Blue Junior no Maki ",
+            "aired": "2004-10-30T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 6,
+            "url": null,
+            "title": "Junior Sucks It Up",
+            "title_japanese": "カモ～ン！シックスマシンの巻",
+            "title_romanji": "Come on! Six Machine no Maki ",
+            "aired": "2004-11-06T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 7,
+            "url": null,
+            "title": "Attack of the Slugoon Platoon",
+            "title_japanese": "恐怖！スラグンあらわるの巻",
+            "title_romanji": "Kyoufu! Slugoon Arawaru no Maki ",
+            "aired": "2004-11-13T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 8,
+            "url": null,
+            "title": "Fire on the Mountain",
+            "title_japanese": "えっ、ヒーロー失格!? の巻",
+            "title_romanji": "Eh, Hero Shikkaku!? no Maki ",
+            "aired": "2004-11-20T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 9,
+            "url": null,
+            "title": "Roamin' Holiday",
+            "title_japanese": "大騒動！ヒーローの休日の巻",
+            "title_romanji": "Dai Soudou! Hero no Kyuujitsu no Maki ",
+            "aired": "2004-11-27T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 10,
+            "url": null,
+            "title": "No Kidding",
+            "title_japanese": "スーパーロボ！グランチャールクの巻",
+            "title_romanji": "Super Robo! Grancharulk no Maki ",
+            "aired": "2004-12-04T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 11,
+            "url": null,
+            "title": "When Pigments Fly",
+            "title_japanese": "世界が色を失う日！の巻",
+            "title_romanji": "Sekai ga Iro Ushinau Hi! no Maki ",
+            "aired": "2004-12-11T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 12,
+            "url": null,
+            "title": "Dude, Where's My V-Watch?",
+            "title_japanese": "狙われたVウォッチ！の巻",
+            "title_romanji": "Nerawareta V-Watch! no Maki ",
+            "aired": "2004-12-18T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 13,
+            "url": null,
+            "title": "The Fugitive From Beyond the Screen",
+            "title_japanese": "ジャドーからの逃亡者！の巻",
+            "title_romanji": "Jadow kara no Toubousha! no Maki ",
+            "aired": "2004-12-25T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 14,
+            "url": null,
+            "title": "Jadow Greatest Hits Collection",
+            "title_japanese": "実録！ジャドー華麗なる戦いの巻",
+            "title_romanji": "Jitsuroku! Jadow Karei Naru Tatakai no Maki ",
+            "aired": "2005-01-08T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 15,
+            "url": null,
+            "title": "To Have and to Hold Captive",
+            "title_japanese": "仕組まれたウェディングベル！の巻",
+            "title_romanji": "Shikumareta Wedding Bell! no Maki ",
+            "aired": "2005-01-15T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 16,
+            "url": null,
+            "title": "A Fairy's Tale",
+            "title_japanese": "さきまっせ！妖精の花の巻",
+            "title_romanji": "Sakimasse! Yousei no Hana no Maki ",
+            "aired": "2005-01-22T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 17,
+            "url": null,
+            "title": "Captain Blue vs. The Squid of Inescapable Doom",
+            "title_japanese": "帰ってきたキャプテン ブルー!? の巻",
+            "title_romanji": "Kaette Kita Captain Blue!? no Maki ",
+            "aired": "2005-01-29T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 18,
+            "url": null,
+            "title": "V-Watch Out!",
+            "title_japanese": "Ｖ-ウオッチパニック！の巻",
+            "title_romanji": "V-Watch Panic! no Maki ",
+            "aired": "2005-02-05T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 19,
+            "url": null,
+            "title": "V Is For Veggie-Burger?!",
+            "title_japanese": "顔をあげて歩こう！の巻",
+            "title_romanji": "Kao wo Agete Arukou! no Maki ",
+            "aired": "2005-02-12T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 20,
+            "url": null,
+            "title": "Express Train to Yesterday",
+            "title_japanese": "遊びの時間は終らない！の巻",
+            "title_romanji": "Asobi no Jikan wa Owaranai! no Maki ",
+            "aired": "2005-02-19T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 21,
+            "url": null,
+            "title": "Bianco Billy Rides Again",
+            "title_japanese": "ジュニア危機一発！の巻",
+            "title_romanji": "Junior Kiki Ippatsu! no Maki ",
+            "aired": "2005-02-26T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 22,
+            "url": null,
+            "title": "Cleanliness is Next to Escape-liness",
+            "title_japanese": "シルヴィア大脱走!? の巻",
+            "title_romanji": "Silvia Daidassou!? no Maki ",
+            "aired": "2005-03-05T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 23,
+            "url": null,
+            "title": "Crush Hour",
+            "title_japanese": "激突！ジョーＶＳアラストルの巻",
+            "title_romanji": "Gekitotsu! Joe vs. Alastor no Maki ",
+            "aired": "2005-03-12T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 24,
+            "url": null,
+            "title": "Hero Takes a Fall",
+            "title_japanese": "復活！シックス魔人の巻",
+            "title_romanji": "Fukkatsu! Six Majin no Maki ",
+            "aired": "2005-03-19T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 25,
+            "url": null,
+            "title": "In the Belly of the Jadow Beast",
+            "title_japanese": "決戦！ジャドー基地の巻",
+            "title_romanji": "Kessen! Jadow Kichi no Maki ",
+            "aired": "2005-03-26T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 26,
+            "url": null,
+            "title": "It All Comes Down to a Dude Named Joe",
+            "title_japanese": "俺達に明日はある！の巻",
+            "title_romanji": "Oretachi ni Ashita wa Aru! no Maki ",
+            "aired": "2005-04-02T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 27,
+            "url": null,
+            "title": "The New Enemy! Gedow's Invasion",
+            "title_japanese": "新たなる敵！ゲドー襲来！の巻",
+            "title_romanji": "Aratanaru Teki! Gedow Shuurai! no Maki ",
+            "aired": "2005-04-09T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 28,
+            "url": null,
+            "title": "Junior's Transformation, Henshin a Yo-Yo",
+            "title_japanese": "ジュニア、変身！の巻",
+            "title_romanji": "Junior, Henshin! no Maki ",
+            "aired": "2005-04-16T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 29,
+            "url": null,
+            "title": "Silvia and the Woman Who Summons Storms!",
+            "title_japanese": "嵐を呼ぶ女シルヴィア！の巻",
+            "title_romanji": "Arashi wo Yobu Onna Silvia! no Maki ",
+            "aired": "2005-04-23T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 30,
+            "url": null,
+            "title": "Wild Wild Kick!",
+            "title_japanese": "ワイルド・ワイルド・キック！の巻",
+            "title_romanji": "Wild Wild Kick! no Maki ",
+            "aired": "2005-04-30T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 31,
+            "url": null,
+            "title": "The Alien Next Door",
+            "title_japanese": "キミの隣に宇宙人！の巻",
+            "title_romanji": "Kimi no Tonari ni Uchuujin!? no Maki ",
+            "aired": "2005-05-07T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 32,
+            "url": null,
+            "title": "Fierceness! The Cannon Race",
+            "title_japanese": "モーレツ！キャノンレースの巻",
+            "title_romanji": "Mooretsu! Canon Race no Maki ",
+            "aired": "2005-05-14T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 33,
+            "url": null,
+            "title": "A Lot of Heroes!",
+            "title_japanese": "ヒーローがいっぱい！の巻",
+            "title_romanji": "Hero ga Ippai! no Maki ",
+            "aired": "2005-05-21T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 34,
+            "url": null,
+            "title": "Reclaiming the Black Diamond!",
+            "title_japanese": "ブラックダイヤを取り戻せ！の巻",
+            "title_romanji": "Black Daiya wo Torimodose! no Maki ",
+            "aired": "2005-05-28T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 35,
+            "url": null,
+            "title": "A Kind, Mysterious Person from Gedow?!",
+            "title_japanese": "ゲドーのやさしい怪人!? の巻",
+            "title_romanji": "Gedow no Yasashii Kaijin!? no Maki ",
+            "aired": "2005-06-04T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 36,
+            "url": null,
+            "title": "The Target is Joe!",
+            "title_japanese": "標的はジョー! の巻",
+            "title_romanji": "Hyouteki wa Joe! no Maki ",
+            "aired": "2005-06-11T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 37,
+            "url": null,
+            "title": "Burning Metal Heart!",
+            "title_japanese": "燃えよメタルハート！の巻",
+            "title_romanji": "Moeyo Metal Heart! no Maki ",
+            "aired": "2005-06-18T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 38,
+            "url": null,
+            "title": "Revived Black Wings!",
+            "title_japanese": "よみがえる黒い翼！の巻",
+            "title_romanji": "Yomigaeru Kuroi Tsubasa! No Maki ",
+            "aired": "2005-06-25T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 39,
+            "url": null,
+            "title": "Enemy is Captain Blue!",
+            "title_japanese": "敵はキャプテン ブルー！の巻",
+            "title_romanji": "Teki wa Captain Blue! no Maki ",
+            "aired": "2005-07-02T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 40,
+            "url": null,
+            "title": "Movieland Crumbles!",
+            "title_japanese": "崩壊！ムービーランドの巻",
+            "title_romanji": "Houkai! Movieland no Maki ",
+            "aired": "2005-07-09T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 41,
+            "url": null,
+            "title": "Courageously Engraving the Earth!",
+            "title_japanese": "大地にきざむ勇気！の巻",
+            "title_romanji": "Daichi ni Kizamu Yuuki! no Maki ",
+            "aired": "2005-07-16T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 42,
+            "url": null,
+            "title": "Raw Hook-up! Joe vs. Junior",
+            "title_japanese": "生中継！ジョーVSジュニアの巻",
+            "title_romanji": "Namachuukei! Joe vs. Junior no Maki ",
+            "aired": "2005-07-23T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 43,
+            "url": null,
+            "title": "Sprocket's Love for Glasses!",
+            "title_japanese": "スプロケットはメガネがお好き！の巻",
+            "title_romanji": "Sprocket wa Megane ga Osuki! no Maki ",
+            "aired": "2005-07-30T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 44,
+            "url": null,
+            "title": "The Flaming Lion Returns!",
+            "title_japanese": "炎の獅子リターンズ！の巻",
+            "title_romanji": "Honoo no Shishi Returns! no Maki ",
+            "aired": "2005-08-06T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 45,
+            "url": null,
+            "title": "Gedow's Romantic Operation!",
+            "title_japanese": "ゲドーのラブラブ大作戦！の巻",
+            "title_romanji": "Gedow no Love-love Dai Sakusen! no Maki ",
+            "aired": "2005-08-13T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 46,
+            "url": null,
+            "title": "Rachel's Treasured Item",
+            "title_japanese": "レイチェルのたからもの！の巻",
+            "title_romanji": "Rachel no Takaramono! no Maki ",
+            "aired": "2005-08-20T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 47,
+            "url": null,
+            "title": "Actual Records! Gedow's Battle is Confirmed!",
+            "title_japanese": "ゲドーからの逃亡者！の巻",
+            "title_romanji": "Gedow kara no Toubousha! no Maki ",
+            "aired": "2005-08-27T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 48,
+            "url": null,
+            "title": "Fierce Battle! Eternal Rival!",
+            "title_japanese": "激闘！永遠のライバルの巻",
+            "title_romanji": "Gekitou! Eien no Rival no Maki ",
+            "aired": "2005-09-03T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 49,
+            "url": null,
+            "title": "Triumph! Gedow Destroyed",
+            "title_japanese": "大勝利！ゲドー壊滅の巻",
+            "title_romanji": "Daishouri! Gedow Kaimetsu no Maki ",
+            "aired": "2005-09-10T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 50,
+            "url": null,
+            "title": "Exhibition! Viewtiful Film Festival",
+            "title_japanese": "開催！ビューティフル映画祭の巻",
+            "title_romanji": "Kaisai! Viewtiful Eigasai no Maki ",
+            "aired": "2005-09-17T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 51,
+            "url": null,
+            "title": "Tomorrow's Hero is You!",
+            "title_japanese": "明日のヒーローはキミだ！の巻",
+            "title_romanji": "Asu no Hero wa Kimi Da! no Maki ",
+            "aired": "2005-09-24T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        }
+    ]
+}

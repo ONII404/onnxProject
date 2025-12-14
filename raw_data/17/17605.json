@@ -1,0 +1,141 @@
+{
+    "id": 17605,
+    "fetched_at": "Sun Dec 14 09:55:18 2025",
+    "metadata": {
+        "mal_id": 17605,
+        "url": "https://myanimelist.net/anime/17605/Mr_Pen_Pen_II",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/13/47025.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/13/47025t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/13/47025l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/13/47025.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/13/47025t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/13/47025l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Mr. Pen Pen II"
+            },
+            {
+                "type": "Japanese",
+                "title": "Mr.ペンペンII"
+            }
+        ],
+        "title": "Mr. Pen Pen II",
+        "title_english": null,
+        "title_japanese": "Mr.ペンペンII",
+        "title_synonyms": [],
+        "type": "TV Special",
+        "source": "Manga",
+        "episodes": 1,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "1986-12-29T00:00:00+00:00",
+            "to": null,
+            "prop": {
+                "from": {
+                    "day": 29,
+                    "month": 12,
+                    "year": 1986
+                },
+                "to": {
+                    "day": null,
+                    "month": null,
+                    "year": null
+                }
+            },
+            "string": "Dec 29, 1986"
+        },
+        "duration": "46 min",
+        "rating": "PG - Children",
+        "score": 5.99,
+        "scored_by": 219,
+        "rank": 10352,
+        "popularity": 17081,
+        "members": 593,
+        "favorites": 0,
+        "synopsis": "Sequel of Mr. Pen Pen.",
+        "background": "",
+        "season": null,
+        "year": null,
+        "broadcast": {
+            "day": null,
+            "time": null,
+            "timezone": null,
+            "string": null
+        },
+        "producers": [],
+        "licensors": [],
+        "studios": [],
+        "genres": [
+            {
+                "mal_id": 4,
+                "type": "anime",
+                "name": "Comedy",
+                "url": "https://myanimelist.net/anime/genre/4/Comedy"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [],
+        "demographics": [
+            {
+                "mal_id": 15,
+                "type": "anime",
+                "name": "Kids",
+                "url": "https://myanimelist.net/anime/genre/15/Kids"
+            }
+        ],
+        "relations": [
+            {
+                "relation": "Prequel",
+                "entry": [
+                    {
+                        "mal_id": 17603,
+                        "type": "anime",
+                        "name": "Mr. Pen Pen",
+                        "url": "https://myanimelist.net/anime/17603/Mr_Pen_Pen"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [],
+            "endings": []
+        },
+        "external": [
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=7362"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=4466"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "http://ja.wikipedia.org/wiki/Mr.%E3%83%9A%E3%83%B3%E3%83%9A%E3%83%B3#.E3.82.A2.E3.83.8B.E3.83.A1"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": []
+}

@@ -1,0 +1,808 @@
+{
+    "id": 111,
+    "fetched_at": "Sun Dec 14 12:38:15 2025",
+    "metadata": {
+        "mal_id": 111,
+        "url": "https://myanimelist.net/anime/111/Corrector_Yui",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1696/105659.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1696/105659t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1696/105659l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1696/105659.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1696/105659t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1696/105659l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Corrector Yui"
+            },
+            {
+                "type": "Synonym",
+                "title": "Collector Yui"
+            },
+            {
+                "type": "Japanese",
+                "title": "コレクター・ユイ"
+            },
+            {
+                "type": "English",
+                "title": "Corrector Yui"
+            }
+        ],
+        "title": "Corrector Yui",
+        "title_english": "Corrector Yui",
+        "title_japanese": "コレクター・ユイ",
+        "title_synonyms": [
+            "Collector Yui"
+        ],
+        "type": "TV",
+        "source": "Original",
+        "episodes": 52,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "1999-04-09T00:00:00+00:00",
+            "to": "2000-10-20T00:00:00+00:00",
+            "prop": {
+                "from": {
+                    "day": 9,
+                    "month": 4,
+                    "year": 1999
+                },
+                "to": {
+                    "day": 20,
+                    "month": 10,
+                    "year": 2000
+                }
+            },
+            "string": "Apr 9, 1999 to Oct 20, 2000"
+        },
+        "duration": "25 min per ep",
+        "rating": "G - All Ages",
+        "score": 6.87,
+        "scored_by": 7764,
+        "rank": 5136,
+        "popularity": 5492,
+        "members": 18922,
+        "favorites": 66,
+        "synopsis": "Yui is an average schoolgirl who lives in a future where all computers are supported by a single global network known as COMNET. Yui is a computer-illiterate girl who after a computer-lab accident is approached by IR, a raccoon looking corrector computer program, which tells her she must save COMNET. She must stop the rogue A.I. (Artificial Intelligence) computer program known as Grosser and his hench-programs from taking over the world. Grosser was originally designed to be that manager of all of COMNET. At first she's very reluctant to play the heroine because of her complete lack of knowledge and ability with computers. To save COMNET she must find and gain the trust of the other seven wayward corrector programs. They must also find the creator or COMNET Professor Inukai, to help stop Grosser for good.\n\n(Source: ANN)",
+        "background": "",
+        "season": "spring",
+        "year": 1999,
+        "broadcast": {
+            "day": "Fridays",
+            "time": "18:00",
+            "timezone": "Asia/Tokyo",
+            "string": "Fridays at 18:00 (JST)"
+        },
+        "producers": [
+            {
+                "mal_id": 111,
+                "type": "anime",
+                "name": "NHK",
+                "url": "https://myanimelist.net/anime/producer/111/NHK"
+            },
+            {
+                "mal_id": 216,
+                "type": "anime",
+                "name": "Studio Tron",
+                "url": "https://myanimelist.net/anime/producer/216/Studio_Tron"
+            }
+        ],
+        "licensors": [
+            {
+                "mal_id": 119,
+                "type": "anime",
+                "name": "VIZ Media",
+                "url": "https://myanimelist.net/anime/producer/119/VIZ_Media"
+            }
+        ],
+        "studios": [
+            {
+                "mal_id": 22,
+                "type": "anime",
+                "name": "Nippon Animation",
+                "url": "https://myanimelist.net/anime/producer/22/Nippon_Animation"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 2,
+                "type": "anime",
+                "name": "Adventure",
+                "url": "https://myanimelist.net/anime/genre/2/Adventure"
+            },
+            {
+                "mal_id": 4,
+                "type": "anime",
+                "name": "Comedy",
+                "url": "https://myanimelist.net/anime/genre/4/Comedy"
+            },
+            {
+                "mal_id": 24,
+                "type": "anime",
+                "name": "Sci-Fi",
+                "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [],
+        "demographics": [],
+        "relations": [
+            {
+                "relation": "Adaptation",
+                "entry": [
+                    {
+                        "mal_id": 18411,
+                        "type": "manga",
+                        "name": "Corrector Yui",
+                        "url": "https://myanimelist.net/manga/18411/Corrector_Yui"
+                    },
+                    {
+                        "mal_id": 172,
+                        "type": "manga",
+                        "name": "Corrector Yui",
+                        "url": "https://myanimelist.net/manga/172/Corrector_Yui"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [
+                "1: \"Eien to Iu Basho (永遠という場所)\" by Kyouko with Masayoshi Yamazaki & Sugashiko (eps 01-26)",
+                "2: \"Tori ni naru Toki (鳥になる時)\" by Satsuki (eps 27-52)"
+            ],
+            "endings": [
+                "1: \"Mirai (未来; Future)\" by LEGOLGEL",
+                "2: \"Requiem (レクイエム)\" by Satsuki (eps 27-52)"
+            ]
+        },
+        "external": [
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=3529"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=1282"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "http://en.wikipedia.org/wiki/Corrector_Yui"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": [
+        {
+            "mal_id": 1,
+            "url": null,
+            "title": "Let's Go To ComNet!",
+            "title_japanese": "コムネットへ出発！",
+            "title_romanji": "ComNet e Shuppatsu! ",
+            "aired": "1999-04-09T00:00:00+00:00",
+            "score": 4.5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1311579"
+        },
+        {
+            "mal_id": 2,
+            "url": null,
+            "title": "Beware of Nasty E-Mail",
+            "title_japanese": "悪口メールにご用心",
+            "title_romanji": "Waruguchi Mail ni Goyoujin ",
+            "aired": "1999-04-16T00:00:00+00:00",
+            "score": 4.38,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1313387"
+        },
+        {
+            "mal_id": 3,
+            "url": null,
+            "title": "Take it Easy With the Food",
+            "title_japanese": "おいしいものはホドホドに",
+            "title_romanji": "Oishii Mono wa Hodohodo ni ",
+            "aired": "1999-04-23T00:00:00+00:00",
+            "score": 4.38,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1313871"
+        },
+        {
+            "mal_id": 4,
+            "url": null,
+            "title": "Trouble on the Fortune Telling Net",
+            "title_japanese": "占いネットで恋の予感",
+            "title_romanji": "Uranai Net de Koi no Yokan ",
+            "aired": "1999-04-30T00:00:00+00:00",
+            "score": 4.75,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1314361"
+        },
+        {
+            "mal_id": 5,
+            "url": null,
+            "title": "Listen to Nature's Song (Part 1)",
+            "title_japanese": "とどけ！森の歌声 後編",
+            "title_romanji": "Todoke! Mori no Utagoe (Zenpen) ",
+            "aired": "1999-05-07T00:00:00+00:00",
+            "score": 4.33,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1317489"
+        },
+        {
+            "mal_id": 6,
+            "url": null,
+            "title": "Listen to Nature's Song (Part 2)",
+            "title_japanese": "とどけ！森の歌声 後編)",
+            "title_romanji": "Todoke! Mori no Utagoe (Kouhen) ",
+            "aired": "1999-05-14T00:00:00+00:00",
+            "score": 4.27,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1317997"
+        },
+        {
+            "mal_id": 7,
+            "url": null,
+            "title": "Big Trouble in D-Edo Net",
+            "title_japanese": "O-EDOネット大騒動",
+            "title_romanji": "Oedo Net Daisoudou ",
+            "aired": "1999-05-21T00:00:00+00:00",
+            "score": 3.89,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1318509"
+        },
+        {
+            "mal_id": 8,
+            "url": null,
+            "title": "Please Help Rescue",
+            "title_japanese": "レスキューをたすけて",
+            "title_romanji": "Rescue wo Tasukete ",
+            "aired": "1999-05-28T00:00:00+00:00",
+            "score": 4.73,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1319087"
+        },
+        {
+            "mal_id": 9,
+            "url": null,
+            "title": "Yui's Space Odyssey",
+            "title_japanese": "大宇宙のユイ",
+            "title_romanji": "Oouchuu no Yui ",
+            "aired": "1999-06-04T00:00:00+00:00",
+            "score": 4.27,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1319571"
+        },
+        {
+            "mal_id": 10,
+            "url": null,
+            "title": "Danger in the Gingerbread House",
+            "title_japanese": "お菓子の家で食べられちゃう！",
+            "title_romanji": "Okashi no Ie de Taberarechau! ",
+            "aired": "1999-06-11T00:00:00+00:00",
+            "score": 4.67,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1321229"
+        },
+        {
+            "mal_id": 11,
+            "url": null,
+            "title": "Heart Thumping Double-Date (Part 1)",
+            "title_japanese": "わくわく♡ダブルデート",
+            "title_romanji": "Wakuwaku Double Date ",
+            "aired": "1999-06-18T00:00:00+00:00",
+            "score": 4.43,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1321733"
+        },
+        {
+            "mal_id": 12,
+            "url": null,
+            "title": "Heart Thumping Double-Date (Part 2)",
+            "title_japanese": "どきどき♡ダブルデート",
+            "title_romanji": "Dokidoki Double Date ",
+            "aired": "1999-06-25T00:00:00+00:00",
+            "score": 4.71,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1324923"
+        },
+        {
+            "mal_id": 13,
+            "url": null,
+            "title": "Secrets of the Eight Software",
+            "title_japanese": "8つのソフトの謎",
+            "title_romanji": "Yattsu no Soft no Nazo ",
+            "aired": "1999-07-02T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": true,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1325439"
+        },
+        {
+            "mal_id": 14,
+            "url": null,
+            "title": "Showdown at Western Net",
+            "title_japanese": "ウェスタンネットの決闘",
+            "title_romanji": "Western Net no Kettou ",
+            "aired": "1999-07-09T00:00:00+00:00",
+            "score": 4.44,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1326019"
+        },
+        {
+            "mal_id": 15,
+            "url": null,
+            "title": "The Orient Express Investigation",
+            "title_japanese": "迷探偵エクスプレス",
+            "title_romanji": "Mayoi Tantei Express ",
+            "aired": "1999-07-16T00:00:00+00:00",
+            "score": 4.83,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1326665"
+        },
+        {
+            "mal_id": 16,
+            "url": null,
+            "title": "Jaggy's Training Course",
+            "title_japanese": "ジャギーの大特訓",
+            "title_romanji": "Jaggy no Daitokkun ",
+            "aired": "1999-07-23T00:00:00+00:00",
+            "score": 4.86,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1329001"
+        },
+        {
+            "mal_id": 17,
+            "url": null,
+            "title": "The Howl of War Wolf",
+            "title_japanese": "ウォーウルフが吠える時",
+            "title_romanji": "Wolf ga Hoeru Toki ",
+            "aired": "1999-07-30T00:00:00+00:00",
+            "score": 4.88,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1330265"
+        },
+        {
+            "mal_id": 18,
+            "url": null,
+            "title": "00Yui: The Rookie Spy",
+            "title_japanese": ":00ユイは新人スパイ",
+            "title_romanji": "00 Yui wa Shinjin Spy ",
+            "aired": "1999-08-06T00:00:00+00:00",
+            "score": 4.71,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1333183"
+        },
+        {
+            "mal_id": 19,
+            "url": null,
+            "title": "Princess in Training",
+            "title_japanese": "ユイのプリンセス修行",
+            "title_romanji": "Yui no Princess Shugyou ",
+            "aired": "1999-08-27T00:00:00+00:00",
+            "score": 4.78,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1333225"
+        },
+        {
+            "mal_id": 20,
+            "url": null,
+            "title": "Seeking Haruna",
+            "title_japanese": "ねらわれた春菜",
+            "title_romanji": "Nerawareta Haruna ",
+            "aired": "1999-09-03T00:00:00+00:00",
+            "score": 4.88,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1333869"
+        },
+        {
+            "mal_id": 21,
+            "url": null,
+            "title": "Synchro: The Last Software",
+            "title_japanese": "最後のソフト・シンクロ",
+            "title_romanji": "Saigo no Soft Synchro ",
+            "aired": "1999-09-10T00:00:00+00:00",
+            "score": 4.75,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1337911"
+        },
+        {
+            "mal_id": 22,
+            "url": null,
+            "title": "The Angel with Dark Wings",
+            "title_japanese": "黒い翼の天使",
+            "title_romanji": "Kuroi Tsubasa no Tenshi ",
+            "aired": "1999-09-17T00:00:00+00:00",
+            "score": 4.67,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1338459"
+        },
+        {
+            "mal_id": 23,
+            "url": null,
+            "title": "Showdown! Double Correctors!!",
+            "title_japanese": "対決！ ダブルコレクター！！",
+            "title_romanji": "Taiketsu! Double Correctors!! ",
+            "aired": "1999-09-24T00:00:00+00:00",
+            "score": 5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2090495"
+        },
+        {
+            "mal_id": 24,
+            "url": null,
+            "title": "Yui's Decision",
+            "title_japanese": "ユイの決意",
+            "title_romanji": "Yui no Ketsui ",
+            "aired": "1999-10-01T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 25,
+            "url": null,
+            "title": "Attack on Grosser's Castle!",
+            "title_japanese": "突撃グロッサー城！",
+            "title_romanji": "Totsugeki Grosser Jou ",
+            "aired": "1999-10-08T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 26,
+            "url": null,
+            "title": "Let's Go to Tomorrow!",
+            "title_japanese": "明日へ出発！！",
+            "title_romanji": "Ashita e Shuppatsu!! ",
+            "aired": "1999-10-15T00:00:00+00:00",
+            "score": 4.75,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2091414"
+        },
+        {
+            "mal_id": 27,
+            "url": null,
+            "title": "IR No Longer Needed!?",
+            "title_japanese": "IRはもういらない！？",
+            "title_romanji": "IR wa Mou Iranai!? ",
+            "aired": "2000-04-14T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 28,
+            "url": null,
+            "title": "Corrector Yui No Longer Needed!?",
+            "title_japanese": "コレクター・ユイはもういらない！？",
+            "title_romanji": "Corrector Yui wa Mou Iranai!? ",
+            "aired": "2000-04-21T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 29,
+            "url": null,
+            "title": "The Lost Little Gir",
+            "title_japanese": "迷子の少女",
+            "title_romanji": "Maigo no Shoujo ",
+            "aired": "2000-04-28T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 30,
+            "url": null,
+            "title": "Yui and Ai: The Stage Battle",
+            "title_japanese": "ユイと愛の演劇バトル",
+            "title_romanji": "Yui to Ai no Engeki Battle ",
+            "aired": "2000-05-05T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 31,
+            "url": null,
+            "title": "It's What I'm Going to be! A Manga Artist",
+            "title_japanese": "めざせ！ マンガ家",
+            "title_romanji": "Mezase! Mangaka ",
+            "aired": "2000-05-12T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 32,
+            "url": null,
+            "title": "The Battlefield In -200 Degrees",
+            "title_japanese": "マイナス200℃の戦い",
+            "title_romanji": "Minus 200C no Tatakai ",
+            "aired": "2000-05-19T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 33,
+            "url": null,
+            "title": "Prediction! How to Be Popular",
+            "title_japanese": "占います！ モテる条件",
+            "title_romanji": "Uranaimasu! Moteru Jouken ",
+            "aired": "2000-05-26T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 34,
+            "url": null,
+            "title": "Search for the Sun!",
+            "title_japanese": "太陽を追いかけろ！",
+            "title_romanji": "Taiyou wo Oikakero! ",
+            "aired": "2000-06-02T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 35,
+            "url": null,
+            "title": "Yui Becomes an Idol!?",
+            "title_japanese": "ユイちゃんアイドルになる！？",
+            "title_romanji": "Yui-chan Idol ni Naru!? ",
+            "aired": "2000-06-09T00:00:00+00:00",
+            "score": 4.33,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2095159"
+        },
+        {
+            "mal_id": 36,
+            "url": null,
+            "title": "Nettie Has Disappeared",
+            "title_japanese": "消えたネッティー",
+            "title_romanji": "Kieta Nettie ",
+            "aired": "2000-06-16T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 37,
+            "url": null,
+            "title": "Freeze's School Diary",
+            "title_japanese": "フリーズの学園日記",
+            "title_romanji": "Freeze no Gakuen Nikki ",
+            "aired": "2000-06-23T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 38,
+            "url": null,
+            "title": "Ai's Private Lesson",
+            "title_japanese": "愛の個人レッスン",
+            "title_romanji": "Ai no Kojin Lesson ",
+            "aired": "2000-06-30T00:00:00+00:00",
+            "score": 4.33,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2095590"
+        },
+        {
+            "mal_id": 39,
+            "url": null,
+            "title": "Peace Goes on a Rampage!?",
+            "title_japanese": "ピース大ぼうそう！？",
+            "title_romanji": "Peace Daibousou!? ",
+            "aired": "2000-07-07T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 40,
+            "url": null,
+            "title": "Yui Goes to The Hot Spring",
+            "title_japanese": ":温泉旅行だよユイちゃん",
+            "title_romanji": "Onsen Ryokou Da yo Yui-chan ",
+            "aired": "2000-07-14T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 41,
+            "url": null,
+            "title": "Around The World in 8 Hours",
+            "title_japanese": "8時間世界一周",
+            "title_romanji": "8 Jikan Sekai Isshuu ",
+            "aired": "2000-07-21T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 42,
+            "url": null,
+            "title": "Decide! Corrector Haruna",
+            "title_japanese": "決めます！コレクター春菜",
+            "title_romanji": "Kimemasu! Corrector Haruna ",
+            "aired": "2000-07-28T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 43,
+            "url": null,
+            "title": "Yui Falls in Love",
+            "title_japanese": "ユイちゃん恋をする",
+            "title_romanji": "Yui-chan Koi wo Suru ",
+            "aired": "2000-08-04T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 44,
+            "url": null,
+            "title": "Trouble in Jaggy's Library",
+            "title_japanese": "ジャギー図書館大さわぎ",
+            "title_romanji": "Jaggy Toshokan Daisawagi ",
+            "aired": "2000-08-25T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 45,
+            "url": null,
+            "title": "The Sunflower Girl",
+            "title_japanese": "ひまわりの中の少女",
+            "title_romanji": "Himawari no Naka no Shoujo ",
+            "aired": "2000-09-01T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 46,
+            "url": null,
+            "title": "Triple Correctors Meeting!",
+            "title_japanese": "トリプルコレクター見参！",
+            "title_romanji": "Triple Corrector Kenzan! ",
+            "aired": "2000-09-08T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 47,
+            "url": null,
+            "title": "Tragic Freeze",
+            "title_japanese": "悲しみのフリーズ",
+            "title_romanji": "Kanashimi no Freeze ",
+            "aired": "2000-09-15T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 48,
+            "url": null,
+            "title": "Corrector Ai's True Character",
+            "title_japanese": "コレクター・アイの正体",
+            "title_romanji": "Corrector Ai no Shoutai ",
+            "aired": "2000-09-22T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 50,
+            "url": null,
+            "title": "ComNet's Greatest Crisis",
+            "title_japanese": "コムネット最大の危機",
+            "title_romanji": "ComNet Saidai no Kiki ",
+            "aired": "2000-10-06T00:00:00+00:00",
+            "score": 5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2098546"
+        },
+        {
+            "mal_id": 51,
+            "url": null,
+            "title": "ComNet's Collapse!?",
+            "title_japanese": "コムネット崩壊！？",
+            "title_romanji": "ComNet Houkai!? ",
+            "aired": "2000-10-13T00:00:00+00:00",
+            "score": 5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2098550"
+        },
+        {
+            "mal_id": 52,
+            "url": null,
+            "title": "We Are All Friends",
+            "title_japanese": "みんな友だち",
+            "title_romanji": "Minna Tomodachi ",
+            "aired": "2000-10-20T00:00:00+00:00",
+            "score": 4.5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2098559"
+        }
+    ]
+}

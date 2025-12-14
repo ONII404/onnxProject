@@ -1,0 +1,159 @@
+{
+    "id": 9165,
+    "fetched_at": "Sun Dec 14 09:23:33 2025",
+    "metadata": {
+        "mal_id": 9165,
+        "url": "https://myanimelist.net/anime/9165/Attack_No1__Namida_no_Kaiten_Receive",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1196/150390.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1196/150390t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1196/150390l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1196/150390.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1196/150390t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1196/150390l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Attack No.1: Namida no Kaiten Receive"
+            },
+            {
+                "type": "Synonym",
+                "title": "Attack No.1 Movie 2"
+            },
+            {
+                "type": "Japanese",
+                "title": "アタックNo.1 涙の回転レシーブ"
+            }
+        ],
+        "title": "Attack No.1: Namida no Kaiten Receive",
+        "title_english": null,
+        "title_japanese": "アタックNo.1 涙の回転レシーブ",
+        "title_synonyms": [
+            "Attack No.1 Movie 2"
+        ],
+        "type": "Movie",
+        "source": "Unknown",
+        "episodes": 1,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "1970-08-01T00:00:00+00:00",
+            "to": null,
+            "prop": {
+                "from": {
+                    "day": 1,
+                    "month": 8,
+                    "year": 1970
+                },
+                "to": {
+                    "day": null,
+                    "month": null,
+                    "year": null
+                }
+            },
+            "string": "Aug 1, 1970"
+        },
+        "duration": "1 hr",
+        "rating": "PG-13 - Teens 13 or older",
+        "score": 6.09,
+        "scored_by": 356,
+        "rank": 9753,
+        "popularity": 14267,
+        "members": 1179,
+        "favorites": 1,
+        "synopsis": "The 2nd Attack No.1 recap film. This covers episode 7-14 of the original TV series.",
+        "background": "",
+        "season": null,
+        "year": null,
+        "broadcast": {
+            "day": null,
+            "time": null,
+            "timezone": null,
+            "string": null
+        },
+        "producers": [
+            {
+                "mal_id": 65,
+                "type": "anime",
+                "name": "Tokyo Movie Shinsha",
+                "url": "https://myanimelist.net/anime/producer/65/Tokyo_Movie_Shinsha"
+            }
+        ],
+        "licensors": [],
+        "studios": [],
+        "genres": [
+            {
+                "mal_id": 8,
+                "type": "anime",
+                "name": "Drama",
+                "url": "https://myanimelist.net/anime/genre/8/Drama"
+            },
+            {
+                "mal_id": 30,
+                "type": "anime",
+                "name": "Sports",
+                "url": "https://myanimelist.net/anime/genre/30/Sports"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [
+            {
+                "mal_id": 77,
+                "type": "anime",
+                "name": "Team Sports",
+                "url": "https://myanimelist.net/anime/genre/77/Team_Sports"
+            }
+        ],
+        "demographics": [
+            {
+                "mal_id": 25,
+                "type": "anime",
+                "name": "Shoujo",
+                "url": "https://myanimelist.net/anime/genre/25/Shoujo"
+            }
+        ],
+        "relations": [
+            {
+                "relation": "Full Story",
+                "entry": [
+                    {
+                        "mal_id": 1550,
+                        "type": "anime",
+                        "name": "Attack No.1",
+                        "url": "https://myanimelist.net/anime/1550/Attack_No1"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [],
+            "endings": []
+        },
+        "external": [
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=7643"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": []
+}

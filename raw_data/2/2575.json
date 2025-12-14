@@ -1,0 +1,156 @@
+{
+    "id": 2575,
+    "fetched_at": "Sun Dec 14 07:27:31 2025",
+    "metadata": {
+        "mal_id": 2575,
+        "url": "https://myanimelist.net/anime/2575/Don_Chuck_Monogatari",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/9/60421.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/9/60421t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/9/60421l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/9/60421.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/9/60421t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/9/60421l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Don Chuck Monogatari"
+            },
+            {
+                "type": "Japanese",
+                "title": "ドンチャック物語"
+            },
+            {
+                "type": "English",
+                "title": "Don Chuck Stories"
+            }
+        ],
+        "title": "Don Chuck Monogatari",
+        "title_english": "Don Chuck Stories",
+        "title_japanese": "ドンチャック物語",
+        "title_synonyms": [],
+        "type": "TV",
+        "source": "Original",
+        "episodes": 26,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "1975-04-05T00:00:00+00:00",
+            "to": "1975-09-27T00:00:00+00:00",
+            "prop": {
+                "from": {
+                    "day": 5,
+                    "month": 4,
+                    "year": 1975
+                },
+                "to": {
+                    "day": 27,
+                    "month": 9,
+                    "year": 1975
+                }
+            },
+            "string": "Apr 5, 1975 to Sep 27, 1975"
+        },
+        "duration": "25 min per ep",
+        "rating": "G - All Ages",
+        "score": 6.05,
+        "scored_by": 945,
+        "rank": 10024,
+        "popularity": 12893,
+        "members": 1720,
+        "favorites": 4,
+        "synopsis": "Young beaver Chuck's adventure with his little friends. When thy are in trouble, Chuck often asks his father to help them out.\n\n(Source: ANN)",
+        "background": "",
+        "season": "spring",
+        "year": 1975,
+        "broadcast": {
+            "day": null,
+            "time": null,
+            "timezone": null,
+            "string": "Unknown"
+        },
+        "producers": [],
+        "licensors": [],
+        "studios": [
+            {
+                "mal_id": 452,
+                "type": "anime",
+                "name": "Knack Productions",
+                "url": "https://myanimelist.net/anime/producer/452/Knack_Productions"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 2,
+                "type": "anime",
+                "name": "Adventure",
+                "url": "https://myanimelist.net/anime/genre/2/Adventure"
+            },
+            {
+                "mal_id": 36,
+                "type": "anime",
+                "name": "Slice of Life",
+                "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [],
+        "demographics": [
+            {
+                "mal_id": 15,
+                "type": "anime",
+                "name": "Kids",
+                "url": "https://myanimelist.net/anime/genre/15/Kids"
+            }
+        ],
+        "relations": [
+            {
+                "relation": "Sequel",
+                "entry": [
+                    {
+                        "mal_id": 23393,
+                        "type": "anime",
+                        "name": "Shin Don Chuck Monogatari",
+                        "url": "https://myanimelist.net/anime/23393/Shin_Don_Chuck_Monogatari"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [
+                "\"Don Chuck to issho ni\" by Kumiko Ousugi"
+            ],
+            "endings": []
+        },
+        "external": [
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=3369"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=1312"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": []
+}

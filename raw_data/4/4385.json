@@ -1,0 +1,171 @@
+{
+    "id": 4385,
+    "fetched_at": "Sun Dec 14 08:38:27 2025",
+    "metadata": {
+        "mal_id": 4385,
+        "url": "https://myanimelist.net/anime/4385/Great_Mazinger_tai_Getter_Robo",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1633/99758.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1633/99758t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1633/99758l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1633/99758.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1633/99758t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1633/99758l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": "https://www.youtube-nocookie.com/embed/7dmaabQeyG8?enablejsapi=1&wmode=opaque&autoplay=1",
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Great Mazinger tai Getter Robo"
+            },
+            {
+                "type": "Synonym",
+                "title": "Great Mazinger vs. Getter Robo"
+            },
+            {
+                "type": "Japanese",
+                "title": "グレートマジンガー対ゲッターロボ"
+            },
+            {
+                "type": "French",
+                "title": "Great Mazinger et Getter Robot contre le Monstre Sidéral"
+            }
+        ],
+        "title": "Great Mazinger tai Getter Robo",
+        "title_english": null,
+        "title_japanese": "グレートマジンガー対ゲッターロボ",
+        "title_synonyms": [
+            "Great Mazinger vs. Getter Robo"
+        ],
+        "type": "Movie",
+        "source": "Manga",
+        "episodes": 1,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "1975-03-21T00:00:00+00:00",
+            "to": null,
+            "prop": {
+                "from": {
+                    "day": 21,
+                    "month": 3,
+                    "year": 1975
+                },
+                "to": {
+                    "day": null,
+                    "month": null,
+                    "year": null
+                }
+            },
+            "string": "Mar 21, 1975"
+        },
+        "duration": "30 min",
+        "rating": "PG-13 - Teens 13 or older",
+        "score": 6.03,
+        "scored_by": 1456,
+        "rank": 10131,
+        "popularity": 10691,
+        "members": 3270,
+        "favorites": 4,
+        "synopsis": "Go Nagai crossover movie.",
+        "background": "",
+        "season": null,
+        "year": null,
+        "broadcast": {
+            "day": null,
+            "time": null,
+            "timezone": null,
+            "string": null
+        },
+        "producers": [
+            {
+                "mal_id": 921,
+                "type": "anime",
+                "name": "Dynamic Planning",
+                "url": "https://myanimelist.net/anime/producer/921/Dynamic_Planning"
+            }
+        ],
+        "licensors": [],
+        "studios": [
+            {
+                "mal_id": 18,
+                "type": "anime",
+                "name": "Toei Animation",
+                "url": "https://myanimelist.net/anime/producer/18/Toei_Animation"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 24,
+                "type": "anime",
+                "name": "Sci-Fi",
+                "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [
+            {
+                "mal_id": 18,
+                "type": "anime",
+                "name": "Mecha",
+                "url": "https://myanimelist.net/anime/genre/18/Mecha"
+            }
+        ],
+        "demographics": [],
+        "relations": [
+            {
+                "relation": "Spin-Off",
+                "entry": [
+                    {
+                        "mal_id": 3579,
+                        "type": "anime",
+                        "name": "Getter Robo",
+                        "url": "https://myanimelist.net/anime/3579/Getter_Robo"
+                    },
+                    {
+                        "mal_id": 5658,
+                        "type": "anime",
+                        "name": "Great Mazinger",
+                        "url": "https://myanimelist.net/anime/5658/Great_Mazinger"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [],
+            "endings": []
+        },
+        "external": [
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=2221"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=3594"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "http://en.wikipedia.org/wiki/Great_Mazinger_tai_Getter_Robot"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": []
+}

@@ -1,0 +1,163 @@
+{
+    "id": 24603,
+    "fetched_at": "Sun Dec 14 10:15:07 2025",
+    "metadata": {
+        "mal_id": 24603,
+        "url": "https://myanimelist.net/anime/24603/Xiongmao_Monogatari_TaoTao",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/3/63351.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/3/63351t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/3/63351l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/3/63351.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/3/63351t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/3/63351l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Xiongmao Monogatari TaoTao"
+            },
+            {
+                "type": "Synonym",
+                "title": "Shunmao Monogatari Taotao"
+            },
+            {
+                "type": "Synonym",
+                "title": "The Story of Panda Taotao"
+            },
+            {
+                "type": "Synonym",
+                "title": "Story of Panda Tao Tao"
+            },
+            {
+                "type": "Japanese",
+                "title": "シュンマオ物語 タオタオ"
+            }
+        ],
+        "title": "Xiongmao Monogatari TaoTao",
+        "title_english": null,
+        "title_japanese": "シュンマオ物語 タオタオ",
+        "title_synonyms": [
+            "Shunmao Monogatari Taotao",
+            "The Story of Panda Taotao",
+            "Story of Panda Tao Tao"
+        ],
+        "type": "Movie",
+        "source": "Unknown",
+        "episodes": 1,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "1981-12-28T00:00:00+00:00",
+            "to": null,
+            "prop": {
+                "from": {
+                    "day": 28,
+                    "month": 12,
+                    "year": 1981
+                },
+                "to": {
+                    "day": null,
+                    "month": null,
+                    "year": null
+                }
+            },
+            "string": "Dec 28, 1981"
+        },
+        "duration": "1 hr 26 min",
+        "rating": "PG - Children",
+        "score": 5.97,
+        "scored_by": 196,
+        "rank": 10473,
+        "popularity": 17177,
+        "members": 583,
+        "favorites": 0,
+        "synopsis": "TaoTao is an anime series about the eponymous Taotao, a small panda. In the stories, Taotao has adventures with his animal friends and listens to the stories of his mother, the mommy panda.\n\n(Source: AniDB)",
+        "background": "",
+        "season": null,
+        "year": null,
+        "broadcast": {
+            "day": null,
+            "time": null,
+            "timezone": null,
+            "string": null
+        },
+        "producers": [],
+        "licensors": [],
+        "studios": [],
+        "genres": [
+            {
+                "mal_id": 4,
+                "type": "anime",
+                "name": "Comedy",
+                "url": "https://myanimelist.net/anime/genre/4/Comedy"
+            },
+            {
+                "mal_id": 10,
+                "type": "anime",
+                "name": "Fantasy",
+                "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [],
+        "demographics": [
+            {
+                "mal_id": 15,
+                "type": "anime",
+                "name": "Kids",
+                "url": "https://myanimelist.net/anime/genre/15/Kids"
+            }
+        ],
+        "relations": [
+            {
+                "relation": "Sequel",
+                "entry": [
+                    {
+                        "mal_id": 2578,
+                        "type": "anime",
+                        "name": "TaoTao Ehonkan Sekai Doubutsu Banashi",
+                        "url": "https://myanimelist.net/anime/2578/TaoTao_Ehonkan_Sekai_Doubutsu_Banashi"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [
+                "\"Shisenshou no Sato (四川省の郷)\" by Masaru Satou"
+            ],
+            "endings": [
+                "\"Hoshi ni Naritai (星になりたい; I Want to Be a Star)\" by Satoko Shimonari"
+            ]
+        },
+        "external": [
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=6562"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "http://en.wikipedia.org/wiki/Taotao_(anime)"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": []
+}

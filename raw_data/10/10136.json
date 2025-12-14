@@ -1,0 +1,179 @@
+{
+    "id": 10136,
+    "fetched_at": "Sun Dec 14 09:31:34 2025",
+    "metadata": {
+        "mal_id": 10136,
+        "url": "https://myanimelist.net/anime/10136/Manga_Doushite_Monogatari",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/5/28067.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/5/28067t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/5/28067l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/5/28067.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/5/28067t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/5/28067l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Manga Doushite Monogatari"
+            },
+            {
+                "type": "Synonym",
+                "title": "Manga Doshite Monogatari"
+            },
+            {
+                "type": "Synonym",
+                "title": "Animated Stories to Understand Things"
+            },
+            {
+                "type": "Japanese",
+                "title": "まんがどうして物語"
+            }
+        ],
+        "title": "Manga Doushite Monogatari",
+        "title_english": null,
+        "title_japanese": "まんがどうして物語",
+        "title_synonyms": [
+            "Manga Doshite Monogatari",
+            "Animated Stories to Understand Things"
+        ],
+        "type": "TV",
+        "source": "Unknown",
+        "episodes": 100,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "1984-04-07T00:00:00+00:00",
+            "to": "1986-03-29T00:00:00+00:00",
+            "prop": {
+                "from": {
+                    "day": 7,
+                    "month": 4,
+                    "year": 1984
+                },
+                "to": {
+                    "day": 29,
+                    "month": 3,
+                    "year": 1986
+                }
+            },
+            "string": "Apr 7, 1984 to Mar 29, 1986"
+        },
+        "duration": "25 min per ep",
+        "rating": "G - All Ages",
+        "score": 6.12,
+        "scored_by": 150,
+        "rank": 9627,
+        "popularity": 17193,
+        "members": 581,
+        "favorites": 0,
+        "synopsis": "No synopsis has been added for this series yet.\n\nClick here to update this information.",
+        "background": "",
+        "season": "spring",
+        "year": 1984,
+        "broadcast": {
+            "day": null,
+            "time": null,
+            "timezone": null,
+            "string": "Unknown"
+        },
+        "producers": [
+            {
+                "mal_id": 315,
+                "type": "anime",
+                "name": "DAX Production",
+                "url": "https://myanimelist.net/anime/producer/315/DAX_Production"
+            }
+        ],
+        "licensors": [],
+        "studios": [],
+        "genres": [
+            {
+                "mal_id": 2,
+                "type": "anime",
+                "name": "Adventure",
+                "url": "https://myanimelist.net/anime/genre/2/Adventure"
+            },
+            {
+                "mal_id": 4,
+                "type": "anime",
+                "name": "Comedy",
+                "url": "https://myanimelist.net/anime/genre/4/Comedy"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [
+            {
+                "mal_id": 56,
+                "type": "anime",
+                "name": "Educational",
+                "url": "https://myanimelist.net/anime/genre/56/Educational"
+            }
+        ],
+        "demographics": [
+            {
+                "mal_id": 15,
+                "type": "anime",
+                "name": "Kids",
+                "url": "https://myanimelist.net/anime/genre/15/Kids"
+            }
+        ],
+        "relations": [
+            {
+                "relation": "Prequel",
+                "entry": [
+                    {
+                        "mal_id": 10135,
+                        "type": "anime",
+                        "name": "Manga Hajimete Monogatari",
+                        "url": "https://myanimelist.net/anime/10135/Manga_Hajimete_Monogatari"
+                    }
+                ]
+            },
+            {
+                "relation": "Sequel",
+                "entry": [
+                    {
+                        "mal_id": 10137,
+                        "type": "anime",
+                        "name": "Manga Naruhodo Monogatari",
+                        "url": "https://myanimelist.net/anime/10137/Manga_Naruhodo_Monogatari"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [],
+            "endings": []
+        },
+        "external": [
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=4962"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=703"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": []
+}

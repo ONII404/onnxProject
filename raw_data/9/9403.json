@@ -1,0 +1,177 @@
+{
+    "id": 9403,
+    "fetched_at": "Sun Dec 14 09:25:39 2025",
+    "metadata": {
+        "mal_id": 9403,
+        "url": "https://myanimelist.net/anime/9403/Shin_Mashin_Eiyuuden_Wataru_Majinzan",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1823/94149.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1823/94149t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1823/94149l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1823/94149.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1823/94149t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1823/94149l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Shin Mashin Eiyuuden Wataru Majinzan"
+            },
+            {
+                "type": "Synonym",
+                "title": "New Spirit Hero Wataru"
+            },
+            {
+                "type": "Synonym",
+                "title": "True Spirit Hero Wataru"
+            },
+            {
+                "type": "Japanese",
+                "title": "真魔神英雄伝ワタル 魔神山編"
+            }
+        ],
+        "title": "Shin Mashin Eiyuuden Wataru Majinzan",
+        "title_english": null,
+        "title_japanese": "真魔神英雄伝ワタル 魔神山編",
+        "title_synonyms": [
+            "New Spirit Hero Wataru",
+            "True Spirit Hero Wataru"
+        ],
+        "type": "OVA",
+        "source": "Original",
+        "episodes": 2,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "1989-08-05T00:00:00+00:00",
+            "to": "1989-09-05T00:00:00+00:00",
+            "prop": {
+                "from": {
+                    "day": 5,
+                    "month": 8,
+                    "year": 1989
+                },
+                "to": {
+                    "day": 5,
+                    "month": 9,
+                    "year": 1989
+                }
+            },
+            "string": "Aug 5, 1989 to Sep 5, 1989"
+        },
+        "duration": "25 min per ep",
+        "rating": "G - All Ages",
+        "score": 6.13,
+        "scored_by": 249,
+        "rank": 9568,
+        "popularity": 14248,
+        "members": 1186,
+        "favorites": 0,
+        "synopsis": "Set a few months after the original series, Wataru is called into action once again!",
+        "background": "",
+        "season": null,
+        "year": null,
+        "broadcast": {
+            "day": null,
+            "time": null,
+            "timezone": null,
+            "string": null
+        },
+        "producers": [],
+        "licensors": [],
+        "studios": [
+            {
+                "mal_id": 14,
+                "type": "anime",
+                "name": "Sunrise",
+                "url": "https://myanimelist.net/anime/producer/14/Sunrise"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 2,
+                "type": "anime",
+                "name": "Adventure",
+                "url": "https://myanimelist.net/anime/genre/2/Adventure"
+            },
+            {
+                "mal_id": 4,
+                "type": "anime",
+                "name": "Comedy",
+                "url": "https://myanimelist.net/anime/genre/4/Comedy"
+            },
+            {
+                "mal_id": 10,
+                "type": "anime",
+                "name": "Fantasy",
+                "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+            },
+            {
+                "mal_id": 24,
+                "type": "anime",
+                "name": "Sci-Fi",
+                "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [
+            {
+                "mal_id": 18,
+                "type": "anime",
+                "name": "Mecha",
+                "url": "https://myanimelist.net/anime/genre/18/Mecha"
+            }
+        ],
+        "demographics": [],
+        "relations": [
+            {
+                "relation": "Prequel",
+                "entry": [
+                    {
+                        "mal_id": 3837,
+                        "type": "anime",
+                        "name": "Mashin Eiyuuden Wataru",
+                        "url": "https://myanimelist.net/anime/3837/Mashin_Eiyuuden_Wataru"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [],
+            "endings": []
+        },
+        "external": [
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=5795"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=3364"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "http://en.wikipedia.org/wiki/Mashin_Hero_Wataru"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": []
+}

@@ -1,0 +1,603 @@
+{
+    "id": 1650,
+    "fetched_at": "Sun Dec 14 07:15:46 2025",
+    "metadata": {
+        "mal_id": 1650,
+        "url": "https://myanimelist.net/anime/1650/Uchuu_Senkan_Yamato",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/12/16154.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/12/16154t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/12/16154l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/12/16154.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/12/16154t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/12/16154l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Uchuu Senkan Yamato"
+            },
+            {
+                "type": "Synonym",
+                "title": "Space Battleship Yamato"
+            },
+            {
+                "type": "Synonym",
+                "title": "Space Cruiser Yamato"
+            },
+            {
+                "type": "Japanese",
+                "title": "宇宙戦艦ヤマト"
+            },
+            {
+                "type": "English",
+                "title": "Star Blazers: The Quest for Iscandar"
+            }
+        ],
+        "title": "Uchuu Senkan Yamato",
+        "title_english": "Star Blazers: The Quest for Iscandar",
+        "title_japanese": "宇宙戦艦ヤマト",
+        "title_synonyms": [
+            "Space Battleship Yamato",
+            "Space Cruiser Yamato"
+        ],
+        "type": "TV",
+        "source": "Original",
+        "episodes": 26,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "1974-10-06T00:00:00+00:00",
+            "to": "1975-03-30T00:00:00+00:00",
+            "prop": {
+                "from": {
+                    "day": 6,
+                    "month": 10,
+                    "year": 1974
+                },
+                "to": {
+                    "day": 30,
+                    "month": 3,
+                    "year": 1975
+                }
+            },
+            "string": "Oct 6, 1974 to Mar 30, 1975"
+        },
+        "duration": "25 min per ep",
+        "rating": "PG-13 - Teens 13 or older",
+        "score": 7.54,
+        "scored_by": 8528,
+        "rank": 1893,
+        "popularity": 4397,
+        "members": 31985,
+        "favorites": 228,
+        "synopsis": "In the year 2199, Earth is a mere shell of its former glory after a vicious bombardment by the Gamilas Empire. The inhabitants have been forced underground to escape the irradiated surface, but the deadly radiation inches closer and closer to the retreating population. With only one year before complete and utter extermination, time is fast running out and hope is in short supply.\n\nSo far, any attempt to escape or retaliate has been instantly annihilated by the alien empire—until an emergency transmission from the planet Iscandar in a neighboring galaxy offers a glimmer of hope to save the doomed planet. Covertly, Earth's Self Defense Force constructs a faster than light engine for a journey to Iscandar. Armed with new weapons and a determined crew of fearless navy men, the World War II era battleship Yamato is reborn as Space Battleship Yamato. She and her crew set out on a perilous journey across the stars to save their home and the entire human race.\n\n[Written by MAL Rewrite]",
+        "background": "Winner of the 1975 Seiun Award for Best Dramatic Presentation.",
+        "season": "fall",
+        "year": 1974,
+        "broadcast": {
+            "day": "Sundays",
+            "time": "19:30",
+            "timezone": "Asia/Tokyo",
+            "string": "Sundays at 19:30 (JST)"
+        },
+        "producers": [
+            {
+                "mal_id": 127,
+                "type": "anime",
+                "name": "Yomiko Advertising",
+                "url": "https://myanimelist.net/anime/producer/127/Yomiko_Advertising"
+            },
+            {
+                "mal_id": 577,
+                "type": "anime",
+                "name": "Tohokushinsha Film Corporation",
+                "url": "https://myanimelist.net/anime/producer/577/Tohokushinsha_Film_Corporation"
+            }
+        ],
+        "licensors": [
+            {
+                "mal_id": 1571,
+                "type": "anime",
+                "name": "Voyager Entertainment",
+                "url": "https://myanimelist.net/anime/producer/1571/Voyager_Entertainment"
+            }
+        ],
+        "studios": [
+            {
+                "mal_id": 3223,
+                "type": "anime",
+                "name": "Office Academy",
+                "url": "https://myanimelist.net/anime/producer/3223/Office_Academy"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 1,
+                "type": "anime",
+                "name": "Action",
+                "url": "https://myanimelist.net/anime/genre/1/Action"
+            },
+            {
+                "mal_id": 2,
+                "type": "anime",
+                "name": "Adventure",
+                "url": "https://myanimelist.net/anime/genre/2/Adventure"
+            },
+            {
+                "mal_id": 46,
+                "type": "anime",
+                "name": "Award Winning",
+                "url": "https://myanimelist.net/anime/genre/46/Award_Winning"
+            },
+            {
+                "mal_id": 8,
+                "type": "anime",
+                "name": "Drama",
+                "url": "https://myanimelist.net/anime/genre/8/Drama"
+            },
+            {
+                "mal_id": 24,
+                "type": "anime",
+                "name": "Sci-Fi",
+                "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [
+            {
+                "mal_id": 50,
+                "type": "anime",
+                "name": "Adult Cast",
+                "url": "https://myanimelist.net/anime/genre/50/Adult_Cast"
+            },
+            {
+                "mal_id": 38,
+                "type": "anime",
+                "name": "Military",
+                "url": "https://myanimelist.net/anime/genre/38/Military"
+            },
+            {
+                "mal_id": 29,
+                "type": "anime",
+                "name": "Space",
+                "url": "https://myanimelist.net/anime/genre/29/Space"
+            }
+        ],
+        "demographics": [],
+        "relations": [
+            {
+                "relation": "Sequel",
+                "entry": [
+                    {
+                        "mal_id": 1651,
+                        "type": "anime",
+                        "name": "Uchuu Senkan Yamato 2",
+                        "url": "https://myanimelist.net/anime/1651/Uchuu_Senkan_Yamato_2"
+                    }
+                ]
+            },
+            {
+                "relation": "Adaptation",
+                "entry": [
+                    {
+                        "mal_id": 33333,
+                        "type": "manga",
+                        "name": "Uchuu Senkan Yamato",
+                        "url": "https://myanimelist.net/manga/33333/Uchuu_Senkan_Yamato"
+                    },
+                    {
+                        "mal_id": 31937,
+                        "type": "manga",
+                        "name": "Shin Uchuu Senkan Yamato",
+                        "url": "https://myanimelist.net/manga/31937/Shin_Uchuu_Senkan_Yamato"
+                    }
+                ]
+            },
+            {
+                "relation": "Spin-Off",
+                "entry": [
+                    {
+                        "mal_id": 6718,
+                        "type": "anime",
+                        "name": "Yamato 2520",
+                        "url": "https://myanimelist.net/anime/6718/Yamato_2520"
+                    },
+                    {
+                        "mal_id": 7122,
+                        "type": "anime",
+                        "name": "Dai Yamato Zero-gou",
+                        "url": "https://myanimelist.net/anime/7122/Dai_Yamato_Zero-gou"
+                    }
+                ]
+            },
+            {
+                "relation": "Summary",
+                "entry": [
+                    {
+                        "mal_id": 711,
+                        "type": "anime",
+                        "name": "Uchuu Senkan Yamato (Movie)",
+                        "url": "https://myanimelist.net/anime/711/Uchuu_Senkan_Yamato_Movie"
+                    }
+                ]
+            },
+            {
+                "relation": "Alternative Version",
+                "entry": [
+                    {
+                        "mal_id": 37082,
+                        "type": "anime",
+                        "name": "Uchuu Senkan Yamato Pilot Film",
+                        "url": "https://myanimelist.net/anime/37082/Uchuu_Senkan_Yamato_Pilot_Film"
+                    },
+                    {
+                        "mal_id": 12029,
+                        "type": "anime",
+                        "name": "Uchuu Senkan Yamato 2199",
+                        "url": "https://myanimelist.net/anime/12029/Uchuu_Senkan_Yamato_2199"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [
+                "\"Uchuu Senkan Yamato (宇宙戦艦ヤマト)\" by Isao Sasaki (eps 1-21,23-25)"
+            ],
+            "endings": [
+                "1: \"Makka na Scarf\" by Isao Sasaki (eps 1-21,23-25)",
+                "2: \"Uchuu Senkan Yamato (宇宙戦艦ヤマト)\" by Isao Sasaki (eps 22)"
+            ]
+        },
+        "external": [
+            {
+                "name": "Official Site",
+                "url": "http://www.bandaivisual.co.jp/yamato/"
+            },
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=648"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=338"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Space_Battleship_Yamato"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": [
+        {
+            "mal_id": 1,
+            "url": null,
+            "title": "SOS Earth!! Awaken, Space Battleship Yamato",
+            "title_japanese": "SOS地球!!甦れ宇宙戦艦ヤマト",
+            "title_romanji": "SOS Chikyuu!! Yomigaere Uchuu Senkan Yamato ",
+            "aired": "1974-10-06T00:00:00+00:00",
+            "score": 4.35,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=159706"
+        },
+        {
+            "mal_id": 2,
+            "url": null,
+            "title": "The Opening Gun! Space Battleship Yamato Starts!",
+            "title_japanese": "号砲一発!!宇宙戦艦ヤマト始動!!",
+            "title_romanji": "Gouhou Ippatsu!! Uchuu Senkan Yamato Shidou!! ",
+            "aired": "1974-10-13T00:00:00+00:00",
+            "score": 4.04,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=159707"
+        },
+        {
+            "mal_id": 3,
+            "url": null,
+            "title": "Yamato Launch! The Challenge of 296,000 Light Years!",
+            "title_japanese": "ヤマト発進!!29万6千光年への挑戦!!",
+            "title_romanji": "Yamato Hasshin!! 29 Man 6 Sen Kounen e no Chousen!! ",
+            "aired": "1974-10-20T00:00:00+00:00",
+            "score": 4.21,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=475889"
+        },
+        {
+            "mal_id": 4,
+            "url": null,
+            "title": "World of Wonder! Yamato Leaps Past Light!",
+            "title_japanese": "驚異の世界!!光を飛び越えたヤマト",
+            "title_romanji": "Kyoui no Sekai!! Hikari wo Tobikoeta Yamato ",
+            "aired": "1974-10-27T00:00:00+00:00",
+            "score": 4.33,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=477115"
+        },
+        {
+            "mal_id": 5,
+            "url": null,
+            "title": "Escape the Floating Continent! Crisis Calls the Wave-Motion Gun!",
+            "title_japanese": "浮遊大陸脱出!!危機を呼ぶ波動砲!!",
+            "title_romanji": "Fuyuu Tairiku Dasshutsu!! Kiki o Yobu Hadouhou ",
+            "aired": "1974-11-03T00:00:00+00:00",
+            "score": 4.28,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=247089"
+        },
+        {
+            "mal_id": 6,
+            "url": null,
+            "title": "Space Destroyer Yukikaze Sleeps in the Ice Field",
+            "title_japanese": "氷原に眠る宇宙駆逐艦ゆきかぜ!",
+            "title_romanji": "Hyougen ni Nemuru Uchuu Kuchikukan Yukikaze! ",
+            "aired": "1974-11-11T00:00:00+00:00",
+            "score": 4.32,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=247095"
+        },
+        {
+            "mal_id": 7,
+            "url": null,
+            "title": "Yamato Sinks! Fateful Battle to Destroy the Enemy Stronghold!",
+            "title_japanese": "ヤマト沈没!!運命の要塞攻略戦!!",
+            "title_romanji": "Yamato Chinbotsu!! Unmei no Yousai Kouryaku Ikusa!! ",
+            "aired": "1974-11-17T00:00:00+00:00",
+            "score": 4.43,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=477279"
+        },
+        {
+            "mal_id": 8,
+            "url": null,
+            "title": "Yamato Braves Death! Destroy the Reflex Gun!",
+            "title_japanese": "決死のヤマト!!反射衛星砲撃破せよ!!",
+            "title_romanji": "Kesshi no Yamato!! Hansha Eisei Hougeki Yabu Seyo ",
+            "aired": "1974-11-24T00:00:00+00:00",
+            "score": 4.42,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=477291"
+        },
+        {
+            "mal_id": 9,
+            "url": null,
+            "title": "Revolving Defense! Asteroid Belt!",
+            "title_japanese": "回転防禦!!アステロイド・ベルト!!",
+            "title_romanji": "Kaiten Bougyo!! Asteroid Belt!! ",
+            "aired": "1974-12-01T00:00:00+00:00",
+            "score": 4.43,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=477549"
+        },
+        {
+            "mal_id": 10,
+            "url": null,
+            "title": "Farewell, Solar System! From the Galaxy, With Love!",
+            "title_japanese": "さらば太陽圏!銀河より愛をこめて!!",
+            "title_romanji": "Saraba Taiyou Ken!! Ginga Yori Ai o Komete!! ",
+            "aired": "1974-12-08T00:00:00+00:00",
+            "score": 4.5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=469327"
+        },
+        {
+            "mal_id": 11,
+            "url": null,
+            "title": "Resolution! Break Through the Gamilons' Absolute Defense Line!",
+            "title_japanese": "決断!!ガミラス絶対防衛線突入!!",
+            "title_romanji": "Ketsudan!! Garmillas Zettai Bouei Sen Totsunyuu!! ",
+            "aired": "1974-12-15T00:00:00+00:00",
+            "score": 4.33,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=248114"
+        },
+        {
+            "mal_id": 12,
+            "url": null,
+            "title": "Certain Death! The Wishing Star of Orion, Hell-star!",
+            "title_japanese": "絶体絶命!!オリオンの願い星、地獄星",
+            "title_romanji": "Zettaizetsumei!! Orion no Negai Hoshi, Jigoku Hoshi ",
+            "aired": "1974-12-22T00:00:00+00:00",
+            "score": 4.6,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=248374"
+        },
+        {
+            "mal_id": 13,
+            "url": null,
+            "title": "Hurry, Yamato! Earth is Suffering!",
+            "title_japanese": "急げヤマト!!地球は病んでいる!!",
+            "title_romanji": "Kyuuge Yamato!! Chikyuu wa Yande Iru!! ",
+            "aired": "1974-12-29T00:00:00+00:00",
+            "score": 4.37,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1354268"
+        },
+        {
+            "mal_id": 14,
+            "url": null,
+            "title": "The Galaxy's Ordeal! The Year 2200 Advances!",
+            "title_japanese": "銀河の試練!!西暦2200年の発進!!",
+            "title_romanji": "Ginga no Shiren!! Seireki 2200-nen no Hasshin! ",
+            "aired": "1975-01-05T00:00:00+00:00",
+            "score": 4.29,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=474139"
+        },
+        {
+            "mal_id": 15,
+            "url": null,
+            "title": "Desperate Escape! The Galaxy's Different Dimension",
+            "title_japanese": "必死の逃亡!!異次元のヤマト",
+            "title_romanji": "Hisshi no Toubou!! Koto Jigen no Yamato ",
+            "aired": "1975-01-12T00:00:00+00:00",
+            "score": 4.32,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1415563"
+        },
+        {
+            "mal_id": 16,
+            "url": null,
+            "title": "Planet Beeland, Underground Prison of Condemned Criminals",
+            "title_japanese": "ビーメラ星、地下牢の死刑囚!!",
+            "title_romanji": "Teresa Hoshi, Chikarou no Shikeishuu!! ",
+            "aired": "1975-01-19T00:00:00+00:00",
+            "score": 3.88,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=538408"
+        },
+        {
+            "mal_id": 17,
+            "url": null,
+            "title": "Charge! Balanosaurus Special Attack Group!",
+            "title_japanese": "突撃!!バラノドン特攻隊",
+            "title_romanji": "Totsugeki!! Baranodon Tokkoutai ",
+            "aired": "1975-01-26T00:00:00+00:00",
+            "score": 4.19,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=248762"
+        },
+        {
+            "mal_id": 18,
+            "url": null,
+            "title": "Floating Fortress Island! Two Men Brave Death!",
+            "title_japanese": "浮かぶ要塞島!!たった二人の決死隊!!",
+            "title_romanji": "Ukabu Yousai Shima!! Tatta Futari no Kesshitai!! ",
+            "aired": "1975-02-02T00:00:00+00:00",
+            "score": 4.24,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1415594"
+        },
+        {
+            "mal_id": 19,
+            "url": null,
+            "title": "Homesickness of Space! My Mother's Tears are My Tears!",
+            "title_japanese": "宇宙の望郷!!母の涙は我が涙",
+            "title_romanji": "Uchuu no Boukyou!! Haha no Namida wa Waga Namida ",
+            "aired": "1975-02-09T00:00:00+00:00",
+            "score": 4.25,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1415599"
+        },
+        {
+            "mal_id": 20,
+            "url": null,
+            "title": "The Day Planet Balan's Sun Fell!",
+            "title_japanese": "バラン星に太陽が落下する日!!",
+            "title_romanji": "Balan Hoshi ni Taiyou ga Rakka Suru Hi!! ",
+            "aired": "1975-02-16T00:00:00+00:00",
+            "score": 4.27,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=249518"
+        },
+        {
+            "mal_id": 21,
+            "url": null,
+            "title": "Desperate Challenge from Lysis' Fleet!",
+            "title_japanese": "ドメル艦隊!!決死の挑戦状",
+            "title_romanji": "Domel Kantai!! Kesshi no Chousenjou ",
+            "aired": "1975-02-23T00:00:00+00:00",
+            "score": 4.35,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=249519"
+        },
+        {
+            "mal_id": 22,
+            "url": null,
+            "title": "Decisive Battle! Fight for Honor at the Rainbow Star Group!",
+            "title_japanese": "決戦!!七色星団の攻防戦!!",
+            "title_romanji": "Kessen!! Nanairo Seidan no Koubousen!! ",
+            "aired": "1975-03-02T00:00:00+00:00",
+            "score": 4.71,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=249633"
+        },
+        {
+            "mal_id": 23,
+            "url": null,
+            "title": "Finally Arrived! Crest of the Magellanic Cloud's Wave!",
+            "title_japanese": "遂に来た!!マゼラン星雲波高し!!",
+            "title_romanji": "Chi ni Kuta!! Magellan Seiun Nami Takashi!! ",
+            "aired": "1975-03-09T00:00:00+00:00",
+            "score": 4.53,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=249640"
+        },
+        {
+            "mal_id": 24,
+            "url": null,
+            "title": "Death Struggle! God, Weep for the Gamilons!",
+            "title_japanese": "死闘!!神よガミラスのために泣け!",
+            "title_romanji": "Shitou!! Kami yo Gamirasu Notameni Nake!! ",
+            "aired": "1975-03-16T00:00:00+00:00",
+            "score": 4.63,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=249641"
+        },
+        {
+            "mal_id": 25,
+            "url": null,
+            "title": "Iscandar! A Dying Planet of Love!",
+            "title_japanese": "イスカンダル!!滅びゆくか愛の星よ!",
+            "title_romanji": "Iskandar!! Horobiyukuka Ai no Hoshi yo!! ",
+            "aired": "1975-03-23T00:00:00+00:00",
+            "score": 4.41,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=264069"
+        },
+        {
+            "mal_id": 26,
+            "url": null,
+            "title": "Earth! Yamato Returns!",
+            "title_japanese": "地球よ!!ヤマトは帰って来た!",
+            "title_romanji": "Chikyuu yo!! Yamato wa Kaette Kita!! ",
+            "aired": "1975-03-30T00:00:00+00:00",
+            "score": 4.4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=249892"
+        }
+    ]
+}

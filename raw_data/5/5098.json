@@ -1,0 +1,166 @@
+{
+    "id": 5098,
+    "fetched_at": "Sun Dec 14 08:45:19 2025",
+    "metadata": {
+        "mal_id": 5098,
+        "url": "https://myanimelist.net/anime/5098/Andersen_Monogatari",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1051/100526.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1051/100526t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1051/100526l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1051/100526.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1051/100526t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1051/100526l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": "https://www.youtube-nocookie.com/embed/J3TqVw4LbEc?enablejsapi=1&wmode=opaque&autoplay=1",
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Andersen Monogatari"
+            },
+            {
+                "type": "Japanese",
+                "title": "アンデルセン物語"
+            },
+            {
+                "type": "English",
+                "title": "The World of Hans Christian Andersen"
+            },
+            {
+                "type": "German",
+                "title": "Die wunderbaren Abenteuer des Hans Christian Andersen"
+            }
+        ],
+        "title": "Andersen Monogatari",
+        "title_english": "The World of Hans Christian Andersen",
+        "title_japanese": "アンデルセン物語",
+        "title_synonyms": [],
+        "type": "Movie",
+        "source": "Unknown",
+        "episodes": 1,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "1968-03-19T00:00:00+00:00",
+            "to": null,
+            "prop": {
+                "from": {
+                    "day": 19,
+                    "month": 3,
+                    "year": 1968
+                },
+                "to": {
+                    "day": null,
+                    "month": null,
+                    "year": null
+                }
+            },
+            "string": "Mar 19, 1968"
+        },
+        "duration": "1 hr 20 min",
+        "rating": "G - All Ages",
+        "score": 5.61,
+        "scored_by": 723,
+        "rank": 12247,
+        "popularity": 12947,
+        "members": 1684,
+        "favorites": 0,
+        "synopsis": "Hans Christian Andersen is a little boy with a talent for making up stories. With his skill, his friends of all species, and his positive attitude, he helps brighten the lives of the people around him.\n\nThis movie contains elements of many of Andersen's tales, most prominently The Red Shoes and The Little Match Girl.",
+        "background": "",
+        "season": null,
+        "year": null,
+        "broadcast": {
+            "day": null,
+            "time": null,
+            "timezone": null,
+            "string": null
+        },
+        "producers": [],
+        "licensors": [],
+        "studios": [
+            {
+                "mal_id": 18,
+                "type": "anime",
+                "name": "Toei Animation",
+                "url": "https://myanimelist.net/anime/producer/18/Toei_Animation"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 8,
+                "type": "anime",
+                "name": "Drama",
+                "url": "https://myanimelist.net/anime/genre/8/Drama"
+            },
+            {
+                "mal_id": 10,
+                "type": "anime",
+                "name": "Fantasy",
+                "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [],
+        "demographics": [
+            {
+                "mal_id": 15,
+                "type": "anime",
+                "name": "Kids",
+                "url": "https://myanimelist.net/anime/genre/15/Kids"
+            }
+        ],
+        "relations": [
+            {
+                "relation": "Alternative Version",
+                "entry": [
+                    {
+                        "mal_id": 7779,
+                        "type": "anime",
+                        "name": "Andersen Monogatari (TV)",
+                        "url": "https://myanimelist.net/anime/7779/Andersen_Monogatari_TV"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [],
+            "endings": []
+        },
+        "external": [
+            {
+                "name": "Official Site",
+                "url": "http://www.toei-anim.co.jp/lineup/movie/movie_andersen/"
+            },
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=2208"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=3531"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "http://en.wikipedia.org/wiki/The_World_of_Hans_Christian_Andersen"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": []
+}

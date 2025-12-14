@@ -1,0 +1,552 @@
+{
+    "id": 50,
+    "fetched_at": "Sun Dec 14 12:33:14 2025",
+    "metadata": {
+        "mal_id": 50,
+        "url": "https://myanimelist.net/anime/50/Aa_Megami-sama_TV",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1976/99376.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1976/99376t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1976/99376l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1976/99376.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1976/99376t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1976/99376l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": "https://www.youtube-nocookie.com/embed/fohHBnpCoeI?enablejsapi=1&wmode=opaque&autoplay=1",
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Aa! Megami-sama! (TV)"
+            },
+            {
+                "type": "Synonym",
+                "title": "Ah! My Goddess! (TV)"
+            },
+            {
+                "type": "Japanese",
+                "title": "ああっ女神さまっ"
+            },
+            {
+                "type": "English",
+                "title": "Ah! My Goddess"
+            },
+            {
+                "type": "German",
+                "title": "Oh! My Goddess"
+            },
+            {
+                "type": "French",
+                "title": "Ah! My Goddess"
+            }
+        ],
+        "title": "Aa! Megami-sama! (TV)",
+        "title_english": "Ah! My Goddess",
+        "title_japanese": "ああっ女神さまっ",
+        "title_synonyms": [
+            "Ah! My Goddess! (TV)"
+        ],
+        "type": "TV",
+        "source": "Manga",
+        "episodes": 24,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "2005-01-07T00:00:00+00:00",
+            "to": "2005-07-08T00:00:00+00:00",
+            "prop": {
+                "from": {
+                    "day": 7,
+                    "month": 1,
+                    "year": 2005
+                },
+                "to": {
+                    "day": 8,
+                    "month": 7,
+                    "year": 2005
+                }
+            },
+            "string": "Jan 7, 2005 to Jul 8, 2005"
+        },
+        "duration": "24 min per ep",
+        "rating": "PG-13 - Teens 13 or older",
+        "score": 7.31,
+        "scored_by": 80018,
+        "rank": 2875,
+        "popularity": 1596,
+        "members": 167763,
+        "favorites": 1160,
+        "synopsis": "In a world where humans can have their wish granted via the Goddess Help Hotline, a human, Keiichi Morisato, summons the Goddess Belldandy by accident and jokes that she should stay with him forever. Unfortunately for him, his \"wish\" is granted.\n\nSuddenly, Keiichi is now living with this gorgeous woman all alone, causing him to be kicked out of the all-male dormitory he was staying in. But soon, after they find lodging in a Buddhist temple, Keiichi and Belldandy's relationship begins to blossom. Although they are both awkward and rather uncomfortable with one another at first, what awaits these two strangers could turn out to be an unexpected romance.\n\n[Written by MAL Rewrite]",
+        "background": "",
+        "season": "winter",
+        "year": 2005,
+        "broadcast": {
+            "day": "Fridays",
+            "time": "01:55",
+            "timezone": "Asia/Tokyo",
+            "string": "Fridays at 01:55 (JST)"
+        },
+        "producers": [
+            {
+                "mal_id": 23,
+                "type": "anime",
+                "name": "Bandai Visual",
+                "url": "https://myanimelist.net/anime/producer/23/Bandai_Visual"
+            },
+            {
+                "mal_id": 145,
+                "type": "anime",
+                "name": "TBS",
+                "url": "https://myanimelist.net/anime/producer/145/TBS"
+            },
+            {
+                "mal_id": 2135,
+                "type": "anime",
+                "name": "Imagine",
+                "url": "https://myanimelist.net/anime/producer/2135/Imagine"
+            }
+        ],
+        "licensors": [
+            {
+                "mal_id": 250,
+                "type": "anime",
+                "name": "Media Blasters",
+                "url": "https://myanimelist.net/anime/producer/250/Media_Blasters"
+            },
+            {
+                "mal_id": 595,
+                "type": "anime",
+                "name": "NYAV Post",
+                "url": "https://myanimelist.net/anime/producer/595/NYAV_Post"
+            }
+        ],
+        "studios": [
+            {
+                "mal_id": 48,
+                "type": "anime",
+                "name": "AIC",
+                "url": "https://myanimelist.net/anime/producer/48/AIC"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 4,
+                "type": "anime",
+                "name": "Comedy",
+                "url": "https://myanimelist.net/anime/genre/4/Comedy"
+            },
+            {
+                "mal_id": 22,
+                "type": "anime",
+                "name": "Romance",
+                "url": "https://myanimelist.net/anime/genre/22/Romance"
+            },
+            {
+                "mal_id": 37,
+                "type": "anime",
+                "name": "Supernatural",
+                "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [],
+        "demographics": [
+            {
+                "mal_id": 42,
+                "type": "anime",
+                "name": "Seinen",
+                "url": "https://myanimelist.net/anime/genre/42/Seinen"
+            }
+        ],
+        "relations": [
+            {
+                "relation": "Sequel",
+                "entry": [
+                    {
+                        "mal_id": 880,
+                        "type": "anime",
+                        "name": "Aa! Megami-sama! Sorezore no Tsubasa",
+                        "url": "https://myanimelist.net/anime/880/Aa_Megami-sama_Sorezore_no_Tsubasa"
+                    }
+                ]
+            },
+            {
+                "relation": "Adaptation",
+                "entry": [
+                    {
+                        "mal_id": 446,
+                        "type": "manga",
+                        "name": "Aa! Megami-sama!",
+                        "url": "https://myanimelist.net/manga/446/Aa_Megami-sama"
+                    }
+                ]
+            },
+            {
+                "relation": "Side Story",
+                "entry": [
+                    {
+                        "mal_id": 1003,
+                        "type": "anime",
+                        "name": "Aa! Megami-sama! (TV) Specials",
+                        "url": "https://myanimelist.net/anime/1003/Aa_Megami-sama_TV_Specials"
+                    }
+                ]
+            },
+            {
+                "relation": "Spin-Off",
+                "entry": [
+                    {
+                        "mal_id": 303,
+                        "type": "anime",
+                        "name": "Aa! Megami-sama!: Chichaitte Koto wa Benri da ne",
+                        "url": "https://myanimelist.net/anime/303/Aa_Megami-sama__Chichaitte_Koto_wa_Benri_da_ne"
+                    }
+                ]
+            },
+            {
+                "relation": "Alternative Version",
+                "entry": [
+                    {
+                        "mal_id": 49,
+                        "type": "anime",
+                        "name": "Aa! Megami-sama!",
+                        "url": "https://myanimelist.net/anime/49/Aa_Megami-sama"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [
+                "\"Open Your Mind ~Chiisana Hane Hirogete~ (OPEN YOUR MIND 〜小さな羽根ひろげて〜)\" by Yoko Ishida"
+            ],
+            "endings": [
+                "1: \"Negai (願い)\" by Yoko Ishida (eps 1-12,24)",
+                "2: \"Wing\" by Yoko Takahashi (eps 13-23)"
+            ]
+        },
+        "external": [
+            {
+                "name": "Official Site",
+                "url": "http://www.tbs.co.jp/megamisama/"
+            },
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=2533"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=3639"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "http://en.wikipedia.org/wiki/Ah%21_My_Goddess"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": [
+        {
+            "mal_id": 1,
+            "url": null,
+            "title": "Ah! You're a Goddess?",
+            "title_japanese": "ああっキミは女神さまっ?",
+            "title_romanji": "Aa! Kimi wa Megami-sama!? ",
+            "aired": "2005-01-07T00:00:00+00:00",
+            "score": 4.38,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=41372"
+        },
+        {
+            "mal_id": 2,
+            "url": null,
+            "title": "Ah! Those Who Believe Shall Find Salvation!",
+            "title_japanese": "ああっ信じる者は救われるっ?",
+            "title_romanji": "Aa! Shinjiru Mono wa Sukuwareru!? ",
+            "aired": "2005-01-14T00:00:00+00:00",
+            "score": 4.63,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=41373"
+        },
+        {
+            "mal_id": 3,
+            "url": null,
+            "title": "Ah! Apprenticeship, Home, and the Goddess",
+            "title_japanese": "ああっ修行と我が家と女神さまっ",
+            "title_romanji": "Aa! Shuugyou to Wagake to Megami-sama! ",
+            "aired": "2005-01-21T00:00:00+00:00",
+            "score": 4.59,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=41374"
+        },
+        {
+            "mal_id": 4,
+            "url": null,
+            "title": "Ah! The Queen and the Goddess",
+            "title_japanese": "ああっ女王さまと女神さまっ",
+            "title_romanji": "Aa! Joou-sama to Megami-sama! ",
+            "aired": "2005-01-28T00:00:00+00:00",
+            "score": 4.61,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=41377"
+        },
+        {
+            "mal_id": 5,
+            "url": null,
+            "title": "Ah! Living Under One Roof Together",
+            "title_japanese": "ああっひとつ屋根の下でっ",
+            "title_romanji": "Aa! Hitotsu Yane no Shita de! ",
+            "aired": "2005-02-04T00:00:00+00:00",
+            "score": 4.35,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=41380"
+        },
+        {
+            "mal_id": 6,
+            "url": null,
+            "title": "Ah! A Blessing in Every Bargain?",
+            "title_japanese": "ああっ掘り出しものに恵アリっ?",
+            "title_romanji": "Aa! Horidashi Mono ni Megumi Ari!? ",
+            "aired": "2005-02-11T00:00:00+00:00",
+            "score": 4.44,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=42151"
+        },
+        {
+            "mal_id": 7,
+            "url": null,
+            "title": "Ah! Where to Confess One's Love?",
+            "title_japanese": "ああっ想い伝える場所っ",
+            "title_romanji": "Aa! Omoi Tsutaeru Basho! ",
+            "aired": "2005-02-18T00:00:00+00:00",
+            "score": 4.51,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=42152"
+        },
+        {
+            "mal_id": 8,
+            "url": null,
+            "title": "Ah! Can You Pass the Love Test With Those Low Scores?",
+            "title_japanese": "ああっ偏差値30からの恋愛受験っ",
+            "title_romanji": "Aa! Hensachi 30 kara no Renai Juken! ",
+            "aired": "2005-02-25T00:00:00+00:00",
+            "score": 4.44,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=42183"
+        },
+        {
+            "mal_id": 9,
+            "url": null,
+            "title": "Ah! The Queen and the Goddess' Secret!",
+            "title_japanese": "ああっ女王さまと女神のヒミツっ",
+            "title_romanji": "Aa! Joou-sama to Megami no Himitsu! ",
+            "aired": "2005-03-04T00:00:00+00:00",
+            "score": 4.5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=42451"
+        },
+        {
+            "mal_id": 10,
+            "url": null,
+            "title": "Ah! Can the Auto Club Triumph?",
+            "title_japanese": "ああっ自動車部は勝てますかっ?",
+            "title_romanji": "Aa! Jidoushabu wa Katemasuka!? ",
+            "aired": "2005-03-11T00:00:00+00:00",
+            "score": 4.43,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=42457"
+        },
+        {
+            "mal_id": 11,
+            "url": null,
+            "title": "Ah! The Demon Arrives and Wreaks Havoc?!",
+            "title_japanese": "ああっ悪魔が来たりて災いを成すっ?",
+            "title_romanji": "Aa! Akuma ga Kitarite Wazawai wo Nasu!? ",
+            "aired": "2005-03-18T00:00:00+00:00",
+            "score": 4.51,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=42492"
+        },
+        {
+            "mal_id": 12,
+            "url": null,
+            "title": "Ah! Choosing Between the Goddess and the Queen?",
+            "title_japanese": "ああっ女神と女王を天秤にかけてっ?",
+            "title_romanji": "Aa! Megami to Joou wo Tenbin ni Kakete!? ",
+            "aired": "2005-03-25T00:00:00+00:00",
+            "score": 4.38,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=42493"
+        },
+        {
+            "mal_id": 13,
+            "url": null,
+            "title": "Ah! Who Does Big Sister Belong To?",
+            "title_japanese": "ああっお姉さまっは誰のモノっ?",
+            "title_romanji": "Aa! Onee-sama wa Dare no Mono!? ",
+            "aired": "2005-04-08T00:00:00+00:00",
+            "score": 4.52,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=42494"
+        },
+        {
+            "mal_id": 14,
+            "url": null,
+            "title": "Ah! Teaching a Lesson Called Competition!",
+            "title_japanese": "ああっ対決という名の教育実習っ?",
+            "title_romanji": "Aa! Taiketsu to Iu Na no Kyouiku Jisshuu!? ",
+            "aired": "2005-04-15T00:00:00+00:00",
+            "score": 4.41,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=42500"
+        },
+        {
+            "mal_id": 15,
+            "url": null,
+            "title": "Ah! A Heart Stolen by a Goddess?",
+            "title_japanese": "ああっ女神に心奪われてっ?",
+            "title_romanji": "Aa! Megumi ni Kokoro wo Ubawarete!? ",
+            "aired": "2005-04-22T00:00:00+00:00",
+            "score": 4.32,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=42770"
+        },
+        {
+            "mal_id": 16,
+            "url": null,
+            "title": "Ah! Misfortune Arrives, and the Tea-Stalk Stands Upright?",
+            "title_japanese": "ああっ災い来たりて茶柱立つっ?",
+            "title_romanji": "Aa! Wazawai Kitarite Chabashira Tatsu!? ",
+            "aired": "2005-04-29T00:00:00+00:00",
+            "score": 4.47,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=42774"
+        },
+        {
+            "mal_id": 17,
+            "url": null,
+            "title": "Ah! What Do Talent and Hard Work Have to Do With It?",
+            "title_japanese": "ああっ才能と努力って何ですかっ?",
+            "title_romanji": "Aa! Sainou to Doryokutte, Nandesuka!? ",
+            "aired": "2005-05-06T00:00:00+00:00",
+            "score": 4.13,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=42778"
+        },
+        {
+            "mal_id": 18,
+            "url": null,
+            "title": "Ah! Confess Your Love Under the Moon?",
+            "title_japanese": "ああっ運命の告白は月の下でっ?",
+            "title_romanji": "Aa! Unmei no Kokuhaku wa Tsuki no Shita de!? ",
+            "aired": "2005-05-13T00:00:00+00:00",
+            "score": 4.46,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=42781"
+        },
+        {
+            "mal_id": 19,
+            "url": null,
+            "title": "Ah! Please Don't Look At Me Like That?",
+            "title_japanese": "ああっそんな瞳でみつめないでっ?",
+            "title_romanji": "Aa! Sonna Hitomi de Mitsumenaide!? ",
+            "aired": "2005-05-20T00:00:00+00:00",
+            "score": 4.66,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=42783"
+        },
+        {
+            "mal_id": 20,
+            "url": null,
+            "title": "Ah! If You're a Real Man, Save the Goddess!?",
+            "title_japanese": "ああっ女神を救えっオトコならっ?",
+            "title_romanji": "Aa! Megami wo Sukue! Otoko Nara!? ",
+            "aired": "2005-05-27T00:00:00+00:00",
+            "score": 4.38,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=42897"
+        },
+        {
+            "mal_id": 21,
+            "url": null,
+            "title": "Ah! What Wouldn't I Give for an Angel with White Wings?!",
+            "title_japanese": "ああっ憧れは白い翼の天使っ",
+            "title_romanji": "Aa! Akogare wa Shiroi Tsubasa no Tenshi! ",
+            "aired": "2005-06-03T00:00:00+00:00",
+            "score": 4.68,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=42899"
+        },
+        {
+            "mal_id": 22,
+            "url": null,
+            "title": "Ah! The Devil's Whisper Coming from an Urn?",
+            "title_japanese": "ああっ悪魔のささやきは壺と共にっ?",
+            "title_romanji": "Aa! Akuma no Sasayaki wa Tsubo to Tomo ni!? ",
+            "aired": "2005-06-17T00:00:00+00:00",
+            "score": 4.72,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=42900"
+        },
+        {
+            "mal_id": 23,
+            "url": null,
+            "title": "Ah! The Savior of the World Arrives with the Sound of the Flute?",
+            "title_japanese": "ああっ救世主は笛の音と共にっ?",
+            "title_romanji": "Aa! Kyuuseishu wa Fue no Oto to Tomo ni!? ",
+            "aired": "2005-06-24T00:00:00+00:00",
+            "score": 4.63,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=42905"
+        },
+        {
+            "mal_id": 24,
+            "url": null,
+            "title": "Ah! Always Stay by Your Side...",
+            "title_japanese": "ああっいつもキミと共にっ",
+            "title_romanji": "Aa! Itsumo Kimi to Tomo ni! ",
+            "aired": "2005-07-08T00:00:00+00:00",
+            "score": 4.52,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=42906"
+        }
+    ]
+}

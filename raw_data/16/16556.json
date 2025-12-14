@@ -1,0 +1,162 @@
+{
+    "id": 16556,
+    "fetched_at": "Sun Dec 14 09:46:58 2025",
+    "metadata": {
+        "mal_id": 16556,
+        "url": "https://myanimelist.net/anime/16556/Hong_Kil-dong",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1031/142882.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1031/142882t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1031/142882l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1031/142882.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1031/142882t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1031/142882l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Hong Kil-dong"
+            },
+            {
+                "type": "Synonym",
+                "title": "Hong Gildong"
+            },
+            {
+                "type": "Japanese",
+                "title": "홍길동"
+            }
+        ],
+        "title": "Hong Kil-dong",
+        "title_english": null,
+        "title_japanese": "홍길동",
+        "title_synonyms": [
+            "Hong Gildong"
+        ],
+        "type": "Movie",
+        "source": "Unknown",
+        "episodes": 1,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "1967-01-21T00:00:00+00:00",
+            "to": null,
+            "prop": {
+                "from": {
+                    "day": 21,
+                    "month": 1,
+                    "year": 1967
+                },
+                "to": {
+                    "day": null,
+                    "month": null,
+                    "year": null
+                }
+            },
+            "string": "Jan 21, 1967"
+        },
+        "duration": "1 hr 10 min",
+        "rating": "G - All Ages",
+        "score": 5.51,
+        "scored_by": 179,
+        "rank": 12613,
+        "popularity": 16612,
+        "members": 656,
+        "favorites": 3,
+        "synopsis": "A special boy is born on a day when hurricanes and wicked spirits struck medieval Korea. The citizens and family learn that the infant has super human strength and cunning intelligence. As the boy grows up, he makes a vow to his family, the emperor of Korea, and to the high deities to rid Korea of the chaos and disorder caused by the wicked beings.\n\n(Source: IMDB)",
+        "background": "",
+        "season": null,
+        "year": null,
+        "broadcast": {
+            "day": null,
+            "time": null,
+            "timezone": null,
+            "string": null
+        },
+        "producers": [],
+        "licensors": [],
+        "studios": [],
+        "genres": [
+            {
+                "mal_id": 2,
+                "type": "anime",
+                "name": "Adventure",
+                "url": "https://myanimelist.net/anime/genre/2/Adventure"
+            },
+            {
+                "mal_id": 10,
+                "type": "anime",
+                "name": "Fantasy",
+                "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [
+            {
+                "mal_id": 13,
+                "type": "anime",
+                "name": "Historical",
+                "url": "https://myanimelist.net/anime/genre/13/Historical"
+            }
+        ],
+        "demographics": [],
+        "relations": [
+            {
+                "relation": "Sequel",
+                "entry": [
+                    {
+                        "mal_id": 43703,
+                        "type": "anime",
+                        "name": "Hong Gildong Janggun",
+                        "url": "https://myanimelist.net/anime/43703/Hong_Gildong_Janggun"
+                    }
+                ]
+            },
+            {
+                "relation": "Alternative Setting",
+                "entry": [
+                    {
+                        "mal_id": 16830,
+                        "type": "anime",
+                        "name": "Uju Jeonsa Hong Gildong",
+                        "url": "https://myanimelist.net/anime/16830/Uju_Jeonsa_Hong_Gildong"
+                    },
+                    {
+                        "mal_id": 30134,
+                        "type": "anime",
+                        "name": "Hong Gil Dong 2084",
+                        "url": "https://myanimelist.net/anime/30134/Hong_Gil_Dong_2084"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [],
+            "endings": []
+        },
+        "external": [
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=9612"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": []
+}

@@ -1,0 +1,133 @@
+{
+    "id": 30999,
+    "fetched_at": "Sun Dec 14 10:45:47 2025",
+    "metadata": {
+        "mal_id": 30999,
+        "url": "https://myanimelist.net/anime/30999/Ningen_no_Uta",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/12/74554.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/12/74554t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/12/74554l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/12/74554.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/12/74554t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/12/74554l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Ningen no Uta"
+            },
+            {
+                "type": "Japanese",
+                "title": "にんげんの詩"
+            }
+        ],
+        "title": "Ningen no Uta",
+        "title_english": null,
+        "title_japanese": "にんげんの詩",
+        "title_synonyms": [],
+        "type": "OVA",
+        "source": "Unknown",
+        "episodes": 1,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "1988-01-01T00:00:00+00:00",
+            "to": null,
+            "prop": {
+                "from": {
+                    "day": 1,
+                    "month": 1,
+                    "year": 1988
+                },
+                "to": {
+                    "day": null,
+                    "month": null,
+                    "year": null
+                }
+            },
+            "string": "1988"
+        },
+        "duration": "26 min",
+        "rating": "G - All Ages",
+        "score": null,
+        "scored_by": null,
+        "rank": 19153,
+        "popularity": 21907,
+        "members": 242,
+        "favorites": 0,
+        "synopsis": "For the first time, 18 year old Mitsuko is facing discrimination as she tries to pursue a career.",
+        "background": "",
+        "season": null,
+        "year": null,
+        "broadcast": {
+            "day": null,
+            "time": null,
+            "timezone": null,
+            "string": null
+        },
+        "producers": [],
+        "licensors": [],
+        "studios": [],
+        "genres": [
+            {
+                "mal_id": 8,
+                "type": "anime",
+                "name": "Drama",
+                "url": "https://myanimelist.net/anime/genre/8/Drama"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [],
+        "demographics": [
+            {
+                "mal_id": 15,
+                "type": "anime",
+                "name": "Kids",
+                "url": "https://myanimelist.net/anime/genre/15/Kids"
+            }
+        ],
+        "relations": [
+            {
+                "relation": "Sequel",
+                "entry": [
+                    {
+                        "mal_id": 31000,
+                        "type": "anime",
+                        "name": "Kizuna: Ningen no Uta Part 2",
+                        "url": "https://myanimelist.net/anime/31000/Kizuna__Ningen_no_Uta_Part_2"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [],
+            "endings": []
+        },
+        "external": [
+            {
+                "name": "Official Site",
+                "url": "http://www.tokyo-jinken.or.jp/jigyou/syuppan.htm"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": []
+}

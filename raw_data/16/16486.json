@@ -1,0 +1,171 @@
+{
+    "id": 16486,
+    "fetched_at": "Sun Dec 14 09:46:22 2025",
+    "metadata": {
+        "mal_id": 16486,
+        "url": "https://myanimelist.net/anime/16486/Shin_Kyojin_no_Hoshi_II",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1344/91228.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1344/91228t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1344/91228l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1344/91228.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1344/91228t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1344/91228l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Shin Kyojin no Hoshi II"
+            },
+            {
+                "type": "Japanese",
+                "title": "新巨人の星II"
+            }
+        ],
+        "title": "Shin Kyojin no Hoshi II",
+        "title_english": null,
+        "title_japanese": "新巨人の星II",
+        "title_synonyms": [],
+        "type": "TV",
+        "source": "Manga",
+        "episodes": 23,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "1979-04-14T00:00:00+00:00",
+            "to": "1979-09-29T00:00:00+00:00",
+            "prop": {
+                "from": {
+                    "day": 14,
+                    "month": 4,
+                    "year": 1979
+                },
+                "to": {
+                    "day": 29,
+                    "month": 9,
+                    "year": 1979
+                }
+            },
+            "string": "Apr 14, 1979 to Sep 29, 1979"
+        },
+        "duration": "25 min per ep",
+        "rating": "G - All Ages",
+        "score": 6.2,
+        "scored_by": 432,
+        "rank": 9110,
+        "popularity": 14527,
+        "members": 1109,
+        "favorites": 0,
+        "synopsis": "A continuation of the popular baseball saga about the star pitcher of a professional baseball team.\n\n(Source: AniDB)",
+        "background": "",
+        "season": "spring",
+        "year": 1979,
+        "broadcast": {
+            "day": null,
+            "time": null,
+            "timezone": null,
+            "string": "Unknown"
+        },
+        "producers": [
+            {
+                "mal_id": 65,
+                "type": "anime",
+                "name": "Tokyo Movie Shinsha",
+                "url": "https://myanimelist.net/anime/producer/65/Tokyo_Movie_Shinsha"
+            },
+            {
+                "mal_id": 76,
+                "type": "anime",
+                "name": "Yomiuri Telecasting",
+                "url": "https://myanimelist.net/anime/producer/76/Yomiuri_Telecasting"
+            }
+        ],
+        "licensors": [],
+        "studios": [],
+        "genres": [
+            {
+                "mal_id": 30,
+                "type": "anime",
+                "name": "Sports",
+                "url": "https://myanimelist.net/anime/genre/30/Sports"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [
+            {
+                "mal_id": 77,
+                "type": "anime",
+                "name": "Team Sports",
+                "url": "https://myanimelist.net/anime/genre/77/Team_Sports"
+            }
+        ],
+        "demographics": [],
+        "relations": [
+            {
+                "relation": "Prequel",
+                "entry": [
+                    {
+                        "mal_id": 15875,
+                        "type": "anime",
+                        "name": "Shin Kyojin no Hoshi",
+                        "url": "https://myanimelist.net/anime/15875/Shin_Kyojin_no_Hoshi"
+                    }
+                ]
+            },
+            {
+                "relation": "Adaptation",
+                "entry": [
+                    {
+                        "mal_id": 15315,
+                        "type": "manga",
+                        "name": "Shin Kyojin no Hoshi",
+                        "url": "https://myanimelist.net/manga/15315/Shin_Kyojin_no_Hoshi"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [
+                "\"Kokoro ni ase wo\" by Ichirou Mizuki"
+            ],
+            "endings": []
+        },
+        "external": [
+            {
+                "name": "Official Site",
+                "url": "http://www.tms-e.com/library/old/tv/data/t_sin_kyojin_2.html"
+            },
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=6181"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=1473"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "http://en.wikipedia.org/wiki/Kyojin_no_Hoshi"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": []
+}

@@ -1,0 +1,531 @@
+{
+    "id": 267,
+    "fetched_at": "Sun Dec 14 12:52:59 2025",
+    "metadata": {
+        "mal_id": 267,
+        "url": "https://myanimelist.net/anime/267/Gungrave",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/11/75724.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/11/75724t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/11/75724l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/11/75724.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/11/75724t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/11/75724l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": "https://www.youtube-nocookie.com/embed/d7IkGbNBPxc?enablejsapi=1&wmode=opaque&autoplay=1",
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Gungrave"
+            },
+            {
+                "type": "Japanese",
+                "title": "ガングレイヴ"
+            },
+            {
+                "type": "English",
+                "title": "Gungrave"
+            }
+        ],
+        "title": "Gungrave",
+        "title_english": "Gungrave",
+        "title_japanese": "ガングレイヴ",
+        "title_synonyms": [],
+        "type": "TV",
+        "source": "Game",
+        "episodes": 26,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "2003-10-07T00:00:00+00:00",
+            "to": "2004-03-30T00:00:00+00:00",
+            "prop": {
+                "from": {
+                    "day": 7,
+                    "month": 10,
+                    "year": 2003
+                },
+                "to": {
+                    "day": 30,
+                    "month": 3,
+                    "year": 2004
+                }
+            },
+            "string": "Oct 7, 2003 to Mar 30, 2004"
+        },
+        "duration": "25 min per ep",
+        "rating": "R - 17+ (violence & profanity)",
+        "score": 7.81,
+        "scored_by": 84631,
+        "rank": 1074,
+        "popularity": 1266,
+        "members": 215530,
+        "favorites": 2517,
+        "synopsis": "Brandon Heat and Harry MacDowel, two friends so close they could be called brothers, receive an abrupt and violent reminder one fateful day of how appallingly merciless the world around them can be. Their whole lives before then were simple and easygoing, consisting largely of local brawls, seducing women, and committing petty theft to make a living and pass the time. What they failed to realize is that in this cruel world, happiness is fleeting, and change is inevitable.\n\nEnter Millennion, the largest and most infamous mafia syndicate in the area, which accepts Brandon and Harry into their ranks and starts them at the bottom of the food chain. Harry has ambitions to ascend the ranks and one day replace Big Daddy as the supreme leader of Millennion, while Brandon only wishes to support his friend and appease Big Daddy who has taken custody of the woman Brandon loves.\n\nBased off the third-person shooter video game under the same name, Gungrave is an epic story of friendship, betrayal, and avarice that spans the course of several years, ultimately tying back to the gripping and foreboding first episode, all the while building up to the story's thrilling conclusion.\n\n[Written by MAL Rewrite]",
+        "background": "",
+        "season": "fall",
+        "year": 2003,
+        "broadcast": {
+            "day": "Tuesdays",
+            "time": "01:30",
+            "timezone": "Asia/Tokyo",
+            "string": "Tuesdays at 01:30 (JST)"
+        },
+        "producers": [
+            {
+                "mal_id": 123,
+                "type": "anime",
+                "name": "Victor Entertainment",
+                "url": "https://myanimelist.net/anime/producer/123/Victor_Entertainment"
+            },
+            {
+                "mal_id": 577,
+                "type": "anime",
+                "name": "Tohokushinsha Film Corporation",
+                "url": "https://myanimelist.net/anime/producer/577/Tohokushinsha_Film_Corporation"
+            },
+            {
+                "mal_id": 3172,
+                "type": "anime",
+                "name": "Arts Pro",
+                "url": "https://myanimelist.net/anime/producer/3172/Arts_Pro"
+            }
+        ],
+        "licensors": [
+            {
+                "mal_id": 102,
+                "type": "anime",
+                "name": "Funimation",
+                "url": "https://myanimelist.net/anime/producer/102/Funimation"
+            },
+            {
+                "mal_id": 1459,
+                "type": "anime",
+                "name": "Geneon Entertainment USA",
+                "url": "https://myanimelist.net/anime/producer/1459/Geneon_Entertainment_USA"
+            }
+        ],
+        "studios": [
+            {
+                "mal_id": 11,
+                "type": "anime",
+                "name": "Madhouse",
+                "url": "https://myanimelist.net/anime/producer/11/Madhouse"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 1,
+                "type": "anime",
+                "name": "Action",
+                "url": "https://myanimelist.net/anime/genre/1/Action"
+            },
+            {
+                "mal_id": 8,
+                "type": "anime",
+                "name": "Drama",
+                "url": "https://myanimelist.net/anime/genre/8/Drama"
+            },
+            {
+                "mal_id": 24,
+                "type": "anime",
+                "name": "Sci-Fi",
+                "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [
+            {
+                "mal_id": 50,
+                "type": "anime",
+                "name": "Adult Cast",
+                "url": "https://myanimelist.net/anime/genre/50/Adult_Cast"
+            },
+            {
+                "mal_id": 58,
+                "type": "anime",
+                "name": "Gore",
+                "url": "https://myanimelist.net/anime/genre/58/Gore"
+            },
+            {
+                "mal_id": 68,
+                "type": "anime",
+                "name": "Organized Crime",
+                "url": "https://myanimelist.net/anime/genre/68/Organized_Crime"
+            },
+            {
+                "mal_id": 31,
+                "type": "anime",
+                "name": "Super Power",
+                "url": "https://myanimelist.net/anime/genre/31/Super_Power"
+            }
+        ],
+        "demographics": [],
+        "relations": [],
+        "theme": {
+            "openings": [
+                "\"Family\" by Tsuneo Imahori"
+            ],
+            "endings": [
+                "\"Akaneiro ga Moerutoki (茜色が燃えるとき)\" by Scoobie Do"
+            ]
+        },
+        "external": [
+            {
+                "name": "Official Site",
+                "url": "http://www.jvcmusic.co.jp/m-serve/tv/gungrave/"
+            },
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=1003"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=2635"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "http://en.wikipedia.org/wiki/Gungrave_(anime)"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "https://ja.wikipedia.org/wiki/ガングレイヴ#テレビアニメ"
+            },
+            {
+                "name": "Syoboi",
+                "url": "https://cal.syoboi.jp/tid/159"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": [
+        {
+            "mal_id": 1,
+            "url": "https://myanimelist.net/anime/267/Gungrave/episode/1",
+            "title": "Destroyer in the Dusk",
+            "title_japanese": "黄昏の破壊者",
+            "title_romanji": "Tasogare no Hakaisha ",
+            "aired": "2003-10-07T00:00:00+00:00",
+            "score": 3.48,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=77062"
+        },
+        {
+            "mal_id": 2,
+            "url": "https://myanimelist.net/anime/267/Gungrave/episode/2",
+            "title": "Young Dogs",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": "2003-10-14T00:00:00+00:00",
+            "score": 4.17,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=77306"
+        },
+        {
+            "mal_id": 3,
+            "url": "https://myanimelist.net/anime/267/Gungrave/episode/3",
+            "title": "Rain",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": "2003-10-21T00:00:00+00:00",
+            "score": 4.33,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=78296"
+        },
+        {
+            "mal_id": 4,
+            "url": "https://myanimelist.net/anime/267/Gungrave/episode/4",
+            "title": "Go",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": "2003-10-28T00:00:00+00:00",
+            "score": 4.27,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=78570"
+        },
+        {
+            "mal_id": 5,
+            "url": "https://myanimelist.net/anime/267/Gungrave/episode/5",
+            "title": "Millennion",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": "2003-11-04T00:00:00+00:00",
+            "score": 4.44,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=78710"
+        },
+        {
+            "mal_id": 6,
+            "url": "https://myanimelist.net/anime/267/Gungrave/episode/6",
+            "title": "Big Daddy",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": "2003-11-11T00:00:00+00:00",
+            "score": 4.48,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=111768"
+        },
+        {
+            "mal_id": 7,
+            "url": "https://myanimelist.net/anime/267/Gungrave/episode/7",
+            "title": "5 Years Later",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": "2003-11-18T00:00:00+00:00",
+            "score": 4.29,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=112296"
+        },
+        {
+            "mal_id": 8,
+            "url": "https://myanimelist.net/anime/267/Gungrave/episode/8",
+            "title": "Family",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": "2003-11-25T00:00:00+00:00",
+            "score": 4.73,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=79377"
+        },
+        {
+            "mal_id": 9,
+            "url": "https://myanimelist.net/anime/267/Gungrave/episode/9",
+            "title": "Dispute",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": "2003-12-02T00:00:00+00:00",
+            "score": 3.86,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=85520"
+        },
+        {
+            "mal_id": 10,
+            "url": "https://myanimelist.net/anime/267/Gungrave/episode/10",
+            "title": "Conflict",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": "2003-12-09T00:00:00+00:00",
+            "score": 4.36,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=543496"
+        },
+        {
+            "mal_id": 11,
+            "url": "https://myanimelist.net/anime/267/Gungrave/episode/11",
+            "title": "Heat",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": "2003-12-16T00:00:00+00:00",
+            "score": 4.22,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=113012"
+        },
+        {
+            "mal_id": 12,
+            "url": "https://myanimelist.net/anime/267/Gungrave/episode/12",
+            "title": "Kind",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": "2003-12-23T00:00:00+00:00",
+            "score": 4.42,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=367947"
+        },
+        {
+            "mal_id": 13,
+            "url": "https://myanimelist.net/anime/267/Gungrave/episode/13",
+            "title": "Betrayal",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": "2003-12-28T00:00:00+00:00",
+            "score": 4.36,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=95989"
+        },
+        {
+            "mal_id": 14,
+            "url": "https://myanimelist.net/anime/267/Gungrave/episode/14",
+            "title": "Die",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": "2004-01-06T00:00:00+00:00",
+            "score": 4.73,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=80143"
+        },
+        {
+            "mal_id": 15,
+            "url": "https://myanimelist.net/anime/267/Gungrave/episode/15",
+            "title": "Harry",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": "2004-01-13T00:00:00+00:00",
+            "score": 4.59,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=114170"
+        },
+        {
+            "mal_id": 16,
+            "url": "https://myanimelist.net/anime/267/Gungrave/episode/16",
+            "title": "Letter",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": "2004-01-20T00:00:00+00:00",
+            "score": 4.63,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=212789"
+        },
+        {
+            "mal_id": 17,
+            "url": "https://myanimelist.net/anime/267/Gungrave/episode/17",
+            "title": "Mika",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": "2004-01-27T00:00:00+00:00",
+            "score": 4.45,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=543576"
+        },
+        {
+            "mal_id": 18,
+            "url": "https://myanimelist.net/anime/267/Gungrave/episode/18",
+            "title": "Grave",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": "2004-02-03T00:00:00+00:00",
+            "score": 4.06,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=80415"
+        },
+        {
+            "mal_id": 19,
+            "url": "https://myanimelist.net/anime/267/Gungrave/episode/19",
+            "title": "Superior",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": "2004-02-10T00:00:00+00:00",
+            "score": 4.13,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=114966"
+        },
+        {
+            "mal_id": 20,
+            "url": "https://myanimelist.net/anime/267/Gungrave/episode/20",
+            "title": "Brother",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": "2004-02-17T00:00:00+00:00",
+            "score": 4.26,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=242446"
+        },
+        {
+            "mal_id": 21,
+            "url": "https://myanimelist.net/anime/267/Gungrave/episode/21",
+            "title": "Duty",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": "2004-02-24T00:00:00+00:00",
+            "score": 4.38,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=80727"
+        },
+        {
+            "mal_id": 22,
+            "url": "https://myanimelist.net/anime/267/Gungrave/episode/22",
+            "title": "Remorse",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": "2004-03-02T00:00:00+00:00",
+            "score": 4.15,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=80741"
+        },
+        {
+            "mal_id": 23,
+            "url": "https://myanimelist.net/anime/267/Gungrave/episode/23",
+            "title": "Daughter",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": "2004-03-09T00:00:00+00:00",
+            "score": 4.33,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=115748"
+        },
+        {
+            "mal_id": 24,
+            "url": "https://myanimelist.net/anime/267/Gungrave/episode/24",
+            "title": "Last Bullet",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": "2004-03-16T00:00:00+00:00",
+            "score": 4.68,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=98134"
+        },
+        {
+            "mal_id": 25,
+            "url": "https://myanimelist.net/anime/267/Gungrave/episode/25",
+            "title": "Then",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": "2004-03-23T00:00:00+00:00",
+            "score": 4.7,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=98169"
+        },
+        {
+            "mal_id": 26,
+            "url": "https://myanimelist.net/anime/267/Gungrave/episode/26",
+            "title": "Dusk of the Destroyers",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": "2004-03-30T00:00:00+00:00",
+            "score": 4.54,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=98185"
+        }
+    ]
+}

@@ -1,0 +1,158 @@
+{
+    "id": 8520,
+    "fetched_at": "Sun Dec 14 09:18:40 2025",
+    "metadata": {
+        "mal_id": 8520,
+        "url": "https://myanimelist.net/anime/8520/Biriken",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/7/23069.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/7/23069t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/7/23069l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/7/23069.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/7/23069t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/7/23069l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Biriken"
+            },
+            {
+                "type": "Synonym",
+                "title": "Billy Inu"
+            },
+            {
+                "type": "Japanese",
+                "title": "ビリ犬"
+            }
+        ],
+        "title": "Biriken",
+        "title_english": null,
+        "title_japanese": "ビリ犬",
+        "title_synonyms": [
+            "Billy Inu"
+        ],
+        "type": "TV",
+        "source": "Unknown",
+        "episodes": 32,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "1988-07-11T00:00:00+00:00",
+            "to": "1989-04-03T00:00:00+00:00",
+            "prop": {
+                "from": {
+                    "day": 11,
+                    "month": 7,
+                    "year": 1988
+                },
+                "to": {
+                    "day": 3,
+                    "month": 4,
+                    "year": 1989
+                }
+            },
+            "string": "Jul 11, 1988 to Apr 3, 1989"
+        },
+        "duration": "13 min per ep",
+        "rating": "PG - Children",
+        "score": null,
+        "scored_by": null,
+        "rank": 20355,
+        "popularity": 17834,
+        "members": 513,
+        "favorites": 0,
+        "synopsis": "Based on Fujiko Fujio A's manga of the same name.",
+        "background": "",
+        "season": "summer",
+        "year": 1988,
+        "broadcast": {
+            "day": null,
+            "time": null,
+            "timezone": null,
+            "string": "Unknown"
+        },
+        "producers": [],
+        "licensors": [],
+        "studios": [
+            {
+                "mal_id": 247,
+                "type": "anime",
+                "name": "Shin-Ei Animation",
+                "url": "https://myanimelist.net/anime/producer/247/Shin-Ei_Animation"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 4,
+                "type": "anime",
+                "name": "Comedy",
+                "url": "https://myanimelist.net/anime/genre/4/Comedy"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [],
+        "demographics": [
+            {
+                "mal_id": 15,
+                "type": "anime",
+                "name": "Kids",
+                "url": "https://myanimelist.net/anime/genre/15/Kids"
+            }
+        ],
+        "relations": [
+            {
+                "relation": "Sequel",
+                "entry": [
+                    {
+                        "mal_id": 8521,
+                        "type": "anime",
+                        "name": "Biriken Nandemo Shoukai",
+                        "url": "https://myanimelist.net/anime/8521/Biriken_Nandemo_Shoukai"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [
+                "\"Biribiri Biriken (ビリビリ ビリ犬)\" by Eiko Yamada, Masako Nozawa, Koorogi '73 (Chorus)"
+            ],
+            "endings": [
+                "\"Boku ga Tondeta... (ぼくが飛んでた...)\" by Mitsuko Horie, Koorogi '73 (Chorus)"
+            ]
+        },
+        "external": [
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=3517"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=1221"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "http://ja.wikipedia.org/wiki/ビリ犬"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": []
+}

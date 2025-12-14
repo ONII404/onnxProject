@@ -1,0 +1,138 @@
+{
+    "id": 24901,
+    "fetched_at": "Sun Dec 14 10:16:16 2025",
+    "metadata": {
+        "mal_id": 24901,
+        "url": "https://myanimelist.net/anime/24901/Cook_no_Polka",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/4/64023.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/4/64023t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/4/64023l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/4/64023.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/4/64023t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/4/64023l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Cook no Polka"
+            },
+            {
+                "type": "Synonym",
+                "title": "Minna no Uta"
+            },
+            {
+                "type": "Japanese",
+                "title": "コックのポルカ"
+            }
+        ],
+        "title": "Cook no Polka",
+        "title_english": null,
+        "title_japanese": "コックのポルカ",
+        "title_synonyms": [
+            "Minna no Uta"
+        ],
+        "type": "Music",
+        "source": "Music",
+        "episodes": 1,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "1964-08-03T00:00:00+00:00",
+            "to": null,
+            "prop": {
+                "from": {
+                    "day": 3,
+                    "month": 8,
+                    "year": 1964
+                },
+                "to": {
+                    "day": null,
+                    "month": null,
+                    "year": null
+                }
+            },
+            "string": "Aug 3, 1964"
+        },
+        "duration": "2 min",
+        "rating": "G - All Ages",
+        "score": 4.73,
+        "scored_by": 288,
+        "rank": null,
+        "popularity": 17447,
+        "members": 554,
+        "favorites": 0,
+        "synopsis": "A song for the Minna no Uta segment.",
+        "background": "",
+        "season": null,
+        "year": null,
+        "broadcast": {
+            "day": null,
+            "time": null,
+            "timezone": null,
+            "string": null
+        },
+        "producers": [
+            {
+                "mal_id": 111,
+                "type": "anime",
+                "name": "NHK",
+                "url": "https://myanimelist.net/anime/producer/111/NHK"
+            }
+        ],
+        "licensors": [],
+        "studios": [],
+        "genres": [],
+        "explicit_genres": [],
+        "themes": [
+            {
+                "mal_id": 19,
+                "type": "anime",
+                "name": "Music",
+                "url": "https://myanimelist.net/anime/genre/19/Music"
+            }
+        ],
+        "demographics": [
+            {
+                "mal_id": 15,
+                "type": "anime",
+                "name": "Kids",
+                "url": "https://myanimelist.net/anime/genre/15/Kids"
+            }
+        ],
+        "relations": [],
+        "theme": {
+            "openings": [],
+            "endings": []
+        },
+        "external": [
+            {
+                "name": "Official Site",
+                "url": "http://cgi2.nhk.or.jp/minna/search/index.cgi?id=MIN196408_02"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "http://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%83%E3%82%AF%E3%81%AE%E3%83%9D%E3%83%AB%E3%82%AB"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": []
+}

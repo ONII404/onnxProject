@@ -1,0 +1,136 @@
+{
+    "id": 6851,
+    "fetched_at": "Sun Dec 14 09:03:41 2025",
+    "metadata": {
+        "mal_id": 6851,
+        "url": "https://myanimelist.net/anime/6851/Kaitei_no_Boukun",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/3/15855.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/3/15855t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/3/15855l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/3/15855.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/3/15855t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/3/15855l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Kaitei no Boukun"
+            },
+            {
+                "type": "Synonym",
+                "title": "Kaitei no Bokun"
+            },
+            {
+                "type": "Japanese",
+                "title": "海底の暴君"
+            },
+            {
+                "type": "English",
+                "title": "The Underwater Tyrant"
+            }
+        ],
+        "title": "Kaitei no Boukun",
+        "title_english": "The Underwater Tyrant",
+        "title_japanese": "海底の暴君",
+        "title_synonyms": [
+            "Kaitei no Bokun"
+        ],
+        "type": "Movie",
+        "source": "Original",
+        "episodes": 1,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "1935-01-01T00:00:00+00:00",
+            "to": null,
+            "prop": {
+                "from": {
+                    "day": 1,
+                    "month": 1,
+                    "year": 1935
+                },
+                "to": {
+                    "day": null,
+                    "month": null,
+                    "year": null
+                }
+            },
+            "string": "1935"
+        },
+        "duration": "1 min",
+        "rating": "G - All Ages",
+        "score": 4.4,
+        "scored_by": 685,
+        "rank": 14320,
+        "popularity": 14110,
+        "members": 1233,
+        "favorites": 1,
+        "synopsis": "A monkey and tanuki go fishing in a frozen lake but the king catfish isn't pleased. Condensed version of Osaru no Tairyou.",
+        "background": "",
+        "season": null,
+        "year": null,
+        "broadcast": {
+            "day": null,
+            "time": null,
+            "timezone": null,
+            "string": null
+        },
+        "producers": [],
+        "licensors": [],
+        "studios": [],
+        "genres": [
+            {
+                "mal_id": 2,
+                "type": "anime",
+                "name": "Adventure",
+                "url": "https://myanimelist.net/anime/genre/2/Adventure"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [],
+        "demographics": [],
+        "relations": [
+            {
+                "relation": "Alternative Version",
+                "entry": [
+                    {
+                        "mal_id": 23267,
+                        "type": "anime",
+                        "name": "Osaru no Tairyou",
+                        "url": "https://myanimelist.net/anime/23267/Osaru_no_Tairyou"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [],
+            "endings": []
+        },
+        "external": [
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=7193"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": []
+}

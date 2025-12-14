@@ -1,0 +1,840 @@
+{
+    "id": 1000,
+    "fetched_at": "Sun Dec 14 07:09:27 2025",
+    "metadata": {
+        "mal_id": 1000,
+        "url": "https://myanimelist.net/anime/1000/Uchuu_Kaizoku_Captain_Herlock",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1362/90305.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1362/90305t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1362/90305l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1362/90305.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1362/90305t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1362/90305l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Uchuu Kaizoku Captain Herlock"
+            },
+            {
+                "type": "Synonym",
+                "title": "Harlock TV"
+            },
+            {
+                "type": "Synonym",
+                "title": "Albator 78"
+            },
+            {
+                "type": "Japanese",
+                "title": "宇宙海賊・キャプテンハーロック"
+            },
+            {
+                "type": "English",
+                "title": "Space Pirate Captain Harlock"
+            },
+            {
+                "type": "German",
+                "title": "Captain Harlock"
+            },
+            {
+                "type": "French",
+                "title": "Captain Herlock"
+            }
+        ],
+        "title": "Uchuu Kaizoku Captain Herlock",
+        "title_english": "Space Pirate Captain Harlock",
+        "title_japanese": "宇宙海賊・キャプテンハーロック",
+        "title_synonyms": [
+            "Harlock TV",
+            "Albator 78"
+        ],
+        "type": "TV",
+        "source": "Manga",
+        "episodes": 42,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "1978-03-14T00:00:00+00:00",
+            "to": "1979-02-13T00:00:00+00:00",
+            "prop": {
+                "from": {
+                    "day": 14,
+                    "month": 3,
+                    "year": 1978
+                },
+                "to": {
+                    "day": 13,
+                    "month": 2,
+                    "year": 1979
+                }
+            },
+            "string": "Mar 14, 1978 to Feb 13, 1979"
+        },
+        "duration": "25 min per ep",
+        "rating": "PG-13 - Teens 13 or older",
+        "score": 7.68,
+        "scored_by": 11973,
+        "rank": 1422,
+        "popularity": 3838,
+        "members": 42614,
+        "favorites": 372,
+        "synopsis": "It is 2977 AD and mankind has become stagnant. Robots do all the work, the masses are kept tranquil by subliminal messages, and government officials are lazy, caring only about recreational activities like golf and horse racing. Captain Herlock has defied this insipid mentality, leading a group of like-minded rebels to a more adventurous life aboard the spaceship Arcadia.\n \nA mysterious force known as the Mazone has invaded the Earth, taking the form of mysterious cloaked women that kill anyone who suspect their nefarious doings, such as Tadashi Daiba who is now on their hit-list. After his scientist father is ignored by the government and killed by the Mazone, he joins Captain Herlock and his ragtag group of pirates to assist them as they try to save humanity from the impending alien threat.\n\n[Written by MAL Rewrite]",
+        "background": "",
+        "season": "spring",
+        "year": 1978,
+        "broadcast": {
+            "day": "Tuesdays",
+            "time": "19:00",
+            "timezone": "Asia/Tokyo",
+            "string": "Tuesdays at 19:00 (JST)"
+        },
+        "producers": [
+            {
+                "mal_id": 55,
+                "type": "anime",
+                "name": "TV Asahi",
+                "url": "https://myanimelist.net/anime/producer/55/TV_Asahi"
+            },
+            {
+                "mal_id": 2292,
+                "type": "anime",
+                "name": "Toei Advertising",
+                "url": "https://myanimelist.net/anime/producer/2292/Toei_Advertising"
+            }
+        ],
+        "licensors": [
+            {
+                "mal_id": 467,
+                "type": "anime",
+                "name": "Discotek Media",
+                "url": "https://myanimelist.net/anime/producer/467/Discotek_Media"
+            },
+            {
+                "mal_id": 2278,
+                "type": "anime",
+                "name": "Harmony Gold",
+                "url": "https://myanimelist.net/anime/producer/2278/Harmony_Gold"
+            }
+        ],
+        "studios": [
+            {
+                "mal_id": 18,
+                "type": "anime",
+                "name": "Toei Animation",
+                "url": "https://myanimelist.net/anime/producer/18/Toei_Animation"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 1,
+                "type": "anime",
+                "name": "Action",
+                "url": "https://myanimelist.net/anime/genre/1/Action"
+            },
+            {
+                "mal_id": 2,
+                "type": "anime",
+                "name": "Adventure",
+                "url": "https://myanimelist.net/anime/genre/2/Adventure"
+            },
+            {
+                "mal_id": 8,
+                "type": "anime",
+                "name": "Drama",
+                "url": "https://myanimelist.net/anime/genre/8/Drama"
+            },
+            {
+                "mal_id": 24,
+                "type": "anime",
+                "name": "Sci-Fi",
+                "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [
+            {
+                "mal_id": 29,
+                "type": "anime",
+                "name": "Space",
+                "url": "https://myanimelist.net/anime/genre/29/Space"
+            }
+        ],
+        "demographics": [
+            {
+                "mal_id": 42,
+                "type": "anime",
+                "name": "Seinen",
+                "url": "https://myanimelist.net/anime/genre/42/Seinen"
+            }
+        ],
+        "relations": [
+            {
+                "relation": "Sequel",
+                "entry": [
+                    {
+                        "mal_id": 1645,
+                        "type": "anime",
+                        "name": "Herlock Saga: Nibelung no Yubiwa",
+                        "url": "https://myanimelist.net/anime/1645/Herlock_Saga__Nibelung_no_Yubiwa"
+                    }
+                ]
+            },
+            {
+                "relation": "Adaptation",
+                "entry": [
+                    {
+                        "mal_id": 5115,
+                        "type": "manga",
+                        "name": "Uchuu Kaizoku Captain Herlock",
+                        "url": "https://myanimelist.net/manga/5115/Uchuu_Kaizoku_Captain_Herlock"
+                    }
+                ]
+            },
+            {
+                "relation": "Side Story",
+                "entry": [
+                    {
+                        "mal_id": 1676,
+                        "type": "anime",
+                        "name": "Cosmo Warrior Zero",
+                        "url": "https://myanimelist.net/anime/1676/Cosmo_Warrior_Zero"
+                    },
+                    {
+                        "mal_id": 1081,
+                        "type": "anime",
+                        "name": "Space Pirate Captain Herlock: Outside Legend - The Endless Odyssey",
+                        "url": "https://myanimelist.net/anime/1081/Space_Pirate_Captain_Herlock__Outside_Legend_-_The_Endless_Odyssey"
+                    }
+                ]
+            },
+            {
+                "relation": "Spin-Off",
+                "entry": [
+                    {
+                        "mal_id": 1553,
+                        "type": "anime",
+                        "name": "Queen Emeraldas",
+                        "url": "https://myanimelist.net/anime/1553/Queen_Emeraldas"
+                    }
+                ]
+            },
+            {
+                "relation": "Alternative Version",
+                "entry": [
+                    {
+                        "mal_id": 2470,
+                        "type": "anime",
+                        "name": "Uchuu Kaizoku Captain Herlock: Arcadia-gou no Nazo",
+                        "url": "https://myanimelist.net/anime/2470/Uchuu_Kaizoku_Captain_Herlock__Arcadia-gou_no_Nazo"
+                    },
+                    {
+                        "mal_id": 2202,
+                        "type": "anime",
+                        "name": "Waga Seishun no Arcadia",
+                        "url": "https://myanimelist.net/anime/2202/Waga_Seishun_no_Arcadia"
+                    },
+                    {
+                        "mal_id": 2203,
+                        "type": "anime",
+                        "name": "Waga Seishun no Arcadia: Mugen Kidou SSX",
+                        "url": "https://myanimelist.net/anime/2203/Waga_Seishun_no_Arcadia__Mugen_Kidou_SSX"
+                    },
+                    {
+                        "mal_id": 17269,
+                        "type": "anime",
+                        "name": "Captain Herlock",
+                        "url": "https://myanimelist.net/anime/17269/Captain_Herlock"
+                    },
+                    {
+                        "mal_id": 35854,
+                        "type": "anime",
+                        "name": "Zero Seiki Movie 2: Herlock",
+                        "url": "https://myanimelist.net/anime/35854/Zero_Seiki_Movie_2__Herlock"
+                    }
+                ]
+            },
+            {
+                "relation": "Alternative Setting",
+                "entry": [
+                    {
+                        "mal_id": 1706,
+                        "type": "anime",
+                        "name": "Gun Frontier",
+                        "url": "https://myanimelist.net/anime/1706/Gun_Frontier"
+                    }
+                ]
+            },
+            {
+                "relation": "Character",
+                "entry": [
+                    {
+                        "mal_id": 1301,
+                        "type": "anime",
+                        "name": "Ginga Tetsudou 999 (Movie)",
+                        "url": "https://myanimelist.net/anime/1301/Ginga_Tetsudou_999_Movie"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [
+                "\"Captain Harlock (キャプテンハーロック)\" by Ichirou Mizuki"
+            ],
+            "endings": [
+                "\"Warera no Tabidachi (われらの旅立ち)\" by Ichirou Mizuki"
+            ]
+        },
+        "external": [
+            {
+                "name": "Official Site",
+                "url": "http://www.toei-anim.co.jp/lineup/tv/captain_h/"
+            },
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=725"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=1238"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Space_Pirate_Captain_Harlock"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "https://ja.wikipedia.org/wiki/%E5%AE%87%E5%AE%99%E6%B5%B7%E8%B3%8A%E3%82%AD%E3%83%A3%E3%83%97%E3%83%86%E3%83%B3%E3%83%8F%E3%83%BC%E3%83%AD%E3%83%83%E3%82%AF"
+            }
+        ],
+        "streaming": [
+            {
+                "name": "Crunchyroll",
+                "url": "http://www.crunchyroll.com/series-49950"
+            }
+        ]
+    },
+    "episodes": [
+        {
+            "mal_id": 1,
+            "url": "https://myanimelist.net/anime/1000/Uchuu_Kaizoku_Captain_Herlock/episode/1",
+            "title": "The Jolly Roger That Flutters Through Space",
+            "title_japanese": "宇宙にはためく海賊旗",
+            "title_romanji": "Uchuu ni Hatameku Kaizokuki ",
+            "aired": "1978-03-14T00:00:00+00:00",
+            "score": 4.26,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=63736"
+        },
+        {
+            "mal_id": 2,
+            "url": "https://myanimelist.net/anime/1000/Uchuu_Kaizoku_Captain_Herlock/episode/2",
+            "title": "A Message from the Unknown",
+            "title_japanese": "未知からのメッセージ",
+            "title_romanji": "Michi Kara no Message ",
+            "aired": "1978-03-21T00:00:00+00:00",
+            "score": 4.35,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=63910"
+        },
+        {
+            "mal_id": 3,
+            "url": "https://myanimelist.net/anime/1000/Uchuu_Kaizoku_Captain_Herlock/episode/3",
+            "title": "A Woman Who Burns Like Paper",
+            "title_japanese": "紙のように燃える女",
+            "title_romanji": "Kami no You ni Moeru Onna ",
+            "aired": "1978-03-28T00:00:00+00:00",
+            "score": 4.35,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=64966"
+        },
+        {
+            "mal_id": 4,
+            "url": "https://myanimelist.net/anime/1000/Uchuu_Kaizoku_Captain_Herlock/episode/4",
+            "title": "Under the Flag of Freedom!",
+            "title_japanese": "自由の旗の下に！",
+            "title_romanji": "Jiyuu no Hata no Moto ni! ",
+            "aired": "1978-04-11T00:00:00+00:00",
+            "score": 4.45,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=65393"
+        },
+        {
+            "mal_id": 5,
+            "url": "https://myanimelist.net/anime/1000/Uchuu_Kaizoku_Captain_Herlock/episode/5",
+            "title": "To the Shores of Distant Stars…",
+            "title_japanese": "はるかなる星の涯に…",
+            "title_romanji": "Harukanaru Hoshi no Hate ni... ",
+            "aired": "1978-04-18T00:00:00+00:00",
+            "score": 4.19,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=66526"
+        },
+        {
+            "mal_id": 6,
+            "url": "https://myanimelist.net/anime/1000/Uchuu_Kaizoku_Captain_Herlock/episode/6",
+            "title": "The Phantom Mazone",
+            "title_japanese": "幻のマゾーン",
+            "title_romanji": "Maboroshi no Mazon ",
+            "aired": "1978-04-25T00:00:00+00:00",
+            "score": 4.4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=67722"
+        },
+        {
+            "mal_id": 7,
+            "url": "https://myanimelist.net/anime/1000/Uchuu_Kaizoku_Captain_Herlock/episode/7",
+            "title": "The Pyramid On the Ocean Floor",
+            "title_japanese": "海底のピラミッド",
+            "title_romanji": "Kaitei no Pyramid ",
+            "aired": "1978-05-02T00:00:00+00:00",
+            "score": 4.2,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=415615"
+        },
+        {
+            "mal_id": 8,
+            "url": "https://myanimelist.net/anime/1000/Uchuu_Kaizoku_Captain_Herlock/episode/8",
+            "title": "The Queen's Space Fleet",
+            "title_japanese": "女王の宇宙艦隊",
+            "title_romanji": "Joou no Uchuu Kantai ",
+            "aired": "1978-05-09T00:00:00+00:00",
+            "score": 4.06,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=446873"
+        },
+        {
+            "mal_id": 9,
+            "url": "https://myanimelist.net/anime/1000/Uchuu_Kaizoku_Captain_Herlock/episode/9",
+            "title": "The Fearsome Plant Life Form",
+            "title_japanese": "戦慄の植物生命体",
+            "title_romanji": "Senritsu no Shokubutsu Seimeitai ",
+            "aired": "1978-05-16T00:00:00+00:00",
+            "score": 4.37,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=472941"
+        },
+        {
+            "mal_id": 10,
+            "url": "https://myanimelist.net/anime/1000/Uchuu_Kaizoku_Captain_Herlock/episode/10",
+            "title": "Advance On the Mystery Planet",
+            "title_japanese": "謎の惑星に迫れ",
+            "title_romanji": "Nazo no Wakusei ni Semare ",
+            "aired": "1978-05-30T00:00:00+00:00",
+            "score": 4.23,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=72881"
+        },
+        {
+            "mal_id": 11,
+            "url": "https://myanimelist.net/anime/1000/Uchuu_Kaizoku_Captain_Herlock/episode/11",
+            "title": "When Lola Shines Golden",
+            "title_japanese": "ローラが金色に輝く時",
+            "title_romanji": "Lola ga Konjiki ni Kagayaku Toki ",
+            "aired": "1978-06-06T00:00:00+00:00",
+            "score": 3.72,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=74187"
+        },
+        {
+            "mal_id": 12,
+            "url": "https://myanimelist.net/anime/1000/Uchuu_Kaizoku_Captain_Herlock/episode/12",
+            "title": "Mother, Be Eternal",
+            "title_japanese": "母よ、永遠なれ",
+            "title_romanji": "Haha yo, Eien Nare ",
+            "aired": "1978-06-13T00:00:00+00:00",
+            "score": 4.2,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=295216"
+        },
+        {
+            "mal_id": 13,
+            "url": "https://myanimelist.net/anime/1000/Uchuu_Kaizoku_Captain_Herlock/episode/13",
+            "title": "The Castle of Evil in the Sea of Death",
+            "title_japanese": "死の海の魔城",
+            "title_romanji": "Shi no Umi no Majou ",
+            "aired": "1978-06-20T00:00:00+00:00",
+            "score": 4.33,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=614759"
+        },
+        {
+            "mal_id": 14,
+            "url": "https://myanimelist.net/anime/1000/Uchuu_Kaizoku_Captain_Herlock/episode/14",
+            "title": "The Mausoleum of the Sphinx",
+            "title_japanese": "スフィンクスの墓標",
+            "title_romanji": "Sphinx no Hakajirushi ",
+            "aired": "1978-06-27T00:00:00+00:00",
+            "score": 4.36,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=625987"
+        },
+        {
+            "mal_id": 15,
+            "url": "https://myanimelist.net/anime/1000/Uchuu_Kaizoku_Captain_Herlock/episode/15",
+            "title": "Tragic Love! the Northern Pole Aurora",
+            "title_japanese": "悲恋! 北極オーロラ",
+            "title_romanji": "Hiren! Hokkyoku Aurora ",
+            "aired": "1978-07-04T00:00:00+00:00",
+            "score": 4.07,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=626569"
+        },
+        {
+            "mal_id": 16,
+            "url": "https://myanimelist.net/anime/1000/Uchuu_Kaizoku_Captain_Herlock/episode/16",
+            "title": "Kei – a Farewell Song",
+            "title_japanese": "蛍・わかれうた",
+            "title_romanji": "Kei: Wakare Uta ",
+            "aired": "1978-07-11T00:00:00+00:00",
+            "score": 4.62,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=483405"
+        },
+        {
+            "mal_id": 17,
+            "url": "https://myanimelist.net/anime/1000/Uchuu_Kaizoku_Captain_Herlock/episode/17",
+            "title": "The Skeleton Hero",
+            "title_japanese": "白骨の勇者",
+            "title_romanji": "Hakkotsu no Yuusha ",
+            "aired": "1978-07-18T00:00:00+00:00",
+            "score": 4.6,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=96422"
+        },
+        {
+            "mal_id": 18,
+            "url": "https://myanimelist.net/anime/1000/Uchuu_Kaizoku_Captain_Herlock/episode/18",
+            "title": "The Evil Shadow Soldiers",
+            "title_japanese": "魔の幻影戦士",
+            "title_romanji": "Ma no Genei Senshi ",
+            "aired": "1978-07-25T00:00:00+00:00",
+            "score": 4.57,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=112728"
+        },
+        {
+            "mal_id": 19,
+            "url": "https://myanimelist.net/anime/1000/Uchuu_Kaizoku_Captain_Herlock/episode/19",
+            "title": "Queen Lafresia's Trap",
+            "title_japanese": "女王ラフレシアの罠",
+            "title_romanji": "Joou Lafresia no Wana ",
+            "aired": "1978-08-01T00:00:00+00:00",
+            "score": 4.67,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=629009"
+        },
+        {
+            "mal_id": 20,
+            "url": "https://myanimelist.net/anime/1000/Uchuu_Kaizoku_Captain_Herlock/episode/20",
+            "title": "The Extinct Planet Jura",
+            "title_japanese": "死滅のジュラ星",
+            "title_romanji": "Shimetsu no Jura-sei ",
+            "aired": "1978-08-08T00:00:00+00:00",
+            "score": 4.63,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=290840"
+        },
+        {
+            "mal_id": 21,
+            "url": "https://myanimelist.net/anime/1000/Uchuu_Kaizoku_Captain_Herlock/episode/21",
+            "title": "Gohrum! the Tragic Soldier",
+            "title_japanese": "ゴーラム！悲劇の戦士",
+            "title_romanji": "Gohrum! Higeki no Senshi ",
+            "aired": "1978-08-15T00:00:00+00:00",
+            "score": 4.52,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=113015"
+        },
+        {
+            "mal_id": 22,
+            "url": "https://myanimelist.net/anime/1000/Uchuu_Kaizoku_Captain_Herlock/episode/22",
+            "title": "The Space Graveyard: Deathshadow",
+            "title_japanese": "宇宙の墓場デスシャドウ",
+            "title_romanji": "Uchuu no Hakaba Deathshadow ",
+            "aired": "1978-08-22T00:00:00+00:00",
+            "score": 4.15,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=630557"
+        },
+        {
+            "mal_id": 23,
+            "url": "https://myanimelist.net/anime/1000/Uchuu_Kaizoku_Captain_Herlock/episode/23",
+            "title": "Yattaran, Song of a Plastic Model Fanatic",
+            "title_japanese": "ヤッタラン・プラモ狂の唄",
+            "title_romanji": "Yattaran, Puramo Kyou no Uta ",
+            "aired": "1978-08-29T00:00:00+00:00",
+            "score": 4.29,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=298210"
+        },
+        {
+            "mal_id": 24,
+            "url": "https://myanimelist.net/anime/1000/Uchuu_Kaizoku_Captain_Herlock/episode/24",
+            "title": "The Shooting Star of Pure Love",
+            "title_japanese": "純愛流れ星",
+            "title_romanji": "Junai Nagareboshi ",
+            "aired": "1978-09-05T00:00:00+00:00",
+            "score": 4.2,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=241809"
+        },
+        {
+            "mal_id": 25,
+            "url": "https://myanimelist.net/anime/1000/Uchuu_Kaizoku_Captain_Herlock/episode/25",
+            "title": "Dr. Zero and Mii",
+            "title_japanese": "ドクターゼロとミー",
+            "title_romanji": "Doctor Zero to Mi ",
+            "aired": "1978-09-12T00:00:00+00:00",
+            "score": 4.07,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=291452"
+        },
+        {
+            "mal_id": 26,
+            "url": "https://myanimelist.net/anime/1000/Uchuu_Kaizoku_Captain_Herlock/episode/26",
+            "title": "A Long Way Away Voyage",
+            "title_japanese": "はるかなる長い旅",
+            "title_romanji": "Harukanaru Nagai Tabi ",
+            "aired": "1978-09-26T00:00:00+00:00",
+            "score": 4.57,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=301557"
+        },
+        {
+            "mal_id": 27,
+            "url": "https://myanimelist.net/anime/1000/Uchuu_Kaizoku_Captain_Herlock/episode/27",
+            "title": "The Will of the Arcadia",
+            "title_japanese": "アルカディア号の意志",
+            "title_romanji": "Arcadia Gou no Ishi ",
+            "aired": "1978-10-03T00:00:00+00:00",
+            "score": 4.65,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=99301"
+        },
+        {
+            "mal_id": 28,
+            "url": "https://myanimelist.net/anime/1000/Uchuu_Kaizoku_Captain_Herlock/episode/28",
+            "title": "The Ulysses Nebula",
+            "title_japanese": "ユリシーズの星雲",
+            "title_romanji": "Ulysses no Seiun ",
+            "aired": "1978-10-10T00:00:00+00:00",
+            "score": 4.13,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=636113"
+        },
+        {
+            "mal_id": 29,
+            "url": "https://myanimelist.net/anime/1000/Uchuu_Kaizoku_Captain_Herlock/episode/29",
+            "title": "The Life-and-Death Struggle On the Rainbow Planet",
+            "title_japanese": "虹の星の死闘",
+            "title_romanji": "Niji no Hoshi no Shitou ",
+            "aired": "1978-10-17T00:00:00+00:00",
+            "score": 4.27,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=100571"
+        },
+        {
+            "mal_id": 30,
+            "url": "https://myanimelist.net/anime/1000/Uchuu_Kaizoku_Captain_Herlock/episode/30",
+            "title": "My Friend, My Youth",
+            "title_japanese": "わが友わが青春",
+            "title_romanji": "Waga Tomo Waga Seishun ",
+            "aired": "1978-10-24T00:00:00+00:00",
+            "score": 4.65,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=637103"
+        },
+        {
+            "mal_id": 31,
+            "url": "https://myanimelist.net/anime/1000/Uchuu_Kaizoku_Captain_Herlock/episode/31",
+            "title": "Arcadia – the Secret Story of Its Construction",
+            "title_japanese": "アルカディア号建造秘話",
+            "title_romanji": "Arcadia Gou Kenzou Hiwa ",
+            "aired": "1978-10-31T00:00:00+00:00",
+            "score": 4.55,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=637597"
+        },
+        {
+            "mal_id": 32,
+            "url": "https://myanimelist.net/anime/1000/Uchuu_Kaizoku_Captain_Herlock/episode/32",
+            "title": "The Call of the Star Flute",
+            "title_japanese": "星笛が呼ぶ",
+            "title_romanji": "Hoshibue ga Yobu ",
+            "aired": "1978-11-07T00:00:00+00:00",
+            "score": 4.29,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=638123"
+        },
+        {
+            "mal_id": 33,
+            "url": "https://myanimelist.net/anime/1000/Uchuu_Kaizoku_Captain_Herlock/episode/33",
+            "title": "A Love Man's Charge",
+            "title_japanese": "たった一人の突撃!",
+            "title_romanji": "Tatta Hitori no Totsugeki! ",
+            "aired": "1978-11-14T00:00:00+00:00",
+            "score": 4.36,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=638923"
+        },
+        {
+            "mal_id": 34,
+            "url": "https://myanimelist.net/anime/1000/Uchuu_Kaizoku_Captain_Herlock/episode/34",
+            "title": "A Galactic Lullaby",
+            "title_japanese": "銀河子守唄",
+            "title_romanji": "Ginga Komoriuta ",
+            "aired": "1978-11-21T00:00:00+00:00",
+            "score": 4.59,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=639239"
+        },
+        {
+            "mal_id": 35,
+            "url": "https://myanimelist.net/anime/1000/Uchuu_Kaizoku_Captain_Herlock/episode/35",
+            "title": "The Beautiful Mysterious Woman",
+            "title_japanese": "美しき謎の女",
+            "title_romanji": "Utsukushiki Nazo no Onna ",
+            "aired": "1978-11-28T00:00:00+00:00",
+            "score": 4.59,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=639995"
+        },
+        {
+            "mal_id": 36,
+            "url": "https://myanimelist.net/anime/1000/Uchuu_Kaizoku_Captain_Herlock/episode/36",
+            "title": "The Eve of the Showdown",
+            "title_japanese": "決戦前夜",
+            "title_romanji": "Kessen Zenya ",
+            "aired": "1978-12-05T00:00:00+00:00",
+            "score": 4.32,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=640343"
+        },
+        {
+            "mal_id": 37,
+            "url": "https://myanimelist.net/anime/1000/Uchuu_Kaizoku_Captain_Herlock/episode/37",
+            "title": "Tears On a Red Sweater",
+            "title_japanese": "赤いセーターの涙",
+            "title_romanji": "Akai Sweater no Namida ",
+            "aired": "1978-12-19T00:00:00+00:00",
+            "score": 4.5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=640817"
+        },
+        {
+            "mal_id": 38,
+            "url": "https://myanimelist.net/anime/1000/Uchuu_Kaizoku_Captain_Herlock/episode/38",
+            "title": "Farewell! Mayu",
+            "title_japanese": "さらば！まゆ",
+            "title_romanji": "Saraba! Mayu ",
+            "aired": "1979-01-09T00:00:00+00:00",
+            "score": 4.42,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=642497"
+        },
+        {
+            "mal_id": 39,
+            "url": "https://myanimelist.net/anime/1000/Uchuu_Kaizoku_Captain_Herlock/episode/39",
+            "title": "Heroic! the Commander Dies",
+            "title_japanese": "壮絶！長官死す",
+            "title_romanji": "Souzetsu! Kan Shisu ",
+            "aired": "1979-01-16T00:00:00+00:00",
+            "score": 4.59,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=395803"
+        },
+        {
+            "mal_id": 40,
+            "url": "https://myanimelist.net/anime/1000/Uchuu_Kaizoku_Captain_Herlock/episode/40",
+            "title": "Then, the Angels Sang",
+            "title_japanese": "その時天使は歌った",
+            "title_romanji": "Sono Toki Tenshi wa Utatta ",
+            "aired": "1979-01-23T00:00:00+00:00",
+            "score": 4.36,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=645077"
+        },
+        {
+            "mal_id": 41,
+            "url": "https://myanimelist.net/anime/1000/Uchuu_Kaizoku_Captain_Herlock/episode/41",
+            "title": "Duel! the Queen VS. Harlock",
+            "title_japanese": "決闘！女王対ハーロック",
+            "title_romanji": "Kettou! Joou Tai Harlock ",
+            "aired": "1979-01-30T00:00:00+00:00",
+            "score": 4.35,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=501367"
+        },
+        {
+            "mal_id": 42,
+            "url": "https://myanimelist.net/anime/1000/Uchuu_Kaizoku_Captain_Herlock/episode/42",
+            "title": "Farewell, Space Outlaw",
+            "title_japanese": "さらば宇宙の無法者",
+            "title_romanji": "Saraba Uchuu no Muhousha ",
+            "aired": "1979-02-13T00:00:00+00:00",
+            "score": 4.44,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=104863"
+        }
+    ]
+}

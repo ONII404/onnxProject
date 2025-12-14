@@ -1,0 +1,176 @@
+{
+    "id": 19947,
+    "fetched_at": "Sun Dec 14 10:01:23 2025",
+    "metadata": {
+        "mal_id": 19947,
+        "url": "https://myanimelist.net/anime/19947/Ikkyuu-san_1978",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/11/53191.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/11/53191t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/11/53191l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/11/53191.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/11/53191t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/11/53191l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Ikkyuu-san (1978)"
+            },
+            {
+                "type": "Synonym",
+                "title": "Ikkyu-san"
+            },
+            {
+                "type": "Synonym",
+                "title": "Highschool Baseball Ninja"
+            },
+            {
+                "type": "Japanese",
+                "title": "一球さん"
+            }
+        ],
+        "title": "Ikkyuu-san (1978)",
+        "title_english": null,
+        "title_japanese": "一球さん",
+        "title_synonyms": [
+            "Ikkyu-san",
+            "Highschool Baseball Ninja"
+        ],
+        "type": "TV",
+        "source": "Unknown",
+        "episodes": 26,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "1978-04-10T00:00:00+00:00",
+            "to": "1978-10-23T00:00:00+00:00",
+            "prop": {
+                "from": {
+                    "day": 10,
+                    "month": 4,
+                    "year": 1978
+                },
+                "to": {
+                    "day": 23,
+                    "month": 10,
+                    "year": 1978
+                }
+            },
+            "string": "Apr 10, 1978 to Oct 23, 1978"
+        },
+        "duration": "23 min per ep",
+        "rating": "PG-13 - Teens 13 or older",
+        "score": 6.24,
+        "scored_by": 166,
+        "rank": 8913,
+        "popularity": 14861,
+        "members": 1018,
+        "favorites": 3,
+        "synopsis": "High-school student Ikkyuu knows nothing about baseball, but his talents are recognized by the manager of the baseball club, and he takes up this enchanting sport. While his ignorance of the game leads him to make many mistakes, Ikkyuu - who is in fact a descendant of ninja - displays his superhuman abilities and leads the team to the High School Baseball Championships.\n\n(Source: Nippon Animation)",
+        "background": "",
+        "season": "spring",
+        "year": 1978,
+        "broadcast": {
+            "day": null,
+            "time": null,
+            "timezone": null,
+            "string": "Unknown"
+        },
+        "producers": [],
+        "licensors": [],
+        "studios": [
+            {
+                "mal_id": 22,
+                "type": "anime",
+                "name": "Nippon Animation",
+                "url": "https://myanimelist.net/anime/producer/22/Nippon_Animation"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 30,
+                "type": "anime",
+                "name": "Sports",
+                "url": "https://myanimelist.net/anime/genre/30/Sports"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [
+            {
+                "mal_id": 23,
+                "type": "anime",
+                "name": "School",
+                "url": "https://myanimelist.net/anime/genre/23/School"
+            },
+            {
+                "mal_id": 77,
+                "type": "anime",
+                "name": "Team Sports",
+                "url": "https://myanimelist.net/anime/genre/77/Team_Sports"
+            }
+        ],
+        "demographics": [
+            {
+                "mal_id": 27,
+                "type": "anime",
+                "name": "Shounen",
+                "url": "https://myanimelist.net/anime/genre/27/Shounen"
+            }
+        ],
+        "relations": [
+            {
+                "relation": "Adaptation",
+                "entry": [
+                    {
+                        "mal_id": 141711,
+                        "type": "manga",
+                        "name": "Ikkyuu-san",
+                        "url": "https://myanimelist.net/manga/141711/Ikkyuu-san"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [
+                "\"Seishun no Uta ga Kikoeru (青春の歌が聞こえる)\" by Araki Toyohisa"
+            ],
+            "endings": [
+                "\"Ikkyuu-san (一球さん)\" by Horie Mitsuko"
+            ]
+        },
+        "external": [
+            {
+                "name": "Official Site",
+                "url": "http://www.nippon-animation.co.jp/work/ikkyu_san.html"
+            },
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=1679"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=110"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": []
+}

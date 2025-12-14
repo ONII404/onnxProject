@@ -1,0 +1,796 @@
+{
+    "id": 2921,
+    "fetched_at": "Sun Dec 14 08:15:30 2025",
+    "metadata": {
+        "mal_id": 2921,
+        "url": "https://myanimelist.net/anime/2921/Ashita_no_Joe_2",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/3/45028.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/3/45028t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/3/45028l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/3/45028.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/3/45028t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/3/45028l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Ashita no Joe 2"
+            },
+            {
+                "type": "Synonym",
+                "title": "Rocky Joe 2"
+            },
+            {
+                "type": "Japanese",
+                "title": "あしたのジョー２"
+            },
+            {
+                "type": "English",
+                "title": "Tomorrow's Joe 2"
+            },
+            {
+                "type": "German",
+                "title": "N/A"
+            },
+            {
+                "type": "Spanish",
+                "title": "El Campeón/ El mañana de Joe 2"
+            }
+        ],
+        "title": "Ashita no Joe 2",
+        "title_english": "Tomorrow's Joe 2",
+        "title_japanese": "あしたのジョー２",
+        "title_synonyms": [
+            "Rocky Joe 2"
+        ],
+        "type": "TV",
+        "source": "Manga",
+        "episodes": 47,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "1980-10-13T00:00:00+00:00",
+            "to": "1981-08-31T00:00:00+00:00",
+            "prop": {
+                "from": {
+                    "day": 13,
+                    "month": 10,
+                    "year": 1980
+                },
+                "to": {
+                    "day": 31,
+                    "month": 8,
+                    "year": 1981
+                }
+            },
+            "string": "Oct 13, 1980 to Aug 31, 1981"
+        },
+        "duration": "24 min per ep",
+        "rating": "PG-13 - Teens 13 or older",
+        "score": 8.77,
+        "scored_by": 25056,
+        "rank": 45,
+        "popularity": 3023,
+        "members": 64752,
+        "favorites": 3217,
+        "synopsis": "Yabuki Joe is left downhearted and hopeless after a certain tragic event. In attempt to put the past behind him, Joe leaves the gym behind and begins wandering. On his travels he comes across the likes of Wolf Kanagushi and Goromaki Gondo, men who unintentionally fan the dying embers inside him, leading him to putting his wanderings to an end. His return home puts Joe back on the path to boxing, but unknown to himself and his trainer, he now suffers deep-set issues holding him back from fighting. In attempt to quell those issues, Carlos Rivera, a world renowned boxer is invited from Venezuela to help Joe recover.",
+        "background": "",
+        "season": "fall",
+        "year": 1980,
+        "broadcast": {
+            "day": null,
+            "time": null,
+            "timezone": null,
+            "string": "Unknown"
+        },
+        "producers": [
+            {
+                "mal_id": 583,
+                "type": "anime",
+                "name": "Annapuru",
+                "url": "https://myanimelist.net/anime/producer/583/Annapuru"
+            }
+        ],
+        "licensors": [],
+        "studios": [
+            {
+                "mal_id": 65,
+                "type": "anime",
+                "name": "Tokyo Movie Shinsha",
+                "url": "https://myanimelist.net/anime/producer/65/Tokyo_Movie_Shinsha"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 8,
+                "type": "anime",
+                "name": "Drama",
+                "url": "https://myanimelist.net/anime/genre/8/Drama"
+            },
+            {
+                "mal_id": 30,
+                "type": "anime",
+                "name": "Sports",
+                "url": "https://myanimelist.net/anime/genre/30/Sports"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [
+            {
+                "mal_id": 54,
+                "type": "anime",
+                "name": "Combat Sports",
+                "url": "https://myanimelist.net/anime/genre/54/Combat_Sports"
+            }
+        ],
+        "demographics": [
+            {
+                "mal_id": 27,
+                "type": "anime",
+                "name": "Shounen",
+                "url": "https://myanimelist.net/anime/genre/27/Shounen"
+            }
+        ],
+        "relations": [
+            {
+                "relation": "Prequel",
+                "entry": [
+                    {
+                        "mal_id": 2402,
+                        "type": "anime",
+                        "name": "Ashita no Joe",
+                        "url": "https://myanimelist.net/anime/2402/Ashita_no_Joe"
+                    }
+                ]
+            },
+            {
+                "relation": "Adaptation",
+                "entry": [
+                    {
+                        "mal_id": 1303,
+                        "type": "manga",
+                        "name": "Ashita no Joe",
+                        "url": "https://myanimelist.net/manga/1303/Ashita_no_Joe"
+                    }
+                ]
+            },
+            {
+                "relation": "Alternative Version",
+                "entry": [
+                    {
+                        "mal_id": 2922,
+                        "type": "anime",
+                        "name": "Ashita no Joe 2 (Movie)",
+                        "url": "https://myanimelist.net/anime/2922/Ashita_no_Joe_2_Movie"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [
+                "1: \"Kizudarake no Eikou\" by Takeshi Obo (eps 1-25)",
+                "2: \"MIDNIGHT BLUES\" by Ichiro Araki (eps 26-47)"
+            ],
+            "endings": [
+                "1: \"Hateshinaki Yami no Kanata ni\" by Takeshi Obo (eps 1-25)",
+                "2: \"Hateshinaki Yami no Kanata ni\" by Ichiro Araki (eps 26-47)"
+            ]
+        },
+        "external": [
+            {
+                "name": "Official Site",
+                "url": "http://www.tms-e.com/library/old/tv/data/t_joe2.html"
+            },
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=1458"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=915"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "http://en.wikipedia.org/wiki/Ashita_No_Joe"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "https://ja.wikipedia.org/wiki/%E3%81%82%E3%81%97%E3%81%9F%E3%81%AE%E3%82%B8%E3%83%A7%E3%83%BC"
+            },
+            {
+                "name": "Syoboi",
+                "url": "https://cal.syoboi.jp/tid/1075"
+            }
+        ],
+        "streaming": [
+            {
+                "name": "Crunchyroll",
+                "url": "http://www.crunchyroll.com/series-259847"
+            }
+        ]
+    },
+    "episodes": [
+        {
+            "mal_id": 1,
+            "url": "https://myanimelist.net/anime/2921/Ashita_no_Joe_2/episode/1",
+            "title": "And Then, He Returned...",
+            "title_japanese": "そして、帰ってきた…",
+            "title_romanji": "Soshite, Kaette Kita... ",
+            "aired": "1980-10-13T00:00:00+00:00",
+            "score": 4.89,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1283971"
+        },
+        {
+            "mal_id": 2,
+            "url": "https://myanimelist.net/anime/2921/Ashita_no_Joe_2/episode/2",
+            "title": "Return to the Ring",
+            "title_japanese": "男一匹花一輪…リングに賭けた",
+            "title_romanji": "Otoko Ippiki Hana Ichirin... Ring ni Kaketa ",
+            "aired": "1980-10-20T00:00:00+00:00",
+            "score": 4.91,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1283989"
+        },
+        {
+            "mal_id": 3,
+            "url": "https://myanimelist.net/anime/2921/Ashita_no_Joe_2/episode/3",
+            "title": "The Conspiracy",
+            "title_japanese": "地獄からの使者…矢吹丈",
+            "title_romanji": "Jigoku kara no Shisha, Yabuki Joe ",
+            "aired": "1980-10-27T00:00:00+00:00",
+            "score": 4.87,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1284053"
+        },
+        {
+            "mal_id": 4,
+            "url": "https://myanimelist.net/anime/2921/Ashita_no_Joe_2/episode/4",
+            "title": "The Key Weakness",
+            "title_japanese": "その時、十点鐘は鳴った",
+            "title_romanji": "Sono Toki, Juutenkane wa Natta ",
+            "aired": "1980-11-03T00:00:00+00:00",
+            "score": 4.83,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1284151"
+        },
+        {
+            "mal_id": 5,
+            "url": "https://myanimelist.net/anime/2921/Ashita_no_Joe_2/episode/5",
+            "title": "Difficult Moments",
+            "title_japanese": "幻の…あのテンプルを撃て！",
+            "title_romanji": "Maboroshi no... Ano Temple wo Ute! ",
+            "aired": "1980-11-10T00:00:00+00:00",
+            "score": 4.72,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1284171"
+        },
+        {
+            "mal_id": 6,
+            "url": "https://myanimelist.net/anime/2921/Ashita_no_Joe_2/episode/6",
+            "title": "An Old Tactic",
+            "title_japanese": "吠えろ…かませ犬",
+            "title_romanji": "Hoero... Kamase Inu ",
+            "aired": "1980-11-17T00:00:00+00:00",
+            "score": 4.56,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1284245"
+        },
+        {
+            "mal_id": 7,
+            "url": "https://myanimelist.net/anime/2921/Ashita_no_Joe_2/episode/7",
+            "title": "The Arena Closes",
+            "title_japanese": "さまよえる…野獣のように",
+            "title_romanji": "Samayoeru... Yajuu no You ni ",
+            "aired": "1980-11-24T00:00:00+00:00",
+            "score": 4.34,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1284253"
+        },
+        {
+            "mal_id": 8,
+            "url": "https://myanimelist.net/anime/2921/Ashita_no_Joe_2/episode/8",
+            "title": "The Secret Blow of Carlos",
+            "title_japanese": "あいつが…燃える男カーロス",
+            "title_romanji": "Aitsu ga... Moeru Otoko Carlos ",
+            "aired": "1980-12-01T00:00:00+00:00",
+            "score": 4.56,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1284267"
+        },
+        {
+            "mal_id": 9,
+            "url": "https://myanimelist.net/anime/2921/Ashita_no_Joe_2/episode/9",
+            "title": "The Continuous Dream",
+            "title_japanese": "そして…野獣は甦った",
+            "title_romanji": "Soshite... Yajuu wa Yomigaetta ",
+            "aired": "1980-12-08T00:00:00+00:00",
+            "score": 4.73,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1284279"
+        },
+        {
+            "mal_id": 10,
+            "url": "https://myanimelist.net/anime/2921/Ashita_no_Joe_2/episode/10",
+            "title": "The Christmas Present",
+            "title_japanese": "クリスマスイブ…その贈り物は",
+            "title_romanji": "Christmas Eve... Sono Okurimono wa ",
+            "aired": "1980-12-15T00:00:00+00:00",
+            "score": 4.51,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1284297"
+        },
+        {
+            "mal_id": 11,
+            "url": "https://myanimelist.net/anime/2921/Ashita_no_Joe_2/episode/11",
+            "title": "The Encounter of New Year's Day (Part 1)",
+            "title_japanese": "死闘の始まり…カーロスVSジョー",
+            "title_romanji": "Shitou no Hajimari... Carlos Vs. Joe ",
+            "aired": "1980-12-22T00:00:00+00:00",
+            "score": 4.74,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1293813"
+        },
+        {
+            "mal_id": 12,
+            "url": "https://myanimelist.net/anime/2921/Ashita_no_Joe_2/episode/12",
+            "title": "The Encounter of New Year's Day (Part 2)",
+            "title_japanese": "吹雪の夜... その果てしなき戦い",
+            "title_romanji": "Fubuki no Yoru... Sono Hateshinaki Tatakai ",
+            "aired": "1980-12-29T00:00:00+00:00",
+            "score": 4.86,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=731333"
+        },
+        {
+            "mal_id": 13,
+            "url": "https://myanimelist.net/anime/2921/Ashita_no_Joe_2/episode/13",
+            "title": "A True Friend",
+            "title_japanese": "丹下ジムは…不滅です",
+            "title_romanji": "Tange Jim wa... Fumetsu Desu ",
+            "aired": "1981-01-05T00:00:00+00:00",
+            "score": 4.41,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1293831"
+        },
+        {
+            "mal_id": 14,
+            "url": "https://myanimelist.net/anime/2921/Ashita_no_Joe_2/episode/14",
+            "title": "To Seek Out an Adversary",
+            "title_japanese": "どこにある…ジョーの青春",
+            "title_romanji": "Doko ni Aru... Jou no Seishun ",
+            "aired": "1981-01-12T00:00:00+00:00",
+            "score": 4.72,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1294061"
+        },
+        {
+            "mal_id": 15,
+            "url": "https://myanimelist.net/anime/2921/Ashita_no_Joe_2/episode/15",
+            "title": "Bad News",
+            "title_japanese": "誰のために…必殺ラッシュ",
+            "title_romanji": "Dare no Tame ni... Hissatsu Rush ",
+            "aired": "1981-01-19T00:00:00+00:00",
+            "score": 4.74,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1294399"
+        },
+        {
+            "mal_id": 16,
+            "url": "https://myanimelist.net/anime/2921/Ashita_no_Joe_2/episode/16",
+            "title": "The Title is Still Far Away",
+            "title_japanese": "遠い照準か…世界への道",
+            "title_romanji": "Tooi Shoujun ka... Sekai e no Michi ",
+            "aired": "1981-01-26T00:00:00+00:00",
+            "score": 4.54,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1294407"
+        },
+        {
+            "mal_id": 17,
+            "url": "https://myanimelist.net/anime/2921/Ashita_no_Joe_2/episode/17",
+            "title": "An Unexpected Arrival",
+            "title_japanese": "姿を見せた…大いなる標的",
+            "title_romanji": "Sugata wo Miseta... Ooinaru Hyouteki ",
+            "aired": "1981-02-02T00:00:00+00:00",
+            "score": 4.62,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1294423"
+        },
+        {
+            "mal_id": 18,
+            "url": "https://myanimelist.net/anime/2921/Ashita_no_Joe_2/episode/18",
+            "title": "Icy Eyes",
+            "title_japanese": "あのナックルが…烙印のメッセージ",
+            "title_romanji": "Ano Knuckle ga... Rakuin no Message ",
+            "aired": "1981-02-09T00:00:00+00:00",
+            "score": 4.54,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1294435"
+        },
+        {
+            "mal_id": 19,
+            "url": "https://myanimelist.net/anime/2921/Ashita_no_Joe_2/episode/19",
+            "title": "Tobi, Man or Robot?",
+            "title_japanese": "戦うコンピューター…金竜飛",
+            "title_romanji": "Tatakau Computer... Kinryuubi ",
+            "aired": "1981-02-16T00:00:00+00:00",
+            "score": 4.5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1308205"
+        },
+        {
+            "mal_id": 20,
+            "url": "https://myanimelist.net/anime/2921/Ashita_no_Joe_2/episode/20",
+            "title": "Weight Problems",
+            "title_japanese": "俺のバンタム…減量への挑戦",
+            "title_romanji": "Ore no Bantamu... Genryou e no Chousen ",
+            "aired": "1981-02-23T00:00:00+00:00",
+            "score": 4.6,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1308221"
+        },
+        {
+            "mal_id": 21,
+            "url": "https://myanimelist.net/anime/2921/Ashita_no_Joe_2/episode/21",
+            "title": "Tricky Uncle Frank",
+            "title_japanese": "力石の…唄が聞こえる",
+            "title_romanji": "Rikiishi no... Uta ga Kikoeru ",
+            "aired": "1981-03-02T00:00:00+00:00",
+            "score": 4.47,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1358797"
+        },
+        {
+            "mal_id": 22,
+            "url": "https://myanimelist.net/anime/2921/Ashita_no_Joe_2/episode/22",
+            "title": "At All Costs",
+            "title_japanese": "そして…計量の朝",
+            "title_romanji": "Soshite... Keiryou no Asa ",
+            "aired": "1981-03-09T00:00:00+00:00",
+            "score": 4.55,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1308577"
+        },
+        {
+            "mal_id": 23,
+            "url": "https://myanimelist.net/anime/2921/Ashita_no_Joe_2/episode/23",
+            "title": "The Icy, Wild Animal",
+            "title_japanese": "燃える野獣と…氷",
+            "title_romanji": "Moeru Yajuu to... Koori ",
+            "aired": "1981-03-16T00:00:00+00:00",
+            "score": 4.87,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1308711"
+        },
+        {
+            "mal_id": 24,
+            "url": "https://myanimelist.net/anime/2921/Ashita_no_Joe_2/episode/24",
+            "title": "An Exciting Encounter",
+            "title_japanese": "ゴングが鳴った…悪魔のリング",
+            "title_romanji": "Gong ga Natta... Akuma no Ring ",
+            "aired": "1981-03-23T00:00:00+00:00",
+            "score": 4.6,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1359072"
+        },
+        {
+            "mal_id": 25,
+            "url": "https://myanimelist.net/anime/2921/Ashita_no_Joe_2/episode/25",
+            "title": "The 6th Round Miracle",
+            "title_japanese": "第6ラウンド…奇跡が起った",
+            "title_romanji": "Dai 6 Round... Kiseki ga Okotta ",
+            "aired": "1981-03-30T00:00:00+00:00",
+            "score": 4.73,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=511311"
+        },
+        {
+            "mal_id": 26,
+            "url": "https://myanimelist.net/anime/2921/Ashita_no_Joe_2/episode/26",
+            "title": "Memories of an Old Champion",
+            "title_japanese": "チャンピオン…そして、敗者の栄光",
+            "title_romanji": "Champion... Soshite, Haisha no Eikou ",
+            "aired": "1981-04-06T00:00:00+00:00",
+            "score": 4.64,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1308761"
+        },
+        {
+            "mal_id": 27,
+            "url": "https://myanimelist.net/anime/2921/Ashita_no_Joe_2/episode/27",
+            "title": "Heart of Boxer",
+            "title_japanese": "ボクシング…その鎮魂歌",
+            "title_romanji": "Boxing... Sono Chinkonka ",
+            "aired": "1981-04-13T00:00:00+00:00",
+            "score": 4.59,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1309323"
+        },
+        {
+            "mal_id": 28,
+            "url": "https://myanimelist.net/anime/2921/Ashita_no_Joe_2/episode/28",
+            "title": "Joe in Hawaii",
+            "title_japanese": "ホセがいる…ハワイへ",
+            "title_romanji": "Jose ga Iru... Hawaii e ",
+            "aired": "1981-04-20T00:00:00+00:00",
+            "score": 4.64,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1309343"
+        },
+        {
+            "mal_id": 29,
+            "url": "https://myanimelist.net/anime/2921/Ashita_no_Joe_2/episode/29",
+            "title": "Defending the Title",
+            "title_japanese": "初防衛なるか…矢吹丈",
+            "title_romanji": "Hatsuboueinaruka... Yabukitake ",
+            "aired": "1981-04-27T00:00:00+00:00",
+            "score": 4.62,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1309637"
+        },
+        {
+            "mal_id": 30,
+            "url": "https://myanimelist.net/anime/2921/Ashita_no_Joe_2/episode/30",
+            "title": "The Great Champion Jose",
+            "title_japanese": "偉大なるチャンピオン…ホセ",
+            "title_romanji": "Idainaru Champion... Jose ",
+            "aired": "1981-05-04T00:00:00+00:00",
+            "score": 4.66,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1359630"
+        },
+        {
+            "mal_id": 31,
+            "url": "https://myanimelist.net/anime/2921/Ashita_no_Joe_2/episode/31",
+            "title": "The Sign of the Champion",
+            "title_japanese": "Vサイン…その意味するものは",
+            "title_romanji": "V Sign... Sono Imi Suru Mono wa ",
+            "aired": "1981-05-11T00:00:00+00:00",
+            "score": 4.68,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1309781"
+        },
+        {
+            "mal_id": 32,
+            "url": "https://myanimelist.net/anime/2921/Ashita_no_Joe_2/episode/32",
+            "title": "Return Home",
+            "title_japanese": "さらば…古き愛しきものたち",
+            "title_romanji": "Saraba... Furuki Itoshiki Monotachi ",
+            "aired": "1981-05-18T00:00:00+00:00",
+            "score": 4.66,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1310705"
+        },
+        {
+            "mal_id": 33,
+            "url": "https://myanimelist.net/anime/2921/Ashita_no_Joe_2/episode/33",
+            "title": "Another Challenge",
+            "title_japanese": "アメリカから来た13人目のキング！？",
+            "title_romanji": "America kara Kita 13 Ninme no King!? ",
+            "aired": "1981-05-25T00:00:00+00:00",
+            "score": 4.57,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1310715"
+        },
+        {
+            "mal_id": 34,
+            "url": "https://myanimelist.net/anime/2921/Ashita_no_Joe_2/episode/34",
+            "title": "The Incident",
+            "title_japanese": "カードと共に散った…あいつ",
+            "title_romanji": "Card to Tomo ni Chitta... Aitsu ",
+            "aired": "1981-06-01T00:00:00+00:00",
+            "score": 4.7,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1310905"
+        },
+        {
+            "mal_id": 35,
+            "url": "https://myanimelist.net/anime/2921/Ashita_no_Joe_2/episode/35",
+            "title": "The Champion Hermit",
+            "title_japanese": "チャンピオンは…ひとり",
+            "title_romanji": "Champion wa... Hitori ",
+            "aired": "1981-06-08T00:00:00+00:00",
+            "score": 4.67,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1359721"
+        },
+        {
+            "mal_id": 36,
+            "url": "https://myanimelist.net/anime/2921/Ashita_no_Joe_2/episode/36",
+            "title": "The Strategy of Alex",
+            "title_japanese": "葉子…新たなる企て",
+            "title_romanji": "Youko... Aratanaru Kuwadate ",
+            "aired": "1981-06-15T00:00:00+00:00",
+            "score": 4.45,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1359746"
+        },
+        {
+            "mal_id": 37,
+            "url": "https://myanimelist.net/anime/2921/Ashita_no_Joe_2/episode/37",
+            "title": "The Tiger",
+            "title_japanese": "野性児その名は…ハリマオ",
+            "title_romanji": "Yaseiji Sono Na wa... Harimao ",
+            "aired": "1981-06-22T00:00:00+00:00",
+            "score": 4.17,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1359975"
+        },
+        {
+            "mal_id": 38,
+            "url": "https://myanimelist.net/anime/2921/Ashita_no_Joe_2/episode/38",
+            "title": "Risky Training",
+            "title_japanese": "意外な訪問者…ゴロマキ権藤",
+            "title_romanji": "Igai na Houmonsha... Goromaki Gondou ",
+            "aired": "1981-06-29T00:00:00+00:00",
+            "score": 4.38,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1359978"
+        },
+        {
+            "mal_id": 39,
+            "url": "https://myanimelist.net/anime/2921/Ashita_no_Joe_2/episode/39",
+            "title": "The Punch-drunk Fighter",
+            "title_japanese": "ジャングルに…野獣が二匹",
+            "title_romanji": "Jungle ni... Yajuu ga Nihiki ",
+            "aired": "1981-07-06T00:00:00+00:00",
+            "score": 4.8,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1359998"
+        },
+        {
+            "mal_id": 40,
+            "url": "https://myanimelist.net/anime/2921/Ashita_no_Joe_2/episode/40",
+            "title": "The Goal is Near",
+            "title_japanese": "燃えろジョー…標的が近い",
+            "title_romanji": "Moero Joe... Hyouteki ga Chikai ",
+            "aired": "1981-07-13T00:00:00+00:00",
+            "score": 4.79,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1360008"
+        },
+        {
+            "mal_id": 41,
+            "url": "https://myanimelist.net/anime/2921/Ashita_no_Joe_2/episode/41",
+            "title": "Mendoza's arrival",
+            "title_japanese": "ホセ来日…闘いの日はせまった！",
+            "title_romanji": "Jose Rainichi... Tatakai no Hi wa Sematta! ",
+            "aired": "1981-07-20T00:00:00+00:00",
+            "score": 4.71,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1294735"
+        },
+        {
+            "mal_id": 42,
+            "url": "https://myanimelist.net/anime/2921/Ashita_no_Joe_2/episode/42",
+            "title": "Alex's Fears",
+            "title_japanese": "衝撃…葉子の予感",
+            "title_romanji": "Shougeki... Youko no Yokan ",
+            "aired": "1981-07-27T00:00:00+00:00",
+            "score": 4.53,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1368104"
+        },
+        {
+            "mal_id": 43,
+            "url": "https://myanimelist.net/anime/2921/Ashita_no_Joe_2/episode/43",
+            "title": "Mountain Training",
+            "title_japanese": "ジョー・段平…二人の日々",
+            "title_romanji": "Joe Danbira... Futari no Hibi ",
+            "aired": "1981-08-03T00:00:00+00:00",
+            "score": 4.64,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1368114"
+        },
+        {
+            "mal_id": 44,
+            "url": "https://myanimelist.net/anime/2921/Ashita_no_Joe_2/episode/44",
+            "title": "I Love You, Joe",
+            "title_japanese": "葉子…その愛",
+            "title_romanji": "Youko... Sono Ai ",
+            "aired": "1981-08-10T00:00:00+00:00",
+            "score": 4.86,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=723699"
+        },
+        {
+            "mal_id": 45,
+            "url": "https://myanimelist.net/anime/2921/Ashita_no_Joe_2/episode/45",
+            "title": "The Battle Begins",
+            "title_japanese": "ホセ対ジョー…闘いのゴングが鳴った",
+            "title_romanji": "Jose Taijou... Tatakai no Gong ga Natta ",
+            "aired": "1981-08-17T00:00:00+00:00",
+            "score": 4.9,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1368144"
+        },
+        {
+            "mal_id": 46,
+            "url": "https://myanimelist.net/anime/2921/Ashita_no_Joe_2/episode/46",
+            "title": "Joe Does Not Surrender",
+            "title_japanese": "凄絶…果てしなき死闘",
+            "title_romanji": "Seizetsu... Hateshinaki Shitou ",
+            "aired": "1981-08-24T00:00:00+00:00",
+            "score": 4.93,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1368151"
+        },
+        {
+            "mal_id": 47,
+            "url": "https://myanimelist.net/anime/2921/Ashita_no_Joe_2/episode/47",
+            "title": "The Great End",
+            "title_japanese": "青春はいま…燃えつきた",
+            "title_romanji": "Seishun wa Ima... Moetsukita ",
+            "aired": "1981-08-31T00:00:00+00:00",
+            "score": 4.86,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=627005"
+        }
+    ]
+}

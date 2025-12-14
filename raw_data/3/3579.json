@@ -1,0 +1,850 @@
+{
+    "id": 3579,
+    "fetched_at": "Sun Dec 14 08:25:58 2025",
+    "metadata": {
+        "mal_id": 3579,
+        "url": "https://myanimelist.net/anime/3579/Getter_Robo",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/12/6039.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/12/6039t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/12/6039l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/12/6039.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/12/6039t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/12/6039l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Getter Robo"
+            },
+            {
+                "type": "Synonym",
+                "title": "Getta Robo"
+            },
+            {
+                "type": "Synonym",
+                "title": "Space Robot"
+            },
+            {
+                "type": "Japanese",
+                "title": "ゲッターロボ"
+            },
+            {
+                "type": "English",
+                "title": "Getter Robo"
+            }
+        ],
+        "title": "Getter Robo",
+        "title_english": "Getter Robo",
+        "title_japanese": "ゲッターロボ",
+        "title_synonyms": [
+            "Getta Robo",
+            "Space Robot"
+        ],
+        "type": "TV",
+        "source": "Manga",
+        "episodes": 51,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "1974-04-04T00:00:00+00:00",
+            "to": "1975-05-08T00:00:00+00:00",
+            "prop": {
+                "from": {
+                    "day": 4,
+                    "month": 4,
+                    "year": 1974
+                },
+                "to": {
+                    "day": 8,
+                    "month": 5,
+                    "year": 1975
+                }
+            },
+            "string": "Apr 4, 1974 to May 8, 1975"
+        },
+        "duration": "25 min per ep",
+        "rating": "PG-13 - Teens 13 or older",
+        "score": 6.69,
+        "scored_by": 2548,
+        "rank": 6151,
+        "popularity": 7182,
+        "members": 9671,
+        "favorites": 26,
+        "synopsis": "From deep within the Earth's surface, the Dinosaur Kingdom make their move to wipe out mankind and conquer the planet with their mechanical dinosaurs. After a prototype Getter Robo is shot down by a mechanical dinosaur, the Saotome Research Institute decides to use the real Getter Robo, which is combat-capable. Due to a lack of pilots in the institute, Ryo Nagare goes to his college to persuade martial artist Musashi Tomoe and outcast Hayato Jin to join him and pilot the Getter Machines to combat the new threat and protect mankind.\n\n(Source: ANN)",
+        "background": "",
+        "season": "spring",
+        "year": 1974,
+        "broadcast": {
+            "day": "Thursdays",
+            "time": "19:00",
+            "timezone": "Asia/Tokyo",
+            "string": "Thursdays at 19:00 (JST)"
+        },
+        "producers": [
+            {
+                "mal_id": 921,
+                "type": "anime",
+                "name": "Dynamic Planning",
+                "url": "https://myanimelist.net/anime/producer/921/Dynamic_Planning"
+            }
+        ],
+        "licensors": [],
+        "studios": [
+            {
+                "mal_id": 18,
+                "type": "anime",
+                "name": "Toei Animation",
+                "url": "https://myanimelist.net/anime/producer/18/Toei_Animation"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 24,
+                "type": "anime",
+                "name": "Sci-Fi",
+                "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [
+            {
+                "mal_id": 18,
+                "type": "anime",
+                "name": "Mecha",
+                "url": "https://myanimelist.net/anime/genre/18/Mecha"
+            }
+        ],
+        "demographics": [
+            {
+                "mal_id": 27,
+                "type": "anime",
+                "name": "Shounen",
+                "url": "https://myanimelist.net/anime/genre/27/Shounen"
+            }
+        ],
+        "relations": [
+            {
+                "relation": "Sequel",
+                "entry": [
+                    {
+                        "mal_id": 4486,
+                        "type": "anime",
+                        "name": "Getter Robo G",
+                        "url": "https://myanimelist.net/anime/4486/Getter_Robo_G"
+                    }
+                ]
+            },
+            {
+                "relation": "Adaptation",
+                "entry": [
+                    {
+                        "mal_id": 1551,
+                        "type": "manga",
+                        "name": "Getter Robo",
+                        "url": "https://myanimelist.net/manga/1551/Getter_Robo"
+                    }
+                ]
+            },
+            {
+                "relation": "Spin-Off",
+                "entry": [
+                    {
+                        "mal_id": 4385,
+                        "type": "anime",
+                        "name": "Great Mazinger tai Getter Robo",
+                        "url": "https://myanimelist.net/anime/4385/Great_Mazinger_tai_Getter_Robo"
+                    }
+                ]
+            },
+            {
+                "relation": "Summary",
+                "entry": [
+                    {
+                        "mal_id": 42153,
+                        "type": "anime",
+                        "name": "Getter Robo Memorial",
+                        "url": "https://myanimelist.net/anime/42153/Getter_Robo_Memorial"
+                    }
+                ]
+            },
+            {
+                "relation": "Alternative Version",
+                "entry": [
+                    {
+                        "mal_id": 5292,
+                        "type": "anime",
+                        "name": "Getter Robo Go",
+                        "url": "https://myanimelist.net/anime/5292/Getter_Robo_Go"
+                    },
+                    {
+                        "mal_id": 978,
+                        "type": "anime",
+                        "name": "Change!! Getter Robo: Sekai Saigo no Hi",
+                        "url": "https://myanimelist.net/anime/978/Change_Getter_Robo__Sekai_Saigo_no_Hi"
+                    },
+                    {
+                        "mal_id": 2978,
+                        "type": "anime",
+                        "name": "Shin Getter Robo",
+                        "url": "https://myanimelist.net/anime/2978/Shin_Getter_Robo"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [
+                "\"Getter Robo!\" by Isao Sasaki"
+            ],
+            "endings": [
+                "\"Gattai! Getter Robo\" by Isao Sasaki"
+            ]
+        },
+        "external": [
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=955"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=19"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "http://en.wikipedia.org/wiki/Getter_robo"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": [
+        {
+            "mal_id": 1,
+            "url": null,
+            "title": "Invincible! Getter Robo Launch",
+            "title_japanese": "無敵! ゲッターロボ発進",
+            "title_romanji": "Muteki! Getter Robo Hasshin ",
+            "aired": "1974-04-04T00:00:00+00:00",
+            "score": 3.73,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1396307"
+        },
+        {
+            "mal_id": 2,
+            "url": null,
+            "title": "All-Out Battle! Three Giant Mechasauruses",
+            "title_japanese": "決戦! 三大メカザウルス",
+            "title_romanji": "Kessen! San Dai Mechasaurs ",
+            "aired": "1974-04-11T00:00:00+00:00",
+            "score": 3.71,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1396472"
+        },
+        {
+            "mal_id": 3,
+            "url": null,
+            "title": "The Dinosaur Empire's Rainbow Strategy",
+            "title_japanese": "恐竜帝国レインボー作戦",
+            "title_romanji": "Kyouryuu Teikoku Rainbow Sakusen ",
+            "aired": "1974-04-18T00:00:00+00:00",
+            "score": 3.5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1396483"
+        },
+        {
+            "mal_id": 4,
+            "url": null,
+            "title": "Bloodbath On Southern Cross",
+            "title_japanese": "燃ゆる血潮の南十字星",
+            "title_romanji": "Moyuru Chishio no Minami Juujisei ",
+            "aired": "1974-04-25T00:00:00+00:00",
+            "score": 3.75,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1396592"
+        },
+        {
+            "mal_id": 5,
+            "url": null,
+            "title": "The Getter Team, Passing Through The Darkness",
+            "title_japanese": "闇をつらぬけゲッターチーム",
+            "title_romanji": "Yami wo Tsuranuke Getter Team ",
+            "aired": "1974-05-02T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1396605"
+        },
+        {
+            "mal_id": 6,
+            "url": null,
+            "title": "Dinosaurs! The Plan To Attack Tokyo!",
+            "title_japanese": "恐竜! 東京ジャック作戦",
+            "title_romanji": "Kyouryuu! Tokyo Jack Sakusen ",
+            "aired": "1974-05-09T00:00:00+00:00",
+            "score": 3.75,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1396622"
+        },
+        {
+            "mal_id": 7,
+            "url": null,
+            "title": "Never Forgiving Evil! Trumpet Assault!",
+            "title_japanese": "悪を許すな突撃ラッパ",
+            "title_romanji": "Aku wo Yurusu na Totsugeki Rappa ",
+            "aired": "1974-05-16T00:00:00+00:00",
+            "score": 3.33,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1396643"
+        },
+        {
+            "mal_id": 8,
+            "url": null,
+            "title": "One-shot crisis, Getter-2!",
+            "title_japanese": "危機一髪ゲッター2",
+            "title_romanji": "Kikiippatsu Getter 2 ",
+            "aired": "1974-05-23T00:00:00+00:00",
+            "score": 3.75,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1396654"
+        },
+        {
+            "mal_id": 9,
+            "url": null,
+            "title": "The Glory of Captain Radora",
+            "title_japanese": "栄光のキャプテンラドラ",
+            "title_romanji": "Eikou no Captain Radora ",
+            "aired": "1974-05-30T00:00:00+00:00",
+            "score": 3.5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1397147"
+        },
+        {
+            "mal_id": 10,
+            "url": null,
+            "title": "Nosedive! The Getter-3 goes for it",
+            "title_japanese": "急降下! ゲッター3は行く",
+            "title_romanji": "Kyuukouka! Getter 3 wa Iku ",
+            "aired": "1974-06-06T00:00:00+00:00",
+            "score": 2.67,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1397153"
+        },
+        {
+            "mal_id": 11,
+            "url": null,
+            "title": "Fierce Fight! Drill versus Drill",
+            "title_japanese": "激突! ドリル対ドリル",
+            "title_romanji": "Gekitotsu! Drill tai Drill ",
+            "aired": "1974-06-13T00:00:00+00:00",
+            "score": 3,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1397164"
+        },
+        {
+            "mal_id": 12,
+            "url": null,
+            "title": "HOWL! The Immortal Ur",
+            "title_japanese": "吠える! 不死身のウル",
+            "title_romanji": "Hoero! Fujimi no Ur ",
+            "aired": "1974-06-20T00:00:00+00:00",
+            "score": 3.2,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1397170"
+        },
+        {
+            "mal_id": 13,
+            "url": null,
+            "title": "One-point battle! DAISETSUZAN OROSHI",
+            "title_japanese": "一本勝負! 大雪山おろし",
+            "title_romanji": "Ippon Shoubu! Daisetsuzan Oroshi ",
+            "aired": "1974-06-27T00:00:00+00:00",
+            "score": 3.33,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1397215"
+        },
+        {
+            "mal_id": 14,
+            "url": null,
+            "title": "Risking Our Lives In The Crimson Skies!",
+            "title_japanese": "紅の空に命をかけろ!!",
+            "title_romanji": "Beni no Sora ni Inochi wo Kakero!! ",
+            "aired": "1974-07-04T00:00:00+00:00",
+            "score": 3.25,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1397221"
+        },
+        {
+            "mal_id": 15,
+            "url": null,
+            "title": "A Ballad Dedicated To Yuuko",
+            "title_japanese": "悠子に捧げるバラード",
+            "title_romanji": "Yuuko ni Sasageru Ballad ",
+            "aired": "1974-07-11T00:00:00+00:00",
+            "score": 3,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1397234"
+        },
+        {
+            "mal_id": 16,
+            "url": null,
+            "title": "Uncovering The Secrets Of The Dinosaur Empire",
+            "title_japanese": "恐竜帝国の謎を追え",
+            "title_romanji": "Kyouryuu Teikoku no Nazo wo Oe ",
+            "aired": "1974-07-18T00:00:00+00:00",
+            "score": 3.75,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1397267"
+        },
+        {
+            "mal_id": 17,
+            "url": null,
+            "title": "Target: Blueprints",
+            "title_japanese": "狙われた設計図",
+            "title_romanji": "Nerawareta Sekkeizu ",
+            "aired": "1974-07-25T00:00:00+00:00",
+            "score": 3,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1397274"
+        },
+        {
+            "mal_id": 18,
+            "url": null,
+            "title": "The Master of The Dinosaur Empire",
+            "title_japanese": "恐竜帝国のすごい奴",
+            "title_romanji": "Kyouryuu Teikoku no Sugoi Yakko ",
+            "aired": "1974-08-01T00:00:00+00:00",
+            "score": 2.67,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1397299"
+        },
+        {
+            "mal_id": 19,
+            "url": null,
+            "title": "Ryo! The Final Launch",
+            "title_japanese": "リョウ最後の出撃!",
+            "title_romanji": "Ryou Saigo no Shutsugeki! ",
+            "aired": "1974-08-08T00:00:00+00:00",
+            "score": 3,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1397308"
+        },
+        {
+            "mal_id": 20,
+            "url": null,
+            "title": "Massive Air Raid! A Sudden Terror",
+            "title_japanese": "大空襲! 突然の恐怖",
+            "title_romanji": "Daikuushuu! Totsuzen no Kyoufu ",
+            "aired": "1974-08-15T00:00:00+00:00",
+            "score": 3.4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1397317"
+        },
+        {
+            "mal_id": 21,
+            "url": null,
+            "title": "The Robot From America",
+            "title_japanese": "アメリカから来たロボット",
+            "title_romanji": "America kara Kita Robot ",
+            "aired": "1974-08-22T00:00:00+00:00",
+            "score": 3.43,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1397328"
+        },
+        {
+            "mal_id": 22,
+            "url": null,
+            "title": "The Tragedy of Getter Queen",
+            "title_japanese": "悲劇のゲッターQ",
+            "title_romanji": "Higeki no Getter Q ",
+            "aired": "1974-08-29T00:00:00+00:00",
+            "score": 3.25,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1397340"
+        },
+        {
+            "mal_id": 23,
+            "url": null,
+            "title": "Mt. Asama's First Shades of Death",
+            "title_japanese": "浅間山の大発明狂",
+            "title_romanji": "Asamayama no Daihatsumeikyou ",
+            "aired": "1974-09-05T00:00:00+00:00",
+            "score": 3,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1398246"
+        },
+        {
+            "mal_id": 24,
+            "url": null,
+            "title": "Destroy the Stronghold!",
+            "title_japanese": "大要塞に向かって撃て",
+            "title_romanji": "Daiyousai ni Mukatte Ute ",
+            "aired": "1974-09-12T00:00:00+00:00",
+            "score": 3,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1398260"
+        },
+        {
+            "mal_id": 25,
+            "url": null,
+            "title": "Combine! 100 Meter Windspeeds",
+            "title_japanese": "合体! 風速100メートル",
+            "title_romanji": "Gattai! Fuusoku 100 Meter ",
+            "aired": "1974-09-19T00:00:00+00:00",
+            "score": 2.67,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1398274"
+        },
+        {
+            "mal_id": 26,
+            "url": null,
+            "title": "Emperor Gore: Operation Massive Eruption",
+            "title_japanese": "帝王ゴール大噴火作戦",
+            "title_romanji": "Teiou Gooru Daifunka Sakusen ",
+            "aired": "1974-09-26T00:00:00+00:00",
+            "score": 2.5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1398288"
+        },
+        {
+            "mal_id": 27,
+            "url": null,
+            "title": "The Evil Ura's Anger!",
+            "title_japanese": "大魔人ユラーの怒り",
+            "title_romanji": "Daimajin Ura no Ikari ",
+            "aired": "1974-10-03T00:00:00+00:00",
+            "score": 2.5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1398294"
+        },
+        {
+            "mal_id": 28,
+            "url": null,
+            "title": "A Surprise Attack! The Underground Three!",
+            "title_japanese": "襲撃! 地竜族三人衆",
+            "title_romanji": "Shuugeki! Chiryuu Zokusan Ninshuu ",
+            "aired": "1974-10-10T00:00:00+00:00",
+            "score": 3,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1398307"
+        },
+        {
+            "mal_id": 29,
+            "url": null,
+            "title": "Fight For The Flood Hell!",
+            "title_japanese": "洪水地獄の死闘",
+            "title_romanji": "Kouzui Jigoku no Shitou ",
+            "aired": "1974-10-17T00:00:00+00:00",
+            "score": 2.5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1398314"
+        },
+        {
+            "mal_id": 30,
+            "url": null,
+            "title": "The Immortal Bird Revives!",
+            "title_japanese": "不死鳥の甦る時",
+            "title_romanji": "Fushichou no Yomigaeru Toki ",
+            "aired": "1974-10-24T00:00:00+00:00",
+            "score": 2.5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1398332"
+        },
+        {
+            "mal_id": 31,
+            "url": null,
+            "title": "Hayato! Danger! Stand Up!",
+            "title_japanese": "危機! ハヤトよ立ち上がれ",
+            "title_romanji": "Kiki! Hayato yo Tachiagare ",
+            "aired": "1974-10-31T00:00:00+00:00",
+            "score": 1,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1398340"
+        },
+        {
+            "mal_id": 32,
+            "url": null,
+            "title": "The Horrible Red Fog Trap!",
+            "title_japanese": "恐怖! 赤い霧の罠",
+            "title_romanji": "Kyoufu! Akai Kiri no Wana ",
+            "aired": "1974-11-07T00:00:00+00:00",
+            "score": 2,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1398350"
+        },
+        {
+            "mal_id": 33,
+            "url": null,
+            "title": "Swear To The Unlimited Sky.",
+            "title_japanese": "果てしなき大空に誓う!",
+            "title_romanji": "Hateshinaki Oozora ni Chikau! ",
+            "aired": "1974-11-14T00:00:00+00:00",
+            "score": 2.67,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1398367"
+        },
+        {
+            "mal_id": 34,
+            "url": null,
+            "title": "Tears Of The Warrior Woman, Wunkay.",
+            "title_japanese": "女竜戦士ユンケの涙",
+            "title_romanji": "Joryuu Senshi Yunke no Namida ",
+            "aired": "1974-11-21T00:00:00+00:00",
+            "score": 2,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1398375"
+        },
+        {
+            "mal_id": 35,
+            "url": null,
+            "title": "Musashi, Man's Hardship!",
+            "title_japanese": "ムサシ! 男はつらい",
+            "title_romanji": "Musashi! Otoko wa Tsurai ",
+            "aired": "1974-11-28T00:00:00+00:00",
+            "score": 1,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1398397"
+        },
+        {
+            "mal_id": 36,
+            "url": null,
+            "title": "Attack The Fort! Trojan Plan!",
+            "title_japanese": "要塞撃滅! トロイ作戦",
+            "title_romanji": "Yousai Gekimetsu! Toroi Sakusen ",
+            "aired": "1974-12-05T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 37,
+            "url": null,
+            "title": "The Devil Commander! Aim at Doc!",
+            "title_japanese": "悪の指令! 博士を狙え",
+            "title_romanji": "Aku no Shirei! Hakase wo Nerae ",
+            "aired": "1974-12-12T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 38,
+            "url": null,
+            "title": "Get Away From The Magic Sea",
+            "title_japanese": "魔の海からの脱出!!",
+            "title_romanji": "Ma no Umi kara no Dasshutsu!! ",
+            "aired": "1974-12-19T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 39,
+            "url": null,
+            "title": "The Sadness Is Away From The Shooting Star",
+            "title_japanese": "悲しみは流れ星の彼方に",
+            "title_romanji": "Kanashimi wa Nagareboshi no Kanata ni ",
+            "aired": "1974-12-26T00:00:00+00:00",
+            "score": 3,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1398500"
+        },
+        {
+            "mal_id": 40,
+            "url": null,
+            "title": "Freeze The Archipelago In Japan",
+            "title_japanese": "日本列島凍結作戦!",
+            "title_romanji": "Nippon Rettou Touketsu Sakusen! ",
+            "aired": "1975-01-09T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 41,
+            "url": null,
+            "title": "Invisible Dinosaur Bomb Troop.",
+            "title_japanese": "姿なき恐竜空爆隊",
+            "title_romanji": "Sugata Naki Kyouryuu Kuubaku Tai ",
+            "aired": "1975-01-16T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 42,
+            "url": null,
+            "title": "Going Forward To The North Pole!",
+            "title_japanese": "北極に進路をとれ!",
+            "title_romanji": "Hokkyoku ni Shinro wo Tore! ",
+            "aired": "1975-03-06T00:00:00+00:00",
+            "score": 2.33,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1936766"
+        },
+        {
+            "mal_id": 43,
+            "url": null,
+            "title": "The Robot Getter Is Taken Away!",
+            "title_japanese": "奪われたゲッターロボ",
+            "title_romanji": "Ubawareta Getter Robo ",
+            "aired": "1975-03-13T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 44,
+            "url": null,
+            "title": "Musashi! Angry Ocean!",
+            "title_japanese": "ムサシ! 怒りの海底",
+            "title_romanji": "Musashi! Ikari no Kaitei ",
+            "aired": "1975-03-20T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 45,
+            "url": null,
+            "title": "Escape From The Universe Graveyard",
+            "title_japanese": "脱出! 宇宙の墓場",
+            "title_romanji": "Dasshutsu! Uchuu no Hakaba ",
+            "aired": "1975-03-27T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 46,
+            "url": null,
+            "title": "Attack of Horrible Ice Dinosaur",
+            "title_japanese": "恐るべき氷竜族の侵略",
+            "title_romanji": "Osorubeki Kouri Ryuuzoku no Shinryaku ",
+            "aired": "1975-04-03T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 47,
+            "url": null,
+            "title": "Gore Highness Shows Up",
+            "title_japanese": "帝王ゴール地上に現わる!",
+            "title_romanji": "Teiou Gore Chijou ni Genwaru! ",
+            "aired": "1975-04-10T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 48,
+            "url": null,
+            "title": "The Dinosaur Empire in Magma.",
+            "title_japanese": "マグマの恐竜帝国へ突入!",
+            "title_romanji": "Magma no Kyouryuu Teikoku e Totsunyuu! ",
+            "aired": "1975-04-17T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 49,
+            "url": null,
+            "title": "Explosion! Falls Down! Dinosaur Empire!",
+            "title_japanese": "大爆発! くたばれ恐竜帝国",
+            "title_romanji": "Daibakuhatsu! Kutabare Kyouryuu Teikoku ",
+            "aired": "1975-04-24T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 50,
+            "url": null,
+            "title": "Gore! The Severe Fight Back!",
+            "title_japanese": "帝王ゴール決死の猛反撃",
+            "title_romanji": "Teiou Gooru Kesshi no Mou Hangeki ",
+            "aired": "1975-05-01T00:00:00+00:00",
+            "score": 3.75,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2012773"
+        },
+        {
+            "mal_id": 51,
+            "url": null,
+            "title": "It Was The Day The Dinosaur Empire Destroyed...",
+            "title_japanese": "恐竜帝国のほろびる日",
+            "title_romanji": "Kyouryuu Teikoku no Horobiru Hi ",
+            "aired": "1975-05-08T00:00:00+00:00",
+            "score": 3.6,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2012784"
+        }
+    ]
+}

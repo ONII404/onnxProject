@@ -1,0 +1,508 @@
+{
+    "id": 234,
+    "fetched_at": "Sun Dec 14 12:49:21 2025",
+    "metadata": {
+        "mal_id": 234,
+        "url": "https://myanimelist.net/anime/234/Dan_Doh",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/3/15231.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/3/15231t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/3/15231l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/3/15231.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/3/15231t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/3/15231l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Dan Doh!!"
+            },
+            {
+                "type": "Japanese",
+                "title": "ダンドー"
+            }
+        ],
+        "title": "Dan Doh!!",
+        "title_english": null,
+        "title_japanese": "ダンドー",
+        "title_synonyms": [],
+        "type": "TV",
+        "source": "Manga",
+        "episodes": 26,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "2004-04-03T00:00:00+00:00",
+            "to": "2004-09-25T00:00:00+00:00",
+            "prop": {
+                "from": {
+                    "day": 3,
+                    "month": 4,
+                    "year": 2004
+                },
+                "to": {
+                    "day": 25,
+                    "month": 9,
+                    "year": 2004
+                }
+            },
+            "string": "Apr 3, 2004 to Sep 25, 2004"
+        },
+        "duration": "24 min per ep",
+        "rating": "G - All Ages",
+        "score": 6.63,
+        "scored_by": 2110,
+        "rank": 6515,
+        "popularity": 9229,
+        "members": 5160,
+        "favorites": 3,
+        "synopsis": "Dandoh was playing a baseball game with friends Yuka and Kohei and hits a wild fly ball which crashes into the principal's potted plants. Rather than getting mad, the principal admires Dandoh's swing and introduces him to the world of golf. It's now an adventure in golf as Dandoh is under the watchful eye of a former pro-golfer. They enter a tournament together and play for a shot at the national championships.\n\n(Source: ANN)",
+        "background": "",
+        "season": "spring",
+        "year": 2004,
+        "broadcast": {
+            "day": "Saturdays",
+            "time": "09:30",
+            "timezone": "Asia/Tokyo",
+            "string": "Saturdays at 09:30 (JST)"
+        },
+        "producers": [
+            {
+                "mal_id": 16,
+                "type": "anime",
+                "name": "TV Tokyo",
+                "url": "https://myanimelist.net/anime/producer/16/TV_Tokyo"
+            },
+            {
+                "mal_id": 134,
+                "type": "anime",
+                "name": "HoriPro",
+                "url": "https://myanimelist.net/anime/producer/134/HoriPro"
+            }
+        ],
+        "licensors": [
+            {
+                "mal_id": 233,
+                "type": "anime",
+                "name": "Bandai Entertainment",
+                "url": "https://myanimelist.net/anime/producer/233/Bandai_Entertainment"
+            }
+        ],
+        "studios": [
+            {
+                "mal_id": 122,
+                "type": "anime",
+                "name": "Tokyo Kids",
+                "url": "https://myanimelist.net/anime/producer/122/Tokyo_Kids"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 2,
+                "type": "anime",
+                "name": "Adventure",
+                "url": "https://myanimelist.net/anime/genre/2/Adventure"
+            },
+            {
+                "mal_id": 30,
+                "type": "anime",
+                "name": "Sports",
+                "url": "https://myanimelist.net/anime/genre/30/Sports"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [],
+        "demographics": [
+            {
+                "mal_id": 27,
+                "type": "anime",
+                "name": "Shounen",
+                "url": "https://myanimelist.net/anime/genre/27/Shounen"
+            }
+        ],
+        "relations": [
+            {
+                "relation": "Adaptation",
+                "entry": [
+                    {
+                        "mal_id": 7200,
+                        "type": "manga",
+                        "name": "Dan Doh!!",
+                        "url": "https://myanimelist.net/manga/7200/Dan_Doh"
+                    }
+                ]
+            },
+            {
+                "relation": "Other",
+                "entry": [
+                    {
+                        "mal_id": 52640,
+                        "type": "anime",
+                        "name": "Shounen Sunday CM: Dan Doh!!",
+                        "url": "https://myanimelist.net/anime/52640/Shounen_Sunday_CM__Dan_Doh"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [
+                "\"Going On!\" by Bullet 77"
+            ],
+            "endings": [
+                "1: \"Wild Flowe\" by Bullet 77",
+                "2: \"Believe In Love\" by Bullet 77",
+                "3: \"Going on!\" by Bullet 77 (eps 26)"
+            ]
+        },
+        "external": [
+            {
+                "name": "Official Site",
+                "url": "http://www.tv-tokyo.co.jp/anime/dandoh/"
+            },
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=1653"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=3710"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "http://en.wikipedia.org/wiki/Dan_Doh%21%21"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": [
+        {
+            "mal_id": 1,
+            "url": null,
+            "title": "Dan Doh's Dream",
+            "title_japanese": "ダンドーの夢",
+            "title_romanji": "Dan Doh no Yume ",
+            "aired": "2004-04-03T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1574862"
+        },
+        {
+            "mal_id": 2,
+            "url": null,
+            "title": "Tournament",
+            "title_japanese": "選手権",
+            "title_romanji": "Senshuken ",
+            "aired": "2004-04-10T00:00:00+00:00",
+            "score": 4.5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1565043"
+        },
+        {
+            "mal_id": 3,
+            "url": null,
+            "title": "Yuka",
+            "title_japanese": "優香",
+            "title_romanji": "Yuka ",
+            "aired": "2004-04-17T00:00:00+00:00",
+            "score": 4.33,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1565047"
+        },
+        {
+            "mal_id": 4,
+            "url": null,
+            "title": "Missed Shot",
+            "title_japanese": "ミスショット",
+            "title_romanji": "Miss Shot ",
+            "aired": "2004-04-24T00:00:00+00:00",
+            "score": 4.5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1574864"
+        },
+        {
+            "mal_id": 5,
+            "url": null,
+            "title": "Niko Ball!",
+            "title_japanese": "ニコボール",
+            "title_romanji": "Niko Ball ",
+            "aired": "2004-05-01T00:00:00+00:00",
+            "score": 4.5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1565048"
+        },
+        {
+            "mal_id": 6,
+            "url": null,
+            "title": "Yokota",
+            "title_japanese": "横田",
+            "title_romanji": "Yokota ",
+            "aired": "2004-05-08T00:00:00+00:00",
+            "score": 3.2,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=65140"
+        },
+        {
+            "mal_id": 7,
+            "url": null,
+            "title": "Final Round",
+            "title_japanese": "決勝ラウンド",
+            "title_romanji": "Kesshou Round ",
+            "aired": "2004-05-15T00:00:00+00:00",
+            "score": 4.5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1574866"
+        },
+        {
+            "mal_id": 8,
+            "url": null,
+            "title": "Father",
+            "title_japanese": "父",
+            "title_romanji": "Chichi ",
+            "aired": "2004-05-22T00:00:00+00:00",
+            "score": 4.5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1574872"
+        },
+        {
+            "mal_id": 9,
+            "url": null,
+            "title": "6-iron",
+            "title_japanese": "６番アイアン",
+            "title_romanji": "6-ban Iron ",
+            "aired": "2004-05-29T00:00:00+00:00",
+            "score": 4.5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1574874"
+        },
+        {
+            "mal_id": 10,
+            "url": null,
+            "title": "Over the Valley",
+            "title_japanese": "谷越え",
+            "title_romanji": "Tanigoe ",
+            "aired": "2004-06-05T00:00:00+00:00",
+            "score": 4.5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1574875"
+        },
+        {
+            "mal_id": 11,
+            "url": null,
+            "title": "Strong Ones Are Gathering",
+            "title_japanese": "強者つどう",
+            "title_romanji": "Kyousha Tsudou ",
+            "aired": "2004-06-12T00:00:00+00:00",
+            "score": 4.5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=697229"
+        },
+        {
+            "mal_id": 12,
+            "url": null,
+            "title": "Only One in the World",
+            "title_japanese": "世界でただ一本",
+            "title_romanji": "Sekai de Tada Ippon ",
+            "aired": "2004-06-19T00:00:00+00:00",
+            "score": 4.5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1574880"
+        },
+        {
+            "mal_id": 13,
+            "url": null,
+            "title": "Light that Reaches the Heart",
+            "title_japanese": "心に届く光",
+            "title_romanji": "Kokoro ni Todoku Hikari ",
+            "aired": "2004-06-26T00:00:00+00:00",
+            "score": 4.5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=697237"
+        },
+        {
+            "mal_id": 14,
+            "url": null,
+            "title": "Battle between man and man",
+            "title_japanese": "男と男の決闘",
+            "title_romanji": "Otoko to Otoko no Kettou ",
+            "aired": "2004-07-03T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1574911"
+        },
+        {
+            "mal_id": 15,
+            "url": null,
+            "title": "Disqualify",
+            "title_japanese": "失格",
+            "title_romanji": "Shikkaku ",
+            "aired": "2004-07-10T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 16,
+            "url": null,
+            "title": "To Hokkaido",
+            "title_japanese": "北海道へ",
+            "title_romanji": "Hokkaidou e ",
+            "aired": "2004-07-17T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 17,
+            "url": null,
+            "title": "Caddy",
+            "title_japanese": "キャディー",
+            "title_romanji": "Caddy ",
+            "aired": "2004-07-24T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 18,
+            "url": null,
+            "title": "Favorite Shot",
+            "title_japanese": "大好きなショット",
+            "title_romanji": "Daisuki na Shot ",
+            "aired": "2004-07-31T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 19,
+            "url": null,
+            "title": "Challenge",
+            "title_japanese": "挑戦",
+            "title_romanji": "Chousen ",
+            "aired": "2004-08-07T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 20,
+            "url": null,
+            "title": "Two of Us Make Two",
+            "title_japanese": "二人で一人",
+            "title_romanji": "Futari de Hitori ",
+            "aired": "2004-08-14T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 21,
+            "url": null,
+            "title": "Faith",
+            "title_japanese": "信念",
+            "title_romanji": "Shinnen ",
+            "aired": "2004-08-21T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 22,
+            "url": null,
+            "title": "Taku-san",
+            "title_japanese": "拓さん",
+            "title_romanji": "Taku-san ",
+            "aired": "2004-08-28T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 23,
+            "url": null,
+            "title": "Ordeal",
+            "title_japanese": "試練",
+            "title_romanji": "Shiren ",
+            "aired": "2004-09-04T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 24,
+            "url": null,
+            "title": "End of Match",
+            "title_japanese": "雌雄決す！",
+            "title_romanji": "Shiyuu Kessu! ",
+            "aired": "2004-09-11T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 25,
+            "url": null,
+            "title": "Kazama",
+            "title_japanese": "風間",
+            "title_romanji": "Kazama ",
+            "aired": "2004-09-18T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 26,
+            "url": null,
+            "title": "Within the Light",
+            "title_japanese": "光の中で",
+            "title_romanji": "Hikari no Naka de ",
+            "aired": "2004-09-25T00:00:00+00:00",
+            "score": 3.67,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=698235"
+        }
+    ]
+}

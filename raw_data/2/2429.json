@@ -1,0 +1,205 @@
+{
+    "id": 2429,
+    "fetched_at": "Sun Dec 14 07:24:39 2025",
+    "metadata": {
+        "mal_id": 2429,
+        "url": "https://myanimelist.net/anime/2429/Unico__Mahou_no_Shima_e",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1850/110746.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1850/110746t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1850/110746l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1850/110746.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1850/110746t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1850/110746l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Unico: Mahou no Shima e"
+            },
+            {
+                "type": "Synonym",
+                "title": "The Fantastic Adventure of Unico 2"
+            },
+            {
+                "type": "Synonym",
+                "title": "Unico Movie 2"
+            },
+            {
+                "type": "Synonym",
+                "title": "Unico: To the Magic Island"
+            },
+            {
+                "type": "Japanese",
+                "title": "ユニコ 魔法の島へ"
+            },
+            {
+                "type": "English",
+                "title": "Unico in the Island of Magic"
+            },
+            {
+                "type": "Spanish",
+                "title": "Unico en la Isla de la Magia"
+            }
+        ],
+        "title": "Unico: Mahou no Shima e",
+        "title_english": "Unico in the Island of Magic",
+        "title_japanese": "ユニコ 魔法の島へ",
+        "title_synonyms": [
+            "The Fantastic Adventure of Unico 2",
+            "Unico Movie 2",
+            "Unico: To the Magic Island"
+        ],
+        "type": "Movie",
+        "source": "Manga",
+        "episodes": 1,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "1983-07-16T00:00:00+00:00",
+            "to": null,
+            "prop": {
+                "from": {
+                    "day": 16,
+                    "month": 7,
+                    "year": 1983
+                },
+                "to": {
+                    "day": null,
+                    "month": null,
+                    "year": null
+                }
+            },
+            "string": "Jul 16, 1983"
+        },
+        "duration": "1 hr 31 min",
+        "rating": "G - All Ages",
+        "score": 7.07,
+        "scored_by": 1994,
+        "rank": 4198,
+        "popularity": 9922,
+        "members": 4147,
+        "favorites": 24,
+        "synopsis": "Based on \"Unico and the Kingdom of the Sun,\" which was newly written as a theater version, this animated film features a battle between the wizard Kukuruku and Unico. Kukuruku builds a castle using dolls transformed from men as building parts. The story revolves around the sorrow and terror of men who have been transfigured into dolls, and a girl named Cherry who wishes to recover the kindness in her brother, who is a student of Kukuruku. This work reminds us of the fact that \"transformation\" or \"transfiguration\" - favorite themes of Tezuka Osamu - involves not only material aspects, but also man's immaterial heart.\n\n(Source: Tezuka Osamu's Website)",
+        "background": "",
+        "season": null,
+        "year": null,
+        "broadcast": {
+            "day": null,
+            "time": null,
+            "timezone": null,
+            "string": null
+        },
+        "producers": [
+            {
+                "mal_id": 150,
+                "type": "anime",
+                "name": "Sanrio",
+                "url": "https://myanimelist.net/anime/producer/150/Sanrio"
+            },
+            {
+                "mal_id": 200,
+                "type": "anime",
+                "name": "Tezuka Productions",
+                "url": "https://myanimelist.net/anime/producer/200/Tezuka_Productions"
+            }
+        ],
+        "licensors": [
+            {
+                "mal_id": 467,
+                "type": "anime",
+                "name": "Discotek Media",
+                "url": "https://myanimelist.net/anime/producer/467/Discotek_Media"
+            }
+        ],
+        "studios": [
+            {
+                "mal_id": 11,
+                "type": "anime",
+                "name": "Madhouse",
+                "url": "https://myanimelist.net/anime/producer/11/Madhouse"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 2,
+                "type": "anime",
+                "name": "Adventure",
+                "url": "https://myanimelist.net/anime/genre/2/Adventure"
+            },
+            {
+                "mal_id": 10,
+                "type": "anime",
+                "name": "Fantasy",
+                "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [],
+        "demographics": [
+            {
+                "mal_id": 15,
+                "type": "anime",
+                "name": "Kids",
+                "url": "https://myanimelist.net/anime/genre/15/Kids"
+            }
+        ],
+        "relations": [
+            {
+                "relation": "Prequel",
+                "entry": [
+                    {
+                        "mal_id": 2427,
+                        "type": "anime",
+                        "name": "Unico",
+                        "url": "https://myanimelist.net/anime/2427/Unico"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [],
+            "endings": [
+                "\"Do Re Mi Fa Lullaby (ドレミファ・ララバイ)\" by Emiko Shiratori"
+            ]
+        },
+        "external": [
+            {
+                "name": "Official Site",
+                "url": "http://www.madhouse.co.jp/works/1983-1973/works_movie_yuniko_mahou.html"
+            },
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=1361"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=629"
+            }
+        ],
+        "streaming": [
+            {
+                "name": "Crunchyroll",
+                "url": "http://www.crunchyroll.com/series-270119"
+            }
+        ]
+    },
+    "episodes": []
+}

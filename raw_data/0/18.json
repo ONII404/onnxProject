@@ -1,0 +1,553 @@
+{
+    "id": 18,
+    "fetched_at": "Sun Dec 14 12:30:41 2025",
+    "metadata": {
+        "mal_id": 18,
+        "url": "https://myanimelist.net/anime/18/Initial_D_Fourth_Stage",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/9/10521.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/9/10521t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/9/10521l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/9/10521.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/9/10521t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/9/10521l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Initial D Fourth Stage"
+            },
+            {
+                "type": "Synonym",
+                "title": "Initial D 4th Stage"
+            },
+            {
+                "type": "Japanese",
+                "title": "頭文字〈イニシャル〉D FOURTH STAGE"
+            },
+            {
+                "type": "Spanish",
+                "title": "Initial D: Supera el Límite de Velocidad Temporada 4"
+            },
+            {
+                "type": "French",
+                "title": "Initial D 4ème-Etape"
+            }
+        ],
+        "title": "Initial D Fourth Stage",
+        "title_english": null,
+        "title_japanese": "頭文字〈イニシャル〉D FOURTH STAGE",
+        "title_synonyms": [
+            "Initial D 4th Stage"
+        ],
+        "type": "TV",
+        "source": "Manga",
+        "episodes": 24,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "2004-04-17T00:00:00+00:00",
+            "to": "2006-02-18T00:00:00+00:00",
+            "prop": {
+                "from": {
+                    "day": 17,
+                    "month": 4,
+                    "year": 2004
+                },
+                "to": {
+                    "day": 18,
+                    "month": 2,
+                    "year": 2006
+                }
+            },
+            "string": "Apr 17, 2004 to Feb 18, 2006"
+        },
+        "duration": "27 min per ep",
+        "rating": "PG-13 - Teens 13 or older",
+        "score": 8.17,
+        "scored_by": 116652,
+        "rank": 453,
+        "popularity": 1297,
+        "members": 209864,
+        "favorites": 1406,
+        "synopsis": "Takumi Fujiwara finally joins Ryousuke and Keisuke Takahashi to create \"Project D.\" Their goal is twofold: Ryousuke wants to develop his \"High-Speed Street Racing Theory,\" while Keisuke and Takumi aim at improving their driving skills by facing powerful opponents on dangerous roads. The idea of Project D is to challenge street racing teams from other prefectures to improve both their uphill and downhill records. In order to attract the attention of the best racing teams, Ryousuke creates a dedicated website to announce the future battles of Project D and post the team's results.\n\nThe fourth season of Initial D details the hardships and successes of the members of Project D as they try to become the best street racing team outside of Gunma Prefecture.\n\n[Written by MAL Rewrite]",
+        "background": "",
+        "season": "spring",
+        "year": 2004,
+        "broadcast": {
+            "day": null,
+            "time": null,
+            "timezone": null,
+            "string": "Unknown"
+        },
+        "producers": [
+            {
+                "mal_id": 67,
+                "type": "anime",
+                "name": "OB Planning",
+                "url": "https://myanimelist.net/anime/producer/67/OB_Planning"
+            }
+        ],
+        "licensors": [
+            {
+                "mal_id": 102,
+                "type": "anime",
+                "name": "Funimation",
+                "url": "https://myanimelist.net/anime/producer/102/Funimation"
+            }
+        ],
+        "studios": [
+            {
+                "mal_id": 179,
+                "type": "anime",
+                "name": "A.C.G.T.",
+                "url": "https://myanimelist.net/anime/producer/179/ACGT"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 1,
+                "type": "anime",
+                "name": "Action",
+                "url": "https://myanimelist.net/anime/genre/1/Action"
+            },
+            {
+                "mal_id": 8,
+                "type": "anime",
+                "name": "Drama",
+                "url": "https://myanimelist.net/anime/genre/8/Drama"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [
+            {
+                "mal_id": 3,
+                "type": "anime",
+                "name": "Racing",
+                "url": "https://myanimelist.net/anime/genre/3/Racing"
+            }
+        ],
+        "demographics": [
+            {
+                "mal_id": 42,
+                "type": "anime",
+                "name": "Seinen",
+                "url": "https://myanimelist.net/anime/genre/42/Seinen"
+            }
+        ],
+        "relations": [
+            {
+                "relation": "Prequel",
+                "entry": [
+                    {
+                        "mal_id": 187,
+                        "type": "anime",
+                        "name": "Initial D Third Stage",
+                        "url": "https://myanimelist.net/anime/187/Initial_D_Third_Stage"
+                    }
+                ]
+            },
+            {
+                "relation": "Sequel",
+                "entry": [
+                    {
+                        "mal_id": 15059,
+                        "type": "anime",
+                        "name": "Initial D Fifth Stage",
+                        "url": "https://myanimelist.net/anime/15059/Initial_D_Fifth_Stage"
+                    }
+                ]
+            },
+            {
+                "relation": "Adaptation",
+                "entry": [
+                    {
+                        "mal_id": 375,
+                        "type": "manga",
+                        "name": "Initial D",
+                        "url": "https://myanimelist.net/manga/375/Initial_D"
+                    }
+                ]
+            },
+            {
+                "relation": "Side Story",
+                "entry": [
+                    {
+                        "mal_id": 5228,
+                        "type": "anime",
+                        "name": "Initial D Extra Stage 2",
+                        "url": "https://myanimelist.net/anime/5228/Initial_D_Extra_Stage_2"
+                    }
+                ]
+            },
+            {
+                "relation": "Summary",
+                "entry": [
+                    {
+                        "mal_id": 3931,
+                        "type": "anime",
+                        "name": "Initial D Battle Stage 2",
+                        "url": "https://myanimelist.net/anime/3931/Initial_D_Battle_Stage_2"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [
+                "1: \"Dogfight\" by move (eps 01-10)",
+                "2: \"Noizy Tribe\" by move (eps 11-24)"
+            ],
+            "endings": [
+                "1: \"Blast My Desire\" by move (eps 01-10)",
+                "2: \"Nobody reason ~ Noah no Hakobune\" by move (eps 11-24)"
+            ]
+        },
+        "external": [
+            {
+                "name": "Official Site",
+                "url": "https://mv.avex.jp/initial/initial.html"
+            },
+            {
+                "name": "@initialD_PR",
+                "url": "https://twitter.com/initialD_PR"
+            },
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=1724"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=3396"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Initial_D#Fourth_Stage#Anime"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "https://ja.wikipedia.org/wiki/%E9%A0%AD%E6%96%87%E5%AD%97D"
+            },
+            {
+                "name": "Syoboi",
+                "url": "https://cal.syoboi.jp/tid/397"
+            }
+        ],
+        "streaming": [
+            {
+                "name": "Crunchyroll",
+                "url": "http://www.crunchyroll.com/series-282741"
+            },
+            {
+                "name": "Shahid",
+                "url": "https://shahid.mbc.net/en/series/Initial-D:-Fourth-Stage/series-908421"
+            }
+        ]
+    },
+    "episodes": [
+        {
+            "mal_id": 1,
+            "url": "https://myanimelist.net/anime/18/Initial_D_Fourth_Stage/episode/1",
+            "title": "Project D",
+            "title_japanese": "プロジェクトD",
+            "title_romanji": "Project D ",
+            "aired": "2004-04-17T00:00:00+00:00",
+            "score": 4.26,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=205716"
+        },
+        {
+            "mal_id": 2,
+            "url": "https://myanimelist.net/anime/18/Initial_D_Fourth_Stage/episode/2",
+            "title": "Full Throttle! Downhill Battle",
+            "title_japanese": "全開! ダウンヒルバトル",
+            "title_romanji": "Zenkai! Downhill Battle ",
+            "aired": "2004-04-17T00:00:00+00:00",
+            "score": 4.38,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=211955"
+        },
+        {
+            "mal_id": 3,
+            "url": "https://myanimelist.net/anime/18/Initial_D_Fourth_Stage/episode/3",
+            "title": "The Most Powerful Man of the Toudou School",
+            "title_japanese": "東堂塾最強の男",
+            "title_romanji": "Toudou Juku Saukyou no Otoko ",
+            "aired": "2004-06-20T00:00:00+00:00",
+            "score": 4.23,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=409649"
+        },
+        {
+            "mal_id": 4,
+            "url": "https://myanimelist.net/anime/18/Initial_D_Fourth_Stage/episode/4",
+            "title": "Two Pieces of Advice",
+            "title_japanese": "二つのアドバイス",
+            "title_romanji": "2 Tsu no Advice ",
+            "aired": "2004-06-20T00:00:00+00:00",
+            "score": 4.41,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=440581"
+        },
+        {
+            "mal_id": 5,
+            "url": "https://myanimelist.net/anime/18/Initial_D_Fourth_Stage/episode/5",
+            "title": "The Starting Line to Victory",
+            "title_japanese": "勝利へのスタートライン",
+            "title_romanji": "Shouri e no Start Line ",
+            "aired": "2004-08-22T00:00:00+00:00",
+            "score": 4.43,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=440601"
+        },
+        {
+            "mal_id": 6,
+            "url": "https://myanimelist.net/anime/18/Initial_D_Fourth_Stage/episode/6",
+            "title": "Blind Attack",
+            "title_japanese": "ブラインド・アタック",
+            "title_romanji": "Blind Attack ",
+            "aired": "2004-08-22T00:00:00+00:00",
+            "score": 4.76,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=285276"
+        },
+        {
+            "mal_id": 7,
+            "url": "https://myanimelist.net/anime/18/Initial_D_Fourth_Stage/episode/7",
+            "title": "The 85's Raging Turbo",
+            "title_japanese": "嵐のハチゴーターボ",
+            "title_romanji": "Arashi no Hachi Go Turbo ",
+            "aired": "2004-10-16T00:00:00+00:00",
+            "score": 4.41,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=205734"
+        },
+        {
+            "mal_id": 8,
+            "url": "https://myanimelist.net/anime/18/Initial_D_Fourth_Stage/episode/8",
+            "title": "Fateful Battle of the FDs",
+            "title_japanese": "運命のFDバトル",
+            "title_romanji": "Unmei no FD Battle ",
+            "aired": "2004-10-16T00:00:00+00:00",
+            "score": 4.42,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=440671"
+        },
+        {
+            "mal_id": 9,
+            "url": "https://myanimelist.net/anime/18/Initial_D_Fourth_Stage/episode/9",
+            "title": "Kyoko's Confession",
+            "title_japanese": "恭子の告白",
+            "title_romanji": "Kyouko no Kokuhaku ",
+            "aired": "2004-12-18T00:00:00+00:00",
+            "score": 4.22,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=52384"
+        },
+        {
+            "mal_id": 10,
+            "url": "https://myanimelist.net/anime/18/Initial_D_Fourth_Stage/episode/10",
+            "title": "The Saitama Area's Ultimate Weapon",
+            "title_japanese": "埼玉エリア最終兵器",
+            "title_romanji": "Saitama Area Saishuuheiki ",
+            "aired": "2004-12-18T00:00:00+00:00",
+            "score": 4.3,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=440839"
+        },
+        {
+            "mal_id": 11,
+            "url": "https://myanimelist.net/anime/18/Initial_D_Fourth_Stage/episode/11",
+            "title": "Rainy Downhill Battle",
+            "title_japanese": "雨のダウンヒルバトル",
+            "title_romanji": "Ame no Downfill Battle ",
+            "aired": "2005-02-19T00:00:00+00:00",
+            "score": 4.45,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=440851"
+        },
+        {
+            "mal_id": 12,
+            "url": "https://myanimelist.net/anime/18/Initial_D_Fourth_Stage/episode/12",
+            "title": "Straightaway of Struggles",
+            "title_japanese": "葛藤のストレート",
+            "title_romanji": "Kattou no Straight ",
+            "aired": "2005-02-19T00:00:00+00:00",
+            "score": 4.52,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=440921"
+        },
+        {
+            "mal_id": 13,
+            "url": "https://myanimelist.net/anime/18/Initial_D_Fourth_Stage/episode/13",
+            "title": "Motivation",
+            "title_japanese": "モチベーション",
+            "title_romanji": "Motivation ",
+            "aired": "2005-04-16T00:00:00+00:00",
+            "score": 4.46,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=440939"
+        },
+        {
+            "mal_id": 14,
+            "url": "https://myanimelist.net/anime/18/Initial_D_Fourth_Stage/episode/14",
+            "title": "Sad Lonely Driver",
+            "title_japanese": "悲しきロンリードライバー",
+            "title_romanji": "Kanashiki Lonely Driver ",
+            "aired": "2005-04-16T00:00:00+00:00",
+            "score": 4.25,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=77840"
+        },
+        {
+            "mal_id": 15,
+            "url": "https://myanimelist.net/anime/18/Initial_D_Fourth_Stage/episode/15",
+            "title": "4WD Complex",
+            "title_japanese": "4WDコンプレックス",
+            "title_romanji": "4WD Complex ",
+            "aired": "2005-06-18T00:00:00+00:00",
+            "score": 4.41,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=126319"
+        },
+        {
+            "mal_id": 16,
+            "url": "https://myanimelist.net/anime/18/Initial_D_Fourth_Stage/episode/16",
+            "title": "Hillclimb of Fury",
+            "title_japanese": "怒りのヒル・クライム",
+            "title_romanji": "Ikari no Hillclimb ",
+            "aired": "2005-06-18T00:00:00+00:00",
+            "score": 4.6,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=206056"
+        },
+        {
+            "mal_id": 17,
+            "url": "https://myanimelist.net/anime/18/Initial_D_Fourth_Stage/episode/17",
+            "title": "The Saitama Area's Final Battle",
+            "title_japanese": "埼玉エリア最終決戦",
+            "title_romanji": "Saitama Area Saishuu Kessen ",
+            "aired": "2005-08-20T00:00:00+00:00",
+            "score": 4.68,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=77853"
+        },
+        {
+            "mal_id": 18,
+            "url": "https://myanimelist.net/anime/18/Initial_D_Fourth_Stage/episode/18",
+            "title": "Last Drive",
+            "title_japanese": "ラスト・ドライブ",
+            "title_romanji": "Last Drive ",
+            "aired": "2005-08-20T00:00:00+00:00",
+            "score": 4.25,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=206062"
+        },
+        {
+            "mal_id": 19,
+            "url": "https://myanimelist.net/anime/18/Initial_D_Fourth_Stage/episode/19",
+            "title": "God Foot and God Arm",
+            "title_japanese": "ゴッドフットとゴッドアーム",
+            "title_romanji": "God Foot to God Arm ",
+            "aired": "2005-10-15T00:00:00+00:00",
+            "score": 4.45,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=360699"
+        },
+        {
+            "mal_id": 20,
+            "url": "https://myanimelist.net/anime/18/Initial_D_Fourth_Stage/episode/20",
+            "title": "The Unmatched GT-R!",
+            "title_japanese": "超絶GT-R!",
+            "title_romanji": "Chouzetsu GT-R! ",
+            "aired": "2005-10-15T00:00:00+00:00",
+            "score": 4.57,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=441371"
+        },
+        {
+            "mal_id": 21,
+            "url": "https://myanimelist.net/anime/18/Initial_D_Fourth_Stage/episode/21",
+            "title": "Dogfight",
+            "title_japanese": "ドッグファイト",
+            "title_romanji": "Dogfight ",
+            "aired": "2005-12-17T00:00:00+00:00",
+            "score": 4.56,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=441377"
+        },
+        {
+            "mal_id": 22,
+            "url": "https://myanimelist.net/anime/18/Initial_D_Fourth_Stage/episode/22",
+            "title": "The Sorcerer of the Single-Handed Steer",
+            "title_japanese": "ワンハンドステアの魔術",
+            "title_romanji": "One Hand Steer no Majutsu ",
+            "aired": "2005-12-17T00:00:00+00:00",
+            "score": 4.49,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=569289"
+        },
+        {
+            "mal_id": 23,
+            "url": "https://myanimelist.net/anime/18/Initial_D_Fourth_Stage/episode/23",
+            "title": "Endless Battle",
+            "title_japanese": "エンドレスバトル",
+            "title_romanji": "Endless Battle ",
+            "aired": "2006-02-18T00:00:00+00:00",
+            "score": 4.61,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=441413"
+        },
+        {
+            "mal_id": 24,
+            "url": "https://myanimelist.net/anime/18/Initial_D_Fourth_Stage/episode/24",
+            "title": "The Never-ending Challenge",
+            "title_japanese": "終わらない挑戦",
+            "title_romanji": "Owaranai Chousen ",
+            "aired": "2006-02-18T00:00:00+00:00",
+            "score": 4.42,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=135128"
+        }
+    ]
+}
