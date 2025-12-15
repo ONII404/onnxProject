@@ -1,0 +1,543 @@
+{
+    "id": 2087,
+    "fetched_at": "Sun Dec 14 18:09:45 2025",
+    "metadata": {
+        "mal_id": 2087,
+        "url": "https://myanimelist.net/anime/2087/VS_Knight_Lamune___40_Fire",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1282/152115.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1282/152115t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1282/152115l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1282/152115.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1282/152115t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1282/152115l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "VS Knight Lamune & 40 Fire"
+            },
+            {
+                "type": "Synonym",
+                "title": "Knights of Ramune & 40 Fire"
+            },
+            {
+                "type": "Synonym",
+                "title": "VS Knight Ramune & 40 Fire"
+            },
+            {
+                "type": "Japanese",
+                "title": "VS騎士ラムネ&40炎"
+            },
+            {
+                "type": "Spanish",
+                "title": "Los Caballeros de Lamune. Fuego"
+            }
+        ],
+        "title": "VS Knight Lamune & 40 Fire",
+        "title_english": null,
+        "title_japanese": "VS騎士ラムネ&40炎",
+        "title_synonyms": [
+            "Knights of Ramune & 40 Fire",
+            "VS Knight Ramune & 40 Fire"
+        ],
+        "type": "TV",
+        "source": "Original",
+        "episodes": 26,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "1996-04-03T00:00:00+00:00",
+            "to": "1996-09-25T00:00:00+00:00",
+            "prop": {
+                "from": {
+                    "day": 3,
+                    "month": 4,
+                    "year": 1996
+                },
+                "to": {
+                    "day": 25,
+                    "month": 9,
+                    "year": 1996
+                }
+            },
+            "string": "Apr 3, 1996 to Sep 25, 1996"
+        },
+        "duration": "23 min per ep",
+        "rating": "PG-13 - Teens 13 or older",
+        "score": 6.91,
+        "scored_by": 1644,
+        "rank": 4960,
+        "popularity": 9882,
+        "members": 4206,
+        "favorites": 16,
+        "synopsis": "Baba Lamunade is followed home by two strange peddler girls who give him a CD-rom game. After he beats \"The Legend of Lamuness\", the girls come out of his computer and bring him to DokiDoki Space. He is the third descendant of the hero Lamuness who must stop Don Genosai from resurrecting the great evil Abraham. Accompanied by PQ, his advisor robot, and Parfait and Cacao, he must pilot the Kaizer Fire mecha. However, he needs another pilot, and Da Cider is chosen as the second pilot. \n\n(Source: ANN)",
+        "background": "",
+        "season": "spring",
+        "year": 1996,
+        "broadcast": {
+            "day": "Wednesdays",
+            "time": "18:30",
+            "timezone": "Asia/Tokyo",
+            "string": "Wednesdays at 18:30 (JST)"
+        },
+        "producers": [
+            {
+                "mal_id": 16,
+                "type": "anime",
+                "name": "TV Tokyo",
+                "url": "https://myanimelist.net/anime/producer/16/TV_Tokyo"
+            },
+            {
+                "mal_id": 142,
+                "type": "anime",
+                "name": "Asatsu DK",
+                "url": "https://myanimelist.net/anime/producer/142/Asatsu_DK"
+            }
+        ],
+        "licensors": [
+            {
+                "mal_id": 324,
+                "type": "anime",
+                "name": "Directions",
+                "url": "https://myanimelist.net/anime/producer/324/Directions"
+            },
+            {
+                "mal_id": 467,
+                "type": "anime",
+                "name": "Discotek Media",
+                "url": "https://myanimelist.net/anime/producer/467/Discotek_Media"
+            }
+        ],
+        "studios": [
+            {
+                "mal_id": 242,
+                "type": "anime",
+                "name": "Ashi Productions",
+                "url": "https://myanimelist.net/anime/producer/242/Ashi_Productions"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 4,
+                "type": "anime",
+                "name": "Comedy",
+                "url": "https://myanimelist.net/anime/genre/4/Comedy"
+            },
+            {
+                "mal_id": 10,
+                "type": "anime",
+                "name": "Fantasy",
+                "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [
+            {
+                "mal_id": 18,
+                "type": "anime",
+                "name": "Mecha",
+                "url": "https://myanimelist.net/anime/genre/18/Mecha"
+            }
+        ],
+        "demographics": [],
+        "relations": [
+            {
+                "relation": "Prequel",
+                "entry": [
+                    {
+                        "mal_id": 2086,
+                        "type": "anime",
+                        "name": "NG Knight Ramune & 40 DX: Wakuwaku Jikuu - Honoo no Daisousasen",
+                        "url": "https://myanimelist.net/anime/2086/NG_Knight_Ramune___40_DX__Wakuwaku_Jikuu_-_Honoo_no_Daisousasen"
+                    }
+                ]
+            },
+            {
+                "relation": "Sequel",
+                "entry": [
+                    {
+                        "mal_id": 1411,
+                        "type": "anime",
+                        "name": "VS Knight Lamune & 40 Fresh",
+                        "url": "https://myanimelist.net/anime/1411/VS_Knight_Lamune___40_Fresh"
+                    }
+                ]
+            },
+            {
+                "relation": "Adaptation",
+                "entry": [
+                    {
+                        "mal_id": 19581,
+                        "type": "manga",
+                        "name": "VS Knight Lamune & 40 Fire",
+                        "url": "https://myanimelist.net/manga/19581/VS_Knight_Lamune___40_Fire"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [
+                "\"Miraikei Idol (未来形アイドル)\" by Hikami Kyouko & Miyamura Yuuko"
+            ],
+            "endings": [
+                "\"Yuuki no Inryoku (勇気の引力)\" by Liaison"
+            ]
+        },
+        "external": [
+            {
+                "name": "Official Site",
+                "url": "http://www.pro-reed.com/works/tv_series/w030.html"
+            },
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=1367"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=2361"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/VS_Knight_Ramune_&_40_Fire"
+            }
+        ],
+        "streaming": [
+            {
+                "name": "Crunchyroll",
+                "url": "http://www.crunchyroll.com/series-278579"
+            }
+        ]
+    },
+    "episodes": [
+        {
+            "mal_id": 1,
+            "url": "https://myanimelist.net/anime/2087/VS_Knight_Lamune___40_Fire/episode/1",
+            "title": "The Hero Reborn!!",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 4.33,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1809276"
+        },
+        {
+            "mal_id": 2,
+            "url": "https://myanimelist.net/anime/2087/VS_Knight_Lamune___40_Fire/episode/2",
+            "title": "The Legendary Hero Appears",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 3.86,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1809277"
+        },
+        {
+            "mal_id": 3,
+            "url": "https://myanimelist.net/anime/2087/VS_Knight_Lamune___40_Fire/episode/3",
+            "title": "Doubts!! What it Takes to be a Hero.",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 4.75,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1809475"
+        },
+        {
+            "mal_id": 4,
+            "url": "https://myanimelist.net/anime/2087/VS_Knight_Lamune___40_Fire/episode/4",
+            "title": "The Bewitching Gates",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 4.25,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1809673"
+        },
+        {
+            "mal_id": 5,
+            "url": "https://myanimelist.net/anime/2087/VS_Knight_Lamune___40_Fire/episode/5",
+            "title": "The Dangerous Hero Stew",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 6,
+            "url": "https://myanimelist.net/anime/2087/VS_Knight_Lamune___40_Fire/episode/6",
+            "title": "The Hungry Prince",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 7,
+            "url": "https://myanimelist.net/anime/2087/VS_Knight_Lamune___40_Fire/episode/7",
+            "title": "The Spirit Knights Clash?!",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 8,
+            "url": "https://myanimelist.net/anime/2087/VS_Knight_Lamune___40_Fire/episode/8",
+            "title": "The Legend in the Ice",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 9,
+            "url": "https://myanimelist.net/anime/2087/VS_Knight_Lamune___40_Fire/episode/9",
+            "title": "The Love That Transcended Time!!",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 10,
+            "url": "https://myanimelist.net/anime/2087/VS_Knight_Lamune___40_Fire/episode/10",
+            "title": "Love's Memory",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 11,
+            "url": "https://myanimelist.net/anime/2087/VS_Knight_Lamune___40_Fire/episode/11",
+            "title": "The Uncertain Hero",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 12,
+            "url": "https://myanimelist.net/anime/2087/VS_Knight_Lamune___40_Fire/episode/12",
+            "title": "The Showdown at Dimension Castle!!",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 13,
+            "url": "https://myanimelist.net/anime/2087/VS_Knight_Lamune___40_Fire/episode/13",
+            "title": "The Enemy's Name is Black Lamuness!",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 14,
+            "url": "https://myanimelist.net/anime/2087/VS_Knight_Lamune___40_Fire/episode/14",
+            "title": "Into the VS Field!!",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 15,
+            "url": "https://myanimelist.net/anime/2087/VS_Knight_Lamune___40_Fire/episode/15",
+            "title": "Stone Panic",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 16,
+            "url": "https://myanimelist.net/anime/2087/VS_Knight_Lamune___40_Fire/episode/16",
+            "title": "The Nightmare Exposed",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 17,
+            "url": "https://myanimelist.net/anime/2087/VS_Knight_Lamune___40_Fire/episode/17",
+            "title": "A Game of Hero Snakes and Ladders?!",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 18,
+            "url": "https://myanimelist.net/anime/2087/VS_Knight_Lamune___40_Fire/episode/18",
+            "title": "Who Am I?!",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 3.5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1953800"
+        },
+        {
+            "mal_id": 19,
+            "url": "https://myanimelist.net/anime/2087/VS_Knight_Lamune___40_Fire/episode/19",
+            "title": "The Hero is a Three-Year-Old?!",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 20,
+            "url": "https://myanimelist.net/anime/2087/VS_Knight_Lamune___40_Fire/episode/20",
+            "title": "Cacao's Tears!",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 21,
+            "url": "https://myanimelist.net/anime/2087/VS_Knight_Lamune___40_Fire/episode/21",
+            "title": "Parfait's Heart is Pounding",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 22,
+            "url": "https://myanimelist.net/anime/2087/VS_Knight_Lamune___40_Fire/episode/22",
+            "title": "The Phantom Girl",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 23,
+            "url": "https://myanimelist.net/anime/2087/VS_Knight_Lamune___40_Fire/episode/23",
+            "title": "The Distant Vow",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 24,
+            "url": "https://myanimelist.net/anime/2087/VS_Knight_Lamune___40_Fire/episode/24",
+            "title": "Dandy's Suicide Strike!!",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 25,
+            "url": "https://myanimelist.net/anime/2087/VS_Knight_Lamune___40_Fire/episode/25",
+            "title": "Love, Sorrow, and Friendship",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 26,
+            "url": "https://myanimelist.net/anime/2087/VS_Knight_Lamune___40_Fire/episode/26",
+            "title": "The Legend's End",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        }
+    ]
+}

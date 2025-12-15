@@ -1,0 +1,165 @@
+{
+    "id": 2738,
+    "fetched_at": "Sun Dec 14 18:53:16 2025",
+    "metadata": {
+        "mal_id": 2738,
+        "url": "https://myanimelist.net/anime/2738/Kasumin_3rd_Season",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/12/67259.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/12/67259t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/12/67259l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/12/67259.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/12/67259t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/12/67259l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Kasumin 3rd Season"
+            },
+            {
+                "type": "Synonym",
+                "title": "Kasumin 3rd Series"
+            },
+            {
+                "type": "Japanese",
+                "title": "カスミン (第3シリーズ)"
+            }
+        ],
+        "title": "Kasumin 3rd Season",
+        "title_english": null,
+        "title_japanese": "カスミン (第3シリーズ)",
+        "title_synonyms": [
+            "Kasumin 3rd Series"
+        ],
+        "type": "TV",
+        "source": "Unknown",
+        "episodes": 26,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "2003-04-09T00:00:00+00:00",
+            "to": "2003-10-01T00:00:00+00:00",
+            "prop": {
+                "from": {
+                    "day": 9,
+                    "month": 4,
+                    "year": 2003
+                },
+                "to": {
+                    "day": 1,
+                    "month": 10,
+                    "year": 2003
+                }
+            },
+            "string": "Apr 9, 2003 to Oct 1, 2003"
+        },
+        "duration": "25 min per ep",
+        "rating": "PG - Children",
+        "score": 6.21,
+        "scored_by": 403,
+        "rank": 9060,
+        "popularity": 14746,
+        "members": 1048,
+        "favorites": 2,
+        "synopsis": "Kasumi Haruno is a fourth grade student. She came to Kasumi Town to see off her zoologist parents on their trip to Africa to do research. In the center of the town, surrounded by forest, is the large mansion belonging to the Kasumi family where Kasumi will be staying from now on.\n\nKasumi passes through the mansion's gate right away, but a strange atmosphere emanates from somewhere in the Kasumi Forest. When he finally makes it to the mansion, there are talking appliances! It would seem that members of the Kasumi family were youkai called \"Henamon\". Kasumi never dreamed she would end up living with a family of Henamon. She is very busy doing the cooking, laundry, and cleaning in exchange for living there. Surrounded by mysterious companions, what will become of Kasumi's new life?\n\n(Source: AniDB)",
+        "background": "",
+        "season": "spring",
+        "year": 2003,
+        "broadcast": {
+            "day": null,
+            "time": null,
+            "timezone": null,
+            "string": "Unknown"
+        },
+        "producers": [
+            {
+                "mal_id": 111,
+                "type": "anime",
+                "name": "NHK",
+                "url": "https://myanimelist.net/anime/producer/111/NHK"
+            }
+        ],
+        "licensors": [],
+        "studios": [
+            {
+                "mal_id": 28,
+                "type": "anime",
+                "name": "OLM",
+                "url": "https://myanimelist.net/anime/producer/28/OLM"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 10,
+                "type": "anime",
+                "name": "Fantasy",
+                "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [],
+        "demographics": [
+            {
+                "mal_id": 15,
+                "type": "anime",
+                "name": "Kids",
+                "url": "https://myanimelist.net/anime/genre/15/Kids"
+            }
+        ],
+        "relations": [
+            {
+                "relation": "Prequel",
+                "entry": [
+                    {
+                        "mal_id": 27723,
+                        "type": "anime",
+                        "name": "Kasumin 2nd Season",
+                        "url": "https://myanimelist.net/anime/27723/Kasumin_2nd_Season"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [
+                "\"Nijiiro no Sunadokei\" by Saori Yuki & Sachiko Yasuda"
+            ],
+            "endings": [
+                "\"Hoshi ga Utatta Monogatari\" by Saori Yuki & Sachiko Yasuda"
+            ]
+        },
+        "external": [
+            {
+                "name": "Official Site",
+                "url": "http://www.nhk.or.jp/anime/kasumin/"
+            },
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=733"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=205"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": []
+}

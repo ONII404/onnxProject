@@ -1,0 +1,830 @@
+{
+    "id": 2391,
+    "fetched_at": "Sun Dec 14 18:31:20 2025",
+    "metadata": {
+        "mal_id": 2391,
+        "url": "https://myanimelist.net/anime/2391/SD_Gundam_Force",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1121/117789.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1121/117789t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1121/117789l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1121/117789.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1121/117789t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1121/117789l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "SD Gundam Force"
+            },
+            {
+                "type": "Synonym",
+                "title": "Superior Defender Gundam Force"
+            },
+            {
+                "type": "Japanese",
+                "title": "SDガンダムフォース"
+            }
+        ],
+        "title": "SD Gundam Force",
+        "title_english": null,
+        "title_japanese": "SDガンダムフォース",
+        "title_synonyms": [
+            "Superior Defender Gundam Force"
+        ],
+        "type": "TV",
+        "source": "Original",
+        "episodes": 52,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "2004-01-07T00:00:00+00:00",
+            "to": "2004-12-29T00:00:00+00:00",
+            "prop": {
+                "from": {
+                    "day": 7,
+                    "month": 1,
+                    "year": 2004
+                },
+                "to": {
+                    "day": 29,
+                    "month": 12,
+                    "year": 2004
+                }
+            },
+            "string": "Jan 7, 2004 to Dec 29, 2004"
+        },
+        "duration": "25 min per ep",
+        "rating": "PG-13 - Teens 13 or older",
+        "score": 5.4,
+        "scored_by": 4815,
+        "rank": 12998,
+        "popularity": 7007,
+        "members": 10301,
+        "favorites": 12,
+        "synopsis": "The land of Neotopia is attacked by the Dark Axis, evil invaders from another dimension who wish to conquer this land. Neotopia's answer: the secret Super Dimensional Guard and their defenders, the Gundam Force. Led by Captain Gundam, the Gundam Force and its team of Gundams with special abilities are aided by a boy named Shute as they stop at nothing to defend the land from the Dark Axis and to defeat them once and for all. \n\n(Source: ANN)",
+        "background": "",
+        "season": "winter",
+        "year": 2004,
+        "broadcast": {
+            "day": "Wednesdays",
+            "time": "18:00",
+            "timezone": "Asia/Tokyo",
+            "string": "Wednesdays at 18:00 (JST)"
+        },
+        "producers": [
+            {
+                "mal_id": 23,
+                "type": "anime",
+                "name": "Bandai Visual",
+                "url": "https://myanimelist.net/anime/producer/23/Bandai_Visual"
+            },
+            {
+                "mal_id": 64,
+                "type": "anime",
+                "name": "Sotsu",
+                "url": "https://myanimelist.net/anime/producer/64/Sotsu"
+            },
+            {
+                "mal_id": 717,
+                "type": "anime",
+                "name": "TV Tokyo Music",
+                "url": "https://myanimelist.net/anime/producer/717/TV_Tokyo_Music"
+            }
+        ],
+        "licensors": [
+            {
+                "mal_id": 233,
+                "type": "anime",
+                "name": "Bandai Entertainment",
+                "url": "https://myanimelist.net/anime/producer/233/Bandai_Entertainment"
+            }
+        ],
+        "studios": [
+            {
+                "mal_id": 14,
+                "type": "anime",
+                "name": "Sunrise",
+                "url": "https://myanimelist.net/anime/producer/14/Sunrise"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 2,
+                "type": "anime",
+                "name": "Adventure",
+                "url": "https://myanimelist.net/anime/genre/2/Adventure"
+            },
+            {
+                "mal_id": 4,
+                "type": "anime",
+                "name": "Comedy",
+                "url": "https://myanimelist.net/anime/genre/4/Comedy"
+            },
+            {
+                "mal_id": 10,
+                "type": "anime",
+                "name": "Fantasy",
+                "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [
+            {
+                "mal_id": 18,
+                "type": "anime",
+                "name": "Mecha",
+                "url": "https://myanimelist.net/anime/genre/18/Mecha"
+            }
+        ],
+        "demographics": [],
+        "relations": [
+            {
+                "relation": "Parent Story",
+                "entry": [
+                    {
+                        "mal_id": 80,
+                        "type": "anime",
+                        "name": "Kidou Senshi Gundam",
+                        "url": "https://myanimelist.net/anime/80/Kidou_Senshi_Gundam"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [
+                "1: \"Sunrise\" by Puffy AmiYumi (eps 1-13)",
+                "2: \"Love & Peace\" by Little by Little (eps 14-26)",
+                "3: \"Taiyou ni Kogarete\" by Harebare (eps 27-52)"
+            ],
+            "endings": [
+                "1: \"Shinjiru Chikara\" by Whiteberry (eps 1-13)",
+                "2: \"Kokoro Odoru\" by nobodyknows+ (eps 14-26)",
+                "3: \"Kimi to Boku\" by I WiSH (eps 27-38)",
+                "4: \"Koishikute...\" by Les.R (eps 39-52)"
+            ]
+        },
+        "external": [
+            {
+                "name": "Official Site",
+                "url": "http://www.sunrise-inc.co.jp/sd_gundamforce/"
+            },
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=1703"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=2922"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "http://en.wikipedia.org/wiki/Superior_Defender_Gundam_Force"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": [
+        {
+            "mal_id": 1,
+            "url": null,
+            "title": "His Name is Captain",
+            "title_japanese": "その名はキャプテン",
+            "title_romanji": "Sono na wa Captain ",
+            "aired": "2004-01-07T00:00:00+00:00",
+            "score": 1,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2145987"
+        },
+        {
+            "mal_id": 2,
+            "url": null,
+            "title": "Soul Drive, Activate!",
+            "title_japanese": "輝け！ソウルドライブ",
+            "title_romanji": "Kagayake! Soul Drive ",
+            "aired": "2004-01-14T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 3,
+            "url": null,
+            "title": "Zero, the Flying Knight",
+            "title_japanese": "ナイト) ゼロ",
+            "title_romanji": "Ten Kakeru Knight Zero (天駆ける騎士",
+            "aired": "2004-01-21T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 4,
+            "url": null,
+            "title": "Attack the Enemy Musai!",
+            "title_japanese": "敵のムサイ艦を叩け！",
+            "title_romanji": "Teki no Musaikan wo Tatake! ",
+            "aired": "2004-01-28T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 5,
+            "url": null,
+            "title": "Gundam Force, Team Up!",
+            "title_japanese": "結成！ガンダムフォース",
+            "title_romanji": "Kessei! Gundam Force ",
+            "aired": "2004-02-04T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 6,
+            "url": null,
+            "title": "The Blazing Samurai Comes to Neotopia",
+            "title_japanese": "炎の武者、ネオトピアを征く",
+            "title_romanji": "Honoo no Musha, Neotopia wo Yuku ",
+            "aired": "2004-02-11T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 7,
+            "url": null,
+            "title": "Go! Gunbiker!",
+            "title_japanese": "激走！ガンバイカー",
+            "title_romanji": "Gekisou! Gunbiker! ",
+            "aired": "2004-02-18T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 8,
+            "url": null,
+            "title": "A Princess, A Cake, and the Winged Knight",
+            "title_japanese": "姫とケーキと翼の騎士",
+            "title_romanji": "Hime to Cake to Tsubasa no Kishi ",
+            "aired": "2004-02-25T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 9,
+            "url": null,
+            "title": "Bakunetsumaru's Struggle",
+            "title_japanese": "爆熱丸奮闘記",
+            "title_romanji": "Bakunetsumaru Funtouki ",
+            "aired": "2004-03-03T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 10,
+            "url": null,
+            "title": "Gundam Force Triple Attack!",
+            "title_japanese": "必殺！トリプルアタック！",
+            "title_romanji": "Hissatsu! Triple Attack! ",
+            "aired": "2004-03-10T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 11,
+            "url": null,
+            "title": "The Mystery of LaCroix Pt 1: Arrival",
+            "title_japanese": "迷宮のラクロア・前編",
+            "title_romanji": "Meikyuu no LaCroix: Zenpen ",
+            "aired": "2004-03-17T00:00:00+00:00",
+            "score": 3,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2146367"
+        },
+        {
+            "mal_id": 12,
+            "url": null,
+            "title": "The Mystery of LaCroix Pt 2: Trapped",
+            "title_japanese": "迷宮のラクロア・中編",
+            "title_romanji": "Meikyuu no LaCroix: Chuuhen ",
+            "aired": "2004-03-24T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 13,
+            "url": null,
+            "title": "The Mystery of LaCroix Pt 3: Return",
+            "title_japanese": "迷宮のラクロア・後編",
+            "title_romanji": "Neikyuu no LaCroix: Kouhen ",
+            "aired": "2004-03-31T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 14,
+            "url": null,
+            "title": "Under Cover Mission! Learn the Gundam Force's Secrets!",
+            "title_japanese": "ガンダムフォースの秘密にせまれ",
+            "title_romanji": "Gundam Force no Himitsu ni Semare ",
+            "aired": "2004-04-07T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 15,
+            "url": null,
+            "title": "March Wing: GunEagle",
+            "title_japanese": "音速の翼 ガンイーグル！",
+            "title_romanji": "Onsoku no Tsubasa GunEagle! ",
+            "aired": "2004-04-14T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 16,
+            "url": null,
+            "title": "Masters of the Deep Sea: GunDivers!",
+            "title_japanese": "深海の覇者 ガンダイバー！",
+            "title_romanji": "Shinkai no Hasha GunDiver! ",
+            "aired": "2004-04-21T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 17,
+            "url": null,
+            "title": "Ashuramaru: The Old Rival Returns",
+            "title_japanese": "新たなる刺客、その名は阿修羅丸！",
+            "title_romanji": "Aratanaru Shikaku, sono na wa Ashuramaru! ",
+            "aired": "2004-04-28T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 18,
+            "url": null,
+            "title": "Fly, Captain! The SDG Base Hangs by a Thread!",
+            "title_japanese": "S.D.G.基地 危機一髪！",
+            "title_romanji": "S.D.G. Kichi Kiki Ippatsu! ",
+            "aired": "2004-05-05T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 19,
+            "url": null,
+            "title": "Showdown! Bakunetsumaru vs. Ashuramaru",
+            "title_japanese": "決闘！爆熱丸対阿修羅丸",
+            "title_romanji": "Kettou! Bakunetsumaru vs. Ashuramaru ",
+            "aired": "2004-05-12T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 20,
+            "url": null,
+            "title": "Fenn's Disaster",
+            "title_japanese": "フェンの災難",
+            "title_romanji": "Fenn no Sainan ",
+            "aired": "2004-05-19T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 21,
+            "url": null,
+            "title": "Awakening! Feather Dragon",
+            "title_japanese": "覚醒！フェザードラゴン",
+            "title_romanji": "Kakusei! Feather Dragon ",
+            "aired": "2004-05-26T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2146662"
+        },
+        {
+            "mal_id": 22,
+            "url": null,
+            "title": "Attack of the Big-Zam",
+            "title_japanese": "ビグ・ザム強襲",
+            "title_romanji": "Big-Zam Kyoushuu ",
+            "aired": "2004-06-02T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 23,
+            "url": null,
+            "title": "Fire Up! Captain System",
+            "title_japanese": "発動！キャプテンシステム",
+            "title_romanji": "Hatsudou! Captain System ",
+            "aired": "2004-06-09T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 24,
+            "url": null,
+            "title": "Trouble! Stolen Soul Drive",
+            "title_japanese": "ピンチ！ソウルドライブ強奪",
+            "title_romanji": "Pinchi! Soul Drive Goudatsu ",
+            "aired": "2004-06-16T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 25,
+            "url": null,
+            "title": "Neotopia's Moment of Truth",
+            "title_japanese": "ネオトピア最大の危機",
+            "title_romanji": "Neotopia Saidai no Kiki ",
+            "aired": "2004-06-23T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 26,
+            "url": null,
+            "title": "The Final Battle! Commander vs. Captain",
+            "title_japanese": "決戦！ コマンダー対キャプテン",
+            "title_romanji": "Kessen! Commander vs. Captain ",
+            "aired": "2004-06-30T00:00:00+00:00",
+            "score": 5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2146674"
+        },
+        {
+            "mal_id": 27,
+            "url": null,
+            "title": "Charge! Dark Axis",
+            "title_japanese": "突入！ ダークアクシズ",
+            "title_romanji": "Totsunyuu! Dark Axis ",
+            "aired": "2004-07-07T00:00:00+00:00",
+            "score": 3,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2146685"
+        },
+        {
+            "mal_id": 28,
+            "url": null,
+            "title": "Three Paths",
+            "title_japanese": "三つの道",
+            "title_romanji": "Mittsu no Michi ",
+            "aired": "2004-07-14T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 29,
+            "url": null,
+            "title": "The Final Blow is Dealt!? The Threat of the Minofus Boundary",
+            "title_japanese": "必殺技封印!?ミノフス境海の脅威",
+            "title_romanji": "Hissatsuwaza Fuuin!? Minofus Sakai Umi no Kyoui ",
+            "aired": "2004-07-21T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 30,
+            "url": null,
+            "title": "Revival! We are the Leaders!?",
+            "title_japanese": "復活！俺たちが主役だ!?",
+            "title_romanji": "Fukkatsu! Oretachi ga Shuyaku da!? ",
+            "aired": "2004-07-28T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 31,
+            "url": null,
+            "title": "The Demon Blade, Epyon",
+            "title_japanese": "魔剣エピオン",
+            "title_romanji": "Maken Epyon ",
+            "aired": "2004-08-04T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2146791"
+        },
+        {
+            "mal_id": 32,
+            "url": null,
+            "title": "Epyon's Assault!",
+            "title_japanese": "エピオン強襲！",
+            "title_romanji": "Epyon Kyoushuu! ",
+            "aired": "2004-08-11T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 33,
+            "url": null,
+            "title": "Reclaim! The Cursed Princess Lacroa",
+            "title_japanese": "奪還！呪われしラクロア姫",
+            "title_romanji": "Dakkan! Norowa Reshi Lacroa Hime ",
+            "aired": "2004-08-18T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 34,
+            "url": null,
+            "title": "The Black Robe of Princess Lacroa",
+            "title_japanese": "黒き衣のラクロア姫",
+            "title_romanji": "Kuroki Koromo no Lacroa Hime ",
+            "aired": "2004-08-25T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 35,
+            "url": null,
+            "title": "World's Greatest! Volume of Genkimaruuuuuuuuuuuuu!",
+            "title_japanese": "天下一等！元気丸～っ！の巻",
+            "title_romanji": "Tenka Ittou! Genkimaru ~ tsu! no Maki ",
+            "aired": "2004-09-01T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 36,
+            "url": null,
+            "title": "Onigiri and the Garden of Wisdom",
+            "title_japanese": "おにぎりと英知の園",
+            "title_romanji": "Onigiri to Eichi no Sono ",
+            "aired": "2004-09-08T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 37,
+            "url": null,
+            "title": "Crash! The Dark Deathscythe",
+            "title_japanese": "激突！闇のデスサイズ",
+            "title_romanji": "Gekitotsu! Yami no Death Scythe ",
+            "aired": "2004-09-15T00:00:00+00:00",
+            "score": 3,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2146801"
+        },
+        {
+            "mal_id": 38,
+            "url": null,
+            "title": "Princess Lili, Reborn!",
+            "title_japanese": "リリ姫、復活！",
+            "title_romanji": "Lili Hime, Fukkatsu! ",
+            "aired": "2004-09-22T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 39,
+            "url": null,
+            "title": "Garbera's Cry",
+            "title_japanese": "ガーベラの呼び声",
+            "title_romanji": "Garbera no Yobigoe ",
+            "aired": "2004-09-29T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 40,
+            "url": null,
+            "title": "Kiba-Oh-Maru's Invasion!",
+            "title_japanese": "騎馬王丸、襲来！",
+            "title_romanji": "Kibaoumaru, Shuurai! ",
+            "aired": "2004-10-06T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 41,
+            "url": null,
+            "title": "Imprisoned Shute and Lili",
+            "title_japanese": "囚われたシュウトとリリ",
+            "title_romanji": "Torawareta Shute to Lili ",
+            "aired": "2004-10-13T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 42,
+            "url": null,
+            "title": "Disturbances of the Horoscope",
+            "title_japanese": "戦乱の天宮",
+            "title_romanji": "Senran no Tenguu ",
+            "aired": "2004-10-20T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 43,
+            "url": null,
+            "title": "Final Move! Kiba-Oh-Maru vs. Shute",
+            "title_japanese": "究極の一手！騎馬王丸対シュウト",
+            "title_romanji": "Kyuukyoku no Itte! Kibaoumaru tai Shuuto ",
+            "aired": "2004-10-27T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2146816"
+        },
+        {
+            "mal_id": 44,
+            "url": null,
+            "title": "Baku-Shin-maru, Ignite!",
+            "title_japanese": "爆心丸、炎上!!",
+            "title_romanji": "Bakushinmaru, Enjou!! ",
+            "aired": "2004-11-03T00:00:00+00:00",
+            "score": 3,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2146920"
+        },
+        {
+            "mal_id": 45,
+            "url": null,
+            "title": "Gundam Force Assemble!",
+            "title_japanese": "ガンダムフォース集合!!",
+            "title_romanji": "Gundam Force Shuugou!! ",
+            "aired": "2004-11-10T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 46,
+            "url": null,
+            "title": "The Tears of Cobramaru",
+            "title_japanese": "虚武羅丸の涙",
+            "title_romanji": "Cobramaru no Namida ",
+            "aired": "2004-11-17T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2146923"
+        },
+        {
+            "mal_id": 47,
+            "url": null,
+            "title": "Musha Daishinsho Unleashed!",
+            "title_japanese": "起動！武者大神将",
+            "title_romanji": "Kidou! Musha Daishinshou ",
+            "aired": "2004-11-24T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2146926"
+        },
+        {
+            "mal_id": 48,
+            "url": null,
+            "title": "Tenchjio on Fire: Genkimaru's Roar!!",
+            "title_japanese": "炎の天地城、元気丸の叫び！",
+            "title_romanji": "Honoo no Tenchijou, Genkimaru no Sakebi! ",
+            "aired": "2004-12-01T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2146927"
+        },
+        {
+            "mal_id": 49,
+            "url": null,
+            "title": "Prelude to Destruction: Gerbera's True Identity",
+            "title_japanese": "破滅への序曲、ガーベラの正体",
+            "title_romanji": "Hametsu e no Jokyoku, Gerbera no Shoutai ",
+            "aired": "2004-12-08T00:00:00+00:00",
+            "score": 2,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2146929"
+        },
+        {
+            "mal_id": 50,
+            "url": null,
+            "title": "Total Anihilation?! The Threat of the General",
+            "title_japanese": "世界消失!?ジェネラルの脅威",
+            "title_romanji": "Sekai Shoushitsu!? General no Kyoui ",
+            "aired": "2004-12-15T00:00:00+00:00",
+            "score": 3,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2146930"
+        },
+        {
+            "mal_id": 51,
+            "url": null,
+            "title": "The Final Battle! The General vs. Everyone!",
+            "title_japanese": "大決戦！ジェネラルvsみんな",
+            "title_romanji": "Dai Kessen! General vs Minna ",
+            "aired": "2004-12-22T00:00:00+00:00",
+            "score": 3,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2146932"
+        },
+        {
+            "mal_id": 52,
+            "url": null,
+            "title": "The Way Home",
+            "title_japanese": "帰り道",
+            "title_romanji": "Kaerimichi ",
+            "aired": "2004-12-29T00:00:00+00:00",
+            "score": 3,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2146934"
+        }
+    ]
+}

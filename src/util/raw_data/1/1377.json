@@ -1,0 +1,356 @@
+{
+    "id": 1377,
+    "fetched_at": "Sun Dec 14 16:18:05 2025",
+    "metadata": {
+        "mal_id": 1377,
+        "url": "https://myanimelist.net/anime/1377/Uchuu_Koukyoushi_Maetel__Ginga_Tetsudou_999_Gaiden",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/12/6787.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/12/6787t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/12/6787l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/12/6787.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/12/6787t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/12/6787l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Uchuu Koukyoushi Maetel: Ginga Tetsudou 999 Gaiden"
+            },
+            {
+                "type": "Synonym",
+                "title": "Space Symphony Maetel"
+            },
+            {
+                "type": "Synonym",
+                "title": "Uchuu Koukyoushi Maetel: Ginga Tetsudo 999 Gaiden"
+            },
+            {
+                "type": "Japanese",
+                "title": "宇宙交響詩メーテル ～銀河鉄道999外伝～"
+            },
+            {
+                "type": "English",
+                "title": "Space Symphonic Poem Maetel: Galaxy Express 999 Side Story"
+            },
+            {
+                "type": "French",
+                "title": "Space Symphony Maetel"
+            }
+        ],
+        "title": "Uchuu Koukyoushi Maetel: Ginga Tetsudou 999 Gaiden",
+        "title_english": "Space Symphonic Poem Maetel: Galaxy Express 999 Side Story",
+        "title_japanese": "宇宙交響詩メーテル ～銀河鉄道999外伝～",
+        "title_synonyms": [
+            "Space Symphony Maetel",
+            "Uchuu Koukyoushi Maetel: Ginga Tetsudo 999 Gaiden"
+        ],
+        "type": "TV",
+        "source": "Unknown",
+        "episodes": 13,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "2004-08-06T00:00:00+00:00",
+            "to": "2004-10-29T00:00:00+00:00",
+            "prop": {
+                "from": {
+                    "day": 6,
+                    "month": 8,
+                    "year": 2004
+                },
+                "to": {
+                    "day": 29,
+                    "month": 10,
+                    "year": 2004
+                }
+            },
+            "string": "Aug 6, 2004 to Oct 29, 2004"
+        },
+        "duration": "25 min per ep",
+        "rating": "PG-13 - Teens 13 or older",
+        "score": 6.68,
+        "scored_by": 1801,
+        "rank": 6205,
+        "popularity": 8871,
+        "members": 5741,
+        "favorites": 8,
+        "synopsis": "Maetel abandoned her mother and her home planet, the doomed and frozen La Metal, where people must become cyborgs to survive. When she is beckoned to return, her options seem slim: follow her mother's path (and with it a robot mind and the contempt of all humans), or run away and fight with humans against the machines. Yet, she is not without comrades and defenders. If she can accept the friendship of beings of metal who desire peace, and oppose those who think being made of flesh and blood is enough to make one human, she may still have a chance to find her own path.\n\n(Source: Anime-Planet)",
+        "background": "",
+        "season": "summer",
+        "year": 2004,
+        "broadcast": {
+            "day": null,
+            "time": null,
+            "timezone": null,
+            "string": "Unknown"
+        },
+        "producers": [
+            {
+                "mal_id": 140,
+                "type": "anime",
+                "name": "Animax",
+                "url": "https://myanimelist.net/anime/producer/140/Animax"
+            }
+        ],
+        "licensors": [],
+        "studios": [
+            {
+                "mal_id": 1191,
+                "type": "anime",
+                "name": "Azeta Pictures",
+                "url": "https://myanimelist.net/anime/producer/1191/Azeta_Pictures"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 8,
+                "type": "anime",
+                "name": "Drama",
+                "url": "https://myanimelist.net/anime/genre/8/Drama"
+            },
+            {
+                "mal_id": 24,
+                "type": "anime",
+                "name": "Sci-Fi",
+                "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [
+            {
+                "mal_id": 29,
+                "type": "anime",
+                "name": "Space",
+                "url": "https://myanimelist.net/anime/genre/29/Space"
+            }
+        ],
+        "demographics": [],
+        "relations": [
+            {
+                "relation": "Prequel",
+                "entry": [
+                    {
+                        "mal_id": 1495,
+                        "type": "anime",
+                        "name": "Maetel Legend",
+                        "url": "https://myanimelist.net/anime/1495/Maetel_Legend"
+                    }
+                ]
+            },
+            {
+                "relation": "Sequel",
+                "entry": [
+                    {
+                        "mal_id": 1491,
+                        "type": "anime",
+                        "name": "Ginga Tetsudou 999",
+                        "url": "https://myanimelist.net/anime/1491/Ginga_Tetsudou_999"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [
+                "\"Everlasting Dream\" by Royal Philharmonic Orchestra"
+            ],
+            "endings": [
+                "\"Galaxy Legend\" by Uehara Takako"
+            ]
+        },
+        "external": [
+            {
+                "name": "Official Site",
+                "url": "http://avexmode.jp/animation/spacemaetel/"
+            },
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=2410"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=4096"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "http://en.wikipedia.org/wiki/Galaxy_Express_999"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": [
+        {
+            "mal_id": 1,
+            "url": null,
+            "title": "Departure of \"Fate\"",
+            "title_japanese": "「運命」の旅立ち",
+            "title_romanji": "\"Unmei\" no Tabidachi ",
+            "aired": "2004-08-06T00:00:00+00:00",
+            "score": 4.17,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=460019"
+        },
+        {
+            "mal_id": 2,
+            "url": null,
+            "title": "Nazca's \"Passion\"",
+            "title_japanese": "ナスカの「熱情」",
+            "title_romanji": "Nazca no \"Netsujou\" ",
+            "aired": "2004-08-06T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=674365"
+        },
+        {
+            "mal_id": 3,
+            "url": null,
+            "title": "The Night Before the \"Revolution\"",
+            "title_japanese": "「革命」前夜",
+            "title_romanji": "\"Kakumei\" Zenya ",
+            "aired": "2004-08-06T00:00:00+00:00",
+            "score": 4.33,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=674935"
+        },
+        {
+            "mal_id": 4,
+            "url": null,
+            "title": "Rhapsody in Gold",
+            "title_japanese": "黄金色の「ラプソディ」",
+            "title_romanji": "Koganeiro no \"Rhapsody\" ",
+            "aired": "2004-08-27T00:00:00+00:00",
+            "score": 4.67,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=676079"
+        },
+        {
+            "mal_id": 5,
+            "url": null,
+            "title": "Promethium's Magic Flute",
+            "title_japanese": "プロメシュームの「魔笛」",
+            "title_romanji": "Promethium no \"Mateki\" ",
+            "aired": "2004-09-03T00:00:00+00:00",
+            "score": 4.67,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=676919"
+        },
+        {
+            "mal_id": 6,
+            "url": null,
+            "title": "Larela's Requiem",
+            "title_japanese": "ラーレラの「レクイエム」",
+            "title_romanji": "Laurela no \"Requiem\" ",
+            "aired": "2004-09-10T00:00:00+00:00",
+            "score": 4.5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=677345"
+        },
+        {
+            "mal_id": 7,
+            "url": null,
+            "title": "The Way to My Homeland",
+            "title_japanese": "「わが祖国」への道",
+            "title_romanji": "\"Waga Sokoku\" e no Michi ",
+            "aired": "2004-09-17T00:00:00+00:00",
+            "score": 4.33,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=679285"
+        },
+        {
+            "mal_id": 8,
+            "url": null,
+            "title": "A Funeral March for Mother",
+            "title_japanese": "母への「葬送行進曲」",
+            "title_romanji": "Haha e no \"Sousou Koushinkyoku\" ",
+            "aired": "2004-09-24T00:00:00+00:00",
+            "score": 4.33,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=679813"
+        },
+        {
+            "mal_id": 9,
+            "url": null,
+            "title": "La-Metal's Spring",
+            "title_japanese": "ラーメタルの「春」",
+            "title_romanji": "Lametalle no \"Haru\" ",
+            "aired": "2004-10-01T00:00:00+00:00",
+            "score": 4.75,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=680323"
+        },
+        {
+            "mal_id": 10,
+            "url": null,
+            "title": "Lightning Strikes the Titan",
+            "title_japanese": "電光の「巨人」",
+            "title_romanji": "Denkou no \"Kyojin\" ",
+            "aired": "2004-10-08T00:00:00+00:00",
+            "score": 4.75,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=680669"
+        },
+        {
+            "mal_id": 11,
+            "url": null,
+            "title": "Hero Leopard",
+            "title_japanese": "「英雄」レオパルド",
+            "title_romanji": "\"Eiyuu\" Leopard ",
+            "aired": "2004-10-15T00:00:00+00:00",
+            "score": 4.33,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=682413"
+        },
+        {
+            "mal_id": 12,
+            "url": null,
+            "title": "Song of the Wayfarer for the Heroes",
+            "title_japanese": "勇士たちの「別れの曲」",
+            "title_romanji": "Yuushi-tachi no \"Wakare no Kyoku\" ",
+            "aired": "2004-10-22T00:00:00+00:00",
+            "score": 4.33,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=682799"
+        },
+        {
+            "mal_id": 13,
+            "url": null,
+            "title": "The Far Away New World",
+            "title_japanese": "遥かなる「新世界」",
+            "title_romanji": "Harukanaru \"Shinsekai\" ",
+            "aired": "2004-10-29T00:00:00+00:00",
+            "score": 4.5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=684605"
+        }
+    ]
+}

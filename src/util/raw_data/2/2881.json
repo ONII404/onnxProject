@@ -1,0 +1,178 @@
+{
+    "id": 2881,
+    "fetched_at": "Sun Dec 14 19:02:30 2025",
+    "metadata": {
+        "mal_id": 2881,
+        "url": "https://myanimelist.net/anime/2881/Chinmoku_no_Kantai",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1624/101493.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1624/101493t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1624/101493l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1624/101493.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1624/101493t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1624/101493l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Chinmoku no Kantai"
+            },
+            {
+                "type": "Japanese",
+                "title": "沈黙の艦隊"
+            },
+            {
+                "type": "English",
+                "title": "Silent Service"
+            }
+        ],
+        "title": "Chinmoku no Kantai",
+        "title_english": "Silent Service",
+        "title_japanese": "沈黙の艦隊",
+        "title_synonyms": [],
+        "type": "OVA",
+        "source": "Manga",
+        "episodes": 3,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "1995-12-18T00:00:00+00:00",
+            "to": "1998-01-25T00:00:00+00:00",
+            "prop": {
+                "from": {
+                    "day": 18,
+                    "month": 12,
+                    "year": 1995
+                },
+                "to": {
+                    "day": 25,
+                    "month": 1,
+                    "year": 1998
+                }
+            },
+            "string": "Dec 18, 1995 to Jan 25, 1998"
+        },
+        "duration": "30 min per ep",
+        "rating": "PG-13 - Teens 13 or older",
+        "score": 6.28,
+        "scored_by": 943,
+        "rank": 8702,
+        "popularity": 10916,
+        "members": 3083,
+        "favorites": 4,
+        "synopsis": "During the cold war, the Japan Maritime Self-Defense Force jointly developed a nuclear submarine with the United States Navy. On its maiden voyage, the captain of the submarine declares the submarine to be an independent state, \"Yamato.\"",
+        "background": "",
+        "season": null,
+        "year": null,
+        "broadcast": {
+            "day": null,
+            "time": null,
+            "timezone": null,
+            "string": null
+        },
+        "producers": [],
+        "licensors": [
+            {
+                "mal_id": 284,
+                "type": "anime",
+                "name": "Central Park Media",
+                "url": "https://myanimelist.net/anime/producer/284/Central_Park_Media"
+            }
+        ],
+        "studios": [
+            {
+                "mal_id": 14,
+                "type": "anime",
+                "name": "Sunrise",
+                "url": "https://myanimelist.net/anime/producer/14/Sunrise"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 1,
+                "type": "anime",
+                "name": "Action",
+                "url": "https://myanimelist.net/anime/genre/1/Action"
+            },
+            {
+                "mal_id": 8,
+                "type": "anime",
+                "name": "Drama",
+                "url": "https://myanimelist.net/anime/genre/8/Drama"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [
+            {
+                "mal_id": 38,
+                "type": "anime",
+                "name": "Military",
+                "url": "https://myanimelist.net/anime/genre/38/Military"
+            }
+        ],
+        "demographics": [
+            {
+                "mal_id": 42,
+                "type": "anime",
+                "name": "Seinen",
+                "url": "https://myanimelist.net/anime/genre/42/Seinen"
+            }
+        ],
+        "relations": [
+            {
+                "relation": "Adaptation",
+                "entry": [
+                    {
+                        "mal_id": 18071,
+                        "type": "manga",
+                        "name": "Chinmoku no Kantai",
+                        "url": "https://myanimelist.net/manga/18071/Chinmoku_no_Kantai"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [],
+            "endings": [
+                "\"Yume no Nagisa: The Silent Service (夢の渚-The Silent Service-)\" by Takao Kisugi"
+            ]
+        },
+        "external": [
+            {
+                "name": "Official Site",
+                "url": "http://www.sunrise-inc.co.jp/work/detail.php?cid=115"
+            },
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=1185"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=734"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Silent_Service_(film)"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": []
+}

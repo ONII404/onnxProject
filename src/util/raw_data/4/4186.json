@@ -1,0 +1,523 @@
+{
+    "id": 4186,
+    "fetched_at": "Sun Dec 14 22:26:12 2025",
+    "metadata": {
+        "mal_id": 4186,
+        "url": "https://myanimelist.net/anime/4186/Koukaku_no_Regios",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/9/12238.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/9/12238t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/9/12238l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/9/12238.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/9/12238t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/9/12238l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": "https://www.youtube-nocookie.com/embed/l4Q2s3k4Leo?enablejsapi=1&wmode=opaque&autoplay=1",
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Koukaku no Regios"
+            },
+            {
+                "type": "Synonym",
+                "title": "Kokaku no Regios"
+            },
+            {
+                "type": "Japanese",
+                "title": "鋼殻のレギオス"
+            },
+            {
+                "type": "English",
+                "title": "Chrome Shelled Regios"
+            }
+        ],
+        "title": "Koukaku no Regios",
+        "title_english": "Chrome Shelled Regios",
+        "title_japanese": "鋼殻のレギオス",
+        "title_synonyms": [
+            "Kokaku no Regios"
+        ],
+        "type": "TV",
+        "source": "Light novel",
+        "episodes": 24,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "2009-01-11T00:00:00+00:00",
+            "to": "2009-06-21T00:00:00+00:00",
+            "prop": {
+                "from": {
+                    "day": 11,
+                    "month": 1,
+                    "year": 2009
+                },
+                "to": {
+                    "day": 21,
+                    "month": 6,
+                    "year": 2009
+                }
+            },
+            "string": "Jan 11, 2009 to Jun 21, 2009"
+        },
+        "duration": "24 min per ep",
+        "rating": "R - 17+ (violence & profanity)",
+        "score": 7.26,
+        "scored_by": 106731,
+        "rank": 3156,
+        "popularity": 1232,
+        "members": 221676,
+        "favorites": 1064,
+        "synopsis": "In a post-apocalyptic world overrun with mutated beasts called Limbeekoon or Filth Monsters, humanity is forced to live in large mobile cities called Regios and learn to use special weapons called Dite, by harnessing the power of Kei to defend themselves. In the Academy City of Zuellni, Layfon Alseif is hoping to start a new life and forget his past. However, his past has caught the attention of Karian Loss, the manipulative Student Council President and Nina Antalk, a Military Arts student and Captain of the 17th Military Arts Platoon, who instantly recognizes his abilities and decides he’s the perfect candidate to join her group. However, with a secret past that won’t leave him alone and unknown powers beyond normal, Layfon just might not take it.",
+        "background": "",
+        "season": "winter",
+        "year": 2009,
+        "broadcast": {
+            "day": "Sundays",
+            "time": "01:00",
+            "timezone": "Asia/Tokyo",
+            "string": "Sundays at 01:00 (JST)"
+        },
+        "producers": [
+            {
+                "mal_id": 113,
+                "type": "anime",
+                "name": "Kadokawa Shoten",
+                "url": "https://myanimelist.net/anime/producer/113/Kadokawa_Shoten"
+            },
+            {
+                "mal_id": 779,
+                "type": "anime",
+                "name": "AMG MUSIC",
+                "url": "https://myanimelist.net/anime/producer/779/AMG_MUSIC"
+            }
+        ],
+        "licensors": [
+            {
+                "mal_id": 102,
+                "type": "anime",
+                "name": "Funimation",
+                "url": "https://myanimelist.net/anime/producer/102/Funimation"
+            }
+        ],
+        "studios": [
+            {
+                "mal_id": 218,
+                "type": "anime",
+                "name": "Zexcs",
+                "url": "https://myanimelist.net/anime/producer/218/Zexcs"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 1,
+                "type": "anime",
+                "name": "Action",
+                "url": "https://myanimelist.net/anime/genre/1/Action"
+            },
+            {
+                "mal_id": 2,
+                "type": "anime",
+                "name": "Adventure",
+                "url": "https://myanimelist.net/anime/genre/2/Adventure"
+            },
+            {
+                "mal_id": 10,
+                "type": "anime",
+                "name": "Fantasy",
+                "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+            },
+            {
+                "mal_id": 24,
+                "type": "anime",
+                "name": "Sci-Fi",
+                "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [
+            {
+                "mal_id": 38,
+                "type": "anime",
+                "name": "Military",
+                "url": "https://myanimelist.net/anime/genre/38/Military"
+            },
+            {
+                "mal_id": 23,
+                "type": "anime",
+                "name": "School",
+                "url": "https://myanimelist.net/anime/genre/23/School"
+            },
+            {
+                "mal_id": 31,
+                "type": "anime",
+                "name": "Super Power",
+                "url": "https://myanimelist.net/anime/genre/31/Super_Power"
+            }
+        ],
+        "demographics": [],
+        "relations": [
+            {
+                "relation": "Prequel",
+                "entry": [
+                    {
+                        "mal_id": 6368,
+                        "type": "anime",
+                        "name": "Legend of Regios",
+                        "url": "https://myanimelist.net/anime/6368/Legend_of_Regios"
+                    }
+                ]
+            },
+            {
+                "relation": "Adaptation",
+                "entry": [
+                    {
+                        "mal_id": 7533,
+                        "type": "manga",
+                        "name": "Koukaku no Regios",
+                        "url": "https://myanimelist.net/manga/7533/Koukaku_no_Regios"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [
+                "\"Brave your truth\" by Daisy × Daisy"
+            ],
+            "endings": [
+                "1: \"Brave your truth\" by Daisy x Daisy (eps 1)",
+                "2: \"Yasashii Uso (ヤサシイウソ)\" by Chrome Shelled (eps 2-3,8)",
+                "3: \"Yasashii Uso (ヤサシイウソ)\" by Chrome Shelled feat. Felli Loss (CV: Mai Nakahara) (eps 4,9,11)",
+                "4: \"Yasashii Uso (ヤサシイウソ)\" by Chrome Shelled feat. Nina Antalk (CV: Ayahi Takagaki) (eps 5,7,10)",
+                "5: \"Yasashii Uso (ヤサシイウソ)\" by Chrome Shelled feat. Leerin Marfes (CV: Mikako Takahashi) (eps 6,12)",
+                "6: \"Ai no Zuellni (愛のツェルニ)\" by Chrome Shelled (eps 13-15,17-22,24)",
+                "7: \"Ai no Zuellni (愛のツェルニ)\" by Chrome Shelled feat. Mayshen Torinden (CV: Asuka Okame) (eps 16)",
+                "8: \"Ai no Zuellni (愛のツェルニ)\" by Chrome Shelled feat. Leerin Marfes (CV: Mikako Takahashi) (eps 23)"
+            ]
+        },
+        "external": [
+            {
+                "name": "Official Site",
+                "url": "http://www.fujimishobo.co.jp/sp/regios/"
+            },
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=5911"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=10243"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "http://en.wikipedia.org/wiki/Chrome_Shelled_Regios"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": [
+        {
+            "mal_id": 1,
+            "url": null,
+            "title": "The Conscious City",
+            "title_japanese": "意識を持つ都市",
+            "title_romanji": "Ishiki wo Motsu Toshi ",
+            "aired": "2009-01-11T00:00:00+00:00",
+            "score": 3.86,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=62052"
+        },
+        {
+            "mal_id": 2,
+            "url": null,
+            "title": "Capture the Flag!",
+            "title_japanese": "フラッグを奪取せよ!",
+            "title_romanji": "Flag wo Dasshu Seyo! ",
+            "aired": "2009-01-18T00:00:00+00:00",
+            "score": 4.16,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=63418"
+        },
+        {
+            "mal_id": 3,
+            "url": null,
+            "title": "Electronic Spirit Zuellni",
+            "title_japanese": "電子精霊ツェルニ",
+            "title_romanji": "Denshi-Seirei Zuellni ",
+            "aired": "2009-01-25T00:00:00+00:00",
+            "score": 4.02,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=64845"
+        },
+        {
+            "mal_id": 4,
+            "url": null,
+            "title": "Disarmament! Put on the Maid Outfit!",
+            "title_japanese": "武装解除!メイド服を着用せよ!",
+            "title_romanji": "Busoukaijo! Maid Fuku wo Chakuyou Seyo! ",
+            "aired": "2009-02-01T00:00:00+00:00",
+            "score": 4.39,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=65633"
+        },
+        {
+            "mal_id": 5,
+            "url": null,
+            "title": "The Enemy that Lurks in Death's Ground",
+            "title_japanese": "死の大地に潜む敵",
+            "title_romanji": "Shi no Taichi ni Teki ",
+            "aired": "2009-02-08T00:00:00+00:00",
+            "score": 4.44,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=66880"
+        },
+        {
+            "mal_id": 6,
+            "url": null,
+            "title": "The Letter from Glendan",
+            "title_japanese": "てがみ)",
+            "title_romanji": "Gurendan kara no Tegami (グレンダンからの封書",
+            "aired": "2009-02-15T00:00:00+00:00",
+            "score": 3.89,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=68187"
+        },
+        {
+            "mal_id": 7,
+            "url": null,
+            "title": "Adamandite Restored",
+            "title_japanese": "アダマンダイト)、復元",
+            "title_romanji": "Adamandite, Fukugen (複合錬金鋼",
+            "aired": "2009-02-22T00:00:00+00:00",
+            "score": 4.18,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=75386"
+        },
+        {
+            "mal_id": 8,
+            "url": null,
+            "title": "A Former Enemy Reduced to a Ruined City",
+            "title_japanese": "かつての敵は廃都と成り果て",
+            "title_romanji": "Katsute no Teki wa Haito to Narihate ",
+            "aired": "2009-03-01T00:00:00+00:00",
+            "score": 4.05,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=72900"
+        },
+        {
+            "mal_id": 9,
+            "url": null,
+            "title": "The Right to be a Heaven's Blade",
+            "title_japanese": "天剣授受者の資格",
+            "title_romanji": "Ten Tsurugi Juju Mono no Shikaku ",
+            "aired": "2009-03-08T00:00:00+00:00",
+            "score": 4.06,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=72229"
+        },
+        {
+            "mal_id": 10,
+            "url": null,
+            "title": "Lueckens's Revenge",
+            "title_japanese": "ルッケンスの復讐",
+            "title_romanji": "Luckens no Fukushuu ",
+            "aired": "2009-03-15T00:00:00+00:00",
+            "score": 4.19,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=73489"
+        },
+        {
+            "mal_id": 11,
+            "url": null,
+            "title": "Spa Resort Kalian",
+            "title_japanese": "スパ•リゾート•カリアン",
+            "title_romanji": "Spa Resort Karian ",
+            "aired": "2009-03-22T00:00:00+00:00",
+            "score": 4.39,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=74469"
+        },
+        {
+            "mal_id": 12,
+            "url": null,
+            "title": "A Tender Lie",
+            "title_japanese": "ヤサシイウソ",
+            "title_romanji": "Yasashii Uso ",
+            "aired": "2009-03-29T00:00:00+00:00",
+            "score": 3.9,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=76099"
+        },
+        {
+            "mal_id": 13,
+            "url": null,
+            "title": "The Sentiment That Lies in the Barrel of a Gun",
+            "title_japanese": "銃身に秘めた想い",
+            "title_romanji": "Juushin ni Himeta Omoi ",
+            "aired": "2009-04-05T00:00:00+00:00",
+            "score": 4.09,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=77692"
+        },
+        {
+            "mal_id": 14,
+            "url": null,
+            "title": "The Fallen Ones Appear",
+            "title_japanese": "廃貴族現る",
+            "title_romanji": "Haikizoku Arawareru ",
+            "aired": "2009-04-12T00:00:00+00:00",
+            "score": 3.93,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=78793"
+        },
+        {
+            "mal_id": 15,
+            "url": null,
+            "title": "Feelings That Are Not Received",
+            "title_japanese": "届かない気持ち",
+            "title_romanji": "Todokanai Kimochi ",
+            "aired": "2009-04-19T00:00:00+00:00",
+            "score": 4.47,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=80180"
+        },
+        {
+            "mal_id": 16,
+            "url": null,
+            "title": "Zuellni Run Amok and the Contaminoid Offensive!",
+            "title_japanese": "ツェルニ暴走、汚染獣襲撃",
+            "title_romanji": "Zuellni Bousou, Osen Juu Shuugeki! ",
+            "aired": "2009-04-26T00:00:00+00:00",
+            "score": 4.09,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=81652"
+        },
+        {
+            "mal_id": 17,
+            "url": null,
+            "title": "Salinban Mercenary Training Group, Move Out!",
+            "title_japanese": "サリンバン教導傭兵団、出陣!",
+            "title_romanji": "Salinvan Kyoudou Youhei Dan, Shutsujin! ",
+            "aired": "2009-05-03T00:00:00+00:00",
+            "score": 4.37,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=83270"
+        },
+        {
+            "mal_id": 18,
+            "url": null,
+            "title": "Nina Missing! Zuellni in Crisis",
+            "title_japanese": "ニーナ消失!ツェルニ緊急事態",
+            "title_romanji": "Nina Shoushitsu! Zuellni Kinkyuujitai ",
+            "aired": "2009-05-10T00:00:00+00:00",
+            "score": 4.14,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=84433"
+        },
+        {
+            "mal_id": 19,
+            "url": null,
+            "title": "A Guided Encounter",
+            "title_japanese": "導かれた出会い",
+            "title_romanji": "Michibikareta Deai ",
+            "aired": "2009-05-17T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=85600"
+        },
+        {
+            "mal_id": 20,
+            "url": null,
+            "title": "The Night Before the Intermunicipal Battle",
+            "title_japanese": "都市戦前夜",
+            "title_romanji": "Toshi Senzen Yoru ",
+            "aired": "2009-05-24T00:00:00+00:00",
+            "score": 3.98,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=86865"
+        },
+        {
+            "mal_id": 21,
+            "url": null,
+            "title": "Felli, Kidnapped",
+            "title_japanese": "奪われたフェリ",
+            "title_romanji": "Ubawareta Felli ",
+            "aired": "2009-05-31T00:00:00+00:00",
+            "score": 4.44,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=88602"
+        },
+        {
+            "mal_id": 22,
+            "url": null,
+            "title": "The Invincible, Spear-Shelled City Glendan Draws Near!",
+            "title_japanese": "無敵の槍殻都市グレンダン迫る!",
+            "title_romanji": "Muteki no Soukaku Toshi Grendan Semaru ",
+            "aired": "2009-06-07T00:00:00+00:00",
+            "score": 4.09,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=89905"
+        },
+        {
+            "mal_id": 23,
+            "url": null,
+            "title": "Ignacius's Fragments",
+            "title_japanese": "イグナシスの欠片",
+            "title_romanji": "Ignasis no Kakera ",
+            "aired": "2009-06-14T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=92303"
+        },
+        {
+            "mal_id": 24,
+            "url": null,
+            "title": "The Stirring Cities",
+            "title_japanese": "胎動する都市",
+            "title_romanji": "Taidou Suru Toshi ",
+            "aired": "2009-06-21T00:00:00+00:00",
+            "score": 3.95,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=93699"
+        }
+    ]
+}

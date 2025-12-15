@@ -1,0 +1,823 @@
+{
+    "id": 852,
+    "fetched_at": "Sun Dec 14 14:12:44 2025",
+    "metadata": {
+        "mal_id": 852,
+        "url": "https://myanimelist.net/anime/852/Gokinjo_Monogatari",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/11/18195.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/11/18195t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/11/18195l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/11/18195.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/11/18195t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/11/18195l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Gokinjo Monogatari"
+            },
+            {
+                "type": "Synonym",
+                "title": "Neighborhood Story"
+            },
+            {
+                "type": "Synonym",
+                "title": "GokiMono"
+            },
+            {
+                "type": "Japanese",
+                "title": "ご近所物語"
+            },
+            {
+                "type": "English",
+                "title": "Neighborhood Stories"
+            }
+        ],
+        "title": "Gokinjo Monogatari",
+        "title_english": "Neighborhood Stories",
+        "title_japanese": "ご近所物語",
+        "title_synonyms": [
+            "Neighborhood Story",
+            "GokiMono"
+        ],
+        "type": "TV",
+        "source": "Manga",
+        "episodes": 50,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "1995-09-10T00:00:00+00:00",
+            "to": "1996-09-01T00:00:00+00:00",
+            "prop": {
+                "from": {
+                    "day": 10,
+                    "month": 9,
+                    "year": 1995
+                },
+                "to": {
+                    "day": 1,
+                    "month": 9,
+                    "year": 1996
+                }
+            },
+            "string": "Sep 10, 1995 to Sep 1, 1996"
+        },
+        "duration": "24 min per ep",
+        "rating": "PG-13 - Teens 13 or older",
+        "score": 7.69,
+        "scored_by": 6422,
+        "rank": 1399,
+        "popularity": 4471,
+        "members": 30858,
+        "favorites": 442,
+        "synopsis": "Mikako Kouda is a 16-year-old girl whose sole ambition is to establish her own clothing brand. To this end, she attends the renowned Yazawa Art School alongside her childhood friend Tsutomu Yamaguchi. Although the people around them interpret their closeness and constant bickering as signs of budding love, both Mikako and Tsutomu deny it, as they cannot see each other as anything but friends.\n\nHowever, everything changes when Tsutomu starts to resemble Ken Nakagawa—the vocalist of the popular group Manbou—and gains popularity among girls. Suddenly, the childhood friends find themselves wondering about the meaning of love, friendship, and the true nature of their relationship.\n\n[Written by MAL Rewrite]",
+        "background": "",
+        "season": "fall",
+        "year": 1995,
+        "broadcast": {
+            "day": "Sundays",
+            "time": "08:30",
+            "timezone": "Asia/Tokyo",
+            "string": "Sundays at 08:30 (JST)"
+        },
+        "producers": [
+            {
+                "mal_id": 142,
+                "type": "anime",
+                "name": "Asatsu DK",
+                "url": "https://myanimelist.net/anime/producer/142/Asatsu_DK"
+            },
+            {
+                "mal_id": 1415,
+                "type": "anime",
+                "name": "Asahi Broadcasting",
+                "url": "https://myanimelist.net/anime/producer/1415/Asahi_Broadcasting"
+            }
+        ],
+        "licensors": [],
+        "studios": [
+            {
+                "mal_id": 18,
+                "type": "anime",
+                "name": "Toei Animation",
+                "url": "https://myanimelist.net/anime/producer/18/Toei_Animation"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 4,
+                "type": "anime",
+                "name": "Comedy",
+                "url": "https://myanimelist.net/anime/genre/4/Comedy"
+            },
+            {
+                "mal_id": 8,
+                "type": "anime",
+                "name": "Drama",
+                "url": "https://myanimelist.net/anime/genre/8/Drama"
+            },
+            {
+                "mal_id": 22,
+                "type": "anime",
+                "name": "Romance",
+                "url": "https://myanimelist.net/anime/genre/22/Romance"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [
+            {
+                "mal_id": 80,
+                "type": "anime",
+                "name": "Visual Arts",
+                "url": "https://myanimelist.net/anime/genre/80/Visual_Arts"
+            }
+        ],
+        "demographics": [
+            {
+                "mal_id": 25,
+                "type": "anime",
+                "name": "Shoujo",
+                "url": "https://myanimelist.net/anime/genre/25/Shoujo"
+            }
+        ],
+        "relations": [
+            {
+                "relation": "Sequel",
+                "entry": [
+                    {
+                        "mal_id": 322,
+                        "type": "anime",
+                        "name": "Paradise Kiss",
+                        "url": "https://myanimelist.net/anime/322/Paradise_Kiss"
+                    }
+                ]
+            },
+            {
+                "relation": "Adaptation",
+                "entry": [
+                    {
+                        "mal_id": 1216,
+                        "type": "manga",
+                        "name": "Gokinjo Monogatari",
+                        "url": "https://myanimelist.net/manga/1216/Gokinjo_Monogatari"
+                    }
+                ]
+            },
+            {
+                "relation": "Alternative Version",
+                "entry": [
+                    {
+                        "mal_id": 7578,
+                        "type": "anime",
+                        "name": "Gokinjo Monogatari the Movie",
+                        "url": "https://myanimelist.net/anime/7578/Gokinjo_Monogatari_the_Movie"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [
+                "1: He.Ro.I.Ne\" by Rumi Shishido"
+            ],
+            "endings": [
+                "1: \"Don't You Know?!\" by Rumi Shishido (eps 1-28)",
+                "2: \"NG!\" by Rumi Shishido (eps 29-50)"
+            ]
+        },
+        "external": [
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=1387"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=1764"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "http://en.wikipedia.org/wiki/Gokinjo_Monogatari"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": [
+        {
+            "mal_id": 1,
+            "url": null,
+            "title": "I Can't Stop Thinking Of Him!",
+            "title_japanese": "気になるアイツ！",
+            "title_romanji": "Ki ni Naru Aitsu! ",
+            "aired": "1995-09-10T00:00:00+00:00",
+            "score": 4.15,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=60859"
+        },
+        {
+            "mal_id": 2,
+            "url": null,
+            "title": "Just a Childhood Friend!",
+            "title_japanese": "幼なじみってやつ！",
+            "title_romanji": "Osananajimitte Yatsu! ",
+            "aired": "1995-09-17T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=132413"
+        },
+        {
+            "mal_id": 3,
+            "url": null,
+            "title": "A Nice Body-ko!",
+            "title_japanese": "ナイスなバディ子!!",
+            "title_romanji": "Nice Body Ko!! ",
+            "aired": "1995-09-24T00:00:00+00:00",
+            "score": 4.44,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1793534"
+        },
+        {
+            "mal_id": 4,
+            "url": null,
+            "title": "The One In Love Has Already Lost!",
+            "title_japanese": "ハマった方の負け！",
+            "title_romanji": "Hamatta Kata no Make! ",
+            "aired": "1995-10-01T00:00:00+00:00",
+            "score": 4.5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=515633"
+        },
+        {
+            "mal_id": 5,
+            "url": null,
+            "title": "The Flaming-Hot Blonde Girl!",
+            "title_japanese": "燃えるパツキン女！",
+            "title_romanji": "Moeru Patsukin Onna! ",
+            "aired": "1995-10-08T00:00:00+00:00",
+            "score": 4.4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=530444"
+        },
+        {
+            "mal_id": 6,
+            "url": null,
+            "title": "Let's Make A Circle!",
+            "title_japanese": "サークルしようぜ！",
+            "title_romanji": "Circle Shiyouze! ",
+            "aired": "1995-10-15T00:00:00+00:00",
+            "score": 4.25,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=530452"
+        },
+        {
+            "mal_id": 7,
+            "url": null,
+            "title": "Tsutomu or Akindo?",
+            "title_japanese": "ツトムかアキンドか",
+            "title_romanji": "Tsutomu ka Akindo ka ",
+            "aired": "1995-10-22T00:00:00+00:00",
+            "score": 4.55,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=507093"
+        },
+        {
+            "mal_id": 8,
+            "url": null,
+            "title": "Flea Market!",
+            "title_japanese": "フリーマーケット！",
+            "title_romanji": "Flea Market! ",
+            "aired": "1995-10-29T00:00:00+00:00",
+            "score": 4.69,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=169346"
+        },
+        {
+            "mal_id": 9,
+            "url": null,
+            "title": "The Lover of My Sinful Mama!",
+            "title_japanese": "罪深きママの恋人！",
+            "title_romanji": "Tsumibukaki Mama no Koibito! ",
+            "aired": "1995-11-12T00:00:00+00:00",
+            "score": 4.28,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=530924"
+        },
+        {
+            "mal_id": 10,
+            "url": null,
+            "title": "Love Expectation Relay",
+            "title_japanese": "恋のおもわくリレー",
+            "title_romanji": "Koi no Omowaku Relay ",
+            "aired": "1995-11-19T00:00:00+00:00",
+            "score": 4.59,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=507123"
+        },
+        {
+            "mal_id": 11,
+            "url": null,
+            "title": "For Real? A Double date?",
+            "title_japanese": "Ｗデートって本気マジ？",
+            "title_romanji": "W Datette Maji? ",
+            "aired": "1995-11-26T00:00:00+00:00",
+            "score": 4.53,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=123266"
+        },
+        {
+            "mal_id": 12,
+            "url": null,
+            "title": "Tsutomu's Been Dumped!",
+            "title_japanese": "フラレたツトム！",
+            "title_romanji": "Furareta Tsutomu! ",
+            "aired": "1995-12-03T00:00:00+00:00",
+            "score": 4.36,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=530972"
+        },
+        {
+            "mal_id": 13,
+            "url": null,
+            "title": "Motorbike Misunderstanding",
+            "title_japanese": "バイクに関する誤解",
+            "title_romanji": "Bike ni Kan Suru Gokai ",
+            "aired": "1995-12-10T00:00:00+00:00",
+            "score": 4.38,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=530990"
+        },
+        {
+            "mal_id": 14,
+            "url": null,
+            "title": "Pii's Panic",
+            "title_japanese": "ピイちゃんパニック",
+            "title_romanji": "P-chan Panic ",
+            "aired": "1995-12-17T00:00:00+00:00",
+            "score": 4.17,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=530994"
+        },
+        {
+            "mal_id": 15,
+            "url": null,
+            "title": "A Present to Santa",
+            "title_japanese": "サンタへの贈りもの",
+            "title_romanji": "Santa e no Okurimono ",
+            "aired": "1995-12-24T00:00:00+00:00",
+            "score": 4.64,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=265301"
+        },
+        {
+            "mal_id": 16,
+            "url": null,
+            "title": "A Love Prayer! Happy New Year",
+            "title_japanese": "恋愛祈願！初もうで",
+            "title_romanji": "Renai Kigan! Hatsu Mou de ",
+            "aired": "1996-01-07T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=531000"
+        },
+        {
+            "mal_id": 17,
+            "url": null,
+            "title": "Body-ko and Shintarou!!",
+            "title_japanese": "バディ子と新太郎!!",
+            "title_romanji": "Body-ko to Shintarou!! ",
+            "aired": "1996-01-14T00:00:00+00:00",
+            "score": 4.56,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=155172"
+        },
+        {
+            "mal_id": 18,
+            "url": null,
+            "title": "Friendship? Or Romance?",
+            "title_japanese": "友情か？恋愛か？",
+            "title_romanji": "Yujou ka? Renai ka? ",
+            "aired": "1996-01-21T00:00:00+00:00",
+            "score": 4.2,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=531524"
+        },
+        {
+            "mal_id": 19,
+            "url": null,
+            "title": "Revealed! Risa's Boyfriend!",
+            "title_japanese": "発覚!! リサの彼氏！",
+            "title_romanji": "Hakkaku!! Risa no Kareshi! ",
+            "aired": "1996-01-28T00:00:00+00:00",
+            "score": 4.7,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=507591"
+        },
+        {
+            "mal_id": 20,
+            "url": null,
+            "title": "Lessons in Love At The Flea Market",
+            "title_japanese": "フリマで恋のお勉強",
+            "title_romanji": "FleaMa de Koi no Obenkyou ",
+            "aired": "1996-02-04T00:00:00+00:00",
+            "score": 4.25,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=132747"
+        },
+        {
+            "mal_id": 21,
+            "url": null,
+            "title": "If I'm Honest...",
+            "title_japanese": "素直になれたら…",
+            "title_romanji": "Sunao ni Naretara... ",
+            "aired": "1996-02-11T00:00:00+00:00",
+            "score": 4.33,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=134088"
+        },
+        {
+            "mal_id": 22,
+            "url": null,
+            "title": "Who's Oikawa Ayumi?!",
+            "title_japanese": "及川歩って何者?!",
+            "title_romanji": "Oikawa Ayumi tte Nanimono?! ",
+            "aired": "1996-02-18T00:00:00+00:00",
+            "score": 4.13,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=531552"
+        },
+        {
+            "mal_id": 23,
+            "url": null,
+            "title": "The Alighting Angel!",
+            "title_japanese": "舞い降りた天使！",
+            "title_romanji": "Maiorita Tenshi! ",
+            "aired": "1996-02-25T00:00:00+00:00",
+            "score": 4.67,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=362421"
+        },
+        {
+            "mal_id": 24,
+            "url": null,
+            "title": "All Grown Up",
+            "title_japanese": "大人になっちゃった",
+            "title_romanji": "Otona ni Nacchatta ",
+            "aired": "1996-03-03T00:00:00+00:00",
+            "score": 4.73,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=507779"
+        },
+        {
+            "mal_id": 25,
+            "url": null,
+            "title": "Delusions of the Duo",
+            "title_japanese": "二人に関する妄想",
+            "title_romanji": "Futari ni Kan Suru Mousou ",
+            "aired": "1996-03-10T00:00:00+00:00",
+            "score": 4.83,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=369131"
+        },
+        {
+            "mal_id": 26,
+            "url": null,
+            "title": "Fired Up at the Hot Springs",
+            "title_japanese": "温泉でメラメラ！",
+            "title_romanji": "Onsen de Meramera! ",
+            "aired": "1996-03-17T00:00:00+00:00",
+            "score": 4.25,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=141072"
+        },
+        {
+            "mal_id": 27,
+            "url": null,
+            "title": "Body-Ko's Gripe",
+            "title_japanese": "バディ子のイライラ",
+            "title_romanji": "Body-Ko no Iraira ",
+            "aired": "1996-03-24T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=371817"
+        },
+        {
+            "mal_id": 28,
+            "url": null,
+            "title": "Why So Sullen?",
+            "title_japanese": "フキゲンの理由は？",
+            "title_romanji": "Fukigen no Riyuu wa? ",
+            "aired": "1996-03-31T00:00:00+00:00",
+            "score": 4.57,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=375623"
+        },
+        {
+            "mal_id": 29,
+            "url": null,
+            "title": "Flea Market Again!",
+            "title_japanese": "フリマ・アゲイン！",
+            "title_romanji": "FleaMa Again! ",
+            "aired": "1996-04-07T00:00:00+00:00",
+            "score": 4.67,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=380665"
+        },
+        {
+            "mal_id": 30,
+            "url": null,
+            "title": "Step-By-Step With and Romance",
+            "title_japanese": "恋も夢も一歩ずつ！",
+            "title_romanji": "Koi mo Yume mo Ippo Zutsu! ",
+            "aired": "1996-04-14T00:00:00+00:00",
+            "score": 4.43,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=382693"
+        },
+        {
+            "mal_id": 31,
+            "url": null,
+            "title": "Omigosh! Shishou Again...",
+            "title_japanese": "ドキッ！師匠再び…",
+            "title_romanji": "Doki!! Shishou Futatabi... ",
+            "aired": "1996-04-21T00:00:00+00:00",
+            "score": 4.17,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=531974"
+        },
+        {
+            "mal_id": 32,
+            "url": null,
+            "title": "Robots Entwining the Hearts",
+            "title_japanese": "心をつなぐロボット",
+            "title_romanji": "Kokoro wo Tsunagu Robot ",
+            "aired": "1996-04-28T00:00:00+00:00",
+            "score": 4.57,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=421119"
+        },
+        {
+            "mal_id": 33,
+            "url": null,
+            "title": "The Guy Who Fell for the Vapid Girl",
+            "title_japanese": "軽い女に惚れたヤツ",
+            "title_romanji": "Karui Onna ni Horeta Yatsu ",
+            "aired": "1996-05-05T00:00:00+00:00",
+            "score": 3.71,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=531982"
+        },
+        {
+            "mal_id": 34,
+            "url": null,
+            "title": "A Night with an Angel... Risa!",
+            "title_japanese": "一夜の天使…リサ！",
+            "title_romanji": "Ichinichi no Tenshi... Risa! ",
+            "aired": "1996-05-12T00:00:00+00:00",
+            "score": 4.45,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=149301"
+        },
+        {
+            "mal_id": 35,
+            "url": null,
+            "title": "Feeling Heartbroken - Ayumi!",
+            "title_japanese": "せつない想い・歩！",
+            "title_romanji": "Setsunai Omoi Ayumi! ",
+            "aired": "1996-05-19T00:00:00+00:00",
+            "score": 3.92,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=532392"
+        },
+        {
+            "mal_id": 36,
+            "url": null,
+            "title": "Body-ko's Melancholy",
+            "title_japanese": "バディ子のゆううつ",
+            "title_romanji": "Body-ko no Yuuutsu ",
+            "aired": "1996-05-26T00:00:00+00:00",
+            "score": 4.4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=532422"
+        },
+        {
+            "mal_id": 37,
+            "url": null,
+            "title": "I Still Don't Want To Go Back...",
+            "title_japanese": "まだ帰りたくない…",
+            "title_romanji": "Mada Kaeritakunai... ",
+            "aired": "1996-06-02T00:00:00+00:00",
+            "score": 4.3,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=532438"
+        },
+        {
+            "mal_id": 38,
+            "url": null,
+            "title": "Making the Most of 16",
+            "title_japanese": "ハンパじゃない16才",
+            "title_romanji": "Hanpa ja Nai 16-sai ",
+            "aired": "1996-06-09T00:00:00+00:00",
+            "score": 4.2,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=283452"
+        },
+        {
+            "mal_id": 39,
+            "url": null,
+            "title": "What I Want the Most...",
+            "title_japanese": "一番ほしいものは…",
+            "title_romanji": "Ichiban Hoshii Mono wa... ",
+            "aired": "1996-06-16T00:00:00+00:00",
+            "score": 4.5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=508991"
+        },
+        {
+            "mal_id": 40,
+            "url": null,
+            "title": "The Albums with No Pictures",
+            "title_japanese": "写真のないアルバム",
+            "title_romanji": "Shashin no Nai Album ",
+            "aired": "1996-06-23T00:00:00+00:00",
+            "score": 4.86,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=532490"
+        },
+        {
+            "mal_id": 41,
+            "url": null,
+            "title": "A Message for Papa",
+            "title_japanese": "パパへのメッセージ",
+            "title_romanji": "Papa e no Message ",
+            "aired": "1996-06-30T00:00:00+00:00",
+            "score": 4.8,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=198889"
+        },
+        {
+            "mal_id": 42,
+            "url": null,
+            "title": "Papa's Blue Skies",
+            "title_japanese": "パパの青い空",
+            "title_romanji": "Papa no Aoi Sora ",
+            "aired": "1996-07-07T00:00:00+00:00",
+            "score": 4.4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=534036"
+        },
+        {
+            "mal_id": 43,
+            "url": null,
+            "title": "Mama, Why...?",
+            "title_japanese": "ママ、どうして…？",
+            "title_romanji": "Mama, Doushite...? ",
+            "aired": "1996-07-14T00:00:00+00:00",
+            "score": 4.5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=534040"
+        },
+        {
+            "mal_id": 44,
+            "url": null,
+            "title": "Storm Warnings",
+            "title_japanese": "嵐のまえぶれ",
+            "title_romanji": "Arashi no Maebure ",
+            "aired": "1996-07-21T00:00:00+00:00",
+            "score": 4.25,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=542794"
+        },
+        {
+            "mal_id": 45,
+            "url": null,
+            "title": "Bad at Lying",
+            "title_japanese": "嘘をつくのは…ヘタ",
+            "title_romanji": "Uso wo Tsuku no wa... Heta ",
+            "aired": "1996-07-28T00:00:00+00:00",
+            "score": 4.6,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1522484"
+        },
+        {
+            "mal_id": 46,
+            "url": null,
+            "title": "Before I Say I'm In Love With You...",
+            "title_japanese": "愛してるなんて…",
+            "title_romanji": "Itoshiteru Nante... ",
+            "aired": "1996-08-04T00:00:00+00:00",
+            "score": 4.25,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1523432"
+        },
+        {
+            "mal_id": 47,
+            "url": null,
+            "title": "Mama!...",
+            "title_japanese": "ママ！…",
+            "title_romanji": "Mama!... ",
+            "aired": "1996-08-11T00:00:00+00:00",
+            "score": 4.57,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=564929"
+        },
+        {
+            "mal_id": 48,
+            "url": null,
+            "title": "The Love You Have...",
+            "title_japanese": "「愛」ってやつ…",
+            "title_romanji": "\"Ai\"tte Yatsu... ",
+            "aired": "1996-08-18T00:00:00+00:00",
+            "score": 4.33,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=564935"
+        },
+        {
+            "mal_id": 49,
+            "url": null,
+            "title": "The Second Proposal",
+            "title_japanese": "二度めのプロポーズ",
+            "title_romanji": "Nidome no Propose ",
+            "aired": "1996-08-25T00:00:00+00:00",
+            "score": 4.67,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=564937"
+        },
+        {
+            "mal_id": 50,
+            "url": null,
+            "title": "Thank You, Everyone",
+            "title_japanese": "ありがとう、みんな",
+            "title_romanji": "Arigatou, Minna ",
+            "aired": "1996-09-01T00:00:00+00:00",
+            "score": 4.74,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=564941"
+        }
+    ]
+}

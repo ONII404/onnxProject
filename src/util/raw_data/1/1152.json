@@ -1,0 +1,311 @@
+{
+    "id": 1152,
+    "fetched_at": "Sun Dec 14 14:59:31 2025",
+    "metadata": {
+        "mal_id": 1152,
+        "url": "https://myanimelist.net/anime/1152/Tokusou_Senshatai_Dominion",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1195/110635.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1195/110635t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1195/110635l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1195/110635.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1195/110635t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1195/110635l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Tokusou Senshatai Dominion"
+            },
+            {
+                "type": "Synonym",
+                "title": "Tokusou Sensha-tai Dominion"
+            },
+            {
+                "type": "Japanese",
+                "title": "特捜戦車隊ドミニオン"
+            },
+            {
+                "type": "English",
+                "title": "New Dominion Tank Police"
+            }
+        ],
+        "title": "Tokusou Senshatai Dominion",
+        "title_english": "New Dominion Tank Police",
+        "title_japanese": "特捜戦車隊ドミニオン",
+        "title_synonyms": [
+            "Tokusou Sensha-tai Dominion"
+        ],
+        "type": "OVA",
+        "source": "Manga",
+        "episodes": 6,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "1993-10-20T00:00:00+00:00",
+            "to": "1994-10-21T00:00:00+00:00",
+            "prop": {
+                "from": {
+                    "day": 20,
+                    "month": 10,
+                    "year": 1993
+                },
+                "to": {
+                    "day": 21,
+                    "month": 10,
+                    "year": 1994
+                }
+            },
+            "string": "Oct 20, 1993 to Oct 21, 1994"
+        },
+        "duration": "27 min per ep",
+        "rating": "PG-13 - Teens 13 or older",
+        "score": 6.88,
+        "scored_by": 5430,
+        "rank": 5104,
+        "popularity": 6258,
+        "members": 13383,
+        "favorites": 38,
+        "synopsis": "In the follow up to Shirow's classic anime, Al, Leona and their trusty steed, Bonaparte, continue to fight crime in New Port City, alongside the rest of the Tank Police. But a new threat appears in the form of a series of terrorist attacks, using the latest weapons technology. The Tank Police are out-numbered and out-gunned, but Al and Leona set out to discover who or what is behind these attacks. With massive explosions and high-speed chases, Leona often causes more damage than the criminals she pursues.\n\n(Source: ANN)",
+        "background": "",
+        "season": null,
+        "year": null,
+        "broadcast": {
+            "day": null,
+            "time": null,
+            "timezone": null,
+            "string": null
+        },
+        "producers": [
+            {
+                "mal_id": 1270,
+                "type": "anime",
+                "name": "Sanctuary",
+                "url": "https://myanimelist.net/anime/producer/1270/Sanctuary"
+            }
+        ],
+        "licensors": [
+            {
+                "mal_id": 490,
+                "type": "anime",
+                "name": "Maiden Japan",
+                "url": "https://myanimelist.net/anime/producer/490/Maiden_Japan"
+            },
+            {
+                "mal_id": 947,
+                "type": "anime",
+                "name": "Manga Entertainment",
+                "url": "https://myanimelist.net/anime/producer/947/Manga_Entertainment"
+            }
+        ],
+        "studios": [
+            {
+                "mal_id": 7,
+                "type": "anime",
+                "name": "J.C.Staff",
+                "url": "https://myanimelist.net/anime/producer/7/JCStaff"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 4,
+                "type": "anime",
+                "name": "Comedy",
+                "url": "https://myanimelist.net/anime/genre/4/Comedy"
+            },
+            {
+                "mal_id": 7,
+                "type": "anime",
+                "name": "Mystery",
+                "url": "https://myanimelist.net/anime/genre/7/Mystery"
+            },
+            {
+                "mal_id": 24,
+                "type": "anime",
+                "name": "Sci-Fi",
+                "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [
+            {
+                "mal_id": 39,
+                "type": "anime",
+                "name": "Detective",
+                "url": "https://myanimelist.net/anime/genre/39/Detective"
+            },
+            {
+                "mal_id": 18,
+                "type": "anime",
+                "name": "Mecha",
+                "url": "https://myanimelist.net/anime/genre/18/Mecha"
+            }
+        ],
+        "demographics": [
+            {
+                "mal_id": 27,
+                "type": "anime",
+                "name": "Shounen",
+                "url": "https://myanimelist.net/anime/genre/27/Shounen"
+            }
+        ],
+        "relations": [
+            {
+                "relation": "Prequel",
+                "entry": [
+                    {
+                        "mal_id": 1151,
+                        "type": "anime",
+                        "name": "Dominion",
+                        "url": "https://myanimelist.net/anime/1151/Dominion"
+                    }
+                ]
+            },
+            {
+                "relation": "Sequel",
+                "entry": [
+                    {
+                        "mal_id": 2181,
+                        "type": "anime",
+                        "name": "TANK S.W.A.T. 01",
+                        "url": "https://myanimelist.net/anime/2181/TANK_SWAT_01"
+                    }
+                ]
+            },
+            {
+                "relation": "Adaptation",
+                "entry": [
+                    {
+                        "mal_id": 3395,
+                        "type": "manga",
+                        "name": "Dominion",
+                        "url": "https://myanimelist.net/manga/3395/Dominion"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [
+                "\"JUST Beyond the End of Time\" by Udagawa Ayako"
+            ],
+            "endings": [
+                "\"Just Fall in Love ~ In Many of Earnest Nights ~\" by Udagawa Ayako"
+            ]
+        },
+        "external": [
+            {
+                "name": "Official Site",
+                "url": "http://www.b-ch.com/ttl/index.php?ttl_c=519"
+            },
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=897"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=702"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Dominion:_Tank_Police"
+            }
+        ],
+        "streaming": [
+            {
+                "name": "HIDIVE",
+                "url": "https://www.hidive.com/movies/new-dominion-tank-police"
+            }
+        ]
+    },
+    "episodes": [
+        {
+            "mal_id": 1,
+            "url": null,
+            "title": "Launch! Tank Police!!",
+            "title_japanese": "出撃! タンクポリス!!",
+            "title_romanji": "Shutsugeki! Tank Police!! ",
+            "aired": "1993-10-20T00:00:00+00:00",
+            "score": 3.63,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1533612"
+        },
+        {
+            "mal_id": 2,
+            "url": null,
+            "title": "Charles Brenten, Master Detective!! Black Rain of Newport!",
+            "title_japanese": "名探偵チャールズ・ブレンテン!! ~N.P.の黒い雨~",
+            "title_romanji": "Meitantei Charles Brenten!! N.P. no Kuroi Ame ",
+            "aired": "1993-12-16T00:00:00+00:00",
+            "score": 3.69,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1533616"
+        },
+        {
+            "mal_id": 3,
+            "url": null,
+            "title": "Limit the Tubeway",
+            "title_japanese": "リミット・ザ・チューブウェイ",
+            "title_romanji": "Limit the Tube Way ",
+            "aired": "1994-03-21T00:00:00+00:00",
+            "score": 4.15,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1536053"
+        },
+        {
+            "mal_id": 4,
+            "url": null,
+            "title": "Pursuit! Bonaparte in the Mist",
+            "title_japanese": "追跡!? 霧のボナパルト",
+            "title_romanji": "Tsuiseki!? Kiri no Bonaparte ",
+            "aired": "1994-05-23T00:00:00+00:00",
+            "score": 3.69,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1536353"
+        },
+        {
+            "mal_id": 5,
+            "url": null,
+            "title": "Conflict City",
+            "title_japanese": "コンフリクト・シティ",
+            "title_romanji": "Conflict City ",
+            "aired": "1994-08-24T00:00:00+00:00",
+            "score": 4.06,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=42817"
+        },
+        {
+            "mal_id": 6,
+            "url": null,
+            "title": "End the Dreaming",
+            "title_japanese": "エンド・ザ・ドリーミング",
+            "title_romanji": "End the Dreaming ",
+            "aired": "1994-10-21T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1541351"
+        }
+    ]
+}

@@ -1,0 +1,502 @@
+{
+    "id": 3653,
+    "fetched_at": "Sun Dec 14 20:03:44 2025",
+    "metadata": {
+        "mal_id": 3653,
+        "url": "https://myanimelist.net/anime/3653/Kurogane_no_Linebarrels",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/2/50375.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/2/50375t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/2/50375l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/2/50375.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/2/50375t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/2/50375l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": "https://www.youtube-nocookie.com/embed/Oj7fFuadK04?enablejsapi=1&wmode=opaque&autoplay=1",
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Kurogane no Linebarrels"
+            },
+            {
+                "type": "Japanese",
+                "title": "鉄のラインバレル"
+            },
+            {
+                "type": "English",
+                "title": "Linebarrels of Iron"
+            }
+        ],
+        "title": "Kurogane no Linebarrels",
+        "title_english": "Linebarrels of Iron",
+        "title_japanese": "鉄のラインバレル",
+        "title_synonyms": [],
+        "type": "TV",
+        "source": "Manga",
+        "episodes": 24,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "2008-10-04T00:00:00+00:00",
+            "to": "2009-03-21T00:00:00+00:00",
+            "prop": {
+                "from": {
+                    "day": 4,
+                    "month": 10,
+                    "year": 2008
+                },
+                "to": {
+                    "day": 21,
+                    "month": 3,
+                    "year": 2009
+                }
+            },
+            "string": "Oct 4, 2008 to Mar 21, 2009"
+        },
+        "duration": "23 min per ep",
+        "rating": "R - 17+ (violence & profanity)",
+        "score": 6.88,
+        "scored_by": 19310,
+        "rank": 5076,
+        "popularity": 3736,
+        "members": 44617,
+        "favorites": 92,
+        "synopsis": "Fourteen-year-old Kouichi Hayase's life has always been a mediocre one, if not dismal. However, those days of being bullied by classmates and escaping to a fantasy of being a hero are put to an end when a certain \"accident\" bestows on him a girl and a gigantic humanoid robot called \"LINEBARREL.\" The extraordinary power that Kouichi obtains puts him and everything around him on a sudden rollercoaster ride of battles, intrigues and friendship! During the course of his adventure, the boy starts to learn what life has to offer; he meets new friends, bids farewell to the old ones, but most of all he now has considerable responsibilities and is forced to confront the world around him.\n\n(Source: Official site)",
+        "background": "",
+        "season": "fall",
+        "year": 2008,
+        "broadcast": {
+            "day": "Saturdays",
+            "time": "02:25",
+            "timezone": "Asia/Tokyo",
+            "string": "Saturdays at 02:25 (JST)"
+        },
+        "producers": [
+            {
+                "mal_id": 1373,
+                "type": "anime",
+                "name": "Akita Shoten",
+                "url": "https://myanimelist.net/anime/producer/1373/Akita_Shoten"
+            },
+            {
+                "mal_id": 1597,
+                "type": "anime",
+                "name": "Sotsu Music Publishing",
+                "url": "https://myanimelist.net/anime/producer/1597/Sotsu_Music_Publishing"
+            }
+        ],
+        "licensors": [
+            {
+                "mal_id": 102,
+                "type": "anime",
+                "name": "Funimation",
+                "url": "https://myanimelist.net/anime/producer/102/Funimation"
+            }
+        ],
+        "studios": [
+            {
+                "mal_id": 3,
+                "type": "anime",
+                "name": "Gonzo",
+                "url": "https://myanimelist.net/anime/producer/3/Gonzo"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 24,
+                "type": "anime",
+                "name": "Sci-Fi",
+                "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [
+            {
+                "mal_id": 18,
+                "type": "anime",
+                "name": "Mecha",
+                "url": "https://myanimelist.net/anime/genre/18/Mecha"
+            }
+        ],
+        "demographics": [
+            {
+                "mal_id": 42,
+                "type": "anime",
+                "name": "Seinen",
+                "url": "https://myanimelist.net/anime/genre/42/Seinen"
+            }
+        ],
+        "relations": [
+            {
+                "relation": "Adaptation",
+                "entry": [
+                    {
+                        "mal_id": 3638,
+                        "type": "manga",
+                        "name": "Kurogane no Linebarrel",
+                        "url": "https://myanimelist.net/manga/3638/Kurogane_no_Linebarrel"
+                    }
+                ]
+            },
+            {
+                "relation": "Side Story",
+                "entry": [
+                    {
+                        "mal_id": 33126,
+                        "type": "anime",
+                        "name": "Kurogane no Linebarrels Picture Drama",
+                        "url": "https://myanimelist.net/anime/33126/Kurogane_no_Linebarrels_Picture_Drama"
+                    },
+                    {
+                        "mal_id": 7540,
+                        "type": "anime",
+                        "name": "Kurogane no Linebarrels Specials",
+                        "url": "https://myanimelist.net/anime/7540/Kurogane_no_Linebarrels_Specials"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [
+                "\"Kitei no Tsurugi\" by ALI PROJECT"
+            ],
+            "endings": [
+                "1: \"Ame ga Furu (雨が降る)\" by Maaya Sakamoto (eps 1-13)",
+                "2: \"Remedy\" by Maaya Sakamoto (eps 14-24)"
+            ]
+        },
+        "external": [
+            {
+                "name": "Official Site",
+                "url": "https://www.gonzo.co.jp/works/kurogane/index.html"
+            },
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=5629"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=9089"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Linebarrels_of_Iron#Anime"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "https://ja.wikipedia.org/wiki/%E9%89%84%E3%81%AE%E3%83%A9%E3%82%A4%E3%83%B3%E3%83%90%E3%83%AC%E3%83%AB#%E3%83%86%E3%83%AC%E3%83%93%E3%82%A2%E3%83%8B%E3%83%A1"
+            },
+            {
+                "name": "Syoboi",
+                "url": "https://cal.syoboi.jp/tid/1483"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": [
+        {
+            "mal_id": 1,
+            "url": null,
+            "title": "Boy and Iron",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 3.04,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=46204"
+        },
+        {
+            "mal_id": 2,
+            "url": null,
+            "title": "Runaway Justice",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 2.93,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=47357"
+        },
+        {
+            "mal_id": 3,
+            "url": null,
+            "title": "Blue Terror",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 3.77,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=48389"
+        },
+        {
+            "mal_id": 4,
+            "url": null,
+            "title": "The Price of Justice",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 4.47,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=49410"
+        },
+        {
+            "mal_id": 5,
+            "url": null,
+            "title": "Guidepost to Tomorrow",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=50574"
+        },
+        {
+            "mal_id": 6,
+            "url": null,
+            "title": "A Joyful Night",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 3.97,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=51556"
+        },
+        {
+            "mal_id": 7,
+            "url": null,
+            "title": "A Disaster after School",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 4.18,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=52662"
+        },
+        {
+            "mal_id": 8,
+            "url": null,
+            "title": "Prankish Devils",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 4.04,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=53739"
+        },
+        {
+            "mal_id": 9,
+            "url": null,
+            "title": "The Black Chamber",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 3.95,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=54621"
+        },
+        {
+            "mal_id": 10,
+            "url": null,
+            "title": "Overdrive",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=55811"
+        },
+        {
+            "mal_id": 11,
+            "url": null,
+            "title": "Supernova",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 4.12,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=57078"
+        },
+        {
+            "mal_id": 12,
+            "url": null,
+            "title": "From the Tropics with Love",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 3.94,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=58217"
+        },
+        {
+            "mal_id": 13,
+            "url": null,
+            "title": "The Dark Executioner",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 4.48,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=59443"
+        },
+        {
+            "mal_id": 14,
+            "url": null,
+            "title": "Blood Spilt, Tears Lost",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 4.62,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=61889"
+        },
+        {
+            "mal_id": 15,
+            "url": null,
+            "title": "Vector",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 4.25,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=63002"
+        },
+        {
+            "mal_id": 16,
+            "url": null,
+            "title": "Judgment at Dusk",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 4.26,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=64058"
+        },
+        {
+            "mal_id": 17,
+            "url": null,
+            "title": "The Mechanical Curse",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 3.31,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=65194"
+        },
+        {
+            "mal_id": 18,
+            "url": null,
+            "title": "Memento Mori",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 4.33,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=66615"
+        },
+        {
+            "mal_id": 19,
+            "url": null,
+            "title": "Exposed Shadows",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 3.94,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=67701"
+        },
+        {
+            "mal_id": 20,
+            "url": null,
+            "title": "The Man of Destiny",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 4.67,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=73075"
+        },
+        {
+            "mal_id": 21,
+            "url": null,
+            "title": "Wings of Madness",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 4.5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=73086"
+        },
+        {
+            "mal_id": 22,
+            "url": null,
+            "title": "Receiving the Demon",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 3.37,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=71940"
+        },
+        {
+            "mal_id": 23,
+            "url": null,
+            "title": "The Way of Life Decided by Death",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 4.04,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=72941"
+        },
+        {
+            "mal_id": 24,
+            "url": null,
+            "title": "The Blossom of Linebarrel",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 3.81,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=74188"
+        }
+    ]
+}

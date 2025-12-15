@@ -1,0 +1,170 @@
+{
+    "id": 3618,
+    "fetched_at": "Sun Dec 14 20:01:34 2025",
+    "metadata": {
+        "mal_id": 3618,
+        "url": "https://myanimelist.net/anime/3618/Moyashimon__Kin_Gekijou_Deluxe",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/5/25163.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/5/25163t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/5/25163l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/5/25163.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/5/25163t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/5/25163l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Moyashimon: Kin Gekijou Deluxe"
+            },
+            {
+                "type": "Synonym",
+                "title": "Moyashimon: Microbe Theatre Deluxe"
+            },
+            {
+                "type": "Synonym",
+                "title": "Moyasimon"
+            },
+            {
+                "type": "Synonym",
+                "title": "Tales of Agriculture"
+            },
+            {
+                "type": "Japanese",
+                "title": "もやしもん　菌劇場デラックス"
+            }
+        ],
+        "title": "Moyashimon: Kin Gekijou Deluxe",
+        "title_english": null,
+        "title_japanese": "もやしもん　菌劇場デラックス",
+        "title_synonyms": [
+            "Moyashimon: Microbe Theatre Deluxe",
+            "Moyasimon",
+            "Tales of Agriculture"
+        ],
+        "type": "Special",
+        "source": "Manga",
+        "episodes": 4,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "2007-12-21T00:00:00+00:00",
+            "to": "2008-03-19T00:00:00+00:00",
+            "prop": {
+                "from": {
+                    "day": 21,
+                    "month": 12,
+                    "year": 2007
+                },
+                "to": {
+                    "day": 19,
+                    "month": 3,
+                    "year": 2008
+                }
+            },
+            "string": "Dec 21, 2007 to Mar 19, 2008"
+        },
+        "duration": "5 min per ep",
+        "rating": "G - All Ages",
+        "score": 6.73,
+        "scored_by": 3058,
+        "rank": 5892,
+        "popularity": 8457,
+        "members": 6443,
+        "favorites": 2,
+        "synopsis": "Five-minute shorts expanding on the \"Microbe Theatre\" segments of Moyashimon released as bonus episodes on the limited-edition packages of Moyashimon's DVD release.",
+        "background": "",
+        "season": null,
+        "year": null,
+        "broadcast": {
+            "day": null,
+            "time": null,
+            "timezone": null,
+            "string": null
+        },
+        "producers": [],
+        "licensors": [],
+        "studios": [
+            {
+                "mal_id": 235,
+                "type": "anime",
+                "name": "Shirogumi",
+                "url": "https://myanimelist.net/anime/producer/235/Shirogumi"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 4,
+                "type": "anime",
+                "name": "Comedy",
+                "url": "https://myanimelist.net/anime/genre/4/Comedy"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [],
+        "demographics": [],
+        "relations": [
+            {
+                "relation": "Parent Story",
+                "entry": [
+                    {
+                        "mal_id": 3001,
+                        "type": "anime",
+                        "name": "Moyashimon",
+                        "url": "https://myanimelist.net/anime/3001/Moyashimon"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [],
+            "endings": []
+        },
+        "external": [
+            {
+                "name": "Official Site",
+                "url": "http://kamosuzo.tv"
+            },
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=5305"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "http://en.wikipedia.org/wiki/Moyashimon"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": [
+        {
+            "mal_id": 1,
+            "url": null,
+            "title": "Microbe Theatre Deluxe 1",
+            "title_japanese": "菌劇場 デラックス1",
+            "title_romanji": "Kingekijou Deluxe 1 ",
+            "aired": "2007-12-21T00:00:00+00:00",
+            "score": 4.06,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=18028"
+        }
+    ]
+}

@@ -1,0 +1,189 @@
+{
+    "id": 4331,
+    "fetched_at": "Sun Dec 14 22:29:35 2025",
+    "metadata": {
+        "mal_id": 4331,
+        "url": "https://myanimelist.net/anime/4331/Penguin_no_Mondai",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/3/9560.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/3/9560t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/3/9560l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/3/9560.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/3/9560t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/3/9560l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Penguin no Mondai"
+            },
+            {
+                "type": "Synonym",
+                "title": "A Penguin's Troubles"
+            },
+            {
+                "type": "Japanese",
+                "title": "ペンギンの問題"
+            }
+        ],
+        "title": "Penguin no Mondai",
+        "title_english": null,
+        "title_japanese": "ペンギンの問題",
+        "title_synonyms": [
+            "A Penguin's Troubles"
+        ],
+        "type": "TV",
+        "source": "Manga",
+        "episodes": 100,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "2008-04-05T00:00:00+00:00",
+            "to": "2009-03-20T00:00:00+00:00",
+            "prop": {
+                "from": {
+                    "day": 5,
+                    "month": 4,
+                    "year": 2008
+                },
+                "to": {
+                    "day": 20,
+                    "month": 3,
+                    "year": 2009
+                }
+            },
+            "string": "Apr 5, 2008 to Mar 20, 2009"
+        },
+        "duration": "10 min per ep",
+        "rating": "G - All Ages",
+        "score": 5.82,
+        "scored_by": 321,
+        "rank": 11283,
+        "popularity": 15147,
+        "members": 942,
+        "favorites": 2,
+        "synopsis": "About the daily lives of a boy and his talking penguin.",
+        "background": "",
+        "season": "spring",
+        "year": 2008,
+        "broadcast": {
+            "day": null,
+            "time": null,
+            "timezone": null,
+            "string": "Unknown"
+        },
+        "producers": [
+            {
+                "mal_id": 16,
+                "type": "anime",
+                "name": "TV Tokyo",
+                "url": "https://myanimelist.net/anime/producer/16/TV_Tokyo"
+            }
+        ],
+        "licensors": [],
+        "studios": [
+            {
+                "mal_id": 474,
+                "type": "anime",
+                "name": "Shogakukan Music & Digital Entertainment",
+                "url": "https://myanimelist.net/anime/producer/474/Shogakukan_Music___Digital_Entertainment"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 4,
+                "type": "anime",
+                "name": "Comedy",
+                "url": "https://myanimelist.net/anime/genre/4/Comedy"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [],
+        "demographics": [
+            {
+                "mal_id": 15,
+                "type": "anime",
+                "name": "Kids",
+                "url": "https://myanimelist.net/anime/genre/15/Kids"
+            }
+        ],
+        "relations": [
+            {
+                "relation": "Sequel",
+                "entry": [
+                    {
+                        "mal_id": 10855,
+                        "type": "anime",
+                        "name": "Penguin no Mondai Max",
+                        "url": "https://myanimelist.net/anime/10855/Penguin_no_Mondai_Max"
+                    }
+                ]
+            },
+            {
+                "relation": "Side Story",
+                "entry": [
+                    {
+                        "mal_id": 6063,
+                        "type": "anime",
+                        "name": "Penguin no Mondai Movie",
+                        "url": "https://myanimelist.net/anime/6063/Penguin_no_Mondai_Movie"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [],
+            "endings": []
+        },
+        "external": [
+            {
+                "name": "Official Site",
+                "url": "http://www.tv-tokyo.co.jp/contents/pengin/index.html"
+            },
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=5901"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=9412"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "https://ja.wikipedia.org/wiki/%E3%83%9A%E3%83%B3%E3%82%AE%E3%83%B3%E3%81%AE%E5%95%8F%E9%A1%8C#%E3%83%86%E3%83%AC%E3%83%93%E3%82%A2%E3%83%8B%E3%83%A1"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": [
+        {
+            "mal_id": 64,
+            "url": null,
+            "title": "Mushiba no Mondai",
+            "title_japanese": "むしばの問題",
+            "title_romanji": "Mushiba no Mondai ",
+            "aired": "2009-04-07T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        }
+    ]
+}

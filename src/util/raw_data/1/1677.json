@@ -1,0 +1,213 @@
+{
+    "id": 1677,
+    "fetched_at": "Sun Dec 14 16:42:16 2025",
+    "metadata": {
+        "mal_id": 1677,
+        "url": "https://myanimelist.net/anime/1677/Young_Herlock_wo_Oe_Cosmo_Warrior_Zero_Gaiden",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1102/100986.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1102/100986t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1102/100986l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1102/100986.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1102/100986t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1102/100986l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Young Herlock wo Oe! Cosmo Warrior Zero Gaiden"
+            },
+            {
+                "type": "Synonym",
+                "title": "Cosmo Warrior Zero Specials"
+            },
+            {
+                "type": "Synonym",
+                "title": "Young Harlock o Oe! Cosmowarrior Zero Gaiden"
+            },
+            {
+                "type": "Japanese",
+                "title": "ヤングハーロックを追え! コスモウォーリアー零外伝"
+            },
+            {
+                "type": "English",
+                "title": "Cosmo Warrior Zero - Hunt for Young Harlock"
+            }
+        ],
+        "title": "Young Herlock wo Oe! Cosmo Warrior Zero Gaiden",
+        "title_english": "Cosmo Warrior Zero - Hunt for Young Harlock",
+        "title_japanese": "ヤングハーロックを追え! コスモウォーリアー零外伝",
+        "title_synonyms": [
+            "Cosmo Warrior Zero Specials",
+            "Young Harlock o Oe! Cosmowarrior Zero Gaiden"
+        ],
+        "type": "TV Special",
+        "source": "Game",
+        "episodes": 2,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "2002-06-21T00:00:00+00:00",
+            "to": null,
+            "prop": {
+                "from": {
+                    "day": 21,
+                    "month": 6,
+                    "year": 2002
+                },
+                "to": {
+                    "day": null,
+                    "month": null,
+                    "year": null
+                }
+            },
+            "string": "Jun 21, 2002"
+        },
+        "duration": "24 min per ep",
+        "rating": "PG-13 - Teens 13 or older",
+        "score": 6.24,
+        "scored_by": 1144,
+        "rank": 8947,
+        "popularity": 11001,
+        "members": 3003,
+        "favorites": 0,
+        "synopsis": "Space captain Warrius Zero, who lost his family to evil cyborgs, wages battle against Captain Harlock, a space rebel defending the Machine Men.\n\n(Source: Amazon Prime Video)",
+        "background": "",
+        "season": null,
+        "year": null,
+        "broadcast": {
+            "day": null,
+            "time": null,
+            "timezone": null,
+            "string": null
+        },
+        "producers": [],
+        "licensors": [
+            {
+                "mal_id": 250,
+                "type": "anime",
+                "name": "Media Blasters",
+                "url": "https://myanimelist.net/anime/producer/250/Media_Blasters"
+            }
+        ],
+        "studios": [
+            {
+                "mal_id": 136,
+                "type": "anime",
+                "name": "Vega Entertainment",
+                "url": "https://myanimelist.net/anime/producer/136/Vega_Entertainment"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 2,
+                "type": "anime",
+                "name": "Adventure",
+                "url": "https://myanimelist.net/anime/genre/2/Adventure"
+            },
+            {
+                "mal_id": 8,
+                "type": "anime",
+                "name": "Drama",
+                "url": "https://myanimelist.net/anime/genre/8/Drama"
+            },
+            {
+                "mal_id": 24,
+                "type": "anime",
+                "name": "Sci-Fi",
+                "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [
+            {
+                "mal_id": 38,
+                "type": "anime",
+                "name": "Military",
+                "url": "https://myanimelist.net/anime/genre/38/Military"
+            },
+            {
+                "mal_id": 29,
+                "type": "anime",
+                "name": "Space",
+                "url": "https://myanimelist.net/anime/genre/29/Space"
+            }
+        ],
+        "demographics": [],
+        "relations": [
+            {
+                "relation": "Prequel",
+                "entry": [
+                    {
+                        "mal_id": 1676,
+                        "type": "anime",
+                        "name": "Cosmo Warrior Zero",
+                        "url": "https://myanimelist.net/anime/1676/Cosmo_Warrior_Zero"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [],
+            "endings": []
+        },
+        "external": [
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=816"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=469"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Cosmo_Warrior_Zero"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": [
+        {
+            "mal_id": 1,
+            "url": "https://myanimelist.net/anime/1677/Young_Herlock_wo_Oe_Cosmo_Warrior_Zero_Gaiden/episode/1",
+            "title": "Hunt for Young Harlock Part 1 - Zero vs. Harlock",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": "2002-07-05T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1156043"
+        },
+        {
+            "mal_id": 2,
+            "url": "https://myanimelist.net/anime/1677/Young_Herlock_wo_Oe_Cosmo_Warrior_Zero_Gaiden/episode/2",
+            "title": "Hunt for Young Harlock Part 2 - For the Flag of Freedom",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": "2002-07-05T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1157305"
+        }
+    ]
+}

@@ -1,0 +1,260 @@
+{
+    "id": 1043,
+    "fetched_at": "Sun Dec 14 14:29:04 2025",
+    "metadata": {
+        "mal_id": 1043,
+        "url": "https://myanimelist.net/anime/1043/Tokyo_Babylon",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/12/20546.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/12/20546t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/12/20546l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/12/20546.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/12/20546t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/12/20546l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Tokyo Babylon"
+            },
+            {
+                "type": "Synonym",
+                "title": "Tokyo Babylon 2"
+            },
+            {
+                "type": "Japanese",
+                "title": "東京ＢＡＢＹＬＯＮ"
+            }
+        ],
+        "title": "Tokyo Babylon",
+        "title_english": null,
+        "title_japanese": "東京ＢＡＢＹＬＯＮ",
+        "title_synonyms": [
+            "Tokyo Babylon 2"
+        ],
+        "type": "OVA",
+        "source": "Manga",
+        "episodes": 2,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "1992-10-21T00:00:00+00:00",
+            "to": "1994-03-21T00:00:00+00:00",
+            "prop": {
+                "from": {
+                    "day": 21,
+                    "month": 10,
+                    "year": 1992
+                },
+                "to": {
+                    "day": 21,
+                    "month": 3,
+                    "year": 1994
+                }
+            },
+            "string": "Oct 21, 1992 to Mar 21, 1994"
+        },
+        "duration": "49 min per ep",
+        "rating": "R - 17+ (violence & profanity)",
+        "score": 6.67,
+        "scored_by": 8969,
+        "rank": 6297,
+        "popularity": 5264,
+        "members": 21159,
+        "favorites": 40,
+        "synopsis": "Subaru Sumeragi is the 13th head of the Sumeragi Clan and a most powerful onmyouji. Subaru is hired to exorcise a construction site, but his employer mysteriously died. The only suspect is a man who repeatedly walks away from situations in which he should have died. Then Subaru meets a young woman intent upon cursing the man, saying that he killed her brother. Subaru must figure out how his employer died and fight the evil spirits that are protecting the man with the help of his friend and twin sister, Seishirou Sakurazuka and Hokuto Sumeragi.\n\n(Source: ANN)",
+        "background": "",
+        "season": null,
+        "year": null,
+        "broadcast": {
+            "day": null,
+            "time": null,
+            "timezone": null,
+            "string": null
+        },
+        "producers": [
+            {
+                "mal_id": 11,
+                "type": "anime",
+                "name": "Madhouse",
+                "url": "https://myanimelist.net/anime/producer/11/Madhouse"
+            },
+            {
+                "mal_id": 166,
+                "type": "anime",
+                "name": "Movic",
+                "url": "https://myanimelist.net/anime/producer/166/Movic"
+            },
+            {
+                "mal_id": 757,
+                "type": "anime",
+                "name": "Sony Music Entertainment",
+                "url": "https://myanimelist.net/anime/producer/757/Sony_Music_Entertainment"
+            },
+            {
+                "mal_id": 1672,
+                "type": "anime",
+                "name": "Shinshokan",
+                "url": "https://myanimelist.net/anime/producer/1672/Shinshokan"
+            }
+        ],
+        "licensors": [
+            {
+                "mal_id": 284,
+                "type": "anime",
+                "name": "Central Park Media",
+                "url": "https://myanimelist.net/anime/producer/284/Central_Park_Media"
+            }
+        ],
+        "studios": [
+            {
+                "mal_id": 155,
+                "type": "anime",
+                "name": "animate Film",
+                "url": "https://myanimelist.net/anime/producer/155/animate_Film"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 1,
+                "type": "anime",
+                "name": "Action",
+                "url": "https://myanimelist.net/anime/genre/1/Action"
+            },
+            {
+                "mal_id": 8,
+                "type": "anime",
+                "name": "Drama",
+                "url": "https://myanimelist.net/anime/genre/8/Drama"
+            },
+            {
+                "mal_id": 7,
+                "type": "anime",
+                "name": "Mystery",
+                "url": "https://myanimelist.net/anime/genre/7/Mystery"
+            },
+            {
+                "mal_id": 37,
+                "type": "anime",
+                "name": "Supernatural",
+                "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [],
+        "demographics": [
+            {
+                "mal_id": 25,
+                "type": "anime",
+                "name": "Shoujo",
+                "url": "https://myanimelist.net/anime/genre/25/Shoujo"
+            }
+        ],
+        "relations": [
+            {
+                "relation": "Sequel",
+                "entry": [
+                    {
+                        "mal_id": 595,
+                        "type": "anime",
+                        "name": "X OVA",
+                        "url": "https://myanimelist.net/anime/595/X_OVA"
+                    }
+                ]
+            },
+            {
+                "relation": "Adaptation",
+                "entry": [
+                    {
+                        "mal_id": 133,
+                        "type": "manga",
+                        "name": "Tokyo Babylon",
+                        "url": "https://myanimelist.net/manga/133/Tokyo_Babylon"
+                    }
+                ]
+            },
+            {
+                "relation": "Other",
+                "entry": [
+                    {
+                        "mal_id": 24139,
+                        "type": "anime",
+                        "name": "Tokyo Babylon: Vision",
+                        "url": "https://myanimelist.net/anime/24139/Tokyo_Babylon__Vision"
+                    },
+                    {
+                        "mal_id": 43629,
+                        "type": "anime",
+                        "name": "Tokyo Babylon 2021",
+                        "url": "https://myanimelist.net/anime/43629/Tokyo_Babylon_2021"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [],
+            "endings": [
+                "1: \"Kiss Kiss\" by Hideaki Matsuoka (eps 1)",
+                "2: \"Deja Vu\" by Hideaki Matsuoka (eps 2)"
+            ]
+        },
+        "external": [
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=457"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=761"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "http://en.wikipedia.org/wiki/Tokyo_Babylon"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": [
+        {
+            "mal_id": 1,
+            "url": null,
+            "title": "The Curse",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": "1992-10-21T00:00:00+00:00",
+            "score": 3.89,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1768259"
+        },
+        {
+            "mal_id": 2,
+            "url": null,
+            "title": "The Ripper",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": "1994-03-21T00:00:00+00:00",
+            "score": 3.88,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1747208"
+        }
+    ]
+}

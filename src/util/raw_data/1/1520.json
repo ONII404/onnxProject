@@ -1,0 +1,444 @@
+{
+    "id": 1520,
+    "fetched_at": "Sun Dec 14 16:28:52 2025",
+    "metadata": {
+        "mal_id": 1520,
+        "url": "https://myanimelist.net/anime/1520/Black_Jack",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/5/12978.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/5/12978t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/5/12978l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/5/12978.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/5/12978t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/5/12978l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Black Jack"
+            },
+            {
+                "type": "Synonym",
+                "title": "Black Jack OVA"
+            },
+            {
+                "type": "Synonym",
+                "title": "Black Jack Final"
+            },
+            {
+                "type": "Japanese",
+                "title": "ブラック・ジャック"
+            },
+            {
+                "type": "English",
+                "title": "Black Jack"
+            }
+        ],
+        "title": "Black Jack",
+        "title_english": "Black Jack",
+        "title_japanese": "ブラック・ジャック",
+        "title_synonyms": [
+            "Black Jack OVA",
+            "Black Jack Final"
+        ],
+        "type": "OVA",
+        "source": "Manga",
+        "episodes": 12,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "1993-12-21T00:00:00+00:00",
+            "to": "2011-12-16T00:00:00+00:00",
+            "prop": {
+                "from": {
+                    "day": 21,
+                    "month": 12,
+                    "year": 1993
+                },
+                "to": {
+                    "day": 16,
+                    "month": 12,
+                    "year": 2011
+                }
+            },
+            "string": "Dec 21, 1993 to Dec 16, 2011"
+        },
+        "duration": "50 min per ep",
+        "rating": "R+ - Mild Nudity",
+        "score": 7.72,
+        "scored_by": 13332,
+        "rank": 1304,
+        "popularity": 3697,
+        "members": 45386,
+        "favorites": 390,
+        "synopsis": "Kuroo Hazama, also known as \"Black Jack,\" is a legend in the medical world. Famous for being one of the best, as well as not having a license, Hazama and his assistant Pinoko save countless lives that other doctors cannot... for a price; an exorbitant price, in fact, which causes many to view the genius as greedy and heartless. Despite these claims, however, none can deny his skill and the lengths that he will go to treat his patients. This dark medical drama tells the story of the ominous and mysterious world of underground medicine as Black Jack risks his life to cure some of the most bizarre diseases imaginable, even if it means breaking every law in the process.\n\n[Written by MAL Rewrite]",
+        "background": "",
+        "season": null,
+        "year": null,
+        "broadcast": {
+            "day": null,
+            "time": null,
+            "timezone": null,
+            "string": null
+        },
+        "producers": [
+            {
+                "mal_id": 140,
+                "type": "anime",
+                "name": "Animax",
+                "url": "https://myanimelist.net/anime/producer/140/Animax"
+            },
+            {
+                "mal_id": 1373,
+                "type": "anime",
+                "name": "Akita Shoten",
+                "url": "https://myanimelist.net/anime/producer/1373/Akita_Shoten"
+            }
+        ],
+        "licensors": [
+            {
+                "mal_id": 284,
+                "type": "anime",
+                "name": "Central Park Media",
+                "url": "https://myanimelist.net/anime/producer/284/Central_Park_Media"
+            },
+            {
+                "mal_id": 310,
+                "type": "anime",
+                "name": "AnimEigo",
+                "url": "https://myanimelist.net/anime/producer/310/AnimEigo"
+            }
+        ],
+        "studios": [
+            {
+                "mal_id": 200,
+                "type": "anime",
+                "name": "Tezuka Productions",
+                "url": "https://myanimelist.net/anime/producer/200/Tezuka_Productions"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 8,
+                "type": "anime",
+                "name": "Drama",
+                "url": "https://myanimelist.net/anime/genre/8/Drama"
+            },
+            {
+                "mal_id": 7,
+                "type": "anime",
+                "name": "Mystery",
+                "url": "https://myanimelist.net/anime/genre/7/Mystery"
+            },
+            {
+                "mal_id": 41,
+                "type": "anime",
+                "name": "Suspense",
+                "url": "https://myanimelist.net/anime/genre/41/Suspense"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [
+            {
+                "mal_id": 67,
+                "type": "anime",
+                "name": "Medical",
+                "url": "https://myanimelist.net/anime/genre/67/Medical"
+            },
+            {
+                "mal_id": 40,
+                "type": "anime",
+                "name": "Psychological",
+                "url": "https://myanimelist.net/anime/genre/40/Psychological"
+            }
+        ],
+        "demographics": [
+            {
+                "mal_id": 27,
+                "type": "anime",
+                "name": "Shounen",
+                "url": "https://myanimelist.net/anime/genre/27/Shounen"
+            }
+        ],
+        "relations": [
+            {
+                "relation": "Prequel",
+                "entry": [
+                    {
+                        "mal_id": 30740,
+                        "type": "anime",
+                        "name": "Young Black Jack",
+                        "url": "https://myanimelist.net/anime/30740/Young_Black_Jack"
+                    }
+                ]
+            },
+            {
+                "relation": "Adaptation",
+                "entry": [
+                    {
+                        "mal_id": 1600,
+                        "type": "manga",
+                        "name": "Black Jack",
+                        "url": "https://myanimelist.net/manga/1600/Black_Jack"
+                    }
+                ]
+            },
+            {
+                "relation": "Side Story",
+                "entry": [
+                    {
+                        "mal_id": 1521,
+                        "type": "anime",
+                        "name": "Black Jack the Movie",
+                        "url": "https://myanimelist.net/anime/1521/Black_Jack_the_Movie"
+                    },
+                    {
+                        "mal_id": 6246,
+                        "type": "anime",
+                        "name": "Black Jack: Sora kara Kita Kodomo",
+                        "url": "https://myanimelist.net/anime/6246/Black_Jack__Sora_kara_Kita_Kodomo"
+                    }
+                ]
+            },
+            {
+                "relation": "Alternative Version",
+                "entry": [
+                    {
+                        "mal_id": 7229,
+                        "type": "anime",
+                        "name": "Black Jack ONA",
+                        "url": "https://myanimelist.net/anime/7229/Black_Jack_ONA"
+                    },
+                    {
+                        "mal_id": 2213,
+                        "type": "anime",
+                        "name": "Black Jack (TV)",
+                        "url": "https://myanimelist.net/anime/2213/Black_Jack_TV"
+                    }
+                ]
+            },
+            {
+                "relation": "Character",
+                "entry": [
+                    {
+                        "mal_id": 9991,
+                        "type": "anime",
+                        "name": "Bremen 4: Jigoku no Naka no Tenshi-tachi",
+                        "url": "https://myanimelist.net/anime/9991/Bremen_4__Jigoku_no_Naka_no_Tenshi-tachi"
+                    }
+                ]
+            },
+            {
+                "relation": "Other",
+                "entry": [
+                    {
+                        "mal_id": 10055,
+                        "type": "anime",
+                        "name": "Black Jack: Obaa-chan",
+                        "url": "https://myanimelist.net/anime/10055/Black_Jack__Obaa-chan"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [
+                "1: \"Just Before Sunrise\" by Rhodes (eps 1-3,11-12)",
+                "2: \"Kioku no Kimi e (To You in My Memory)\" by Another Moon (eps 4-5)",
+                "3: \"Moon Shadow\" by The Orange Vox (eps 6)",
+                "4: \"Rebirth\" by Kudo Eiko (eps 7-10)"
+            ],
+            "endings": [
+                "1: \"I'll Be Back Again --- Moonlight\" by Rhodes (eps 1-3,11-12)",
+                "2: \"Kono omoi tsutaerareru (I Thought I Could Convey This Feeling...)\" by Another Moon (eps 4-5)",
+                "3: \"Black Jack\" by The Orange Vox (eps 6)",
+                "4: \"HOPE --- Not to be defeated, not to cry, and not to be daunted\" by Kudo Eiko (eps 7-10)"
+            ]
+        },
+        "external": [
+            {
+                "name": "Official Site",
+                "url": "http://tezukaosamu.net/jp/anime/110.html"
+            },
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=2544"
+            },
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=8845"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=525"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "http://ja.wikipedia.org/wiki/%E3%83%96%E3%83%A9%E3%83%83%E3%82%AF%E3%83%BB%E3%82%B8%E3%83%A3%E3%83%83%E3%82%AF_%28OVA%29"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": [
+        {
+            "mal_id": 1,
+            "url": null,
+            "title": "Iceberg, Chimaera Man",
+            "title_japanese": "流水, キマイラの男",
+            "title_romanji": "Ryuusui, Chimaera no Otoko ",
+            "aired": "1993-12-21T00:00:00+00:00",
+            "score": 4.32,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=96849"
+        },
+        {
+            "mal_id": 2,
+            "url": null,
+            "title": "A Funeral, The Procession Game",
+            "title_japanese": "葬列遊戯",
+            "title_romanji": "Souretsu Yuugi ",
+            "aired": "1993-12-21T00:00:00+00:00",
+            "score": 4.48,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=286878"
+        },
+        {
+            "mal_id": 3,
+            "url": null,
+            "title": "Decoration of Maria and Her Comrades",
+            "title_japanese": "マリア達の勲章",
+            "title_romanji": "Maria-tachi no Kunshou ",
+            "aired": "1993-12-21T00:00:00+00:00",
+            "score": 4.44,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=299991"
+        },
+        {
+            "mal_id": 4,
+            "url": null,
+            "title": "Anorexia, The Two Dark Doctors",
+            "title_japanese": "拒食、ふたりの黒い医者",
+            "title_romanji": "Kyoshoku, Futari no Kuroi Isha ",
+            "aired": "1995-03-21T00:00:00+00:00",
+            "score": 4.52,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=97227"
+        },
+        {
+            "mal_id": 5,
+            "url": null,
+            "title": "The Owl of San Merida",
+            "title_japanese": "サンメリーダの鶚",
+            "title_romanji": "San Merida no Fukurou ",
+            "aired": "1995-05-20T00:00:00+00:00",
+            "score": 4.47,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=286970"
+        },
+        {
+            "mal_id": 6,
+            "url": null,
+            "title": "Night Time Tale in the Snow, Lovelorn Princess",
+            "title_japanese": "雪の夜ばなし、初恋",
+            "title_romanji": "Yuki no Yobanashi, Koihime ",
+            "aired": "1996-05-21T00:00:00+00:00",
+            "score": 3.87,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=242410"
+        },
+        {
+            "mal_id": 7,
+            "url": null,
+            "title": "Black and White",
+            "title_japanese": "白い正義",
+            "title_romanji": "Shiroi Seigi ",
+            "aired": "1998-08-21T00:00:00+00:00",
+            "score": 4.2,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=198517"
+        },
+        {
+            "mal_id": 8,
+            "url": null,
+            "title": "Thoughts For Green",
+            "title_japanese": "緑の想い",
+            "title_romanji": "Midori no Omoi ",
+            "aired": "1999-10-25T00:00:00+00:00",
+            "score": 3.95,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=304817"
+        },
+        {
+            "mal_id": 9,
+            "url": null,
+            "title": "The Carbuncle",
+            "title_japanese": "人面瘡",
+            "title_romanji": "Jinmen Kasa ",
+            "aired": "2000-02-25T00:00:00+00:00",
+            "score": 4.11,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=296710"
+        },
+        {
+            "mal_id": 10,
+            "url": null,
+            "title": "Sinking Woman",
+            "title_japanese": "しずむ女",
+            "title_romanji": "Shizumu Onna ",
+            "aired": "2000-07-25T00:00:00+00:00",
+            "score": 4.08,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=211854"
+        },
+        {
+            "mal_id": 11,
+            "url": null,
+            "title": "Visited Memories",
+            "title_japanese": "おとずれた思い出",
+            "title_romanji": "Otozureta Omoide ",
+            "aired": "2011-12-16T00:00:00+00:00",
+            "score": 4.1,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=417401"
+        },
+        {
+            "mal_id": 12,
+            "url": null,
+            "title": "The Beautiful Avenger",
+            "title_japanese": "美しき報復者",
+            "title_romanji": "Utsukushiki Houfukusha ",
+            "aired": "2011-12-16T00:00:00+00:00",
+            "score": 3.78,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=411399"
+        }
+    ]
+}

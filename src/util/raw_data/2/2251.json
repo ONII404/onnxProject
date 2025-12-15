@@ -1,0 +1,398 @@
+{
+    "id": 2251,
+    "fetched_at": "Sun Dec 14 18:21:37 2025",
+    "metadata": {
+        "mal_id": 2251,
+        "url": "https://myanimelist.net/anime/2251/Baccano",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/3/14547.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/3/14547t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/3/14547l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/3/14547.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/3/14547t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/3/14547l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": "https://www.youtube-nocookie.com/embed/W5bn87yvh_g?enablejsapi=1&wmode=opaque&autoplay=1",
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Baccano!"
+            },
+            {
+                "type": "Japanese",
+                "title": "バッカーノ！"
+            },
+            {
+                "type": "English",
+                "title": "Baccano!"
+            }
+        ],
+        "title": "Baccano!",
+        "title_english": "Baccano!",
+        "title_japanese": "バッカーノ！",
+        "title_synonyms": [],
+        "type": "TV",
+        "source": "Light novel",
+        "episodes": 13,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "2007-07-27T00:00:00+00:00",
+            "to": "2007-11-02T00:00:00+00:00",
+            "prop": {
+                "from": {
+                    "day": 27,
+                    "month": 7,
+                    "year": 2007
+                },
+                "to": {
+                    "day": 2,
+                    "month": 11,
+                    "year": 2007
+                }
+            },
+            "string": "Jul 27, 2007 to Nov 2, 2007"
+        },
+        "duration": "24 min per ep",
+        "rating": "R - 17+ (violence & profanity)",
+        "score": 8.35,
+        "scored_by": 395869,
+        "rank": 259,
+        "popularity": 201,
+        "members": 949199,
+        "favorites": 23679,
+        "synopsis": "During the early 1930s in Chicago, the transcontinental train, Flying Pussyfoot, is starting its legendary journey that will leave a trail of blood all over the country. At the same time in New York, the ambitious scientist Szilard and his unwilling aide Ennis are looking for missing bottles of the immortality elixir. In addition, a war between the mafia groups is getting worse. On board the Advena Avis, in 1711, alchemists are about to learn the price of immortality.\n\nBased on the award-winning light novels of the same name, Baccano! follows several events that initially seem unrelated, both in time and place, but are part of a much bigger story—one of alchemy, survival, and immortality. Merging these events together are the kindhearted would-be thieves, Isaac and Miria, connecting various people, all of them with their own hidden ambitions and agendas, and creating lifelong bonds and consequences for everyone involved.\n\n[Written by MAL Rewrite]",
+        "background": "Baccano! is based on Ryohgo Narita's award-winning light novels of the same title and mainly adapts the first 4 novels. While more faithful to the first 3 novels, the 4th novel (1932) is followed more loosely and is mostly an anime-exclusive story. In addition, content from later novels is briefly included in the anime as well. Unlike the novels however, which follow a mostly linear narrative per book, the anime adopts a non-linear storytelling style; the tale of each novel is told simultaneously with one another, with the focus jumping back and forth in time between and within the different plotlines.",
+        "season": "summer",
+        "year": 2007,
+        "broadcast": {
+            "day": "Fridays",
+            "time": "00:30",
+            "timezone": "Asia/Tokyo",
+            "string": "Fridays at 00:30 (JST)"
+        },
+        "producers": [
+            {
+                "mal_id": 17,
+                "type": "anime",
+                "name": "Aniplex",
+                "url": "https://myanimelist.net/anime/producer/17/Aniplex"
+            },
+            {
+                "mal_id": 166,
+                "type": "anime",
+                "name": "Movic",
+                "url": "https://myanimelist.net/anime/producer/166/Movic"
+            }
+        ],
+        "licensors": [
+            {
+                "mal_id": 102,
+                "type": "anime",
+                "name": "Funimation",
+                "url": "https://myanimelist.net/anime/producer/102/Funimation"
+            },
+            {
+                "mal_id": 493,
+                "type": "anime",
+                "name": "Aniplex of America",
+                "url": "https://myanimelist.net/anime/producer/493/Aniplex_of_America"
+            }
+        ],
+        "studios": [
+            {
+                "mal_id": 112,
+                "type": "anime",
+                "name": "Brain's Base",
+                "url": "https://myanimelist.net/anime/producer/112/Brains_Base"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 1,
+                "type": "anime",
+                "name": "Action",
+                "url": "https://myanimelist.net/anime/genre/1/Action"
+            },
+            {
+                "mal_id": 7,
+                "type": "anime",
+                "name": "Mystery",
+                "url": "https://myanimelist.net/anime/genre/7/Mystery"
+            },
+            {
+                "mal_id": 37,
+                "type": "anime",
+                "name": "Supernatural",
+                "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [
+            {
+                "mal_id": 50,
+                "type": "anime",
+                "name": "Adult Cast",
+                "url": "https://myanimelist.net/anime/genre/50/Adult_Cast"
+            },
+            {
+                "mal_id": 13,
+                "type": "anime",
+                "name": "Historical",
+                "url": "https://myanimelist.net/anime/genre/13/Historical"
+            },
+            {
+                "mal_id": 68,
+                "type": "anime",
+                "name": "Organized Crime",
+                "url": "https://myanimelist.net/anime/genre/68/Organized_Crime"
+            }
+        ],
+        "demographics": [],
+        "relations": [
+            {
+                "relation": "Sequel",
+                "entry": [
+                    {
+                        "mal_id": 3901,
+                        "type": "anime",
+                        "name": "Baccano! Specials",
+                        "url": "https://myanimelist.net/anime/3901/Baccano_Specials"
+                    }
+                ]
+            },
+            {
+                "relation": "Adaptation",
+                "entry": [
+                    {
+                        "mal_id": 10814,
+                        "type": "manga",
+                        "name": "Baccano! 1931 The Grand Punk Railroad",
+                        "url": "https://myanimelist.net/manga/10814/Baccano_1931_The_Grand_Punk_Railroad"
+                    },
+                    {
+                        "mal_id": 92203,
+                        "type": "manga",
+                        "name": "Baccano!",
+                        "url": "https://myanimelist.net/manga/92203/Baccano"
+                    },
+                    {
+                        "mal_id": 1342,
+                        "type": "manga",
+                        "name": "Baccano!",
+                        "url": "https://myanimelist.net/manga/1342/Baccano"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [
+                "\"Gun's & Roses\" by Paradise Lunch"
+            ],
+            "endings": [
+                "\"Calling\" by Oda Kaori"
+            ]
+        },
+        "external": [
+            {
+                "name": "Official Site",
+                "url": "http://www.baccano.jp/"
+            },
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=4897"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=7492"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "http://en.wikipedia.org/wiki/Baccano"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "https://ja.wikipedia.org/wiki/%E3%83%90%E3%83%83%E3%82%AB%E3%83%BC%E3%83%8E!#%E3%83%86%E3%83%AC%E3%83%93%E3%82%A2%E3%83%8B%E3%83%A1"
+            },
+            {
+                "name": "Syoboi",
+                "url": "https://cal.syoboi.jp/tid/590"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": [
+        {
+            "mal_id": 1,
+            "url": null,
+            "title": "The Vice President Doesn't Say Anything about the Possibility of Him Being the Main Character",
+            "title_japanese": "副社長は自身が主役である可能性について語らない",
+            "title_romanji": "Fukushachou wa Jishin ga Shuyaku de Aru Kanousei ni Tsuite Kataranai ",
+            "aired": "2007-07-27T00:00:00+00:00",
+            "score": 3.87,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=3043"
+        },
+        {
+            "mal_id": 2,
+            "url": null,
+            "title": "Setting the Old Woman's Qualms Aside, the Flying Pussyfoot Departs",
+            "title_japanese": "老婦人の不安をよそに大陸横断鉄道は出発する",
+            "title_romanji": "Roufujin no Fuan wo Yoso ni Flying Pussyfoot wa Shuppatsu Suru ",
+            "aired": "2007-08-03T00:00:00+00:00",
+            "score": 4.32,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=3745"
+        },
+        {
+            "mal_id": 3,
+            "url": null,
+            "title": "Randy and Pecho Are Busy Getting Ready for the Party",
+            "title_japanese": "ランディとペッチョはパーティの準備で忙しい",
+            "title_romanji": "Randy to Pecho wa Party no Junbi de Isogashii ",
+            "aired": "2007-08-10T00:00:00+00:00",
+            "score": 4.3,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=3897"
+        },
+        {
+            "mal_id": 4,
+            "url": null,
+            "title": "Ladd Russo Enjoys Talking A Lot and Slaughtering A Lot",
+            "title_japanese": "ラッド・ルッソは大いに語り大いに殺戮を楽しむ",
+            "title_romanji": "Ladd Russo wa Ooini Katari Ooini Satsuriku wo Tanoshimu ",
+            "aired": "2007-08-17T00:00:00+00:00",
+            "score": 4.35,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=4208"
+        },
+        {
+            "mal_id": 5,
+            "url": null,
+            "title": "Jacuzzi Splot Cries, Gets Scared and Musters Reckless Valor",
+            "title_japanese": "ジャグジー・スプロットは泣いて怯えて蛮勇を奮う",
+            "title_romanji": "Jacuzzi Splot wa Naite Obiete Banyuu wo Furuu ",
+            "aired": "2007-08-24T00:00:00+00:00",
+            "score": 4.32,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=4810"
+        },
+        {
+            "mal_id": 6,
+            "url": null,
+            "title": "The Rail Tracer Covertly, Repeatedly Slaughters Inside the Coaches",
+            "title_japanese": "レイルトレーサーは車内を暗躍し虐殺をくりかえす",
+            "title_romanji": "Rail Toreisa wa Shanai wo Anyakushi Gyakusatsu wo Kurikaesu ",
+            "aired": "2007-09-14T00:00:00+00:00",
+            "score": 4.34,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=5221"
+        },
+        {
+            "mal_id": 7,
+            "url": null,
+            "title": "Everything Starts Aboard the Advenna Avis",
+            "title_japanese": "すべてはアドウェナ・アウィス号の船上からはじまる",
+            "title_romanji": "Subete wa Advenna Avis Gou no Senjou Kara Hajimaru ",
+            "aired": "2007-09-21T00:00:00+00:00",
+            "score": 4.44,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=5646"
+        },
+        {
+            "mal_id": 8,
+            "url": null,
+            "title": "Isaac and Miria Unintentionally Spread Happiness Around Them",
+            "title_japanese": "アイザックとミリアは我知らず周囲に幸福をまきちらす",
+            "title_romanji": "Isaac to Miria wa Wareshirazu Shuui ni Koufuku wo Makichirasu ",
+            "aired": "2007-09-28T00:00:00+00:00",
+            "score": 4.57,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=5823"
+        },
+        {
+            "mal_id": 9,
+            "url": null,
+            "title": "Claire Stanfield Faithfully Carries Out the Mission",
+            "title_japanese": "クレア・スタンフィールドは忠実に職務を遂行する",
+            "title_romanji": "Claire Stanfield wa Chuujitsu ni Shokumu wo Suikousuru ",
+            "aired": "2007-10-05T00:00:00+00:00",
+            "score": 4.61,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=6369"
+        },
+        {
+            "mal_id": 10,
+            "url": null,
+            "title": "Czeslaw Meyer is Forced to Rework His Tremble-Before-the-Specter-of-Immortals Strategy",
+            "title_japanese": "チェスワフ・メイエルは不死者の影に怯え策略をめぐらせる",
+            "title_romanji": "Chesuwafu Meieru wa Fushisha no Kage ni Obie Sakuryaku wo Meguraseru ",
+            "aired": "2007-10-12T00:00:00+00:00",
+            "score": 4.57,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=6769"
+        },
+        {
+            "mal_id": 11,
+            "url": null,
+            "title": "Chane Laforet Remains Silent in the Face of Two Mysterious People",
+            "title_japanese": "シャーネ・ラフォレットは二人の怪人を前に沈黙する",
+            "title_romanji": "Chane Laforet wa Futari no Kaijin wo Mae ni Chinmoku Suru ",
+            "aired": "2007-10-19T00:00:00+00:00",
+            "score": 4.63,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=6928"
+        },
+        {
+            "mal_id": 12,
+            "url": null,
+            "title": "Firo and the Three Gandor Brothers Are Felled by Assassins' Bullets",
+            "title_japanese": "フィーロとガンドール三兄弟は凶弾に倒れる",
+            "title_romanji": "Firo to Gandor Sankyoudai wa Kyoudan ni Taoreru ",
+            "aired": "2007-10-26T00:00:00+00:00",
+            "score": 4.73,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=7554"
+        },
+        {
+            "mal_id": 13,
+            "url": null,
+            "title": "Both the Immortals and Those Who Aren't Sing the Praises of Life Equally",
+            "title_japanese": "不死者もそうでない者もひとしなみに人生を謳歌する",
+            "title_romanji": "Fushisha mo Sou de Nai Mono Hitoshi Nami ni Jinsei wo Ouka Suru ",
+            "aired": "2007-11-02T00:00:00+00:00",
+            "score": 4.74,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=7884"
+        }
+    ]
+}

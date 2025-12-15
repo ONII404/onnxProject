@@ -1,0 +1,534 @@
+{
+    "id": 3000,
+    "fetched_at": "Sun Dec 14 19:10:58 2025",
+    "metadata": {
+        "mal_id": 3000,
+        "url": "https://myanimelist.net/anime/3000/Taiho_Shichau_zo__Full_Throttle",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/4/21616.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/4/21616t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/4/21616l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/4/21616.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/4/21616t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/4/21616l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Taiho Shichau zo: Full Throttle"
+            },
+            {
+                "type": "Synonym",
+                "title": "Taiho Shichauzo: Full Throttle"
+            },
+            {
+                "type": "Synonym",
+                "title": "Taiho Shichau zo (2007)"
+            },
+            {
+                "type": "Japanese",
+                "title": "逮捕しちゃうぞ フルスロットル"
+            },
+            {
+                "type": "English",
+                "title": "You're Under Arrest: Full Throttle"
+            }
+        ],
+        "title": "Taiho Shichau zo: Full Throttle",
+        "title_english": "You're Under Arrest: Full Throttle",
+        "title_japanese": "逮捕しちゃうぞ フルスロットル",
+        "title_synonyms": [
+            "Taiho Shichauzo: Full Throttle",
+            "Taiho Shichau zo (2007)"
+        ],
+        "type": "TV",
+        "source": "Manga",
+        "episodes": 23,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "2007-10-05T00:00:00+00:00",
+            "to": "2008-03-28T00:00:00+00:00",
+            "prop": {
+                "from": {
+                    "day": 5,
+                    "month": 10,
+                    "year": 2007
+                },
+                "to": {
+                    "day": 28,
+                    "month": 3,
+                    "year": 2008
+                }
+            },
+            "string": "Oct 5, 2007 to Mar 28, 2008"
+        },
+        "duration": "24 min per ep",
+        "rating": "PG-13 - Teens 13 or older",
+        "score": 7.16,
+        "scored_by": 4000,
+        "rank": 3698,
+        "popularity": 6637,
+        "members": 11684,
+        "favorites": 6,
+        "synopsis": "Miyuki Kobayakawa, fresh from forensics training in the United States and Natsumi Tsujimoto, from completing Japanese Self-Defense Force (JSDF) ranger training return in the long-awaited 3rd season of the highly popular series. This time, the duo rejoins active duty at Bokuto Police Department, fighting against crime using their wits and brawn, plus having some misadventures along the way. \n\n(Source: ANN)",
+        "background": "",
+        "season": "fall",
+        "year": 2007,
+        "broadcast": {
+            "day": null,
+            "time": null,
+            "timezone": null,
+            "string": "Unknown"
+        },
+        "producers": [
+            {
+                "mal_id": 145,
+                "type": "anime",
+                "name": "TBS",
+                "url": "https://myanimelist.net/anime/producer/145/TBS"
+            }
+        ],
+        "licensors": [
+            {
+                "mal_id": 376,
+                "type": "anime",
+                "name": "Sentai Filmworks",
+                "url": "https://myanimelist.net/anime/producer/376/Sentai_Filmworks"
+            }
+        ],
+        "studios": [
+            {
+                "mal_id": 37,
+                "type": "anime",
+                "name": "Studio Deen",
+                "url": "https://myanimelist.net/anime/producer/37/Studio_Deen"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 1,
+                "type": "anime",
+                "name": "Action",
+                "url": "https://myanimelist.net/anime/genre/1/Action"
+            },
+            {
+                "mal_id": 4,
+                "type": "anime",
+                "name": "Comedy",
+                "url": "https://myanimelist.net/anime/genre/4/Comedy"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [
+            {
+                "mal_id": 50,
+                "type": "anime",
+                "name": "Adult Cast",
+                "url": "https://myanimelist.net/anime/genre/50/Adult_Cast"
+            },
+            {
+                "mal_id": 48,
+                "type": "anime",
+                "name": "Workplace",
+                "url": "https://myanimelist.net/anime/genre/48/Workplace"
+            }
+        ],
+        "demographics": [
+            {
+                "mal_id": 42,
+                "type": "anime",
+                "name": "Seinen",
+                "url": "https://myanimelist.net/anime/genre/42/Seinen"
+            }
+        ],
+        "relations": [
+            {
+                "relation": "Prequel",
+                "entry": [
+                    {
+                        "mal_id": 1577,
+                        "type": "anime",
+                        "name": "Taiho Shichau zo",
+                        "url": "https://myanimelist.net/anime/1577/Taiho_Shichau_zo"
+                    },
+                    {
+                        "mal_id": 1372,
+                        "type": "anime",
+                        "name": "Taiho Shichau zo (TV)",
+                        "url": "https://myanimelist.net/anime/1372/Taiho_Shichau_zo_TV"
+                    },
+                    {
+                        "mal_id": 2011,
+                        "type": "anime",
+                        "name": "Taiho Shichau zo Special",
+                        "url": "https://myanimelist.net/anime/2011/Taiho_Shichau_zo_Special"
+                    },
+                    {
+                        "mal_id": 4162,
+                        "type": "anime",
+                        "name": "Taiho Shichau zo: Nagisa no Koutsuu Yuudou",
+                        "url": "https://myanimelist.net/anime/4162/Taiho_Shichau_zo__Nagisa_no_Koutsuu_Yuudou"
+                    },
+                    {
+                        "mal_id": 2013,
+                        "type": "anime",
+                        "name": "Taiho Shichau zo The Movie",
+                        "url": "https://myanimelist.net/anime/2013/Taiho_Shichau_zo_The_Movie"
+                    },
+                    {
+                        "mal_id": 2014,
+                        "type": "anime",
+                        "name": "Taiho Shichau zo: Second Season",
+                        "url": "https://myanimelist.net/anime/2014/Taiho_Shichau_zo__Second_Season"
+                    }
+                ]
+            },
+            {
+                "relation": "Sequel",
+                "entry": [
+                    {
+                        "mal_id": 6312,
+                        "type": "anime",
+                        "name": "Taiho Shichau zo: Full Throttle - Watashitachi no Iru Basho",
+                        "url": "https://myanimelist.net/anime/6312/Taiho_Shichau_zo__Full_Throttle_-_Watashitachi_no_Iru_Basho"
+                    }
+                ]
+            },
+            {
+                "relation": "Adaptation",
+                "entry": [
+                    {
+                        "mal_id": 1292,
+                        "type": "manga",
+                        "name": "Taiho Shichau zo",
+                        "url": "https://myanimelist.net/manga/1292/Taiho_Shichau_zo"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [
+                "\"Mighty Buddy (マイティー・バディ)\" by AA-CHINO"
+            ],
+            "endings": [
+                "\"44198\" by Chiaki Ishikawa"
+            ]
+        },
+        "external": [
+            {
+                "name": "Official Site",
+                "url": "http://www.tbs.co.jp/anime/taiho/"
+            },
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=5234"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=8152"
+            }
+        ],
+        "streaming": [
+            {
+                "name": "HIDIVE",
+                "url": "https://www.hidive.com/tv/youre-under-arrest-full-throttle"
+            }
+        ]
+    },
+    "episodes": [
+        {
+            "mal_id": 1,
+            "url": null,
+            "title": "Reunion",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": "2007-10-05T00:00:00+00:00",
+            "score": 4.52,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=5869"
+        },
+        {
+            "mal_id": 2,
+            "url": null,
+            "title": "The Blue-Eyed Samurai",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": "2007-10-12T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1965399"
+        },
+        {
+            "mal_id": 3,
+            "url": null,
+            "title": "The Powerful, No-Parking Wrestler",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": "2007-10-19T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 4,
+            "url": null,
+            "title": "Snake Panic at Bokuto Police Station",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": "2007-10-26T00:00:00+00:00",
+            "score": 3.4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=7030"
+        },
+        {
+            "mal_id": 5,
+            "url": null,
+            "title": "There's a Baby Locked in the Car!",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": "2007-11-02T00:00:00+00:00",
+            "score": 4.17,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1854995"
+        },
+        {
+            "mal_id": 6,
+            "url": null,
+            "title": "Aoi Becomes a Man!?",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": "2007-11-09T00:00:00+00:00",
+            "score": 3.69,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=7536"
+        },
+        {
+            "mal_id": 7,
+            "url": null,
+            "title": "The Taxi Robber",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": "2007-11-16T00:00:00+00:00",
+            "score": 4.31,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=8104"
+        },
+        {
+            "mal_id": 8,
+            "url": null,
+            "title": "Chief Has an Illegitimate Child?! A Dangerous Picnic",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": "2007-11-23T00:00:00+00:00",
+            "score": 4.08,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=9249"
+        },
+        {
+            "mal_id": 9,
+            "url": null,
+            "title": "Yoriko Nikaido, Bachelorette",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": "2007-11-30T00:00:00+00:00",
+            "score": 4.33,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=9498"
+        },
+        {
+            "mal_id": 10,
+            "url": null,
+            "title": "A Sudden Outbreak of Robots",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": "2007-12-07T00:00:00+00:00",
+            "score": 3.92,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=9706"
+        },
+        {
+            "mal_id": 11,
+            "url": null,
+            "title": "To the Most Important Person in the World",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": "2007-12-14T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=9745"
+        },
+        {
+            "mal_id": 12,
+            "url": null,
+            "title": "Finally, a Reality! A Dream Match!",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": "2007-12-21T00:00:00+00:00",
+            "score": 3.79,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=11826"
+        },
+        {
+            "mal_id": 13,
+            "url": null,
+            "title": "Identity Revealed! The Great Unmasking",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": "2008-01-11T00:00:00+00:00",
+            "score": 3.75,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=15494"
+        },
+        {
+            "mal_id": 14,
+            "url": null,
+            "title": "Ten Thousand Suspects",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": "2008-01-18T00:00:00+00:00",
+            "score": 3.72,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=24406"
+        },
+        {
+            "mal_id": 15,
+            "url": null,
+            "title": "24 Hours with the Bokuto Police Office!",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": "2008-01-25T00:00:00+00:00",
+            "score": 3.56,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=25599"
+        },
+        {
+            "mal_id": 16,
+            "url": null,
+            "title": "Protect the Charity Event",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": "2008-02-01T00:00:00+00:00",
+            "score": 3.83,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=32613"
+        },
+        {
+            "mal_id": 17,
+            "url": null,
+            "title": "Natsumi Tsujimoto's Dream-Like Day",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": "2008-02-08T00:00:00+00:00",
+            "score": 3.86,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=32633"
+        },
+        {
+            "mal_id": 18,
+            "url": null,
+            "title": "Three Policewomen in an All-Out Dash Along the Beach!",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": "2008-02-15T00:00:00+00:00",
+            "score": 3.7,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=90374"
+        },
+        {
+            "mal_id": 19,
+            "url": null,
+            "title": "Business As Usual on the Bokuto Front",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": "2008-02-29T00:00:00+00:00",
+            "score": 3.67,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=90112"
+        },
+        {
+            "mal_id": 20,
+            "url": null,
+            "title": "Bokuto Police Station: In Memory of an Innocent Love",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": "2008-03-07T00:00:00+00:00",
+            "score": 4.53,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=107831"
+        },
+        {
+            "mal_id": 21,
+            "url": null,
+            "title": "Vigilante Racer: Part 1",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": "2008-03-14T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=125709"
+        },
+        {
+            "mal_id": 22,
+            "url": null,
+            "title": "Vigilante Racer: Part 2",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": "2008-03-21T00:00:00+00:00",
+            "score": 3.93,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=135337"
+        },
+        {
+            "mal_id": 23,
+            "url": null,
+            "title": "We're Going to Arrest You!",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": "2008-03-28T00:00:00+00:00",
+            "score": 4.22,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=146296"
+        }
+    ]
+}

@@ -1,0 +1,174 @@
+{
+    "id": 1839,
+    "fetched_at": "Sun Dec 14 17:27:25 2025",
+    "metadata": {
+        "mal_id": 1839,
+        "url": "https://myanimelist.net/anime/1839/Jagainu-kun",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1223/137617.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1223/137617t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1223/137617l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1223/137617.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1223/137617t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1223/137617l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Jagainu-kun"
+            },
+            {
+                "type": "Synonym",
+                "title": "Dogtato-kun"
+            },
+            {
+                "type": "Japanese",
+                "title": "じゃがいぬくん"
+            }
+        ],
+        "title": "Jagainu-kun",
+        "title_english": null,
+        "title_japanese": "じゃがいぬくん",
+        "title_synonyms": [
+            "Dogtato-kun"
+        ],
+        "type": "TV",
+        "source": "Original",
+        "episodes": 26,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "2004-04-04T00:00:00+00:00",
+            "to": "2004-07-18T00:00:00+00:00",
+            "prop": {
+                "from": {
+                    "day": 4,
+                    "month": 4,
+                    "year": 2004
+                },
+                "to": {
+                    "day": 18,
+                    "month": 7,
+                    "year": 2004
+                }
+            },
+            "string": "Apr 4, 2004 to Jul 18, 2004"
+        },
+        "duration": "3 min per ep",
+        "rating": "G - All Ages",
+        "score": 6.43,
+        "scored_by": 699,
+        "rank": 7747,
+        "popularity": 13029,
+        "members": 1646,
+        "favorites": 2,
+        "synopsis": "Known in Japan as Jagainu-kun, Dogtato is the heartwarming tale of a dog that`s really a potato...or a potato that`s really a dog. Or something. (Jagaimo = potato, inu = dog, thus the name Jagainu/Dogtato.) Dogtato`s world is full of his lovable half-veggie, half-animal friends who are always getting into wacky hijinks and misadventures.\n\n(Source: AniDB)",
+        "background": "",
+        "season": "spring",
+        "year": 2004,
+        "broadcast": {
+            "day": null,
+            "time": null,
+            "timezone": null,
+            "string": "Unknown"
+        },
+        "producers": [
+            {
+                "mal_id": 17,
+                "type": "anime",
+                "name": "Aniplex",
+                "url": "https://myanimelist.net/anime/producer/17/Aniplex"
+            }
+        ],
+        "licensors": [],
+        "studios": [],
+        "genres": [
+            {
+                "mal_id": 2,
+                "type": "anime",
+                "name": "Adventure",
+                "url": "https://myanimelist.net/anime/genre/2/Adventure"
+            },
+            {
+                "mal_id": 10,
+                "type": "anime",
+                "name": "Fantasy",
+                "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+            },
+            {
+                "mal_id": 36,
+                "type": "anime",
+                "name": "Slice of Life",
+                "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [
+            {
+                "mal_id": 51,
+                "type": "anime",
+                "name": "Anthropomorphic",
+                "url": "https://myanimelist.net/anime/genre/51/Anthropomorphic"
+            }
+        ],
+        "demographics": [
+            {
+                "mal_id": 15,
+                "type": "anime",
+                "name": "Kids",
+                "url": "https://myanimelist.net/anime/genre/15/Kids"
+            }
+        ],
+        "relations": [],
+        "theme": {
+            "openings": [],
+            "endings": []
+        },
+        "external": [
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=1746"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=3977"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "http://en.wikipedia.org/wiki/Dogtato"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": [
+        {
+            "mal_id": 1,
+            "url": null,
+            "title": "Your Tail Is Great!",
+            "title_japanese": "しっぽは最高!",
+            "title_romanji": "Shippo wa Saikou ",
+            "aired": "2004-04-04T00:00:00+00:00",
+            "score": 3,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=367627"
+        }
+    ]
+}

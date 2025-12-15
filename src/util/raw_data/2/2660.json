@@ -1,0 +1,158 @@
+{
+    "id": 2660,
+    "fetched_at": "Sun Dec 14 18:47:55 2025",
+    "metadata": {
+        "mal_id": 2660,
+        "url": "https://myanimelist.net/anime/2660/Doraemon__Nobitas_the_Night_Before_a_Wedding",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1398/133726.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1398/133726t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1398/133726l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1398/133726.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1398/133726t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1398/133726l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Doraemon: Nobita's the Night Before a Wedding"
+            },
+            {
+                "type": "Synonym",
+                "title": "Doraemon: Nobita no Kekkon Zenya"
+            },
+            {
+                "type": "Japanese",
+                "title": "ドラえもん のび太の結婚前夜 The night before a wedding"
+            }
+        ],
+        "title": "Doraemon: Nobita's the Night Before a Wedding",
+        "title_english": null,
+        "title_japanese": "ドラえもん のび太の結婚前夜 The night before a wedding",
+        "title_synonyms": [
+            "Doraemon: Nobita no Kekkon Zenya"
+        ],
+        "type": "Movie",
+        "source": "Unknown",
+        "episodes": 1,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "1999-03-06T00:00:00+00:00",
+            "to": null,
+            "prop": {
+                "from": {
+                    "day": 6,
+                    "month": 3,
+                    "year": 1999
+                },
+                "to": {
+                    "day": null,
+                    "month": null,
+                    "year": null
+                }
+            },
+            "string": "Mar 6, 1999"
+        },
+        "duration": "26 min",
+        "rating": "PG - Children",
+        "score": 7.21,
+        "scored_by": 2142,
+        "rank": 3449,
+        "popularity": 10112,
+        "members": 3941,
+        "favorites": 1,
+        "synopsis": "Nobita and Doraemon travel into the future to see whether or not Nobita will marry Shizuka. Once they arrive, they find out that instead of travelling to the day of the wedding, they travelled to the day before the wedding. Afterwards, the pair follow the future Nobita and his friends as they try to return a lost cat to its owner.\n\n(Source: ANN)",
+        "background": "",
+        "season": null,
+        "year": null,
+        "broadcast": {
+            "day": null,
+            "time": null,
+            "timezone": null,
+            "string": null
+        },
+        "producers": [],
+        "licensors": [],
+        "studios": [
+            {
+                "mal_id": 247,
+                "type": "anime",
+                "name": "Shin-Ei Animation",
+                "url": "https://myanimelist.net/anime/producer/247/Shin-Ei_Animation"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 10,
+                "type": "anime",
+                "name": "Fantasy",
+                "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [],
+        "demographics": [],
+        "relations": [
+            {
+                "relation": "Adaptation",
+                "entry": [
+                    {
+                        "mal_id": 1032,
+                        "type": "manga",
+                        "name": "Doraemon",
+                        "url": "https://myanimelist.net/manga/1032/Doraemon"
+                    }
+                ]
+            },
+            {
+                "relation": "Other",
+                "entry": [
+                    {
+                        "mal_id": 2668,
+                        "type": "anime",
+                        "name": "Doraemon Movie 20: Nobita no Uchuu Hyouryuuki",
+                        "url": "https://myanimelist.net/anime/2668/Doraemon_Movie_20__Nobita_no_Uchuu_Hyouryuuki"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [],
+            "endings": []
+        },
+        "external": [
+            {
+                "name": "Official Site",
+                "url": "http://www.dora-world.com/"
+            },
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=4765"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=3930"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": []
+}

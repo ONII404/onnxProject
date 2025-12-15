@@ -1,0 +1,959 @@
+{
+    "id": 1929,
+    "fetched_at": "Sun Dec 14 17:58:32 2025",
+    "metadata": {
+        "mal_id": 1929,
+        "url": "https://myanimelist.net/anime/1929/Futari_wa_Precure__Max_Heart",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/3/7536.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/3/7536t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/3/7536l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/3/7536.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/3/7536t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/3/7536l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Futari wa Precure: Max Heart"
+            },
+            {
+                "type": "Synonym",
+                "title": "We Are Pretty Cure: Max Heart"
+            },
+            {
+                "type": "Japanese",
+                "title": "ふたりはプリキュア ー マックスハート"
+            },
+            {
+                "type": "English",
+                "title": "Pretty Cure Max Heart"
+            },
+            {
+                "type": "French",
+                "title": "Pretty Cure Max Heart"
+            }
+        ],
+        "title": "Futari wa Precure: Max Heart",
+        "title_english": "Pretty Cure Max Heart",
+        "title_japanese": "ふたりはプリキュア ー マックスハート",
+        "title_synonyms": [
+            "We Are Pretty Cure: Max Heart"
+        ],
+        "type": "TV",
+        "source": "Original",
+        "episodes": 47,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "2005-02-06T00:00:00+00:00",
+            "to": "2006-01-29T00:00:00+00:00",
+            "prop": {
+                "from": {
+                    "day": 6,
+                    "month": 2,
+                    "year": 2005
+                },
+                "to": {
+                    "day": 29,
+                    "month": 1,
+                    "year": 2006
+                }
+            },
+            "string": "Feb 6, 2005 to Jan 29, 2006"
+        },
+        "duration": "24 min per ep",
+        "rating": "G - All Ages",
+        "score": 6.99,
+        "scored_by": 9486,
+        "rank": 4572,
+        "popularity": 5133,
+        "members": 22350,
+        "favorites": 55,
+        "synopsis": "Shortly after the fall of the Wicked King, the Queen of the Garden of Light lost her memory and came to Earth, in the form of a 12-year-old girl named Hikari Kujou. Now, she—with the help of Nagisa and Honoka, endowed with new costumes and powers—must find the 12 Heartiels, which hold the key to restoring the Queen's lost memories. For together once again, they are Pretty Cure.\n\n(Source: AniDB)",
+        "background": "",
+        "season": "winter",
+        "year": 2005,
+        "broadcast": {
+            "day": null,
+            "time": null,
+            "timezone": null,
+            "string": "Unknown"
+        },
+        "producers": [
+            {
+                "mal_id": 1415,
+                "type": "anime",
+                "name": "Asahi Broadcasting",
+                "url": "https://myanimelist.net/anime/producer/1415/Asahi_Broadcasting"
+            }
+        ],
+        "licensors": [],
+        "studios": [
+            {
+                "mal_id": 18,
+                "type": "anime",
+                "name": "Toei Animation",
+                "url": "https://myanimelist.net/anime/producer/18/Toei_Animation"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 1,
+                "type": "anime",
+                "name": "Action",
+                "url": "https://myanimelist.net/anime/genre/1/Action"
+            },
+            {
+                "mal_id": 4,
+                "type": "anime",
+                "name": "Comedy",
+                "url": "https://myanimelist.net/anime/genre/4/Comedy"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [
+            {
+                "mal_id": 66,
+                "type": "anime",
+                "name": "Mahou Shoujo",
+                "url": "https://myanimelist.net/anime/genre/66/Mahou_Shoujo"
+            }
+        ],
+        "demographics": [],
+        "relations": [
+            {
+                "relation": "Prequel",
+                "entry": [
+                    {
+                        "mal_id": 603,
+                        "type": "anime",
+                        "name": "Futari wa Precure",
+                        "url": "https://myanimelist.net/anime/603/Futari_wa_Precure"
+                    }
+                ]
+            },
+            {
+                "relation": "Adaptation",
+                "entry": [
+                    {
+                        "mal_id": 100142,
+                        "type": "manga",
+                        "name": "Futari wa Precure: Max Heart",
+                        "url": "https://myanimelist.net/manga/100142/Futari_wa_Precure__Max_Heart"
+                    }
+                ]
+            },
+            {
+                "relation": "Side Story",
+                "entry": [
+                    {
+                        "mal_id": 1930,
+                        "type": "anime",
+                        "name": "Futari wa Precure: Max Heart Movie 1",
+                        "url": "https://myanimelist.net/anime/1930/Futari_wa_Precure__Max_Heart_Movie_1"
+                    },
+                    {
+                        "mal_id": 1931,
+                        "type": "anime",
+                        "name": "Futari wa Precure: Max Heart Movie 2 - Yukizora no Tomodachi",
+                        "url": "https://myanimelist.net/anime/1931/Futari_wa_Precure__Max_Heart_Movie_2_-_Yukizora_no_Tomodachi"
+                    }
+                ]
+            },
+            {
+                "relation": "Spin-Off",
+                "entry": [
+                    {
+                        "mal_id": 10549,
+                        "type": "anime",
+                        "name": "Precure All Stars GoGo Dream Live!",
+                        "url": "https://myanimelist.net/anime/10549/Precure_All_Stars_GoGo_Dream_Live"
+                    },
+                    {
+                        "mal_id": 5753,
+                        "type": "anime",
+                        "name": "Precure All Stars Movie DX: Minna Tomodachi☆Kiseki no Zenin Daishuugou!",
+                        "url": "https://myanimelist.net/anime/5753/Precure_All_Stars_Movie_DX__Minna_Tomodachi☆Kiseki_no_Zenin_Daishuugou"
+                    },
+                    {
+                        "mal_id": 8133,
+                        "type": "anime",
+                        "name": "Precure All Stars Movie DX2: Kibou no Hikari☆Rainbow Jewel wo Mamore!",
+                        "url": "https://myanimelist.net/anime/8133/Precure_All_Stars_Movie_DX2__Kibou_no_Hikari☆Rainbow_Jewel_wo_Mamore"
+                    },
+                    {
+                        "mal_id": 9979,
+                        "type": "anime",
+                        "name": "Precure All Stars Movie DX3: Mirai ni Todoke! Sekai wo Tsunagu☆Nijiiro no Hana",
+                        "url": "https://myanimelist.net/anime/9979/Precure_All_Stars_Movie_DX3__Mirai_ni_Todoke_Sekai_wo_Tsunagu☆Nijiiro_no_Hana"
+                    },
+                    {
+                        "mal_id": 12221,
+                        "type": "anime",
+                        "name": "Precure All Stars Movie New Stage: Mirai no Tomodachi",
+                        "url": "https://myanimelist.net/anime/12221/Precure_All_Stars_Movie_New_Stage__Mirai_no_Tomodachi"
+                    }
+                ]
+            },
+            {
+                "relation": "Alternative Setting",
+                "entry": [
+                    {
+                        "mal_id": 1534,
+                        "type": "anime",
+                        "name": "Futari wa Precure: Splash☆Star",
+                        "url": "https://myanimelist.net/anime/1534/Futari_wa_Precure__Splash☆Star"
+                    },
+                    {
+                        "mal_id": 1932,
+                        "type": "anime",
+                        "name": "Yes! Precure 5",
+                        "url": "https://myanimelist.net/anime/1932/Yes_Precure_5"
+                    },
+                    {
+                        "mal_id": 3692,
+                        "type": "anime",
+                        "name": "Yes! Precure 5 GoGo!",
+                        "url": "https://myanimelist.net/anime/3692/Yes_Precure_5_GoGo"
+                    },
+                    {
+                        "mal_id": 5684,
+                        "type": "anime",
+                        "name": "Fresh Precure!",
+                        "url": "https://myanimelist.net/anime/5684/Fresh_Precure"
+                    },
+                    {
+                        "mal_id": 7645,
+                        "type": "anime",
+                        "name": "Heartcatch Precure!",
+                        "url": "https://myanimelist.net/anime/7645/Heartcatch_Precure"
+                    },
+                    {
+                        "mal_id": 9893,
+                        "type": "anime",
+                        "name": "Suite Precure♪",
+                        "url": "https://myanimelist.net/anime/9893/Suite_Precure♪"
+                    },
+                    {
+                        "mal_id": 12191,
+                        "type": "anime",
+                        "name": "Smile Precure!",
+                        "url": "https://myanimelist.net/anime/12191/Smile_Precure"
+                    },
+                    {
+                        "mal_id": 16419,
+                        "type": "anime",
+                        "name": "Dokidoki! Precure",
+                        "url": "https://myanimelist.net/anime/16419/Dokidoki_Precure"
+                    },
+                    {
+                        "mal_id": 21407,
+                        "type": "anime",
+                        "name": "Happiness Charge Precure!",
+                        "url": "https://myanimelist.net/anime/21407/Happiness_Charge_Precure"
+                    },
+                    {
+                        "mal_id": 28669,
+                        "type": "anime",
+                        "name": "Go! Princess Precure",
+                        "url": "https://myanimelist.net/anime/28669/Go_Princess_Precure"
+                    },
+                    {
+                        "mal_id": 31884,
+                        "type": "anime",
+                        "name": "Mahoutsukai Precure!",
+                        "url": "https://myanimelist.net/anime/31884/Mahoutsukai_Precure"
+                    },
+                    {
+                        "mal_id": 34290,
+                        "type": "anime",
+                        "name": "Kirakira☆Precure A La Mode",
+                        "url": "https://myanimelist.net/anime/34290/Kirakira☆Precure_A_La_Mode"
+                    },
+                    {
+                        "mal_id": 36593,
+                        "type": "anime",
+                        "name": "Hug tto! Precure",
+                        "url": "https://myanimelist.net/anime/36593/Hug_tto_Precure"
+                    },
+                    {
+                        "mal_id": 38578,
+                        "type": "anime",
+                        "name": "Star☆Twinkle Precure",
+                        "url": "https://myanimelist.net/anime/38578/Star☆Twinkle_Precure"
+                    },
+                    {
+                        "mal_id": 40610,
+                        "type": "anime",
+                        "name": "Healin' Good♡Precure",
+                        "url": "https://myanimelist.net/anime/40610/Healin_Good♡Precure"
+                    },
+                    {
+                        "mal_id": 44191,
+                        "type": "anime",
+                        "name": "Tropical-Rouge! Precure",
+                        "url": "https://myanimelist.net/anime/44191/Tropical-Rouge_Precure"
+                    },
+                    {
+                        "mal_id": 53716,
+                        "type": "anime",
+                        "name": "Hirogaru Sky! Precure",
+                        "url": "https://myanimelist.net/anime/53716/Hirogaru_Sky_Precure"
+                    },
+                    {
+                        "mal_id": 57390,
+                        "type": "anime",
+                        "name": "Wonderful Precure!",
+                        "url": "https://myanimelist.net/anime/57390/Wonderful_Precure"
+                    },
+                    {
+                        "mal_id": 60407,
+                        "type": "anime",
+                        "name": "Kimi to Idol Precure♪",
+                        "url": "https://myanimelist.net/anime/60407/Kimi_to_Idol_Precure♪"
+                    },
+                    {
+                        "mal_id": 63042,
+                        "type": "anime",
+                        "name": "Meitantei Precure!",
+                        "url": "https://myanimelist.net/anime/63042/Meitantei_Precure"
+                    }
+                ]
+            },
+            {
+                "relation": "Other",
+                "entry": [
+                    {
+                        "mal_id": 10736,
+                        "type": "anime",
+                        "name": "Precure kara Minna e no Ouen Movie",
+                        "url": "https://myanimelist.net/anime/10736/Precure_kara_Minna_e_no_Ouen_Movie"
+                    },
+                    {
+                        "mal_id": 11569,
+                        "type": "anime",
+                        "name": "Precure All Stars DX the Dance Live♥: Miracle Dance Stage e Youkoso",
+                        "url": "https://myanimelist.net/anime/11569/Precure_All_Stars_DX_the_Dance_Live♥__Miracle_Dance_Stage_e_Youkoso"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [
+                "DANZEN! Futari wa Precure (MaxHeart Ver) by Mayumi Gojou"
+            ],
+            "endings": [
+                "1: \"Murimuri?! Ariari!! IN Jaa~nai?! (ムリムリ！？ありあり！！ＩＮじゃあな～い？！)\" by Mayumi Gojo with Young Flesh (eps 1-36)",
+                "2: \"Wonder * Winter * Yattaa!! (ワンダーウィンターヤッタ)\" by Mayumi Gojou (eps 37-47)"
+            ]
+        },
+        "external": [
+            {
+                "name": "Official Site",
+                "url": "http://www.toei-anim.co.jp/tv/precure_MH/"
+            },
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=2765"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=4752"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "http://en.wikipedia.org/wiki/Pretty_Cure_Max_Heart"
+            }
+        ],
+        "streaming": [
+            {
+                "name": "Crunchyroll",
+                "url": "http://www.crunchyroll.com/series-283889"
+            }
+        ]
+    },
+    "episodes": [
+        {
+            "mal_id": 1,
+            "url": "https://myanimelist.net/anime/1929/Futari_wa_Precure__Max_Heart/episode/1",
+            "title": "Absolutely Pair is Precure! Legend Continues Thoroughly!",
+            "title_japanese": "やっぱりふたりはプリッキュア~! 伝説は続くよどこまでも!",
+            "title_romanji": "Yappari Futari wa Precure! Densetsu wa Tsuzuku yo Doko made mo! ",
+            "aired": "2005-02-06T00:00:00+00:00",
+            "score": 4.33,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=260951"
+        },
+        {
+            "mal_id": 2,
+            "url": "https://myanimelist.net/anime/1929/Futari_wa_Precure__Max_Heart/episode/2",
+            "title": "The Freshman is a Profound Mystery!? But She is really full of Riddles",
+            "title_japanese": "新入生は摩訶不思議!? はっきりいって謎だらけ!",
+            "title_romanji": "Shinnyuusei wa Makafushigi!? Hakkiri Itte Nazodarake! ",
+            "aired": "2005-02-13T00:00:00+00:00",
+            "score": 4.31,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=260964"
+        },
+        {
+            "mal_id": 3,
+            "url": "https://myanimelist.net/anime/1929/Futari_wa_Precure__Max_Heart/episode/3",
+            "title": "Could this be Destiny? Porun and Hikari's Approaching Encounter!!",
+            "title_japanese": "これって運命? ポルンとひかり接近遭遇!!",
+            "title_romanji": "Kore tte Unmei? Porun to Hikari Sekkin Souguu! ",
+            "aired": "2005-02-20T00:00:00+00:00",
+            "score": 4.13,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1121055"
+        },
+        {
+            "mal_id": 4,
+            "url": "https://myanimelist.net/anime/1929/Futari_wa_Precure__Max_Heart/episode/4",
+            "title": "You are not alone! A Premonition that Two Moods Overlap",
+            "title_japanese": "独りじゃない! 二つの気持ちが重なる予感!",
+            "title_romanji": "Hitori ja Nai! Futatsu no Kimochi ga Kasanaru Yokan! ",
+            "aired": "2005-02-27T00:00:00+00:00",
+            "score": 4.17,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=261102"
+        },
+        {
+            "mal_id": 5,
+            "url": "https://myanimelist.net/anime/1929/Futari_wa_Precure__Max_Heart/episode/5",
+            "title": "A Gallant Appearance! Her Name is Shiny Luminous!",
+            "title_japanese": "颯爽登場! その名はシャイニールミナス!",
+            "title_romanji": "Sassou Toujou! Sono Na wa Shiny Luminous! ",
+            "aired": "2005-03-06T00:00:00+00:00",
+            "score": 4.33,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=261191"
+        },
+        {
+            "mal_id": 6,
+            "url": "https://myanimelist.net/anime/1929/Futari_wa_Precure__Max_Heart/episode/6",
+            "title": "Be Careful! Hikari's Errand Peril is a Defeat",
+            "title_japanese": "気をつけて! ひかりのお使い危険がいっぱい",
+            "title_romanji": "Ki wo Tsukete! Hikari no Otsukai Kiken ga Ippai ",
+            "aired": "2005-03-13T00:00:00+00:00",
+            "score": 4.3,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=410391"
+        },
+        {
+            "mal_id": 7,
+            "url": "https://myanimelist.net/anime/1929/Futari_wa_Precure__Max_Heart/episode/7",
+            "title": "Fight, Nagisa! The Prodigious Power of Housework at the Scene of a Fire",
+            "title_japanese": "ファイトだなぎさ! 家事で火事場の馬鹿力!",
+            "title_romanji": "Fight Da Nagisa! Kaji de Kajiba no Bakajikara! ",
+            "aired": "2005-03-20T00:00:00+00:00",
+            "score": 4.13,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=261533"
+        },
+        {
+            "mal_id": 8,
+            "url": "https://myanimelist.net/anime/1929/Futari_wa_Precure__Max_Heart/episode/8",
+            "title": "Let your Worries Drive off! Link Hikari's Ties with Everyone!",
+            "title_japanese": "悩みぶっ飛び! ひかりを結ぶみんなの絆",
+            "title_romanji": "Nayami Buttobi! Hikari wo Musubu Minna no Kizuna ",
+            "aired": "2005-03-27T00:00:00+00:00",
+            "score": 4.38,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1135811"
+        },
+        {
+            "mal_id": 9,
+            "url": "https://myanimelist.net/anime/1929/Futari_wa_Precure__Max_Heart/episode/9",
+            "title": "Do not Disturb! Honoka's Most Important Day",
+            "title_japanese": "邪魔させない! ほのかの一番大切な日",
+            "title_romanji": "Jama Sasenai! Honoka no Ichiban Taisetsu na Hi ",
+            "aired": "2005-04-03T00:00:00+00:00",
+            "score": 4.45,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1135829"
+        },
+        {
+            "mal_id": 10,
+            "url": "https://myanimelist.net/anime/1929/Futari_wa_Precure__Max_Heart/episode/10",
+            "title": "On the verge of Panic! Don't Take this Dangerous Field Trip Practice Seriously!",
+            "title_japanese": "パニック寸前! 甘くて危険な見学実習",
+            "title_romanji": "Panic Sunzen! Amakute Kiken na Kengaku Jisshuu ",
+            "aired": "2005-04-10T00:00:00+00:00",
+            "score": 4.28,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=201319"
+        },
+        {
+            "mal_id": 11,
+            "url": "https://myanimelist.net/anime/1929/Futari_wa_Precure__Max_Heart/episode/11",
+            "title": "Big Pinch! Don't Hang Your Heart in this One-shot Turnaround!!",
+            "title_japanese": "大ピンチ! ハートをつないで一発逆転!!",
+            "title_romanji": "Dai Pinch! Heart wo Tsunaide Ippatsu Gyakuten!! ",
+            "aired": "2005-04-17T00:00:00+00:00",
+            "score": 4.17,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=262117"
+        },
+        {
+            "mal_id": 12,
+            "url": "https://myanimelist.net/anime/1929/Futari_wa_Precure__Max_Heart/episode/12",
+            "title": "Business Prosperity! Welcome the Cafe's Plateau",
+            "title_japanese": "商売繁盛! 高原のカフェへいらっしゃい",
+            "title_romanji": "Shoubai Hanjou! Kougen no Cafe e Irasshai ",
+            "aired": "2005-04-24T00:00:00+00:00",
+            "score": 4.18,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1194193"
+        },
+        {
+            "mal_id": 13,
+            "url": "https://myanimelist.net/anime/1929/Futari_wa_Precure__Max_Heart/episode/13",
+            "title": "Nagisa's Great Parent-Child Battle? Neglecting a Mother's Heart!?",
+            "title_japanese": "なぎさ親子で大バトル? 母のココロ子知らず!?",
+            "title_romanji": "Nagisa Oyako de Dai Battle? Haha no Kokoro Ko Shirazu!? ",
+            "aired": "2005-05-01T00:00:00+00:00",
+            "score": 4.19,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=262663"
+        },
+        {
+            "mal_id": 14,
+            "url": "https://myanimelist.net/anime/1929/Futari_wa_Precure__Max_Heart/episode/14",
+            "title": "Go For It, Fuji-P-senpai! Nagisa's Cheering Flag Of Spirit",
+            "title_japanese": "藤P先輩ガンバ! なぎさ気合いの応援旗",
+            "title_romanji": "Fuji P-senpai Ganba! Nagisa Kiai no Ouenki ",
+            "aired": "2005-05-08T00:00:00+00:00",
+            "score": 4.07,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1194201"
+        },
+        {
+            "mal_id": 15,
+            "url": "https://myanimelist.net/anime/1929/Futari_wa_Precure__Max_Heart/episode/15",
+            "title": "The Upperclassman You Admire is Your Super Close Friend!?",
+            "title_japanese": "あこがれの先輩は大親友!?",
+            "title_romanji": "Akogare no Senpai wa Daishinyuu!? ",
+            "aired": "2005-05-15T00:00:00+00:00",
+            "score": 4.37,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1194205"
+        },
+        {
+            "mal_id": 16,
+            "url": "https://myanimelist.net/anime/1929/Futari_wa_Precure__Max_Heart/episode/16",
+            "title": "Nagisa's in High Spirits! The Lucky Color is in the Yellow!",
+            "title_japanese": "なぎさノリノリ! ラッキーカラーで絶好調!!",
+            "title_romanji": "Nagisa Norinori! Lucky Color de Zekkouchou!! ",
+            "aired": "2005-05-22T00:00:00+00:00",
+            "score": 3.67,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1194187"
+        },
+        {
+            "mal_id": 17,
+            "url": "https://myanimelist.net/anime/1929/Futari_wa_Precure__Max_Heart/episode/17",
+            "title": "What's This!? The Distressed Honoka's Meeting for Reading Research Papers",
+            "title_japanese": "どうする!? 悩めるほのかの研究発表会",
+            "title_romanji": "Dou Suru!? Nayameru Honoka no Kenkyuu Happyoukai ",
+            "aired": "2005-05-29T00:00:00+00:00",
+            "score": 3.87,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1194213"
+        },
+        {
+            "mal_id": 18,
+            "url": "https://myanimelist.net/anime/1929/Futari_wa_Precure__Max_Heart/episode/18",
+            "title": "Camping, 'Hoy! Becoming reliant on Daddy!?",
+            "title_japanese": "キャンプだホイ! 頼りになるのはお父さん!?",
+            "title_romanji": "Camp Da Hoi! Tayori ni Naru no wa Otousan!? ",
+            "aired": "2005-06-05T00:00:00+00:00",
+            "score": 3.94,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=269466"
+        },
+        {
+            "mal_id": 19,
+            "url": "https://myanimelist.net/anime/1929/Futari_wa_Precure__Max_Heart/episode/19",
+            "title": "Hikari is troubled! Nagisa's Changing Schools--No Way!!",
+            "title_japanese": "ひかり困った! なぎさが転校ありえない!!",
+            "title_romanji": "Hikari Komatta! Nagisa ga Tenkou Arienai!! ",
+            "aired": "2005-06-12T00:00:00+00:00",
+            "score": 4.11,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1194263"
+        },
+        {
+            "mal_id": 20,
+            "url": "https://myanimelist.net/anime/1929/Futari_wa_Precure__Max_Heart/episode/20",
+            "title": "Namida's Farewell!? Rina's Ponpoko Tale",
+            "title_japanese": "ナミダのお別れ!? 莉奈のポンポコ物語",
+            "title_romanji": "Namida no Owakare!? Rina no Ponpoko Monogatari ",
+            "aired": "2005-06-26T00:00:00+00:00",
+            "score": 4.12,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=269716"
+        },
+        {
+            "mal_id": 21,
+            "url": "https://myanimelist.net/anime/1929/Futari_wa_Precure__Max_Heart/episode/21",
+            "title": "So soon? So often!? A Forbidden Encounter",
+            "title_japanese": "ど～なる?ど～する!? 禁じられた出会い",
+            "title_romanji": "Doo Naru? Doo Suru!? Kinjirareta Deai ",
+            "aired": "2005-07-03T00:00:00+00:00",
+            "score": 4.41,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=269722"
+        },
+        {
+            "mal_id": 22,
+            "url": "https://myanimelist.net/anime/1929/Futari_wa_Precure__Max_Heart/episode/22",
+            "title": "The Horror of Baldez! Pretty Cure Cornered",
+            "title_japanese": "恐怖のバルデス! 追いつめられたプリキュア",
+            "title_romanji": "Kyoufu no Valdes! Oitsumerareta Precure ",
+            "aired": "2005-07-10T00:00:00+00:00",
+            "score": 4.18,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1201857"
+        },
+        {
+            "mal_id": 23,
+            "url": "https://myanimelist.net/anime/1929/Futari_wa_Precure__Max_Heart/episode/23",
+            "title": "Rebound the Dark Powers! Hope Uncovers a New Power!!",
+            "title_japanese": "闇の力をはね返せ! 希望がくれた新たな力!!",
+            "title_romanji": "Yami no Chikara wo Hanekaese! Kibou ga Kureta Arata na Chikara!! ",
+            "aired": "2005-07-17T00:00:00+00:00",
+            "score": 4.35,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=270540"
+        },
+        {
+            "mal_id": 24,
+            "url": "https://myanimelist.net/anime/1929/Futari_wa_Precure__Max_Heart/episode/24",
+            "title": "Adolescent Full Throttle! Yuka-sempai and Nagisa's Top Deciding Battle!",
+            "title_japanese": "青春全開! 友華先輩となぎさの頂上決戦!!",
+            "title_romanji": "Seishun Zenkai! Yuka-senpai to Nagisa no Choujou Kessen!! ",
+            "aired": "2005-08-07T00:00:00+00:00",
+            "score": 4.17,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1201911"
+        },
+        {
+            "mal_id": 25,
+            "url": "https://myanimelist.net/anime/1929/Futari_wa_Precure__Max_Heart/episode/25",
+            "title": "Hikari's Summer Day, Sanae's Memories",
+            "title_japanese": "ひかりの夏の日 さなえの思い出",
+            "title_romanji": "Hikari no Natsu no Hi Sanae no Omoide ",
+            "aired": "2005-08-14T00:00:00+00:00",
+            "score": 4.18,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=271245"
+        },
+        {
+            "mal_id": 26,
+            "url": "https://myanimelist.net/anime/1929/Futari_wa_Precure__Max_Heart/episode/26",
+            "title": "Nagisa Defeated! Everyone's Worries Grow Large!!",
+            "title_japanese": "負けるななぎさ! みんな悩んで大きくなった!!",
+            "title_romanji": "Makeruna Nagisa! Minna Nayande Ookiku Natta!! ",
+            "aired": "2005-08-21T00:00:00+00:00",
+            "score": 4.06,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1202133"
+        },
+        {
+            "mal_id": 27,
+            "url": "https://myanimelist.net/anime/1929/Futari_wa_Precure__Max_Heart/episode/27",
+            "title": "Don't finish your Homework Yet! Pears and Storms and Zakennah!!",
+            "title_japanese": "残った宿題片付けろ! 梨と嵐とザケンナー!!",
+            "title_romanji": "Nokotta Shukudai Katazukero! Nashi to Arashi to Zakenna!! ",
+            "aired": "2005-08-28T00:00:00+00:00",
+            "score": 3.88,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=271699"
+        },
+        {
+            "mal_id": 28,
+            "url": "https://myanimelist.net/anime/1929/Futari_wa_Precure__Max_Heart/episode/28",
+            "title": "Verone Panic! The Naughty Ghost-Hunting Princess",
+            "title_japanese": "ベローネパニック! わんぱく王女のお化け退治",
+            "title_romanji": "Verone Panic! Wanpaku Oujo no Obake Taiji ",
+            "aired": "2005-09-04T00:00:00+00:00",
+            "score": 4.06,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=271756"
+        },
+        {
+            "mal_id": 29,
+            "url": "https://myanimelist.net/anime/1929/Futari_wa_Precure__Max_Heart/episode/29",
+            "title": "No Way...Seriously...Really? Porun's Great Babysitter Strategy!",
+            "title_japanese": "ウソマジホント? ポルンの子守り大作戦!",
+            "title_romanji": "Uso Maji Honto? Porun no Komori Dai-sakusen! ",
+            "aired": "2005-09-11T00:00:00+00:00",
+            "score": 3.86,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1202167"
+        },
+        {
+            "mal_id": 30,
+            "url": "https://myanimelist.net/anime/1929/Futari_wa_Precure__Max_Heart/episode/30",
+            "title": "Do your best, Lulun! Weave the Future with the Power of Light!!",
+            "title_japanese": "頑張れルルン! 未来を紡ぐ光の力!!",
+            "title_romanji": "Ganbare Lulun! Mirai wo Tsumugu Hikari no Chikara!! ",
+            "aired": "2005-09-18T00:00:00+00:00",
+            "score": 4.16,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=272526"
+        },
+        {
+            "mal_id": 31,
+            "url": "https://myanimelist.net/anime/1929/Futari_wa_Precure__Max_Heart/episode/31",
+            "title": "Baldez Reborn! Break Through with Teamwork at the Last Second!!",
+            "title_japanese": "バルデス復活! チームワークでギリギリ突破!!",
+            "title_romanji": "Valdes Fukkatsu! Teamwork de Girigiri Toppa!! ",
+            "aired": "2005-09-25T00:00:00+00:00",
+            "score": 4.19,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1202189"
+        },
+        {
+            "mal_id": 32,
+            "url": "https://myanimelist.net/anime/1929/Futari_wa_Precure__Max_Heart/episode/32",
+            "title": "Protect us from Darkness! This World's Most Important Smile!",
+            "title_japanese": "闇から守れ! この世で一番大事な笑顔!!",
+            "title_romanji": "Yami Kara Mamore! Kono Sekai de Ichiban Daiji na Egao!! ",
+            "aired": "2005-10-02T00:00:00+00:00",
+            "score": 3.8,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1202203"
+        },
+        {
+            "mal_id": 33,
+            "url": "https://myanimelist.net/anime/1929/Futari_wa_Precure__Max_Heart/episode/33",
+            "title": "Stock up your Courage! Nagisa's Troublesome Birthday!!",
+            "title_japanese": "勇気を出して! なぎさ波乱のバースデー!!",
+            "title_romanji": "Yuuki wo Dashite! Nagisa Haran no Birthday!! ",
+            "aired": "2005-10-09T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1202213"
+        },
+        {
+            "mal_id": 34,
+            "url": "https://myanimelist.net/anime/1929/Futari_wa_Precure__Max_Heart/episode/34",
+            "title": "Friends on a Journey! Zakennah on a Field Trip!?",
+            "title_japanese": "旅だ仲間だ! 修学旅行だザケンナー!?",
+            "title_romanji": "Tabi da Nakama da! Shuugaku Ryokou da Zakenna!? ",
+            "aired": "2005-10-16T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=273312"
+        },
+        {
+            "mal_id": 35,
+            "url": "https://myanimelist.net/anime/1929/Futari_wa_Precure__Max_Heart/episode/35",
+            "title": "A Seriously Dangerous Field Trip! Lovely Sliced Fish has a Dangerous Smell",
+            "title_japanese": "マジヤバ修学旅行! 思い出作りは危険な香り",
+            "title_romanji": "Maji Yaba Shuugakuryokou! Omoidezukuri wa Kiken na Kaori ",
+            "aired": "2005-10-23T00:00:00+00:00",
+            "score": 4.39,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=205902"
+        },
+        {
+            "mal_id": 36,
+            "url": "https://myanimelist.net/anime/1929/Futari_wa_Precure__Max_Heart/episode/36",
+            "title": "Return to the Pit! Porun and Lulun's Great Adventure",
+            "title_japanese": "おうちに帰して～! ポルンとルルンの大冒険",
+            "title_romanji": "Ouchi ni Kaeshitee! Porun to Lulun no Daibouken ",
+            "aired": "2005-10-30T00:00:00+00:00",
+            "score": 4.37,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1202241"
+        },
+        {
+            "mal_id": 37,
+            "url": "https://myanimelist.net/anime/1929/Futari_wa_Precure__Max_Heart/episode/37",
+            "title": "Nagisa's Flying! Honoka's Dancing! Feel the Power of the Harvest on the Great Stage!",
+            "title_japanese": "なぎさ飛ぶ!ほのか舞う! 志穂全力の大舞台!",
+            "title_romanji": "Nagisa Tobu! Honoka Maiu! Shiho Zenryoku no Obutai! ",
+            "aired": "2005-11-13T00:00:00+00:00",
+            "score": 4.11,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1202609"
+        },
+        {
+            "mal_id": 38,
+            "url": "https://myanimelist.net/anime/1929/Futari_wa_Precure__Max_Heart/episode/38",
+            "title": "Goodbye, Honoka!? Our Bonds will Intensify Forever!",
+            "title_japanese": "さよならほのか!? 絆は固く永遠に!",
+            "title_romanji": "Sayonara Honoka!? Kizuna wa Kataku Eien ni! ",
+            "aired": "2005-11-20T00:00:00+00:00",
+            "score": 3.73,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1202625"
+        },
+        {
+            "mal_id": 39,
+            "url": "https://myanimelist.net/anime/1929/Futari_wa_Precure__Max_Heart/episode/39",
+            "title": "Burn out! The Young Lacrosse Finalist!!",
+            "title_japanese": "燃え尽きろ! 青春ラクロス決勝戦!!",
+            "title_romanji": "Moetsukiro! Seishun Lacrosse Kesshousen!! ",
+            "aired": "2005-11-27T00:00:00+00:00",
+            "score": 4.29,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1202633"
+        },
+        {
+            "mal_id": 40,
+            "url": "https://myanimelist.net/anime/1929/Futari_wa_Precure__Max_Heart/episode/40",
+            "title": "Together, We are the Best! Full-Powered Rippin' Roarin' Nagisa and Ryouta!!",
+            "title_japanese": "ふたりは最高! 全開バリバリなぎさと亮太!!",
+            "title_romanji": "Futari wa Saikou! Zenkai Baribari Nagisa to Ryouta!! ",
+            "aired": "2005-12-04T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=275298"
+        },
+        {
+            "mal_id": 41,
+            "url": "https://myanimelist.net/anime/1929/Futari_wa_Precure__Max_Heart/episode/41",
+            "title": "Deliver your Spirit! A Wandering Present of Courage!!",
+            "title_japanese": "気迫で渡せ! ちょこっと勇気のプレゼント!!",
+            "title_romanji": "Kihaku de Watase! Chokotto Yuuki no Present!! ",
+            "aired": "2005-12-11T00:00:00+00:00",
+            "score": 4.14,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1202663"
+        },
+        {
+            "mal_id": 42,
+            "url": "https://myanimelist.net/anime/1929/Futari_wa_Precure__Max_Heart/episode/42",
+            "title": "A Rink Full of Sweethearts? Slipping and Falling into Grave Danger!",
+            "title_japanese": "銀盤の恋人たち? 滑って転んで大ピンチ!",
+            "title_romanji": "Ginban no Koibitotachi? Subette Koron de Dai Pinchi! ",
+            "aired": "2005-12-18T00:00:00+00:00",
+            "score": 4.22,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=275917"
+        },
+        {
+            "mal_id": 43,
+            "url": "https://myanimelist.net/anime/1929/Futari_wa_Precure__Max_Heart/episode/43",
+            "title": "The Final Winter Vacation! It's a Special Lesson for Zakennah!?",
+            "title_japanese": "最後の冬休み! 特別授業だザケンナー!?",
+            "title_romanji": "Saigo no Fuyuyasumi! Tokubetsu Jugyou da Zakenna!? ",
+            "aired": "2005-12-25T00:00:00+00:00",
+            "score": 4.23,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1202703"
+        },
+        {
+            "mal_id": 44,
+            "url": "https://myanimelist.net/anime/1929/Futari_wa_Precure__Max_Heart/episode/44",
+            "title": "The Day Hikari Disappears, The Day We Search for Tomorrow!",
+            "title_japanese": "ひかりが消えた日 明日[あした]を探す日!",
+            "title_romanji": "Hikari ga Kieta Hi, Ashita wo Sagasu Hi! ",
+            "aired": "2006-01-08T00:00:00+00:00",
+            "score": 4.27,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1202797"
+        },
+        {
+            "mal_id": 45,
+            "url": "https://myanimelist.net/anime/1929/Futari_wa_Precure__Max_Heart/episode/45",
+            "title": "Infinite Darkness, Eternal Light",
+            "title_japanese": "無限の闇 永遠の光",
+            "title_romanji": "Mugen no Yami, Eien no Hikari ",
+            "aired": "2006-01-15T00:00:00+00:00",
+            "score": 4.41,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1202805"
+        },
+        {
+            "mal_id": 46,
+            "url": "https://myanimelist.net/anime/1929/Futari_wa_Precure__Max_Heart/episode/46",
+            "title": "Life-risking Attack! Dark Soldiers at Maximum Power!!",
+            "title_japanese": "捨て身の攻撃! 闇の戦士マックスパワー!!",
+            "title_romanji": "Sutemi no Soukougeki! Yami no Senshi Max Power!! ",
+            "aired": "2006-01-22T00:00:00+00:00",
+            "score": 4.64,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1202865"
+        },
+        {
+            "mal_id": 47,
+            "url": "https://myanimelist.net/anime/1929/Futari_wa_Precure__Max_Heart/episode/47",
+            "title": "Open the Door! The Story Begins from Here",
+            "title_japanese": "扉を開けて! ここから始まる物語",
+            "title_romanji": "Tobira wo Akete! Koko kara Hajimeru Monogatari ",
+            "aired": "2006-01-29T00:00:00+00:00",
+            "score": 4.64,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=290419"
+        }
+    ]
+}

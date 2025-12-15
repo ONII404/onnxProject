@@ -1,0 +1,187 @@
+{
+    "id": 4156,
+    "fetched_at": "Sun Dec 14 21:30:40 2025",
+    "metadata": {
+        "mal_id": 4156,
+        "url": "https://myanimelist.net/anime/4156/Ichigo_Mashimaro_Episode_0",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/10/19666.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/10/19666t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/10/19666l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/10/19666.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/10/19666t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/10/19666l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Ichigo Mashimaro Episode 0"
+            },
+            {
+                "type": "Synonym",
+                "title": "Ichigo Marshmallow Episode 0"
+            },
+            {
+                "type": "Synonym",
+                "title": "Strawberry Marshmallow Episode 0"
+            },
+            {
+                "type": "Japanese",
+                "title": "苺ましまろ"
+            },
+            {
+                "type": "English",
+                "title": "Strawberry Marshmallow Prologue"
+            }
+        ],
+        "title": "Ichigo Mashimaro Episode 0",
+        "title_english": "Strawberry Marshmallow Prologue",
+        "title_japanese": "苺ましまろ",
+        "title_synonyms": [
+            "Ichigo Marshmallow Episode 0",
+            "Strawberry Marshmallow Episode 0"
+        ],
+        "type": "Special",
+        "source": "4-koma manga",
+        "episodes": 1,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "2005-06-08T00:00:00+00:00",
+            "to": null,
+            "prop": {
+                "from": {
+                    "day": 8,
+                    "month": 6,
+                    "year": 2005
+                },
+                "to": {
+                    "day": null,
+                    "month": null,
+                    "year": null
+                }
+            },
+            "string": "Jun 8, 2005"
+        },
+        "duration": "4 min",
+        "rating": "PG-13 - Teens 13 or older",
+        "score": 7.01,
+        "scored_by": 9283,
+        "rank": 4509,
+        "popularity": 5721,
+        "members": 16942,
+        "favorites": 10,
+        "synopsis": "A brief special where the girls pretend to be astronauts.",
+        "background": "",
+        "season": null,
+        "year": null,
+        "broadcast": {
+            "day": null,
+            "time": null,
+            "timezone": null,
+            "string": null
+        },
+        "producers": [],
+        "licensors": [
+            {
+                "mal_id": 376,
+                "type": "anime",
+                "name": "Sentai Filmworks",
+                "url": "https://myanimelist.net/anime/producer/376/Sentai_Filmworks"
+            },
+            {
+                "mal_id": 1459,
+                "type": "anime",
+                "name": "Geneon Entertainment USA",
+                "url": "https://myanimelist.net/anime/producer/1459/Geneon_Entertainment_USA"
+            }
+        ],
+        "studios": [
+            {
+                "mal_id": 39,
+                "type": "anime",
+                "name": "Daume",
+                "url": "https://myanimelist.net/anime/producer/39/Daume"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 4,
+                "type": "anime",
+                "name": "Comedy",
+                "url": "https://myanimelist.net/anime/genre/4/Comedy"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [
+            {
+                "mal_id": 52,
+                "type": "anime",
+                "name": "CGDCT",
+                "url": "https://myanimelist.net/anime/genre/52/CGDCT"
+            }
+        ],
+        "demographics": [],
+        "relations": [
+            {
+                "relation": "Adaptation",
+                "entry": [
+                    {
+                        "mal_id": 371,
+                        "type": "manga",
+                        "name": "Ichigo Mashimaro",
+                        "url": "https://myanimelist.net/manga/371/Ichigo_Mashimaro"
+                    }
+                ]
+            },
+            {
+                "relation": "Parent Story",
+                "entry": [
+                    {
+                        "mal_id": 488,
+                        "type": "anime",
+                        "name": "Ichigo Mashimaro",
+                        "url": "https://myanimelist.net/anime/488/Ichigo_Mashimaro"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [],
+            "endings": []
+        },
+        "external": [
+            {
+                "name": "Official Site",
+                "url": "http://www.tbs.co.jp/ichigomashimaro/"
+            },
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=2787"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "http://en.wikipedia.org/wiki/Strawberry_Marshmallow"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": []
+}

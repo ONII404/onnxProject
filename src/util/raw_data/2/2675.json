@@ -1,0 +1,186 @@
+{
+    "id": 2675,
+    "fetched_at": "Sun Dec 14 18:48:36 2025",
+    "metadata": {
+        "mal_id": 2675,
+        "url": "https://myanimelist.net/anime/2675/Doraemon_Movie_17__Nobita_to_Ginga_Express",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/2/72422.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/2/72422t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/2/72422l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/2/72422.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/2/72422t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/2/72422l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Doraemon Movie 17: Nobita to Ginga Express"
+            },
+            {
+                "type": "Synonym",
+                "title": "Doraemon: Nobita to Ginga Choutokkyuu"
+            },
+            {
+                "type": "Synonym",
+                "title": "Doraemon: Nobita's Galactic Express"
+            },
+            {
+                "type": "Japanese",
+                "title": "映画 ドラえもん のび太と銀河超特急[エクスプレス]"
+            },
+            {
+                "type": "English",
+                "title": "Doraemon the Movie: Nobita and the Galaxy Super-express"
+            },
+            {
+                "type": "Spanish",
+                "title": "Doraemon Película 17: Doraemon y el Tren del Tiempo"
+            }
+        ],
+        "title": "Doraemon Movie 17: Nobita to Ginga Express",
+        "title_english": "Doraemon the Movie: Nobita and the Galaxy Super-express",
+        "title_japanese": "映画 ドラえもん のび太と銀河超特急[エクスプレス]",
+        "title_synonyms": [
+            "Doraemon: Nobita to Ginga Choutokkyuu",
+            "Doraemon: Nobita's Galactic Express"
+        ],
+        "type": "Movie",
+        "source": "Unknown",
+        "episodes": 1,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "1996-03-02T00:00:00+00:00",
+            "to": null,
+            "prop": {
+                "from": {
+                    "day": 2,
+                    "month": 3,
+                    "year": 1996
+                },
+                "to": {
+                    "day": null,
+                    "month": null,
+                    "year": null
+                }
+            },
+            "string": "Mar 2, 1996"
+        },
+        "duration": "1 hr 37 min",
+        "rating": "PG - Children",
+        "score": 7.32,
+        "scored_by": 6201,
+        "rank": 2814,
+        "popularity": 7069,
+        "members": 10067,
+        "favorites": 8,
+        "synopsis": "The kids go on a space Mystery Train bound for a space theme park, when a race of alien virus strikes, wanting to take them as host bodies.",
+        "background": "",
+        "season": null,
+        "year": null,
+        "broadcast": {
+            "day": null,
+            "time": null,
+            "timezone": null,
+            "string": null
+        },
+        "producers": [],
+        "licensors": [],
+        "studios": [
+            {
+                "mal_id": 247,
+                "type": "anime",
+                "name": "Shin-Ei Animation",
+                "url": "https://myanimelist.net/anime/producer/247/Shin-Ei_Animation"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 10,
+                "type": "anime",
+                "name": "Fantasy",
+                "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [],
+        "demographics": [],
+        "relations": [
+            {
+                "relation": "Adaptation",
+                "entry": [
+                    {
+                        "mal_id": 12471,
+                        "type": "manga",
+                        "name": "Daichouhen Doraemon",
+                        "url": "https://myanimelist.net/manga/12471/Daichouhen_Doraemon"
+                    }
+                ]
+            },
+            {
+                "relation": "Parent Story",
+                "entry": [
+                    {
+                        "mal_id": 2471,
+                        "type": "anime",
+                        "name": "Doraemon (1979)",
+                        "url": "https://myanimelist.net/anime/2471/Doraemon_1979"
+                    }
+                ]
+            },
+            {
+                "relation": "Other",
+                "entry": [
+                    {
+                        "mal_id": 2646,
+                        "type": "anime",
+                        "name": "Dorami & Doraemons: Robot Gakkou Nanafushigi!?",
+                        "url": "https://myanimelist.net/anime/2646/Dorami___Doraemons__Robot_Gakkou_Nanafushigi"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [],
+            "endings": []
+        },
+        "external": [
+            {
+                "name": "Official Site",
+                "url": "http://www.dora-movie.com/film_history/history_17.html"
+            },
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=5046"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=1912"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "http://en.wikipedia.org/wiki/Doraemon:_Nobita_and_the_Galaxy_Super-express"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": []
+}

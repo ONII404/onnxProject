@@ -1,0 +1,408 @@
+{
+    "id": 2214,
+    "fetched_at": "Sun Dec 14 18:19:29 2025",
+    "metadata": {
+        "mal_id": 2214,
+        "url": "https://myanimelist.net/anime/2214/Black_Jack_21",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1300/133792.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1300/133792t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1300/133792l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1300/133792.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1300/133792t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1300/133792l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Black Jack 21"
+            },
+            {
+                "type": "Synonym",
+                "title": "BJ21"
+            },
+            {
+                "type": "Japanese",
+                "title": "ブラック・ジャック21"
+            }
+        ],
+        "title": "Black Jack 21",
+        "title_english": null,
+        "title_japanese": "ブラック・ジャック21",
+        "title_synonyms": [
+            "BJ21"
+        ],
+        "type": "TV",
+        "source": "Manga",
+        "episodes": 17,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "2006-04-10T00:00:00+00:00",
+            "to": "2006-09-04T00:00:00+00:00",
+            "prop": {
+                "from": {
+                    "day": 10,
+                    "month": 4,
+                    "year": 2006
+                },
+                "to": {
+                    "day": 4,
+                    "month": 9,
+                    "year": 2006
+                }
+            },
+            "string": "Apr 10, 2006 to Sep 4, 2006"
+        },
+        "duration": "24 min per ep",
+        "rating": "PG-13 - Teens 13 or older",
+        "score": 7.53,
+        "scored_by": 5628,
+        "rank": 1911,
+        "popularity": 6013,
+        "members": 14824,
+        "favorites": 67,
+        "synopsis": "No direct-relation sequel to original Black Jack. Black Jack attempts to find out the conspiracy, of why he was involved in the bombfield accident that killed his mother, while he uncovers secrets of Organization and Project \"Noir\", which, his father and other famous doctors were involved in...",
+        "background": "",
+        "season": "spring",
+        "year": 2006,
+        "broadcast": {
+            "day": "Mondays",
+            "time": "19:00",
+            "timezone": "Asia/Tokyo",
+            "string": "Mondays at 19:00 (JST)"
+        },
+        "producers": [
+            {
+                "mal_id": 52,
+                "type": "anime",
+                "name": "Avex Entertainment",
+                "url": "https://myanimelist.net/anime/producer/52/Avex_Entertainment"
+            },
+            {
+                "mal_id": 76,
+                "type": "anime",
+                "name": "Yomiuri Telecasting",
+                "url": "https://myanimelist.net/anime/producer/76/Yomiuri_Telecasting"
+            },
+            {
+                "mal_id": 3165,
+                "type": "anime",
+                "name": "Avex Mode",
+                "url": "https://myanimelist.net/anime/producer/3165/Avex_Mode"
+            }
+        ],
+        "licensors": [],
+        "studios": [
+            {
+                "mal_id": 200,
+                "type": "anime",
+                "name": "Tezuka Productions",
+                "url": "https://myanimelist.net/anime/producer/200/Tezuka_Productions"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 1,
+                "type": "anime",
+                "name": "Action",
+                "url": "https://myanimelist.net/anime/genre/1/Action"
+            },
+            {
+                "mal_id": 8,
+                "type": "anime",
+                "name": "Drama",
+                "url": "https://myanimelist.net/anime/genre/8/Drama"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [
+            {
+                "mal_id": 67,
+                "type": "anime",
+                "name": "Medical",
+                "url": "https://myanimelist.net/anime/genre/67/Medical"
+            }
+        ],
+        "demographics": [
+            {
+                "mal_id": 27,
+                "type": "anime",
+                "name": "Shounen",
+                "url": "https://myanimelist.net/anime/genre/27/Shounen"
+            }
+        ],
+        "relations": [
+            {
+                "relation": "Prequel",
+                "entry": [
+                    {
+                        "mal_id": 2213,
+                        "type": "anime",
+                        "name": "Black Jack (TV)",
+                        "url": "https://myanimelist.net/anime/2213/Black_Jack_TV"
+                    }
+                ]
+            },
+            {
+                "relation": "Adaptation",
+                "entry": [
+                    {
+                        "mal_id": 1600,
+                        "type": "manga",
+                        "name": "Black Jack",
+                        "url": "https://myanimelist.net/manga/1600/Black_Jack"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [
+                "\"Destiny -Taiyou no Hana-\" by Hitomi Shimatani"
+            ],
+            "endings": [
+                "1: \"careless breath\" by EXILE (eps 1-8)",
+                "2: \"Silence whispers\" by TRF (eps 9-17)"
+            ]
+        },
+        "external": [
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=4377"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=6412"
+            }
+        ],
+        "streaming": [
+            {
+                "name": "Shahid",
+                "url": "https://shahid.mbc.net/en/series/Black-Jack/series-913754"
+            }
+        ]
+    },
+    "episodes": [
+        {
+            "mal_id": 1,
+            "url": null,
+            "title": "The Day His Medical License Returns",
+            "title_japanese": "医師免許が返る日",
+            "title_romanji": "Ishi Menkyo ga Kaeru Hi ",
+            "aired": "2006-04-10T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1471413"
+        },
+        {
+            "mal_id": 2,
+            "url": null,
+            "title": "BJ Reunites With His Father",
+            "title_japanese": "Black Jack父親との再会",
+            "title_romanji": "BJ Chichioya to no Saikai ",
+            "aired": "2006-04-17T00:00:00+00:00",
+            "score": 4.14,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1471416"
+        },
+        {
+            "mal_id": 3,
+            "url": null,
+            "title": "Pinoko in Sorrow (Pinoko Again)",
+            "title_japanese": "悲しみのピノコ",
+            "title_romanji": "Kanashimi no Pinoko ",
+            "aired": "2006-04-24T00:00:00+00:00",
+            "score": 3.71,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1471429"
+        },
+        {
+            "mal_id": 4,
+            "url": null,
+            "title": "The Black Angel of Northern Europe",
+            "title_japanese": "北欧の黒い天使!",
+            "title_romanji": "Hokuou no Kuroi Tenshi ",
+            "aired": "2006-05-08T00:00:00+00:00",
+            "score": 3.4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1472133"
+        },
+        {
+            "mal_id": 5,
+            "url": null,
+            "title": "The Robotic Arm",
+            "title_japanese": "ロボットの腕",
+            "title_romanji": "Robot no Ude ",
+            "aired": "2006-05-15T00:00:00+00:00",
+            "score": 3.83,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1472145"
+        },
+        {
+            "mal_id": 6,
+            "url": null,
+            "title": "The Flying Hospital",
+            "title_japanese": "空飛ぶ病院",
+            "title_romanji": "Soratobu Byouin ",
+            "aired": "2006-05-22T00:00:00+00:00",
+            "score": 3,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1115509"
+        },
+        {
+            "mal_id": 7,
+            "url": null,
+            "title": "The Promise Concerning Life, Worth Ten Billion Yen",
+            "title_japanese": "百億円 命の約束",
+            "title_romanji": "Hyaku Oku En Inochi no Yakusoku ",
+            "aired": "2006-05-29T00:00:00+00:00",
+            "score": 3.43,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1472783"
+        },
+        {
+            "mal_id": 8,
+            "url": null,
+            "title": "Awake After Sixty-Five Years",
+            "title_japanese": "65年目の目覚め",
+            "title_romanji": "65 Nengo no Mezame ",
+            "aired": "2006-06-05T00:00:00+00:00",
+            "score": 3.29,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=61626"
+        },
+        {
+            "mal_id": 9,
+            "url": null,
+            "title": "The Imprint on the Heart",
+            "title_japanese": "ハート)の刻印",
+            "title_romanji": "Heart no Kokuin (心臓",
+            "aired": "2006-06-12T00:00:00+00:00",
+            "score": 3,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1473862"
+        },
+        {
+            "mal_id": 10,
+            "url": null,
+            "title": "A Miracle in New York",
+            "title_japanese": "ニューヨーク)の奇跡",
+            "title_romanji": "New York no Kiseki (紐育",
+            "aired": "2006-06-26T00:00:00+00:00",
+            "score": 3.4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1473871"
+        },
+        {
+            "mal_id": 11,
+            "url": null,
+            "title": "The Destiny of the Black Doctor",
+            "title_japanese": "黒い医者の宿命",
+            "title_romanji": "Kuroi Isha no Shukumei ",
+            "aired": "2006-07-03T00:00:00+00:00",
+            "score": 3.86,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1473884"
+        },
+        {
+            "mal_id": 12,
+            "url": null,
+            "title": "Beyond the Aura",
+            "title_japanese": "オーロラの彼方に",
+            "title_romanji": "Aurora no Kanata ni ",
+            "aired": "2006-07-10T00:00:00+00:00",
+            "score": 3.29,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1473891"
+        },
+        {
+            "mal_id": 13,
+            "url": null,
+            "title": "Pinoko go Back to Japan",
+            "title_japanese": "ピノコ、日本へ帰れ!",
+            "title_romanji": "Pinoko, Nihon e Kaere! ",
+            "aired": "2006-07-24T00:00:00+00:00",
+            "score": 3.2,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1474192"
+        },
+        {
+            "mal_id": 14,
+            "url": null,
+            "title": "The Terrifying Phoenix Disease",
+            "title_japanese": "恐怖のフェニックス病",
+            "title_romanji": "Kyoufu no Phoenix-byou ",
+            "aired": "2006-07-31T00:00:00+00:00",
+            "score": 3.33,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1474201"
+        },
+        {
+            "mal_id": 15,
+            "url": null,
+            "title": "The Truth About Black Jack's Father",
+            "title_japanese": "Black Jack父親の真実",
+            "title_romanji": "Black Jack Chichioya no Shinjitsu ",
+            "aired": "2006-08-15T00:00:00+00:00",
+            "score": 2.5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1115527"
+        },
+        {
+            "mal_id": 16,
+            "url": null,
+            "title": "The Challenge Against Extinction",
+            "title_japanese": "破滅への挑戦",
+            "title_romanji": "Hametsu e no Chousen ",
+            "aired": "2006-08-29T00:00:00+00:00",
+            "score": 3,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1474242"
+        },
+        {
+            "mal_id": 17,
+            "url": null,
+            "title": "The Sanctity of Life",
+            "title_japanese": "生命の尊厳",
+            "title_romanji": "Inochi no Songen ",
+            "aired": "2006-09-04T00:00:00+00:00",
+            "score": 3.63,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1474260"
+        }
+    ]
+}

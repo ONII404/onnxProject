@@ -1,0 +1,494 @@
+{
+    "id": 3577,
+    "fetched_at": "Sun Dec 14 19:59:04 2025",
+    "metadata": {
+        "mal_id": 3577,
+        "url": "https://myanimelist.net/anime/3577/Kyouran_Kazoku_Nikki",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/6/7601.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/6/7601t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/6/7601l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/6/7601.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/6/7601t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/6/7601l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Kyouran Kazoku Nikki"
+            },
+            {
+                "type": "Synonym",
+                "title": "The Diary of a Crazed Family"
+            },
+            {
+                "type": "Japanese",
+                "title": "狂乱家族日記"
+            }
+        ],
+        "title": "Kyouran Kazoku Nikki",
+        "title_english": null,
+        "title_japanese": "狂乱家族日記",
+        "title_synonyms": [
+            "The Diary of a Crazed Family"
+        ],
+        "type": "TV",
+        "source": "Light novel",
+        "episodes": 26,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "2008-04-12T00:00:00+00:00",
+            "to": "2008-10-04T00:00:00+00:00",
+            "prop": {
+                "from": {
+                    "day": 12,
+                    "month": 4,
+                    "year": 2008
+                },
+                "to": {
+                    "day": 4,
+                    "month": 10,
+                    "year": 2008
+                }
+            },
+            "string": "Apr 12, 2008 to Oct 4, 2008"
+        },
+        "duration": "24 min per ep",
+        "rating": "PG-13 - Teens 13 or older",
+        "score": 7.24,
+        "scored_by": 11285,
+        "rank": 3243,
+        "popularity": 4551,
+        "members": 29839,
+        "favorites": 110,
+        "synopsis": "Midarezaki Ouka is used to having strange things happen to him -after all, he is the head of the Great Japanese Empire Paranormal Phenomena Bureau of Measures. But when he catches a small cat girl in the shopping district stealing apples, his whole life rearranges to fit a new operation... \n\nOPERATION COZY FAMILY. \n\nThousands of years ago, Enka the God of Destruction, was killed. However, with a dying breath it claimed that its child would appear and destroy humanity. Now in futuristic Japan, all of the potential children of Enka have been found and placed into a haphazard family. \n\nTeika the lion, Gekka the jellyfish, Yuuka the oni, Ginka the cross-dressing mafia son, and Hyouka the bioweapon--along with their parents Ouka and Kyouka (the ruler of a demon underworld)--all live under one roof in a family frenzy.",
+        "background": "",
+        "season": "spring",
+        "year": 2008,
+        "broadcast": {
+            "day": null,
+            "time": null,
+            "timezone": null,
+            "string": "Unknown"
+        },
+        "producers": [
+            {
+                "mal_id": 104,
+                "type": "anime",
+                "name": "Lantis",
+                "url": "https://myanimelist.net/anime/producer/104/Lantis"
+            }
+        ],
+        "licensors": [],
+        "studios": [
+            {
+                "mal_id": 70,
+                "type": "anime",
+                "name": "Nomad",
+                "url": "https://myanimelist.net/anime/producer/70/Nomad"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 4,
+                "type": "anime",
+                "name": "Comedy",
+                "url": "https://myanimelist.net/anime/genre/4/Comedy"
+            },
+            {
+                "mal_id": 24,
+                "type": "anime",
+                "name": "Sci-Fi",
+                "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [],
+        "demographics": [],
+        "relations": [
+            {
+                "relation": "Adaptation",
+                "entry": [
+                    {
+                        "mal_id": 16468,
+                        "type": "manga",
+                        "name": "Kyouran Kazoku Nikki",
+                        "url": "https://myanimelist.net/manga/16468/Kyouran_Kazoku_Nikki"
+                    },
+                    {
+                        "mal_id": 12182,
+                        "type": "manga",
+                        "name": "Kyouran Kazoku Nikki",
+                        "url": "https://myanimelist.net/manga/12182/Kyouran_Kazoku_Nikki"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [
+                "\"Chousai Kenbo Sengen (超妻賢母宣言)\" by MOSAIC.WAV"
+            ],
+            "endings": [
+                "1: \"Kyouran Senki: Nichijou no Kamisama (狂乱戦記 ～日常ノ神サマ～)\" by Ayumi Fujimura",
+                "2: \"Wagahai wa Shugojuu de Aru, ka? (我輩は守護獣である, か?)\" by Hiroki Yasumoto",
+                "3: \"Boku wa Koushin Saremashita (ボクハ更新サレマシタ)\" by Ryou Hirohashi",
+                "4: \"Sekai de Ichiban Yabai Koi (世界で一番ヤバイ恋)\" by Haruka Tomatsu",
+                "5: \"Appare Henka Ja. (あっぱれ変化じゃ。)\" by Rina Satou",
+                "6: \"Codename wa Lady-X (コードネイムはLady-X)\" by Yoshinori Fujita",
+                "7: \"Hen na Kami-sama Shitteru yo (ヘンな神さま知ってるよ)\" by Kana Hanazawa",
+                "8: \"The Pitfalls\" by Takayuki Kondou"
+            ]
+        },
+        "external": [
+            {
+                "name": "Official Site",
+                "url": "http://www.kyouran.jp/"
+            },
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=5580"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=9236"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "http://en.wikipedia.org/wiki/Ky%C5%8Dran_Kazoku_Nikki"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": [
+        {
+            "mal_id": 1,
+            "url": null,
+            "title": "Kyōka-Sama, Reigning",
+            "title_japanese": "凶華様、君臨す",
+            "title_romanji": "Kyouka-sama, Kunrinsu! ",
+            "aired": "2008-04-13T00:00:00+00:00",
+            "score": 4.17,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=20704"
+        },
+        {
+            "mal_id": 2,
+            "url": null,
+            "title": "Party Time Never Ends",
+            "title_japanese": "宴の時間は終わらない",
+            "title_romanji": "Utage no Jikan wa Owaranai ",
+            "aired": "2008-04-20T00:00:00+00:00",
+            "score": 4.54,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=21925"
+        },
+        {
+            "mal_id": 3,
+            "url": null,
+            "title": "Himemiya's Demon Princess",
+            "title_japanese": "姫宮の鬼姫様",
+            "title_romanji": "Himemiya no Onihime-sama ",
+            "aired": "2008-04-27T00:00:00+00:00",
+            "score": 4.47,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=23486"
+        },
+        {
+            "mal_id": 4,
+            "url": null,
+            "title": "As Planned, Both a Trip and a Curse",
+            "title_japanese": "旅行も呪いも計画的に",
+            "title_romanji": "Ryokou mo Noroi mo Keikaku Teki ni ",
+            "aired": "2008-05-04T00:00:00+00:00",
+            "score": 4.11,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=24840"
+        },
+        {
+            "mal_id": 5,
+            "url": null,
+            "title": "Surviving the Honeymoon",
+            "title_japanese": "サバイバルハネムーン",
+            "title_romanji": "Survival Honeymoon ",
+            "aired": "2008-05-11T00:00:00+00:00",
+            "score": 4.41,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=25596"
+        },
+        {
+            "mal_id": 6,
+            "url": null,
+            "title": "Act Two: The Party and the Mad Doctor",
+            "title_japanese": "狂気の博士と宴の二幕",
+            "title_romanji": "Kyouka no Hakase to Utage no Ni Maku ",
+            "aired": "2008-05-18T00:00:00+00:00",
+            "score": 4.48,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=26931"
+        },
+        {
+            "mal_id": 7,
+            "url": null,
+            "title": "Thank You! Assassination Chinese Food",
+            "title_japanese": "謝々!暗殺中華",
+            "title_romanji": "Xiexie! Ansatsu Chuuka! ",
+            "aired": "2008-05-25T00:00:00+00:00",
+            "score": 4.66,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=28148"
+        },
+        {
+            "mal_id": 8,
+            "url": null,
+            "title": "The Gentle Death God's Workmanship",
+            "title_japanese": "やさしい死神の作り方",
+            "title_romanji": "Yasashii Shinigami no Tsukurikata ",
+            "aired": "2008-06-01T00:00:00+00:00",
+            "score": 4.74,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=29217"
+        },
+        {
+            "mal_id": 9,
+            "url": null,
+            "title": "Banquet for the Gods and Gods of Death",
+            "title_japanese": "神と死神の宴",
+            "title_romanji": "Kami to Shinigami no Utage ",
+            "aired": "2008-06-08T00:00:00+00:00",
+            "score": 4.52,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=31090"
+        },
+        {
+            "mal_id": 10,
+            "url": null,
+            "title": "Innocent Pirate Mujaki",
+            "title_japanese": "無邪気海賊ムジャッキー",
+            "title_romanji": "Mujaki Kaizoku Mujakey ",
+            "aired": "2008-06-15T00:00:00+00:00",
+            "score": 4.51,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=32242"
+        },
+        {
+            "mal_id": 11,
+            "url": null,
+            "title": "Hyouka's First Love",
+            "title_japanese": "雹霞の初恋",
+            "title_romanji": "Hyouka no Hatsukoi ",
+            "aired": "2008-06-22T00:00:00+00:00",
+            "score": 4.48,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=30533"
+        },
+        {
+            "mal_id": 12,
+            "url": null,
+            "title": "Picked up Cat on Monday",
+            "title_japanese": "月曜日に猫を拾う",
+            "title_romanji": "Getsuyoubi ni Neko wo Hirou ",
+            "aired": "2008-06-29T00:00:00+00:00",
+            "score": 3.92,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=37075"
+        },
+        {
+            "mal_id": 13,
+            "url": null,
+            "title": "The Melancholy of Chika",
+            "title_japanese": "千花の憂鬱",
+            "title_romanji": "Chika no Yuutsu ",
+            "aired": "2008-07-06T00:00:00+00:00",
+            "score": 4.62,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=37775"
+        },
+        {
+            "mal_id": 14,
+            "url": null,
+            "title": "Electric-Butterfly",
+            "title_japanese": "Electric-Butterfly",
+            "title_romanji": "Electric-Butterfly ",
+            "aired": "2008-07-13T00:00:00+00:00",
+            "score": 4.29,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=38636"
+        },
+        {
+            "mal_id": 15,
+            "url": null,
+            "title": "My Wife is a Magical Girl",
+            "title_japanese": "奥様は魔女っ娘♪",
+            "title_romanji": "Okusama wa Majoukko ",
+            "aired": "2008-07-20T00:00:00+00:00",
+            "score": 4.69,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=34351"
+        },
+        {
+            "mal_id": 16,
+            "url": null,
+            "title": "Red and White Brindle",
+            "title_japanese": "朱と白のマダラ",
+            "title_romanji": "Ake to Shiro no Madara ",
+            "aired": "2008-07-27T00:00:00+00:00",
+            "score": 4.5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=41444"
+        },
+        {
+            "mal_id": 17,
+            "url": null,
+            "title": "Please use the melon bread for the battle",
+            "title_japanese": "決戦はメロンパンでお願い",
+            "title_romanji": "Kessen wa Melonpan de Onegai ",
+            "aired": "2008-08-03T00:00:00+00:00",
+            "score": 4.14,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=41449"
+        },
+        {
+            "mal_id": 18,
+            "url": null,
+            "title": "The Correct way to Nurse",
+            "title_japanese": "正しい看病の仕方",
+            "title_romanji": "Tadashii Kanbyou no Shikata ",
+            "aired": "2008-08-10T00:00:00+00:00",
+            "score": 4.62,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=37679"
+        },
+        {
+            "mal_id": 19,
+            "url": null,
+            "title": "If you want, be a klutz devil",
+            "title_japanese": "その気がなくてもドジデビル",
+            "title_romanji": "Sono Kiganai Kutemo Doji Devil ",
+            "aired": "2008-08-17T00:00:00+00:00",
+            "score": 4.42,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=43591"
+        },
+        {
+            "mal_id": 20,
+            "url": null,
+            "title": "The Forest of Vitamin C",
+            "title_japanese": "ビタミンCの森",
+            "title_romanji": "Vitamin C no Mori ",
+            "aired": "2008-08-24T00:00:00+00:00",
+            "score": 4.19,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=43826"
+        },
+        {
+            "mal_id": 21,
+            "url": null,
+            "title": "Black Santa is Sleepless in the Night",
+            "title_japanese": "黒サンタさんは夜眠れない",
+            "title_romanji": "Kuro Santa-chan wa Yoru Nemurenai ",
+            "aired": "2008-08-31T00:00:00+00:00",
+            "score": 4.96,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=45236"
+        },
+        {
+            "mal_id": 22,
+            "url": null,
+            "title": "The Princess Who Came Falling",
+            "title_japanese": "落ちてきたプリンセス",
+            "title_romanji": "Ochite Kita Princess ",
+            "aired": "2008-09-07T00:00:00+00:00",
+            "score": 4.68,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=45247"
+        },
+        {
+            "mal_id": 23,
+            "url": null,
+            "title": "And His Name is The King of Greed!",
+            "title_japanese": "その名は強欲王!",
+            "title_romanji": "Sono Na wa Gouyokuou! ",
+            "aired": "2008-09-14T00:00:00+00:00",
+            "score": 4.64,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=43211"
+        },
+        {
+            "mal_id": 24,
+            "url": null,
+            "title": "The Thing From Space",
+            "title_japanese": "宇宙からの物体X",
+            "title_romanji": "Uchuu kara no Buttai X ",
+            "aired": "2008-09-21T00:00:00+00:00",
+            "score": 4.63,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=46159"
+        },
+        {
+            "mal_id": 25,
+            "url": null,
+            "title": "Kyouka, Frenzy!",
+            "title_japanese": "凶華様、狂乱!",
+            "title_romanji": "Kyouka-sama, Kyouran! ",
+            "aired": "2008-09-28T00:00:00+00:00",
+            "score": 4.58,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=50590"
+        },
+        {
+            "mal_id": 26,
+            "url": null,
+            "title": "Again, the Legend of Enka",
+            "title_japanese": "再び、閻禍伝説!",
+            "title_romanji": "Futatabi, Enka Densetsu! ",
+            "aired": "2008-10-05T00:00:00+00:00",
+            "score": 4.42,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=46458"
+        }
+    ]
+}

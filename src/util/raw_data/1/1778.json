@@ -1,0 +1,185 @@
+{
+    "id": 1778,
+    "fetched_at": "Sun Dec 14 16:51:47 2025",
+    "metadata": {
+        "mal_id": 1778,
+        "url": "https://myanimelist.net/anime/1778/Dae_Jang_Geum__Jang_Geums_Dream",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1/1778.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1/1778t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1/1778l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1/1778.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1/1778t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1/1778l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Dae Jang Geum: Jang Geum's Dream"
+            },
+            {
+                "type": "Synonym",
+                "title": "Shoujo Changumu no Yume"
+            },
+            {
+                "type": "Synonym",
+                "title": "Janggeum's Dream"
+            },
+            {
+                "type": "Synonym",
+                "title": "Changumu no Yume - Dae Jang Geum"
+            },
+            {
+                "type": "Synonym",
+                "title": "장금이의 꿈"
+            },
+            {
+                "type": "Japanese",
+                "title": "少女チャングムの夢"
+            }
+        ],
+        "title": "Dae Jang Geum: Jang Geum's Dream",
+        "title_english": null,
+        "title_japanese": "少女チャングムの夢",
+        "title_synonyms": [
+            "Shoujo Changumu no Yume",
+            "Janggeum's Dream",
+            "Changumu no Yume - Dae Jang Geum",
+            "장금이의 꿈"
+        ],
+        "type": "TV",
+        "source": "Other",
+        "episodes": 26,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "2005-10-29T00:00:00+00:00",
+            "to": "2006-04-29T00:00:00+00:00",
+            "prop": {
+                "from": {
+                    "day": 29,
+                    "month": 10,
+                    "year": 2005
+                },
+                "to": {
+                    "day": 29,
+                    "month": 4,
+                    "year": 2006
+                }
+            },
+            "string": "Oct 29, 2005 to Apr 29, 2006"
+        },
+        "duration": "24 min per ep",
+        "rating": "PG - Children",
+        "score": 7.26,
+        "scored_by": 1764,
+        "rank": 3133,
+        "popularity": 9166,
+        "members": 5248,
+        "favorites": 45,
+        "synopsis": "Story is about the girl Jang Geum who wants to be a cook. She gets accepted as a palace servant. Clever and cheerful Jang Geum quickly finds friends. But all to soon she encounters intrigue and corruption. \n\nA Korean/Japanese joint production.",
+        "background": "",
+        "season": "fall",
+        "year": 2005,
+        "broadcast": {
+            "day": null,
+            "time": null,
+            "timezone": null,
+            "string": "Unknown"
+        },
+        "producers": [
+            {
+                "mal_id": 367,
+                "type": "anime",
+                "name": "Heewon Entertainment",
+                "url": "https://myanimelist.net/anime/producer/367/Heewon_Entertainment"
+            }
+        ],
+        "licensors": [],
+        "studios": [],
+        "genres": [
+            {
+                "mal_id": 2,
+                "type": "anime",
+                "name": "Adventure",
+                "url": "https://myanimelist.net/anime/genre/2/Adventure"
+            },
+            {
+                "mal_id": 4,
+                "type": "anime",
+                "name": "Comedy",
+                "url": "https://myanimelist.net/anime/genre/4/Comedy"
+            },
+            {
+                "mal_id": 47,
+                "type": "anime",
+                "name": "Gourmet",
+                "url": "https://myanimelist.net/anime/genre/47/Gourmet"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [
+            {
+                "mal_id": 13,
+                "type": "anime",
+                "name": "Historical",
+                "url": "https://myanimelist.net/anime/genre/13/Historical"
+            }
+        ],
+        "demographics": [],
+        "relations": [
+            {
+                "relation": "Sequel",
+                "entry": [
+                    {
+                        "mal_id": 9200,
+                        "type": "anime",
+                        "name": "Dae Jang Geum: Jang Geum's Dream 2",
+                        "url": "https://myanimelist.net/anime/9200/Dae_Jang_Geum__Jang_Geums_Dream_2"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [
+                "\"Ima ga Daisuki\" by Younha"
+            ],
+            "endings": [
+                "\"Moonlight Girl (달빛 소녀)\" by Lee Seung Hwan (이승환)"
+            ]
+        },
+        "external": [
+            {
+                "name": "Official Site",
+                "url": "http://www.imbc.com/broad/tv/ent/janggeum/index.html"
+            },
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=4231"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "http://en.wikipedia.org/wiki/Jang_Geum's_Dream"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": []
+}

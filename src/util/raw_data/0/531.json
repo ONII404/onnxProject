@@ -1,0 +1,210 @@
+{
+    "id": 531,
+    "fetched_at": "Sun Dec 14 13:46:54 2025",
+    "metadata": {
+        "mal_id": 531,
+        "url": "https://myanimelist.net/anime/531/Bishoujo_Senshi_Sailor_Moon_R__The_Movie",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/12/18897.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/12/18897t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/12/18897l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/12/18897.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/12/18897t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/12/18897l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Bishoujo Senshi Sailor Moon R: The Movie"
+            },
+            {
+                "type": "Synonym",
+                "title": "Sailor Moon R Movie: Dangerous Flowers"
+            },
+            {
+                "type": "Japanese",
+                "title": "美少女戦士セーラームーンＲ THE MOVIE"
+            },
+            {
+                "type": "English",
+                "title": "Sailor Moon R: The Movie - The Promise of the Rose"
+            },
+            {
+                "type": "German",
+                "title": "Sailor Moon R: Der Film"
+            },
+            {
+                "type": "Spanish",
+                "title": "Sailor Moon R: La Película"
+            },
+            {
+                "type": "French",
+                "title": "Sailor Moon R: Le Film"
+            }
+        ],
+        "title": "Bishoujo Senshi Sailor Moon R: The Movie",
+        "title_english": "Sailor Moon R: The Movie - The Promise of the Rose",
+        "title_japanese": "美少女戦士セーラームーンＲ THE MOVIE",
+        "title_synonyms": [
+            "Sailor Moon R Movie: Dangerous Flowers"
+        ],
+        "type": "Movie",
+        "source": "Manga",
+        "episodes": 1,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "1993-12-05T00:00:00+00:00",
+            "to": null,
+            "prop": {
+                "from": {
+                    "day": 5,
+                    "month": 12,
+                    "year": 1993
+                },
+                "to": {
+                    "day": null,
+                    "month": null,
+                    "year": null
+                }
+            },
+            "string": "Dec 5, 1993"
+        },
+        "duration": "1 hr",
+        "rating": "PG-13 - Teens 13 or older",
+        "score": 7.73,
+        "scored_by": 39188,
+        "rank": 1272,
+        "popularity": 2868,
+        "members": 71416,
+        "favorites": 272,
+        "synopsis": "When Mamoru was little he gave a rose to a little boy named Fiore. Fiore promised that one day he would bring Mamoru lots of flowers. Now Fiore has come back to earth but his intentions are not merely to fulfil a promise... \n\n(Source: ANN)",
+        "background": "",
+        "season": null,
+        "year": null,
+        "broadcast": {
+            "day": null,
+            "time": null,
+            "timezone": null,
+            "string": null
+        },
+        "producers": [],
+        "licensors": [
+            {
+                "mal_id": 119,
+                "type": "anime",
+                "name": "VIZ Media",
+                "url": "https://myanimelist.net/anime/producer/119/VIZ_Media"
+            }
+        ],
+        "studios": [
+            {
+                "mal_id": 18,
+                "type": "anime",
+                "name": "Toei Animation",
+                "url": "https://myanimelist.net/anime/producer/18/Toei_Animation"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 8,
+                "type": "anime",
+                "name": "Drama",
+                "url": "https://myanimelist.net/anime/genre/8/Drama"
+            },
+            {
+                "mal_id": 22,
+                "type": "anime",
+                "name": "Romance",
+                "url": "https://myanimelist.net/anime/genre/22/Romance"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [
+            {
+                "mal_id": 66,
+                "type": "anime",
+                "name": "Mahou Shoujo",
+                "url": "https://myanimelist.net/anime/genre/66/Mahou_Shoujo"
+            }
+        ],
+        "demographics": [
+            {
+                "mal_id": 25,
+                "type": "anime",
+                "name": "Shoujo",
+                "url": "https://myanimelist.net/anime/genre/25/Shoujo"
+            }
+        ],
+        "relations": [
+            {
+                "relation": "Side Story",
+                "entry": [
+                    {
+                        "mal_id": 2937,
+                        "type": "anime",
+                        "name": "Bishoujo Senshi Sailor Moon R: Make Up! Sailor Senshi",
+                        "url": "https://myanimelist.net/anime/2937/Bishoujo_Senshi_Sailor_Moon_R__Make_Up_Sailor_Senshi"
+                    }
+                ]
+            },
+            {
+                "relation": "Parent Story",
+                "entry": [
+                    {
+                        "mal_id": 740,
+                        "type": "anime",
+                        "name": "Bishoujo Senshi Sailor Moon R",
+                        "url": "https://myanimelist.net/anime/740/Bishoujo_Senshi_Sailor_Moon_R"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [
+                "\"Moonlight Densetsu\" by DALI"
+            ],
+            "endings": [
+                "\"Moon Revenge\" by Peach Hips"
+            ]
+        },
+        "external": [
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=2152"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=811"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "http://en.wikipedia.org/wiki/Sailor_Moon_R_movie"
+            }
+        ],
+        "streaming": [
+            {
+                "name": "Crunchyroll",
+                "url": "http://www.crunchyroll.com/series-278870"
+            }
+        ]
+    },
+    "episodes": []
+}

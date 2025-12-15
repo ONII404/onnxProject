@@ -1,0 +1,733 @@
+{
+    "id": 1251,
+    "fetched_at": "Sun Dec 14 15:40:00 2025",
+    "metadata": {
+        "mal_id": 1251,
+        "url": "https://myanimelist.net/anime/1251/Fushigi_no_Umi_no_Nadia",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1750/118570.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1750/118570t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1750/118570l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1750/118570.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1750/118570t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1750/118570l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": "https://www.youtube-nocookie.com/embed/6lefduazQQA?enablejsapi=1&wmode=opaque&autoplay=1",
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Fushigi no Umi no Nadia"
+            },
+            {
+                "type": "Japanese",
+                "title": "ふしぎの海のナディア"
+            },
+            {
+                "type": "English",
+                "title": "Nadia: The Secret of Blue Water"
+            },
+            {
+                "type": "German",
+                "title": "Nadia: The Secret of Blue Water"
+            },
+            {
+                "type": "French",
+                "title": "Nadia, Le Secret de L'eau Bleue"
+            }
+        ],
+        "title": "Fushigi no Umi no Nadia",
+        "title_english": "Nadia: The Secret of Blue Water",
+        "title_japanese": "ふしぎの海のナディア",
+        "title_synonyms": [],
+        "type": "TV",
+        "source": "Original",
+        "episodes": 39,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "1990-04-13T00:00:00+00:00",
+            "to": "1991-04-12T00:00:00+00:00",
+            "prop": {
+                "from": {
+                    "day": 13,
+                    "month": 4,
+                    "year": 1990
+                },
+                "to": {
+                    "day": 12,
+                    "month": 4,
+                    "year": 1991
+                }
+            },
+            "string": "Apr 13, 1990 to Apr 12, 1991"
+        },
+        "duration": "25 min per ep",
+        "rating": "PG-13 - Teens 13 or older",
+        "score": 7.5,
+        "scored_by": 21951,
+        "rank": 2041,
+        "popularity": 2719,
+        "members": 77936,
+        "favorites": 590,
+        "synopsis": "In 1889, the world is on the pinnacle of great discoveries in technology. In mankind's grasp for the future, a sinister foe known only as Gargoyle, obsessed with restoring the former Atlantean empire to the glory it once held, begins his plans to take over the world. Nadia, with the help of a young inventor, Jean Roque Lartigue, and Captain Nemo of the submarine Nautilus, must fight to save the world from Gargoyle and Neo-Atlantis. Based on the Novel '20,000 Leagues Under the Sea' by Jules Verne.\n\n(Source: ANN)",
+        "background": "The series won the 1990 Animage's Anime Grand Prix Award.",
+        "season": "spring",
+        "year": 1990,
+        "broadcast": {
+            "day": "Fridays",
+            "time": "19:30",
+            "timezone": "Asia/Tokyo",
+            "string": "Fridays at 19:30 (JST)"
+        },
+        "producers": [
+            {
+                "mal_id": 111,
+                "type": "anime",
+                "name": "NHK",
+                "url": "https://myanimelist.net/anime/producer/111/NHK"
+            },
+            {
+                "mal_id": 161,
+                "type": "anime",
+                "name": "Sogo Vision",
+                "url": "https://myanimelist.net/anime/producer/161/Sogo_Vision"
+            },
+            {
+                "mal_id": 245,
+                "type": "anime",
+                "name": "TOHO",
+                "url": "https://myanimelist.net/anime/producer/245/TOHO"
+            },
+            {
+                "mal_id": 1797,
+                "type": "anime",
+                "name": "NHK Enterprises",
+                "url": "https://myanimelist.net/anime/producer/1797/NHK_Enterprises"
+            }
+        ],
+        "licensors": [
+            {
+                "mal_id": 97,
+                "type": "anime",
+                "name": "ADV Films",
+                "url": "https://myanimelist.net/anime/producer/97/ADV_Films"
+            },
+            {
+                "mal_id": 376,
+                "type": "anime",
+                "name": "Sentai Filmworks",
+                "url": "https://myanimelist.net/anime/producer/376/Sentai_Filmworks"
+            },
+            {
+                "mal_id": 783,
+                "type": "anime",
+                "name": "GKIDS",
+                "url": "https://myanimelist.net/anime/producer/783/GKIDS"
+            },
+            {
+                "mal_id": 2518,
+                "type": "anime",
+                "name": "Streamline Pictures",
+                "url": "https://myanimelist.net/anime/producer/2518/Streamline_Pictures"
+            }
+        ],
+        "studios": [
+            {
+                "mal_id": 6,
+                "type": "anime",
+                "name": "Gainax",
+                "url": "https://myanimelist.net/anime/producer/6/Gainax"
+            },
+            {
+                "mal_id": 86,
+                "type": "anime",
+                "name": "Group TAC",
+                "url": "https://myanimelist.net/anime/producer/86/Group_TAC"
+            },
+            {
+                "mal_id": 1025,
+                "type": "anime",
+                "name": "Dongwoo A&E",
+                "url": "https://myanimelist.net/anime/producer/1025/Dongwoo_A_E"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 2,
+                "type": "anime",
+                "name": "Adventure",
+                "url": "https://myanimelist.net/anime/genre/2/Adventure"
+            },
+            {
+                "mal_id": 4,
+                "type": "anime",
+                "name": "Comedy",
+                "url": "https://myanimelist.net/anime/genre/4/Comedy"
+            },
+            {
+                "mal_id": 22,
+                "type": "anime",
+                "name": "Romance",
+                "url": "https://myanimelist.net/anime/genre/22/Romance"
+            },
+            {
+                "mal_id": 24,
+                "type": "anime",
+                "name": "Sci-Fi",
+                "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [
+            {
+                "mal_id": 13,
+                "type": "anime",
+                "name": "Historical",
+                "url": "https://myanimelist.net/anime/genre/13/Historical"
+            }
+        ],
+        "demographics": [],
+        "relations": [
+            {
+                "relation": "Sequel",
+                "entry": [
+                    {
+                        "mal_id": 1252,
+                        "type": "anime",
+                        "name": "Fushigi no Umi no Nadia: Original Movie",
+                        "url": "https://myanimelist.net/anime/1252/Fushigi_no_Umi_no_Nadia__Original_Movie"
+                    }
+                ]
+            },
+            {
+                "relation": "Side Story",
+                "entry": [
+                    {
+                        "mal_id": 3381,
+                        "type": "anime",
+                        "name": "Fushigi no Umi no Nadia Omake Gekijou",
+                        "url": "https://myanimelist.net/anime/3381/Fushigi_no_Umi_no_Nadia_Omake_Gekijou"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [
+                "\"Blue Water\" by Miho Morikawa."
+            ],
+            "endings": [
+                "\"Yes! I Will\" by Miho Morikawa."
+            ]
+        },
+        "external": [
+            {
+                "name": "Official Site",
+                "url": "http://www.gainax.co.jp/anime/nadia/index.html"
+            },
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=40"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=48"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "http://en.wikipedia.org/wiki/Fushigi_no_Umi_no_Nadia"
+            }
+        ],
+        "streaming": [
+            {
+                "name": "Crunchyroll",
+                "url": "http://www.crunchyroll.com/series-281635"
+            }
+        ]
+    },
+    "episodes": [
+        {
+            "mal_id": 1,
+            "url": "https://myanimelist.net/anime/1251/Fushigi_no_Umi_no_Nadia/episode/1",
+            "title": "The Girl at the Eiffel Tower",
+            "title_japanese": "エッフェル塔の少女",
+            "title_romanji": "Eiffel Tou no Shoujo ",
+            "aired": "1990-04-13T00:00:00+00:00",
+            "score": 4.31,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=11290"
+        },
+        {
+            "mal_id": 2,
+            "url": "https://myanimelist.net/anime/1251/Fushigi_no_Umi_no_Nadia/episode/2",
+            "title": "The Little Fugitives",
+            "title_japanese": "小さな逃亡者",
+            "title_romanji": "Chiisana Toubousha ",
+            "aired": "1990-04-20T00:00:00+00:00",
+            "score": 4.23,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=11308"
+        },
+        {
+            "mal_id": 3,
+            "url": "https://myanimelist.net/anime/1251/Fushigi_no_Umi_no_Nadia/episode/3",
+            "title": "The Riddle of the Giant Sea Monsters",
+            "title_japanese": "謎の大海獣",
+            "title_romanji": "Nazo no Daikaijuu ",
+            "aired": "1990-04-27T00:00:00+00:00",
+            "score": 4.31,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=11311"
+        },
+        {
+            "mal_id": 4,
+            "url": "https://myanimelist.net/anime/1251/Fushigi_no_Umi_no_Nadia/episode/4",
+            "title": "Nautilus, The Fantastic Submarine",
+            "title_japanese": "万能潜水艦ノーチラス号",
+            "title_romanji": "Bannou Sensuikan Nautilus Gou ",
+            "aired": "1990-05-04T00:00:00+00:00",
+            "score": 4.44,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=11312"
+        },
+        {
+            "mal_id": 5,
+            "url": "https://myanimelist.net/anime/1251/Fushigi_no_Umi_no_Nadia/episode/5",
+            "title": "Marie's Island",
+            "title_japanese": "マリーの島",
+            "title_romanji": "Marie no Shima ",
+            "aired": "1990-05-11T00:00:00+00:00",
+            "score": 4.52,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=11294"
+        },
+        {
+            "mal_id": 6,
+            "url": "https://myanimelist.net/anime/1251/Fushigi_no_Umi_no_Nadia/episode/6",
+            "title": "Infiltration of the Secret Base",
+            "title_japanese": "孤島の要塞",
+            "title_romanji": "Kotou no Yousai ",
+            "aired": "1990-05-18T00:00:00+00:00",
+            "score": 4.46,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=11313"
+        },
+        {
+            "mal_id": 7,
+            "url": "https://myanimelist.net/anime/1251/Fushigi_no_Umi_no_Nadia/episode/7",
+            "title": "The Tower of Babel",
+            "title_japanese": "バベルの塔",
+            "title_romanji": "Babel no Tou ",
+            "aired": "1990-05-25T00:00:00+00:00",
+            "score": 4.48,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=11314"
+        },
+        {
+            "mal_id": 8,
+            "url": "https://myanimelist.net/anime/1251/Fushigi_no_Umi_no_Nadia/episode/8",
+            "title": "Mission to Rescue Nadia",
+            "title_japanese": "ナディア救出作戦",
+            "title_romanji": "Nadia Kyuushutsu Sakusen ",
+            "aired": "1990-06-01T00:00:00+00:00",
+            "score": 4.65,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=11315"
+        },
+        {
+            "mal_id": 9,
+            "url": "https://myanimelist.net/anime/1251/Fushigi_no_Umi_no_Nadia/episode/9",
+            "title": "Nemo's Secret",
+            "title_japanese": "ネモの秘密",
+            "title_romanji": "Nemo no Himitsu ",
+            "aired": "1990-06-08T00:00:00+00:00",
+            "score": 4.24,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=11317"
+        },
+        {
+            "mal_id": 10,
+            "url": "https://myanimelist.net/anime/1251/Fushigi_no_Umi_no_Nadia/episode/10",
+            "title": "A Crowning Performance by the Gratan",
+            "title_japanese": "グラタンの活躍",
+            "title_romanji": "Gratan no Katsuyaku ",
+            "aired": "1990-06-15T00:00:00+00:00",
+            "score": 4.32,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=11318"
+        },
+        {
+            "mal_id": 11,
+            "url": "https://myanimelist.net/anime/1251/Fushigi_no_Umi_no_Nadia/episode/11",
+            "title": "New Recruits for the Nautilus",
+            "title_japanese": "ノーチラス号の新入生",
+            "title_romanji": "Nautilus Gou no Shinnyuusei ",
+            "aired": "1990-06-22T00:00:00+00:00",
+            "score": 4.2,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=11319"
+        },
+        {
+            "mal_id": 12,
+            "url": "https://myanimelist.net/anime/1251/Fushigi_no_Umi_no_Nadia/episode/12",
+            "title": "Grandis and Her First Love",
+            "title_japanese": "グランディスの初恋",
+            "title_romanji": "Grandis no Hatsukoi ",
+            "aired": "1990-07-06T00:00:00+00:00",
+            "score": 4.11,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=11320"
+        },
+        {
+            "mal_id": 13,
+            "url": "https://myanimelist.net/anime/1251/Fushigi_no_Umi_no_Nadia/episode/13",
+            "title": "Run, Marie, Run!",
+            "title_japanese": "走れ！マリー",
+            "title_romanji": "Hashire! Marie ",
+            "aired": "1990-07-13T00:00:00+00:00",
+            "score": 4.08,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=11321"
+        },
+        {
+            "mal_id": 14,
+            "url": "https://myanimelist.net/anime/1251/Fushigi_no_Umi_no_Nadia/episode/14",
+            "title": "The Valley of Dynicthus",
+            "title_japanese": "ディニクチスの谷",
+            "title_romanji": "Dinichthys no Tani ",
+            "aired": "1990-07-20T00:00:00+00:00",
+            "score": 4.13,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=11322"
+        },
+        {
+            "mal_id": 15,
+            "url": "https://myanimelist.net/anime/1251/Fushigi_no_Umi_no_Nadia/episode/15",
+            "title": "The Nautilus Faces Its Biggest Crisis",
+            "title_japanese": "ノーチラス最大の危機",
+            "title_romanji": "Nautilus Saidai no Kiki ",
+            "aired": "1990-07-27T00:00:00+00:00",
+            "score": 4.58,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=11304"
+        },
+        {
+            "mal_id": 16,
+            "url": "https://myanimelist.net/anime/1251/Fushigi_no_Umi_no_Nadia/episode/16",
+            "title": "The Mystery of the Lost Continent",
+            "title_japanese": "消えた大陸の秘密",
+            "title_romanji": "Kieta Tairiku no Himitsu ",
+            "aired": "1990-08-24T00:00:00+00:00",
+            "score": 4.67,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=11305"
+        },
+        {
+            "mal_id": 17,
+            "url": "https://myanimelist.net/anime/1251/Fushigi_no_Umi_no_Nadia/episode/17",
+            "title": "Jean's New Invention",
+            "title_japanese": "ジャンの新発明",
+            "title_romanji": "Jean no Shin Hatsumei ",
+            "aired": "1990-08-31T00:00:00+00:00",
+            "score": 4.28,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=11306"
+        },
+        {
+            "mal_id": 18,
+            "url": "https://myanimelist.net/anime/1251/Fushigi_no_Umi_no_Nadia/episode/18",
+            "title": "Nautilus vs. Nautilus",
+            "title_japanese": "ノーチラス対ノーチラス号",
+            "title_romanji": "Nautilus Tai Nautilus Gou ",
+            "aired": "1990-09-07T00:00:00+00:00",
+            "score": 4.22,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=11307"
+        },
+        {
+            "mal_id": 19,
+            "url": "https://myanimelist.net/anime/1251/Fushigi_no_Umi_no_Nadia/episode/19",
+            "title": "Nemo's Best Friend",
+            "title_japanese": "ネモの親友",
+            "title_romanji": "Nemo no Shinyuu ",
+            "aired": "1990-09-14T00:00:00+00:00",
+            "score": 4.51,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=11324"
+        },
+        {
+            "mal_id": 20,
+            "url": "https://myanimelist.net/anime/1251/Fushigi_no_Umi_no_Nadia/episode/20",
+            "title": "Jean Makes a Mistake",
+            "title_japanese": "ジャンの失敗",
+            "title_romanji": "Jean no Shippai ",
+            "aired": "1990-09-21T00:00:00+00:00",
+            "score": 4.09,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=11325"
+        },
+        {
+            "mal_id": 21,
+            "url": "https://myanimelist.net/anime/1251/Fushigi_no_Umi_no_Nadia/episode/21",
+            "title": "Farewell Nautilus",
+            "title_japanese": "さよなら…ノーチラス号",
+            "title_romanji": "Sayonara... Nautilus Gou ",
+            "aired": "1990-10-26T00:00:00+00:00",
+            "score": 4.73,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=11326"
+        },
+        {
+            "mal_id": 22,
+            "url": "https://myanimelist.net/anime/1251/Fushigi_no_Umi_no_Nadia/episode/22",
+            "title": "Electra the Traitor",
+            "title_japanese": "裏切りのエレクトラ",
+            "title_romanji": "Uragiri no Electra ",
+            "aired": "1990-11-02T00:00:00+00:00",
+            "score": 4.8,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=11327"
+        },
+        {
+            "mal_id": 23,
+            "url": "https://myanimelist.net/anime/1251/Fushigi_no_Umi_no_Nadia/episode/23",
+            "title": "Young Drifters",
+            "title_japanese": "小さな漂流者",
+            "title_romanji": "Chiisana Hyouryuusha ",
+            "aired": "1990-11-09T00:00:00+00:00",
+            "score": 2.76,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=11329"
+        },
+        {
+            "mal_id": 24,
+            "url": "https://myanimelist.net/anime/1251/Fushigi_no_Umi_no_Nadia/episode/24",
+            "title": "Lincoln Island",
+            "title_japanese": "リンカーン島",
+            "title_romanji": "Lincoln-tou ",
+            "aired": "1990-11-16T00:00:00+00:00",
+            "score": 2.94,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=11330"
+        },
+        {
+            "mal_id": 25,
+            "url": "https://myanimelist.net/anime/1251/Fushigi_no_Umi_no_Nadia/episode/25",
+            "title": "The First Kiss",
+            "title_japanese": "はじめてのキス",
+            "title_romanji": "Hajimete no Kiss ",
+            "aired": "1990-11-30T00:00:00+00:00",
+            "score": 2.42,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=11331"
+        },
+        {
+            "mal_id": 26,
+            "url": "https://myanimelist.net/anime/1251/Fushigi_no_Umi_no_Nadia/episode/26",
+            "title": "King, the Lonely Lion",
+            "title_japanese": "ひとりぼっちのキング",
+            "title_romanji": "Hitoribocchi no King ",
+            "aired": "1990-12-07T00:00:00+00:00",
+            "score": 2.55,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=11332"
+        },
+        {
+            "mal_id": 27,
+            "url": "https://myanimelist.net/anime/1251/Fushigi_no_Umi_no_Nadia/episode/27",
+            "title": "The Island of the Witch",
+            "title_japanese": "魔女のいる島",
+            "title_romanji": "Majo no Iru Shima ",
+            "aired": "1990-12-14T00:00:00+00:00",
+            "score": 2.26,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=11333"
+        },
+        {
+            "mal_id": 28,
+            "url": "https://myanimelist.net/anime/1251/Fushigi_no_Umi_no_Nadia/episode/28",
+            "title": "The Floating Island",
+            "title_japanese": "流され島",
+            "title_romanji": "Nagasarejima ",
+            "aired": "1990-12-21T00:00:00+00:00",
+            "score": 2.8,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=11334"
+        },
+        {
+            "mal_id": 29,
+            "url": "https://myanimelist.net/anime/1251/Fushigi_no_Umi_no_Nadia/episode/29",
+            "title": "King vs. King",
+            "title_japanese": "キング対キング",
+            "title_romanji": "King Tai King ",
+            "aired": "1991-01-11T00:00:00+00:00",
+            "score": 2.55,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=11335"
+        },
+        {
+            "mal_id": 30,
+            "url": "https://myanimelist.net/anime/1251/Fushigi_no_Umi_no_Nadia/episode/30",
+            "title": "Labyrinth in the Earth",
+            "title_japanese": "地底の迷路",
+            "title_romanji": "Chitei no Meiro ",
+            "aired": "1991-01-25T00:00:00+00:00",
+            "score": 3.21,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=11336"
+        },
+        {
+            "mal_id": 31,
+            "url": "https://myanimelist.net/anime/1251/Fushigi_no_Umi_no_Nadia/episode/31",
+            "title": "Farewell Red Noah",
+            "title_japanese": "さらば、レッドノア",
+            "title_romanji": "Saraba, Red Noah ",
+            "aired": "1991-02-01T00:00:00+00:00",
+            "score": 4.12,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=11337"
+        },
+        {
+            "mal_id": 32,
+            "url": "https://myanimelist.net/anime/1251/Fushigi_no_Umi_no_Nadia/episode/32",
+            "title": "Nadia's Love...?",
+            "title_japanese": "ナディアの初恋",
+            "title_romanji": "Nadia no Hatsukoi ",
+            "aired": "1991-02-08T00:00:00+00:00",
+            "score": 1.62,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=11338"
+        },
+        {
+            "mal_id": 33,
+            "url": "https://myanimelist.net/anime/1251/Fushigi_no_Umi_no_Nadia/episode/33",
+            "title": "King's Rescue",
+            "title_japanese": "キング救助作戦",
+            "title_romanji": "King Kyuujo Sakusen ",
+            "aired": "1991-02-15T00:00:00+00:00",
+            "score": 1.41,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=11340"
+        },
+        {
+            "mal_id": 34,
+            "url": "https://myanimelist.net/anime/1251/Fushigi_no_Umi_no_Nadia/episode/34",
+            "title": "My Darling Nadia",
+            "title_japanese": "いとしのナディア",
+            "title_romanji": "Itoshi no Nadia ",
+            "aired": "1991-02-22T00:00:00+00:00",
+            "score": 2.1,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=11341"
+        },
+        {
+            "mal_id": 35,
+            "url": "https://myanimelist.net/anime/1251/Fushigi_no_Umi_no_Nadia/episode/35",
+            "title": "The Secret of Blue Water",
+            "title_japanese": "ブルー・ウォーターの秘密",
+            "title_romanji": "Blue Water no Himitsu ",
+            "aired": "1991-03-01T00:00:00+00:00",
+            "score": 4.48,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=11344"
+        },
+        {
+            "mal_id": 36,
+            "url": "https://myanimelist.net/anime/1251/Fushigi_no_Umi_no_Nadia/episode/36",
+            "title": "The New Nautilus",
+            "title_japanese": "万能戦艦Ν-ノーチラス号",
+            "title_romanji": "Bannou Senkan N-Nautilus Gou ",
+            "aired": "1991-03-08T00:00:00+00:00",
+            "score": 4.48,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=11345"
+        },
+        {
+            "mal_id": 37,
+            "url": "https://myanimelist.net/anime/1251/Fushigi_no_Umi_no_Nadia/episode/37",
+            "title": "Emperor Neo",
+            "title_japanese": "ネオ皇帝",
+            "title_romanji": "Neo Koutei ",
+            "aired": "1991-03-29T00:00:00+00:00",
+            "score": 4.76,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=11346"
+        },
+        {
+            "mal_id": 38,
+            "url": "https://myanimelist.net/anime/1251/Fushigi_no_Umi_no_Nadia/episode/38",
+            "title": "To the Sky",
+            "title_japanese": "宇宙（そら）へ…",
+            "title_romanji": "Uchuu (sora) e… ",
+            "aired": "1991-04-05T00:00:00+00:00",
+            "score": 4.81,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=11347"
+        },
+        {
+            "mal_id": 39,
+            "url": "https://myanimelist.net/anime/1251/Fushigi_no_Umi_no_Nadia/episode/39",
+            "title": "Successor to the Stars",
+            "title_japanese": "星を継ぐ者…",
+            "title_romanji": "Hoshi wo Tsugu Mono... ",
+            "aired": "1991-04-12T00:00:00+00:00",
+            "score": 4.32,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=11348"
+        }
+    ]
+}

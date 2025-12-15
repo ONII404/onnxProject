@@ -1,0 +1,190 @@
+{
+    "id": 2313,
+    "fetched_at": "Sun Dec 14 18:25:13 2025",
+    "metadata": {
+        "mal_id": 2313,
+        "url": "https://myanimelist.net/anime/2313/Muumindani_no_Suisei",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/12/3984.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/12/3984t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/12/3984l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/12/3984.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/12/3984t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/12/3984l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Muumindani no Suisei"
+            },
+            {
+                "type": "Synonym",
+                "title": "A Comet in Moominvalley"
+            },
+            {
+                "type": "Synonym",
+                "title": "Muumin Movie"
+            },
+            {
+                "type": "Japanese",
+                "title": "ムーミン谷の彗星"
+            },
+            {
+                "type": "English",
+                "title": "Comet in Moominland"
+            }
+        ],
+        "title": "Muumindani no Suisei",
+        "title_english": "Comet in Moominland",
+        "title_japanese": "ムーミン谷の彗星",
+        "title_synonyms": [
+            "A Comet in Moominvalley",
+            "Muumin Movie"
+        ],
+        "type": "Movie",
+        "source": "Book",
+        "episodes": 1,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "1992-08-08T00:00:00+00:00",
+            "to": null,
+            "prop": {
+                "from": {
+                    "day": 8,
+                    "month": 8,
+                    "year": 1992
+                },
+                "to": {
+                    "day": null,
+                    "month": null,
+                    "year": null
+                }
+            },
+            "string": "Aug 8, 1992"
+        },
+        "duration": "1 hr 12 min",
+        "rating": "G - All Ages",
+        "score": 7.69,
+        "scored_by": 5479,
+        "rank": 1383,
+        "popularity": 6554,
+        "members": 12024,
+        "favorites": 46,
+        "synopsis": "Unusual things have been happening in Moominvalley. Moomin, Sniff and Mee leave for the Observatory on the Lonely Mountains to confirm the Muskrat's words: a comet is about to hit Moominvalley and destroy everything. On the way they meet Snufkin, the Hemulen and the Snorks and experience many adventures. \n\n(Source: ANN)",
+        "background": "",
+        "season": null,
+        "year": null,
+        "broadcast": {
+            "day": null,
+            "time": null,
+            "timezone": null,
+            "string": null
+        },
+        "producers": [
+            {
+                "mal_id": 358,
+                "type": "anime",
+                "name": "Telescreen",
+                "url": "https://myanimelist.net/anime/producer/358/Telescreen"
+            }
+        ],
+        "licensors": [],
+        "studios": [
+            {
+                "mal_id": 246,
+                "type": "anime",
+                "name": "Visual 80",
+                "url": "https://myanimelist.net/anime/producer/246/Visual_80"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 2,
+                "type": "anime",
+                "name": "Adventure",
+                "url": "https://myanimelist.net/anime/genre/2/Adventure"
+            },
+            {
+                "mal_id": 10,
+                "type": "anime",
+                "name": "Fantasy",
+                "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+            },
+            {
+                "mal_id": 36,
+                "type": "anime",
+                "name": "Slice of Life",
+                "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [],
+        "demographics": [
+            {
+                "mal_id": 15,
+                "type": "anime",
+                "name": "Kids",
+                "url": "https://myanimelist.net/anime/genre/15/Kids"
+            }
+        ],
+        "relations": [
+            {
+                "relation": "Sequel",
+                "entry": [
+                    {
+                        "mal_id": 2150,
+                        "type": "anime",
+                        "name": "Tanoshii Muumin Ikka",
+                        "url": "https://myanimelist.net/anime/2150/Tanoshii_Muumin_Ikka"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [
+                "\"Shiawase no morugaane\" by Emiko Shiratori"
+            ],
+            "endings": [
+                "\"Kono uchuu he, tsutae tai\" by Emiko Shiratori"
+            ]
+        },
+        "external": [
+            {
+                "name": "Official Site",
+                "url": "http://www.onlyhearts.co.jp/source/movies/moomin.html"
+            },
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=3570"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=6338"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "http://en.wikipedia.org/wiki/Comet_in_Moominland"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": []
+}

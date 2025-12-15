@@ -1,0 +1,244 @@
+{
+    "id": 2474,
+    "fetched_at": "Sun Dec 14 18:37:05 2025",
+    "metadata": {
+        "mal_id": 2474,
+        "url": "https://myanimelist.net/anime/2474/Ginga_Ojousama_Densetsu_Yuna__Shinen_no_Fairy",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1888/94333.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1888/94333t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1888/94333l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1888/94333.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1888/94333t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1888/94333l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Ginga Ojousama Densetsu Yuna: Shinen no Fairy"
+            },
+            {
+                "type": "Synonym",
+                "title": "Galaxy Fraulein Yuna OVA 2: Shinen no Fairy"
+            },
+            {
+                "type": "Japanese",
+                "title": "銀河お嬢様伝説ユナ　～深闇のフェアリィ～"
+            },
+            {
+                "type": "English",
+                "title": "Galaxy Fraulein Yuna Returns"
+            }
+        ],
+        "title": "Ginga Ojousama Densetsu Yuna: Shinen no Fairy",
+        "title_english": "Galaxy Fraulein Yuna Returns",
+        "title_japanese": "銀河お嬢様伝説ユナ　～深闇のフェアリィ～",
+        "title_synonyms": [
+            "Galaxy Fraulein Yuna OVA 2: Shinen no Fairy"
+        ],
+        "type": "OVA",
+        "source": "Visual novel",
+        "episodes": 3,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "1996-12-21T00:00:00+00:00",
+            "to": "1997-05-21T00:00:00+00:00",
+            "prop": {
+                "from": {
+                    "day": 21,
+                    "month": 12,
+                    "year": 1996
+                },
+                "to": {
+                    "day": 21,
+                    "month": 5,
+                    "year": 1997
+                }
+            },
+            "string": "Dec 21, 1996 to May 21, 1997"
+        },
+        "duration": "31 min per ep",
+        "rating": "PG-13 - Teens 13 or older",
+        "score": 6.18,
+        "scored_by": 1737,
+        "rank": 9243,
+        "popularity": 10077,
+        "members": 3985,
+        "favorites": 5,
+        "synopsis": "Just when everything seems peaceful again for Yuna and her friends, a new enemy appears in the form of three robotic sisters. Yuna must once again become the Savior of Light to fight this strong, new evil.\n\n(Source: ANN)",
+        "background": "",
+        "season": null,
+        "year": null,
+        "broadcast": {
+            "day": null,
+            "time": null,
+            "timezone": null,
+            "string": null
+        },
+        "producers": [
+            {
+                "mal_id": 92,
+                "type": "anime",
+                "name": "Starchild Records",
+                "url": "https://myanimelist.net/anime/producer/92/Starchild_Records"
+            },
+            {
+                "mal_id": 155,
+                "type": "anime",
+                "name": "animate Film",
+                "url": "https://myanimelist.net/anime/producer/155/animate_Film"
+            },
+            {
+                "mal_id": 166,
+                "type": "anime",
+                "name": "Movic",
+                "url": "https://myanimelist.net/anime/producer/166/Movic"
+            }
+        ],
+        "licensors": [
+            {
+                "mal_id": 97,
+                "type": "anime",
+                "name": "ADV Films",
+                "url": "https://myanimelist.net/anime/producer/97/ADV_Films"
+            }
+        ],
+        "studios": [
+            {
+                "mal_id": 7,
+                "type": "anime",
+                "name": "J.C.Staff",
+                "url": "https://myanimelist.net/anime/producer/7/JCStaff"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 2,
+                "type": "anime",
+                "name": "Adventure",
+                "url": "https://myanimelist.net/anime/genre/2/Adventure"
+            },
+            {
+                "mal_id": 4,
+                "type": "anime",
+                "name": "Comedy",
+                "url": "https://myanimelist.net/anime/genre/4/Comedy"
+            },
+            {
+                "mal_id": 24,
+                "type": "anime",
+                "name": "Sci-Fi",
+                "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [
+            {
+                "mal_id": 66,
+                "type": "anime",
+                "name": "Mahou Shoujo",
+                "url": "https://myanimelist.net/anime/genre/66/Mahou_Shoujo"
+            },
+            {
+                "mal_id": 18,
+                "type": "anime",
+                "name": "Mecha",
+                "url": "https://myanimelist.net/anime/genre/18/Mecha"
+            }
+        ],
+        "demographics": [],
+        "relations": [
+            {
+                "relation": "Prequel",
+                "entry": [
+                    {
+                        "mal_id": 2473,
+                        "type": "anime",
+                        "name": "Ginga Ojousama Densetsu Yuna: Kanashimi no Siren",
+                        "url": "https://myanimelist.net/anime/2473/Ginga_Ojousama_Densetsu_Yuna__Kanashimi_no_Siren"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [
+                "\"Lightning Heart!\" by Chisa Yokoyama"
+            ],
+            "endings": [
+                "1: \"Lets Go Out!\" by Miki Nigisawa",
+                "2: \"Tsukikage Oyasumi\" by Chisa Yokoyama, Miki Takahashi, Yumi Touma, Satomi Koorogi, Akiko Yajima"
+            ]
+        },
+        "external": [
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=487"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=148"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "http://en.wikipedia.org/wiki/Galaxy_Fraulein_Yuna"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": [
+        {
+            "mal_id": 1,
+            "url": null,
+            "title": "Fairy of the Deep Darkness Vol.1",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": "1996-12-21T00:00:00+00:00",
+            "score": 4.62,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=205336"
+        },
+        {
+            "mal_id": 2,
+            "url": null,
+            "title": "Fairy of the Deep Darkness Vol.2",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": "1997-01-22T00:00:00+00:00",
+            "score": 4.42,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=205345"
+        },
+        {
+            "mal_id": 3,
+            "url": null,
+            "title": "Fairy of the Deep Darkness Vol.3",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": "1997-05-21T00:00:00+00:00",
+            "score": 4.46,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=205355"
+        }
+    ]
+}

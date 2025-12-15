@@ -1,0 +1,496 @@
+{
+    "id": 435,
+    "fetched_at": "Sun Dec 14 13:38:46 2025",
+    "metadata": {
+        "mal_id": 435,
+        "url": "https://myanimelist.net/anime/435/Magic_Knight_Rayearth",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1683/97042.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1683/97042t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1683/97042l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1683/97042.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1683/97042t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1683/97042l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Magic Knight Rayearth"
+            },
+            {
+                "type": "Synonym",
+                "title": "Mahou Kishi Rayearth"
+            },
+            {
+                "type": "Japanese",
+                "title": "魔法騎士（マジックナイト）レイアース"
+            },
+            {
+                "type": "English",
+                "title": "Magic Knight Rayearth"
+            }
+        ],
+        "title": "Magic Knight Rayearth",
+        "title_english": "Magic Knight Rayearth",
+        "title_japanese": "魔法騎士（マジックナイト）レイアース",
+        "title_synonyms": [
+            "Mahou Kishi Rayearth"
+        ],
+        "type": "TV",
+        "source": "Manga",
+        "episodes": 20,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "1994-10-17T00:00:00+00:00",
+            "to": "1995-03-13T00:00:00+00:00",
+            "prop": {
+                "from": {
+                    "day": 17,
+                    "month": 10,
+                    "year": 1994
+                },
+                "to": {
+                    "day": 13,
+                    "month": 3,
+                    "year": 1995
+                }
+            },
+            "string": "Oct 17, 1994 to Mar 13, 1995"
+        },
+        "duration": "24 min per ep",
+        "rating": "PG-13 - Teens 13 or older",
+        "score": 7.45,
+        "scored_by": 31142,
+        "rank": 2232,
+        "popularity": 2727,
+        "members": 77607,
+        "favorites": 606,
+        "synopsis": "Hikaru Shidou, Umi Ryuuzaki, and Fuu Hououji are strangers brought together by fate when they meet during a seemingly normal field trip to Tokyo Tower. Accompanied by a great flash of light, they hear a mysterious woman's plea to save \"Cephiro,\" and the junior high heroines are suddenly swept away by a giant flying fish. Afterwards, they arrive in an unknown land, where they encounter a man called Master Mage Clef.\n\nClef informs the girls that they were summoned by Princess Emeraude to fulfill their destinies as Magic Knights, restoring peace and balance in Cephiro. The formerly lively and peaceful land has been in disarray ever since High Priest Zagato imprisoned the princess, who acted as Cephiro's pillar of stability. The Magic Knights reluctantly accept Clef's words as truth and embark on a journey to save Cephiro from the clutches of evil.\n\n[Written by MAL Rewrite]",
+        "background": "Although the first season is a near-direct adaptation of the first arc of the manga, there are several small additions, including the anime original character Inouva. Magic Knight Rayearth's opening theme song, Yuzurenai Negai, was awarded the \"Best Theme Song\" at the first ever Animation Kobe Awards in 1996.",
+        "season": "fall",
+        "year": 1994,
+        "broadcast": {
+            "day": "Mondays",
+            "time": "19:30",
+            "timezone": "Asia/Tokyo",
+            "string": "Mondays at 19:30 (JST)"
+        },
+        "producers": [
+            {
+                "mal_id": 76,
+                "type": "anime",
+                "name": "Yomiuri Telecasting",
+                "url": "https://myanimelist.net/anime/producer/76/Yomiuri_Telecasting"
+            },
+            {
+                "mal_id": 3017,
+                "type": "anime",
+                "name": "Polydor Records",
+                "url": "https://myanimelist.net/anime/producer/3017/Polydor_Records"
+            }
+        ],
+        "licensors": [
+            {
+                "mal_id": 250,
+                "type": "anime",
+                "name": "Media Blasters",
+                "url": "https://myanimelist.net/anime/producer/250/Media_Blasters"
+            },
+            {
+                "mal_id": 467,
+                "type": "anime",
+                "name": "Discotek Media",
+                "url": "https://myanimelist.net/anime/producer/467/Discotek_Media"
+            }
+        ],
+        "studios": [
+            {
+                "mal_id": 65,
+                "type": "anime",
+                "name": "Tokyo Movie Shinsha",
+                "url": "https://myanimelist.net/anime/producer/65/Tokyo_Movie_Shinsha"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 2,
+                "type": "anime",
+                "name": "Adventure",
+                "url": "https://myanimelist.net/anime/genre/2/Adventure"
+            },
+            {
+                "mal_id": 10,
+                "type": "anime",
+                "name": "Fantasy",
+                "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [
+            {
+                "mal_id": 62,
+                "type": "anime",
+                "name": "Isekai",
+                "url": "https://myanimelist.net/anime/genre/62/Isekai"
+            },
+            {
+                "mal_id": 18,
+                "type": "anime",
+                "name": "Mecha",
+                "url": "https://myanimelist.net/anime/genre/18/Mecha"
+            }
+        ],
+        "demographics": [
+            {
+                "mal_id": 25,
+                "type": "anime",
+                "name": "Shoujo",
+                "url": "https://myanimelist.net/anime/genre/25/Shoujo"
+            }
+        ],
+        "relations": [
+            {
+                "relation": "Sequel",
+                "entry": [
+                    {
+                        "mal_id": 1563,
+                        "type": "anime",
+                        "name": "Magic Knight Rayearth II",
+                        "url": "https://myanimelist.net/anime/1563/Magic_Knight_Rayearth_II"
+                    }
+                ]
+            },
+            {
+                "relation": "Adaptation",
+                "entry": [
+                    {
+                        "mal_id": 119,
+                        "type": "manga",
+                        "name": "Magic Knight Rayearth",
+                        "url": "https://myanimelist.net/manga/119/Magic_Knight_Rayearth"
+                    }
+                ]
+            },
+            {
+                "relation": "Alternative Version",
+                "entry": [
+                    {
+                        "mal_id": 1954,
+                        "type": "anime",
+                        "name": "Rayearth",
+                        "url": "https://myanimelist.net/anime/1954/Rayearth"
+                    },
+                    {
+                        "mal_id": 38372,
+                        "type": "anime",
+                        "name": "Magic Knight Rayearth Pilot",
+                        "url": "https://myanimelist.net/anime/38372/Magic_Knight_Rayearth_Pilot"
+                    }
+                ]
+            },
+            {
+                "relation": "Other",
+                "entry": [
+                    {
+                        "mal_id": 59204,
+                        "type": "anime",
+                        "name": "Magic Knight Rayearth (2026)",
+                        "url": "https://myanimelist.net/anime/59204/Magic_Knight_Rayearth_2026"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [
+                "\"Yuzurenai Negai\" by Naomi Tamura"
+            ],
+            "endings": [
+                "\"Asue no Yuuki\" by Keiko Yoshinari"
+            ]
+        },
+        "external": [
+            {
+                "name": "Official Site",
+                "url": "http://www.tms-e.com/library/old/tv/data/t_reyearth.html"
+            },
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=127"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=38"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "http://en.wikipedia.org/wiki/Magic_Knight_Rayearth"
+            }
+        ],
+        "streaming": [
+            {
+                "name": "Crunchyroll",
+                "url": "http://www.crunchyroll.com/series-283132"
+            }
+        ]
+    },
+    "episodes": [
+        {
+            "mal_id": 1,
+            "url": "https://myanimelist.net/anime/435/Magic_Knight_Rayearth/episode/1",
+            "title": "The Birth of the Legendary Magic Knights!",
+            "title_japanese": "伝説のマジックナイト始動",
+            "title_romanji": "Densetsu no Magic Knight Shidou ",
+            "aired": "1994-10-17T00:00:00+00:00",
+            "score": 4.27,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=109230"
+        },
+        {
+            "mal_id": 2,
+            "url": "https://myanimelist.net/anime/435/Magic_Knight_Rayearth/episode/2",
+            "title": "Presea, The Master Smith In The Forest Of Silence",
+            "title_japanese": "沈黙の森の創師 プレセア",
+            "title_romanji": "Chinmoku no Mori no Soushi Presea ",
+            "aired": "1994-10-24T00:00:00+00:00",
+            "score": 4.26,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=117673"
+        },
+        {
+            "mal_id": 3,
+            "url": "https://myanimelist.net/anime/435/Magic_Knight_Rayearth/episode/3",
+            "title": "Ferio, the Handsome, Mysterious Swordsman",
+            "title_japanese": "謎の美少年剣士 フェリオ",
+            "title_romanji": "Nazo no Bishounen Kenshi Ferio ",
+            "aired": "1994-10-31T00:00:00+00:00",
+            "score": 4.25,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=118521"
+        },
+        {
+            "mal_id": 4,
+            "url": "https://myanimelist.net/anime/435/Magic_Knight_Rayearth/episode/4",
+            "title": "Alcyone, the Vengeful Sorceress",
+            "title_japanese": "執念の魔操士 アルシオーネ",
+            "title_romanji": "Shuunen no Masoushi Alcyone ",
+            "aired": "1994-11-07T00:00:00+00:00",
+            "score": 4.36,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=118531"
+        },
+        {
+            "mal_id": 5,
+            "url": "https://myanimelist.net/anime/435/Magic_Knight_Rayearth/episode/5",
+            "title": "Escudo, the Legendary Ore",
+            "title_japanese": "伝説の鉱物 エスクード",
+            "title_romanji": "Densetsu no Koubutsu Escudo ",
+            "aired": "1994-11-14T00:00:00+00:00",
+            "score": 4.35,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=119153"
+        },
+        {
+            "mal_id": 6,
+            "url": "https://myanimelist.net/anime/435/Magic_Knight_Rayearth/episode/6",
+            "title": "Lives at Stake: Presea's Weapons",
+            "title_japanese": "命をかけたプレセアの武器",
+            "title_romanji": "Inochi wo Kaketa Presea no Buki ",
+            "aired": "1994-11-21T00:00:00+00:00",
+            "score": 4.2,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=119520"
+        },
+        {
+            "mal_id": 7,
+            "url": "https://myanimelist.net/anime/435/Magic_Knight_Rayearth/episode/7",
+            "title": "Ferio in Desperation: A Romance in the Desert",
+            "title_japanese": "捨て身のフェリオ砂漠の恋",
+            "title_romanji": "Sutemi no Ferio Sabaku no Koi ",
+            "aired": "1994-11-28T00:00:00+00:00",
+            "score": 4.32,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=122292"
+        },
+        {
+            "mal_id": 8,
+            "url": "https://myanimelist.net/anime/435/Magic_Knight_Rayearth/episode/8",
+            "title": "The Horrible Trap of Summoner Ascot",
+            "title_japanese": "召喚士アスコットの恐怖の罠",
+            "title_romanji": "Shoukanshi Ascot no Kyoufu no Wana ",
+            "aired": "1994-12-05T00:00:00+00:00",
+            "score": 4.21,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=679071"
+        },
+        {
+            "mal_id": 9,
+            "url": "https://myanimelist.net/anime/435/Magic_Knight_Rayearth/episode/9",
+            "title": "The Magic Knights' Greatest Crisis",
+            "title_japanese": "マジックナイト最大の危機!",
+            "title_romanji": "Magic Knight Saidai no Kiki! ",
+            "aired": "1994-12-12T00:00:00+00:00",
+            "score": 4.32,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=277711"
+        },
+        {
+            "mal_id": 10,
+            "url": "https://myanimelist.net/anime/435/Magic_Knight_Rayearth/episode/10",
+            "title": "Revival of Selece, the Legendary Rune-God",
+            "title_japanese": "よみがえる伝説の魔神セレス",
+            "title_romanji": "Yomigaeru Densetsu no Mashin Selece ",
+            "aired": "1995-01-09T00:00:00+00:00",
+            "score": 4.42,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=701207"
+        },
+        {
+            "mal_id": 11,
+            "url": "https://myanimelist.net/anime/435/Magic_Knight_Rayearth/episode/11",
+            "title": "The Legend of the Rune-Gods - In Cephiro, Another World",
+            "title_japanese": "異世界セフィーロの魔神伝説",
+            "title_romanji": "Isekai Cephiro no Mashin Densetsu ",
+            "aired": "1995-01-16T00:00:00+00:00",
+            "score": 4.29,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=278914"
+        },
+        {
+            "mal_id": 12,
+            "url": "https://myanimelist.net/anime/435/Magic_Knight_Rayearth/episode/12",
+            "title": "The Fearsome Illusionist Caldina",
+            "title_japanese": "恐るべき幻惑士 カルディナ",
+            "title_romanji": "Osorubeki Genwakushi Caldina ",
+            "aired": "1995-01-23T00:00:00+00:00",
+            "score": 4.29,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=353331"
+        },
+        {
+            "mal_id": 13,
+            "url": "https://myanimelist.net/anime/435/Magic_Knight_Rayearth/episode/13",
+            "title": "The Most Valuable Thing in this World",
+            "title_japanese": "この世界でいちばん大切なもの",
+            "title_romanji": "Kono Sekai de Ichiban Taisetsu na Mono ",
+            "aired": "1995-01-30T00:00:00+00:00",
+            "score": 4.23,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=279062"
+        },
+        {
+            "mal_id": 14,
+            "url": "https://myanimelist.net/anime/435/Magic_Knight_Rayearth/episode/14",
+            "title": "Hikaru, Umi, and Fuu's Unyielding Wish",
+            "title_japanese": "光、海、風のゆずれない願い",
+            "title_romanji": "Hikaru, Umi, Fuu no Yuzurenai Negai ",
+            "aired": "1995-02-06T00:00:00+00:00",
+            "score": 4.38,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=279226"
+        },
+        {
+            "mal_id": 15,
+            "url": "https://myanimelist.net/anime/435/Magic_Knight_Rayearth/episode/15",
+            "title": "The Second Rune-God: Windam, the Lord of the Skies",
+            "title_japanese": "第二の魔神·空神 ウィンダム",
+            "title_romanji": "Dai Ni no Mashin: Kuujin Windam ",
+            "aired": "1995-02-13T00:00:00+00:00",
+            "score": 4.31,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=279228"
+        },
+        {
+            "mal_id": 16,
+            "url": "https://myanimelist.net/anime/435/Magic_Knight_Rayearth/episode/16",
+            "title": "A Powerful Foe! Lafarga the Swordmaster",
+            "title_japanese": "強敵! 剣闘士ラファーガ",
+            "title_romanji": "Kyouteki! Kentoushi Lafarga ",
+            "aired": "1995-02-20T00:00:00+00:00",
+            "score": 4.3,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=279340"
+        },
+        {
+            "mal_id": 17,
+            "url": "https://myanimelist.net/anime/435/Magic_Knight_Rayearth/episode/17",
+            "title": "The Truth About Inouva, and the Return of Memories",
+            "title_japanese": "イノーバの正体とよみがえる記憶",
+            "title_romanji": "Inouva no Shoutai to Yomigaeru Kioku ",
+            "aired": "1995-02-27T00:00:00+00:00",
+            "score": 4.19,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=353403"
+        },
+        {
+            "mal_id": 18,
+            "url": "https://myanimelist.net/anime/435/Magic_Knight_Rayearth/episode/18",
+            "title": "The Last Rune-God: Rayearth, the Lord of Fire",
+            "title_japanese": "最後の魔神·炎神 レイアース",
+            "title_romanji": "Saigo no Mashin: Enjin Rayearth ",
+            "aired": "1995-03-06T00:00:00+00:00",
+            "score": 4.43,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=279512"
+        },
+        {
+            "mal_id": 19,
+            "url": "https://myanimelist.net/anime/435/Magic_Knight_Rayearth/episode/19",
+            "title": "Showdown! The Magic Knights Versus Zagato",
+            "title_japanese": "対決! 魔法騎士 対 ザガート",
+            "title_romanji": "Taiketsu! Mahou Kishi VS Zagato ",
+            "aired": "1995-03-13T00:00:00+00:00",
+            "score": 4.54,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=279616"
+        },
+        {
+            "mal_id": 20,
+            "url": "https://myanimelist.net/anime/435/Magic_Knight_Rayearth/episode/20",
+            "title": "The Unbelievable Truth About the Legendary Magic Knights!",
+            "title_japanese": "伝説の魔法騎士! 驚異の真実",
+            "title_romanji": "Densetsu no Mahou Kishi! Kyoui no Shinjitsu ",
+            "aired": "1995-03-13T00:00:00+00:00",
+            "score": 4.35,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=279639"
+        }
+    ]
+}

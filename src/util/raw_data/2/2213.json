@@ -1,0 +1,1018 @@
+{
+    "id": 2213,
+    "fetched_at": "Sun Dec 14 18:19:22 2025",
+    "metadata": {
+        "mal_id": 2213,
+        "url": "https://myanimelist.net/anime/2213/Black_Jack_TV",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1588/133791.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1588/133791t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1588/133791l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1588/133791.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1588/133791t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1588/133791l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Black Jack (TV)"
+            },
+            {
+                "type": "Synonym",
+                "title": "Black Jack 2004"
+            },
+            {
+                "type": "Japanese",
+                "title": "ブラックジャック"
+            },
+            {
+                "type": "Spanish",
+                "title": "Black Jack"
+            },
+            {
+                "type": "French",
+                "title": "Black Jack"
+            }
+        ],
+        "title": "Black Jack (TV)",
+        "title_english": null,
+        "title_japanese": "ブラックジャック",
+        "title_synonyms": [
+            "Black Jack 2004"
+        ],
+        "type": "TV",
+        "source": "Manga",
+        "episodes": 61,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "2004-10-11T00:00:00+00:00",
+            "to": "2006-03-06T00:00:00+00:00",
+            "prop": {
+                "from": {
+                    "day": 11,
+                    "month": 10,
+                    "year": 2004
+                },
+                "to": {
+                    "day": 6,
+                    "month": 3,
+                    "year": 2006
+                }
+            },
+            "string": "Oct 11, 2004 to Mar 6, 2006"
+        },
+        "duration": "25 min per ep",
+        "rating": "PG-13 - Teens 13 or older",
+        "score": 7.58,
+        "scored_by": 13551,
+        "rank": 1728,
+        "popularity": 3954,
+        "members": 39998,
+        "favorites": 223,
+        "synopsis": "Black Jack is an \"unregistered\" doctor with a clouded, mysterious past. He works with his little assistant Pinoko (who has a massive crush on the doctor), dealing with medical cases not very well known, which can be strange, dangerous, or not known at all. But he is a genius, and can save almost any of his patients' life (as long as they have the money for it, that is), and is known to many around the world, especially to those of medicine and science. He's a man of science himself, and does not believe much until he has seen it, yet it is many times he is surprised by love and nature often overpowering the science he bases his life in.  \n\n(Source: ANN)",
+        "background": "",
+        "season": "fall",
+        "year": 2004,
+        "broadcast": {
+            "day": "Mondays",
+            "time": "19:00",
+            "timezone": "Asia/Tokyo",
+            "string": "Mondays at 19:00 (JST)"
+        },
+        "producers": [
+            {
+                "mal_id": 76,
+                "type": "anime",
+                "name": "Yomiuri Telecasting",
+                "url": "https://myanimelist.net/anime/producer/76/Yomiuri_Telecasting"
+            }
+        ],
+        "licensors": [],
+        "studios": [
+            {
+                "mal_id": 200,
+                "type": "anime",
+                "name": "Tezuka Productions",
+                "url": "https://myanimelist.net/anime/producer/200/Tezuka_Productions"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 8,
+                "type": "anime",
+                "name": "Drama",
+                "url": "https://myanimelist.net/anime/genre/8/Drama"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [
+            {
+                "mal_id": 67,
+                "type": "anime",
+                "name": "Medical",
+                "url": "https://myanimelist.net/anime/genre/67/Medical"
+            }
+        ],
+        "demographics": [
+            {
+                "mal_id": 27,
+                "type": "anime",
+                "name": "Shounen",
+                "url": "https://myanimelist.net/anime/genre/27/Shounen"
+            }
+        ],
+        "relations": [
+            {
+                "relation": "Prequel",
+                "entry": [
+                    {
+                        "mal_id": 1373,
+                        "type": "anime",
+                        "name": "Black Jack Specials: Inochi wo Meguru Yottsu no Kiseki",
+                        "url": "https://myanimelist.net/anime/1373/Black_Jack_Specials__Inochi_wo_Meguru_Yottsu_no_Kiseki"
+                    }
+                ]
+            },
+            {
+                "relation": "Sequel",
+                "entry": [
+                    {
+                        "mal_id": 2214,
+                        "type": "anime",
+                        "name": "Black Jack 21",
+                        "url": "https://myanimelist.net/anime/2214/Black_Jack_21"
+                    }
+                ]
+            },
+            {
+                "relation": "Adaptation",
+                "entry": [
+                    {
+                        "mal_id": 1600,
+                        "type": "manga",
+                        "name": "Black Jack",
+                        "url": "https://myanimelist.net/manga/1600/Black_Jack"
+                    }
+                ]
+            },
+            {
+                "relation": "Side Story",
+                "entry": [
+                    {
+                        "mal_id": 4070,
+                        "type": "anime",
+                        "name": "Black Jack: Dr. Pinoko no Mori no Bouken",
+                        "url": "https://myanimelist.net/anime/4070/Black_Jack__Dr_Pinoko_no_Mori_no_Bouken"
+                    },
+                    {
+                        "mal_id": 1983,
+                        "type": "anime",
+                        "name": "Black Jack: Futari no Kuroi Isha",
+                        "url": "https://myanimelist.net/anime/1983/Black_Jack__Futari_no_Kuroi_Isha"
+                    },
+                    {
+                        "mal_id": 4071,
+                        "type": "anime",
+                        "name": "Black Jack (TV): Hizouban Specials",
+                        "url": "https://myanimelist.net/anime/4071/Black_Jack_TV__Hizouban_Specials"
+                    }
+                ]
+            },
+            {
+                "relation": "Spin-Off",
+                "entry": [
+                    {
+                        "mal_id": 919,
+                        "type": "anime",
+                        "name": "Ray The Animation",
+                        "url": "https://myanimelist.net/anime/919/Ray_The_Animation"
+                    }
+                ]
+            },
+            {
+                "relation": "Alternative Version",
+                "entry": [
+                    {
+                        "mal_id": 1520,
+                        "type": "anime",
+                        "name": "Black Jack",
+                        "url": "https://myanimelist.net/anime/1520/Black_Jack"
+                    },
+                    {
+                        "mal_id": 7229,
+                        "type": "anime",
+                        "name": "Black Jack ONA",
+                        "url": "https://myanimelist.net/anime/7229/Black_Jack_ONA"
+                    }
+                ]
+            },
+            {
+                "relation": "Other",
+                "entry": [
+                    {
+                        "mal_id": 18669,
+                        "type": "anime",
+                        "name": "Black Jack: Karte NG Extras",
+                        "url": "https://myanimelist.net/anime/18669/Black_Jack__Karte_NG_Extras"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [
+                "1: \"Gekkouka (月光花)\" by Janne Da Arc (eps 1-28)",
+                "2: \"Here I Am\" by globe (eps 29-51)",
+                "3: \"Fantastic\" by Ami Suzuki (eps 52-61)"
+            ],
+            "endings": [
+                "1: \"Kuroge Wagyuu Kamishio Tanyaki 680 En (黒毛和牛上塩タン焼680円)\" by Ai Ootsuka (eps 1-28)",
+                "2: \"Clover\" by hiro (eps 29-51)",
+                "3: \"Careless Breath\" by EXILE (eps 52-61)"
+            ]
+        },
+        "external": [
+            {
+                "name": "Official Site",
+                "url": "http://www.ytv.co.jp/bj/"
+            },
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=2389"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=4408"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "http://en.wikipedia.org/wiki/Black_Jack_(manga)"
+            }
+        ],
+        "streaming": [
+            {
+                "name": "Crunchyroll",
+                "url": "http://www.crunchyroll.com/series-52948"
+            },
+            {
+                "name": "Shahid",
+                "url": "https://shahid.mbc.net/en/series/Black-Jack/series-913754"
+            },
+            {
+                "name": "Tubi TV",
+                "url": "https://tubitv.com/series/4135/black-jack"
+            }
+        ]
+    },
+    "episodes": [
+        {
+            "mal_id": 1,
+            "url": "https://myanimelist.net/anime/2213/Black_Jack_TV/episode/1",
+            "title": "The Order of Operations / The Vanished Needle",
+            "title_japanese": "オペの順番 / 消えた針",
+            "title_romanji": "Ope no Junban / Kieta Hari ",
+            "aired": "2004-10-11T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=424771"
+        },
+        {
+            "mal_id": 2,
+            "url": "https://myanimelist.net/anime/2213/Black_Jack_TV/episode/2",
+            "title": "The Ant's Legs",
+            "title_japanese": "アリの足",
+            "title_romanji": "Ari no Ashi ",
+            "aired": "2004-10-18T00:00:00+00:00",
+            "score": 4.13,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=429225"
+        },
+        {
+            "mal_id": 3,
+            "url": "https://myanimelist.net/anime/2213/Black_Jack_TV/episode/3",
+            "title": "Thieving Dog",
+            "title_japanese": "ひったくり犬",
+            "title_romanji": "Hittakuri Inu ",
+            "aired": "2006-07-17T00:00:00+00:00",
+            "score": 3.79,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=443543"
+        },
+        {
+            "mal_id": 4,
+            "url": "https://myanimelist.net/anime/2213/Black_Jack_TV/episode/4",
+            "title": "Playing Doctor",
+            "title_japanese": "お医者さんごっこ",
+            "title_romanji": "Oisha san Gokko ",
+            "aired": "2004-11-01T00:00:00+00:00",
+            "score": 4.22,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1467162"
+        },
+        {
+            "mal_id": 5,
+            "url": "https://myanimelist.net/anime/2213/Black_Jack_TV/episode/5",
+            "title": "The Sixth-Magnitude Man",
+            "title_japanese": "六等星の男",
+            "title_romanji": "Rokutousei no Otoko ",
+            "aired": "2004-11-08T00:00:00+00:00",
+            "score": 4.5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=475087"
+        },
+        {
+            "mal_id": 6,
+            "url": "https://myanimelist.net/anime/2213/Black_Jack_TV/episode/6",
+            "title": "A Teacher and a Pupil",
+            "title_japanese": "ある教師と生徒",
+            "title_romanji": "Aru Kyoshi to Seito ",
+            "aired": "2004-11-15T00:00:00+00:00",
+            "score": 4.58,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1383397"
+        },
+        {
+            "mal_id": 7,
+            "url": "https://myanimelist.net/anime/2213/Black_Jack_TV/episode/7",
+            "title": "White Lion",
+            "title_japanese": "白いライオン",
+            "title_romanji": "Shiroi Lion ",
+            "aired": "2004-11-22T00:00:00+00:00",
+            "score": 3.44,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1467547"
+        },
+        {
+            "mal_id": 8,
+            "url": "https://myanimelist.net/anime/2213/Black_Jack_TV/episode/8",
+            "title": "The Miracle Arms",
+            "title_japanese": "奇跡の腕",
+            "title_romanji": "Kiseki no Ude ",
+            "aired": "2004-11-29T00:00:00+00:00",
+            "score": 4.6,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1105513"
+        },
+        {
+            "mal_id": 9,
+            "url": "https://myanimelist.net/anime/2213/Black_Jack_TV/episode/9",
+            "title": "Drawing Water",
+            "title_japanese": "もらい水",
+            "title_romanji": "Moraimizu ",
+            "aired": "2004-12-06T00:00:00+00:00",
+            "score": 3.91,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1383705"
+        },
+        {
+            "mal_id": 10,
+            "url": "https://myanimelist.net/anime/2213/Black_Jack_TV/episode/10",
+            "title": "Legend of the Phoenix",
+            "title_japanese": "火の鳥伝説",
+            "title_romanji": "Hi no Tori Densetsu ",
+            "aired": "2004-12-13T00:00:00+00:00",
+            "score": 3.71,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1383712"
+        },
+        {
+            "mal_id": 11,
+            "url": "https://myanimelist.net/anime/2213/Black_Jack_TV/episode/11",
+            "title": "Gift from a Killer Whale",
+            "title_japanese": "シャチの贈りもの",
+            "title_romanji": "Shachi no Okurimono ",
+            "aired": "2005-01-17T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=416303"
+        },
+        {
+            "mal_id": 12,
+            "url": "https://myanimelist.net/anime/2213/Black_Jack_TV/episode/12",
+            "title": "Give My Brother Back To Me!",
+            "title_japanese": "にいちゃんを返せ!",
+            "title_romanji": "Nii-chan wo Kaese! ",
+            "aired": "2005-01-24T00:00:00+00:00",
+            "score": 3.6,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1384903"
+        },
+        {
+            "mal_id": 13,
+            "url": "https://myanimelist.net/anime/2213/Black_Jack_TV/episode/13",
+            "title": "A Pirate's Arm",
+            "title_japanese": "海賊の腕",
+            "title_romanji": "Kaizoku no Ude ",
+            "aired": "2005-01-31T00:00:00+00:00",
+            "score": 3.43,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1468468"
+        },
+        {
+            "mal_id": 14,
+            "url": "https://myanimelist.net/anime/2213/Black_Jack_TV/episode/14",
+            "title": "Solomon, Move!",
+            "title_japanese": "動けソロモン",
+            "title_romanji": "Ugoke Solomon ",
+            "aired": "2005-02-07T00:00:00+00:00",
+            "score": 4.17,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1384915"
+        },
+        {
+            "mal_id": 15,
+            "url": "https://myanimelist.net/anime/2213/Black_Jack_TV/episode/15",
+            "title": "The Fake Wedding",
+            "title_japanese": "偽りのウエディング",
+            "title_romanji": "Itsuwari no Wedding ",
+            "aired": "2005-02-14T00:00:00+00:00",
+            "score": 3.78,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1468498"
+        },
+        {
+            "mal_id": 16,
+            "url": "https://myanimelist.net/anime/2213/Black_Jack_TV/episode/16",
+            "title": "Gone Pinoko!",
+            "title_japanese": "ピノコ行方不明",
+            "title_romanji": "Pinoko Yukuefumei ",
+            "aired": "2005-02-21T00:00:00+00:00",
+            "score": 3.36,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1468512"
+        },
+        {
+            "mal_id": 17,
+            "url": "https://myanimelist.net/anime/2213/Black_Jack_TV/episode/17",
+            "title": "The Voiceless Idol",
+            "title_japanese": "声を失ったアイドル",
+            "title_romanji": "Koe wo Ushinatta Idol ",
+            "aired": "2005-02-28T00:00:00+00:00",
+            "score": 3.6,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1468518"
+        },
+        {
+            "mal_id": 18,
+            "url": "https://myanimelist.net/anime/2213/Black_Jack_TV/episode/18",
+            "title": "Friendship by Mail",
+            "title_japanese": "メールの友情",
+            "title_romanji": "Mail no Yuujou ",
+            "aired": "2005-03-07T00:00:00+00:00",
+            "score": 4.2,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1447790"
+        },
+        {
+            "mal_id": 19,
+            "url": "https://myanimelist.net/anime/2213/Black_Jack_TV/episode/19",
+            "title": "The Tale of the Kowa Clinic",
+            "title_japanese": "がんばれ古和医院",
+            "title_romanji": "Ganbare, Kowa Iin ",
+            "aired": "2005-03-14T00:00:00+00:00",
+            "score": 4.13,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1468578"
+        },
+        {
+            "mal_id": 20,
+            "url": "https://myanimelist.net/anime/2213/Black_Jack_TV/episode/20",
+            "title": "Yamanote Tetsu",
+            "title_japanese": "山手線の哲",
+            "title_romanji": "Yamanotesen no Tetsu ",
+            "aired": "2005-03-21T00:00:00+00:00",
+            "score": 4.33,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=419887"
+        },
+        {
+            "mal_id": 21,
+            "url": "https://myanimelist.net/anime/2213/Black_Jack_TV/episode/21",
+            "title": "Hints of Spring",
+            "title_japanese": "春一番",
+            "title_romanji": "Haru Ichiban ",
+            "aired": "2005-04-11T00:00:00+00:00",
+            "score": 3.38,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1468588"
+        },
+        {
+            "mal_id": 22,
+            "url": "https://myanimelist.net/anime/2213/Black_Jack_TV/episode/22",
+            "title": "Pinoko's Grown-Up Plans",
+            "title_japanese": "ピノコ大人計画",
+            "title_romanji": "Pinoko Otona Keikaku ",
+            "aired": "2005-04-11T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1468590"
+        },
+        {
+            "mal_id": 23,
+            "url": "https://myanimelist.net/anime/2213/Black_Jack_TV/episode/23",
+            "title": "Love in the Storm",
+            "title_japanese": "土砂降りのち恋",
+            "title_romanji": "Doshaburi Nochi Koi ",
+            "aired": "2005-04-18T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1468599"
+        },
+        {
+            "mal_id": 24,
+            "url": "https://myanimelist.net/anime/2213/Black_Jack_TV/episode/24",
+            "title": "A Challenge Called Nadare",
+            "title_japanese": "ナダレという挑戦",
+            "title_romanji": "Nadare to Iu Chousen ",
+            "aired": "2005-04-25T00:00:00+00:00",
+            "score": 3.75,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1468613"
+        },
+        {
+            "mal_id": 25,
+            "url": "https://myanimelist.net/anime/2213/Black_Jack_TV/episode/25",
+            "title": "The Cholera Epidemic",
+            "title_japanese": "コレラ騒ぎ",
+            "title_romanji": "Korera Sawagi ",
+            "aired": "2005-05-02T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1468616"
+        },
+        {
+            "mal_id": 26,
+            "url": "https://myanimelist.net/anime/2213/Black_Jack_TV/episode/26",
+            "title": "Abacus Genius",
+            "title_japanese": "そろばんの天才",
+            "title_romanji": "Soroban no Tensai ",
+            "aired": "2005-05-09T00:00:00+00:00",
+            "score": 4.1,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1468619"
+        },
+        {
+            "mal_id": 27,
+            "url": "https://myanimelist.net/anime/2213/Black_Jack_TV/episode/27",
+            "title": "Tragedy of a High Technology Room",
+            "title_japanese": "最先端ルームの悲劇",
+            "title_romanji": "Saisentan Room no Higeki ",
+            "aired": "2005-05-16T00:00:00+00:00",
+            "score": 4.44,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1468736"
+        },
+        {
+            "mal_id": 28,
+            "url": "https://myanimelist.net/anime/2213/Black_Jack_TV/episode/28",
+            "title": "Wilderness Epidemic",
+            "title_japanese": "荒野の伝染病",
+            "title_romanji": "Kouya no Densen Byou ",
+            "aired": "2005-05-23T00:00:00+00:00",
+            "score": 4.63,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=448829"
+        },
+        {
+            "mal_id": 29,
+            "url": null,
+            "title": "Arranging the Flower of Life",
+            "title_japanese": "命を生ける花",
+            "title_romanji": "Inochi wo Ikeru Hana ",
+            "aired": "2005-05-30T00:00:00+00:00",
+            "score": 4.29,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1468797"
+        },
+        {
+            "mal_id": 30,
+            "url": null,
+            "title": "The Operation at the Thunderstorm",
+            "title_japanese": "雷雲の中のオペ",
+            "title_romanji": "Raiun no Naka no Ope ",
+            "aired": "2005-06-06T00:00:00+00:00",
+            "score": 3.33,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1385065"
+        },
+        {
+            "mal_id": 31,
+            "url": null,
+            "title": "Intimidation in the Twentieth Year",
+            "title_japanese": "20年目の暗示",
+            "title_romanji": "20-nenme no Anji ",
+            "aired": "2005-05-13T00:00:00+00:00",
+            "score": 3.8,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1468867"
+        },
+        {
+            "mal_id": 32,
+            "url": null,
+            "title": "The Terror of the Azure Sea",
+            "title_japanese": "青い海の恐怖",
+            "title_romanji": "Aoi Umi no Kyoufu ",
+            "aired": "2005-06-20T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1468870"
+        },
+        {
+            "mal_id": 33,
+            "url": null,
+            "title": "An Invader from the Sky",
+            "title_japanese": "空からの侵略者",
+            "title_romanji": "Sora kara no Shinryakusha ",
+            "aired": "2005-06-27T00:00:00+00:00",
+            "score": 4.17,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=168452"
+        },
+        {
+            "mal_id": 34,
+            "url": null,
+            "title": "Shaky Operating Room",
+            "title_japanese": "揺れる手術室",
+            "title_romanji": "Yureru Shujutsu Shitsu ",
+            "aired": "2005-07-04T00:00:00+00:00",
+            "score": 3.5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=168467"
+        },
+        {
+            "mal_id": 35,
+            "url": null,
+            "title": "Hijack the Hospital",
+            "title_japanese": "病院ジャック",
+            "title_romanji": "Byouin Jack ",
+            "aired": "2005-07-11T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=168468"
+        },
+        {
+            "mal_id": 36,
+            "url": null,
+            "title": "The House on the Cape is Incomplete",
+            "title_japanese": "岬の家は未完成",
+            "title_romanji": "Misaki no Uchi wa Mikansei ",
+            "aired": "2005-07-18T00:00:00+00:00",
+            "score": 4.2,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=168475"
+        },
+        {
+            "mal_id": 37,
+            "url": null,
+            "title": "The Dolphin and the Pirates",
+            "title_japanese": "イルカと強盗団",
+            "title_romanji": "Iruka to Goutou Dan ",
+            "aired": "2005-08-01T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=168485"
+        },
+        {
+            "mal_id": 38,
+            "url": null,
+            "title": "A Challenge from the Unknown",
+            "title_japanese": "未知なる者への挑戦",
+            "title_romanji": "Mishinaru Mono e no Chousen ",
+            "aired": "2005-08-08T00:00:00+00:00",
+            "score": 2.86,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=168491"
+        },
+        {
+            "mal_id": 39,
+            "url": null,
+            "title": "The War Continues",
+            "title_japanese": "戦争はなおも続く",
+            "title_romanji": "Sensou wa Naomo Tsuzuku ",
+            "aired": "2005-08-15T00:00:00+00:00",
+            "score": 3.88,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=168498"
+        },
+        {
+            "mal_id": 40,
+            "url": null,
+            "title": "The Mannequin and the Police",
+            "title_japanese": "人形と警官",
+            "title_romanji": "Ningyou to Keikan ",
+            "aired": "2005-08-22T00:00:00+00:00",
+            "score": 3.71,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=199250"
+        },
+        {
+            "mal_id": 41,
+            "url": null,
+            "title": "The Miracle of a Movie and of Operation",
+            "title_japanese": "オペと映画の奇跡",
+            "title_romanji": "Ope to Eiga no Kiseki ",
+            "aired": "2005-08-29T00:00:00+00:00",
+            "score": 4.29,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=199258"
+        },
+        {
+            "mal_id": 42,
+            "url": null,
+            "title": "Life's Wrong Diagnosis",
+            "title_japanese": "人生の誤診",
+            "title_romanji": "Jinsei no Goshin ",
+            "aired": "2005-09-05T00:00:00+00:00",
+            "score": 4.63,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1469315"
+        },
+        {
+            "mal_id": 43,
+            "url": null,
+            "title": "Shrinkage!",
+            "title_japanese": "ちぢむ",
+            "title_romanji": "Chijimu ",
+            "aired": "2005-09-12T00:00:00+00:00",
+            "score": 2.71,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1111693"
+        },
+        {
+            "mal_id": 44,
+            "url": null,
+            "title": "Pinoko was Born",
+            "title_japanese": "ピノコ誕生",
+            "title_romanji": "Pinoko Tanjou ",
+            "aired": "2005-10-10T00:00:00+00:00",
+            "score": 4.11,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=706461"
+        },
+        {
+            "mal_id": 45,
+            "url": null,
+            "title": "A Classmate who Loves to Laugh",
+            "title_japanese": "笑い上戸の同級生",
+            "title_romanji": "Warai Jougo no Doukyuusei ",
+            "aired": "2005-10-17T00:00:00+00:00",
+            "score": 4.1,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1469706"
+        },
+        {
+            "mal_id": 46,
+            "url": null,
+            "title": "The Bodyguard at the Festival",
+            "title_japanese": "文化祭の用心棒",
+            "title_romanji": "Bunkasai no Youjinbou ",
+            "aired": "2005-10-24T00:00:00+00:00",
+            "score": 3.71,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1469883"
+        },
+        {
+            "mal_id": 47,
+            "url": null,
+            "title": "A Violin from a Snowfall",
+            "title_japanese": "雪原のヴァイオリン",
+            "title_romanji": "Setsugen no Violin ",
+            "aired": "2005-10-31T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1469896"
+        },
+        {
+            "mal_id": 48,
+            "url": null,
+            "title": "The Robin and the Boy",
+            "title_japanese": "コマドリの少年",
+            "title_romanji": "Komadori no Shounen ",
+            "aired": "2005-11-07T00:00:00+00:00",
+            "score": 3.67,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1469904"
+        },
+        {
+            "mal_id": 49,
+            "url": null,
+            "title": "The Voice of a Distorted Face",
+            "title_japanese": "そう)の本音",
+            "title_romanji": "Jinmensou no Honne (人面瘡",
+            "aired": "2005-11-14T00:00:00+00:00",
+            "score": 3.67,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1469913"
+        },
+        {
+            "mal_id": 50,
+            "url": null,
+            "title": "The Brothers that were Separated",
+            "title_japanese": "引き裂かれた兄弟",
+            "title_romanji": "Hiki Sakareta Kyoudai ",
+            "aired": "2005-11-21T00:00:00+00:00",
+            "score": 3.67,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1469921"
+        },
+        {
+            "mal_id": 51,
+            "url": null,
+            "title": "The Infamous Acupuncturist",
+            "title_japanese": "噂の座頭医師",
+            "title_romanji": "Uwasa no Zatouishi ",
+            "aired": "2005-11-28T00:00:00+00:00",
+            "score": 3.67,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=438265"
+        },
+        {
+            "mal_id": 52,
+            "url": null,
+            "title": "The Moment of Witness",
+            "title_japanese": "一瞬の目撃者",
+            "title_romanji": "Isshun no Mokugekisha ",
+            "aired": "2005-12-05T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=199443"
+        },
+        {
+            "mal_id": 53,
+            "url": null,
+            "title": "Locker's Cradle",
+            "title_japanese": "ロッカーのゆりかご",
+            "title_romanji": "Locker no Yurikago ",
+            "aired": "2005-12-19T00:00:00+00:00",
+            "score": 4.2,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1386079"
+        },
+        {
+            "mal_id": 54,
+            "url": null,
+            "title": "The Fortunes And Misfortunes Of The Deceitful Parent And Child",
+            "title_japanese": "偽り親子の幸運不運",
+            "title_romanji": "Itsuwari Oyako no Kouun Fuun ",
+            "aired": "2006-01-16T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=440915"
+        },
+        {
+            "mal_id": 55,
+            "url": null,
+            "title": "The Platform Of Life",
+            "title_japanese": "命のプラットホーム",
+            "title_romanji": "Inochi no Platform ",
+            "aired": "2006-01-23T00:00:00+00:00",
+            "score": 3.2,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1112547"
+        },
+        {
+            "mal_id": 56,
+            "url": null,
+            "title": "The Skin Donor",
+            "title_japanese": "縫い目皮膚の提供者",
+            "title_romanji": "Nuime Hifu no Teikyousha ",
+            "aired": "2006-01-30T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=442455"
+        },
+        {
+            "mal_id": 57,
+            "url": null,
+            "title": "Pinoko's Exam Diary",
+            "title_japanese": "ピノコのお受験日記",
+            "title_romanji": "Pinoko no Ojuken Nikki ",
+            "aired": "2006-02-06T00:00:00+00:00",
+            "score": 3.4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1386403"
+        },
+        {
+            "mal_id": 58,
+            "url": null,
+            "title": "The Old Man And The Big Tree",
+            "title_japanese": "老人と大木",
+            "title_romanji": "Roujin to Taiboku ",
+            "aired": "2006-02-13T00:00:00+00:00",
+            "score": 3.4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1470780"
+        },
+        {
+            "mal_id": 59,
+            "url": null,
+            "title": "Black Queen",
+            "title_japanese": "ブラッククィーン",
+            "title_romanji": "Black Queen ",
+            "aired": "2006-02-20T00:00:00+00:00",
+            "score": 3.14,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1470806"
+        },
+        {
+            "mal_id": 60,
+            "url": null,
+            "title": "The Encounter Between The Two With A Past",
+            "title_japanese": "過去のある二人めぐり逢い",
+            "title_romanji": "Kako Aru Futari Meguriai ",
+            "aired": "2006-02-27T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1112647"
+        },
+        {
+            "mal_id": 61,
+            "url": null,
+            "title": "The Two Pinokos",
+            "title_japanese": "二人のピノコ",
+            "title_romanji": "Futari no Pinoko ",
+            "aired": "2006-03-06T00:00:00+00:00",
+            "score": 3.93,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=242102"
+        }
+    ]
+}

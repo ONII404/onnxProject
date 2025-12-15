@@ -1,0 +1,170 @@
+{
+    "id": 3874,
+    "fetched_at": "Sun Dec 14 20:43:46 2025",
+    "metadata": {
+        "mal_id": 3874,
+        "url": "https://myanimelist.net/anime/3874/Ashita_e_Free_Kick",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1876/147841.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1876/147841t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1876/147841l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1876/147841.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1876/147841t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1876/147841l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Ashita e Free Kick"
+            },
+            {
+                "type": "Synonym",
+                "title": "Free Kick Toward Tomorrow"
+            },
+            {
+                "type": "Japanese",
+                "title": "あしたへフリーキック"
+            }
+        ],
+        "title": "Ashita e Free Kick",
+        "title_english": null,
+        "title_japanese": "あしたへフリーキック",
+        "title_synonyms": [
+            "Free Kick Toward Tomorrow"
+        ],
+        "type": "TV",
+        "source": "Original",
+        "episodes": 52,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "1992-04-14T00:00:00+00:00",
+            "to": "1993-04-24T00:00:00+00:00",
+            "prop": {
+                "from": {
+                    "day": 14,
+                    "month": 4,
+                    "year": 1992
+                },
+                "to": {
+                    "day": 24,
+                    "month": 4,
+                    "year": 1993
+                }
+            },
+            "string": "Apr 14, 1992 to Apr 24, 1993"
+        },
+        "duration": "23 min per ep",
+        "rating": "PG-13 - Teens 13 or older",
+        "score": 6.45,
+        "scored_by": 832,
+        "rank": 7625,
+        "popularity": 11633,
+        "members": 2511,
+        "favorites": 6,
+        "synopsis": "Shun Godai is a young boy who likes soccer. But his grandfather, a successful businessman, want his grandson to follow his path...",
+        "background": "",
+        "season": "spring",
+        "year": 1992,
+        "broadcast": {
+            "day": "Tuesdays",
+            "time": "17:00",
+            "timezone": "Asia/Tokyo",
+            "string": "Tuesdays at 17:00 (JST)"
+        },
+        "producers": [
+            {
+                "mal_id": 242,
+                "type": "anime",
+                "name": "Ashi Productions",
+                "url": "https://myanimelist.net/anime/producer/242/Ashi_Productions"
+            }
+        ],
+        "licensors": [],
+        "studios": [
+            {
+                "mal_id": 196,
+                "type": "anime",
+                "name": "Production Reed",
+                "url": "https://myanimelist.net/anime/producer/196/Production_Reed"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 30,
+                "type": "anime",
+                "name": "Sports",
+                "url": "https://myanimelist.net/anime/genre/30/Sports"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [
+            {
+                "mal_id": 77,
+                "type": "anime",
+                "name": "Team Sports",
+                "url": "https://myanimelist.net/anime/genre/77/Team_Sports"
+            }
+        ],
+        "demographics": [],
+        "relations": [],
+        "theme": {
+            "openings": [
+                "\"Get My Goal\" by Takeshi Kusao"
+            ],
+            "endings": [
+                "\"Ashita wa Good Luck (明日はグッドラック)\" by Takeshi Kusao"
+            ]
+        },
+        "external": [
+            {
+                "name": "Official Site",
+                "url": "http://www.pro-reed.com/works/tv_series/w025.html"
+            },
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=3077"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=1182"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "http://ja.wikipedia.org/wiki/%E3%81%82%E3%81%97%E3%81%9F%E3%81%B8%E3%83%95%E3%83%AA%E3%83%BC%E3%82%AD%E3%83%83%E3%82%AF"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": [
+        {
+            "mal_id": 1,
+            "url": null,
+            "title": "Godai Resort",
+            "title_japanese": "ゴダイリゾート",
+            "title_romanji": "Godai Resort ",
+            "aired": "1992-04-14T00:00:00+00:00",
+            "score": 4.17,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1341815"
+        }
+    ]
+}

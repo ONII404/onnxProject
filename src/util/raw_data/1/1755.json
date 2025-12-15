@@ -1,0 +1,195 @@
+{
+    "id": 1755,
+    "fetched_at": "Sun Dec 14 16:49:37 2025",
+    "metadata": {
+        "mal_id": 1755,
+        "url": "https://myanimelist.net/anime/1755/Di_Gi_Charat_Ohanami_Special",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1633/135405.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1633/135405t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1633/135405l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1633/135405.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1633/135405t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1633/135405l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Di Gi Charat Ohanami Special"
+            },
+            {
+                "type": "Synonym",
+                "title": "DiGi Charat Ohanami Special"
+            },
+            {
+                "type": "Japanese",
+                "title": "Di Gi Charat お花見すぺしゃる"
+            }
+        ],
+        "title": "Di Gi Charat Ohanami Special",
+        "title_english": null,
+        "title_japanese": "Di Gi Charat お花見すぺしゃる",
+        "title_synonyms": [
+            "DiGi Charat Ohanami Special"
+        ],
+        "type": "Special",
+        "source": "Original",
+        "episodes": 4,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "2001-04-06T00:00:00+00:00",
+            "to": null,
+            "prop": {
+                "from": {
+                    "day": 6,
+                    "month": 4,
+                    "year": 2001
+                },
+                "to": {
+                    "day": null,
+                    "month": null,
+                    "year": null
+                }
+            },
+            "string": "Apr 6, 2001"
+        },
+        "duration": "10 min per ep",
+        "rating": "G - All Ages",
+        "score": 6.74,
+        "scored_by": 2010,
+        "rank": 5857,
+        "popularity": 9909,
+        "members": 4166,
+        "favorites": 2,
+        "synopsis": "The Ohamami Special consisted of four independent episodes of Di Gi Charat with no continuation that aired in Spring 2001 in Japan.\n\n• Ohanami Special Episode 1 - The Evil Settles Down  \n• Ohanami Special Episode 2 - Sakura Sakura\n• Ohanami Special Episode 3 - Long Haired Onii-san-nyu\n• Ohanami Special Episode 4 - Don't Call me Rabi-en-Rose  \n\n(Source: AniDB &amp; Wikipedia)",
+        "background": "",
+        "season": null,
+        "year": null,
+        "broadcast": {
+            "day": null,
+            "time": null,
+            "timezone": null,
+            "string": null
+        },
+        "producers": [
+            {
+                "mal_id": 145,
+                "type": "anime",
+                "name": "TBS",
+                "url": "https://myanimelist.net/anime/producer/145/TBS"
+            },
+            {
+                "mal_id": 3098,
+                "type": "anime",
+                "name": "Aquatone",
+                "url": "https://myanimelist.net/anime/producer/3098/Aquatone"
+            }
+        ],
+        "licensors": [
+            {
+                "mal_id": 376,
+                "type": "anime",
+                "name": "Sentai Filmworks",
+                "url": "https://myanimelist.net/anime/producer/376/Sentai_Filmworks"
+            }
+        ],
+        "studios": [
+            {
+                "mal_id": 11,
+                "type": "anime",
+                "name": "Madhouse",
+                "url": "https://myanimelist.net/anime/producer/11/Madhouse"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 4,
+                "type": "anime",
+                "name": "Comedy",
+                "url": "https://myanimelist.net/anime/genre/4/Comedy"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [],
+        "demographics": [],
+        "relations": [
+            {
+                "relation": "Prequel",
+                "entry": [
+                    {
+                        "mal_id": 1757,
+                        "type": "anime",
+                        "name": "Di Gi Charat Christmas Special",
+                        "url": "https://myanimelist.net/anime/1757/Di_Gi_Charat_Christmas_Special"
+                    }
+                ]
+            },
+            {
+                "relation": "Sequel",
+                "entry": [
+                    {
+                        "mal_id": 1756,
+                        "type": "anime",
+                        "name": "Di Gi Charat Natsuyasumi Special",
+                        "url": "https://myanimelist.net/anime/1756/Di_Gi_Charat_Natsuyasumi_Special"
+                    }
+                ]
+            },
+            {
+                "relation": "Parent Story",
+                "entry": [
+                    {
+                        "mal_id": 293,
+                        "type": "anime",
+                        "name": "Di Gi Charat",
+                        "url": "https://myanimelist.net/anime/293/Di_Gi_Charat"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [
+                "\"Megami ni Naritai ~for a yours~ (女神になりたい ~for a yours~)\" by Masami Okui"
+            ],
+            "endings": []
+        },
+        "external": [
+            {
+                "name": "Official Site",
+                "url": "http://www.broccoli.co.jp/dejiko/anime.html"
+            },
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=553"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=3299"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "http://en.wikipedia.org/wiki/Di_Gi_Charat#Specials"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": []
+}

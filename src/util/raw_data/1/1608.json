@@ -1,0 +1,453 @@
+{
+    "id": 1608,
+    "fetched_at": "Sun Dec 14 16:36:48 2025",
+    "metadata": {
+        "mal_id": 1608,
+        "url": "https://myanimelist.net/anime/1608/Salaryman_Kintarou",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/8/62593.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/8/62593t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/8/62593l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/8/62593.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/8/62593t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/8/62593l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Salaryman Kintarou"
+            },
+            {
+                "type": "Japanese",
+                "title": "サラリーマン金太郎"
+            }
+        ],
+        "title": "Salaryman Kintarou",
+        "title_english": null,
+        "title_japanese": "サラリーマン金太郎",
+        "title_synonyms": [],
+        "type": "TV",
+        "source": "Manga",
+        "episodes": 20,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "2001-02-18T00:00:00+00:00",
+            "to": "2001-03-18T00:00:00+00:00",
+            "prop": {
+                "from": {
+                    "day": 18,
+                    "month": 2,
+                    "year": 2001
+                },
+                "to": {
+                    "day": 18,
+                    "month": 3,
+                    "year": 2001
+                }
+            },
+            "string": "Feb 18, 2001 to Mar 18, 2001"
+        },
+        "duration": "25 min per ep",
+        "rating": "R+ - Mild Nudity",
+        "score": 7.42,
+        "scored_by": 3440,
+        "rank": 2353,
+        "popularity": 6741,
+        "members": 11249,
+        "favorites": 38,
+        "synopsis": "The story follows Kintaro, former leader of a widely feared and respected biker gang, who decides that its time to \"straighten out\" and become a \"salaryman\" since his wife died and he has to take care of his young son.\n\n(Source: AniDB)",
+        "background": "",
+        "season": "winter",
+        "year": 2001,
+        "broadcast": {
+            "day": null,
+            "time": null,
+            "timezone": null,
+            "string": "Unknown"
+        },
+        "producers": [
+            {
+                "mal_id": 23,
+                "type": "anime",
+                "name": "Bandai Visual",
+                "url": "https://myanimelist.net/anime/producer/23/Bandai_Visual"
+            },
+            {
+                "mal_id": 145,
+                "type": "anime",
+                "name": "TBS",
+                "url": "https://myanimelist.net/anime/producer/145/TBS"
+            },
+            {
+                "mal_id": 1185,
+                "type": "anime",
+                "name": "81 Produce",
+                "url": "https://myanimelist.net/anime/producer/1185/81_Produce"
+            },
+            {
+                "mal_id": 1365,
+                "type": "anime",
+                "name": "Shueisha",
+                "url": "https://myanimelist.net/anime/producer/1365/Shueisha"
+            },
+            {
+                "mal_id": 2261,
+                "type": "anime",
+                "name": "Arts Magic",
+                "url": "https://myanimelist.net/anime/producer/2261/Arts_Magic"
+            }
+        ],
+        "licensors": [],
+        "studios": [
+            {
+                "mal_id": 1435,
+                "type": "anime",
+                "name": "JCF",
+                "url": "https://myanimelist.net/anime/producer/1435/JCF"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 1,
+                "type": "anime",
+                "name": "Action",
+                "url": "https://myanimelist.net/anime/genre/1/Action"
+            },
+            {
+                "mal_id": 4,
+                "type": "anime",
+                "name": "Comedy",
+                "url": "https://myanimelist.net/anime/genre/4/Comedy"
+            },
+            {
+                "mal_id": 8,
+                "type": "anime",
+                "name": "Drama",
+                "url": "https://myanimelist.net/anime/genre/8/Drama"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [
+            {
+                "mal_id": 50,
+                "type": "anime",
+                "name": "Adult Cast",
+                "url": "https://myanimelist.net/anime/genre/50/Adult_Cast"
+            },
+            {
+                "mal_id": 17,
+                "type": "anime",
+                "name": "Martial Arts",
+                "url": "https://myanimelist.net/anime/genre/17/Martial_Arts"
+            }
+        ],
+        "demographics": [
+            {
+                "mal_id": 42,
+                "type": "anime",
+                "name": "Seinen",
+                "url": "https://myanimelist.net/anime/genre/42/Seinen"
+            }
+        ],
+        "relations": [
+            {
+                "relation": "Adaptation",
+                "entry": [
+                    {
+                        "mal_id": 10611,
+                        "type": "manga",
+                        "name": "Salaryman Kintarou",
+                        "url": "https://myanimelist.net/manga/10611/Salaryman_Kintarou"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [
+                "\"Jikuu ~Toki no Sora~\" by Yumi Matsuzawa"
+            ],
+            "endings": [
+                "\"Heaven ~Boku no Naka no Tengoku~\" by Norishige Takahashi"
+            ]
+        },
+        "external": [
+            {
+                "name": "Official Site",
+                "url": "http://www.showtime.jp/animation/kintaro/"
+            },
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=850"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=1759"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "http://en.wikipedia.org/wiki/Salaryman_Kintar%C5%8D"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": [
+        {
+            "mal_id": 1,
+            "url": null,
+            "title": "Kintarou Enters the Company",
+            "title_japanese": "金太郎、入社する",
+            "title_romanji": "Kintarou Nyuushasuru ",
+            "aired": "2001-02-18T00:00:00+00:00",
+            "score": 4.27,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=722877"
+        },
+        {
+            "mal_id": 2,
+            "url": null,
+            "title": "Kintarou has Fought Again",
+            "title_japanese": "金太郎、喧嘩する",
+            "title_romanji": "Kintarou Kenkasuru ",
+            "aired": "2001-02-18T00:00:00+00:00",
+            "score": 4.71,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=722901"
+        },
+        {
+            "mal_id": 3,
+            "url": null,
+            "title": "Kintarou Moves Others!",
+            "title_japanese": "金太郎、女心を揺らす",
+            "title_romanji": "Kintarou Onnagokoro wo Yurasu ",
+            "aired": "2001-02-18T00:00:00+00:00",
+            "score": 4.6,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=722925"
+        },
+        {
+            "mal_id": 4,
+            "url": null,
+            "title": "Full Start of Kintarou's Racing",
+            "title_japanese": "金太郎、大暴走する",
+            "title_romanji": "Kintarou Daibousousuru ",
+            "aired": "2001-02-18T00:00:00+00:00",
+            "score": 4.64,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=722959"
+        },
+        {
+            "mal_id": 5,
+            "url": null,
+            "title": "Kintarou Ascending Authority",
+            "title_japanese": "金太郎、大いにもてる",
+            "title_romanji": "Kintarou Ooini Moteru ",
+            "aired": "2001-02-25T00:00:00+00:00",
+            "score": 4.44,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=722985"
+        },
+        {
+            "mal_id": 6,
+            "url": null,
+            "title": "Decision of Men",
+            "title_japanese": "男たちの正念場",
+            "title_romanji": "Otoko-tachi no Shounenba ",
+            "aired": "2001-02-25T00:00:00+00:00",
+            "score": 4.57,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=722991"
+        },
+        {
+            "mal_id": 7,
+            "url": null,
+            "title": "Kintarou, Fight Back!",
+            "title_japanese": "金太郎、きれる",
+            "title_romanji": "Kintarou Kireru ",
+            "aired": "2001-02-25T00:00:00+00:00",
+            "score": 4.78,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=723005"
+        },
+        {
+            "mal_id": 8,
+            "url": null,
+            "title": "Kintarou, Never Surrender to the Top Gun",
+            "title_japanese": "金太郎、大物に屈せず",
+            "title_romanji": "Kintarou Oomono ni Kusezu ",
+            "aired": "2001-02-25T00:00:00+00:00",
+            "score": 4.17,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=723019"
+        },
+        {
+            "mal_id": 9,
+            "url": null,
+            "title": "Date with Meilin",
+            "title_japanese": "金太郎、美鈴と恋する",
+            "title_romanji": "Kintarou Misuzu to Koi Suru ",
+            "aired": "2001-03-04T00:00:00+00:00",
+            "score": 4.38,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=723055"
+        },
+        {
+            "mal_id": 10,
+            "url": null,
+            "title": "Kintarou, Obey the Order",
+            "title_japanese": "金太郎、社命を受ける",
+            "title_romanji": "Kintarou Shamei wo Ukeru ",
+            "aired": "2001-03-04T00:00:00+00:00",
+            "score": 4.6,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=723071"
+        },
+        {
+            "mal_id": 11,
+            "url": null,
+            "title": "Kintarou, Neaten the Working Field",
+            "title_japanese": "金太郎、現場をしめる",
+            "title_romanji": "Kintarou Genba wo Shimeru ",
+            "aired": "2001-03-04T00:00:00+00:00",
+            "score": 4.56,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=723095"
+        },
+        {
+            "mal_id": 12,
+            "url": null,
+            "title": "Finally, The Task is Completed",
+            "title_japanese": "金太郎、なし遂げる",
+            "title_romanji": "Kintarou Nashitogeru ",
+            "aired": "2001-03-04T00:00:00+00:00",
+            "score": 4.5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=723125"
+        },
+        {
+            "mal_id": 13,
+            "url": null,
+            "title": "Kintaro Returns Home",
+            "title_japanese": "金太郎、帰郷する",
+            "title_romanji": "Kintarou Kikyousuru ",
+            "aired": "2001-03-11T00:00:00+00:00",
+            "score": 3.86,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=723713"
+        },
+        {
+            "mal_id": 14,
+            "url": null,
+            "title": "Kintaro Connects People",
+            "title_japanese": "金太郎、人を繋ぐ",
+            "title_romanji": "Kintarou Hito wo Tsunagu ",
+            "aired": "2001-03-11T00:00:00+00:00",
+            "score": 4.4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=723725"
+        },
+        {
+            "mal_id": 15,
+            "url": null,
+            "title": "Kintaro Transferred",
+            "title_japanese": "金太郎、転勤する",
+            "title_romanji": "Kintarou Tenkinsuru ",
+            "aired": "2001-03-11T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=723745"
+        },
+        {
+            "mal_id": 16,
+            "url": null,
+            "title": "Kintaro Works in Sales",
+            "title_japanese": "金太郎、営業する",
+            "title_romanji": "Kintarou Eigyousuru ",
+            "aired": "2001-03-11T00:00:00+00:00",
+            "score": 4.4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=723771"
+        },
+        {
+            "mal_id": 17,
+            "url": null,
+            "title": "Kintaro Prearranges Bidding",
+            "title_japanese": "金太郎、談合する",
+            "title_romanji": "Kintarou Dangousuru ",
+            "aired": "2001-03-18T00:00:00+00:00",
+            "score": 4.4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=723787"
+        },
+        {
+            "mal_id": 18,
+            "url": null,
+            "title": "Dark Fog in Kohaku",
+            "title_japanese": "河北の黒い霧",
+            "title_romanji": "Kahoku no Kuroikiri ",
+            "aired": "2001-03-18T00:00:00+00:00",
+            "score": 4.33,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=723809"
+        },
+        {
+            "mal_id": 19,
+            "url": null,
+            "title": "Kintaro Writes a Letter of Resignation",
+            "title_japanese": "金太郎、辞表を書く",
+            "title_romanji": "Kintarou Jihyou wo Kaku ",
+            "aired": "2001-03-18T00:00:00+00:00",
+            "score": 4.8,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=723829"
+        },
+        {
+            "mal_id": 20,
+            "url": null,
+            "title": "Kintaro Becomes Unruly",
+            "title_japanese": "金太郎、荒らぶる",
+            "title_romanji": "Kintarou Araburu ",
+            "aired": "2001-03-18T00:00:00+00:00",
+            "score": 4.35,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=723867"
+        }
+    ]
+}

@@ -1,0 +1,291 @@
+{
+    "id": 789,
+    "fetched_at": "Sun Dec 14 14:07:23 2025",
+    "metadata": {
+        "mal_id": 789,
+        "url": "https://myanimelist.net/anime/789/Shinigami_no_Ballad",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/5/16086.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/5/16086t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/5/16086l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/5/16086.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/5/16086t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/5/16086l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": "https://www.youtube-nocookie.com/embed/Be0DZ1TGjYk?enablejsapi=1&wmode=opaque&autoplay=1",
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Shinigami no Ballad."
+            },
+            {
+                "type": "Synonym",
+                "title": "Shinigami no Ballad.: Momo the Girl God of Death"
+            },
+            {
+                "type": "Synonym",
+                "title": "Shinigami's Ballad"
+            },
+            {
+                "type": "Japanese",
+                "title": "しにがみのバラッド。"
+            },
+            {
+                "type": "English",
+                "title": "Momo, Girl God of Death"
+            }
+        ],
+        "title": "Shinigami no Ballad.",
+        "title_english": "Momo, Girl God of Death",
+        "title_japanese": "しにがみのバラッド。",
+        "title_synonyms": [
+            "Shinigami no Ballad.: Momo the Girl God of Death",
+            "Shinigami's Ballad"
+        ],
+        "type": "TV",
+        "source": "Light novel",
+        "episodes": 6,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "2006-03-03T00:00:00+00:00",
+            "to": "2006-04-07T00:00:00+00:00",
+            "prop": {
+                "from": {
+                    "day": 3,
+                    "month": 3,
+                    "year": 2006
+                },
+                "to": {
+                    "day": 7,
+                    "month": 4,
+                    "year": 2006
+                }
+            },
+            "string": "Mar 3, 2006 to Apr 7, 2006"
+        },
+        "duration": "24 min per ep",
+        "rating": "PG-13 - Teens 13 or older",
+        "score": 6.88,
+        "scored_by": 19909,
+        "rank": 5101,
+        "popularity": 3531,
+        "members": 48896,
+        "favorites": 89,
+        "synopsis": "A girl wrapped in white, her name is Momo...in her hand lies a blunt yet shiny scythe. By her side is a winged black cat by the name of Daniel. Carrying the souls of humans, the girl's existence parallels to that of a \"Death God\" or \"Shinigami\". At the instant when this white Death God touches the hearts of humans, the world is filled with kindness and grief... \n\n(Source: ANN)",
+        "background": "",
+        "season": "spring",
+        "year": 2006,
+        "broadcast": {
+            "day": "Fridays",
+            "time": "00:30",
+            "timezone": "Asia/Tokyo",
+            "string": "Fridays at 00:30 (JST)"
+        },
+        "producers": [
+            {
+                "mal_id": 144,
+                "type": "anime",
+                "name": "Pony Canyon",
+                "url": "https://myanimelist.net/anime/producer/144/Pony_Canyon"
+            },
+            {
+                "mal_id": 1517,
+                "type": "anime",
+                "name": "Jinnan Studio",
+                "url": "https://myanimelist.net/anime/producer/1517/Jinnan_Studio"
+            }
+        ],
+        "licensors": [
+            {
+                "mal_id": 490,
+                "type": "anime",
+                "name": "Maiden Japan",
+                "url": "https://myanimelist.net/anime/producer/490/Maiden_Japan"
+            }
+        ],
+        "studios": [
+            {
+                "mal_id": 86,
+                "type": "anime",
+                "name": "Group TAC",
+                "url": "https://myanimelist.net/anime/producer/86/Group_TAC"
+            },
+            {
+                "mal_id": 176,
+                "type": "anime",
+                "name": "Ginga Ya",
+                "url": "https://myanimelist.net/anime/producer/176/Ginga_Ya"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 8,
+                "type": "anime",
+                "name": "Drama",
+                "url": "https://myanimelist.net/anime/genre/8/Drama"
+            },
+            {
+                "mal_id": 37,
+                "type": "anime",
+                "name": "Supernatural",
+                "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [
+            {
+                "mal_id": 40,
+                "type": "anime",
+                "name": "Psychological",
+                "url": "https://myanimelist.net/anime/genre/40/Psychological"
+            }
+        ],
+        "demographics": [],
+        "relations": [
+            {
+                "relation": "Adaptation",
+                "entry": [
+                    {
+                        "mal_id": 1778,
+                        "type": "manga",
+                        "name": "Shinigami no Ballad.",
+                        "url": "https://myanimelist.net/manga/1778/Shinigami_no_Ballad"
+                    },
+                    {
+                        "mal_id": 3711,
+                        "type": "manga",
+                        "name": "Shinigami no Ballad.",
+                        "url": "https://myanimelist.net/manga/3711/Shinigami_no_Ballad"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [
+                "\"no one\" by KOY"
+            ],
+            "endings": [
+                "\"White Messenger\" by KOY"
+            ]
+        },
+        "external": [
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=3572"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=6201"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "http://en.wikipedia.org/wiki/Ballad_of_a_Shinigami#Anime"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "https://ja.wikipedia.org/wiki/しにがみのバラッド。#テレビアニメ"
+            },
+            {
+                "name": "Syoboi",
+                "url": "https://cal.syoboi.jp/tid/724"
+            }
+        ],
+        "streaming": [
+            {
+                "name": "HIDIVE",
+                "url": "https://www.hidive.com/tv/momo-the-girl-god-of-death"
+            }
+        ]
+    },
+    "episodes": [
+        {
+            "mal_id": 1,
+            "url": null,
+            "title": "Your Voice",
+            "title_japanese": "きみのこえ.",
+            "title_romanji": "Kimi no Koe ",
+            "aired": "2006-03-03T00:00:00+00:00",
+            "score": 4.11,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=26699"
+        },
+        {
+            "mal_id": 2,
+            "url": null,
+            "title": "When I Was a Fish",
+            "title_japanese": "さかなのころ.",
+            "title_romanji": "Sakana no Koro ",
+            "aired": "2006-03-10T00:00:00+00:00",
+            "score": 4.32,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=27008"
+        },
+        {
+            "mal_id": 3,
+            "url": null,
+            "title": "Beyond the Light",
+            "title_japanese": "ひかりのかなた.",
+            "title_romanji": "Hikari no Kanata ",
+            "aired": "2006-03-17T00:00:00+00:00",
+            "score": 4.05,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=28226"
+        },
+        {
+            "mal_id": 4,
+            "url": null,
+            "title": "Autumn Magic",
+            "title_japanese": "あきのまほう.",
+            "title_romanji": "Aki no Mahou ",
+            "aired": "2006-03-24T00:00:00+00:00",
+            "score": 3.94,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=29032"
+        },
+        {
+            "mal_id": 5,
+            "url": null,
+            "title": "Lights of a Firefly",
+            "title_japanese": "ほたるのひかり",
+            "title_romanji": "Hotaru no Hikari ",
+            "aired": "2006-03-31T00:00:00+00:00",
+            "score": 4.11,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=29439"
+        },
+        {
+            "mal_id": 6,
+            "url": null,
+            "title": "Journey of the Heart",
+            "title_japanese": "こころのたび.",
+            "title_romanji": "Kokoro no Tabi ",
+            "aired": "2006-04-07T00:00:00+00:00",
+            "score": 4.46,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=29446"
+        }
+    ]
+}

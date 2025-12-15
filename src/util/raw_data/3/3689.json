@@ -1,0 +1,175 @@
+{
+    "id": 3689,
+    "fetched_at": "Sun Dec 14 20:06:05 2025",
+    "metadata": {
+        "mal_id": 3689,
+        "url": "https://myanimelist.net/anime/3689/Hatsumei_Boy_Kanipan",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/3/46389.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/3/46389t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/3/46389l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/3/46389.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/3/46389t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/3/46389l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Hatsumei Boy Kanipan"
+            },
+            {
+                "type": "Synonym",
+                "title": "Inventor Boy Kanipan"
+            },
+            {
+                "type": "Synonym",
+                "title": "Gadget Boy Kanipan"
+            },
+            {
+                "type": "Japanese",
+                "title": "発明BOYカニパン"
+            }
+        ],
+        "title": "Hatsumei Boy Kanipan",
+        "title_english": null,
+        "title_japanese": "発明BOYカニパン",
+        "title_synonyms": [
+            "Inventor Boy Kanipan",
+            "Gadget Boy Kanipan"
+        ],
+        "type": "TV",
+        "source": "Original",
+        "episodes": 31,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "1998-07-03T00:00:00+00:00",
+            "to": "1999-01-29T00:00:00+00:00",
+            "prop": {
+                "from": {
+                    "day": 3,
+                    "month": 7,
+                    "year": 1998
+                },
+                "to": {
+                    "day": 29,
+                    "month": 1,
+                    "year": 1999
+                }
+            },
+            "string": "Jul 3, 1998 to Jan 29, 1999"
+        },
+        "duration": "24 min per ep",
+        "rating": "PG - Children",
+        "score": 6.62,
+        "scored_by": 655,
+        "rank": 6619,
+        "popularity": 13185,
+        "members": 1580,
+        "favorites": 2,
+        "synopsis": "The story revolves around Kanipan aiming to be the best inventor and his adventures while trying to accomplish this.",
+        "background": "",
+        "season": "summer",
+        "year": 1998,
+        "broadcast": {
+            "day": "Fridays",
+            "time": "18:00",
+            "timezone": "Asia/Tokyo",
+            "string": "Fridays at 18:00 (JST)"
+        },
+        "producers": [],
+        "licensors": [],
+        "studios": [
+            {
+                "mal_id": 126,
+                "type": "anime",
+                "name": "Studio Comet",
+                "url": "https://myanimelist.net/anime/producer/126/Studio_Comet"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 2,
+                "type": "anime",
+                "name": "Adventure",
+                "url": "https://myanimelist.net/anime/genre/2/Adventure"
+            },
+            {
+                "mal_id": 4,
+                "type": "anime",
+                "name": "Comedy",
+                "url": "https://myanimelist.net/anime/genre/4/Comedy"
+            },
+            {
+                "mal_id": 24,
+                "type": "anime",
+                "name": "Sci-Fi",
+                "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [
+            {
+                "mal_id": 18,
+                "type": "anime",
+                "name": "Mecha",
+                "url": "https://myanimelist.net/anime/genre/18/Mecha"
+            }
+        ],
+        "demographics": [],
+        "relations": [
+            {
+                "relation": "Sequel",
+                "entry": [
+                    {
+                        "mal_id": 3690,
+                        "type": "anime",
+                        "name": "Chou Hatsumei Boy Kanipan",
+                        "url": "https://myanimelist.net/anime/3690/Chou_Hatsumei_Boy_Kanipan"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [
+                "\"Koishite Hajimete Shitta Kimi (恋してはじめて知った君)\" by BAAD"
+            ],
+            "endings": [
+                "\"O・K!\" by XL"
+            ]
+        },
+        "external": [
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=4667"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=2013"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "https://ja.wikipedia.org/wiki/%E7%99%BA%E6%98%8EBOY%E3%82%AB%E3%83%8B%E3%83%91%E3%83%B3"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": []
+}

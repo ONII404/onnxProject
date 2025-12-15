@@ -1,0 +1,181 @@
+{
+    "id": 2682,
+    "fetched_at": "Sun Dec 14 18:49:04 2025",
+    "metadata": {
+        "mal_id": 2682,
+        "url": "https://myanimelist.net/anime/2682/Aoki_Densetsu_Shoot_Movie",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1453/96649.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1453/96649t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1453/96649l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1453/96649.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1453/96649t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1453/96649l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Aoki Densetsu Shoot! (Movie)"
+            },
+            {
+                "type": "Synonym",
+                "title": "Aoki Densetsu Shoot! (1994)"
+            },
+            {
+                "type": "Synonym",
+                "title": "Blue Legend Shoot! (1994)"
+            },
+            {
+                "type": "Japanese",
+                "title": "蒼き伝説　シュート！"
+            },
+            {
+                "type": "English",
+                "title": "Blue Legend Shoot!"
+            }
+        ],
+        "title": "Aoki Densetsu Shoot! (Movie)",
+        "title_english": "Blue Legend Shoot!",
+        "title_japanese": "蒼き伝説　シュート！",
+        "title_synonyms": [
+            "Aoki Densetsu Shoot! (1994)",
+            "Blue Legend Shoot! (1994)"
+        ],
+        "type": "Movie",
+        "source": "Unknown",
+        "episodes": 1,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "1994-12-04T00:00:00+00:00",
+            "to": null,
+            "prop": {
+                "from": {
+                    "day": 4,
+                    "month": 12,
+                    "year": 1994
+                },
+                "to": {
+                    "day": null,
+                    "month": null,
+                    "year": null
+                }
+            },
+            "string": "Dec 4, 1994"
+        },
+        "duration": "25 min",
+        "rating": "PG - Children",
+        "score": 6.68,
+        "scored_by": 1239,
+        "rank": 6217,
+        "popularity": 10808,
+        "members": 3184,
+        "favorites": 4,
+        "synopsis": "Frankfurt Youth team (Kubo's team while he was in Germany) comes to Japan to play a series of friendly matches. Frankfurt Captain Rudy wanted to see why Kubo left Germany to form a team in Japan so he challenges Kakegawa High to a match.",
+        "background": "",
+        "season": null,
+        "year": null,
+        "broadcast": {
+            "day": null,
+            "time": null,
+            "timezone": null,
+            "string": null
+        },
+        "producers": [],
+        "licensors": [],
+        "studios": [
+            {
+                "mal_id": 18,
+                "type": "anime",
+                "name": "Toei Animation",
+                "url": "https://myanimelist.net/anime/producer/18/Toei_Animation"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 30,
+                "type": "anime",
+                "name": "Sports",
+                "url": "https://myanimelist.net/anime/genre/30/Sports"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [
+            {
+                "mal_id": 77,
+                "type": "anime",
+                "name": "Team Sports",
+                "url": "https://myanimelist.net/anime/genre/77/Team_Sports"
+            }
+        ],
+        "demographics": [
+            {
+                "mal_id": 27,
+                "type": "anime",
+                "name": "Shounen",
+                "url": "https://myanimelist.net/anime/genre/27/Shounen"
+            }
+        ],
+        "relations": [
+            {
+                "relation": "Prequel",
+                "entry": [
+                    {
+                        "mal_id": 1327,
+                        "type": "anime",
+                        "name": "Aoki Densetsu Shoot!",
+                        "url": "https://myanimelist.net/anime/1327/Aoki_Densetsu_Shoot"
+                    }
+                ]
+            },
+            {
+                "relation": "Sequel",
+                "entry": [
+                    {
+                        "mal_id": 50379,
+                        "type": "anime",
+                        "name": "Shoot! Goal to the Future",
+                        "url": "https://myanimelist.net/anime/50379/Shoot_Goal_to_the_Future"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [],
+            "endings": []
+        },
+        "external": [
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=2097"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=3685"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "http://en.wikipedia.org/wiki/Aoki_Densetsu_Shoot!"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": []
+}

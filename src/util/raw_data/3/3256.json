@@ -1,0 +1,205 @@
+{
+    "id": 3256,
+    "fetched_at": "Sun Dec 14 19:24:54 2025",
+    "metadata": {
+        "mal_id": 3256,
+        "url": "https://myanimelist.net/anime/3256/Soukou_Kihei_Votoms__Pailsen_Files",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/4/5264.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/4/5264t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/4/5264l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/4/5264.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/4/5264t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/4/5264l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Soukou Kihei Votoms: Pailsen Files"
+            },
+            {
+                "type": "Japanese",
+                "title": "装甲騎兵ボトムズ ペールゼン・ファイルズ"
+            },
+            {
+                "type": "English",
+                "title": "Armored Trooper Votoms: Pailsen Files"
+            }
+        ],
+        "title": "Soukou Kihei Votoms: Pailsen Files",
+        "title_english": "Armored Trooper Votoms: Pailsen Files",
+        "title_japanese": "装甲騎兵ボトムズ ペールゼン・ファイルズ",
+        "title_synonyms": [],
+        "type": "OVA",
+        "source": "Original",
+        "episodes": 12,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "2007-10-26T00:00:00+00:00",
+            "to": "2008-08-25T00:00:00+00:00",
+            "prop": {
+                "from": {
+                    "day": 26,
+                    "month": 10,
+                    "year": 2007
+                },
+                "to": {
+                    "day": 25,
+                    "month": 8,
+                    "year": 2008
+                }
+            },
+            "string": "Oct 26, 2007 to Aug 25, 2008"
+        },
+        "duration": "25 min per ep",
+        "rating": "R - 17+ (violence & profanity)",
+        "score": 7.2,
+        "scored_by": 2564,
+        "rank": 3504,
+        "popularity": 8613,
+        "members": 6125,
+        "favorites": 9,
+        "synopsis": "OVA release from anime series \"Armored Trooper Votoms\" utilizing the latest in 3D CG animation. Created by the original staff of the series, with an all new story about the end of the 100 year war.",
+        "background": "",
+        "season": null,
+        "year": null,
+        "broadcast": {
+            "day": null,
+            "time": null,
+            "timezone": null,
+            "string": null
+        },
+        "producers": [
+            {
+                "mal_id": 14,
+                "type": "anime",
+                "name": "Sunrise",
+                "url": "https://myanimelist.net/anime/producer/14/Sunrise"
+            }
+        ],
+        "licensors": [
+            {
+                "mal_id": 490,
+                "type": "anime",
+                "name": "Maiden Japan",
+                "url": "https://myanimelist.net/anime/producer/490/Maiden_Japan"
+            }
+        ],
+        "studios": [
+            {
+                "mal_id": 229,
+                "type": "anime",
+                "name": "The Answer Studio",
+                "url": "https://myanimelist.net/anime/producer/229/The_Answer_Studio"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 24,
+                "type": "anime",
+                "name": "Sci-Fi",
+                "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [
+            {
+                "mal_id": 18,
+                "type": "anime",
+                "name": "Mecha",
+                "url": "https://myanimelist.net/anime/genre/18/Mecha"
+            },
+            {
+                "mal_id": 38,
+                "type": "anime",
+                "name": "Military",
+                "url": "https://myanimelist.net/anime/genre/38/Military"
+            },
+            {
+                "mal_id": 29,
+                "type": "anime",
+                "name": "Space",
+                "url": "https://myanimelist.net/anime/genre/29/Space"
+            }
+        ],
+        "demographics": [],
+        "relations": [
+            {
+                "relation": "Prequel",
+                "entry": [
+                    {
+                        "mal_id": 2585,
+                        "type": "anime",
+                        "name": "Soukou Kihei Votoms: Red Shoulder Document - Yabou no Roots",
+                        "url": "https://myanimelist.net/anime/2585/Soukou_Kihei_Votoms__Red_Shoulder_Document_-_Yabou_no_Roots"
+                    }
+                ]
+            },
+            {
+                "relation": "Sequel",
+                "entry": [
+                    {
+                        "mal_id": 2582,
+                        "type": "anime",
+                        "name": "Soukou Kihei Votoms",
+                        "url": "https://myanimelist.net/anime/2582/Soukou_Kihei_Votoms"
+                    }
+                ]
+            },
+            {
+                "relation": "Summary",
+                "entry": [
+                    {
+                        "mal_id": 7536,
+                        "type": "anime",
+                        "name": "Soukou Kihei Votoms: Pailsen Files Movie",
+                        "url": "https://myanimelist.net/anime/7536/Soukou_Kihei_Votoms__Pailsen_Files_Movie"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [
+                "\"Tetsu no Lullaby\" by George Yanagi"
+            ],
+            "endings": [
+                "\"Bye Bye Brother\" by George Yanagi"
+            ]
+        },
+        "external": [
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=5131"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=7891"
+            }
+        ],
+        "streaming": [
+            {
+                "name": "HIDIVE",
+                "url": "https://www.hidive.com/movies/armored-trooper-votoms-pailsen-files"
+            }
+        ]
+    },
+    "episodes": []
+}

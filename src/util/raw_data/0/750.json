@@ -1,0 +1,350 @@
+{
+    "id": 750,
+    "fetched_at": "Sun Dec 14 14:04:17 2025",
+    "metadata": {
+        "mal_id": 750,
+        "url": "https://myanimelist.net/anime/750/Binchou-tan",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/10/61143.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/10/61143t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/10/61143l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/10/61143.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/10/61143t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/10/61143l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Binchou-tan"
+            },
+            {
+                "type": "Synonym",
+                "title": "Binchotan"
+            },
+            {
+                "type": "Japanese",
+                "title": "びんちょうタン"
+            }
+        ],
+        "title": "Binchou-tan",
+        "title_english": null,
+        "title_japanese": "びんちょうタン",
+        "title_synonyms": [
+            "Binchotan"
+        ],
+        "type": "TV",
+        "source": "Manga",
+        "episodes": 12,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "2006-02-03T00:00:00+00:00",
+            "to": "2006-04-16T00:00:00+00:00",
+            "prop": {
+                "from": {
+                    "day": 3,
+                    "month": 2,
+                    "year": 2006
+                },
+                "to": {
+                    "day": 16,
+                    "month": 4,
+                    "year": 2006
+                }
+            },
+            "string": "Feb 3, 2006 to Apr 16, 2006"
+        },
+        "duration": "12 min per ep",
+        "rating": "G - All Ages",
+        "score": 7.13,
+        "scored_by": 5797,
+        "rank": 3888,
+        "popularity": 5748,
+        "members": 16749,
+        "favorites": 156,
+        "synopsis": "This is a story about a little girl who lives in an old house in the mountains. Her name is Bincho-tan. Each episode depicts a day in the life of Bincho-tan as she prepares her breakfast in the morning, goes to the forest to gather vegetables, does her household chores and rests at night after a day's work. She is surrounded by a group of close friends who add color to her ordinary yet simple life.",
+        "background": "",
+        "season": "winter",
+        "year": 2006,
+        "broadcast": {
+            "day": null,
+            "time": null,
+            "timezone": null,
+            "string": "Unknown"
+        },
+        "producers": [
+            {
+                "mal_id": 23,
+                "type": "anime",
+                "name": "Bandai Visual",
+                "url": "https://myanimelist.net/anime/producer/23/Bandai_Visual"
+            },
+            {
+                "mal_id": 61,
+                "type": "anime",
+                "name": "Frontier Works",
+                "url": "https://myanimelist.net/anime/producer/61/Frontier_Works"
+            },
+            {
+                "mal_id": 145,
+                "type": "anime",
+                "name": "TBS",
+                "url": "https://myanimelist.net/anime/producer/145/TBS"
+            },
+            {
+                "mal_id": 172,
+                "type": "anime",
+                "name": "Alchemist",
+                "url": "https://myanimelist.net/anime/producer/172/Alchemist"
+            }
+        ],
+        "licensors": [],
+        "studios": [
+            {
+                "mal_id": 37,
+                "type": "anime",
+                "name": "Studio Deen",
+                "url": "https://myanimelist.net/anime/producer/37/Studio_Deen"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 36,
+                "type": "anime",
+                "name": "Slice of Life",
+                "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [
+            {
+                "mal_id": 63,
+                "type": "anime",
+                "name": "Iyashikei",
+                "url": "https://myanimelist.net/anime/genre/63/Iyashikei"
+            }
+        ],
+        "demographics": [
+            {
+                "mal_id": 27,
+                "type": "anime",
+                "name": "Shounen",
+                "url": "https://myanimelist.net/anime/genre/27/Shounen"
+            }
+        ],
+        "relations": [
+            {
+                "relation": "Adaptation",
+                "entry": [
+                    {
+                        "mal_id": 5098,
+                        "type": "manga",
+                        "name": "Binchou-tan",
+                        "url": "https://myanimelist.net/manga/5098/Binchou-tan"
+                    }
+                ]
+            },
+            {
+                "relation": "Other",
+                "entry": [
+                    {
+                        "mal_id": 1926,
+                        "type": "anime",
+                        "name": "Jishu Seisaku Movie Binchou-tan",
+                        "url": "https://myanimelist.net/anime/1926/Jishu_Seisaku_Movie_Binchou-tan"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [
+                "\"Iroha\" by CooRie"
+            ],
+            "endings": [
+                "\"Binchou Ondo\" by Kadowaki Mai"
+            ]
+        },
+        "external": [
+            {
+                "name": "Official Site",
+                "url": "http://www.tbs.co.jp/bincho/"
+            },
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=2836"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=5314"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "http://en.wikipedia.org/wiki/Binch%C5%8D-tan_%28anime%29"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": [
+        {
+            "mal_id": 1,
+            "url": null,
+            "title": "Spring Awakening",
+            "title_japanese": "春のお目ざめびん",
+            "title_romanji": "Haru no Omezame-bin ",
+            "aired": "2006-02-03T00:00:00+00:00",
+            "score": 4.6,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=35513"
+        },
+        {
+            "mal_id": 2,
+            "url": null,
+            "title": "Gets a Job",
+            "title_japanese": "お仕事げっとびん",
+            "title_romanji": "Oshigoto Get-bin ",
+            "aired": "2006-02-10T00:00:00+00:00",
+            "score": 4.69,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=618579"
+        },
+        {
+            "mal_id": 3,
+            "url": null,
+            "title": "Bin's Birthday",
+            "title_japanese": "びんのお誕生びん",
+            "title_romanji": "Bin no Otanjou-bin ",
+            "aired": "2006-02-17T00:00:00+00:00",
+            "score": 4.43,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=35515"
+        },
+        {
+            "mal_id": 4,
+            "url": null,
+            "title": "Rainy Sunday",
+            "title_japanese": "雨の日曜びん",
+            "title_romanji": "Ame no Nichiyou-bin ",
+            "aired": "2006-02-24T00:00:00+00:00",
+            "score": 4.52,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=618591"
+        },
+        {
+            "mal_id": 5,
+            "url": null,
+            "title": "Memories of Kimono",
+            "title_japanese": "着物のおもひでびん",
+            "title_romanji": "Kimono no Omoide-bin ",
+            "aired": "2006-03-03T00:00:00+00:00",
+            "score": 4.68,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=35518"
+        },
+        {
+            "mal_id": 6,
+            "url": null,
+            "title": "Work in the Night",
+            "title_japanese": "夜のおつとめびん",
+            "title_romanji": "Yoru no Otsutome-bin ",
+            "aired": "2006-03-10T00:00:00+00:00",
+            "score": 4.48,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=618607"
+        },
+        {
+            "mal_id": 7,
+            "url": null,
+            "title": "Ramune and Candy Apples",
+            "title_japanese": "ラムネとりんごあめびん",
+            "title_romanji": "Ramune to Ringoame-bin ",
+            "aired": "2006-03-16T00:00:00+00:00",
+            "score": 4.61,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=35521"
+        },
+        {
+            "mal_id": 8,
+            "url": null,
+            "title": "Close Your Hands, Open Your Hands",
+            "title_japanese": "むすんでひらいてびん",
+            "title_romanji": "Musunde Hiraite-bin ",
+            "aired": "2006-03-23T00:00:00+00:00",
+            "score": 4.68,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=618635"
+        },
+        {
+            "mal_id": 9,
+            "url": null,
+            "title": "A Stag Beetle is Following",
+            "title_japanese": "クワガタついてるびん",
+            "title_romanji": "Kuwagata Tsuiteru-bin ",
+            "aired": "2006-03-30T00:00:00+00:00",
+            "score": 4.79,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=265531"
+        },
+        {
+            "mal_id": 10,
+            "url": null,
+            "title": "The Baked Sweet Potatoes Season",
+            "title_japanese": "おイモの季節びん",
+            "title_romanji": "Oimo no Kisetsu-bin ",
+            "aired": "2006-04-09T00:00:00+00:00",
+            "score": 4.74,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=618779"
+        },
+        {
+            "mal_id": 11,
+            "url": null,
+            "title": "First snow, First sledge, First flight",
+            "title_japanese": "初雪、初ぞり、初飛行びん",
+            "title_romanji": "Hatsuyuki, Hatsuzori, Hatsuhikou-bin ",
+            "aired": "2006-04-16T00:00:00+00:00",
+            "score": 4.8,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=618791"
+        },
+        {
+            "mal_id": 12,
+            "url": null,
+            "title": "A Letter to the Sky",
+            "title_japanese": "お空にお手紙びん",
+            "title_romanji": "Osora ni Otegami-bin ",
+            "aired": "2006-04-16T00:00:00+00:00",
+            "score": 4.86,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=11813"
+        }
+    ]
+}

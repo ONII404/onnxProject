@@ -1,0 +1,843 @@
+{
+    "id": 505,
+    "fetched_at": "Sun Dec 14 13:44:34 2025",
+    "metadata": {
+        "mal_id": 505,
+        "url": "https://myanimelist.net/anime/505/Fushigiboshi_no☆Futagohime",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1193/133527.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1193/133527t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1193/133527l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1193/133527.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1193/133527t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1193/133527l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Fushigiboshi no☆Futagohime"
+            },
+            {
+                "type": "Synonym",
+                "title": "Fushigi-boshi no Futago-hime"
+            },
+            {
+                "type": "Synonym",
+                "title": "Fushigi Boshi no Futago Hime"
+            },
+            {
+                "type": "Synonym",
+                "title": "Twin Princesses of the Wonder Planet"
+            },
+            {
+                "type": "Synonym",
+                "title": "Twin Princesses of the Mysterious Star"
+            },
+            {
+                "type": "Synonym",
+                "title": "Twin Princess of the Mysterious Planet"
+            },
+            {
+                "type": "Japanese",
+                "title": "ふしぎ星の☆ふたご姫"
+            }
+        ],
+        "title": "Fushigiboshi no☆Futagohime",
+        "title_english": null,
+        "title_japanese": "ふしぎ星の☆ふたご姫",
+        "title_synonyms": [
+            "Fushigi-boshi no Futago-hime",
+            "Fushigi Boshi no Futago Hime",
+            "Twin Princesses of the Wonder Planet",
+            "Twin Princesses of the Mysterious Star",
+            "Twin Princess of the Mysterious Planet"
+        ],
+        "type": "TV",
+        "source": "Original",
+        "episodes": 51,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "2005-04-02T00:00:00+00:00",
+            "to": "2006-03-25T00:00:00+00:00",
+            "prop": {
+                "from": {
+                    "day": 2,
+                    "month": 4,
+                    "year": 2005
+                },
+                "to": {
+                    "day": 25,
+                    "month": 3,
+                    "year": 2006
+                }
+            },
+            "string": "Apr 2, 2005 to Mar 25, 2006"
+        },
+        "duration": "24 min per ep",
+        "rating": "G - All Ages",
+        "score": 7.28,
+        "scored_by": 5061,
+        "rank": 3039,
+        "popularity": 6168,
+        "members": 13867,
+        "favorites": 86,
+        "synopsis": "In the hollow Mysterious Planet, seven kingdoms co-exist, all of them lit by the Sun's Blessing from the Kingdom of the Sun, in the middle of the planet. The light of the core sun is necessary for the continued existence of all the kingdoms. Yet, something is causing the Sun's Blessing to weaken. If something isn't done, it will be the end of life in the Mysterious Planet. Fortunately, the twin princesses of the Sun Kingdom, Fine and Rein, have been endowed with the magic of the Prominence, and are looking for a way to fix things. \n\n(Source: ANN)",
+        "background": "",
+        "season": "spring",
+        "year": 2005,
+        "broadcast": {
+            "day": "Saturdays",
+            "time": "10:00",
+            "timezone": "Asia/Tokyo",
+            "string": "Saturdays at 10:00 (JST)"
+        },
+        "producers": [
+            {
+                "mal_id": 16,
+                "type": "anime",
+                "name": "TV Tokyo",
+                "url": "https://myanimelist.net/anime/producer/16/TV_Tokyo"
+            },
+            {
+                "mal_id": 139,
+                "type": "anime",
+                "name": "Nihon Ad Systems",
+                "url": "https://myanimelist.net/anime/producer/139/Nihon_Ad_Systems"
+            },
+            {
+                "mal_id": 2981,
+                "type": "anime",
+                "name": "Omnibus Promotion",
+                "url": "https://myanimelist.net/anime/producer/2981/Omnibus_Promotion"
+            }
+        ],
+        "licensors": [],
+        "studios": [
+            {
+                "mal_id": 34,
+                "type": "anime",
+                "name": "HAL Film Maker",
+                "url": "https://myanimelist.net/anime/producer/34/HAL_Film_Maker"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 4,
+                "type": "anime",
+                "name": "Comedy",
+                "url": "https://myanimelist.net/anime/genre/4/Comedy"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [
+            {
+                "mal_id": 66,
+                "type": "anime",
+                "name": "Mahou Shoujo",
+                "url": "https://myanimelist.net/anime/genre/66/Mahou_Shoujo"
+            }
+        ],
+        "demographics": [],
+        "relations": [
+            {
+                "relation": "Sequel",
+                "entry": [
+                    {
+                        "mal_id": 1886,
+                        "type": "anime",
+                        "name": "Fushigiboshi no☆Futagohime Gyu!",
+                        "url": "https://myanimelist.net/anime/1886/Fushigiboshi_no☆Futagohime_Gyu"
+                    }
+                ]
+            },
+            {
+                "relation": "Adaptation",
+                "entry": [
+                    {
+                        "mal_id": 11567,
+                        "type": "manga",
+                        "name": "Fushigiboshi no Futagohime",
+                        "url": "https://myanimelist.net/manga/11567/Fushigiboshi_no_Futagohime"
+                    }
+                ]
+            },
+            {
+                "relation": "Summary",
+                "entry": [
+                    {
+                        "mal_id": 39328,
+                        "type": "anime",
+                        "name": "Fushigiboshi no☆Futagohime: Marugoto DVD",
+                        "url": "https://myanimelist.net/anime/39328/Fushigiboshi_no☆Futagohime__Marugoto_DVD"
+                    },
+                    {
+                        "mal_id": 29231,
+                        "type": "anime",
+                        "name": "Fushigiboshi no☆Futagohime Gyu! Recap",
+                        "url": "https://myanimelist.net/anime/29231/Fushigiboshi_no☆Futagohime_Gyu_Recap"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [
+                "\"Princess wa Akiramenai\" by FLIP-FLAP"
+            ],
+            "endings": [
+                "1: \"Oshare fantasy\" by Fine☆Rain",
+                "2: \"Patatata Run\" by Fine☆Rain"
+            ]
+        },
+        "external": [
+            {
+                "name": "Official Site",
+                "url": "http://futagohime.jp/"
+            },
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=2829"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=5085"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "http://en.wikipedia.org/wiki/Fushigiboshi_no_Futagohime"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": [
+        {
+            "mal_id": 1,
+            "url": null,
+            "title": "Sweetest Smiles: Twin Princesses",
+            "title_japanese": "とびきりスマイル☆ふたごのプリンセス",
+            "title_romanji": "Tobikiri Smile: Futago no Princess ",
+            "aired": "2005-04-02T00:00:00+00:00",
+            "score": 5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=61707"
+        },
+        {
+            "mal_id": 2,
+            "url": null,
+            "title": "Flame Kingdom: Prominence on Empty Stomach",
+            "title_japanese": "メラメラの国☆はらぺこでプロミネンス",
+            "title_romanji": "Meramera no Kuni: Harapeko de Prominence ",
+            "aired": "2005-04-09T00:00:00+00:00",
+            "score": 4.86,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=272960"
+        },
+        {
+            "mal_id": 3,
+            "url": null,
+            "title": "Get Rid of the Dragon: Totally Impossible?",
+            "title_japanese": "メラメラの国☆はらぺこでプロミネンス",
+            "title_romanji": "Dragon Taiji: Sonna no Murimuri? ",
+            "aired": "2005-04-16T00:00:00+00:00",
+            "score": 4.83,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=272967"
+        },
+        {
+            "mal_id": 4,
+            "url": null,
+            "title": "Lovely Décor: Let's Do Our Best",
+            "title_japanese": "すてきなデコール☆がんばっちゃおう",
+            "title_romanji": "Suteki na Decor: Ganbacchaou ",
+            "aired": "2005-04-23T00:00:00+00:00",
+            "score": 4.5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=272980"
+        },
+        {
+            "mal_id": 5,
+            "url": null,
+            "title": "First Place This Time: Princess Party",
+            "title_japanese": "今度は優勝☆プリンセスパーティ",
+            "title_romanji": "Kondo wa Yuushou: Princess Party ",
+            "aired": "2005-04-30T00:00:00+00:00",
+            "score": 4.75,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=273002"
+        },
+        {
+            "mal_id": 6,
+            "url": null,
+            "title": "Ask the Fortune Teller: The Secret of Eclipse",
+            "title_japanese": "占いで知りたい☆エクリプスの秘密",
+            "title_romanji": "Uranai de Shiritai: Eclipse no Himitsu ",
+            "aired": "2005-05-07T00:00:00+00:00",
+            "score": 4.8,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=273146"
+        },
+        {
+            "mal_id": 7,
+            "url": null,
+            "title": "We Can't Return to the Castle! Dig Here-rabirabi",
+            "title_japanese": "お城に帰れな〜い!☆ここほれラビラビ",
+            "title_romanji": "Oshiro ni Kaerenaai! Koko Hore Rabirabi ",
+            "aired": "2005-05-14T00:00:00+00:00",
+            "score": 5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=273341"
+        },
+        {
+            "mal_id": 8,
+            "url": null,
+            "title": "Make it Gorgeous: Battle of the Décor",
+            "title_japanese": "ゴージャスが決め手☆デコールの戦い",
+            "title_romanji": "Gorgeous ga Kimete: Decor no Tatakai ",
+            "aired": "2005-05-21T00:00:00+00:00",
+            "score": 5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=273521"
+        },
+        {
+            "mal_id": 9,
+            "url": null,
+            "title": "Jewelry Kingdom: Come to the Town of Toys",
+            "title_japanese": "宝石の国☆おもちゃの町においでよ",
+            "title_romanji": "Houseki no Kuni: Omocha no Machi ni Oide yo ",
+            "aired": "2005-05-28T00:00:00+00:00",
+            "score": 4.67,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=273522"
+        },
+        {
+            "mal_id": 10,
+            "url": null,
+            "title": "Let's Make Sweets: Princess Party",
+            "title_japanese": "お菓子を作ろう☆プリンセスパーティ",
+            "title_romanji": "Okashi wo Tsukurou: Princess Party ",
+            "aired": "2005-06-04T00:00:00+00:00",
+            "score": 5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=273523"
+        },
+        {
+            "mal_id": 11,
+            "url": null,
+            "title": "Training is Really Hard: Become More Wonderful Princesses",
+            "title_japanese": "マジ修行☆もっとすてきにプリンセス",
+            "title_romanji": "Maji Shugyou: Motto Suteki ni Princess ",
+            "aired": "2005-06-11T00:00:00+00:00",
+            "score": 4.4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=273538"
+        },
+        {
+            "mal_id": 12,
+            "url": null,
+            "title": "Seeds Kingdom: Being Small is Hard",
+            "title_japanese": "タネタネの国☆ちっちゃいって大変",
+            "title_romanji": "Tanetane no Kuni: Chicchai tte Taihen ",
+            "aired": "2005-06-18T00:00:00+00:00",
+            "score": 4.75,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=273539"
+        },
+        {
+            "mal_id": 13,
+            "url": null,
+            "title": "Scary Forest: Little Romantic Experiences",
+            "title_japanese": "こわ〜い森☆ちょっぴりドキドキの体験",
+            "title_romanji": "Kowaai Mori: Choppiri Dokidoki no Taiken ",
+            "aired": "2005-06-25T00:00:00+00:00",
+            "score": 4.75,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=273540"
+        },
+        {
+            "mal_id": 14,
+            "url": null,
+            "title": "Poomo's Training: Argument Between the Twins",
+            "title_japanese": "プーモの修行☆ケンカしちゃったふたご",
+            "title_romanji": "Poomo no Shugyou: Kenka Shichatta Futago ",
+            "aired": "2005-07-02T00:00:00+00:00",
+            "score": 4.67,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=273683"
+        },
+        {
+            "mal_id": 15,
+            "url": null,
+            "title": "Moon Kingdom: The Mysterious Invitation",
+            "title_japanese": "月の国☆謎の招待状",
+            "title_romanji": "Tsuki no Kuni: Nazo no Shoutaijou ",
+            "aired": "2005-07-09T00:00:00+00:00",
+            "score": 4.67,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=273689"
+        },
+        {
+            "mal_id": 16,
+            "url": null,
+            "title": "Milky in Big Trouble (The True Identity of Eclipse)",
+            "title_japanese": "ミルキー大ピンチ☆エクリプスの正体",
+            "title_romanji": "Milky Dai Pinch: Eclipse no Shoutai ",
+            "aired": "2005-07-16T00:00:00+00:00",
+            "score": 4.5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=273694"
+        },
+        {
+            "mal_id": 17,
+            "url": null,
+            "title": "Athletes, Be Passionate! Princess Party",
+            "title_japanese": "燃えろスポーツ!☆プリンセスパーティ",
+            "title_romanji": "Moero Sports! Princess Party ",
+            "aired": "2005-07-23T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 18,
+            "url": null,
+            "title": "Windmill Kingdom vs. Jewelry Kingdom (Balloon Battle)",
+            "title_japanese": "かざぐるまの国VS宝石の国☆気球でバトル",
+            "title_romanji": "Kazaguruma no Kuni vs. Houseki no Kuni: Kikyuu de Battle ",
+            "aired": "2005-07-30T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 19,
+            "url": null,
+            "title": "Waterdrop Kingdom: Mirlo Will Marry?",
+            "title_japanese": "しずくの国☆ミルロ結婚か?",
+            "title_romanji": "Shizuku no Kuni: Mirlo Kekkon ka? ",
+            "aired": "2005-08-06T00:00:00+00:00",
+            "score": 5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=295144"
+        },
+        {
+            "mal_id": 20,
+            "url": null,
+            "title": "Shooting Stars in the Sea: Another Country That No One Knows",
+            "title_japanese": "海の流れ星☆誰も知らないもうひとつの国",
+            "title_romanji": "Umi no Nagareboshi: Daremo Shiranai Mou Hitotsu no Kuni ",
+            "aired": "2005-08-13T00:00:00+00:00",
+            "score": 5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=295149"
+        },
+        {
+            "mal_id": 21,
+            "url": null,
+            "title": "The Haunted House: Screamed Prominence",
+            "title_japanese": "おばけやしき☆絶叫プロミネンス",
+            "title_romanji": "Obake Yashiki: Zekkyou Prominence ",
+            "aired": "2005-08-20T00:00:00+00:00",
+            "score": 4.67,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=295152"
+        },
+        {
+            "mal_id": 22,
+            "url": null,
+            "title": "Haughty Altezza: We're in a Pinch! I Hate It!",
+            "title_japanese": "生意気アルテッサ☆ピンチでいやいや〜ん",
+            "title_romanji": "Namaiki Altezza: Pinch de Iyaiyaan ",
+            "aired": "2005-08-27T00:00:00+00:00",
+            "score": 4.5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=56631"
+        },
+        {
+            "mal_id": 23,
+            "url": null,
+            "title": "Seeds of Destin: The Princesses Are Good Friends?!",
+            "title_japanese": "運命の種☆なかよしプリンセス!?",
+            "title_romanji": "Unmei no Tane: Nakayoshi Princess!? ",
+            "aired": "2005-09-03T00:00:00+00:00",
+            "score": 4.25,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1828436"
+        },
+        {
+            "mal_id": 24,
+            "url": null,
+            "title": "Windmill Kingdom, Don't Take Our Luchés!",
+            "title_japanese": "かざぐるまの国☆ルーチェとっちゃだめだめ〜ん",
+            "title_romanji": "Kazaguruma no Kuni: Luches Toccha Damedameen ",
+            "aired": "2005-09-10T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 25,
+            "url": null,
+            "title": "Surprised by Locusts: Princess Party",
+            "title_japanese": "いなごでびっくり☆プリンセスパーティ",
+            "title_romanji": "Inago de Bikkuri: Princess Party ",
+            "aired": "2005-09-17T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 26,
+            "url": null,
+            "title": "Oh My God, We Can't Prominence!",
+            "title_japanese": "大変大変☆プロミネンスできな〜い",
+            "title_romanji": "Taihen Taihen: Prominence Dekinaai ",
+            "aired": "2005-09-24T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 27,
+            "url": null,
+            "title": "Dark Poomo: Fortune Princesses",
+            "title_japanese": "黒いプーモ☆フォーチュンプリンセス",
+            "title_romanji": "Kuroi Poomo: Fortune Princess ",
+            "aired": "2005-10-01T00:00:00+00:00",
+            "score": 4.75,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=295170"
+        },
+        {
+            "mal_id": 28,
+            "url": null,
+            "title": "Fortune Princesses at Last (This Sounds Awesome)",
+            "title_japanese": "ついにフォーチュン☆これってすごいかも",
+            "title_romanji": "Tsui ni Fortune: Kore tte Sugoi ka mo ",
+            "aired": "2005-10-08T00:00:00+00:00",
+            "score": 4.67,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=295173"
+        },
+        {
+            "mal_id": 29,
+            "url": null,
+            "title": "Cheer Up, Altezza!",
+            "title_japanese": "元気を出して☆アルテッサ",
+            "title_romanji": "Genki wo Dashite: Altezza ",
+            "aired": "2005-10-15T00:00:00+00:00",
+            "score": 5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1829386"
+        },
+        {
+            "mal_id": 30,
+            "url": null,
+            "title": "Waterdrop Kingdom: Fake Twin Princesses?!",
+            "title_japanese": "しずくの国☆ニセふたご姫!?",
+            "title_romanji": "Shizuku no Kuni: Nise Futagohime!? ",
+            "aired": "2005-10-22T00:00:00+00:00",
+            "score": 5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1829388"
+        },
+        {
+            "mal_id": 31,
+            "url": null,
+            "title": "The Treasure Map: Dig, Dig, and Dig Some More",
+            "title_japanese": "宝の地図☆掘って掘って掘りまくれ",
+            "title_romanji": "Takara no Chizu: Hotte Hotte Horimakure ",
+            "aired": "2005-10-29T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 32,
+            "url": null,
+            "title": "Do Your Best, Tio! The Flame Country's Samba Festival",
+            "title_japanese": "がんばれティオ☆メラメラサンバ祭り",
+            "title_romanji": "Ganbare Tio: Meramera Samba Matsuri ",
+            "aired": "2005-11-05T00:00:00+00:00",
+            "score": 4.75,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=295239"
+        },
+        {
+            "mal_id": 33,
+            "url": null,
+            "title": "Pumo Pumo Poomo, Bumo Bumo Bumo",
+            "title_japanese": "ブモブモブウモ☆プモプモプーモ",
+            "title_romanji": "Bumobumo Boomo: Pumopumo Poomo ",
+            "aired": "2005-11-12T00:00:00+00:00",
+            "score": 4.6,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=295242"
+        },
+        {
+            "mal_id": 34,
+            "url": null,
+            "title": "Shine, Rainbow Springs! Mirlo's Wish",
+            "title_japanese": "輝け!虹の泉☆ミルロの願い",
+            "title_romanji": "Kagayake! Niji no Izumi: Mirlo no Negai ",
+            "aired": "2005-11-19T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 35,
+            "url": null,
+            "title": "Close Call: Princess Summit",
+            "title_japanese": "危機一髪☆プリンセスサミット",
+            "title_romanji": "Kiki Ippatsu: Princess Summit ",
+            "aired": "2005-11-26T00:00:00+00:00",
+            "score": 4.67,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=295247"
+        },
+        {
+            "mal_id": 36,
+            "url": null,
+            "title": "Dark Bright: Stormy Princess Party",
+            "title_japanese": "ダークなブライト☆嵐のプリンセスパーティ",
+            "title_romanji": "Dark na Bright: Arashi no Princess Party ",
+            "aired": "2005-12-03T00:00:00+00:00",
+            "score": 5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=295250"
+        },
+        {
+            "mal_id": 37,
+            "url": null,
+            "title": "Find the Seven Treasures! The Secret of the Grace Stones",
+            "title_japanese": "7つの宝を探せ☆グレイス・ストーンの秘密",
+            "title_romanji": "7-tsu no Takara wo Sagase: Grace Stone no Himitsu ",
+            "aired": "2005-12-10T00:00:00+00:00",
+            "score": 4.75,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=295253"
+        },
+        {
+            "mal_id": 38,
+            "url": null,
+            "title": "The Secret Valley of the Winds: Sophie's Treasure",
+            "title_japanese": "風の谷の秘密☆ソフィーの宝物",
+            "title_romanji": "Kaze no Tani no Himitsu: Sophie no Takaramono ",
+            "aired": "2005-12-17T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 39,
+            "url": null,
+            "title": "Pearl's Wish: The Christmas Miracle",
+            "title_japanese": "パールちゃんの祈り☆クリスマスの奇跡",
+            "title_romanji": "Pearl-chan no Inori: Christmas no Kiseki ",
+            "aired": "2005-12-24T00:00:00+00:00",
+            "score": 4.75,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=255966"
+        },
+        {
+            "mal_id": 40,
+            "url": null,
+            "title": "Year's First Laugh: Flame Variety Show",
+            "title_japanese": "初笑い☆メラメラ演芸会",
+            "title_romanji": "Hatsuwarai: Meramera Engeikai ",
+            "aired": "2006-01-07T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 41,
+            "url": null,
+            "title": "Hyper-active Baby: Parenting Diary",
+            "title_japanese": "爆裂ベイビー☆子育て日記",
+            "title_romanji": "Bakuretsu Baby: Kosodate Nikki ",
+            "aired": "2006-01-14T00:00:00+00:00",
+            "score": 5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=295268"
+        },
+        {
+            "mal_id": 42,
+            "url": null,
+            "title": "The Grass Full Moon",
+            "title_japanese": "ゲットだ満月草☆ムーンマリアを救え",
+            "title_romanji": "Get Da Mangetsusou: Moon Malia wo Sukue! ",
+            "aired": "2006-01-21T00:00:00+00:00",
+            "score": 5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=295271"
+        },
+        {
+            "mal_id": 43,
+            "url": null,
+            "title": "The Miraculous Circus: Fly, Nacchi!",
+            "title_japanese": "ミラクルサーカス☆とべ!ナッチ",
+            "title_romanji": "Miracle Circus: Tobe! Nacchi ",
+            "aired": "2006-01-28T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 44,
+            "url": null,
+            "title": "Aim for Victory: Shall We Dance?",
+            "title_japanese": "めざせ優勝☆シャル・ウィ・ダンス?",
+            "title_romanji": "Mezase Yuushou: Shall We Dance? ",
+            "aired": "2006-02-04T00:00:00+00:00",
+            "score": 5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=382189"
+        },
+        {
+            "mal_id": 45,
+            "url": null,
+            "title": "The Last Party of Princesses",
+            "title_japanese": "最後のパーティ☆勝利は誰の手に!?",
+            "title_romanji": "Saigo no Party: Shouri wa Dare no Te ni!? ",
+            "aired": "2006-02-11T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 46,
+            "url": null,
+            "title": "Bright Conquest: The Kingdom Solar",
+            "title_japanese": "行く?行かない?☆ブライトからの招待状",
+            "title_romanji": "Iku? Ikanai? Bright kara no Shoutaijou ",
+            "aired": "2006-02-18T00:00:00+00:00",
+            "score": 5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=295341"
+        },
+        {
+            "mal_id": 47,
+            "url": null,
+            "title": "Hope and Optimism",
+            "title_japanese": "逆転☆闇のプリンス",
+            "title_romanji": "Gyakuten: Yami no Prince ",
+            "aired": "2006-02-25T00:00:00+00:00",
+            "score": 4.25,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=382617"
+        },
+        {
+            "mal_id": 48,
+            "url": null,
+            "title": "The Final Treasure: Boomo is in Love?!",
+            "title_japanese": "最後の宝☆恋するブウモ!?",
+            "title_romanji": "Saigo no Takara: Koi Suru Boomo!? ",
+            "aired": "2006-03-04T00:00:00+00:00",
+            "score": 5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=533940"
+        },
+        {
+            "mal_id": 49,
+            "url": null,
+            "title": "May Our Hearts Reach Bright!",
+            "title_japanese": "みんなの心☆届け、ブライトに!",
+            "title_romanji": "Minna Kokoro: Todoke, Bright ni! ",
+            "aired": "2006-03-11T00:00:00+00:00",
+            "score": 5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=382993"
+        },
+        {
+            "mal_id": 50,
+            "url": null,
+            "title": "Large Reckless Driving Black Crystal",
+            "title_japanese": "大暴走!☆ブラッククリスタル",
+            "title_romanji": "Daibousou! Black Crystal ",
+            "aired": "2006-03-18T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 51,
+            "url": null,
+            "title": "The Princesses' Final Prominence: Don't give it up",
+            "title_japanese": "ファイナルプロミネンス☆プリンセスはあきらめない",
+            "title_romanji": "Final Prominence: Princess wa Akiramenai! ",
+            "aired": "2006-03-25T00:00:00+00:00",
+            "score": 5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=363575"
+        }
+    ]
+}

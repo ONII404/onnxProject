@@ -1,0 +1,174 @@
+{
+    "id": 2661,
+    "fetched_at": "Sun Dec 14 18:48:01 2025",
+    "metadata": {
+        "mal_id": 2661,
+        "url": "https://myanimelist.net/anime/2661/Doraemon_Movie_13__Nobita_to_Kumo_no_Oukoku",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1060/133694.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1060/133694t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1060/133694l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1060/133694.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1060/133694t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1060/133694l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Doraemon Movie 13: Nobita to Kumo no Oukoku"
+            },
+            {
+                "type": "Japanese",
+                "title": "映画 ドラえもん のび太と雲の王国"
+            },
+            {
+                "type": "English",
+                "title": "Doraemon the Movie: Nobita and the Kingdom of Clouds"
+            },
+            {
+                "type": "Spanish",
+                "title": "Doraemon Película 13: Doraemon y el Misterio de las Nubes"
+            }
+        ],
+        "title": "Doraemon Movie 13: Nobita to Kumo no Oukoku",
+        "title_english": "Doraemon the Movie: Nobita and the Kingdom of Clouds",
+        "title_japanese": "映画 ドラえもん のび太と雲の王国",
+        "title_synonyms": [],
+        "type": "Movie",
+        "source": "Unknown",
+        "episodes": 1,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "1992-03-07T00:00:00+00:00",
+            "to": null,
+            "prop": {
+                "from": {
+                    "day": 7,
+                    "month": 3,
+                    "year": 1992
+                },
+                "to": {
+                    "day": null,
+                    "month": null,
+                    "year": null
+                }
+            },
+            "string": "Mar 7, 1992"
+        },
+        "duration": "1 hr 37 min",
+        "rating": "PG - Children",
+        "score": 7.19,
+        "scored_by": 5433,
+        "rank": 3560,
+        "popularity": 7412,
+        "members": 8920,
+        "favorites": 5,
+        "synopsis": "During class, Nobita questions the teacher where heaven is located when he was being taught about clouds. Being laughed at, Nobita looks for proof that a heavenly place exists on the clouds, but was explained by Doraemon that it cannot exist scientifically. Disappointed, he was eventually helped by Doraemon to create their own kingdom of clouds. Little did they know that there are creatures who have been living on clouds for a long time. \n\n(Source: ANN)",
+        "background": "",
+        "season": null,
+        "year": null,
+        "broadcast": {
+            "day": null,
+            "time": null,
+            "timezone": null,
+            "string": null
+        },
+        "producers": [],
+        "licensors": [],
+        "studios": [
+            {
+                "mal_id": 247,
+                "type": "anime",
+                "name": "Shin-Ei Animation",
+                "url": "https://myanimelist.net/anime/producer/247/Shin-Ei_Animation"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 2,
+                "type": "anime",
+                "name": "Adventure",
+                "url": "https://myanimelist.net/anime/genre/2/Adventure"
+            },
+            {
+                "mal_id": 4,
+                "type": "anime",
+                "name": "Comedy",
+                "url": "https://myanimelist.net/anime/genre/4/Comedy"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [],
+        "demographics": [],
+        "relations": [
+            {
+                "relation": "Adaptation",
+                "entry": [
+                    {
+                        "mal_id": 12471,
+                        "type": "manga",
+                        "name": "Daichouhen Doraemon",
+                        "url": "https://myanimelist.net/manga/12471/Daichouhen_Doraemon"
+                    }
+                ]
+            },
+            {
+                "relation": "Parent Story",
+                "entry": [
+                    {
+                        "mal_id": 2471,
+                        "type": "anime",
+                        "name": "Doraemon (1979)",
+                        "url": "https://myanimelist.net/anime/2471/Doraemon_1979"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [
+                "\"Doraemon no Uta\" by Satoko Yamano"
+            ],
+            "endings": [
+                "\"Kumo ga yuku no wa...\" by Tetsuya Takeda"
+            ]
+        },
+        "external": [
+            {
+                "name": "Official Site",
+                "url": "http://www.dora-movie.com/film_history/history_13.html"
+            },
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=6588"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=3839"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "http://en.wikipedia.org/wiki/Doraemon:_Nobita_and_the_Kingdom_of_Clouds"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": []
+}

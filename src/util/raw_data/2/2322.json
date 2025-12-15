@@ -1,0 +1,265 @@
+{
+    "id": 2322,
+    "fetched_at": "Sun Dec 14 18:25:51 2025",
+    "metadata": {
+        "mal_id": 2322,
+        "url": "https://myanimelist.net/anime/2322/Giant_Robo_Gaiden_Ginrei",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1652/98494.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1652/98494t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1652/98494l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1652/98494.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1652/98494t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1652/98494l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Giant Robo Gaiden Ginrei"
+            },
+            {
+                "type": "Synonym",
+                "title": "Giant Robo: Gin-Rei Special"
+            },
+            {
+                "type": "Synonym",
+                "title": "GinRei: The Animation"
+            },
+            {
+                "type": "Japanese",
+                "title": "ジャイアントロボ外伝 GinRei 銀鈴"
+            },
+            {
+                "type": "English",
+                "title": "Giant Robo: Ginrei Special"
+            }
+        ],
+        "title": "Giant Robo Gaiden Ginrei",
+        "title_english": "Giant Robo: Ginrei Special",
+        "title_japanese": "ジャイアントロボ外伝 GinRei 銀鈴",
+        "title_synonyms": [
+            "Giant Robo: Gin-Rei Special",
+            "GinRei: The Animation"
+        ],
+        "type": "OVA",
+        "source": "Manga",
+        "episodes": 3,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "1994-02-20T00:00:00+00:00",
+            "to": "1995-02-21T00:00:00+00:00",
+            "prop": {
+                "from": {
+                    "day": 20,
+                    "month": 2,
+                    "year": 1994
+                },
+                "to": {
+                    "day": 21,
+                    "month": 2,
+                    "year": 1995
+                }
+            },
+            "string": "Feb 20, 1994 to Feb 21, 1995"
+        },
+        "duration": "25 min per ep",
+        "rating": "PG-13 - Teens 13 or older",
+        "score": 5.97,
+        "scored_by": 1863,
+        "rank": 10433,
+        "popularity": 8749,
+        "members": 5942,
+        "favorites": 1,
+        "synopsis": "In episode one, Ginrei's dress is stolen, only to be used to fool the enemy. The second episode deals with a giant robot made exactly in her image. Finally, the third episode concerns Tetsugyu and Ginrei investigating a lost research team in a \"wild west\" desert setting.\n\n(Source: ANN)",
+        "background": "",
+        "season": null,
+        "year": null,
+        "broadcast": {
+            "day": null,
+            "time": null,
+            "timezone": null,
+            "string": null
+        },
+        "producers": [
+            {
+                "mal_id": 23,
+                "type": "anime",
+                "name": "Bandai Visual",
+                "url": "https://myanimelist.net/anime/producer/23/Bandai_Visual"
+            },
+            {
+                "mal_id": 1313,
+                "type": "anime",
+                "name": "Amuse",
+                "url": "https://myanimelist.net/anime/producer/1313/Amuse"
+            }
+        ],
+        "licensors": [
+            {
+                "mal_id": 250,
+                "type": "anime",
+                "name": "Media Blasters",
+                "url": "https://myanimelist.net/anime/producer/250/Media_Blasters"
+            },
+            {
+                "mal_id": 467,
+                "type": "anime",
+                "name": "Discotek Media",
+                "url": "https://myanimelist.net/anime/producer/467/Discotek_Media"
+            },
+            {
+                "mal_id": 595,
+                "type": "anime",
+                "name": "NYAV Post",
+                "url": "https://myanimelist.net/anime/producer/595/NYAV_Post"
+            }
+        ],
+        "studios": [
+            {
+                "mal_id": 329,
+                "type": "anime",
+                "name": "Phoenix Entertainment",
+                "url": "https://myanimelist.net/anime/producer/329/Phoenix_Entertainment"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 4,
+                "type": "anime",
+                "name": "Comedy",
+                "url": "https://myanimelist.net/anime/genre/4/Comedy"
+            },
+            {
+                "mal_id": 24,
+                "type": "anime",
+                "name": "Sci-Fi",
+                "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+            },
+            {
+                "mal_id": 9,
+                "type": "anime",
+                "name": "Ecchi",
+                "url": "https://myanimelist.net/anime/genre/9/Ecchi"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [
+            {
+                "mal_id": 18,
+                "type": "anime",
+                "name": "Mecha",
+                "url": "https://myanimelist.net/anime/genre/18/Mecha"
+            },
+            {
+                "mal_id": 20,
+                "type": "anime",
+                "name": "Parody",
+                "url": "https://myanimelist.net/anime/genre/20/Parody"
+            },
+            {
+                "mal_id": 31,
+                "type": "anime",
+                "name": "Super Power",
+                "url": "https://myanimelist.net/anime/genre/31/Super_Power"
+            }
+        ],
+        "demographics": [
+            {
+                "mal_id": 27,
+                "type": "anime",
+                "name": "Shounen",
+                "url": "https://myanimelist.net/anime/genre/27/Shounen"
+            }
+        ],
+        "relations": [
+            {
+                "relation": "Spin-Off",
+                "entry": [
+                    {
+                        "mal_id": 2321,
+                        "type": "anime",
+                        "name": "Giant Robo the Animation: Chikyuu ga Seishi Suru Hi",
+                        "url": "https://myanimelist.net/anime/2321/Giant_Robo_the_Animation__Chikyuu_ga_Seishi_Suru_Hi"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [],
+            "endings": [
+                "\"Makyou no Paris -Arbeit to Iwan- (魔橋のパリ -アルベルトとイワン-)\" by Yousuke Akimoto and Yasuyoshi Hara"
+            ]
+        },
+        "external": [
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=3541"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=3865"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "http://en.wikipedia.org/wiki/Giant_Robo"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": [
+        {
+            "mal_id": 1,
+            "url": null,
+            "title": "Barefoot Ginrei: Find the Stolen Chinese Dress!",
+            "title_japanese": "素足のGinRei 盗まれた戦闘チャイナを捜せ大作戦!!",
+            "title_romanji": "Suashi no Ginrei: Nusumareta Sentou China wo Sagase Daisakusen!! ",
+            "aired": "1994-02-20T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=591199"
+        },
+        {
+            "mal_id": 2,
+            "url": null,
+            "title": "Steel-Armed Ginrei",
+            "title_japanese": "鉄腕GinRei",
+            "title_romanji": "Tetsuwan Ginrei ",
+            "aired": "1994-08-20T00:00:00+00:00",
+            "score": 3.67,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=591723"
+        },
+        {
+            "mal_id": 3,
+            "url": null,
+            "title": "Blue-Eyed Ginrei",
+            "title_japanese": "青い瞳の銀鈴",
+            "title_romanji": "Aoi Hitomi no Ginrei ",
+            "aired": "1995-02-21T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=592339"
+        }
+    ]
+}

@@ -1,0 +1,218 @@
+{
+    "id": 893,
+    "fetched_at": "Sun Dec 14 14:16:03 2025",
+    "metadata": {
+        "mal_id": 893,
+        "url": "https://myanimelist.net/anime/893/Dragon_Ball_Movie_4__Saikyou_e_no_Michi",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1497/93677.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1497/93677t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1497/93677l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1497/93677.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1497/93677t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1497/93677l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": "https://www.youtube-nocookie.com/embed/fRvGagAfD3o?enablejsapi=1&wmode=opaque&autoplay=1",
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Dragon Ball Movie 4: Saikyou e no Michi"
+            },
+            {
+                "type": "Japanese",
+                "title": "ドラゴンボール 最強への道"
+            },
+            {
+                "type": "English",
+                "title": "Dragon Ball: The Path to Power"
+            },
+            {
+                "type": "German",
+                "title": "Dragon Ball Film 4: Der Weg zur Macht"
+            },
+            {
+                "type": "Spanish",
+                "title": "Dragon Ball Película 4: El Camino más Fuerte"
+            },
+            {
+                "type": "French",
+                "title": "Dragon Ball Film 4: L'aventure mystique"
+            }
+        ],
+        "title": "Dragon Ball Movie 4: Saikyou e no Michi",
+        "title_english": "Dragon Ball: The Path to Power",
+        "title_japanese": "ドラゴンボール 最強への道",
+        "title_synonyms": [],
+        "type": "Movie",
+        "source": "Manga",
+        "episodes": 1,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "1996-03-02T00:00:00+00:00",
+            "to": null,
+            "prop": {
+                "from": {
+                    "day": 2,
+                    "month": 3,
+                    "year": 1996
+                },
+                "to": {
+                    "day": null,
+                    "month": null,
+                    "year": null
+                }
+            },
+            "string": "Mar 2, 1996"
+        },
+        "duration": "1 hr 19 min",
+        "rating": "PG-13 - Teens 13 or older",
+        "score": 7.14,
+        "scored_by": 35859,
+        "rank": 3811,
+        "popularity": 2961,
+        "members": 67470,
+        "favorites": 53,
+        "synopsis": "A retelling of Dragon Ball's origin with a different take on the meeting of Goku, Bulma, and Kame-Sen'nin. It also retells the Red Ribbon Army story; but this time they find Goku rather than Goku finding them. \n\n(Source: ANN)",
+        "background": "",
+        "season": null,
+        "year": null,
+        "broadcast": {
+            "day": null,
+            "time": null,
+            "timezone": null,
+            "string": null
+        },
+        "producers": [],
+        "licensors": [
+            {
+                "mal_id": 102,
+                "type": "anime",
+                "name": "Funimation",
+                "url": "https://myanimelist.net/anime/producer/102/Funimation"
+            }
+        ],
+        "studios": [
+            {
+                "mal_id": 18,
+                "type": "anime",
+                "name": "Toei Animation",
+                "url": "https://myanimelist.net/anime/producer/18/Toei_Animation"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 1,
+                "type": "anime",
+                "name": "Action",
+                "url": "https://myanimelist.net/anime/genre/1/Action"
+            },
+            {
+                "mal_id": 2,
+                "type": "anime",
+                "name": "Adventure",
+                "url": "https://myanimelist.net/anime/genre/2/Adventure"
+            },
+            {
+                "mal_id": 4,
+                "type": "anime",
+                "name": "Comedy",
+                "url": "https://myanimelist.net/anime/genre/4/Comedy"
+            },
+            {
+                "mal_id": 10,
+                "type": "anime",
+                "name": "Fantasy",
+                "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+            },
+            {
+                "mal_id": 24,
+                "type": "anime",
+                "name": "Sci-Fi",
+                "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [],
+        "demographics": [
+            {
+                "mal_id": 27,
+                "type": "anime",
+                "name": "Shounen",
+                "url": "https://myanimelist.net/anime/genre/27/Shounen"
+            }
+        ],
+        "relations": [
+            {
+                "relation": "Prequel",
+                "entry": [
+                    {
+                        "mal_id": 892,
+                        "type": "anime",
+                        "name": "Dragon Ball Movie 3: Makafushigi Daibouken",
+                        "url": "https://myanimelist.net/anime/892/Dragon_Ball_Movie_3__Makafushigi_Daibouken"
+                    }
+                ]
+            },
+            {
+                "relation": "Alternative Version",
+                "entry": [
+                    {
+                        "mal_id": 223,
+                        "type": "anime",
+                        "name": "Dragon Ball",
+                        "url": "https://myanimelist.net/anime/223/Dragon_Ball"
+                    },
+                    {
+                        "mal_id": 502,
+                        "type": "anime",
+                        "name": "Dragon Ball Movie 1: Shen Long no Densetsu",
+                        "url": "https://myanimelist.net/anime/502/Dragon_Ball_Movie_1__Shen_Long_no_Densetsu"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [],
+            "endings": [
+                "\"DAN DAN Kokoro Hikareteku\" by FIELD OF VIEW"
+            ]
+        },
+        "external": [
+            {
+                "name": "Official Site",
+                "url": "http://lineup.toei-anim.co.jp/ja/movie/movie_doragonball_saikyou/"
+            },
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=1129"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=2400"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "http://en.wikipedia.org/wiki/Dragon_Ball:_The_Path_to_Power"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": []
+}

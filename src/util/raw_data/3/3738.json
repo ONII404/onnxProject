@@ -1,0 +1,196 @@
+{
+    "id": 3738,
+    "fetched_at": "Sun Dec 14 20:08:54 2025",
+    "metadata": {
+        "mal_id": 3738,
+        "url": "https://myanimelist.net/anime/3738/Usavich_II",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/5/15661.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/5/15661t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/5/15661l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/5/15661.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/5/15661t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/5/15661l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Usavich II"
+            },
+            {
+                "type": "Synonym",
+                "title": "Usavich 2"
+            },
+            {
+                "type": "Japanese",
+                "title": "ウサビッチ"
+            },
+            {
+                "type": "English",
+                "title": "Usavich II"
+            }
+        ],
+        "title": "Usavich II",
+        "title_english": "Usavich II",
+        "title_japanese": "ウサビッチ",
+        "title_synonyms": [
+            "Usavich 2"
+        ],
+        "type": "TV",
+        "source": "Original",
+        "episodes": 13,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "2007-10-08T00:00:00+00:00",
+            "to": "2008-01-15T00:00:00+00:00",
+            "prop": {
+                "from": {
+                    "day": 8,
+                    "month": 10,
+                    "year": 2007
+                },
+                "to": {
+                    "day": 15,
+                    "month": 1,
+                    "year": 2008
+                }
+            },
+            "string": "Oct 8, 2007 to Jan 15, 2008"
+        },
+        "duration": "1 min per ep",
+        "rating": "PG-13 - Teens 13 or older",
+        "score": 7.03,
+        "scored_by": 3300,
+        "rank": 4409,
+        "popularity": 9095,
+        "members": 5349,
+        "favorites": 2,
+        "synopsis": "The adventures of Putin and Kirenenko, two rabbits stuck in a Russian prison, continue as they make their escape and try to avoid the fearsome Soviet bunnies on their trail!",
+        "background": "",
+        "season": "fall",
+        "year": 2007,
+        "broadcast": {
+            "day": null,
+            "time": null,
+            "timezone": null,
+            "string": "Unknown"
+        },
+        "producers": [],
+        "licensors": [],
+        "studios": [
+            {
+                "mal_id": 330,
+                "type": "anime",
+                "name": "Kanaban Graphics",
+                "url": "https://myanimelist.net/anime/producer/330/Kanaban_Graphics"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 2,
+                "type": "anime",
+                "name": "Adventure",
+                "url": "https://myanimelist.net/anime/genre/2/Adventure"
+            },
+            {
+                "mal_id": 4,
+                "type": "anime",
+                "name": "Comedy",
+                "url": "https://myanimelist.net/anime/genre/4/Comedy"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [
+            {
+                "mal_id": 51,
+                "type": "anime",
+                "name": "Anthropomorphic",
+                "url": "https://myanimelist.net/anime/genre/51/Anthropomorphic"
+            },
+            {
+                "mal_id": 57,
+                "type": "anime",
+                "name": "Gag Humor",
+                "url": "https://myanimelist.net/anime/genre/57/Gag_Humor"
+            }
+        ],
+        "demographics": [],
+        "relations": [
+            {
+                "relation": "Prequel",
+                "entry": [
+                    {
+                        "mal_id": 3737,
+                        "type": "anime",
+                        "name": "Usavich",
+                        "url": "https://myanimelist.net/anime/3737/Usavich"
+                    }
+                ]
+            },
+            {
+                "relation": "Sequel",
+                "entry": [
+                    {
+                        "mal_id": 5397,
+                        "type": "anime",
+                        "name": "Usavich III",
+                        "url": "https://myanimelist.net/anime/5397/Usavich_III"
+                    }
+                ]
+            },
+            {
+                "relation": "Side Story",
+                "entry": [
+                    {
+                        "mal_id": 61869,
+                        "type": "anime",
+                        "name": "Usavich II: Do M Chuui",
+                        "url": "https://myanimelist.net/anime/61869/Usavich_II__Do_M_Chuui"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [],
+            "endings": []
+        },
+        "external": [
+            {
+                "name": "Official Site",
+                "url": "http://www.usavich.tv/"
+            },
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=5917"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=1360"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "http://en.wikipedia.org/wiki/Usavich"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": []
+}

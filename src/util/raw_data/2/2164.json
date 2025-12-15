@@ -1,0 +1,572 @@
+{
+    "id": 2164,
+    "fetched_at": "Sun Dec 14 18:15:38 2025",
+    "metadata": {
+        "mal_id": 2164,
+        "url": "https://myanimelist.net/anime/2164/Dennou_Coil",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/5/12844.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/5/12844t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/5/12844l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/5/12844.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/5/12844t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/5/12844l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Dennou Coil"
+            },
+            {
+                "type": "Synonym",
+                "title": "Cyber Coil"
+            },
+            {
+                "type": "Synonym",
+                "title": "Coil - A Circle of Children"
+            },
+            {
+                "type": "Synonym",
+                "title": "Denno Coil"
+            },
+            {
+                "type": "Japanese",
+                "title": "電脳コイル"
+            },
+            {
+                "type": "English",
+                "title": "Den-noh Coil"
+            },
+            {
+                "type": "French",
+                "title": "Dennoh Coil"
+            }
+        ],
+        "title": "Dennou Coil",
+        "title_english": "Den-noh Coil",
+        "title_japanese": "電脳コイル",
+        "title_synonyms": [
+            "Cyber Coil",
+            "Coil - A Circle of Children",
+            "Denno Coil"
+        ],
+        "type": "TV",
+        "source": "Original",
+        "episodes": 26,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "2007-05-12T00:00:00+00:00",
+            "to": "2007-12-01T00:00:00+00:00",
+            "prop": {
+                "from": {
+                    "day": 12,
+                    "month": 5,
+                    "year": 2007
+                },
+                "to": {
+                    "day": 1,
+                    "month": 12,
+                    "year": 2007
+                }
+            },
+            "string": "May 12, 2007 to Dec 1, 2007"
+        },
+        "duration": "25 min per ep",
+        "rating": "G - All Ages",
+        "score": 8.02,
+        "scored_by": 45687,
+        "rank": 676,
+        "popularity": 1668,
+        "members": 157076,
+        "favorites": 1680,
+        "synopsis": "In the near future, augmented reality has become a key part of daily life. A gentle middle school girl named Yuuko \"Yasako\" Okonogi and her family have just moved to Daikoku City despite rumors of people disappearing. There, her grandmother, nicknamed \"Mega-baa,\" runs a shop called Megasia that specializes in illegal tools which interact with parts of the virtual world.\n\nMega-baa also hosts an unofficial detective agency called \"Coil,\" a group of children around Yasako's age who find and handle corruption of the virtual world. Yasako gets involved with the group when Fumie Hashimoto, a playful member of Coil, helps rescue her cyberdog Densuke after getting trapped in virtual space while chasing a mysterious virus. Also investigating these corruptions and viruses is an abrasive hacker named Yuuko Amasawa, who the others take to calling Isako.\n\nCan Coil discover the truths behind the mysterious viruses and corruption, and if they can, at what cost?\n\n[Written by MAL Rewrite]",
+        "background": "One of the awards won by the series was the Seiun Award in 2008 for the Best Dramatic Presentation category.",
+        "season": "spring",
+        "year": 2007,
+        "broadcast": {
+            "day": null,
+            "time": null,
+            "timezone": null,
+            "string": "Unknown"
+        },
+        "producers": [
+            {
+                "mal_id": 23,
+                "type": "anime",
+                "name": "Bandai Visual",
+                "url": "https://myanimelist.net/anime/producer/23/Bandai_Visual"
+            },
+            {
+                "mal_id": 111,
+                "type": "anime",
+                "name": "NHK",
+                "url": "https://myanimelist.net/anime/producer/111/NHK"
+            },
+            {
+                "mal_id": 382,
+                "type": "anime",
+                "name": "Tokuma Shoten",
+                "url": "https://myanimelist.net/anime/producer/382/Tokuma_Shoten"
+            },
+            {
+                "mal_id": 3104,
+                "type": "anime",
+                "name": "Mediarte Entertainment Works",
+                "url": "https://myanimelist.net/anime/producer/3104/Mediarte_Entertainment_Works"
+            }
+        ],
+        "licensors": [
+            {
+                "mal_id": 490,
+                "type": "anime",
+                "name": "Maiden Japan",
+                "url": "https://myanimelist.net/anime/producer/490/Maiden_Japan"
+            }
+        ],
+        "studios": [
+            {
+                "mal_id": 11,
+                "type": "anime",
+                "name": "Madhouse",
+                "url": "https://myanimelist.net/anime/producer/11/Madhouse"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 2,
+                "type": "anime",
+                "name": "Adventure",
+                "url": "https://myanimelist.net/anime/genre/2/Adventure"
+            },
+            {
+                "mal_id": 46,
+                "type": "anime",
+                "name": "Award Winning",
+                "url": "https://myanimelist.net/anime/genre/46/Award_Winning"
+            },
+            {
+                "mal_id": 8,
+                "type": "anime",
+                "name": "Drama",
+                "url": "https://myanimelist.net/anime/genre/8/Drama"
+            },
+            {
+                "mal_id": 7,
+                "type": "anime",
+                "name": "Mystery",
+                "url": "https://myanimelist.net/anime/genre/7/Mystery"
+            },
+            {
+                "mal_id": 24,
+                "type": "anime",
+                "name": "Sci-Fi",
+                "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [],
+        "demographics": [],
+        "relations": [
+            {
+                "relation": "Adaptation",
+                "entry": [
+                    {
+                        "mal_id": 25525,
+                        "type": "manga",
+                        "name": "Dennou Coil",
+                        "url": "https://myanimelist.net/manga/25525/Dennou_Coil"
+                    },
+                    {
+                        "mal_id": 11424,
+                        "type": "manga",
+                        "name": "Dennou Coil",
+                        "url": "https://myanimelist.net/manga/11424/Dennou_Coil"
+                    }
+                ]
+            },
+            {
+                "relation": "Summary",
+                "entry": [
+                    {
+                        "mal_id": 13955,
+                        "type": "anime",
+                        "name": "Dennou Coil Recaps",
+                        "url": "https://myanimelist.net/anime/13955/Dennou_Coil_Recaps"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [
+                "\"Prism (プリズム)\" by Ayako Ikeda"
+            ],
+            "endings": [
+                "\"Sora no Kakera (空の欠片; A Fragment of the Sky)\" by Ayako Ikeda"
+            ]
+        },
+        "external": [
+            {
+                "name": "Official Site",
+                "url": "http://www.tokuma.jp/coil/"
+            },
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=4345"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=6278"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "http://en.wikipedia.org/wiki/Denn%C5%8D_Coil"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "https://ja.wikipedia.org/wiki/%E9%9B%BB%E8%84%B3%E3%82%B3%E3%82%A4%E3%83%AB"
+            },
+            {
+                "name": "Syoboi",
+                "url": "https://cal.syoboi.jp/tid/1028"
+            }
+        ],
+        "streaming": [
+            {
+                "name": "Netflix",
+                "url": "https://www.netflix.com/title/81299264"
+            }
+        ]
+    },
+    "episodes": [
+        {
+            "mal_id": 1,
+            "url": null,
+            "title": "The Children With Glasses",
+            "title_japanese": "メガネの子供たち",
+            "title_romanji": "Megane no Kodomo-tachi ",
+            "aired": "2007-05-12T00:00:00+00:00",
+            "score": 4.29,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1590"
+        },
+        {
+            "mal_id": 2,
+            "url": null,
+            "title": "Coil Cyberinvestigation Agency",
+            "title_japanese": "コイル電脳探偵局",
+            "title_romanji": "Coil Dennou Tantei Kyoku ",
+            "aired": "2007-05-19T00:00:00+00:00",
+            "score": 4.2,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1694"
+        },
+        {
+            "mal_id": 3,
+            "url": null,
+            "title": "Yūko and Yūko",
+            "title_japanese": "優子と勇子",
+            "title_romanji": "Yuuko to Yuuko ",
+            "aired": "2007-05-26T00:00:00+00:00",
+            "score": 4.44,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1875"
+        },
+        {
+            "mal_id": 4,
+            "url": null,
+            "title": "Daikoku City Hackers Club",
+            "title_japanese": "大黒市黒客クラブ",
+            "title_romanji": "Daikoku-shi: Hacker Club ",
+            "aired": "2007-06-02T00:00:00+00:00",
+            "score": 4.47,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2038"
+        },
+        {
+            "mal_id": 5,
+            "url": null,
+            "title": "Metabug Scramble Bus Tour",
+            "title_japanese": "メタバグ争奪バスツアー",
+            "title_romanji": "Meta Bug Soudatsu Bus Tour ",
+            "aired": "2007-06-09T00:00:00+00:00",
+            "score": 4.37,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2151"
+        },
+        {
+            "mal_id": 6,
+            "url": null,
+            "title": "The Red Automaton",
+            "title_japanese": "赤いオートマトン",
+            "title_romanji": "Akai Automaton ",
+            "aired": "2007-06-16T00:00:00+00:00",
+            "score": 4.16,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2432"
+        },
+        {
+            "mal_id": 7,
+            "url": null,
+            "title": "Move Out!! Coil Investigation Agency",
+            "title_japanese": "出動!!コイル探偵局",
+            "title_romanji": "Shutsudou! Coil Tantei Kyoku ",
+            "aired": "2007-06-23T00:00:00+00:00",
+            "score": 4.36,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2699"
+        },
+        {
+            "mal_id": 8,
+            "url": null,
+            "title": "The Summer Festival and the Duel",
+            "title_japanese": "夏祭り、そして果たし合い",
+            "title_romanji": "Natsumatsuri Soshite Hatashiai ",
+            "aired": "2007-06-30T00:00:00+00:00",
+            "score": 4.41,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=3153"
+        },
+        {
+            "mal_id": 9,
+            "url": null,
+            "title": "Michiko: From the Other Side",
+            "title_japanese": "あっちのミチコさん",
+            "title_romanji": "Acchi no Michiko-san ",
+            "aired": "2007-07-07T00:00:00+00:00",
+            "score": 4.59,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=3423"
+        },
+        {
+            "mal_id": 10,
+            "url": null,
+            "title": "Kanna's Diary",
+            "title_japanese": "カンナの日記",
+            "title_romanji": "Kanna no Nikki ",
+            "aired": "2007-07-14T00:00:00+00:00",
+            "score": 4.37,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=4738"
+        },
+        {
+            "mal_id": 11,
+            "url": null,
+            "title": "Submerged in Daikoku City!",
+            "title_japanese": "沈没! 大黒市",
+            "title_romanji": "Chinbotsu! Daikoku-shi ",
+            "aired": "2007-07-21T00:00:00+00:00",
+            "score": 4.46,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=4742"
+        },
+        {
+            "mal_id": 12,
+            "url": null,
+            "title": "Daichi's First Hair",
+            "title_japanese": "ダイチ、発毛ス",
+            "title_romanji": "Daichi, Hatsumousu ",
+            "aired": "2007-07-28T00:00:00+00:00",
+            "score": 4.77,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=3601"
+        },
+        {
+            "mal_id": 13,
+            "url": null,
+            "title": "The Last Plesiosaur",
+            "title_japanese": "最後の首長竜",
+            "title_romanji": "Saigo no Kubinagaryuu ",
+            "aired": "2007-08-04T00:00:00+00:00",
+            "score": 4.56,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=3631"
+        },
+        {
+            "mal_id": 14,
+            "url": null,
+            "title": "Chronicles of a Living Creature",
+            "title_japanese": "いきものの記録",
+            "title_romanji": "Ikimono no Kiroku ",
+            "aired": "2007-09-01T00:00:00+00:00",
+            "score": 3.82,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=5130"
+        },
+        {
+            "mal_id": 15,
+            "url": null,
+            "title": "The Boy on the Other Side of the Station",
+            "title_japanese": "駅向こうの少年",
+            "title_romanji": "Eki Mukou no Shounen ",
+            "aired": "2007-09-08T00:00:00+00:00",
+            "score": 4.53,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=5270"
+        },
+        {
+            "mal_id": 16,
+            "url": null,
+            "title": "Isako's Hospital Room",
+            "title_japanese": "イサコの病室",
+            "title_romanji": "Isako no Byoushitsu ",
+            "aired": "2007-09-15T00:00:00+00:00",
+            "score": 4.58,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=5276"
+        },
+        {
+            "mal_id": 17,
+            "url": null,
+            "title": "The Last Summer Vacation",
+            "title_japanese": "最後の夏休み",
+            "title_romanji": "Saigo no Natsu Yasumi ",
+            "aired": "2007-09-22T00:00:00+00:00",
+            "score": 4.61,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=6442"
+        },
+        {
+            "mal_id": 18,
+            "url": null,
+            "title": "The Door to Another World",
+            "title_japanese": "異界への扉",
+            "title_romanji": "Ikai e no Tobira ",
+            "aired": "2007-09-29T00:00:00+00:00",
+            "score": 4.74,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=6463"
+        },
+        {
+            "mal_id": 19,
+            "url": null,
+            "title": "The Black Visitors",
+            "title_japanese": "黒い訪問者",
+            "title_romanji": "Kuroi Houmonsha ",
+            "aired": "2007-10-06T00:00:00+00:00",
+            "score": 4.77,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=6766"
+        },
+        {
+            "mal_id": 20,
+            "url": null,
+            "title": "Kanna and Yasako",
+            "title_japanese": "カンナとヤサコ",
+            "title_romanji": "Kanna to Yasako ",
+            "aired": "2007-10-13T00:00:00+00:00",
+            "score": 4.78,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=7041"
+        },
+        {
+            "mal_id": 21,
+            "url": null,
+            "title": "The Black Automaton",
+            "title_japanese": "黒いオートマトン",
+            "title_romanji": "Kuroi Automaton ",
+            "aired": "2007-10-20T00:00:00+00:00",
+            "score": 4.67,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=7887"
+        },
+        {
+            "mal_id": 22,
+            "url": null,
+            "title": "The Last Coil",
+            "title_japanese": "最後のコイル",
+            "title_romanji": "Saigo no Coil ",
+            "aired": "2007-10-27T00:00:00+00:00",
+            "score": 4.74,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=8002"
+        },
+        {
+            "mal_id": 23,
+            "url": null,
+            "title": "The Granted Wish",
+            "title_japanese": "かなえられた願い",
+            "title_romanji": "Kanaerareta Negai ",
+            "aired": "2007-11-10T00:00:00+00:00",
+            "score": 4.67,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=8157"
+        },
+        {
+            "mal_id": 24,
+            "url": null,
+            "title": "The Kids Cast Their Glasses Away",
+            "title_japanese": "メガネを捨てる子供たち",
+            "title_romanji": "Megane wo Suteru Kodomo-tachi ",
+            "aired": "2007-11-17T00:00:00+00:00",
+            "score": 4.62,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=8817"
+        },
+        {
+            "mal_id": 25,
+            "url": null,
+            "title": "Kanazawa City Window Crossing",
+            "title_japanese": "金沢市はざま交差点",
+            "title_romanji": "Kanazawa Shi Hazama Kousaten ",
+            "aired": "2007-11-24T00:00:00+00:00",
+            "score": 4.61,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=8825"
+        },
+        {
+            "mal_id": 26,
+            "url": null,
+            "title": "Yasako and Isako",
+            "title_japanese": "ヤサコとイサコ",
+            "title_romanji": "Yasako to Isako ",
+            "aired": "2007-12-01T00:00:00+00:00",
+            "score": 4.72,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=8698"
+        }
+    ]
+}

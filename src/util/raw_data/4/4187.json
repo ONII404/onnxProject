@@ -1,0 +1,151 @@
+{
+    "id": 4187,
+    "fetched_at": "Sun Dec 14 22:26:18 2025",
+    "metadata": {
+        "mal_id": 4187,
+        "url": "https://myanimelist.net/anime/4187/Megumi",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/3/15872.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/3/15872t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/3/15872l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/3/15872.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/3/15872t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/3/15872l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Megumi"
+            },
+            {
+                "type": "Japanese",
+                "title": "めぐみ"
+            },
+            {
+                "type": "English",
+                "title": "Megumi"
+            }
+        ],
+        "title": "Megumi",
+        "title_english": "Megumi",
+        "title_japanese": "めぐみ",
+        "title_synonyms": [],
+        "type": "ONA",
+        "source": "Other",
+        "episodes": 1,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "2008-03-28T00:00:00+00:00",
+            "to": null,
+            "prop": {
+                "from": {
+                    "day": 28,
+                    "month": 3,
+                    "year": 2008
+                },
+                "to": {
+                    "day": null,
+                    "month": null,
+                    "year": null
+                }
+            },
+            "string": "Mar 28, 2008"
+        },
+        "duration": "25 min",
+        "rating": "G - All Ages",
+        "score": 5.91,
+        "scored_by": 817,
+        "rank": 10789,
+        "popularity": 11715,
+        "members": 2458,
+        "favorites": 1,
+        "synopsis": "An anime biography on Megumi Yokota, who was abducted by North Korea in 1977 when she was 13 years old. North Korea acknowledges abducting her and at least 12 other Japanese residents during the 1970s and the 1980s, but the country has not provided any conclusive evidence on her fate and most of the others.\n\n(Source: ANN)",
+        "background": "",
+        "season": null,
+        "year": null,
+        "broadcast": {
+            "day": null,
+            "time": null,
+            "timezone": null,
+            "string": null
+        },
+        "producers": [],
+        "licensors": [],
+        "studios": [
+            {
+                "mal_id": 80,
+                "type": "anime",
+                "name": "Trans Arts",
+                "url": "https://myanimelist.net/anime/producer/80/Trans_Arts"
+            }
+        ],
+        "genres": [],
+        "explicit_genres": [],
+        "themes": [
+            {
+                "mal_id": 13,
+                "type": "anime",
+                "name": "Historical",
+                "url": "https://myanimelist.net/anime/genre/13/Historical"
+            }
+        ],
+        "demographics": [],
+        "relations": [
+            {
+                "relation": "Adaptation",
+                "entry": [
+                    {
+                        "mal_id": 7006,
+                        "type": "manga",
+                        "name": "Megumi",
+                        "url": "https://myanimelist.net/manga/7006/Megumi"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [],
+            "endings": [
+                "\"A Song for Megumi\" by Paul Stookey"
+            ]
+        },
+        "external": [
+            {
+                "name": "Official Site",
+                "url": "http://www.rachi.go.jp/jp/megumi/"
+            },
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=5845"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=9707"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "http://en.wikipedia.org/wiki/Megumi_Yokota"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": []
+}

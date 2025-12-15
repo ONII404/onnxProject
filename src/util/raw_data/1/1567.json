@@ -1,0 +1,714 @@
+{
+    "id": 1567,
+    "fetched_at": "Sun Dec 14 16:32:51 2025",
+    "metadata": {
+        "mal_id": 1567,
+        "url": "https://myanimelist.net/anime/1567/Kaitou_Saint_Tail",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/6/46607.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/6/46607t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/6/46607l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/6/46607.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/6/46607t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/6/46607l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": "https://www.youtube-nocookie.com/embed/asunwZv-i_8?enablejsapi=1&wmode=opaque&autoplay=1",
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Kaitou Saint Tail"
+            },
+            {
+                "type": "Japanese",
+                "title": "怪盗セイント・テール"
+            },
+            {
+                "type": "English",
+                "title": "Mysterious Thief Saint Tail"
+            }
+        ],
+        "title": "Kaitou Saint Tail",
+        "title_english": "Mysterious Thief Saint Tail",
+        "title_japanese": "怪盗セイント・テール",
+        "title_synonyms": [],
+        "type": "TV",
+        "source": "Manga",
+        "episodes": 43,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "1995-10-12T00:00:00+00:00",
+            "to": "1996-09-12T00:00:00+00:00",
+            "prop": {
+                "from": {
+                    "day": 12,
+                    "month": 10,
+                    "year": 1995
+                },
+                "to": {
+                    "day": 12,
+                    "month": 9,
+                    "year": 1996
+                }
+            },
+            "string": "Oct 12, 1995 to Sep 12, 1996"
+        },
+        "duration": "22 min per ep",
+        "rating": "G - All Ages",
+        "score": 7.55,
+        "scored_by": 8634,
+        "rank": 1858,
+        "popularity": 5030,
+        "members": 23469,
+        "favorites": 235,
+        "synopsis": "Meimi Haneoka, 14, is a normal girl during the daytime, but during the night, she assumes the \"position\" of Saint Tail, a modern-day Robin Hood who steals from thieves and gives items back to their original owners. She is aided by her friend, Seira Mimori, a nun-in-training, and she is chased by her classmate (and soon-to-be love interest), Daiki Asuka (often called \"Asuka Jr.\"). \n\n(Source: ANN)",
+        "background": "",
+        "season": "fall",
+        "year": 1995,
+        "broadcast": {
+            "day": "Thursdays",
+            "time": "19:30",
+            "timezone": "Asia/Tokyo",
+            "string": "Thursdays at 19:30 (JST)"
+        },
+        "producers": [
+            {
+                "mal_id": 53,
+                "type": "anime",
+                "name": "Dentsu",
+                "url": "https://myanimelist.net/anime/producer/53/Dentsu"
+            },
+            {
+                "mal_id": 65,
+                "type": "anime",
+                "name": "Tokyo Movie Shinsha",
+                "url": "https://myanimelist.net/anime/producer/65/Tokyo_Movie_Shinsha"
+            },
+            {
+                "mal_id": 1415,
+                "type": "anime",
+                "name": "Asahi Broadcasting",
+                "url": "https://myanimelist.net/anime/producer/1415/Asahi_Broadcasting"
+            }
+        ],
+        "licensors": [
+            {
+                "mal_id": 467,
+                "type": "anime",
+                "name": "Discotek Media",
+                "url": "https://myanimelist.net/anime/producer/467/Discotek_Media"
+            },
+            {
+                "mal_id": 484,
+                "type": "anime",
+                "name": "Tokyopop",
+                "url": "https://myanimelist.net/anime/producer/484/Tokyopop"
+            }
+        ],
+        "studios": [
+            {
+                "mal_id": 73,
+                "type": "anime",
+                "name": "TMS Entertainment",
+                "url": "https://myanimelist.net/anime/producer/73/TMS_Entertainment"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 2,
+                "type": "anime",
+                "name": "Adventure",
+                "url": "https://myanimelist.net/anime/genre/2/Adventure"
+            },
+            {
+                "mal_id": 22,
+                "type": "anime",
+                "name": "Romance",
+                "url": "https://myanimelist.net/anime/genre/22/Romance"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [],
+        "demographics": [
+            {
+                "mal_id": 25,
+                "type": "anime",
+                "name": "Shoujo",
+                "url": "https://myanimelist.net/anime/genre/25/Shoujo"
+            }
+        ],
+        "relations": [
+            {
+                "relation": "Adaptation",
+                "entry": [
+                    {
+                        "mal_id": 508,
+                        "type": "manga",
+                        "name": "Kaitou Saint Tail",
+                        "url": "https://myanimelist.net/manga/508/Kaitou_Saint_Tail"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [
+                "1: \"Toki o Koete\" by Matsuyuki Yasuko (eps 01-24)",
+                "2: \"Ashita e to Kakedashite Yukou\" by Matsuda Seiko (eps 25-43)"
+            ],
+            "endings": [
+                "1: \"Junshin\" by Inoue Shoko (eps 01-24)",
+                "2: \"Up Side Down - Eien no Wa -\" by Inoue Shoko (eps 25-38)",
+                "3: \"Yumemiru Melody\" by Kajitani Miyuki (eps 39-43)"
+            ]
+        },
+        "external": [
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=852"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=307"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Saint_Tail"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": [
+        {
+            "mal_id": 1,
+            "url": null,
+            "title": "The Cutest Little Thief! She Will Steal Your Heart!",
+            "title_japanese": "登場!キュートな大泥棒!? あなたのハート盗みます.",
+            "title_romanji": "Toujou! Cute na Oodorobou!? Anata no Heart Nusumimasu. ",
+            "aired": "1995-10-12T00:00:00+00:00",
+            "score": 4.16,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=95098"
+        },
+        {
+            "mal_id": 2,
+            "url": null,
+            "title": "Wonderful Rival: Asuka Jr.",
+            "title_japanese": "素敵なライバル! アスカJr.",
+            "title_romanji": "Suteki na Rival! Asuka Jr. ",
+            "aired": "1995-10-12T00:00:00+00:00",
+            "score": 4.54,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=118895"
+        },
+        {
+            "mal_id": 3,
+            "url": null,
+            "title": "Meimi's Love!?",
+            "title_japanese": "芽美の恋人はハリネズミ!?",
+            "title_romanji": "Meimi no Koibito wa Harinezumi!? ",
+            "aired": "1995-10-19T00:00:00+00:00",
+            "score": 4.7,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1463304"
+        },
+        {
+            "mal_id": 4,
+            "url": null,
+            "title": "I Hate Wedding Veils",
+            "title_japanese": "ウエディングヴェールは大嫌い",
+            "title_romanji": "Wedding Veil wa Daikirai ",
+            "aired": "1995-10-25T00:00:00+00:00",
+            "score": 4.89,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1463306"
+        },
+        {
+            "mal_id": 5,
+            "url": null,
+            "title": "Legend of Happiness?! The Clock Tower Commotion",
+            "title_japanese": "幸せ伝説!? 時計台の大騒動!",
+            "title_romanji": "Shiawase Densetsu!? Tokeidai no Oosoudou ",
+            "aired": "1995-11-02T00:00:00+00:00",
+            "score": 4.89,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=311417"
+        },
+        {
+            "mal_id": 6,
+            "url": null,
+            "title": "New Student Rina. A Formidable Enemy",
+            "title_japanese": "強敵現わる! 噂の転校生リナ",
+            "title_romanji": "Kyouteki Arawaru! Uwasa no Tenkousei Rina ",
+            "aired": "1995-11-09T00:00:00+00:00",
+            "score": 4.38,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1375498"
+        },
+        {
+            "mal_id": 7,
+            "url": null,
+            "title": "A First Rendezvous of Tears?!",
+            "title_japanese": "涙! なみだの初ランデブー!?",
+            "title_romanji": "Namida! Namida no Hatsu Rendezvous!? ",
+            "aired": "1995-11-16T00:00:00+00:00",
+            "score": 5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1463311"
+        },
+        {
+            "mal_id": 8,
+            "url": null,
+            "title": "Danger! Beware of Lost Objects!",
+            "title_japanese": "ピンチ! 落し物にご用心",
+            "title_romanji": "Pinchi! Otoshimono ni Goyoushin ",
+            "aired": "1995-11-23T00:00:00+00:00",
+            "score": 5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1463314"
+        },
+        {
+            "mal_id": 9,
+            "url": null,
+            "title": "Contest Hall in Chaos!",
+            "title_japanese": "コンテスト会場は大混乱",
+            "title_romanji": "Kontesuto Kaijou wa Daikonran ",
+            "aired": "1995-11-30T00:00:00+00:00",
+            "score": 4.13,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1463320"
+        },
+        {
+            "mal_id": 10,
+            "url": null,
+            "title": "You... Confessed??",
+            "title_japanese": "告白...しちゃった!?",
+            "title_romanji": "Kokuhaku . . . Shichatta!? ",
+            "aired": "1995-12-07T00:00:00+00:00",
+            "score": 5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1463316"
+        },
+        {
+            "mal_id": 11,
+            "url": null,
+            "title": "The Big Scoop! An Uproar at the School Festival",
+            "title_japanese": "スクープ写真で学院祭大騒動",
+            "title_romanji": "Scoop Shashin de Gakuinsai Oosoudou ",
+            "aired": "1995-12-14T00:00:00+00:00",
+            "score": 4.86,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1463303"
+        },
+        {
+            "mal_id": 12,
+            "url": null,
+            "title": "Surprise! The Large Lizard Santa Claus?!",
+            "title_japanese": "仰天! 大トカゲのサンタ?!",
+            "title_romanji": "Gyouten! Ootokage no Santa?! ",
+            "aired": "1995-11-21T00:00:00+00:00",
+            "score": 4.57,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1463323"
+        },
+        {
+            "mal_id": 13,
+            "url": null,
+            "title": "Mystical Princess Rosa's Mirror",
+            "title_japanese": "神秘! ローザ王女の鏡",
+            "title_romanji": "Shinpi! Rosa Oujo no Kagami ",
+            "aired": "1996-01-11T00:00:00+00:00",
+            "score": 4.83,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1466493"
+        },
+        {
+            "mal_id": 14,
+            "url": null,
+            "title": "The Platform of Love and Tears",
+            "title_japanese": "愛と涙のプラットホーム",
+            "title_romanji": "Ai to Namida no Platform ",
+            "aired": "1996-01-18T00:00:00+00:00",
+            "score": 5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1802041"
+        },
+        {
+            "mal_id": 15,
+            "url": null,
+            "title": "Run After a Jewel Thief! Little, the Naughty Dog",
+            "title_japanese": "宝石泥棒を追え! 迷犬リトル",
+            "title_romanji": "Houseki Dorobou wo Oe! Meiken Little ",
+            "aired": "1996-01-25T00:00:00+00:00",
+            "score": 4.5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1802042"
+        },
+        {
+            "mal_id": 16,
+            "url": null,
+            "title": "Steal the Chinese Iron Chef!",
+            "title_japanese": "中華の鉄人を盗め!",
+            "title_romanji": "Chuuka no Tetsujin wo Nusume! ",
+            "aired": "1996-02-01T00:00:00+00:00",
+            "score": 4.6,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1784908"
+        },
+        {
+            "mal_id": 17,
+            "url": null,
+            "title": "The Heart Thief on St. Valentine's Day??",
+            "title_japanese": "バレンタインのハート泥棒!?",
+            "title_romanji": "Valentine no Heart Dorobou!? ",
+            "aired": "1996-02-08T00:00:00+00:00",
+            "score": 4.25,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1802039"
+        },
+        {
+            "mal_id": 18,
+            "url": null,
+            "title": "Danger, Do Not Touch! Super Electric Trap",
+            "title_japanese": "さわると危険!超電流の罠",
+            "title_romanji": "Sawaru to Kiken! Choudenryuu no Wana ",
+            "aired": "1996-02-22T00:00:00+00:00",
+            "score": 4.75,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1808632"
+        },
+        {
+            "mal_id": 19,
+            "url": null,
+            "title": "A Comet Approaches! The Earth's Final Night??",
+            "title_japanese": "彗星大接近!地球最後の夜!?",
+            "title_romanji": "Suisei Daisekkin! Chikyuu Saigo no Yoru!? ",
+            "aired": "1996-02-29T00:00:00+00:00",
+            "score": 4.67,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1840615"
+        },
+        {
+            "mal_id": 20,
+            "url": null,
+            "title": "Get Back the Phantom Bird Egg!",
+            "title_japanese": "幻の怪鳥の卵を 取り戻せ",
+            "title_romanji": "Maboroshi no Kaichou no Tamago wo Torimodose ",
+            "aired": "1996-03-07T00:00:00+00:00",
+            "score": 4.33,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1877668"
+        },
+        {
+            "mal_id": 21,
+            "url": null,
+            "title": "Steal the Memorable Harmonica!",
+            "title_japanese": "思い出の ハーモニカを盗め!",
+            "title_romanji": "Omoide no Harmonica wo Nusume! ",
+            "aired": "1996-03-14T00:00:00+00:00",
+            "score": 5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1877673"
+        },
+        {
+            "mal_id": 22,
+            "url": null,
+            "title": "The UFO Appears!? A Town in Panic",
+            "title_japanese": "UFO現る!? 街は大さわぎ!",
+            "title_romanji": "UFO Arawaru!? Machi wa Oosawagi! ",
+            "aired": "1996-03-21T00:00:00+00:00",
+            "score": 5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1932451"
+        },
+        {
+            "mal_id": 23,
+            "url": null,
+            "title": "A Fake Calling card? The Secret of the Perfume Trap",
+            "title_japanese": "ニセ予告状!?秘密の香水の罠",
+            "title_romanji": "Nise Yokokujou!? Himitsu no Kousui no Wana ",
+            "aired": "1996-03-28T00:00:00+00:00",
+            "score": 5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1932452"
+        },
+        {
+            "mal_id": 24,
+            "url": null,
+            "title": "Unforgivable! The Bad Guys Destroy a House",
+            "title_japanese": "許せない!家を壊す悪者たち",
+            "title_romanji": "Yurusenai! Ie wo Kowasu Warumono-tachi ",
+            "aired": "1996-03-28T00:00:00+00:00",
+            "score": 3.5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1867728"
+        },
+        {
+            "mal_id": 25,
+            "url": null,
+            "title": "A Strong Foe! Confronting Elite Detective",
+            "title_japanese": "強敵! エリート女刑事と対決",
+            "title_romanji": "Kyouteki! Elite Onna Keiji to Taiketsu ",
+            "aired": "1996-04-11T00:00:00+00:00",
+            "score": 5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1868103"
+        },
+        {
+            "mal_id": 26,
+            "url": null,
+            "title": "Meimi is Engaged to a Multi-Millionaire's Son!?",
+            "title_japanese": "芽美が 大富豪の息子と婚約!?",
+            "title_romanji": "Meimi ga Daifugou no Musuko to Konyaku!? ",
+            "aired": "1996-04-18T00:00:00+00:00",
+            "score": 4.86,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1353846"
+        },
+        {
+            "mal_id": 27,
+            "url": null,
+            "title": "Save the Pretty Idol Girl!",
+            "title_japanese": "美少女アイドルを救え",
+            "title_romanji": "Bishoujo Idol wo Sukue! ",
+            "aired": "1996-05-02T00:00:00+00:00",
+            "score": 4.5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2028200"
+        },
+        {
+            "mal_id": 28,
+            "url": null,
+            "title": "The Mayor's Ambition! Stealing a Swan (Part 1)",
+            "title_japanese": "前)",
+            "title_romanji": "Shichou no Inbou! Hakuchou wo Nusume (Zenpen) (市長の陰謀! 白鳥を盗め",
+            "aired": "1996-05-16T00:00:00+00:00",
+            "score": 5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2028205"
+        },
+        {
+            "mal_id": 29,
+            "url": null,
+            "title": "The Mayor's Ambition! Stealing a Swan (Part 2)",
+            "title_japanese": "後)",
+            "title_romanji": "Shichou no Inbou! Hakuchou wo Nusume (Kouhen) (市長の陰謀! 白鳥を盗め",
+            "aired": "1996-05-23T00:00:00+00:00",
+            "score": 4.71,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1869478"
+        },
+        {
+            "mal_id": 30,
+            "url": null,
+            "title": "Her True Character Revealed! Meimi's Critical Moment",
+            "title_japanese": "正体がバレる! 芽美危機一髪",
+            "title_romanji": "Shoutai ga Bareru! Meimi Kiki Ippatsu ",
+            "aired": "1996-06-06T00:00:00+00:00",
+            "score": 5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1869854"
+        },
+        {
+            "mal_id": 31,
+            "url": null,
+            "title": "Steal the Jewel of the Moon!",
+            "title_japanese": "月の宝石を盗め!",
+            "title_romanji": "Tsuki no Houseki wo Nusume! ",
+            "aired": "1996-06-13T00:00:00+00:00",
+            "score": 4.75,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1870271"
+        },
+        {
+            "mal_id": 32,
+            "url": null,
+            "title": "Steal a Woman's Marathon Running Shoes",
+            "title_japanese": "女子マラソン選手の 靴を盗め",
+            "title_romanji": "Joshi Marathon Senshu no Kutsu wo Nusume ",
+            "aired": "1996-06-20T00:00:00+00:00",
+            "score": 4.33,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1870575"
+        },
+        {
+            "mal_id": 33,
+            "url": null,
+            "title": "A Swordswoman's Wish! To Seal the Excellent Sword",
+            "title_japanese": "少女剣士の願い! 名刀を盗め",
+            "title_romanji": "Shoujo Kenshi no Negai! Meitou wo Nusume ",
+            "aired": "1996-06-27T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1870933"
+        },
+        {
+            "mal_id": 34,
+            "url": null,
+            "title": "Return the Thoroughbred!",
+            "title_japanese": "サラブレッドを取り戻せ!",
+            "title_romanji": "Thoroughbred wo Torimodose! ",
+            "aired": "1996-07-04T00:00:00+00:00",
+            "score": 4.67,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1871344"
+        },
+        {
+            "mal_id": 35,
+            "url": null,
+            "title": "Get Back the 'Tree of Happiness",
+            "title_japanese": "幸福の樹”を取り戻せ!",
+            "title_romanji": "Koufuku no Ki wo Torimodose! ",
+            "aired": "1996-07-11T00:00:00+00:00",
+            "score": 5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1871764"
+        },
+        {
+            "mal_id": 36,
+            "url": null,
+            "title": "A Precious Creature of Nature: Save the Beautiful Butterfly!",
+            "title_japanese": "自然の宝·美しき蝶を守れ",
+            "title_romanji": "Shizen no Takara Utsukushiki Chou wo Mamore! ",
+            "aired": "1996-07-18T00:00:00+00:00",
+            "score": 5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1872144"
+        },
+        {
+            "mal_id": 37,
+            "url": null,
+            "title": "Phantasmal Masterpiece! A Woman Detective is Back",
+            "title_japanese": "幻の名画! 帰ってきた女探偵",
+            "title_romanji": "Maboroshi no Meiga! Kaette Kita Onna Tantei ",
+            "aired": "1996-07-25T00:00:00+00:00",
+            "score": 5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=354039"
+        },
+        {
+            "mal_id": 38,
+            "url": null,
+            "title": "A Burst of Laughter! The Detective Team Does a Great Job",
+            "title_japanese": "爆笑! ドタバタ探偵団大活躍",
+            "title_romanji": "Bakushou! Dotabata Tanteidan Daikatsuyaku ",
+            "aired": "1996-08-01T00:00:00+00:00",
+            "score": 5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1872940"
+        },
+        {
+            "mal_id": 39,
+            "url": null,
+            "title": "White Dolphin' - Return to the Sea!",
+            "title_japanese": "白いイルカ”を海へ帰せ!",
+            "title_romanji": "Shiroi Iruka wo Umi e Kaese! ",
+            "aired": "1996-08-08T00:00:00+00:00",
+            "score": 5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1873310"
+        },
+        {
+            "mal_id": 40,
+            "url": null,
+            "title": "Mom's Secret! A Female Thief's Vengeance",
+            "title_japanese": "母の秘密! 女怪盗の復しゅう",
+            "title_romanji": "Haha no Himitsu! Onna Kaitou no Fukushuu ",
+            "aired": "1996-08-15T00:00:00+00:00",
+            "score": 5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1873791"
+        },
+        {
+            "mal_id": 41,
+            "url": null,
+            "title": "A Formidable Foe!? A Mischievous Pixie's Trap!",
+            "title_japanese": "強敵!? かわいい悪魔のワナ!",
+            "title_romanji": "Kyouteki!? Kawaii Akuma no Wana! ",
+            "aired": "1996-08-22T00:00:00+00:00",
+            "score": 4.75,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1874295"
+        },
+        {
+            "mal_id": 42,
+            "url": null,
+            "title": "Mom's Enemy! Rosemary's Conspiracy",
+            "title_japanese": "母の敵! ローズマリーの陰謀",
+            "title_romanji": "Haha no Kataki! Rosemary no Inbou ",
+            "aired": "1996-09-05T00:00:00+00:00",
+            "score": 4.83,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1875575"
+        },
+        {
+            "mal_id": 43,
+            "url": null,
+            "title": "The Final Battle! Save Asuka Jr.",
+            "title_japanese": "最後の戦い! アスカを救え",
+            "title_romanji": "Saigo no Tatakai! Asuka wo Sukue ",
+            "aired": "1996-09-12T00:00:00+00:00",
+            "score": 4.68,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=117785"
+        }
+    ]
+}

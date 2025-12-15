@@ -1,0 +1,356 @@
+{
+    "id": 635,
+    "fetched_at": "Sun Dec 14 13:56:05 2025",
+    "metadata": {
+        "mal_id": 635,
+        "url": "https://myanimelist.net/anime/635/Juubee-chan__Lovely_Gantai_no_Himitsu",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/13/60987.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/13/60987t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/13/60987l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/13/60987.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/13/60987t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/13/60987l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Juubee-chan: Lovely Gantai no Himitsu"
+            },
+            {
+                "type": "Synonym",
+                "title": "Jubei-chan - Secret of the Lovely Eyepatch"
+            },
+            {
+                "type": "Japanese",
+                "title": "十兵衛ちゃん ーラブリー眼帯の秘密"
+            },
+            {
+                "type": "English",
+                "title": "Jubei-chan the Ninja Girl: Secret of the Lovely Eyepatch"
+            },
+            {
+                "type": "Spanish",
+                "title": "Jubei-chan: The Ninja Girl"
+            }
+        ],
+        "title": "Juubee-chan: Lovely Gantai no Himitsu",
+        "title_english": "Jubei-chan the Ninja Girl: Secret of the Lovely Eyepatch",
+        "title_japanese": "十兵衛ちゃん ーラブリー眼帯の秘密",
+        "title_synonyms": [
+            "Jubei-chan - Secret of the Lovely Eyepatch"
+        ],
+        "type": "TV",
+        "source": "Original",
+        "episodes": 13,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "1999-04-06T00:00:00+00:00",
+            "to": "1999-06-29T00:00:00+00:00",
+            "prop": {
+                "from": {
+                    "day": 6,
+                    "month": 4,
+                    "year": 1999
+                },
+                "to": {
+                    "day": 29,
+                    "month": 6,
+                    "year": 1999
+                }
+            },
+            "string": "Apr 6, 1999 to Jun 29, 1999"
+        },
+        "duration": "24 min per ep",
+        "rating": "PG-13 - Teens 13 or older",
+        "score": 6.66,
+        "scored_by": 8382,
+        "rank": 6355,
+        "popularity": 5285,
+        "members": 20945,
+        "favorites": 40,
+        "synopsis": "Jiyu Nanohana is an ordinary schoolgirl until she runs across a scatterbrained 300 year old samurai who tells her that she is the reincarnation of Yagyu Jubei. With the help of the \"Lovely Eyepatch\" she transforms into the legendary swordsman whenever she needs to use his awesome fighting ability, which she needs to do quite often as a rival clan is dead set on conquering Yagyu to satisfy an old family grudge.\n\n(Source: ANN)",
+        "background": "",
+        "season": "spring",
+        "year": 1999,
+        "broadcast": {
+            "day": "Tuesdays",
+            "time": "01:15",
+            "timezone": "Asia/Tokyo",
+            "string": "Tuesdays at 01:15 (JST)"
+        },
+        "producers": [
+            {
+                "mal_id": 23,
+                "type": "anime",
+                "name": "Bandai Visual",
+                "url": "https://myanimelist.net/anime/producer/23/Bandai_Visual"
+            }
+        ],
+        "licensors": [
+            {
+                "mal_id": 233,
+                "type": "anime",
+                "name": "Bandai Entertainment",
+                "url": "https://myanimelist.net/anime/producer/233/Bandai_Entertainment"
+            },
+            {
+                "mal_id": 250,
+                "type": "anime",
+                "name": "Media Blasters",
+                "url": "https://myanimelist.net/anime/producer/250/Media_Blasters"
+            }
+        ],
+        "studios": [
+            {
+                "mal_id": 11,
+                "type": "anime",
+                "name": "Madhouse",
+                "url": "https://myanimelist.net/anime/producer/11/Madhouse"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 1,
+                "type": "anime",
+                "name": "Action",
+                "url": "https://myanimelist.net/anime/genre/1/Action"
+            },
+            {
+                "mal_id": 2,
+                "type": "anime",
+                "name": "Adventure",
+                "url": "https://myanimelist.net/anime/genre/2/Adventure"
+            },
+            {
+                "mal_id": 4,
+                "type": "anime",
+                "name": "Comedy",
+                "url": "https://myanimelist.net/anime/genre/4/Comedy"
+            },
+            {
+                "mal_id": 8,
+                "type": "anime",
+                "name": "Drama",
+                "url": "https://myanimelist.net/anime/genre/8/Drama"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [],
+        "demographics": [],
+        "relations": [
+            {
+                "relation": "Sequel",
+                "entry": [
+                    {
+                        "mal_id": 636,
+                        "type": "anime",
+                        "name": "Juubee-chan 2: Siberia Yagyuu no Gyakushuu",
+                        "url": "https://myanimelist.net/anime/636/Juubee-chan_2__Siberia_Yagyuu_no_Gyakushuu"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [],
+            "endings": [
+                "\"Forever\" by 0930"
+            ]
+        },
+        "external": [
+            {
+                "name": "Official Site",
+                "url": "http://www.madhouse.co.jp/works/2000-1999/works_tv_jyubeichan.html"
+            },
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=76"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=503"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "http://en.wikipedia.org/wiki/Jubei-chan"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": [
+        {
+            "mal_id": 1,
+            "url": "https://myanimelist.net/anime/635/Juubee-chan__Lovely_Gantai_no_Himitsu/episode/1",
+            "title": "The Birth of Yagyu Jubei II",
+            "title_japanese": "二代目柳生十兵衛 誕生",
+            "title_romanji": "Ni Dai Me Yagyuu Juubee Tanjou ",
+            "aired": "1999-04-06T00:00:00+00:00",
+            "score": 4.71,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=259952"
+        },
+        {
+            "mal_id": 2,
+            "url": "https://myanimelist.net/anime/635/Juubee-chan__Lovely_Gantai_no_Himitsu/episode/2",
+            "title": "Falling in Love with the Enemy",
+            "title_japanese": "汝の敵に惚れていた",
+            "title_romanji": "Nanji no Teki ni Horete Ita ",
+            "aired": "1999-04-13T00:00:00+00:00",
+            "score": 4.53,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=260325"
+        },
+        {
+            "mal_id": 3,
+            "url": "https://myanimelist.net/anime/635/Juubee-chan__Lovely_Gantai_no_Himitsu/episode/3",
+            "title": "Men's Hearts Were Swaying",
+            "title_japanese": "男心が揺れていた",
+            "title_romanji": "Otokogokoro ga Yurete Ita ",
+            "aired": "1999-04-20T00:00:00+00:00",
+            "score": 4.44,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=260327"
+        },
+        {
+            "mal_id": 4,
+            "url": "https://myanimelist.net/anime/635/Juubee-chan__Lovely_Gantai_no_Himitsu/episode/4",
+            "title": "The Road of No Return",
+            "title_japanese": "後には戻れぬ道だった",
+            "title_romanji": "Ato ni wa Modorenu Michi Datta ",
+            "aired": "1999-04-27T00:00:00+00:00",
+            "score": 4.42,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=260508"
+        },
+        {
+            "mal_id": 5,
+            "url": "https://myanimelist.net/anime/635/Juubee-chan__Lovely_Gantai_no_Himitsu/episode/5",
+            "title": "The Enemy Brought a Memory with Them",
+            "title_japanese": "敵が思い出つれて来た",
+            "title_romanji": "Teki ga Omoide Tsurete Kita ",
+            "aired": "1999-05-04T00:00:00+00:00",
+            "score": 4.92,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=689525"
+        },
+        {
+            "mal_id": 6,
+            "url": "https://myanimelist.net/anime/635/Juubee-chan__Lovely_Gantai_no_Himitsu/episode/6",
+            "title": "My Next Enemy is Yesterday's Ally",
+            "title_japanese": "昨日の味方が敵だった",
+            "title_romanji": "Kinou no Mikata ga Teki Datta ",
+            "aired": "1999-05-11T00:00:00+00:00",
+            "score": 4.75,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=695137"
+        },
+        {
+            "mal_id": 7,
+            "url": "https://myanimelist.net/anime/635/Juubee-chan__Lovely_Gantai_no_Himitsu/episode/7",
+            "title": "She had Grasped the Secret Before She Knew It!",
+            "title_japanese": "知らずに極意を掴んでた",
+            "title_romanji": "Shirazu ni Gokui wo Tsukandeta ",
+            "aired": "1999-05-18T00:00:00+00:00",
+            "score": 5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=706381"
+        },
+        {
+            "mal_id": 8,
+            "url": "https://myanimelist.net/anime/635/Juubee-chan__Lovely_Gantai_no_Himitsu/episode/8",
+            "title": "I Attached This Thing to My Head",
+            "title_japanese": "頭にこんなの添えていた",
+            "title_romanji": "Atama ni Konna no Soete Ita ",
+            "aired": "1999-05-25T00:00:00+00:00",
+            "score": 5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=729807"
+        },
+        {
+            "mal_id": 9,
+            "url": "https://myanimelist.net/anime/635/Juubee-chan__Lovely_Gantai_no_Himitsu/episode/9",
+            "title": "Dad's Premonition of Love",
+            "title_japanese": "恋の予感の父だった",
+            "title_romanji": "Koi no Yokan no Chichi Datta ",
+            "aired": "1999-06-01T00:00:00+00:00",
+            "score": 4.9,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1119163"
+        },
+        {
+            "mal_id": 10,
+            "url": "https://myanimelist.net/anime/635/Juubee-chan__Lovely_Gantai_no_Himitsu/episode/10",
+            "title": "This is Where to Make the Effort",
+            "title_japanese": "努力のしどころ、ここだった",
+            "title_romanji": "Doryoku Noshidokoro, Koko Datta ",
+            "aired": "1999-06-08T00:00:00+00:00",
+            "score": 5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1127025"
+        },
+        {
+            "mal_id": 11,
+            "url": "https://myanimelist.net/anime/635/Juubee-chan__Lovely_Gantai_no_Himitsu/episode/11",
+            "title": "But the Path Curves Ahead",
+            "title_japanese": "ところが道が曲がってた",
+            "title_romanji": "Tokoro ga Michi ga Magatteta ",
+            "aired": "1999-06-15T00:00:00+00:00",
+            "score": 4.63,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1142291"
+        },
+        {
+            "mal_id": 12,
+            "url": "https://myanimelist.net/anime/635/Juubee-chan__Lovely_Gantai_no_Himitsu/episode/12",
+            "title": "I Had Met a Daughter That I Never Knew",
+            "title_japanese": "知らない娘に出会ってた",
+            "title_romanji": "Shiranai Musume ni Deatteta ",
+            "aired": "1999-06-22T00:00:00+00:00",
+            "score": 4.91,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=214944"
+        },
+        {
+            "mal_id": 13,
+            "url": "https://myanimelist.net/anime/635/Juubee-chan__Lovely_Gantai_no_Himitsu/episode/13",
+            "title": "Night Gave Way to a Brand New Day",
+            "title_japanese": "夜が明けたら朝が来た",
+            "title_romanji": "Yoru ga Aketara Asa ga Kita ",
+            "aired": "1999-06-29T00:00:00+00:00",
+            "score": 4.73,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1451720"
+        }
+    ]
+}

@@ -1,0 +1,185 @@
+{
+    "id": 2651,
+    "fetched_at": "Sun Dec 14 18:47:15 2025",
+    "metadata": {
+        "mal_id": 2651,
+        "url": "https://myanimelist.net/anime/2651/Doraemon__Kaette_Kita_Doraemon_Movie",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1511/150392.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1511/150392t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1511/150392l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1511/150392.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1511/150392t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1511/150392l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Doraemon: Kaette Kita Doraemon (Movie)"
+            },
+            {
+                "type": "Synonym",
+                "title": "Come Home Doraemon"
+            },
+            {
+                "type": "Japanese",
+                "title": "ドラえもん 帰ってきたドラえもん"
+            },
+            {
+                "type": "English",
+                "title": "Doraemon: Doraemon Comes Back (Movie)"
+            }
+        ],
+        "title": "Doraemon: Kaette Kita Doraemon (Movie)",
+        "title_english": "Doraemon: Doraemon Comes Back (Movie)",
+        "title_japanese": "ドラえもん 帰ってきたドラえもん",
+        "title_synonyms": [
+            "Come Home Doraemon"
+        ],
+        "type": "Movie",
+        "source": "Unknown",
+        "episodes": 1,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "1998-03-07T00:00:00+00:00",
+            "to": null,
+            "prop": {
+                "from": {
+                    "day": 7,
+                    "month": 3,
+                    "year": 1998
+                },
+                "to": {
+                    "day": null,
+                    "month": null,
+                    "year": null
+                }
+            },
+            "string": "Mar 7, 1998"
+        },
+        "duration": "27 min",
+        "rating": "PG - Children",
+        "score": 6.98,
+        "scored_by": 1669,
+        "rank": 4627,
+        "popularity": 10672,
+        "members": 3292,
+        "favorites": 2,
+        "synopsis": "Nobita is running from an angry Gian, though is quickly able to escape when Gian trips. Nobita asks Doraemon for a gadget to fight back, but Doraemon instead snaps at him; Doraemon tells Nobita that he must return to the 22nd century, and won’t be returning. \n\n(Source: Doraemon Wiki)",
+        "background": "",
+        "season": null,
+        "year": null,
+        "broadcast": {
+            "day": null,
+            "time": null,
+            "timezone": null,
+            "string": null
+        },
+        "producers": [
+            {
+                "mal_id": 142,
+                "type": "anime",
+                "name": "Asatsu DK",
+                "url": "https://myanimelist.net/anime/producer/142/Asatsu_DK"
+            }
+        ],
+        "licensors": [],
+        "studios": [
+            {
+                "mal_id": 247,
+                "type": "anime",
+                "name": "Shin-Ei Animation",
+                "url": "https://myanimelist.net/anime/producer/247/Shin-Ei_Animation"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 4,
+                "type": "anime",
+                "name": "Comedy",
+                "url": "https://myanimelist.net/anime/genre/4/Comedy"
+            },
+            {
+                "mal_id": 10,
+                "type": "anime",
+                "name": "Fantasy",
+                "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [],
+        "demographics": [
+            {
+                "mal_id": 15,
+                "type": "anime",
+                "name": "Kids",
+                "url": "https://myanimelist.net/anime/genre/15/Kids"
+            }
+        ],
+        "relations": [
+            {
+                "relation": "Adaptation",
+                "entry": [
+                    {
+                        "mal_id": 1032,
+                        "type": "manga",
+                        "name": "Doraemon",
+                        "url": "https://myanimelist.net/manga/1032/Doraemon"
+                    }
+                ]
+            },
+            {
+                "relation": "Alternative Version",
+                "entry": [
+                    {
+                        "mal_id": 2634,
+                        "type": "anime",
+                        "name": "Doraemon: Kaette Kita Doraemon",
+                        "url": "https://myanimelist.net/anime/2634/Doraemon__Kaette_Kita_Doraemon"
+                    }
+                ]
+            },
+            {
+                "relation": "Other",
+                "entry": [
+                    {
+                        "mal_id": 2664,
+                        "type": "anime",
+                        "name": "Doraemon Movie 19: Nobita no Nankai Daibouken",
+                        "url": "https://myanimelist.net/anime/2664/Doraemon_Movie_19__Nobita_no_Nankai_Daibouken"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [],
+            "endings": []
+        },
+        "external": [
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=1915"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": []
+}

@@ -1,0 +1,175 @@
+{
+    "id": 2501,
+    "fetched_at": "Sun Dec 14 18:38:54 2025",
+    "metadata": {
+        "mal_id": 2501,
+        "url": "https://myanimelist.net/anime/2501/Papuwa",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1744/105818.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1744/105818t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1744/105818l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1744/105818.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1744/105818t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1744/105818l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Papuwa"
+            },
+            {
+                "type": "Synonym",
+                "title": "Papuwa 2"
+            },
+            {
+                "type": "Japanese",
+                "title": "パプワ"
+            }
+        ],
+        "title": "Papuwa",
+        "title_english": null,
+        "title_japanese": "パプワ",
+        "title_synonyms": [
+            "Papuwa 2"
+        ],
+        "type": "TV",
+        "source": "Manga",
+        "episodes": 26,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "2003-09-30T00:00:00+00:00",
+            "to": "2004-03-30T00:00:00+00:00",
+            "prop": {
+                "from": {
+                    "day": 30,
+                    "month": 9,
+                    "year": 2003
+                },
+                "to": {
+                    "day": 30,
+                    "month": 3,
+                    "year": 2004
+                }
+            },
+            "string": "Sep 30, 2003 to Mar 30, 2004"
+        },
+        "duration": "23 min per ep",
+        "rating": "R+ - Mild Nudity",
+        "score": 6.6,
+        "scored_by": 884,
+        "rank": 6728,
+        "popularity": 11927,
+        "members": 2310,
+        "favorites": 11,
+        "synopsis": "In this sequel series, events continue four years after they left off in the first series. Papuwa-kun is a mysterious boy who lives on a new tropical island full of the same crazy creatures. Along with his maid, Liquid, and his new amnestic friend, \"Rotarou\", they lead nonsensical adventures as they try to evade and confuse the Ganma Army, Special Corps, and even the Shinsengumi from discovering Rotarou's real secret and taking him away. \n\n(Source: ANN)",
+        "background": "",
+        "season": "fall",
+        "year": 2003,
+        "broadcast": {
+            "day": "Tuesdays",
+            "time": "18:00",
+            "timezone": "Asia/Tokyo",
+            "string": "Tuesdays at 18:00 (JST)"
+        },
+        "producers": [
+            {
+                "mal_id": 64,
+                "type": "anime",
+                "name": "Sotsu",
+                "url": "https://myanimelist.net/anime/producer/64/Sotsu"
+            }
+        ],
+        "licensors": [
+            {
+                "mal_id": 97,
+                "type": "anime",
+                "name": "ADV Films",
+                "url": "https://myanimelist.net/anime/producer/97/ADV_Films"
+            }
+        ],
+        "studios": [
+            {
+                "mal_id": 22,
+                "type": "anime",
+                "name": "Nippon Animation",
+                "url": "https://myanimelist.net/anime/producer/22/Nippon_Animation"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 2,
+                "type": "anime",
+                "name": "Adventure",
+                "url": "https://myanimelist.net/anime/genre/2/Adventure"
+            },
+            {
+                "mal_id": 4,
+                "type": "anime",
+                "name": "Comedy",
+                "url": "https://myanimelist.net/anime/genre/4/Comedy"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [],
+        "demographics": [],
+        "relations": [
+            {
+                "relation": "Prequel",
+                "entry": [
+                    {
+                        "mal_id": 2503,
+                        "type": "anime",
+                        "name": "Nangoku Shounen Papuwa-kun",
+                        "url": "https://myanimelist.net/anime/2503/Nangoku_Shounen_Papuwa-kun"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [
+                "\"Tabibito\" by Loosely"
+            ],
+            "endings": [
+                "\"Yurari Yurari\" by Ii no Masashi"
+            ]
+        },
+        "external": [
+            {
+                "name": "Official Site",
+                "url": "http://www.nippon-animation.co.jp/work/papuwa.html"
+            },
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=1832"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=3144"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "http://en.wikipedia.org/wiki/Papuwa"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": []
+}

@@ -1,0 +1,180 @@
+{
+    "id": 2653,
+    "fetched_at": "Sun Dec 14 18:47:25 2025",
+    "metadata": {
+        "mal_id": 2653,
+        "url": "https://myanimelist.net/anime/2653/Doraemon__Ganbare_Gian",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/13/29221.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/13/29221t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/13/29221l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/13/29221.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/13/29221t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/13/29221l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Doraemon: Ganbare! Gian!!"
+            },
+            {
+                "type": "Japanese",
+                "title": "ドラえもん がんばれ！ジャイアン！！"
+            },
+            {
+                "type": "English",
+                "title": "Doraemon: Ganbare! Gian!!"
+            }
+        ],
+        "title": "Doraemon: Ganbare! Gian!!",
+        "title_english": "Doraemon: Ganbare! Gian!!",
+        "title_japanese": "ドラえもん がんばれ！ジャイアン！！",
+        "title_synonyms": [],
+        "type": "Movie",
+        "source": "Unknown",
+        "episodes": 1,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "2001-03-10T00:00:00+00:00",
+            "to": null,
+            "prop": {
+                "from": {
+                    "day": 10,
+                    "month": 3,
+                    "year": 2001
+                },
+                "to": {
+                    "day": null,
+                    "month": null,
+                    "year": null
+                }
+            },
+            "string": "Mar 10, 2001"
+        },
+        "duration": "26 min",
+        "rating": "PG - Children",
+        "score": 6.59,
+        "scored_by": 872,
+        "rank": 6787,
+        "popularity": 12088,
+        "members": 2218,
+        "favorites": 0,
+        "synopsis": null,
+        "background": "",
+        "season": null,
+        "year": null,
+        "broadcast": {
+            "day": null,
+            "time": null,
+            "timezone": null,
+            "string": null
+        },
+        "producers": [
+            {
+                "mal_id": 65,
+                "type": "anime",
+                "name": "Tokyo Movie Shinsha",
+                "url": "https://myanimelist.net/anime/producer/65/Tokyo_Movie_Shinsha"
+            }
+        ],
+        "licensors": [],
+        "studios": [
+            {
+                "mal_id": 247,
+                "type": "anime",
+                "name": "Shin-Ei Animation",
+                "url": "https://myanimelist.net/anime/producer/247/Shin-Ei_Animation"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 2,
+                "type": "anime",
+                "name": "Adventure",
+                "url": "https://myanimelist.net/anime/genre/2/Adventure"
+            },
+            {
+                "mal_id": 4,
+                "type": "anime",
+                "name": "Comedy",
+                "url": "https://myanimelist.net/anime/genre/4/Comedy"
+            },
+            {
+                "mal_id": 10,
+                "type": "anime",
+                "name": "Fantasy",
+                "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [],
+        "demographics": [
+            {
+                "mal_id": 15,
+                "type": "anime",
+                "name": "Kids",
+                "url": "https://myanimelist.net/anime/genre/15/Kids"
+            },
+            {
+                "mal_id": 27,
+                "type": "anime",
+                "name": "Shounen",
+                "url": "https://myanimelist.net/anime/genre/27/Shounen"
+            }
+        ],
+        "relations": [
+            {
+                "relation": "Adaptation",
+                "entry": [
+                    {
+                        "mal_id": 1032,
+                        "type": "manga",
+                        "name": "Doraemon",
+                        "url": "https://myanimelist.net/manga/1032/Doraemon"
+                    }
+                ]
+            },
+            {
+                "relation": "Other",
+                "entry": [
+                    {
+                        "mal_id": 2654,
+                        "type": "anime",
+                        "name": "Doraemon Movie 22: Nobita to Tsubasa no Yuusha-tachi",
+                        "url": "https://myanimelist.net/anime/2654/Doraemon_Movie_22__Nobita_to_Tsubasa_no_Yuusha-tachi"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [],
+            "endings": []
+        },
+        "external": [
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=3970"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": []
+}

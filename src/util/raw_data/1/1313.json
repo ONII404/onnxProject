@@ -1,0 +1,908 @@
+{
+    "id": 1313,
+    "fetched_at": "Sun Dec 14 15:43:14 2025",
+    "metadata": {
+        "mal_id": 1313,
+        "url": "https://myanimelist.net/anime/1313/Digimon_Adventure_02",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/8/20360.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/8/20360t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/8/20360l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/8/20360.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/8/20360t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/8/20360l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Digimon Adventure 02"
+            },
+            {
+                "type": "Synonym",
+                "title": "Digimon Adventure Zero Two"
+            },
+            {
+                "type": "Synonym",
+                "title": "Digimon: Digital Monsters 02"
+            },
+            {
+                "type": "Japanese",
+                "title": "デジモンアドベンチャー０２"
+            },
+            {
+                "type": "English",
+                "title": "Digimon Adventure 02"
+            }
+        ],
+        "title": "Digimon Adventure 02",
+        "title_english": "Digimon Adventure 02",
+        "title_japanese": "デジモンアドベンチャー０２",
+        "title_synonyms": [
+            "Digimon Adventure Zero Two",
+            "Digimon: Digital Monsters 02"
+        ],
+        "type": "TV",
+        "source": "Original",
+        "episodes": 50,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "2000-04-02T00:00:00+00:00",
+            "to": "2001-03-25T00:00:00+00:00",
+            "prop": {
+                "from": {
+                    "day": 2,
+                    "month": 4,
+                    "year": 2000
+                },
+                "to": {
+                    "day": 25,
+                    "month": 3,
+                    "year": 2001
+                }
+            },
+            "string": "Apr 2, 2000 to Mar 25, 2001"
+        },
+        "duration": "25 min per ep",
+        "rating": "PG - Children",
+        "score": 7.24,
+        "scored_by": 148422,
+        "rank": 3287,
+        "popularity": 1192,
+        "members": 231299,
+        "favorites": 801,
+        "synopsis": "Taichi Yagami and his friends have moved on to junior high, but by that time, they have lost contact with their Digimon partners. Taichi is therefore surprised to suddenly receive a distress call summoning him to the Digital World. Once there, he learns that Digimon are living in fear of the mysterious Digimon Emperor, who is somehow suppressing their ability to Digivolve!\n\nIn the real world, Hikari Yagami and Takeru Takaishi reunite in the same fifth grade class. They share three schoolmates: Daisuke Motomiya, who reminds them both of Taichi; Miyako Inoue, a technical wizard; and Iori Hida, Miyako's neighbor. When these three children receive \"D-3\" Digivices, they—along with Hikari and Takeru, who still possess their own original Digivices—comprise the new generation of \"Chosen Children\" who must save the world once again. With the power of the Armored Digi-Eggs, they must thwart the Digimon Emperor's plans to spread his influence over the entire Digital World.\n\n[Written by MAL Rewrite]",
+        "background": "",
+        "season": "spring",
+        "year": 2000,
+        "broadcast": {
+            "day": "Sundays",
+            "time": "09:00",
+            "timezone": "Asia/Tokyo",
+            "string": "Sundays at 09:00 (JST)"
+        },
+        "producers": [
+            {
+                "mal_id": 127,
+                "type": "anime",
+                "name": "Yomiko Advertising",
+                "url": "https://myanimelist.net/anime/producer/127/Yomiko_Advertising"
+            },
+            {
+                "mal_id": 169,
+                "type": "anime",
+                "name": "Fuji TV",
+                "url": "https://myanimelist.net/anime/producer/169/Fuji_TV"
+            }
+        ],
+        "licensors": [
+            {
+                "mal_id": 467,
+                "type": "anime",
+                "name": "Discotek Media",
+                "url": "https://myanimelist.net/anime/producer/467/Discotek_Media"
+            },
+            {
+                "mal_id": 841,
+                "type": "anime",
+                "name": "Saban Entertainment",
+                "url": "https://myanimelist.net/anime/producer/841/Saban_Entertainment"
+            },
+            {
+                "mal_id": 1163,
+                "type": "anime",
+                "name": "Flatiron Film Company",
+                "url": "https://myanimelist.net/anime/producer/1163/Flatiron_Film_Company"
+            }
+        ],
+        "studios": [
+            {
+                "mal_id": 18,
+                "type": "anime",
+                "name": "Toei Animation",
+                "url": "https://myanimelist.net/anime/producer/18/Toei_Animation"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 1,
+                "type": "anime",
+                "name": "Action",
+                "url": "https://myanimelist.net/anime/genre/1/Action"
+            },
+            {
+                "mal_id": 2,
+                "type": "anime",
+                "name": "Adventure",
+                "url": "https://myanimelist.net/anime/genre/2/Adventure"
+            },
+            {
+                "mal_id": 4,
+                "type": "anime",
+                "name": "Comedy",
+                "url": "https://myanimelist.net/anime/genre/4/Comedy"
+            },
+            {
+                "mal_id": 10,
+                "type": "anime",
+                "name": "Fantasy",
+                "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [
+            {
+                "mal_id": 62,
+                "type": "anime",
+                "name": "Isekai",
+                "url": "https://myanimelist.net/anime/genre/62/Isekai"
+            }
+        ],
+        "demographics": [
+            {
+                "mal_id": 15,
+                "type": "anime",
+                "name": "Kids",
+                "url": "https://myanimelist.net/anime/genre/15/Kids"
+            }
+        ],
+        "relations": [
+            {
+                "relation": "Prequel",
+                "entry": [
+                    {
+                        "mal_id": 2397,
+                        "type": "anime",
+                        "name": "Digimon Adventure: Bokura no War Game!",
+                        "url": "https://myanimelist.net/anime/2397/Digimon_Adventure__Bokura_no_War_Game"
+                    }
+                ]
+            },
+            {
+                "relation": "Sequel",
+                "entry": [
+                    {
+                        "mal_id": 2398,
+                        "type": "anime",
+                        "name": "Digimon Adventure 02: Diablomon no Gyakushuu",
+                        "url": "https://myanimelist.net/anime/2398/Digimon_Adventure_02__Diablomon_no_Gyakushuu"
+                    }
+                ]
+            },
+            {
+                "relation": "Adaptation",
+                "entry": [
+                    {
+                        "mal_id": 2388,
+                        "type": "manga",
+                        "name": "Digimon Zero Two",
+                        "url": "https://myanimelist.net/manga/2388/Digimon_Zero_Two"
+                    }
+                ]
+            },
+            {
+                "relation": "Side Story",
+                "entry": [
+                    {
+                        "mal_id": 2962,
+                        "type": "anime",
+                        "name": "Digimon Adventure 02 Movies",
+                        "url": "https://myanimelist.net/anime/2962/Digimon_Adventure_02_Movies"
+                    }
+                ]
+            },
+            {
+                "relation": "Spin-Off",
+                "entry": [
+                    {
+                        "mal_id": 874,
+                        "type": "anime",
+                        "name": "Digimon Tamers",
+                        "url": "https://myanimelist.net/anime/874/Digimon_Tamers"
+                    },
+                    {
+                        "mal_id": 1132,
+                        "type": "anime",
+                        "name": "Digimon Frontier",
+                        "url": "https://myanimelist.net/anime/1132/Digimon_Frontier"
+                    },
+                    {
+                        "mal_id": 859,
+                        "type": "anime",
+                        "name": "Digimon Savers",
+                        "url": "https://myanimelist.net/anime/859/Digimon_Savers"
+                    },
+                    {
+                        "mal_id": 8624,
+                        "type": "anime",
+                        "name": "Digimon Xros Wars",
+                        "url": "https://myanimelist.net/anime/8624/Digimon_Xros_Wars"
+                    }
+                ]
+            },
+            {
+                "relation": "Other",
+                "entry": [
+                    {
+                        "mal_id": 49523,
+                        "type": "anime",
+                        "name": "Digimon Adventure 02: The Beginning",
+                        "url": "https://myanimelist.net/anime/49523/Digimon_Adventure_02__The_Beginning"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [
+                "\"Target ~Akai Shougeki~\" by Kouji Wada"
+            ],
+            "endings": [
+                "1: \"Ashita wa Atashi no Kaze ga Fuku\" by AiM",
+                "2: \"Itsumo Itsudemo\" by AiM"
+            ]
+        },
+        "external": [
+            {
+                "name": "Official Site",
+                "url": "http://www.toei-anim.co.jp/tv/digimon02/"
+            },
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=561"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=2170"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "http://en.wikipedia.org/wiki/Digimon_Adventure_02"
+            }
+        ],
+        "streaming": [
+            {
+                "name": "Crunchyroll",
+                "url": "http://www.crunchyroll.com/series-48048"
+            }
+        ]
+    },
+    "episodes": [
+        {
+            "mal_id": 1,
+            "url": "https://myanimelist.net/anime/1313/Digimon_Adventure_02/episode/1",
+            "title": "Enter Flamedramon",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 4.24,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=301950"
+        },
+        {
+            "mal_id": 2,
+            "url": "https://myanimelist.net/anime/1313/Digimon_Adventure_02/episode/2",
+            "title": "The Digiteam Complete",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 4.33,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=169008"
+        },
+        {
+            "mal_id": 3,
+            "url": "https://myanimelist.net/anime/1313/Digimon_Adventure_02/episode/3",
+            "title": "A New Digitude",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 4.4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=403735"
+        },
+        {
+            "mal_id": 4,
+            "url": "https://myanimelist.net/anime/1313/Digimon_Adventure_02/episode/4",
+            "title": "Iron Vegiemon",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 4.35,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=403743"
+        },
+        {
+            "mal_id": 5,
+            "url": "https://myanimelist.net/anime/1313/Digimon_Adventure_02/episode/5",
+            "title": "Old Reliable",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 4.26,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=596911"
+        },
+        {
+            "mal_id": 6,
+            "url": "https://myanimelist.net/anime/1313/Digimon_Adventure_02/episode/6",
+            "title": "Family Picnic",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 4.36,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=403765"
+        },
+        {
+            "mal_id": 7,
+            "url": "https://myanimelist.net/anime/1313/Digimon_Adventure_02/episode/7",
+            "title": "Guardian Angel",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 4.48,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=422523"
+        },
+        {
+            "mal_id": 8,
+            "url": "https://myanimelist.net/anime/1313/Digimon_Adventure_02/episode/8",
+            "title": "Ken's Secret",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 4.46,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=422543"
+        },
+        {
+            "mal_id": 9,
+            "url": "https://myanimelist.net/anime/1313/Digimon_Adventure_02/episode/9",
+            "title": "The Emperor's New Home",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 4.34,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=422555"
+        },
+        {
+            "mal_id": 10,
+            "url": "https://myanimelist.net/anime/1313/Digimon_Adventure_02/episode/10",
+            "title": "The Captive Digimon",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 4.28,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=422567"
+        },
+        {
+            "mal_id": 11,
+            "url": "https://myanimelist.net/anime/1313/Digimon_Adventure_02/episode/11",
+            "title": "Storm of Friendship",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 4.17,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=422571"
+        },
+        {
+            "mal_id": 12,
+            "url": "https://myanimelist.net/anime/1313/Digimon_Adventure_02/episode/12",
+            "title": "The Good, the Bad, and the Digi",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 4.17,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=760267"
+        },
+        {
+            "mal_id": 13,
+            "url": "https://myanimelist.net/anime/1313/Digimon_Adventure_02/episode/13",
+            "title": "His Master's Voice",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 4.51,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=675279"
+        },
+        {
+            "mal_id": 14,
+            "url": "https://myanimelist.net/anime/1313/Digimon_Adventure_02/episode/14",
+            "title": "The Samurai of Sincerity",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 4.03,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=456143"
+        },
+        {
+            "mal_id": 15,
+            "url": "https://myanimelist.net/anime/1313/Digimon_Adventure_02/episode/15",
+            "title": "Big Trouble in Little Edo",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 3.97,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1081577"
+        },
+        {
+            "mal_id": 16,
+            "url": "https://myanimelist.net/anime/1313/Digimon_Adventure_02/episode/16",
+            "title": "20,000 Digi-Leagues Under the Sea",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 3.89,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1113775"
+        },
+        {
+            "mal_id": 17,
+            "url": "https://myanimelist.net/anime/1313/Digimon_Adventure_02/episode/17",
+            "title": "Ghost of a Chance",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 4.71,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1123577"
+        },
+        {
+            "mal_id": 18,
+            "url": "https://myanimelist.net/anime/1313/Digimon_Adventure_02/episode/18",
+            "title": "Run Yolei Run",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 4.04,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1125575"
+        },
+        {
+            "mal_id": 19,
+            "url": "https://myanimelist.net/anime/1313/Digimon_Adventure_02/episode/19",
+            "title": "An Old Enemy Returns",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 4.48,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1142731"
+        },
+        {
+            "mal_id": 20,
+            "url": "https://myanimelist.net/anime/1313/Digimon_Adventure_02/episode/20",
+            "title": "The Darkness Before Dawn",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 4.23,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1142755"
+        },
+        {
+            "mal_id": 21,
+            "url": "https://myanimelist.net/anime/1313/Digimon_Adventure_02/episode/21",
+            "title": "The Crest of Kindness",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 4.59,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1142789"
+        },
+        {
+            "mal_id": 22,
+            "url": "https://myanimelist.net/anime/1313/Digimon_Adventure_02/episode/22",
+            "title": "Davis Cries Wolfmon",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 3.68,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1142793"
+        },
+        {
+            "mal_id": 23,
+            "url": "https://myanimelist.net/anime/1313/Digimon_Adventure_02/episode/23",
+            "title": "Genesis of Evil",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 4.64,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1142947"
+        },
+        {
+            "mal_id": 24,
+            "url": "https://myanimelist.net/anime/1313/Digimon_Adventure_02/episode/24",
+            "title": "If I had a Tail Hammer",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 4.12,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1142969"
+        },
+        {
+            "mal_id": 25,
+            "url": "https://myanimelist.net/anime/1313/Digimon_Adventure_02/episode/25",
+            "title": "Spirit Needle",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1142985"
+        },
+        {
+            "mal_id": 26,
+            "url": "https://myanimelist.net/anime/1313/Digimon_Adventure_02/episode/26",
+            "title": "United We Stand",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 4.45,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=458791"
+        },
+        {
+            "mal_id": 27,
+            "url": "https://myanimelist.net/anime/1313/Digimon_Adventure_02/episode/27",
+            "title": "Fusion Confusion",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 4.28,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1143019"
+        },
+        {
+            "mal_id": 28,
+            "url": "https://myanimelist.net/anime/1313/Digimon_Adventure_02/episode/28",
+            "title": "The Insect Master's Trap",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 4.13,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1143037"
+        },
+        {
+            "mal_id": 29,
+            "url": "https://myanimelist.net/anime/1313/Digimon_Adventure_02/episode/29",
+            "title": "Arukenimon's Tangled Web",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 4.45,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1143159"
+        },
+        {
+            "mal_id": 30,
+            "url": "https://myanimelist.net/anime/1313/Digimon_Adventure_02/episode/30",
+            "title": "Ultimate Anti-Hero",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 4.3,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1143231"
+        },
+        {
+            "mal_id": 31,
+            "url": "https://myanimelist.net/anime/1313/Digimon_Adventure_02/episode/31",
+            "title": "Opposites Attract",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 4.39,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=459955"
+        },
+        {
+            "mal_id": 32,
+            "url": "https://myanimelist.net/anime/1313/Digimon_Adventure_02/episode/32",
+            "title": "If I Only had a Heart",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 4.59,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1143337"
+        },
+        {
+            "mal_id": 33,
+            "url": "https://myanimelist.net/anime/1313/Digimon_Adventure_02/episode/33",
+            "title": "A Chance Encounter",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 4.22,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1143349"
+        },
+        {
+            "mal_id": 34,
+            "url": "https://myanimelist.net/anime/1313/Digimon_Adventure_02/episode/34",
+            "title": "Destiny in Doubt",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 4.36,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1143369"
+        },
+        {
+            "mal_id": 35,
+            "url": "https://myanimelist.net/anime/1313/Digimon_Adventure_02/episode/35",
+            "title": "Cody Takes a Stand",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 4.27,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1143425"
+        },
+        {
+            "mal_id": 36,
+            "url": "https://myanimelist.net/anime/1313/Digimon_Adventure_02/episode/36",
+            "title": "Stone Soup",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 4.18,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1143439"
+        },
+        {
+            "mal_id": 37,
+            "url": "https://myanimelist.net/anime/1313/Digimon_Adventure_02/episode/37",
+            "title": "Kyoto Dragon",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1143473"
+        },
+        {
+            "mal_id": 38,
+            "url": "https://myanimelist.net/anime/1313/Digimon_Adventure_02/episode/38",
+            "title": "A Very Digi-Christmas",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 4.29,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=461945"
+        },
+        {
+            "mal_id": 39,
+            "url": "https://myanimelist.net/anime/1313/Digimon_Adventure_02/episode/39",
+            "title": "Dramon Power",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 4.43,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1143505"
+        },
+        {
+            "mal_id": 40,
+            "url": "https://myanimelist.net/anime/1313/Digimon_Adventure_02/episode/40",
+            "title": "Digimon World Tour, Part 1",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 4.33,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1143531"
+        },
+        {
+            "mal_id": 41,
+            "url": "https://myanimelist.net/anime/1313/Digimon_Adventure_02/episode/41",
+            "title": "Digimon World Tour, Part 2",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 4.49,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1143547"
+        },
+        {
+            "mal_id": 42,
+            "url": "https://myanimelist.net/anime/1313/Digimon_Adventure_02/episode/42",
+            "title": "Digimon World Tour, Part 3",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 4.33,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1143567"
+        },
+        {
+            "mal_id": 43,
+            "url": "https://myanimelist.net/anime/1313/Digimon_Adventure_02/episode/43",
+            "title": "Invasion of the Daemon Corps",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 4.32,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1143583"
+        },
+        {
+            "mal_id": 44,
+            "url": "https://myanimelist.net/anime/1313/Digimon_Adventure_02/episode/44",
+            "title": "Dark Sun, Dark Spore",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 4.46,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1143607"
+        },
+        {
+            "mal_id": 45,
+            "url": "https://myanimelist.net/anime/1313/Digimon_Adventure_02/episode/45",
+            "title": "The Dark Gate",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 4.27,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1143841"
+        },
+        {
+            "mal_id": 46,
+            "url": "https://myanimelist.net/anime/1313/Digimon_Adventure_02/episode/46",
+            "title": "Duel of the WarGreymon",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 4.59,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=270799"
+        },
+        {
+            "mal_id": 47,
+            "url": "https://myanimelist.net/anime/1313/Digimon_Adventure_02/episode/47",
+            "title": "Black WarGreymon's Destiny",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 4.59,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=270805"
+        },
+        {
+            "mal_id": 48,
+            "url": "https://myanimelist.net/anime/1313/Digimon_Adventure_02/episode/48",
+            "title": "Oikawa's Shame",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 4.59,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1143887"
+        },
+        {
+            "mal_id": 49,
+            "url": "https://myanimelist.net/anime/1313/Digimon_Adventure_02/episode/49",
+            "title": "The Last Temptation of the DigiDestined",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 4.38,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1143903"
+        },
+        {
+            "mal_id": 50,
+            "url": "https://myanimelist.net/anime/1313/Digimon_Adventure_02/episode/50",
+            "title": "A Million Points of Light",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 4.16,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=271038"
+        }
+    ]
+}

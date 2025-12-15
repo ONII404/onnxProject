@@ -1,0 +1,556 @@
+{
+    "id": 3345,
+    "fetched_at": "Sun Dec 14 19:29:18 2025",
+    "metadata": {
+        "mal_id": 3345,
+        "url": "https://myanimelist.net/anime/3345/Mikan_Enikki",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/9/29836.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/9/29836t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/9/29836l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/9/29836.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/9/29836t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/9/29836l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Mikan Enikki"
+            },
+            {
+                "type": "Synonym",
+                "title": "Mikan's Picture Diary"
+            },
+            {
+                "type": "Synonym",
+                "title": "Mikan's Illustrated Diary"
+            },
+            {
+                "type": "Japanese",
+                "title": "みかん絵日記"
+            }
+        ],
+        "title": "Mikan Enikki",
+        "title_english": null,
+        "title_japanese": "みかん絵日記",
+        "title_synonyms": [
+            "Mikan's Picture Diary",
+            "Mikan's Illustrated Diary"
+        ],
+        "type": "TV",
+        "source": "Manga",
+        "episodes": 30,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "1992-10-16T00:00:00+00:00",
+            "to": "1993-06-18T00:00:00+00:00",
+            "prop": {
+                "from": {
+                    "day": 16,
+                    "month": 10,
+                    "year": 1992
+                },
+                "to": {
+                    "day": 18,
+                    "month": 6,
+                    "year": 1993
+                }
+            },
+            "string": "Oct 16, 1992 to Jun 18, 1993"
+        },
+        "duration": "23 min per ep",
+        "rating": "G - All Ages",
+        "score": 7.16,
+        "scored_by": 935,
+        "rank": 3738,
+        "popularity": 10383,
+        "members": 3600,
+        "favorites": 29,
+        "synopsis": "A kitten, abandoned and left for dead along with his siblings, is taken in by Tomu Kusanagi, who nurtures him and discovers that the tangerine cat he so adores is actually a genius who can talk, walk, read, and has even acquired a taste for liquor!",
+        "background": "",
+        "season": "fall",
+        "year": 1992,
+        "broadcast": {
+            "day": "Fridays",
+            "time": "19:00",
+            "timezone": "Asia/Tokyo",
+            "string": "Fridays at 19:00 (JST)"
+        },
+        "producers": [
+            {
+                "mal_id": 146,
+                "type": "anime",
+                "name": "CBC Television",
+                "url": "https://myanimelist.net/anime/producer/146/CBC_Television"
+            }
+        ],
+        "licensors": [],
+        "studios": [
+            {
+                "mal_id": 22,
+                "type": "anime",
+                "name": "Nippon Animation",
+                "url": "https://myanimelist.net/anime/producer/22/Nippon_Animation"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 10,
+                "type": "anime",
+                "name": "Fantasy",
+                "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+            },
+            {
+                "mal_id": 36,
+                "type": "anime",
+                "name": "Slice of Life",
+                "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [
+            {
+                "mal_id": 71,
+                "type": "anime",
+                "name": "Pets",
+                "url": "https://myanimelist.net/anime/genre/71/Pets"
+            }
+        ],
+        "demographics": [
+            {
+                "mal_id": 25,
+                "type": "anime",
+                "name": "Shoujo",
+                "url": "https://myanimelist.net/anime/genre/25/Shoujo"
+            }
+        ],
+        "relations": [
+            {
+                "relation": "Sequel",
+                "entry": [
+                    {
+                        "mal_id": 25661,
+                        "type": "anime",
+                        "name": "Mikan Enikki Specials",
+                        "url": "https://myanimelist.net/anime/25661/Mikan_Enikki_Specials"
+                    }
+                ]
+            },
+            {
+                "relation": "Adaptation",
+                "entry": [
+                    {
+                        "mal_id": 91080,
+                        "type": "manga",
+                        "name": "Mikan Enikki",
+                        "url": "https://myanimelist.net/manga/91080/Mikan_Enikki"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [
+                "\"Naisho! no Bairin Cat (ないしょ!のバイリン・キャット)\" by Chisa Yokoyama"
+            ],
+            "endings": [
+                "1: \"Ojii-san e no Otegami (おじいさんへのおてがみ)\" by Tarako (eps 1-10,21,30)",
+                "2: \"Dekkai Canvas (でっかいキャンバス)\" by Tarako (eps 11-20,22-29)"
+            ]
+        },
+        "external": [
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=4599"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=1946"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "http://ja.wikipedia.org/wiki/%E3%81%BF%E3%81%8B%E3%82%93%E7%B5%B5%E6%97%A5%E8%A8%98"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": [
+        {
+            "mal_id": 1,
+            "url": null,
+            "title": "Episode 1",
+            "title_japanese": "みかんが家にやって来た",
+            "title_romanji": null,
+            "aired": "1992-10-16T00:00:00+00:00",
+            "score": 4.5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1983873"
+        },
+        {
+            "mal_id": 2,
+            "url": null,
+            "title": "Episode 2",
+            "title_japanese": "みかんが話せるわけ",
+            "title_romanji": null,
+            "aired": "1992-10-23T00:00:00+00:00",
+            "score": 5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2183552"
+        },
+        {
+            "mal_id": 3,
+            "url": null,
+            "title": "Episode 3",
+            "title_japanese": "いなくなったみかん",
+            "title_romanji": null,
+            "aired": "1992-10-30T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 4,
+            "url": null,
+            "title": "Episode 4",
+            "title_japanese": "もう一人の家族",
+            "title_romanji": null,
+            "aired": "1992-11-06T00:00:00+00:00",
+            "score": 4.5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2018173"
+        },
+        {
+            "mal_id": 5,
+            "url": null,
+            "title": "Episode 5",
+            "title_japanese": "みかんの宿題",
+            "title_romanji": null,
+            "aired": "1992-11-13T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 6,
+            "url": null,
+            "title": "Episode 6",
+            "title_japanese": "坂の下に住む先生",
+            "title_romanji": null,
+            "aired": "1992-11-20T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 7,
+            "url": null,
+            "title": "Episode 7",
+            "title_japanese": "おうちで勉強会",
+            "title_romanji": null,
+            "aired": "1992-11-27T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 8,
+            "url": null,
+            "title": "Episode 8",
+            "title_japanese": "みかんの初恋",
+            "title_romanji": "Mikan no Hatsukoi ",
+            "aired": "1992-12-11T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 9,
+            "url": null,
+            "title": "Episode 9",
+            "title_japanese": "すてきなクリスマス",
+            "title_romanji": null,
+            "aired": "1992-12-18T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 10,
+            "url": null,
+            "title": "Episode 10",
+            "title_japanese": "お騒がせの福引き",
+            "title_romanji": null,
+            "aired": "1992-12-25T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 11,
+            "url": null,
+            "title": "Episode 11",
+            "title_japanese": "くうぞ! 海の温泉旅行",
+            "title_romanji": null,
+            "aired": "1993-01-08T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 12,
+            "url": null,
+            "title": "Episode 12",
+            "title_japanese": "なめんなよ! あんな奴大キライ!",
+            "title_romanji": null,
+            "aired": "1992-01-15T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 13,
+            "url": null,
+            "title": "Episode 13",
+            "title_japanese": "子ネコ、もらっていただきます",
+            "title_romanji": null,
+            "aired": "1992-01-22T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 14,
+            "url": null,
+            "title": "Episode 14",
+            "title_japanese": "転校生はネコ型人間!?",
+            "title_romanji": null,
+            "aired": "1993-01-29T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 15,
+            "url": null,
+            "title": "Episode 15",
+            "title_japanese": "家出だ! ワッショイ!",
+            "title_romanji": null,
+            "aired": "1993-02-05T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 16,
+            "url": null,
+            "title": "Episode 16",
+            "title_japanese": "ときめきのバレンタインデー!",
+            "title_romanji": null,
+            "aired": "1993-02-12T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 17,
+            "url": null,
+            "title": "Episode 17",
+            "title_japanese": "オレは、天才音楽ネコ",
+            "title_romanji": null,
+            "aired": "1993-02-19T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 18,
+            "url": null,
+            "title": "Episode 18",
+            "title_japanese": "決死の大追跡、モモジを捜せ",
+            "title_romanji": null,
+            "aired": "1993-02-26T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 19,
+            "url": null,
+            "title": "Episode 19",
+            "title_japanese": "ぶっとばせ! 恋のライバル",
+            "title_romanji": null,
+            "aired": "1993-03-05T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 20,
+            "url": null,
+            "title": "Episode 20",
+            "title_japanese": "大騒ぎ! みかん学校へ行く",
+            "title_romanji": null,
+            "aired": "1993-03-12T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 21,
+            "url": null,
+            "title": "Episode 21",
+            "title_japanese": "うちのばあさんネコぎらい!",
+            "title_romanji": null,
+            "aired": "1993-03-19T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 22,
+            "url": null,
+            "title": "Episode 22",
+            "title_japanese": "涙、涙のノラねこブルース",
+            "title_romanji": null,
+            "aired": "1993-03-26T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 23,
+            "url": null,
+            "title": "Episode 23",
+            "title_japanese": "夫婦ゲンカはネコが食う?",
+            "title_romanji": null,
+            "aired": "1993-04-16T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2183913"
+        },
+        {
+            "mal_id": 24,
+            "url": null,
+            "title": "Episode 24",
+            "title_japanese": "ヤセル思いのダイエット作戦!",
+            "title_romanji": null,
+            "aired": "1993-04-30T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 25,
+            "url": null,
+            "title": "Episode 25",
+            "title_japanese": "みかんジュニアこりんご登場!",
+            "title_romanji": null,
+            "aired": "1993-05-07T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2183924"
+        },
+        {
+            "mal_id": 26,
+            "url": null,
+            "title": "Episode 26",
+            "title_japanese": "みかんピンチ! ひみつがバレた?",
+            "title_romanji": null,
+            "aired": "1993-05-21T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 27,
+            "url": null,
+            "title": "Episode 27",
+            "title_japanese": "みかんパパのスパルタ教育",
+            "title_romanji": null,
+            "aired": "1993-05-28T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 28,
+            "url": null,
+            "title": "Episode 28",
+            "title_japanese": "留守番はネコの手も借りたい",
+            "title_romanji": null,
+            "aired": "1993-06-04T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 29,
+            "url": null,
+            "title": "Episode 29",
+            "title_japanese": "ヒゲなしは不幸のはじまり?",
+            "title_romanji": null,
+            "aired": "1993-06-11T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 30,
+            "url": null,
+            "title": "Episode 30",
+            "title_japanese": "シャーワセは幸福の始まり",
+            "title_romanji": null,
+            "aired": "1993-06-18T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        }
+    ]
+}

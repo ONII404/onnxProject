@@ -1,0 +1,191 @@
+{
+    "id": 2934,
+    "fetched_at": "Sun Dec 14 19:05:58 2025",
+    "metadata": {
+        "mal_id": 2934,
+        "url": "https://myanimelist.net/anime/2934/Shiawase_Sou_no_Okojo-san",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1969/148942.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1969/148942t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1969/148942l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1969/148942.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1969/148942t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1969/148942l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Shiawase Sou no Okojo-san"
+            },
+            {
+                "type": "Synonym",
+                "title": "Shiawase Apartment's Okojo-san"
+            },
+            {
+                "type": "Synonym",
+                "title": "Happy Okojo"
+            },
+            {
+                "type": "Japanese",
+                "title": "しあわせソウのオコジョさん"
+            }
+        ],
+        "title": "Shiawase Sou no Okojo-san",
+        "title_english": null,
+        "title_japanese": "しあわせソウのオコジョさん",
+        "title_synonyms": [
+            "Shiawase Apartment's Okojo-san",
+            "Happy Okojo"
+        ],
+        "type": "TV",
+        "source": "Manga",
+        "episodes": 51,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "2001-10-02T00:00:00+00:00",
+            "to": "2002-09-24T00:00:00+00:00",
+            "prop": {
+                "from": {
+                    "day": 2,
+                    "month": 10,
+                    "year": 2001
+                },
+                "to": {
+                    "day": 24,
+                    "month": 9,
+                    "year": 2002
+                }
+            },
+            "string": "Oct 2, 2001 to Sep 24, 2002"
+        },
+        "duration": "25 min per ep",
+        "rating": "G - All Ages",
+        "score": 6.56,
+        "scored_by": 787,
+        "rank": 6937,
+        "popularity": 9846,
+        "members": 4260,
+        "favorites": 5,
+        "synopsis": "Haruka Tsuchiya is a plain and simple university student who has a pet by the name of Okojo-san. Okojo-san was actually born in one of the mountains in the North and brought to one of the pet shops to be sold. Determined to get out of the pet shop, Okojo-san formulated an escape strategy and ended up in the house of Haruka. There are always funny and strange occurances happening around the two, be it the people or animals who are near them. This is a gag anime in which absurdity is the main feature of the story. \n\n(Source: ANN)",
+        "background": "",
+        "season": "fall",
+        "year": 2001,
+        "broadcast": {
+            "day": "Tuesdays",
+            "time": "18:00",
+            "timezone": "Asia/Tokyo",
+            "string": "Tuesdays at 18:00 (JST)"
+        },
+        "producers": [
+            {
+                "mal_id": 16,
+                "type": "anime",
+                "name": "TV Tokyo",
+                "url": "https://myanimelist.net/anime/producer/16/TV_Tokyo"
+            },
+            {
+                "mal_id": 64,
+                "type": "anime",
+                "name": "Sotsu",
+                "url": "https://myanimelist.net/anime/producer/64/Sotsu"
+            },
+            {
+                "mal_id": 2981,
+                "type": "anime",
+                "name": "Omnibus Promotion",
+                "url": "https://myanimelist.net/anime/producer/2981/Omnibus_Promotion"
+            }
+        ],
+        "licensors": [],
+        "studios": [
+            {
+                "mal_id": 81,
+                "type": "anime",
+                "name": "Radix",
+                "url": "https://myanimelist.net/anime/producer/81/Radix"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 4,
+                "type": "anime",
+                "name": "Comedy",
+                "url": "https://myanimelist.net/anime/genre/4/Comedy"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [
+            {
+                "mal_id": 71,
+                "type": "anime",
+                "name": "Pets",
+                "url": "https://myanimelist.net/anime/genre/71/Pets"
+            }
+        ],
+        "demographics": [
+            {
+                "mal_id": 25,
+                "type": "anime",
+                "name": "Shoujo",
+                "url": "https://myanimelist.net/anime/genre/25/Shoujo"
+            }
+        ],
+        "relations": [
+            {
+                "relation": "Adaptation",
+                "entry": [
+                    {
+                        "mal_id": 118253,
+                        "type": "manga",
+                        "name": "Okojo-san",
+                        "url": "https://myanimelist.net/manga/118253/Okojo-san"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [
+                "1: \"Ano KO no Happy Face\" by the Shiawase Sisters (eps 1-25)",
+                "2: \"Kojopii no Uta\" by the Shiawase Okojo-gumi (eps 26-49)"
+            ],
+            "endings": [
+                "1: \"Nemuku Naru Made\" by Hideaki Takatori (eps 1-25)",
+                "2: \"Poka Poka Kojoru\" by Mika Sakenobe (eps 26-49)"
+            ]
+        },
+        "external": [
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=1947"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=1535"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "http://en.wikipedia.org/wiki/Okojo-san"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": []
+}

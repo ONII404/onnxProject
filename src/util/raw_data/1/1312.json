@@ -1,0 +1,534 @@
+{
+    "id": 1312,
+    "fetched_at": "Sun Dec 14 15:43:09 2025",
+    "metadata": {
+        "mal_id": 1312,
+        "url": "https://myanimelist.net/anime/1312/Chikyuu_Bouei_Kigyou_Dai-Guard",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1969/94093.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1969/94093t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1969/94093l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1969/94093.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1969/94093t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1969/94093l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Chikyuu Bouei Kigyou Dai-Guard"
+            },
+            {
+                "type": "Synonym",
+                "title": "Dai-Guard"
+            },
+            {
+                "type": "Synonym",
+                "title": "Daiguard"
+            },
+            {
+                "type": "Japanese",
+                "title": "地球防衛企業ダイ・ガード"
+            },
+            {
+                "type": "English",
+                "title": "Dai-Guard: Terrestrial Defense Corp."
+            },
+            {
+                "type": "French",
+                "title": "Terrestorial Defense Corp. Dai-Guard"
+            }
+        ],
+        "title": "Chikyuu Bouei Kigyou Dai-Guard",
+        "title_english": "Dai-Guard: Terrestrial Defense Corp.",
+        "title_japanese": "地球防衛企業ダイ・ガード",
+        "title_synonyms": [
+            "Dai-Guard",
+            "Daiguard"
+        ],
+        "type": "TV",
+        "source": "Original",
+        "episodes": 26,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "1999-10-05T00:00:00+00:00",
+            "to": "2000-03-28T00:00:00+00:00",
+            "prop": {
+                "from": {
+                    "day": 5,
+                    "month": 10,
+                    "year": 1999
+                },
+                "to": {
+                    "day": 28,
+                    "month": 3,
+                    "year": 2000
+                }
+            },
+            "string": "Oct 5, 1999 to Mar 28, 2000"
+        },
+        "duration": "23 min per ep",
+        "rating": "PG-13 - Teens 13 or older",
+        "score": 7.1,
+        "scored_by": 3517,
+        "rank": 4054,
+        "popularity": 6822,
+        "members": 10899,
+        "favorites": 34,
+        "synopsis": "Thirteen years after their sudden disappearance, an alien race known as the Heterodyne resurface without warning. To combat the Heterodyne, three office workers from the 21st Century Security Corporation operate Dai-Guard - a giant robot no longer regarded as an oversized paperweight. Unfortunately, Dai-Guard is somewhat obsolete and in disrepair. It's a tough job, but salarymen can also save the world. \n\n(Source: ANN)",
+        "background": "",
+        "season": "fall",
+        "year": 1999,
+        "broadcast": {
+            "day": "Tuesdays",
+            "time": "18:00",
+            "timezone": "Asia/Tokyo",
+            "string": "Tuesdays at 18:00 (JST)"
+        },
+        "producers": [
+            {
+                "mal_id": 16,
+                "type": "anime",
+                "name": "TV Tokyo",
+                "url": "https://myanimelist.net/anime/producer/16/TV_Tokyo"
+            },
+            {
+                "mal_id": 64,
+                "type": "anime",
+                "name": "Sotsu",
+                "url": "https://myanimelist.net/anime/producer/64/Sotsu"
+            },
+            {
+                "mal_id": 123,
+                "type": "anime",
+                "name": "Victor Entertainment",
+                "url": "https://myanimelist.net/anime/producer/123/Victor_Entertainment"
+            },
+            {
+                "mal_id": 717,
+                "type": "anime",
+                "name": "TV Tokyo Music",
+                "url": "https://myanimelist.net/anime/producer/717/TV_Tokyo_Music"
+            }
+        ],
+        "licensors": [
+            {
+                "mal_id": 97,
+                "type": "anime",
+                "name": "ADV Films",
+                "url": "https://myanimelist.net/anime/producer/97/ADV_Films"
+            },
+            {
+                "mal_id": 467,
+                "type": "anime",
+                "name": "Discotek Media",
+                "url": "https://myanimelist.net/anime/producer/467/Discotek_Media"
+            }
+        ],
+        "studios": [
+            {
+                "mal_id": 27,
+                "type": "anime",
+                "name": "Xebec",
+                "url": "https://myanimelist.net/anime/producer/27/Xebec"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 2,
+                "type": "anime",
+                "name": "Adventure",
+                "url": "https://myanimelist.net/anime/genre/2/Adventure"
+            },
+            {
+                "mal_id": 4,
+                "type": "anime",
+                "name": "Comedy",
+                "url": "https://myanimelist.net/anime/genre/4/Comedy"
+            },
+            {
+                "mal_id": 24,
+                "type": "anime",
+                "name": "Sci-Fi",
+                "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [
+            {
+                "mal_id": 18,
+                "type": "anime",
+                "name": "Mecha",
+                "url": "https://myanimelist.net/anime/genre/18/Mecha"
+            },
+            {
+                "mal_id": 38,
+                "type": "anime",
+                "name": "Military",
+                "url": "https://myanimelist.net/anime/genre/38/Military"
+            }
+        ],
+        "demographics": [],
+        "relations": [],
+        "theme": {
+            "openings": [
+                "\"Roji Ura no Uchuu Shounen (路地裏の宇宙少年)\" by The Cobratwisters"
+            ],
+            "endings": [
+                "1: \"Hashire Hashire (走れ走れ)\" by Kyouko Endou (eps 1-25)",
+                "2: \"Roji Ura no Uchuu Shounen (路地裏の宇宙少年)\" by The Cobratwisters (eps 26)"
+            ]
+        },
+        "external": [
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=428"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=890"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "http://en.wikipedia.org/wiki/Dai-Guard"
+            }
+        ],
+        "streaming": [
+            {
+                "name": "Crunchyroll",
+                "url": "http://www.crunchyroll.com/series-278532"
+            }
+        ]
+    },
+    "episodes": [
+        {
+            "mal_id": 1,
+            "url": "https://myanimelist.net/anime/1312/Chikyuu_Bouei_Kigyou_Dai-Guard/episode/1",
+            "title": "Disaster From the Sea",
+            "title_japanese": "海から来た災厄",
+            "title_romanji": "Umi kara Kita Saiyaku ",
+            "aired": "1999-10-05T00:00:00+00:00",
+            "score": 4.33,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=442235"
+        },
+        {
+            "mal_id": 2,
+            "url": "https://myanimelist.net/anime/1312/Chikyuu_Bouei_Kigyou_Dai-Guard/episode/2",
+            "title": "The Fort at Night",
+            "title_japanese": "夜のお台場大攻防戦",
+            "title_romanji": "Yoru no Odaiba Daikoubousen ",
+            "aired": "1999-10-12T00:00:00+00:00",
+            "score": 4.31,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=442241"
+        },
+        {
+            "mal_id": 3,
+            "url": "https://myanimelist.net/anime/1312/Chikyuu_Bouei_Kigyou_Dai-Guard/episode/3",
+            "title": "Circumstances of a Hero",
+            "title_japanese": "ヒーローの現実",
+            "title_romanji": "Hero no Jijou ",
+            "aired": "1999-10-19T00:00:00+00:00",
+            "score": 4.3,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=442247"
+        },
+        {
+            "mal_id": 4,
+            "url": "https://myanimelist.net/anime/1312/Chikyuu_Bouei_Kigyou_Dai-Guard/episode/4",
+            "title": "The Heroine's Melancholy",
+            "title_japanese": "ヒロインの事情",
+            "title_romanji": "Heroine no Yuuutsu ",
+            "aired": "1999-10-26T00:00:00+00:00",
+            "score": 4.27,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=442253"
+        },
+        {
+            "mal_id": 5,
+            "url": "https://myanimelist.net/anime/1312/Chikyuu_Bouei_Kigyou_Dai-Guard/episode/5",
+            "title": "Can't Run Facing the Setting Sun",
+            "title_japanese": "夕日に向かって走れない",
+            "title_romanji": "Yuuhi ni Mukatte Hashirenai ",
+            "aired": "1999-11-02T00:00:00+00:00",
+            "score": 4.17,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=442259"
+        },
+        {
+            "mal_id": 6,
+            "url": "https://myanimelist.net/anime/1312/Chikyuu_Bouei_Kigyou_Dai-Guard/episode/6",
+            "title": "Memories Taught Me",
+            "title_japanese": "思い出は教えてくれた",
+            "title_romanji": "Omoide wa Oshietekureta ",
+            "aired": "1999-11-09T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=442263"
+        },
+        {
+            "mal_id": 7,
+            "url": "https://myanimelist.net/anime/1312/Chikyuu_Bouei_Kigyou_Dai-Guard/episode/7",
+            "title": "Fire and Ice",
+            "title_japanese": "ファイヤー＆アイス",
+            "title_romanji": "Fire & Ice ",
+            "aired": "1999-11-16T00:00:00+00:00",
+            "score": 4.22,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=442265"
+        },
+        {
+            "mal_id": 8,
+            "url": "https://myanimelist.net/anime/1312/Chikyuu_Bouei_Kigyou_Dai-Guard/episode/8",
+            "title": "A Strange Day",
+            "title_japanese": "奇妙な一日",
+            "title_romanji": "Kimyou na Ichinichi ",
+            "aired": "1999-11-23T00:00:00+00:00",
+            "score": 3.75,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2135344"
+        },
+        {
+            "mal_id": 9,
+            "url": "https://myanimelist.net/anime/1312/Chikyuu_Bouei_Kigyou_Dai-Guard/episode/9",
+            "title": "Explosion! Knot Buster!",
+            "title_japanese": "炸裂！ノットバスター！！",
+            "title_romanji": "Sakuretsu! Knot Buster!! ",
+            "aired": "1999-11-30T00:00:00+00:00",
+            "score": 4.09,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=303337"
+        },
+        {
+            "mal_id": 10,
+            "url": "https://myanimelist.net/anime/1312/Chikyuu_Bouei_Kigyou_Dai-Guard/episode/10",
+            "title": "Wages That Correspond to Justice",
+            "title_japanese": "正義に見合う給料",
+            "title_romanji": "Seigi ni Miau Kyuuryou ",
+            "aired": "1999-12-07T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=442277"
+        },
+        {
+            "mal_id": 11,
+            "url": "https://myanimelist.net/anime/1312/Chikyuu_Bouei_Kigyou_Dai-Guard/episode/11",
+            "title": "Alibi: Two Heterodynes Attack Tokyo",
+            "title_japanese": "二大ヘテロダイン東京襲撃",
+            "title_romanji": "Nidai Heterodyne Tokyo Shuugeki ",
+            "aired": "1999-12-14T00:00:00+00:00",
+            "score": 4.5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=442281"
+        },
+        {
+            "mal_id": 12,
+            "url": "https://myanimelist.net/anime/1312/Chikyuu_Bouei_Kigyou_Dai-Guard/episode/12",
+            "title": "Shinjuku at Night: Big Battle",
+            "title_japanese": "夜の新宿大決戦",
+            "title_romanji": "Yoru no Shinjuku Daikessen ",
+            "aired": "1999-12-21T00:00:00+00:00",
+            "score": 4.56,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=442293"
+        },
+        {
+            "mal_id": 13,
+            "url": "https://myanimelist.net/anime/1312/Chikyuu_Bouei_Kigyou_Dai-Guard/episode/13",
+            "title": "Things That Can be Forgiven, Things that Can't be Forgiven",
+            "title_japanese": "許される者 許されざる者",
+            "title_romanji": "Yurusareru Mono Yurusarezaru Mono ",
+            "aired": "1999-12-28T00:00:00+00:00",
+            "score": 4.13,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=442289"
+        },
+        {
+            "mal_id": 14,
+            "url": "https://myanimelist.net/anime/1312/Chikyuu_Bouei_Kigyou_Dai-Guard/episode/14",
+            "title": "Oosugi Report",
+            "title_japanese": "大杉○秘レポート",
+            "title_romanji": "Oosugi Report ",
+            "aired": "2000-01-04T00:00:00+00:00",
+            "score": 3,
+            "filler": false,
+            "recap": true,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2135695"
+        },
+        {
+            "mal_id": 15,
+            "url": "https://myanimelist.net/anime/1312/Chikyuu_Bouei_Kigyou_Dai-Guard/episode/15",
+            "title": "We Are All Alive",
+            "title_japanese": "ぼくらはみんな生きている",
+            "title_romanji": "Bokura wa Minna Ikiteiru ",
+            "aired": "2000-01-11T00:00:00+00:00",
+            "score": 4.22,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=442297"
+        },
+        {
+            "mal_id": 16,
+            "url": "https://myanimelist.net/anime/1312/Chikyuu_Bouei_Kigyou_Dai-Guard/episode/16",
+            "title": "Always Sunny in the Soul",
+            "title_japanese": "いつも心に太陽を",
+            "title_romanji": "Itsumo Kokoro ni Taiyo wo ",
+            "aired": "2000-01-18T00:00:00+00:00",
+            "score": 4.4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=442305"
+        },
+        {
+            "mal_id": 17,
+            "url": "https://myanimelist.net/anime/1312/Chikyuu_Bouei_Kigyou_Dai-Guard/episode/17",
+            "title": "I'd Like to Sleep as if Dreaming",
+            "title_japanese": "夢見るようにねむりたい",
+            "title_romanji": "Yume Miru You ni Nemuritai ",
+            "aired": "2000-01-25T00:00:00+00:00",
+            "score": 3.75,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2135799"
+        },
+        {
+            "mal_id": 18,
+            "url": "https://myanimelist.net/anime/1312/Chikyuu_Bouei_Kigyou_Dai-Guard/episode/18",
+            "title": "Run Towards Tomorrow",
+            "title_japanese": "明日に向かって走れ",
+            "title_romanji": "Ashita ni Mukatte Hashire ",
+            "aired": "2000-02-01T00:00:00+00:00",
+            "score": 4.33,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=442315"
+        },
+        {
+            "mal_id": 19,
+            "url": "https://myanimelist.net/anime/1312/Chikyuu_Bouei_Kigyou_Dai-Guard/episode/19",
+            "title": "White Contract",
+            "title_japanese": "白の契約",
+            "title_romanji": "Shiro no Keiyaku ",
+            "aired": "2000-02-08T00:00:00+00:00",
+            "score": 4.14,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=442321"
+        },
+        {
+            "mal_id": 20,
+            "url": "https://myanimelist.net/anime/1312/Chikyuu_Bouei_Kigyou_Dai-Guard/episode/20",
+            "title": "Blue Promise",
+            "title_japanese": "青の約束",
+            "title_romanji": "Ao no Yakusoku ",
+            "aired": "2000-02-15T00:00:00+00:00",
+            "score": 4.38,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=442449"
+        },
+        {
+            "mal_id": 21,
+            "url": "https://myanimelist.net/anime/1312/Chikyuu_Bouei_Kigyou_Dai-Guard/episode/21",
+            "title": "False Memories",
+            "title_japanese": "偽りの記憶",
+            "title_romanji": "Itsuwari no Kioku ",
+            "aired": "2000-02-22T00:00:00+00:00",
+            "score": 4.13,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=442459"
+        },
+        {
+            "mal_id": 22,
+            "url": "https://myanimelist.net/anime/1312/Chikyuu_Bouei_Kigyou_Dai-Guard/episode/22",
+            "title": "So That I Can Remain Myself",
+            "title_japanese": "私が私であるために",
+            "title_romanji": "Watashi ga Watashi de Aru Tame ni ",
+            "aired": "2000-02-29T00:00:00+00:00",
+            "score": 4.5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=442467"
+        },
+        {
+            "mal_id": 23,
+            "url": "https://myanimelist.net/anime/1312/Chikyuu_Bouei_Kigyou_Dai-Guard/episode/23",
+            "title": "What Do You Want to Protect?",
+            "title_japanese": "守りたい物、なんですか？",
+            "title_romanji": "Mamoritai Mono, nan desu ka? ",
+            "aired": "2000-03-07T00:00:00+00:00",
+            "score": 4.33,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=442475"
+        },
+        {
+            "mal_id": 24,
+            "url": "https://myanimelist.net/anime/1312/Chikyuu_Bouei_Kigyou_Dai-Guard/episode/24",
+            "title": "Something that Covers the Sky",
+            "title_japanese": "空を覆うもの",
+            "title_romanji": "Sora wo Oou Mono ",
+            "aired": "2000-03-14T00:00:00+00:00",
+            "score": 4.38,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=442485"
+        },
+        {
+            "mal_id": 25,
+            "url": "https://myanimelist.net/anime/1312/Chikyuu_Bouei_Kigyou_Dai-Guard/episode/25",
+            "title": "Thoughts that Keep Piling Up",
+            "title_japanese": "重なりゆく思い",
+            "title_romanji": "Kasanari Yuku Omoi ",
+            "aired": "2000-03-21T00:00:00+00:00",
+            "score": 4.5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2136115"
+        },
+        {
+            "mal_id": 26,
+            "url": "https://myanimelist.net/anime/1312/Chikyuu_Bouei_Kigyou_Dai-Guard/episode/26",
+            "title": "Victory Song for Tomorrow",
+            "title_japanese": "明日への凱歌",
+            "title_romanji": "Ashita e no Gaika ",
+            "aired": "2000-03-28T00:00:00+00:00",
+            "score": 4.47,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=442497"
+        }
+    ]
+}

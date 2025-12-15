@@ -1,0 +1,173 @@
+{
+    "id": 950,
+    "fetched_at": "Sun Dec 14 14:20:04 2025",
+    "metadata": {
+        "mal_id": 950,
+        "url": "https://myanimelist.net/anime/950/Street_Fighter_Alpha__Generations",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/2/3455.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/2/3455t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/2/3455l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/2/3455.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/2/3455t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/2/3455l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Street Fighter Alpha: Generations"
+            },
+            {
+                "type": "Synonym",
+                "title": "Street Fighter Zero 2"
+            },
+            {
+                "type": "Japanese",
+                "title": "ストリートファイターALPHAジェネレーション"
+            },
+            {
+                "type": "English",
+                "title": "Street Fighter Alpha: Generations"
+            }
+        ],
+        "title": "Street Fighter Alpha: Generations",
+        "title_english": "Street Fighter Alpha: Generations",
+        "title_japanese": "ストリートファイターALPHAジェネレーション",
+        "title_synonyms": [
+            "Street Fighter Zero 2"
+        ],
+        "type": "Movie",
+        "source": "Game",
+        "episodes": 1,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "2005-10-25T00:00:00+00:00",
+            "to": null,
+            "prop": {
+                "from": {
+                    "day": 25,
+                    "month": 10,
+                    "year": 2005
+                },
+                "to": {
+                    "day": null,
+                    "month": null,
+                    "year": null
+                }
+            },
+            "string": "Oct 25, 2005"
+        },
+        "duration": "42 min",
+        "rating": "PG-13 - Teens 13 or older",
+        "score": 6.44,
+        "scored_by": 8886,
+        "rank": 7680,
+        "popularity": 5925,
+        "members": 15447,
+        "favorites": 17,
+        "synopsis": "When Ryu returns to pay homage to his deceased mentor, Gouken, he is tormented by disturbing memories of his master's killer. In a quest to become a true martial arts master, Ryu sets out to hone his street fighting skills and to deliver himself from the haunting legacy of the Dark Hadou. But the ultimate test of his new power can only be accomplished through one last fateful confrontation with his arch-nemesis, Gouki (Akuma). \n\n(Source: AniDB)",
+        "background": "",
+        "season": null,
+        "year": null,
+        "broadcast": {
+            "day": null,
+            "time": null,
+            "timezone": null,
+            "string": null
+        },
+        "producers": [],
+        "licensors": [
+            {
+                "mal_id": 947,
+                "type": "anime",
+                "name": "Manga Entertainment",
+                "url": "https://myanimelist.net/anime/producer/947/Manga_Entertainment"
+            }
+        ],
+        "studios": [
+            {
+                "mal_id": 77,
+                "type": "anime",
+                "name": "APPP",
+                "url": "https://myanimelist.net/anime/producer/77/APPP"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 2,
+                "type": "anime",
+                "name": "Adventure",
+                "url": "https://myanimelist.net/anime/genre/2/Adventure"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [],
+        "demographics": [],
+        "relations": [
+            {
+                "relation": "Prequel",
+                "entry": [
+                    {
+                        "mal_id": 979,
+                        "type": "anime",
+                        "name": "Street Fighter Zero The Animation",
+                        "url": "https://myanimelist.net/anime/979/Street_Fighter_Zero_The_Animation"
+                    }
+                ]
+            },
+            {
+                "relation": "Alternative Version",
+                "entry": [
+                    {
+                        "mal_id": 1362,
+                        "type": "anime",
+                        "name": "Street Fighter II Movie",
+                        "url": "https://myanimelist.net/anime/1362/Street_Fighter_II_Movie"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [],
+            "endings": []
+        },
+        "external": [
+            {
+                "name": "Official Site",
+                "url": "http://streetfighteralpha.manga.com/"
+            },
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=3658"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=2759"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Street_Fighter_Alpha:_Generations"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": []
+}

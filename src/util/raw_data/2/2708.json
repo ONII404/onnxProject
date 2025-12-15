@@ -1,0 +1,168 @@
+{
+    "id": 2708,
+    "fetched_at": "Sun Dec 14 18:50:47 2025",
+    "metadata": {
+        "mal_id": 2708,
+        "url": "https://myanimelist.net/anime/2708/Wankorobee",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/11/3647.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/11/3647t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/11/3647l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/11/3647.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/11/3647t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/11/3647l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Wankorobee"
+            },
+            {
+                "type": "Japanese",
+                "title": "わんころべえ"
+            }
+        ],
+        "title": "Wankorobee",
+        "title_english": null,
+        "title_japanese": "わんころべえ",
+        "title_synonyms": [],
+        "type": "TV",
+        "source": "Manga",
+        "episodes": 26,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "1996-10-06T00:00:00+00:00",
+            "to": "1997-03-30T00:00:00+00:00",
+            "prop": {
+                "from": {
+                    "day": 6,
+                    "month": 10,
+                    "year": 1996
+                },
+                "to": {
+                    "day": 30,
+                    "month": 3,
+                    "year": 1997
+                }
+            },
+            "string": "Oct 6, 1996 to Mar 30, 1997"
+        },
+        "duration": "15 min per ep",
+        "rating": "G - All Ages",
+        "score": null,
+        "scored_by": null,
+        "rank": 16110,
+        "popularity": 18514,
+        "members": 458,
+        "favorites": 0,
+        "synopsis": null,
+        "background": "",
+        "season": "fall",
+        "year": 1996,
+        "broadcast": {
+            "day": "Sundays",
+            "time": "10:30",
+            "timezone": "Asia/Tokyo",
+            "string": "Sundays at 10:30 (JST)"
+        },
+        "producers": [],
+        "licensors": [],
+        "studios": [
+            {
+                "mal_id": 30,
+                "type": "anime",
+                "name": "Ajia-do",
+                "url": "https://myanimelist.net/anime/producer/30/Ajia-do"
+            },
+            {
+                "mal_id": 73,
+                "type": "anime",
+                "name": "TMS Entertainment",
+                "url": "https://myanimelist.net/anime/producer/73/TMS_Entertainment"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 4,
+                "type": "anime",
+                "name": "Comedy",
+                "url": "https://myanimelist.net/anime/genre/4/Comedy"
+            },
+            {
+                "mal_id": 10,
+                "type": "anime",
+                "name": "Fantasy",
+                "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [],
+        "demographics": [
+            {
+                "mal_id": 15,
+                "type": "anime",
+                "name": "Kids",
+                "url": "https://myanimelist.net/anime/genre/15/Kids"
+            }
+        ],
+        "relations": [
+            {
+                "relation": "Adaptation",
+                "entry": [
+                    {
+                        "mal_id": 166364,
+                        "type": "manga",
+                        "name": "Wankorobee",
+                        "url": "https://myanimelist.net/manga/166364/Wankorobee"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [
+                "\"Koi wa Yureru Melody ( 恋は揺れるメロディー)\" by Yuuko Kawai"
+            ],
+            "endings": [
+                "\"Yume no Kuni de Aimashou (夢の国で逢いましょう)\" by Yuuko Kawai"
+            ]
+        },
+        "external": [
+            {
+                "name": "Official Site",
+                "url": "http://www.tms-e.com/library/old/tv/data/t_wannkorobee.html"
+            },
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=3543"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=5307"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "http://en.wikipedia.org/wiki/Wankorobee"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": []
+}

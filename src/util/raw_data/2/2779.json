@@ -1,0 +1,180 @@
+{
+    "id": 2779,
+    "fetched_at": "Sun Dec 14 18:56:02 2025",
+    "metadata": {
+        "mal_id": 2779,
+        "url": "https://myanimelist.net/anime/2779/Sotsugyou_M__Ore-tachi_no_Carnival",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/11/3755.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/11/3755t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/11/3755l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/11/3755.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/11/3755t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/11/3755l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Sotsugyou M: Ore-tachi no Carnival"
+            },
+            {
+                "type": "Synonym",
+                "title": "Male Graduation"
+            },
+            {
+                "type": "Synonym",
+                "title": "Graduation M"
+            },
+            {
+                "type": "Synonym",
+                "title": "Graduation M: Our Carnival"
+            },
+            {
+                "type": "Synonym",
+                "title": "Sotsugyou M: Ore-tachi no Carnival"
+            },
+            {
+                "type": "Japanese",
+                "title": "卒業M ～オレ達のカーニバル～"
+            }
+        ],
+        "title": "Sotsugyou M: Ore-tachi no Carnival",
+        "title_english": null,
+        "title_japanese": "卒業M ～オレ達のカーニバル～",
+        "title_synonyms": [
+            "Male Graduation",
+            "Graduation M",
+            "Graduation M: Our Carnival",
+            "Sotsugyou M: Ore-tachi no Carnival"
+        ],
+        "type": "OVA",
+        "source": "Manga",
+        "episodes": 2,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "1999-01-21T00:00:00+00:00",
+            "to": "1999-04-21T00:00:00+00:00",
+            "prop": {
+                "from": {
+                    "day": 21,
+                    "month": 1,
+                    "year": 1999
+                },
+                "to": {
+                    "day": 21,
+                    "month": 4,
+                    "year": 1999
+                }
+            },
+            "string": "Jan 21, 1999 to Apr 21, 1999"
+        },
+        "duration": "27 min per ep",
+        "rating": "PG-13 - Teens 13 or older",
+        "score": 5.29,
+        "scored_by": 920,
+        "rank": 13273,
+        "popularity": 11722,
+        "members": 2453,
+        "favorites": 3,
+        "synopsis": "Kato, Shimura, Arai, Nakamoto, and Takagi are friends at an all-boys boarding school. After they get tricked by their school government president, the five must put on a performance of the play \"Little Women.\"\n\n(Source: ANN)",
+        "background": "",
+        "season": null,
+        "year": null,
+        "broadcast": {
+            "day": null,
+            "time": null,
+            "timezone": null,
+            "string": null
+        },
+        "producers": [],
+        "licensors": [],
+        "studios": [
+            {
+                "mal_id": 8,
+                "type": "anime",
+                "name": "Artland",
+                "url": "https://myanimelist.net/anime/producer/8/Artland"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 8,
+                "type": "anime",
+                "name": "Drama",
+                "url": "https://myanimelist.net/anime/genre/8/Drama"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [
+            {
+                "mal_id": 23,
+                "type": "anime",
+                "name": "School",
+                "url": "https://myanimelist.net/anime/genre/23/School"
+            }
+        ],
+        "demographics": [],
+        "relations": [
+            {
+                "relation": "Adaptation",
+                "entry": [
+                    {
+                        "mal_id": 7418,
+                        "type": "manga",
+                        "name": "Sotsugyou M",
+                        "url": "https://myanimelist.net/manga/7418/Sotsugyou_M"
+                    }
+                ]
+            },
+            {
+                "relation": "Other",
+                "entry": [
+                    {
+                        "mal_id": 2714,
+                        "type": "anime",
+                        "name": "Sotsugyou: Graduation",
+                        "url": "https://myanimelist.net/anime/2714/Sotsugyou__Graduation"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [
+                "\"Tomodachi wo Tsukurou (友達をつくろう; Let's Make Friends)\" by Hikaru Midorikawa, Ryoutarou Okiayu, Nobutoshi Hayashi, Hideo Ishikawa, and Daisuke Sakaguchi"
+            ],
+            "endings": [
+                "\"Heart wa Koukiatsu (ハートは高気圧)\" by Hikaru Midorikawa, Ryoutarou Okiayu, Nobutoshi Canna, Hideo Ishikawa, and Daisuke Sakaguchi"
+            ]
+        },
+        "external": [
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=1362"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=4386"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": []
+}

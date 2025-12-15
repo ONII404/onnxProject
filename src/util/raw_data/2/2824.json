@@ -1,0 +1,176 @@
+{
+    "id": 2824,
+    "fetched_at": "Sun Dec 14 18:59:02 2025",
+    "metadata": {
+        "mal_id": 2824,
+        "url": "https://myanimelist.net/anime/2824/Barbapapa_Sekai_wo_Mawaru",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1885/114869.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1885/114869t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1885/114869l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1885/114869.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1885/114869t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1885/114869l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Barbapapa Sekai wo Mawaru"
+            },
+            {
+                "type": "Japanese",
+                "title": "バーバパパ　世界をまわる"
+            },
+            {
+                "type": "English",
+                "title": "Barbapapa Around the World"
+            },
+            {
+                "type": "German",
+                "title": "Um die Welt mit Barbapapa"
+            },
+            {
+                "type": "French",
+                "title": "Barbapapa autour du monde"
+            }
+        ],
+        "title": "Barbapapa Sekai wo Mawaru",
+        "title_english": "Barbapapa Around the World",
+        "title_japanese": "バーバパパ　世界をまわる",
+        "title_synonyms": [],
+        "type": "TV",
+        "source": "Picture book",
+        "episodes": 50,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "1999-07-05T00:00:00+00:00",
+            "to": "1999-10-08T00:00:00+00:00",
+            "prop": {
+                "from": {
+                    "day": 5,
+                    "month": 7,
+                    "year": 1999
+                },
+                "to": {
+                    "day": 8,
+                    "month": 10,
+                    "year": 1999
+                }
+            },
+            "string": "Jul 5, 1999 to Oct 8, 1999"
+        },
+        "duration": "5 min per ep",
+        "rating": "G - All Ages",
+        "score": 5.85,
+        "scored_by": 562,
+        "rank": 11080,
+        "popularity": 13267,
+        "members": 1534,
+        "favorites": 3,
+        "synopsis": "\"Barbapapa around the world\", is a fun-filled collection of 5-minute animated cartoons for preschool children. Barbapapa and his family return to TV for the first time in 25 years with 50 completely new and original episodes.\n\nEach episode travels to far-off lands where the Barbapapa family learns about plants, birds, reptiles or mammals in their natural Habitat. The Barbapapa family not only has fun playing with and imitating rare animals but it also helps the creatures when they fall into life-threatening situations. Join the Barbapapa Family as it travels to New Guinea, The Amazon, Patagonia and all over the world discovering the humor, danger and excitement of life.\n\n(Source: barbapapa.fr)",
+        "background": "",
+        "season": "summer",
+        "year": 1999,
+        "broadcast": {
+            "day": "Fridays",
+            "time": "16:50",
+            "timezone": "Asia/Tokyo",
+            "string": "Fridays at 16:50 (JST)"
+        },
+        "producers": [
+            {
+                "mal_id": 159,
+                "type": "anime",
+                "name": "Kodansha",
+                "url": "https://myanimelist.net/anime/producer/159/Kodansha"
+            }
+        ],
+        "licensors": [],
+        "studios": [
+            {
+                "mal_id": 1,
+                "type": "anime",
+                "name": "Studio Pierrot",
+                "url": "https://myanimelist.net/anime/producer/1/Studio_Pierrot"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 2,
+                "type": "anime",
+                "name": "Adventure",
+                "url": "https://myanimelist.net/anime/genre/2/Adventure"
+            },
+            {
+                "mal_id": 4,
+                "type": "anime",
+                "name": "Comedy",
+                "url": "https://myanimelist.net/anime/genre/4/Comedy"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [],
+        "demographics": [],
+        "relations": [
+            {
+                "relation": "Alternative Setting",
+                "entry": [
+                    {
+                        "mal_id": 2823,
+                        "type": "anime",
+                        "name": "Barbapapa",
+                        "url": "https://myanimelist.net/anime/2823/Barbapapa"
+                    },
+                    {
+                        "mal_id": 19959,
+                        "type": "anime",
+                        "name": "Barbapapa (1977)",
+                        "url": "https://myanimelist.net/anime/19959/Barbapapa_1977"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [],
+            "endings": []
+        },
+        "external": [
+            {
+                "name": "Official Site",
+                "url": "https://pierrot.jp/archive/1995/tv90_27.html"
+            },
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=4044"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=1209"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "http://en.wikipedia.org/wiki/Barbapapa"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": []
+}

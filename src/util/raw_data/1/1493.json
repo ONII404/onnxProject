@@ -1,0 +1,541 @@
+{
+    "id": 1493,
+    "fetched_at": "Sun Dec 14 16:26:32 2025",
+    "metadata": {
+        "mal_id": 1493,
+        "url": "https://myanimelist.net/anime/1493/Project_ARMS__The_2nd_Chapter",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/3/72859.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/3/72859t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/3/72859l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/3/72859.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/3/72859t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/3/72859l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Project ARMS: The 2nd Chapter"
+            },
+            {
+                "type": "Synonym",
+                "title": "Project Arms 2"
+            },
+            {
+                "type": "Synonym",
+                "title": "ARMS2"
+            },
+            {
+                "type": "Japanese",
+                "title": "PROJECT ARMS -The 2nd Chapter-"
+            },
+            {
+                "type": "English",
+                "title": "Project ARMS: The 2nd Chapter"
+            }
+        ],
+        "title": "Project ARMS: The 2nd Chapter",
+        "title_english": "Project ARMS: The 2nd Chapter",
+        "title_japanese": "PROJECT ARMS -The 2nd Chapter-",
+        "title_synonyms": [
+            "Project Arms 2",
+            "ARMS2"
+        ],
+        "type": "TV",
+        "source": "Manga",
+        "episodes": 26,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "2001-10-06T00:00:00+00:00",
+            "to": "2002-03-30T00:00:00+00:00",
+            "prop": {
+                "from": {
+                    "day": 6,
+                    "month": 10,
+                    "year": 2001
+                },
+                "to": {
+                    "day": 30,
+                    "month": 3,
+                    "year": 2002
+                }
+            },
+            "string": "Oct 6, 2001 to Mar 30, 2002"
+        },
+        "duration": "24 min per ep",
+        "rating": "R - 17+ (violence & profanity)",
+        "score": 6.96,
+        "scored_by": 2613,
+        "rank": 4727,
+        "popularity": 8108,
+        "members": 7083,
+        "favorites": 7,
+        "synopsis": "The 2nd Chapter continues the story of Ryo Takatsuki and his companions' quest to discover the secret of the mysterious A.R.M.S. they all possess and what the future may hold for them. They now know where the answers lie but to get to them, they must fight a desperate fight of survival against a powerful military corporation that wants their secrets no matter what the cost.\n\n(Source: AniDB)",
+        "background": "",
+        "season": "fall",
+        "year": 2001,
+        "broadcast": {
+            "day": null,
+            "time": null,
+            "timezone": null,
+            "string": "Unknown"
+        },
+        "producers": [
+            {
+                "mal_id": 3242,
+                "type": "anime",
+                "name": "Zet",
+                "url": "https://myanimelist.net/anime/producer/3242/Zet"
+            }
+        ],
+        "licensors": [
+            {
+                "mal_id": 119,
+                "type": "anime",
+                "name": "VIZ Media",
+                "url": "https://myanimelist.net/anime/producer/119/VIZ_Media"
+            },
+            {
+                "mal_id": 467,
+                "type": "anime",
+                "name": "Discotek Media",
+                "url": "https://myanimelist.net/anime/producer/467/Discotek_Media"
+            }
+        ],
+        "studios": [
+            {
+                "mal_id": 73,
+                "type": "anime",
+                "name": "TMS Entertainment",
+                "url": "https://myanimelist.net/anime/producer/73/TMS_Entertainment"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 1,
+                "type": "anime",
+                "name": "Action",
+                "url": "https://myanimelist.net/anime/genre/1/Action"
+            },
+            {
+                "mal_id": 10,
+                "type": "anime",
+                "name": "Fantasy",
+                "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [
+            {
+                "mal_id": 17,
+                "type": "anime",
+                "name": "Martial Arts",
+                "url": "https://myanimelist.net/anime/genre/17/Martial_Arts"
+            },
+            {
+                "mal_id": 23,
+                "type": "anime",
+                "name": "School",
+                "url": "https://myanimelist.net/anime/genre/23/School"
+            },
+            {
+                "mal_id": 31,
+                "type": "anime",
+                "name": "Super Power",
+                "url": "https://myanimelist.net/anime/genre/31/Super_Power"
+            }
+        ],
+        "demographics": [
+            {
+                "mal_id": 27,
+                "type": "anime",
+                "name": "Shounen",
+                "url": "https://myanimelist.net/anime/genre/27/Shounen"
+            }
+        ],
+        "relations": [
+            {
+                "relation": "Prequel",
+                "entry": [
+                    {
+                        "mal_id": 1492,
+                        "type": "anime",
+                        "name": "Project ARMS",
+                        "url": "https://myanimelist.net/anime/1492/Project_ARMS"
+                    }
+                ]
+            },
+            {
+                "relation": "Adaptation",
+                "entry": [
+                    {
+                        "mal_id": 1503,
+                        "type": "manga",
+                        "name": "Arms",
+                        "url": "https://myanimelist.net/manga/1503/Arms"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [
+                "\"Time Waits for No One\" by WAG"
+            ],
+            "endings": [
+                "1: \"Timeless Sleep\" by Garnet Crow (eps 1-14)",
+                "2: \"Owaranai Yume no Naka de\" by PROJECT ARMS (eps 15-26)"
+            ]
+        },
+        "external": [
+            {
+                "name": "Official Site",
+                "url": "http://www.tms-e.com/library/on_air_back/arms/"
+            },
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=2576"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=1348"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "http://en.wikipedia.org/wiki/Project_ARMS"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": [
+        {
+            "mal_id": 1,
+            "url": null,
+            "title": "Arrive",
+            "title_japanese": "アリイヴ)",
+            "title_romanji": "Enrai (遠来",
+            "aired": "2021-10-06T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2017046"
+        },
+        {
+            "mal_id": 2,
+            "url": null,
+            "title": "Hound",
+            "title_japanese": "猟犬",
+            "title_romanji": "Ryouken ",
+            "aired": "2001-10-13T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2017049"
+        },
+        {
+            "mal_id": 3,
+            "url": null,
+            "title": "Hunter",
+            "title_japanese": "ハンター)",
+            "title_romanji": "Toushi (闘士",
+            "aired": "2001-10-20T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 4,
+            "url": null,
+            "title": "Link",
+            "title_japanese": "信頼",
+            "title_romanji": "Shinrai ",
+            "aired": "2001-10-27T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 5,
+            "url": null,
+            "title": "Hercules",
+            "title_japanese": "来襲",
+            "title_romanji": "Raishuu ",
+            "aired": "2001-11-03T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 6,
+            "url": null,
+            "title": "Incubation",
+            "title_japanese": "孵化",
+            "title_romanji": "Fuka ",
+            "aired": "2001-11-10T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 7,
+            "url": null,
+            "title": "Mars",
+            "title_japanese": "マーズ)",
+            "title_romanji": "Senshin (戦神",
+            "aired": "2001-11-17T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 8,
+            "url": null,
+            "title": "Canary",
+            "title_japanese": "鳥篭",
+            "title_romanji": "Torikago ",
+            "aired": "2001-11-24T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 9,
+            "url": null,
+            "title": "Silent",
+            "title_japanese": "静寂",
+            "title_romanji": "Seijaku ",
+            "aired": "2001-12-01T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 10,
+            "url": null,
+            "title": "Stream",
+            "title_japanese": "奔流",
+            "title_romanji": "Honryuu ",
+            "aired": "2001-12-08T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2017893"
+        },
+        {
+            "mal_id": 11,
+            "url": null,
+            "title": "Forward",
+            "title_japanese": "前進",
+            "title_romanji": "Zenshin ",
+            "aired": "2001-12-15T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2017894"
+        },
+        {
+            "mal_id": 12,
+            "url": null,
+            "title": "Coma",
+            "title_japanese": "昏睡",
+            "title_romanji": "Konsui ",
+            "aired": "2001-12-22T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 13,
+            "url": null,
+            "title": "Element",
+            "title_japanese": "火水",
+            "title_romanji": "Himizu ",
+            "aired": "2001-12-29T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 14,
+            "url": null,
+            "title": "Reverse",
+            "title_japanese": "リバース)",
+            "title_romanji": "Fukkatsu (復活",
+            "aired": "2002-01-05T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 15,
+            "url": null,
+            "title": "Drakken",
+            "title_japanese": "離反",
+            "title_romanji": "Rihan ",
+            "aired": "2002-01-12T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 16,
+            "url": null,
+            "title": "Alice",
+            "title_japanese": "誕生",
+            "title_romanji": "Tanjou ",
+            "aired": "2002-01-19T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2018129"
+        },
+        {
+            "mal_id": 17,
+            "url": null,
+            "title": "Turn",
+            "title_japanese": "転回",
+            "title_romanji": "Tenkai ",
+            "aired": "2002-01-26T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2018312"
+        },
+        {
+            "mal_id": 18,
+            "url": null,
+            "title": "Arcadia",
+            "title_japanese": "幻境",
+            "title_romanji": "Genkyou ",
+            "aired": "2002-02-02T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2018314"
+        },
+        {
+            "mal_id": 19,
+            "url": null,
+            "title": "Killing Field",
+            "title_japanese": "戦場",
+            "title_romanji": "Senjou ",
+            "aired": "2002-02-09T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 20,
+            "url": null,
+            "title": "Fortress",
+            "title_japanese": "要塞",
+            "title_romanji": "Yousai ",
+            "aired": "2002-02-16T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 21,
+            "url": null,
+            "title": "Junction",
+            "title_japanese": "交錯",
+            "title_romanji": "Kousaku ",
+            "aired": "2002-02-23T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 22,
+            "url": null,
+            "title": "Human",
+            "title_japanese": "人間",
+            "title_romanji": "Ningen ",
+            "aired": "2002-03-02T00:00:00+00:00",
+            "score": 5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2018717"
+        },
+        {
+            "mal_id": 23,
+            "url": null,
+            "title": "Liberation",
+            "title_japanese": "黙示",
+            "title_romanji": "Mokushi ",
+            "aired": "2002-03-09T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 24,
+            "url": null,
+            "title": "Existence",
+            "title_japanese": "アニムス)",
+            "title_romanji": "Sekai (世界",
+            "aired": "2002-03-16T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 25,
+            "url": null,
+            "title": "Blue Wish",
+            "title_japanese": "青空",
+            "title_romanji": "Aozora ",
+            "aired": "2002-03-23T00:00:00+00:00",
+            "score": 3.8,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=442761"
+        },
+        {
+            "mal_id": 26,
+            "url": null,
+            "title": "Life",
+            "title_japanese": "帰還",
+            "title_romanji": "Kikan ",
+            "aired": "2002-03-30T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2019036"
+        }
+    ]
+}

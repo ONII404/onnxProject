@@ -1,0 +1,198 @@
+{
+    "id": 858,
+    "fetched_at": "Sun Dec 14 14:13:18 2025",
+    "metadata": {
+        "mal_id": 858,
+        "url": "https://myanimelist.net/anime/858/Gunparade_Orchestra",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/9/9074.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/9/9074t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/9/9074l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/9/9074.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/9/9074t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/9/9074l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Gunparade Orchestra"
+            },
+            {
+                "type": "Synonym",
+                "title": "GPO"
+            },
+            {
+                "type": "Japanese",
+                "title": "ガンパレード・オーケストラ"
+            },
+            {
+                "type": "English",
+                "title": "Gunparade Orchestra"
+            }
+        ],
+        "title": "Gunparade Orchestra",
+        "title_english": "Gunparade Orchestra",
+        "title_japanese": "ガンパレード・オーケストラ",
+        "title_synonyms": [
+            "GPO"
+        ],
+        "type": "TV",
+        "source": "Game",
+        "episodes": 24,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "2005-10-04T00:00:00+00:00",
+            "to": "2006-03-28T00:00:00+00:00",
+            "prop": {
+                "from": {
+                    "day": 4,
+                    "month": 10,
+                    "year": 2005
+                },
+                "to": {
+                    "day": 28,
+                    "month": 3,
+                    "year": 2006
+                }
+            },
+            "string": "Oct 4, 2005 to Mar 28, 2006"
+        },
+        "duration": "25 min per ep",
+        "rating": "PG-13 - Teens 13 or older",
+        "score": 5.82,
+        "scored_by": 1485,
+        "rank": 11259,
+        "popularity": 9000,
+        "members": 5504,
+        "favorites": 3,
+        "synopsis": "The story focuses and revolves around the 108th Guard Squad, stationed in Aomori. A poorly equipped unit with very little military standing, it is often viewed as a 'reject camp' for pilots not making the grade for the elite units based in Hokkaido. The apparent helpless nature of this force is hardly a deterrent for the encroaching enemy armies, ever closing in on both the 108th and the rest of the empire. The young pilots of the 108th, who had dreamed on returning home, are plunged forcefully and unwillingly into a war. \n\n(Source: ANN)",
+        "background": "",
+        "season": "fall",
+        "year": 2005,
+        "broadcast": {
+            "day": null,
+            "time": null,
+            "timezone": null,
+            "string": "Unknown"
+        },
+        "producers": [],
+        "licensors": [],
+        "studios": [
+            {
+                "mal_id": 112,
+                "type": "anime",
+                "name": "Brain's Base",
+                "url": "https://myanimelist.net/anime/producer/112/Brains_Base"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 8,
+                "type": "anime",
+                "name": "Drama",
+                "url": "https://myanimelist.net/anime/genre/8/Drama"
+            },
+            {
+                "mal_id": 22,
+                "type": "anime",
+                "name": "Romance",
+                "url": "https://myanimelist.net/anime/genre/22/Romance"
+            },
+            {
+                "mal_id": 24,
+                "type": "anime",
+                "name": "Sci-Fi",
+                "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [
+            {
+                "mal_id": 18,
+                "type": "anime",
+                "name": "Mecha",
+                "url": "https://myanimelist.net/anime/genre/18/Mecha"
+            },
+            {
+                "mal_id": 38,
+                "type": "anime",
+                "name": "Military",
+                "url": "https://myanimelist.net/anime/genre/38/Military"
+            }
+        ],
+        "demographics": [],
+        "relations": [
+            {
+                "relation": "Adaptation",
+                "entry": [
+                    {
+                        "mal_id": 30305,
+                        "type": "manga",
+                        "name": "Gunparade Orchestra",
+                        "url": "https://myanimelist.net/manga/30305/Gunparade_Orchestra"
+                    }
+                ]
+            },
+            {
+                "relation": "Side Story",
+                "entry": [
+                    {
+                        "mal_id": 9445,
+                        "type": "anime",
+                        "name": "Gunparade Orchestra OVA",
+                        "url": "https://myanimelist.net/anime/9445/Gunparade_Orchestra_OVA"
+                    }
+                ]
+            },
+            {
+                "relation": "Alternative Setting",
+                "entry": [
+                    {
+                        "mal_id": 266,
+                        "type": "anime",
+                        "name": "Gunparade March: Arata Naru Kougunka",
+                        "url": "https://myanimelist.net/anime/266/Gunparade_March__Arata_Naru_Kougunka"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [
+                "\"Faze to love\" by Miyuki Hashimoto"
+            ],
+            "endings": [
+                "\"Futari ga wasurenai\" by Aki Misato"
+            ]
+        },
+        "external": [
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=3465"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=5822"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": []
+}

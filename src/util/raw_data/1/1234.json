@@ -1,0 +1,174 @@
+{
+    "id": 1234,
+    "fetched_at": "Sun Dec 14 15:38:24 2025",
+    "metadata": {
+        "mal_id": 1234,
+        "url": "https://myanimelist.net/anime/1234/Hand_Maid_Mai",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/12/2903.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/12/2903t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/12/2903l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/12/2903.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/12/2903t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/12/2903l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Hand Maid Mai"
+            },
+            {
+                "type": "Japanese",
+                "title": "ハンドメイドマイ"
+            }
+        ],
+        "title": "Hand Maid Mai",
+        "title_english": null,
+        "title_japanese": "ハンドメイドマイ",
+        "title_synonyms": [],
+        "type": "OVA",
+        "source": "Original",
+        "episodes": 1,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "2003-01-18T00:00:00+00:00",
+            "to": null,
+            "prop": {
+                "from": {
+                    "day": 18,
+                    "month": 1,
+                    "year": 2003
+                },
+                "to": {
+                    "day": null,
+                    "month": null,
+                    "year": null
+                }
+            },
+            "string": "Jan 18, 2003"
+        },
+        "duration": "25 min",
+        "rating": "PG-13 - Teens 13 or older",
+        "score": 5.9,
+        "scored_by": 1904,
+        "rank": 10841,
+        "popularity": 9379,
+        "members": 4907,
+        "favorites": 2,
+        "synopsis": "Hideo Ozu is an editor in a shady adult video company. For years, he has dreamed of being a motion picture director while his childhood friend Mai Kurosawa has become an upcoming actress. Then one day, his dreams are shattered when Mai takes all of his amateur videos of her and tells him to get out of her life. On his way home after a few drinks, Hideo bumps into Cyberdoll Sara, who makes him mark an invoice. When he arrives at his pad, Hideo is greeted by three Cyberdolls - Mai, Ai and Mie. All three of them happen to look like different age variations of Mai Kurosawa. And when Kurosawa announces the release of a biography video of her using Hideo's old footage, Hideo decides to start his directing dreams over again using his three Cyberdolls. \n\n(Source: ANN)",
+        "background": "",
+        "season": null,
+        "year": null,
+        "broadcast": {
+            "day": null,
+            "time": null,
+            "timezone": null,
+            "string": null
+        },
+        "producers": [
+            {
+                "mal_id": 104,
+                "type": "anime",
+                "name": "Lantis",
+                "url": "https://myanimelist.net/anime/producer/104/Lantis"
+            }
+        ],
+        "licensors": [],
+        "studios": [
+            {
+                "mal_id": 122,
+                "type": "anime",
+                "name": "Tokyo Kids",
+                "url": "https://myanimelist.net/anime/producer/122/Tokyo_Kids"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 4,
+                "type": "anime",
+                "name": "Comedy",
+                "url": "https://myanimelist.net/anime/genre/4/Comedy"
+            },
+            {
+                "mal_id": 22,
+                "type": "anime",
+                "name": "Romance",
+                "url": "https://myanimelist.net/anime/genre/22/Romance"
+            },
+            {
+                "mal_id": 24,
+                "type": "anime",
+                "name": "Sci-Fi",
+                "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+            },
+            {
+                "mal_id": 9,
+                "type": "anime",
+                "name": "Ecchi",
+                "url": "https://myanimelist.net/anime/genre/9/Ecchi"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [],
+        "demographics": [],
+        "relations": [
+            {
+                "relation": "Alternative Setting",
+                "entry": [
+                    {
+                        "mal_id": 318,
+                        "type": "anime",
+                        "name": "Hand Maid May",
+                        "url": "https://myanimelist.net/anime/318/Hand_Maid_May"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [
+                "\"Camera = Mannenhitsu!!! (カメラ=万年筆!!!)\" by Sanae Kobayashi, Kiyomi Asai, and Miyu Matsuki"
+            ],
+            "endings": [
+                "\"Hand Maid de ne!\" (ハンドメイドでNE!) by Sanae Kobayashi, Kiyomi Asai, and Miyu Matsuki"
+            ]
+        },
+        "external": [
+            {
+                "name": "Official Site",
+                "url": "http://www.wonderfarm.co.jp/handmaid/"
+            },
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=565"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=1836"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "http://ja.wikipedia.org/wiki/HAND_MAID_マイ"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": []
+}

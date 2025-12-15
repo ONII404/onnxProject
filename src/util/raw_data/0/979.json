@@ -1,0 +1,180 @@
+{
+    "id": 979,
+    "fetched_at": "Sun Dec 14 14:22:35 2025",
+    "metadata": {
+        "mal_id": 979,
+        "url": "https://myanimelist.net/anime/979/Street_Fighter_Zero_The_Animation",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1138/107135.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1138/107135t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1138/107135l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1138/107135.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1138/107135t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1138/107135l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Street Fighter Zero The Animation"
+            },
+            {
+                "type": "Japanese",
+                "title": "ストリートファイターZERO THE ANIMATION"
+            },
+            {
+                "type": "English",
+                "title": "Street Fighter Alpha: The Movie"
+            },
+            {
+                "type": "Spanish",
+                "title": "Street Fighter Alpha La Película"
+            }
+        ],
+        "title": "Street Fighter Zero The Animation",
+        "title_english": "Street Fighter Alpha: The Movie",
+        "title_japanese": "ストリートファイターZERO THE ANIMATION",
+        "title_synonyms": [],
+        "type": "Movie",
+        "source": "Game",
+        "episodes": 1,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "1999-12-22T00:00:00+00:00",
+            "to": null,
+            "prop": {
+                "from": {
+                    "day": 22,
+                    "month": 12,
+                    "year": 1999
+                },
+                "to": {
+                    "day": null,
+                    "month": null,
+                    "year": null
+                }
+            },
+            "string": "Dec 22, 1999"
+        },
+        "duration": "1 hr 30 min",
+        "rating": "PG-13 - Teens 13 or older",
+        "score": 6.49,
+        "scored_by": 10516,
+        "rank": 7397,
+        "popularity": 5595,
+        "members": 17974,
+        "favorites": 27,
+        "synopsis": "Ryu, the current Street Fighter champion, must overcome the power of the \"Dark Hadou\" which consumed Akuma, the brother of his sensei, Gouken. Plus, he deals with the unexpected arrival of Shun, a young boy who proclaims to be his long-lost brother. \n\n(Source: ANN)",
+        "background": "",
+        "season": null,
+        "year": null,
+        "broadcast": {
+            "day": null,
+            "time": null,
+            "timezone": null,
+            "string": null
+        },
+        "producers": [
+            {
+                "mal_id": 240,
+                "type": "anime",
+                "name": "Capcom",
+                "url": "https://myanimelist.net/anime/producer/240/Capcom"
+            }
+        ],
+        "licensors": [
+            {
+                "mal_id": 947,
+                "type": "anime",
+                "name": "Manga Entertainment",
+                "url": "https://myanimelist.net/anime/producer/947/Manga_Entertainment"
+            }
+        ],
+        "studios": [
+            {
+                "mal_id": 107,
+                "type": "anime",
+                "name": "Plum",
+                "url": "https://myanimelist.net/anime/producer/107/Plum"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 1,
+                "type": "anime",
+                "name": "Action",
+                "url": "https://myanimelist.net/anime/genre/1/Action"
+            },
+            {
+                "mal_id": 8,
+                "type": "anime",
+                "name": "Drama",
+                "url": "https://myanimelist.net/anime/genre/8/Drama"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [
+            {
+                "mal_id": 17,
+                "type": "anime",
+                "name": "Martial Arts",
+                "url": "https://myanimelist.net/anime/genre/17/Martial_Arts"
+            },
+            {
+                "mal_id": 31,
+                "type": "anime",
+                "name": "Super Power",
+                "url": "https://myanimelist.net/anime/genre/31/Super_Power"
+            }
+        ],
+        "demographics": [],
+        "relations": [
+            {
+                "relation": "Sequel",
+                "entry": [
+                    {
+                        "mal_id": 950,
+                        "type": "anime",
+                        "name": "Street Fighter Alpha: Generations",
+                        "url": "https://myanimelist.net/anime/950/Street_Fighter_Alpha__Generations"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [],
+            "endings": [
+                "\"GooD-LucK\" by Shinohara Ryoko with t.komuro"
+            ]
+        },
+        "external": [
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=210"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=226"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": []
+}

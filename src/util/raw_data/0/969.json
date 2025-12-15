@@ -1,0 +1,577 @@
+{
+    "id": 969,
+    "fetched_at": "Sun Dec 14 14:21:36 2025",
+    "metadata": {
+        "mal_id": 969,
+        "url": "https://myanimelist.net/anime/969/Tsubasa_Chronicle_2nd_Season",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/4/6554.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/4/6554t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/4/6554l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/4/6554.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/4/6554t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/4/6554l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Tsubasa Chronicle 2nd Season"
+            },
+            {
+                "type": "Synonym",
+                "title": "Tsubasa Chronicles - Second Season"
+            },
+            {
+                "type": "Synonym",
+                "title": "Tsubasa: RESERVoir CHRoNiCLE"
+            },
+            {
+                "type": "Japanese",
+                "title": "ツバサ・クロニクル 第2シリーズ"
+            },
+            {
+                "type": "English",
+                "title": "Tsubasa RESERVoir CHRoNiCLE Season Two"
+            },
+            {
+                "type": "German",
+                "title": "Tsubasa CHRoNiCLE Staffel 2"
+            },
+            {
+                "type": "French",
+                "title": "Tsubasa CHRoNiCLE Saison 2"
+            }
+        ],
+        "title": "Tsubasa Chronicle 2nd Season",
+        "title_english": "Tsubasa RESERVoir CHRoNiCLE Season Two",
+        "title_japanese": "ツバサ・クロニクル 第2シリーズ",
+        "title_synonyms": [
+            "Tsubasa Chronicles - Second Season",
+            "Tsubasa: RESERVoir CHRoNiCLE"
+        ],
+        "type": "TV",
+        "source": "Manga",
+        "episodes": 26,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "2006-04-29T00:00:00+00:00",
+            "to": "2006-11-04T00:00:00+00:00",
+            "prop": {
+                "from": {
+                    "day": 29,
+                    "month": 4,
+                    "year": 2006
+                },
+                "to": {
+                    "day": 4,
+                    "month": 11,
+                    "year": 2006
+                }
+            },
+            "string": "Apr 29, 2006 to Nov 4, 2006"
+        },
+        "duration": "25 min per ep",
+        "rating": "PG-13 - Teens 13 or older",
+        "score": 7.57,
+        "scored_by": 60853,
+        "rank": 1763,
+        "popularity": 2031,
+        "members": 122063,
+        "favorites": 407,
+        "synopsis": "Syaoran, Sakura, Kurogane, Fai and Mokona's journey through to different world's continue as they search for Sakura's feathers. The fated journey slowly becomes more complicated for our travelers, as they find themselves diving deeper into more dangerous worlds.",
+        "background": "",
+        "season": "spring",
+        "year": 2006,
+        "broadcast": {
+            "day": "Saturdays",
+            "time": "18:25",
+            "timezone": "Asia/Tokyo",
+            "string": "Saturdays at 18:25 (JST)"
+        },
+        "producers": [
+            {
+                "mal_id": 111,
+                "type": "anime",
+                "name": "NHK",
+                "url": "https://myanimelist.net/anime/producer/111/NHK"
+            }
+        ],
+        "licensors": [
+            {
+                "mal_id": 102,
+                "type": "anime",
+                "name": "Funimation",
+                "url": "https://myanimelist.net/anime/producer/102/Funimation"
+            }
+        ],
+        "studios": [
+            {
+                "mal_id": 5,
+                "type": "anime",
+                "name": "Bee Train",
+                "url": "https://myanimelist.net/anime/producer/5/Bee_Train"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 1,
+                "type": "anime",
+                "name": "Action",
+                "url": "https://myanimelist.net/anime/genre/1/Action"
+            },
+            {
+                "mal_id": 2,
+                "type": "anime",
+                "name": "Adventure",
+                "url": "https://myanimelist.net/anime/genre/2/Adventure"
+            },
+            {
+                "mal_id": 8,
+                "type": "anime",
+                "name": "Drama",
+                "url": "https://myanimelist.net/anime/genre/8/Drama"
+            },
+            {
+                "mal_id": 10,
+                "type": "anime",
+                "name": "Fantasy",
+                "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+            },
+            {
+                "mal_id": 22,
+                "type": "anime",
+                "name": "Romance",
+                "url": "https://myanimelist.net/anime/genre/22/Romance"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [],
+        "demographics": [
+            {
+                "mal_id": 27,
+                "type": "anime",
+                "name": "Shounen",
+                "url": "https://myanimelist.net/anime/genre/27/Shounen"
+            }
+        ],
+        "relations": [
+            {
+                "relation": "Prequel",
+                "entry": [
+                    {
+                        "mal_id": 177,
+                        "type": "anime",
+                        "name": "Tsubasa Chronicle",
+                        "url": "https://myanimelist.net/anime/177/Tsubasa_Chronicle"
+                    }
+                ]
+            },
+            {
+                "relation": "Adaptation",
+                "entry": [
+                    {
+                        "mal_id": 9,
+                        "type": "manga",
+                        "name": "Tsubasa: RESERVoir CHRoNiCLE",
+                        "url": "https://myanimelist.net/manga/9/Tsubasa__RESERVoir_CHRoNiCLE"
+                    }
+                ]
+            },
+            {
+                "relation": "Alternative Version",
+                "entry": [
+                    {
+                        "mal_id": 2685,
+                        "type": "anime",
+                        "name": "Tsubasa: Tokyo Revelations",
+                        "url": "https://myanimelist.net/anime/2685/Tsubasa__Tokyo_Revelations"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [
+                "\"IT'S\" by Kinya"
+            ],
+            "endings": [
+                "\"Kazemachi Jet\" by Sakamoto Maaya"
+            ]
+        },
+        "external": [
+            {
+                "name": "Official Site",
+                "url": "http://www3.nhk.or.jp/anime/tsubasa/"
+            },
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=4046"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=4591"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Tsubasa:_Reservoir_Chronicle#Anime_series"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "https://ja.wikipedia.org/wiki/%E3%83%84%E3%83%90%E3%82%B5-RESERVoir_CHRoNiCLE-#%E3%83%86%E3%83%AC%E3%83%93%E3%82%A2%E3%83%8B%E3%83%A1"
+            },
+            {
+                "name": "Syoboi",
+                "url": "https://cal.syoboi.jp/tid/884"
+            },
+            {
+                "name": "Bangumi",
+                "url": "https://bangumi.tv/subject/2892"
+            },
+            {
+                "name": "Baidu Baike",
+                "url": "https://baike.baidu.com/item/%E7%BF%BC%C2%B7%E5%B9%B4%E4%BB%A3%E8%AE%B0/4565786"
+            },
+            {
+                "name": "Douban",
+                "url": "https://movie.douban.com/subject/6393356/"
+            }
+        ],
+        "streaming": [
+            {
+                "name": "Crunchyroll",
+                "url": "http://www.crunchyroll.com/series-280230"
+            }
+        ]
+    },
+    "episodes": [
+        {
+            "mal_id": 1,
+            "url": "https://myanimelist.net/anime/969/Tsubasa_Chronicle_2nd_Season/episode/1",
+            "title": "Dangerous Race",
+            "title_japanese": "危険なレース",
+            "title_romanji": "Kiken na Race ",
+            "aired": "2006-04-29T00:00:00+00:00",
+            "score": 4.09,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=26396"
+        },
+        {
+            "mal_id": 2,
+            "url": "https://myanimelist.net/anime/969/Tsubasa_Chronicle_2nd_Season/episode/2",
+            "title": "The Three Badges",
+            "title_japanese": "三つのバッジ",
+            "title_romanji": "Mittsu no Badge ",
+            "aired": "2006-05-05T00:00:00+00:00",
+            "score": 4.07,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=102099"
+        },
+        {
+            "mal_id": 3,
+            "url": "https://myanimelist.net/anime/969/Tsubasa_Chronicle_2nd_Season/episode/3",
+            "title": "Goal of Glory",
+            "title_japanese": "栄光のゴール",
+            "title_romanji": "Eikou no Goal ",
+            "aired": "2006-05-13T00:00:00+00:00",
+            "score": 4.27,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=102111"
+        },
+        {
+            "mal_id": 4,
+            "url": "https://myanimelist.net/anime/969/Tsubasa_Chronicle_2nd_Season/episode/4",
+            "title": "Sorrowful Miracle",
+            "title_japanese": "哀しいキセキ",
+            "title_romanji": "Kanashii Kiseki ",
+            "aired": "2006-05-20T00:00:00+00:00",
+            "score": 4.11,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=102118"
+        },
+        {
+            "mal_id": 5,
+            "url": "https://myanimelist.net/anime/969/Tsubasa_Chronicle_2nd_Season/episode/5",
+            "title": "A Young Man's Resolve",
+            "title_japanese": "少年のケツイ",
+            "title_romanji": "Shounen no Ketsui ",
+            "aired": "2006-05-27T00:00:00+00:00",
+            "score": 3.92,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=37843"
+        },
+        {
+            "mal_id": 6,
+            "url": "https://myanimelist.net/anime/969/Tsubasa_Chronicle_2nd_Season/episode/6",
+            "title": "A Date with a Wizard",
+            "title_japanese": "魔術師とデート",
+            "title_romanji": "Majutsushi to Date ",
+            "aired": "2006-06-03T00:00:00+00:00",
+            "score": 4.11,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=102126"
+        },
+        {
+            "mal_id": 7,
+            "url": "https://myanimelist.net/anime/969/Tsubasa_Chronicle_2nd_Season/episode/7",
+            "title": "The Origins of Ashura",
+            "title_japanese": "阿修羅のイワレ",
+            "title_romanji": "Ashura no Iware ",
+            "aired": "2006-06-10T00:00:00+00:00",
+            "score": 4.06,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=102139"
+        },
+        {
+            "mal_id": 8,
+            "url": "https://myanimelist.net/anime/969/Tsubasa_Chronicle_2nd_Season/episode/8",
+            "title": "Endless War",
+            "title_japanese": "終わりなきイクサ",
+            "title_romanji": "Owarinaki Ikusa ",
+            "aired": "2006-06-17T00:00:00+00:00",
+            "score": 4.33,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=102143"
+        },
+        {
+            "mal_id": 9,
+            "url": "https://myanimelist.net/anime/969/Tsubasa_Chronicle_2nd_Season/episode/9",
+            "title": "Two Memories",
+            "title_japanese": "ふたつのキオク",
+            "title_romanji": "Futatsu no Kioku ",
+            "aired": "2006-06-24T00:00:00+00:00",
+            "score": 4.27,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=102261"
+        },
+        {
+            "mal_id": 10,
+            "url": "https://myanimelist.net/anime/969/Tsubasa_Chronicle_2nd_Season/episode/10",
+            "title": "Love that Transcends Time",
+            "title_japanese": "時をこえるオモイ",
+            "title_romanji": "Toki wo Koeru Omoi ",
+            "aired": "2006-07-01T00:00:00+00:00",
+            "score": 4.5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=102263"
+        },
+        {
+            "mal_id": 11,
+            "url": "https://myanimelist.net/anime/969/Tsubasa_Chronicle_2nd_Season/episode/11",
+            "title": "Mokona the Artist",
+            "title_japanese": "おえかきモコナ",
+            "title_romanji": "Oekaki Mokona ",
+            "aired": "2006-07-08T00:00:00+00:00",
+            "score": 4.7,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=26438"
+        },
+        {
+            "mal_id": 12,
+            "url": "https://myanimelist.net/anime/969/Tsubasa_Chronicle_2nd_Season/episode/12",
+            "title": "Dangerous Road",
+            "title_japanese": "危険なロード",
+            "title_romanji": "Kiken na Road ",
+            "aired": "2006-07-15T00:00:00+00:00",
+            "score": 3.71,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=102283"
+        },
+        {
+            "mal_id": 13,
+            "url": "https://myanimelist.net/anime/969/Tsubasa_Chronicle_2nd_Season/episode/13",
+            "title": "The Beginning of a Farewell",
+            "title_japanese": "始まりのワカレ",
+            "title_romanji": "Hajimari no Wakare ",
+            "aired": "2006-07-22T00:00:00+00:00",
+            "score": 3.06,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=102293"
+        },
+        {
+            "mal_id": 14,
+            "url": "https://myanimelist.net/anime/969/Tsubasa_Chronicle_2nd_Season/episode/14",
+            "title": "Black Steel",
+            "title_japanese": "黒き鋼",
+            "title_romanji": "Kuroki Hagane ",
+            "aired": "2006-07-29T00:00:00+00:00",
+            "score": 4.61,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=26461"
+        },
+        {
+            "mal_id": 15,
+            "url": "https://myanimelist.net/anime/969/Tsubasa_Chronicle_2nd_Season/episode/15",
+            "title": "Secret of the Library",
+            "title_japanese": "図書館のヒミツ",
+            "title_romanji": "Toshokan no Himitsu ",
+            "aired": "2006-08-05T00:00:00+00:00",
+            "score": 4.24,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=102300"
+        },
+        {
+            "mal_id": 16,
+            "url": "https://myanimelist.net/anime/969/Tsubasa_Chronicle_2nd_Season/episode/16",
+            "title": "Faraway Homesickness",
+            "title_japanese": "望郷のカナタ",
+            "title_romanji": "Boukyou no Kanata ",
+            "aired": "2006-08-26T00:00:00+00:00",
+            "score": 4.48,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=102307"
+        },
+        {
+            "mal_id": 17,
+            "url": "https://myanimelist.net/anime/969/Tsubasa_Chronicle_2nd_Season/episode/17",
+            "title": "The Fifth Oath",
+            "title_japanese": "五つ目のチカイ",
+            "title_romanji": "Itsutsume no Chikai ",
+            "aired": "2006-09-02T00:00:00+00:00",
+            "score": 4.14,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=102315"
+        },
+        {
+            "mal_id": 18,
+            "url": "https://myanimelist.net/anime/969/Tsubasa_Chronicle_2nd_Season/episode/18",
+            "title": "Kero and Mokona",
+            "title_japanese": "ケロちゃんとモコナ",
+            "title_romanji": "Kero-chan to Mokona ",
+            "aired": "2006-09-16T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=26535"
+        },
+        {
+            "mal_id": 19,
+            "url": "https://myanimelist.net/anime/969/Tsubasa_Chronicle_2nd_Season/episode/19",
+            "title": "The Second Hardship",
+            "title_japanese": "二度目のクナン",
+            "title_romanji": "Nidome no Kunan ",
+            "aired": "2006-09-16T00:00:00+00:00",
+            "score": 3.85,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=102356"
+        },
+        {
+            "mal_id": 20,
+            "url": "https://myanimelist.net/anime/969/Tsubasa_Chronicle_2nd_Season/episode/20",
+            "title": "The Secret of Hijutsu",
+            "title_japanese": "秘術のゴクイ",
+            "title_romanji": "Hijutsu no Gokui ",
+            "aired": "2006-09-23T00:00:00+00:00",
+            "score": 3.93,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=102371"
+        },
+        {
+            "mal_id": 21,
+            "url": "https://myanimelist.net/anime/969/Tsubasa_Chronicle_2nd_Season/episode/21",
+            "title": "Sakura Works",
+            "title_japanese": "はたらくサクラ",
+            "title_romanji": "Hataraku Sakura ",
+            "aired": "2006-09-30T00:00:00+00:00",
+            "score": 4.12,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=26544"
+        },
+        {
+            "mal_id": 22,
+            "url": "https://myanimelist.net/anime/969/Tsubasa_Chronicle_2nd_Season/episode/22",
+            "title": "Feather-King Chaos",
+            "title_japanese": "羽王カオス",
+            "title_romanji": "Haou Chaos ",
+            "aired": "2006-10-07T00:00:00+00:00",
+            "score": 4.36,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=102392"
+        },
+        {
+            "mal_id": 23,
+            "url": "https://myanimelist.net/anime/969/Tsubasa_Chronicle_2nd_Season/episode/23",
+            "title": "A Warped Wish",
+            "title_japanese": "歪んだネガイ",
+            "title_romanji": "Yuganda Negai ",
+            "aired": "2006-10-14T00:00:00+00:00",
+            "score": 4.32,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=102405"
+        },
+        {
+            "mal_id": 24,
+            "url": "https://myanimelist.net/anime/969/Tsubasa_Chronicle_2nd_Season/episode/24",
+            "title": "Determined Friends",
+            "title_japanese": "決意のナカマ",
+            "title_romanji": "Ketsui no Nakama ",
+            "aired": "2006-10-21T00:00:00+00:00",
+            "score": 4.45,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=102508"
+        },
+        {
+            "mal_id": 25,
+            "url": "https://myanimelist.net/anime/969/Tsubasa_Chronicle_2nd_Season/episode/25",
+            "title": "A Frozen Spirit",
+            "title_japanese": "凍てつくミタマ",
+            "title_romanji": "Itetsuku Mitama ",
+            "aired": "2006-10-28T00:00:00+00:00",
+            "score": 4.06,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=102521"
+        },
+        {
+            "mal_id": 26,
+            "url": "https://myanimelist.net/anime/969/Tsubasa_Chronicle_2nd_Season/episode/26",
+            "title": "Wings Toward Tomorrow",
+            "title_japanese": "明日へのツバサ",
+            "title_romanji": "Ashita e no Tsubasa ",
+            "aired": "2006-11-04T00:00:00+00:00",
+            "score": 3.78,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=26552"
+        }
+    ]
+}

@@ -1,0 +1,204 @@
+{
+    "id": 2124,
+    "fetched_at": "Sun Dec 14 18:12:09 2025",
+    "metadata": {
+        "mal_id": 2124,
+        "url": "https://myanimelist.net/anime/2124/Code_Geass__Hangyaku_no_Lelouch_Recaps",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/7/22569.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/7/22569t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/7/22569l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/7/22569.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/7/22569t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/7/22569l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Code Geass: Hangyaku no Lelouch Recaps"
+            },
+            {
+                "type": "Synonym",
+                "title": "Code Geass: Lelouch of the Rebellion Episode 8.5 and Episode 17.5"
+            },
+            {
+                "type": "Synonym",
+                "title": "Code Geass: Hangyaku no Lelouch Specials"
+            },
+            {
+                "type": "Japanese",
+                "title": "コードギアス 反逆のルルーシュ"
+            },
+            {
+                "type": "English",
+                "title": "Code Geass: Lelouch of the Rebellion Recaps"
+            }
+        ],
+        "title": "Code Geass: Hangyaku no Lelouch Recaps",
+        "title_english": "Code Geass: Lelouch of the Rebellion Recaps",
+        "title_japanese": "コードギアス 反逆のルルーシュ",
+        "title_synonyms": [
+            "Code Geass: Lelouch of the Rebellion Episode 8.5 and Episode 17.5",
+            "Code Geass: Hangyaku no Lelouch Specials"
+        ],
+        "type": "TV Special",
+        "source": "Original",
+        "episodes": 2,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "2006-12-01T00:00:00+00:00",
+            "to": "2007-02-16T00:00:00+00:00",
+            "prop": {
+                "from": {
+                    "day": 1,
+                    "month": 12,
+                    "year": 2006
+                },
+                "to": {
+                    "day": 16,
+                    "month": 2,
+                    "year": 2007
+                }
+            },
+            "string": "Dec 1, 2006 to Feb 16, 2007"
+        },
+        "duration": "24 min per ep",
+        "rating": "PG-13 - Teens 13 or older",
+        "score": 7.02,
+        "scored_by": 16656,
+        "rank": 4435,
+        "popularity": 4019,
+        "members": 38779,
+        "favorites": 57,
+        "synopsis": "Recap episodes of Code Geass. Also known as episodes 8.5 and 17.5.",
+        "background": "",
+        "season": null,
+        "year": null,
+        "broadcast": {
+            "day": null,
+            "time": null,
+            "timezone": null,
+            "string": null
+        },
+        "producers": [],
+        "licensors": [],
+        "studios": [
+            {
+                "mal_id": 14,
+                "type": "anime",
+                "name": "Sunrise",
+                "url": "https://myanimelist.net/anime/producer/14/Sunrise"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 24,
+                "type": "anime",
+                "name": "Sci-Fi",
+                "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [
+            {
+                "mal_id": 18,
+                "type": "anime",
+                "name": "Mecha",
+                "url": "https://myanimelist.net/anime/genre/18/Mecha"
+            },
+            {
+                "mal_id": 38,
+                "type": "anime",
+                "name": "Military",
+                "url": "https://myanimelist.net/anime/genre/38/Military"
+            },
+            {
+                "mal_id": 23,
+                "type": "anime",
+                "name": "School",
+                "url": "https://myanimelist.net/anime/genre/23/School"
+            },
+            {
+                "mal_id": 31,
+                "type": "anime",
+                "name": "Super Power",
+                "url": "https://myanimelist.net/anime/genre/31/Super_Power"
+            }
+        ],
+        "demographics": [],
+        "relations": [
+            {
+                "relation": "Full Story",
+                "entry": [
+                    {
+                        "mal_id": 1575,
+                        "type": "anime",
+                        "name": "Code Geass: Hangyaku no Lelouch",
+                        "url": "https://myanimelist.net/anime/1575/Code_Geass__Hangyaku_no_Lelouch"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [
+                "1: \"COLORS\" by FLOW (eps 1)",
+                "2: \"Kaidoku Funou (解読不能)\" by Jinn (eps 2)"
+            ],
+            "endings": [
+                "1: \"Yuukyou Seishunka (勇侠青春謳)\" by Ali Project (eps 1)",
+                "2: \"Mosaic Kakera (モザイクカケラ)\" by SunSet Swish (eps 2)"
+            ]
+        },
+        "external": [
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=4521"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": [
+        {
+            "mal_id": 1,
+            "url": null,
+            "title": "The Track of the Mask",
+            "title_japanese": "仮面の軌跡",
+            "title_romanji": "Kamen no Kizeki ",
+            "aired": "2006-12-01T00:00:00+00:00",
+            "score": 3.63,
+            "filler": false,
+            "recap": true,
+            "forum_url": "https://myanimelist.net/forum/?topicid=37059"
+        },
+        {
+            "mal_id": 2,
+            "url": null,
+            "title": "The Truth of the Mask",
+            "title_japanese": "仮面の真実",
+            "title_romanji": "Kamen no Shinjitsu ",
+            "aired": "2007-02-16T00:00:00+00:00",
+            "score": 3.39,
+            "filler": false,
+            "recap": true,
+            "forum_url": "https://myanimelist.net/forum/?topicid=37058"
+        }
+    ]
+}

@@ -1,0 +1,880 @@
+{
+    "id": 1606,
+    "fetched_at": "Sun Dec 14 16:36:36 2025",
+    "metadata": {
+        "mal_id": 1606,
+        "url": "https://myanimelist.net/anime/1606/Kekkaishi",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/7/75191.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/7/75191t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/7/75191l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/7/75191.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/7/75191t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/7/75191l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": "https://www.youtube-nocookie.com/embed/xht0MY1Tjnk?enablejsapi=1&wmode=opaque&autoplay=1",
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Kekkaishi"
+            },
+            {
+                "type": "Synonym",
+                "title": "Barrier Master"
+            },
+            {
+                "type": "Japanese",
+                "title": "結界師"
+            },
+            {
+                "type": "English",
+                "title": "Kekkaishi"
+            },
+            {
+                "type": "Spanish",
+                "title": "Kekkaishi"
+            }
+        ],
+        "title": "Kekkaishi",
+        "title_english": "Kekkaishi",
+        "title_japanese": "結界師",
+        "title_synonyms": [
+            "Barrier Master"
+        ],
+        "type": "TV",
+        "source": "Manga",
+        "episodes": 52,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "2006-10-16T00:00:00+00:00",
+            "to": "2008-02-05T00:00:00+00:00",
+            "prop": {
+                "from": {
+                    "day": 16,
+                    "month": 10,
+                    "year": 2006
+                },
+                "to": {
+                    "day": 5,
+                    "month": 2,
+                    "year": 2008
+                }
+            },
+            "string": "Oct 16, 2006 to Feb 5, 2008"
+        },
+        "duration": "24 min per ep",
+        "rating": "PG-13 - Teens 13 or older",
+        "score": 7.59,
+        "scored_by": 52106,
+        "rank": 1697,
+        "popularity": 2105,
+        "members": 117194,
+        "favorites": 644,
+        "synopsis": "Yoshimura Sumimura comes from a long line of \"Kekkaishi,\" individuals who have supernatural abilities and are able to destroy evil creatures called Ayakashi that venture into the human realm from time to time. The Ayakashi are demons that look to feast on the power emanating from the land of Karasumori, which also happens to be where Yoshimura's high school is located. Now, Yoshimura must fight to protect his beloved school and hometown. Although, if it were up to him, he would rather be baking cakes than fighting off the ugly characters that show up at night.\n\nThankfully, Yoshimura isn't the only one helping to keep the baddies at bay. His childhood friend and neighbor, Tokine Yukimura, joins him in this righteous battle. Despite the fact that they are from rival clans, these two make a fantastic team. And teamwork is something vital to fighting the evil that is closing in, as the Ayakashi attack in waves, looking to claim the land as their own, and a shadowy organization looks on, ready to pounce when the time is right...",
+        "background": "",
+        "season": "fall",
+        "year": 2006,
+        "broadcast": {
+            "day": "Mondays",
+            "time": "19:00",
+            "timezone": "Asia/Tokyo",
+            "string": "Mondays at 19:00 (JST)"
+        },
+        "producers": [
+            {
+                "mal_id": 76,
+                "type": "anime",
+                "name": "Yomiuri Telecasting",
+                "url": "https://myanimelist.net/anime/producer/76/Yomiuri_Telecasting"
+            },
+            {
+                "mal_id": 577,
+                "type": "anime",
+                "name": "Tohokushinsha Film Corporation",
+                "url": "https://myanimelist.net/anime/producer/577/Tohokushinsha_Film_Corporation"
+            },
+            {
+                "mal_id": 3242,
+                "type": "anime",
+                "name": "Zet",
+                "url": "https://myanimelist.net/anime/producer/3242/Zet"
+            }
+        ],
+        "licensors": [
+            {
+                "mal_id": 119,
+                "type": "anime",
+                "name": "VIZ Media",
+                "url": "https://myanimelist.net/anime/producer/119/VIZ_Media"
+            },
+            {
+                "mal_id": 467,
+                "type": "anime",
+                "name": "Discotek Media",
+                "url": "https://myanimelist.net/anime/producer/467/Discotek_Media"
+            }
+        ],
+        "studios": [
+            {
+                "mal_id": 14,
+                "type": "anime",
+                "name": "Sunrise",
+                "url": "https://myanimelist.net/anime/producer/14/Sunrise"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 1,
+                "type": "anime",
+                "name": "Action",
+                "url": "https://myanimelist.net/anime/genre/1/Action"
+            },
+            {
+                "mal_id": 2,
+                "type": "anime",
+                "name": "Adventure",
+                "url": "https://myanimelist.net/anime/genre/2/Adventure"
+            },
+            {
+                "mal_id": 37,
+                "type": "anime",
+                "name": "Supernatural",
+                "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [
+            {
+                "mal_id": 6,
+                "type": "anime",
+                "name": "Mythology",
+                "url": "https://myanimelist.net/anime/genre/6/Mythology"
+            }
+        ],
+        "demographics": [
+            {
+                "mal_id": 27,
+                "type": "anime",
+                "name": "Shounen",
+                "url": "https://myanimelist.net/anime/genre/27/Shounen"
+            }
+        ],
+        "relations": [
+            {
+                "relation": "Adaptation",
+                "entry": [
+                    {
+                        "mal_id": 105,
+                        "type": "manga",
+                        "name": "Kekkaishi",
+                        "url": "https://myanimelist.net/manga/105/Kekkaishi"
+                    }
+                ]
+            },
+            {
+                "relation": "Summary",
+                "entry": [
+                    {
+                        "mal_id": 39315,
+                        "type": "anime",
+                        "name": "Kekkaishi: Yoshimori no Omoi",
+                        "url": "https://myanimelist.net/anime/39315/Kekkaishi__Yoshimori_no_Omoi"
+                    }
+                ]
+            },
+            {
+                "relation": "Other",
+                "entry": [
+                    {
+                        "mal_id": 40347,
+                        "type": "anime",
+                        "name": "Shounen Sunday CM: Kekkaishi",
+                        "url": "https://myanimelist.net/anime/40347/Shounen_Sunday_CM__Kekkaishi"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [
+                "\"Sha la la –Ayakashi NIGHT–\" by Saeka Uura"
+            ],
+            "endings": [
+                "1: \"Akai Ito (赤い糸)\" by Koshi Inaba (eps 1-15, 38, 40, 48, 52)",
+                "2: \"Sekaijyuu Doko wo Sagashitemo (世界中どこを探しても)\" by Aiko Kitahara (eps 16-23, 39, 44, 51)",
+                "3: \"My Mirai (マイミライ)\" by Saeka Uura (eps 24-30, 41, 46, 49)",
+                "4: \"Kyuukei Jikan Juppun (休憩時間10分)\" by Saeka Uura"
+            ]
+        },
+        "external": [
+            {
+                "name": "Official Site",
+                "url": "http://www.sunrise-inc.co.jp/kekkaishi/"
+            },
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=4574"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=6806"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "http://en.wikipedia.org/wiki/Kekkaishi"
+            }
+        ],
+        "streaming": [
+            {
+                "name": "Crunchyroll",
+                "url": "http://www.crunchyroll.com/series-281356"
+            },
+            {
+                "name": "Animekey",
+                "url": "https://animekey.tv/"
+            }
+        ]
+    },
+    "episodes": [
+        {
+            "mal_id": 1,
+            "url": "https://myanimelist.net/anime/1606/Kekkaishi/episode/1",
+            "title": "Scars",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 4.4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=212982"
+        },
+        {
+            "mal_id": 2,
+            "url": "https://myanimelist.net/anime/1606/Kekkaishi/episode/2",
+            "title": "Yoshimori and Tokine",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 4.12,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=40373"
+        },
+        {
+            "mal_id": 3,
+            "url": "https://myanimelist.net/anime/1606/Kekkaishi/episode/3",
+            "title": "The Beautiful Demon Tamer",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 4.31,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=214047"
+        },
+        {
+            "mal_id": 4,
+            "url": "https://myanimelist.net/anime/1606/Kekkaishi/episode/4",
+            "title": "Her Treasure",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 4.54,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=40376"
+        },
+        {
+            "mal_id": 5,
+            "url": "https://myanimelist.net/anime/1606/Kekkaishi/episode/5",
+            "title": "The Sweet Ghost",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 4.27,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=214067"
+        },
+        {
+            "mal_id": 6,
+            "url": "https://myanimelist.net/anime/1606/Kekkaishi/episode/6",
+            "title": "Night Blooms of Karasumori",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 4.13,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=214116"
+        },
+        {
+            "mal_id": 7,
+            "url": "https://myanimelist.net/anime/1606/Kekkaishi/episode/7",
+            "title": "The Best Cake in the World",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 4.29,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=40379"
+        },
+        {
+            "mal_id": 8,
+            "url": "https://myanimelist.net/anime/1606/Kekkaishi/episode/8",
+            "title": "A Day in the Life of Yoshimori",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 4.29,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=247484"
+        },
+        {
+            "mal_id": 9,
+            "url": "https://myanimelist.net/anime/1606/Kekkaishi/episode/9",
+            "title": "A Dangerous Teacher",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 3.69,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=249380"
+        },
+        {
+            "mal_id": 10,
+            "url": "https://myanimelist.net/anime/1606/Kekkaishi/episode/10",
+            "title": "Shikigami Chocolate Battle",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 4.4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=40386"
+        },
+        {
+            "mal_id": 11,
+            "url": "https://myanimelist.net/anime/1606/Kekkaishi/episode/11",
+            "title": "Koya and Madarao",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 4.29,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=8898"
+        },
+        {
+            "mal_id": 12,
+            "url": "https://myanimelist.net/anime/1606/Kekkaishi/episode/12",
+            "title": "Sealing the Demon Dog",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 4.35,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=8901"
+        },
+        {
+            "mal_id": 13,
+            "url": "https://myanimelist.net/anime/1606/Kekkaishi/episode/13",
+            "title": "Masamori Sumimura Chief of the Night Troops",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 4.1,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=8905"
+        },
+        {
+            "mal_id": 14,
+            "url": "https://myanimelist.net/anime/1606/Kekkaishi/episode/14",
+            "title": "Masamori's Scheme",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 4.18,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=8978"
+        },
+        {
+            "mal_id": 15,
+            "url": "https://myanimelist.net/anime/1606/Kekkaishi/episode/15",
+            "title": "Yoshimori's Ambition",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 4.11,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=98357"
+        },
+        {
+            "mal_id": 16,
+            "url": "https://myanimelist.net/anime/1606/Kekkaishi/episode/16",
+            "title": "Lord Uro of the Colorless Marsh",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 3.89,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=8984"
+        },
+        {
+            "mal_id": 17,
+            "url": "https://myanimelist.net/anime/1606/Kekkaishi/episode/17",
+            "title": "The Divine Field",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 4.14,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=8996"
+        },
+        {
+            "mal_id": 18,
+            "url": "https://myanimelist.net/anime/1606/Kekkaishi/episode/18",
+            "title": "A Day in the Life of Toshimori",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 4.23,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=262657"
+        },
+        {
+            "mal_id": 19,
+            "url": "https://myanimelist.net/anime/1606/Kekkaishi/episode/19",
+            "title": "Assault of the White Feathers",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 4.38,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1758"
+        },
+        {
+            "mal_id": 20,
+            "url": "https://myanimelist.net/anime/1606/Kekkaishi/episode/20",
+            "title": "The Ominous Spy",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 4.2,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1760"
+        },
+        {
+            "mal_id": 21,
+            "url": "https://myanimelist.net/anime/1606/Kekkaishi/episode/21",
+            "title": "Gen Shishio the Heartless Transfer Student",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 4.14,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2200"
+        },
+        {
+            "mal_id": 22,
+            "url": "https://myanimelist.net/anime/1606/Kekkaishi/episode/22",
+            "title": "Emissary from the Shadow Organization",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 3.72,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2332"
+        },
+        {
+            "mal_id": 23,
+            "url": "https://myanimelist.net/anime/1606/Kekkaishi/episode/23",
+            "title": "In Pursuit of the Legitimate Heir",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=9090"
+        },
+        {
+            "mal_id": 24,
+            "url": "https://myanimelist.net/anime/1606/Kekkaishi/episode/24",
+            "title": "A Crush On Gen",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 3.8,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=9119"
+        },
+        {
+            "mal_id": 25,
+            "url": "https://myanimelist.net/anime/1606/Kekkaishi/episode/25",
+            "title": "Tokine and the Prince",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 3.86,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=271365"
+        },
+        {
+            "mal_id": 26,
+            "url": "https://myanimelist.net/anime/1606/Kekkaishi/episode/26",
+            "title": "A Night Without Yoshimori",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 4.43,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=15244"
+        },
+        {
+            "mal_id": 27,
+            "url": "https://myanimelist.net/anime/1606/Kekkaishi/episode/27",
+            "title": "Council of Twelve",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 4.5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=273724"
+        },
+        {
+            "mal_id": 28,
+            "url": "https://myanimelist.net/anime/1606/Kekkaishi/episode/28",
+            "title": "The Kokuboro's Declaration of War",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 4.57,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=274893"
+        },
+        {
+            "mal_id": 29,
+            "url": "https://myanimelist.net/anime/1606/Kekkaishi/episode/29",
+            "title": "Seal of Dispelling",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 4.6,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=4537"
+        },
+        {
+            "mal_id": 30,
+            "url": "https://myanimelist.net/anime/1606/Kekkaishi/episode/30",
+            "title": "The Right Person for Karasumori",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 3.88,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=4692"
+        },
+        {
+            "mal_id": 31,
+            "url": "https://myanimelist.net/anime/1606/Kekkaishi/episode/31",
+            "title": "Gen's Dark Past",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 4.42,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=4944"
+        },
+        {
+            "mal_id": 32,
+            "url": "https://myanimelist.net/anime/1606/Kekkaishi/episode/32",
+            "title": "A Challenge from Atora",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 4.53,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=5112"
+        },
+        {
+            "mal_id": 33,
+            "url": "https://myanimelist.net/anime/1606/Kekkaishi/episode/33",
+            "title": "Hurry Grandpa Shige!",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 4.4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=5401"
+        },
+        {
+            "mal_id": 34,
+            "url": "https://myanimelist.net/anime/1606/Kekkaishi/episode/34",
+            "title": "Call of Darkness",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 4.15,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=5403"
+        },
+        {
+            "mal_id": 35,
+            "url": "https://myanimelist.net/anime/1606/Kekkaishi/episode/35",
+            "title": "The Kokuboro Draws Near",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 4.33,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=5585"
+        },
+        {
+            "mal_id": 36,
+            "url": "https://myanimelist.net/anime/1606/Kekkaishi/episode/36",
+            "title": "Karasumori in Flames",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1413803"
+        },
+        {
+            "mal_id": 37,
+            "url": "https://myanimelist.net/anime/1606/Kekkaishi/episode/37",
+            "title": "Gen Shishio's Last Stand",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 4.38,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=291769"
+        },
+        {
+            "mal_id": 38,
+            "url": "https://myanimelist.net/anime/1606/Kekkaishi/episode/38",
+            "title": "Requiem",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 4.33,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=8367"
+        },
+        {
+            "mal_id": 39,
+            "url": "https://myanimelist.net/anime/1606/Kekkaishi/episode/39",
+            "title": "The Mystery of Karasumori",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 4.16,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=8370"
+        },
+        {
+            "mal_id": 40,
+            "url": "https://myanimelist.net/anime/1606/Kekkaishi/episode/40",
+            "title": "A Passage to Kokuboro",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 4.17,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=8840"
+        },
+        {
+            "mal_id": 41,
+            "url": "https://myanimelist.net/anime/1606/Kekkaishi/episode/41",
+            "title": "Days in Training",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 4.45,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=9277"
+        },
+        {
+            "mal_id": 42,
+            "url": "https://myanimelist.net/anime/1606/Kekkaishi/episode/42",
+            "title": "Night Troops Arrive",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=9690"
+        },
+        {
+            "mal_id": 43,
+            "url": "https://myanimelist.net/anime/1606/Kekkaishi/episode/43",
+            "title": "Resurgence",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 4.09,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=10403"
+        },
+        {
+            "mal_id": 44,
+            "url": "https://myanimelist.net/anime/1606/Kekkaishi/episode/44",
+            "title": "The Battle of Karasumori",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 4.32,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=12501"
+        },
+        {
+            "mal_id": 45,
+            "url": "https://myanimelist.net/anime/1606/Kekkaishi/episode/45",
+            "title": "Kokuboro's Hostage",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 4.41,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=12536"
+        },
+        {
+            "mal_id": 46,
+            "url": "https://myanimelist.net/anime/1606/Kekkaishi/episode/46",
+            "title": "Through the Maze",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 4.46,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=12542"
+        },
+        {
+            "mal_id": 47,
+            "url": "https://myanimelist.net/anime/1606/Kekkaishi/episode/47",
+            "title": "Byaku and Matsudo",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 4.56,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=12549"
+        },
+        {
+            "mal_id": 48,
+            "url": "https://myanimelist.net/anime/1606/Kekkaishi/episode/48",
+            "title": "The Collapsing Castle",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 4.26,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=14256"
+        },
+        {
+            "mal_id": 49,
+            "url": "https://myanimelist.net/anime/1606/Kekkaishi/episode/49",
+            "title": "Flower of Sorrow",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 4.5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=14443"
+        },
+        {
+            "mal_id": 50,
+            "url": "https://myanimelist.net/anime/1606/Kekkaishi/episode/50",
+            "title": "The Final Battle!",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 4.61,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=17581"
+        },
+        {
+            "mal_id": 51,
+            "url": "https://myanimelist.net/anime/1606/Kekkaishi/episode/51",
+            "title": "Yoshimori and Kaguro",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 4.47,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=17777"
+        },
+        {
+            "mal_id": 52,
+            "url": "https://myanimelist.net/anime/1606/Kekkaishi/episode/52",
+            "title": "The End of Kokuboro",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 4.42,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=17928"
+        }
+    ]
+}

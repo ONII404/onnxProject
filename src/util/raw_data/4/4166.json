@@ -1,0 +1,203 @@
+{
+    "id": 4166,
+    "fetched_at": "Sun Dec 14 22:25:38 2025",
+    "metadata": {
+        "mal_id": 4166,
+        "url": "https://myanimelist.net/anime/4166/To_Heart_2_AD",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/3/75476.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/3/75476t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/3/75476l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/3/75476.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/3/75476t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/3/75476l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "To Heart 2 AD"
+            },
+            {
+                "type": "Synonym",
+                "title": "ToHeart 2: Another Days"
+            },
+            {
+                "type": "Synonym",
+                "title": "To Heart 2: Another Days"
+            },
+            {
+                "type": "Synonym",
+                "title": "ToHeart2ad"
+            },
+            {
+                "type": "Japanese",
+                "title": "トゥハート2"
+            },
+            {
+                "type": "English",
+                "title": "ToHeart 2 AD"
+            }
+        ],
+        "title": "To Heart 2 AD",
+        "title_english": "ToHeart 2 AD",
+        "title_japanese": "トゥハート2",
+        "title_synonyms": [
+            "ToHeart 2: Another Days",
+            "To Heart 2: Another Days",
+            "ToHeart2ad"
+        ],
+        "type": "OVA",
+        "source": "Visual novel",
+        "episodes": 2,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "2008-03-26T00:00:00+00:00",
+            "to": "2008-08-08T00:00:00+00:00",
+            "prop": {
+                "from": {
+                    "day": 26,
+                    "month": 3,
+                    "year": 2008
+                },
+                "to": {
+                    "day": 8,
+                    "month": 8,
+                    "year": 2008
+                }
+            },
+            "string": "Mar 26, 2008 to Aug 8, 2008"
+        },
+        "duration": "28 min per ep",
+        "rating": "PG-13 - Teens 13 or older",
+        "score": 6.8,
+        "scored_by": 2882,
+        "rank": 5498,
+        "popularity": 7878,
+        "members": 7634,
+        "favorites": 5,
+        "synopsis": "Based on the Visual Novel ToHeart 2 AD (Another Days), the sequel to ToHeart 2.",
+        "background": "",
+        "season": null,
+        "year": null,
+        "broadcast": {
+            "day": null,
+            "time": null,
+            "timezone": null,
+            "string": null
+        },
+        "producers": [],
+        "licensors": [],
+        "studios": [
+            {
+                "mal_id": 462,
+                "type": "anime",
+                "name": "Chaos Project",
+                "url": "https://myanimelist.net/anime/producer/462/Chaos_Project"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 4,
+                "type": "anime",
+                "name": "Comedy",
+                "url": "https://myanimelist.net/anime/genre/4/Comedy"
+            },
+            {
+                "mal_id": 22,
+                "type": "anime",
+                "name": "Romance",
+                "url": "https://myanimelist.net/anime/genre/22/Romance"
+            },
+            {
+                "mal_id": 9,
+                "type": "anime",
+                "name": "Ecchi",
+                "url": "https://myanimelist.net/anime/genre/9/Ecchi"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [],
+        "demographics": [],
+        "relations": [
+            {
+                "relation": "Prequel",
+                "entry": [
+                    {
+                        "mal_id": 1720,
+                        "type": "anime",
+                        "name": "To Heart 2 OVA",
+                        "url": "https://myanimelist.net/anime/1720/To_Heart_2_OVA"
+                    }
+                ]
+            },
+            {
+                "relation": "Sequel",
+                "entry": [
+                    {
+                        "mal_id": 4804,
+                        "type": "anime",
+                        "name": "To Heart 2 AD Plus",
+                        "url": "https://myanimelist.net/anime/4804/To_Heart_2_AD_Plus"
+                    }
+                ]
+            },
+            {
+                "relation": "Adaptation",
+                "entry": [
+                    {
+                        "mal_id": 21235,
+                        "type": "manga",
+                        "name": "To Heart 2: Another Days",
+                        "url": "https://myanimelist.net/manga/21235/To_Heart_2__Another_Days"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [
+                "\"Niji no Kakehashi (虹の架け橋)\" by Uehara Rena"
+            ],
+            "endings": [
+                "\"Kimi ga Nokoshita Mono\" by Uehara Rena"
+            ]
+        },
+        "external": [
+            {
+                "name": "Official Site",
+                "url": "http://www.aquaplus.co.jp/th2ad/"
+            },
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=5592"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=9406"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "http://en.wikipedia.org/wiki/ToHeart2_%28anime%29"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": []
+}

@@ -1,0 +1,839 @@
+{
+    "id": 687,
+    "fetched_at": "Sun Dec 14 14:00:09 2025",
+    "metadata": {
+        "mal_id": 687,
+        "url": "https://myanimelist.net/anime/687/Tokyo_Mew_Mew",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/4/89298.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/4/89298t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/4/89298l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/4/89298.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/4/89298t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/4/89298l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Tokyo Mew Mew"
+            },
+            {
+                "type": "Japanese",
+                "title": "東京ミュウミュウ"
+            },
+            {
+                "type": "English",
+                "title": "Mew Mew Power"
+            },
+            {
+                "type": "French",
+                "title": "Mew Mew Power"
+            }
+        ],
+        "title": "Tokyo Mew Mew",
+        "title_english": "Mew Mew Power",
+        "title_japanese": "東京ミュウミュウ",
+        "title_synonyms": [],
+        "type": "TV",
+        "source": "Manga",
+        "episodes": 52,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "2002-04-06T00:00:00+00:00",
+            "to": "2003-03-29T00:00:00+00:00",
+            "prop": {
+                "from": {
+                    "day": 6,
+                    "month": 4,
+                    "year": 2002
+                },
+                "to": {
+                    "day": 29,
+                    "month": 3,
+                    "year": 2003
+                }
+            },
+            "string": "Apr 6, 2002 to Mar 29, 2003"
+        },
+        "duration": "24 min per ep",
+        "rating": "PG-13 - Teens 13 or older",
+        "score": 7.11,
+        "scored_by": 78649,
+        "rank": 4030,
+        "popularity": 1608,
+        "members": 165603,
+        "favorites": 1761,
+        "synopsis": "Ichigo Momomiya expected her date with her crush, Masaya Aoyama, to have a more romantic ending than her falling asleep after she sees a vision of a cat entering her body. Things get even stranger when, the next day, she begins displaying cat-like behaviors such as an intense craving for fish. When Masaya is attacked by a monster, she discovers that she is able to transform into the cat-eared magical girl, Mew Ichigo.\n \nAfter she saves Masaya, two researchers named Ryou Shirogane and Keiichiro Akasaka approach her and reveal they had injected her with Iriomote Cat DNA in order to create a magical girl that can save the world from aliens. Ichigo is tasked with fighting these monsters, but saving the world proves to be just too much for Ichigo to handle by herself. Fortunately, she learns that there are four other girls just like her, and now, Ichigo must find them quickly before the aliens completely take over the planet.\n\n[Written by MAL Rewrite]",
+        "background": "Tokyo Mew Mew's anime adaption was created by Studio Pierrot and Nippon Animation, first airing in Japan on TV Tokyo and TV Aichi. 4Kids handled English localization and was also only able to license and dub the first 26 episodes of the series.",
+        "season": "spring",
+        "year": 2002,
+        "broadcast": {
+            "day": "Saturdays",
+            "time": "08:00",
+            "timezone": "Asia/Tokyo",
+            "string": "Saturdays at 08:00 (JST)"
+        },
+        "producers": [
+            {
+                "mal_id": 1355,
+                "type": "anime",
+                "name": "TV Aichi",
+                "url": "https://myanimelist.net/anime/producer/1355/TV_Aichi"
+            },
+            {
+                "mal_id": 2817,
+                "type": "anime",
+                "name": "Tokyu Agency",
+                "url": "https://myanimelist.net/anime/producer/2817/Tokyu_Agency"
+            },
+            {
+                "mal_id": 2823,
+                "type": "anime",
+                "name": "We've Inc.",
+                "url": "https://myanimelist.net/anime/producer/2823/Weve_Inc"
+            }
+        ],
+        "licensors": [
+            {
+                "mal_id": 252,
+                "type": "anime",
+                "name": "4Kids Entertainment",
+                "url": "https://myanimelist.net/anime/producer/252/4Kids_Entertainment"
+            }
+        ],
+        "studios": [
+            {
+                "mal_id": 1,
+                "type": "anime",
+                "name": "Studio Pierrot",
+                "url": "https://myanimelist.net/anime/producer/1/Studio_Pierrot"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 22,
+                "type": "anime",
+                "name": "Romance",
+                "url": "https://myanimelist.net/anime/genre/22/Romance"
+            },
+            {
+                "mal_id": 24,
+                "type": "anime",
+                "name": "Sci-Fi",
+                "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [
+            {
+                "mal_id": 66,
+                "type": "anime",
+                "name": "Mahou Shoujo",
+                "url": "https://myanimelist.net/anime/genre/66/Mahou_Shoujo"
+            }
+        ],
+        "demographics": [
+            {
+                "mal_id": 25,
+                "type": "anime",
+                "name": "Shoujo",
+                "url": "https://myanimelist.net/anime/genre/25/Shoujo"
+            }
+        ],
+        "relations": [
+            {
+                "relation": "Adaptation",
+                "entry": [
+                    {
+                        "mal_id": 554,
+                        "type": "manga",
+                        "name": "Tokyo Mew Mew",
+                        "url": "https://myanimelist.net/manga/554/Tokyo_Mew_Mew"
+                    }
+                ]
+            },
+            {
+                "relation": "Alternative Version",
+                "entry": [
+                    {
+                        "mal_id": 41589,
+                        "type": "anime",
+                        "name": "Tokyo Mew Mew New ♡",
+                        "url": "https://myanimelist.net/anime/41589/Tokyo_Mew_Mew_New_♡"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [
+                "\"My Sweet Heart\" by Rika Komatsu"
+            ],
+            "endings": [
+                "\"Koi wa a la mode (恋はア・ラ・モード)\" by Tokyo Mew Mew"
+            ]
+        },
+        "external": [
+            {
+                "name": "Official Site",
+                "url": "http://pierrot.jp/title/mewmew/"
+            },
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=161"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=829"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "http://en.wikipedia.org/wiki/Tokyo_Mew_Mew"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": [
+        {
+            "mal_id": 1,
+            "url": null,
+            "title": "The Mew Kid in Town",
+            "title_japanese": "ネコになる、正義の味方は恋する少女にゃん",
+            "title_romanji": "Neko ni Naru, Seigi no Mikata wa Koisuru Shoujo Nyan ",
+            "aired": "2002-04-06T00:00:00+00:00",
+            "score": 4.34,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=281665"
+        },
+        {
+            "mal_id": 2,
+            "url": null,
+            "title": "Mew Two",
+            "title_japanese": "新しい仲間、正義の味方は超お嬢様にゃん",
+            "title_romanji": "Atarashii Nakama, Seigi no Mikata wa Chou Ojou-sama Nyan ",
+            "aired": "2002-04-13T00:00:00+00:00",
+            "score": 4.36,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=65334"
+        },
+        {
+            "mal_id": 3,
+            "url": null,
+            "title": "Pooltergeist",
+            "title_japanese": "学校の怪談、おばけの正体見つけ出すにゃん",
+            "title_romanji": "Gakkou no Kaidan, Obake no Shoutai Mitsukedasu Nyan ",
+            "aired": "2002-04-20T00:00:00+00:00",
+            "score": 4.21,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=65350"
+        },
+        {
+            "mal_id": 4,
+            "url": null,
+            "title": "The Lion Thing",
+            "title_japanese": "涙のデート、青山君にいえない秘密にゃん",
+            "title_romanji": "Namida no Date, Aoyama ni Ienai Himitsu Nyan ",
+            "aired": "2002-04-27T00:00:00+00:00",
+            "score": 4.27,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=213374"
+        },
+        {
+            "mal_id": 5,
+            "url": null,
+            "title": "Gymewstics",
+            "title_japanese": "嵐の新体操、ネコの舞で輝く星になるにゃん",
+            "title_romanji": "Arashi no Shintaisou, Neko no Mai de Kagayaku Hoshi ni Naru Nyan ",
+            "aired": "2002-05-04T00:00:00+00:00",
+            "score": 4.43,
+            "filler": true,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=215083"
+        },
+        {
+            "mal_id": 6,
+            "url": null,
+            "title": "Party 'Til You Mew",
+            "title_japanese": "心のピアノ、ときめきの舞踏会にゃん",
+            "title_romanji": "Kokoro no Piano, Tokimeki no Butoukai Nyan ",
+            "aired": "2002-05-11T00:00:00+00:00",
+            "score": 4.49,
+            "filler": true,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=281725"
+        },
+        {
+            "mal_id": 7,
+            "url": null,
+            "title": "Monkey See, Monkey Mew",
+            "title_japanese": "歩鈴登場、耳とシッポも芸のうち",
+            "title_romanji": "Purin Toujou, Mimi to Shippo mo Gei no Uchi ",
+            "aired": "2002-05-18T00:00:00+00:00",
+            "score": 4.58,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=282066"
+        },
+        {
+            "mal_id": 8,
+            "url": null,
+            "title": "Spa Blahs!",
+            "title_japanese": "温泉へＧＯ！神秘の山の愛の奇跡",
+            "title_romanji": "Onsen e Go! Shinpi no Yama no Ai no Kiseki ",
+            "aired": "2002-05-25T00:00:00+00:00",
+            "score": 4.25,
+            "filler": true,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=215353"
+        },
+        {
+            "mal_id": 9,
+            "url": null,
+            "title": "Do Mew Want to Dance?",
+            "title_japanese": "愛しのお兄様、思い出は写真の中に",
+            "title_romanji": "Itoshi no Onii-sama, Omoide wa Shashin no Naka ni ",
+            "aired": "2002-06-01T00:00:00+00:00",
+            "score": 4.52,
+            "filler": true,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=217559"
+        },
+        {
+            "mal_id": 10,
+            "url": null,
+            "title": "Hollywood Mew Mew Part 1",
+            "title_japanese": "最後の仲間、まぼろしの一匹狼",
+            "title_romanji": "Saigo no Nakama, Maboroshi no Ippiki Ookami ",
+            "aired": "2002-06-08T00:00:00+00:00",
+            "score": 4.5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=283418"
+        },
+        {
+            "mal_id": 11,
+            "url": null,
+            "title": "The Taming of the Mew Part 2",
+            "title_japanese": "信じる心、五人そろって東京ミュウミュウ",
+            "title_romanji": "Shinjiru Kokoro, Gonin Sorotte Tokyo Mew Mew ",
+            "aired": "2002-06-15T00:00:00+00:00",
+            "score": 4.57,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=283667"
+        },
+        {
+            "mal_id": 12,
+            "url": null,
+            "title": "The Main Mew's Muse",
+            "title_japanese": "バレちゃった、季節はずれの桜散る",
+            "title_romanji": "Barechatta, Kisetsu Hazure no Sakura Chiru ",
+            "aired": "2002-06-22T00:00:00+00:00",
+            "score": 4.62,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=284331"
+        },
+        {
+            "mal_id": 13,
+            "url": null,
+            "title": "Slime and Slime Again",
+            "title_japanese": "すれ違う心、狙われた青山くん",
+            "title_romanji": "Surechigau Kokoro, Nerawareta Aoyama-kun ",
+            "aired": "2002-06-29T00:00:00+00:00",
+            "score": 4.27,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=284340"
+        },
+        {
+            "mal_id": 14,
+            "url": null,
+            "title": "Butterflies Are Freaky",
+            "title_japanese": "赤坂の秘密、切ない恋の物語",
+            "title_romanji": "Akasaka no Himitsu, Setsunai Ai no Monogatari ",
+            "aired": "2002-07-06T00:00:00+00:00",
+            "score": 4.29,
+            "filler": true,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=284546"
+        },
+        {
+            "mal_id": 15,
+            "url": null,
+            "title": "The Hero Lies in Mew",
+            "title_japanese": "小さな勇者、マシャ　命がけの友情",
+            "title_romanji": "Chiisana Yuusha, Masha Inochigake no Yuujou ",
+            "aired": "2002-07-13T00:00:00+00:00",
+            "score": 4.41,
+            "filler": true,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=446209"
+        },
+        {
+            "mal_id": 16,
+            "url": null,
+            "title": "Books Of Love",
+            "title_japanese": "れたすの恋、一途な思いは図書館で",
+            "title_romanji": "Retasu no Koi, Ichizu na Omoi wa Toshokan de ",
+            "aired": "2002-07-20T00:00:00+00:00",
+            "score": 4.36,
+            "filler": true,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=446213"
+        },
+        {
+            "mal_id": 17,
+            "url": null,
+            "title": "A Knight to Remember Part 1",
+            "title_japanese": "蒼の騎士！おまえは俺が守る！！",
+            "title_romanji": "Ao no Kishi, Omae wa Ore ga Mamoru! ",
+            "aired": "2002-07-27T00:00:00+00:00",
+            "score": 4.52,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=446227"
+        },
+        {
+            "mal_id": 18,
+            "url": null,
+            "title": "My Knight In Blue Armor Part 2",
+            "title_japanese": "真夏の恋！いちごのハートはゆらゆら",
+            "title_romanji": "Manatsu no Koi! Ichigo no Heart wa Yurayura ",
+            "aired": "2002-08-03T00:00:00+00:00",
+            "score": 4.36,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=446231"
+        },
+        {
+            "mal_id": 19,
+            "url": null,
+            "title": "A Girl With A Porpoise",
+            "title_japanese": "優しさの力、海の深くに願いよ届け",
+            "title_romanji": "Yasashisa no Chikara, Umi no Fukaku ni Negai yo Todoke ",
+            "aired": "2002-08-10T00:00:00+00:00",
+            "score": 4.45,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=446233"
+        },
+        {
+            "mal_id": 20,
+            "url": null,
+            "title": "Daughter Of The Year",
+            "title_japanese": "母の記憶、お姉ちゃんは大変なのだ",
+            "title_romanji": "Haha no Kioku, Onee-chan wa Taihen na no Da ",
+            "aired": "2002-08-17T00:00:00+00:00",
+            "score": 4.76,
+            "filler": true,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=446245"
+        },
+        {
+            "mal_id": 21,
+            "url": null,
+            "title": "One Flew Out Of The Mew Mew's Nest",
+            "title_japanese": "心の火花、いちごとみんとのすれ違い",
+            "title_romanji": "Kokoro no Hanabi, Ichigo to Minto no Surechigai ",
+            "aired": "2002-08-24T00:00:00+00:00",
+            "score": 4.34,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=446249"
+        },
+        {
+            "mal_id": 22,
+            "url": null,
+            "title": "Buggin'",
+            "title_japanese": "夏よさらば、いちごの一番長い日",
+            "title_romanji": "Natsu yo Saraba, Ichigo no Ichiban Nagai Hi ",
+            "aired": "2002-08-31T00:00:00+00:00",
+            "score": 4.24,
+            "filler": true,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=446277"
+        },
+        {
+            "mal_id": 23,
+            "url": null,
+            "title": "I've Got A Crush On Mew",
+            "title_japanese": "恋は突然！乙女のハートをうけとめて",
+            "title_romanji": "Koi wa Totsuzen! Otome no Heart wo Uketomete ",
+            "aired": "2002-09-07T00:00:00+00:00",
+            "score": 4.1,
+            "filler": true,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=446281"
+        },
+        {
+            "mal_id": 24,
+            "url": null,
+            "title": "Diamonds Are A Girl's Worst Enemy",
+            "title_japanese": "不思議な宝石、輝きはあなたの中に",
+            "title_romanji": "Fushigi na Houseki, Kagayaki wa Anata no Naka ni ",
+            "aired": "2002-09-14T00:00:00+00:00",
+            "score": 4.39,
+            "filler": true,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=446285"
+        },
+        {
+            "mal_id": 25,
+            "url": null,
+            "title": "The Hunt For Blue Aqua Part 1",
+            "title_japanese": "恋のハードル、いちごの恋は障害だらけ",
+            "title_romanji": "Koi no Hurdle, Ichigo no Koi wa Shougaidarake ",
+            "aired": "2002-09-21T00:00:00+00:00",
+            "score": 4.35,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=446291"
+        },
+        {
+            "mal_id": 26,
+            "url": null,
+            "title": "Coo Coo Cocoon Part 2",
+            "title_japanese": "時よ止まれ！胸にあふれる愛しい気持ち",
+            "title_romanji": "Toki yo Tomare! Mune ni Afureru Itoshii Kimochi ",
+            "aired": "2002-09-28T00:00:00+00:00",
+            "score": 4.53,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=446305"
+        },
+        {
+            "mal_id": 27,
+            "url": null,
+            "title": "I Love You, Aoyama's Shocking Confession!",
+            "title_japanese": "あなたが好き、　青山くん衝撃の告白！",
+            "title_romanji": "Anata ga Suki, Aoyama-kun Shougeki no Kokuhaku! ",
+            "aired": "2002-10-05T00:00:00+00:00",
+            "score": 4.63,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=446309"
+        },
+        {
+            "mal_id": 28,
+            "url": null,
+            "title": "Kitty Panic, the Key to the Secret is the Maiden's Lips",
+            "title_japanese": "ネコパニック、秘密のカギは乙女のくちびる",
+            "title_romanji": "Neko Panic, Himitsu no Kagi wa Otome no Kuchibiru ",
+            "aired": "2002-10-12T00:00:00+00:00",
+            "score": 4.33,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=446313"
+        },
+        {
+            "mal_id": 29,
+            "url": null,
+            "title": "A Forbidden Love? I Can Understand Cats",
+            "title_japanese": "禁断の恋？ネコの言葉がわかるニャン",
+            "title_romanji": "Kindan no Koi? Neko no Kotoba ga Wakaru Nyan ",
+            "aired": "2002-10-19T00:00:00+00:00",
+            "score": 4.19,
+            "filler": true,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=519101"
+        },
+        {
+            "mal_id": 30,
+            "url": null,
+            "title": "Be Honest, Unrequited Love in a Crystal Ball",
+            "title_japanese": "素直になって、水晶玉に秘めた片思い",
+            "title_romanji": "Sunao ni Natte, Suishoudama ni Himeta Kataomoi ",
+            "aired": "2002-10-26T00:00:00+00:00",
+            "score": 4.56,
+            "filler": true,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1750770"
+        },
+        {
+            "mal_id": 31,
+            "url": null,
+            "title": "Father's Back, a One-Game Match with Ichigo On the Line!",
+            "title_japanese": "父の背中、いちごをかけた一本勝負！",
+            "title_romanji": "Chichi no Senaka, Ichigo wo Kaketa Ippon Shoubu! ",
+            "aired": "2002-11-02T00:00:00+00:00",
+            "score": 4.43,
+            "filler": true,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=446575"
+        },
+        {
+            "mal_id": 32,
+            "url": null,
+            "title": "Princess Fight, the Hero that Money Can't Buy",
+            "title_japanese": "お嬢さま対決、お金じゃ買えない正義の味方",
+            "title_romanji": "Ojou-sama Taiketsu, Okane ja Kaenai Seigi no Mikata ",
+            "aired": "2002-11-09T00:00:00+00:00",
+            "score": 4.5,
+            "filler": true,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=446595"
+        },
+        {
+            "mal_id": 33,
+            "url": null,
+            "title": "The Fiancé Appears, Purin's Fated Marriage",
+            "title_japanese": "婚約者現わる　歩鈴、運命の結婚",
+            "title_romanji": "Konyakusha Arawaru Purin, Shukumei no Kekkon?! ",
+            "aired": "2002-11-16T00:00:00+00:00",
+            "score": 3.66,
+            "filler": true,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=446601"
+        },
+        {
+            "mal_id": 34,
+            "url": null,
+            "title": "The Most Important Thing, to Believe in Someone",
+            "title_japanese": "一番大切な事、誰かを信じる気持ち",
+            "title_romanji": "Ichiban Taisetsu na Koto, Dareka wo Shinjiru Kimochi ",
+            "aired": "2002-11-23T00:00:00+00:00",
+            "score": 3.89,
+            "filler": true,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=446607"
+        },
+        {
+            "mal_id": 35,
+            "url": null,
+            "title": "Don't Cry, Lonely Little Zakuro",
+            "title_japanese": "泣かないで、ひとりぼっちの小さなざくろ",
+            "title_romanji": "Nakanaide, Hitoribocchi no Chiisana Zakuro ",
+            "aired": "2002-11-30T00:00:00+00:00",
+            "score": 4.82,
+            "filler": true,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=446611"
+        },
+        {
+            "mal_id": 36,
+            "url": null,
+            "title": "Shirogane's Past, the Secret of the Mew Mews' Birth!",
+            "title_japanese": "白金の過去、ミュウミュウ誕生の秘密！！",
+            "title_romanji": "Shirogane no Kako, Mew Mew Tanjou no Himitsu ",
+            "aired": "2002-12-07T00:00:00+00:00",
+            "score": 4.81,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=446669"
+        },
+        {
+            "mal_id": 37,
+            "url": null,
+            "title": "Tears of Brilliance, a Christmas for Two",
+            "title_japanese": "輝きの涙、二人きりのクリスマス",
+            "title_romanji": "Kagayaki no Namida, Futarikiri no Christmas! ",
+            "aired": "2002-12-14T00:00:00+00:00",
+            "score": 4.73,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=446675"
+        },
+        {
+            "mal_id": 38,
+            "url": null,
+            "title": "Miracle of the Holy Night, the Night of Vanished Secrets",
+            "title_japanese": "聖夜の奇跡、秘密の消えた夜",
+            "title_romanji": "Seiya no Kiseki, Himitsu no Kieta Yoru ",
+            "aired": "2002-12-21T00:00:00+00:00",
+            "score": 4.82,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=167135"
+        },
+        {
+            "mal_id": 39,
+            "url": null,
+            "title": "A Dream Trap! The Last Days of the Mew Mews",
+            "title_japanese": "夢の罠！ミュウミュウ最後の日",
+            "title_romanji": "Nusumareta Yume, Lavender no Amai Wana ",
+            "aired": "2002-12-28T00:00:00+00:00",
+            "score": 4.68,
+            "filler": true,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=446715"
+        },
+        {
+            "mal_id": 40,
+            "url": null,
+            "title": "You Two Are Friends? Purin in Imminent Danger!",
+            "title_japanese": "二人は友達？歩鈴、危機一髪！！",
+            "title_romanji": "Futari wa Tomodachi? Purin, Kiki Ippatsu!! ",
+            "aired": "2003-01-04T00:00:00+00:00",
+            "score": 4.58,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=167151"
+        },
+        {
+            "mal_id": 41,
+            "url": null,
+            "title": "The Winds that Brings Happiness, an Earnest Prayer",
+            "title_japanese": "幸せを運ぶ風、一途な祈り",
+            "title_romanji": "Shiawase wo Hakobu Kaze, Ichizu na Inori ",
+            "aired": "2003-01-11T00:00:00+00:00",
+            "score": 4.39,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1166355"
+        },
+        {
+            "mal_id": 42,
+            "url": null,
+            "title": "Zakuro's Dilemma, Only Four Mew Mews Now",
+            "title_japanese": "ざくろの迷い、四人になったミュウミュウ",
+            "title_romanji": "Zakuro no Mayoi, Yonin ni Natta Mew Mew ",
+            "aired": "2003-01-18T00:00:00+00:00",
+            "score": 4.31,
+            "filler": true,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=446925"
+        },
+        {
+            "mal_id": 43,
+            "url": null,
+            "title": "Friend or Foe? Fight, Big Sister!",
+            "title_japanese": "敵か味方か？戦ってお姉さま！！",
+            "title_romanji": "Teki ka Mikata ka? Tatakatte, Onee-sama!! ",
+            "aired": "2003-01-25T00:00:00+00:00",
+            "score": 4.38,
+            "filler": true,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=446929"
+        },
+        {
+            "mal_id": 44,
+            "url": null,
+            "title": "The City that Became a Forest! What Keeps Ichigo Smiling",
+            "title_japanese": "森になった街！いちごの笑顔を守るもの",
+            "title_romanji": "Mori ni Natta Machi! Ichigo no Egao wo Mamoru Mono ",
+            "aired": "2003-02-01T00:00:00+00:00",
+            "score": 4.5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=446933"
+        },
+        {
+            "mal_id": 45,
+            "url": null,
+            "title": "Mystery Solved! The Truth about the Blue Knight",
+            "title_japanese": "解けた謎！蒼の騎士の真実",
+            "title_romanji": "Toketa Nazo! Ao no Kishi no Shinjitsu ",
+            "aired": "2003-02-08T00:00:00+00:00",
+            "score": 4.61,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=446939"
+        },
+        {
+            "mal_id": 46,
+            "url": null,
+            "title": "A New Reinforcement! The Comrades Who Protect the Earth!",
+            "title_japanese": "新しい戦力！地球を守る仲間",
+            "title_romanji": "Atarashii Senryoku! Chikyuu wo Mamoru Nakama ",
+            "aired": "2003-02-15T00:00:00+00:00",
+            "score": 4.41,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=446947"
+        },
+        {
+            "mal_id": 47,
+            "url": null,
+            "title": "The Power of Love! I'll Protect You, Aoyama!",
+            "title_japanese": "愛のパワー！青山君は私が守る！！",
+            "title_romanji": "Ai no Power! Aoyama-kun wa Watashi ga Mamoru!! ",
+            "aired": "2003-02-22T00:00:00+00:00",
+            "score": 4.34,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=446953"
+        },
+        {
+            "mal_id": 48,
+            "url": null,
+            "title": "A Maze in Another Dimension! Quiche's Gamble!",
+            "title_japanese": "異次元の迷路！キッシュの賭け！！",
+            "title_romanji": "Ijigen no Meiro! Kisshu no Kake!! ",
+            "aired": "2003-03-01T00:00:00+00:00",
+            "score": 4.48,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=446957"
+        },
+        {
+            "mal_id": 49,
+            "url": null,
+            "title": "The Blue Awakening, Another Appearance!",
+            "title_japanese": "青の目覚め、もうひとつの姿！",
+            "title_romanji": "Ao no Mezame, Mou Hitotsu no Sugata! ",
+            "aired": "2003-03-08T00:00:00+00:00",
+            "score": 4.63,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=446963"
+        },
+        {
+            "mal_id": 50,
+            "url": null,
+            "title": "Ichigo's Trial! I Am a Mew Mew",
+            "title_japanese": "いちごの試練！あたしはミュウミュウ",
+            "title_romanji": "Ichigo no Shiren! Atashi wa Mew Mew ",
+            "aired": "2003-03-15T00:00:00+00:00",
+            "score": 4.63,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=85727"
+        },
+        {
+            "mal_id": 51,
+            "url": null,
+            "title": "The Final Battle! I Believe in Your Smile",
+            "title_japanese": "最後の戦い！あなたの笑顔を信じてる",
+            "title_romanji": "Saigo no Tatakai! Anata no Egao wo Shinjiteru ",
+            "aired": "2003-03-22T00:00:00+00:00",
+            "score": 4.53,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=73215"
+        },
+        {
+            "mal_id": 52,
+            "url": null,
+            "title": "We Serve the Future of the Earth!",
+            "title_japanese": "地球の未来に、ご奉仕するにゃん！",
+            "title_romanji": "Chikyuu no Mirai ni, Gohoushi Suru Nyan! ",
+            "aired": "2003-03-29T00:00:00+00:00",
+            "score": 4.49,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=322133"
+        }
+    ]
+}

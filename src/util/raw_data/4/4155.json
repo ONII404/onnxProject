@@ -1,0 +1,211 @@
+{
+    "id": 4155,
+    "fetched_at": "Sun Dec 14 21:30:33 2025",
+    "metadata": {
+        "mal_id": 4155,
+        "url": "https://myanimelist.net/anime/4155/One_Piece_Film__Strong_World",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1192/116784.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1192/116784t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1192/116784l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1192/116784.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1192/116784t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1192/116784l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": "https://www.youtube-nocookie.com/embed/3n58UPvcD7I?enablejsapi=1&wmode=opaque&autoplay=1",
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "One Piece Film: Strong World"
+            },
+            {
+                "type": "Synonym",
+                "title": "One Piece Movie 10"
+            },
+            {
+                "type": "Japanese",
+                "title": "ワンピース　フィルム　ストロングワールド"
+            },
+            {
+                "type": "English",
+                "title": "One Piece Film: Strong World"
+            },
+            {
+                "type": "German",
+                "title": "One Piece Film 10: Strong World"
+            },
+            {
+                "type": "Spanish",
+                "title": "One Piece Película 10: Strong World"
+            },
+            {
+                "type": "French",
+                "title": "One Piece Film 10: Strong World"
+            }
+        ],
+        "title": "One Piece Film: Strong World",
+        "title_english": "One Piece Film: Strong World",
+        "title_japanese": "ワンピース　フィルム　ストロングワールド",
+        "title_synonyms": [
+            "One Piece Movie 10"
+        ],
+        "type": "Movie",
+        "source": "Manga",
+        "episodes": 1,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "2009-12-12T00:00:00+00:00",
+            "to": null,
+            "prop": {
+                "from": {
+                    "day": 12,
+                    "month": 12,
+                    "year": 2009
+                },
+                "to": {
+                    "day": null,
+                    "month": null,
+                    "year": null
+                }
+            },
+            "string": "Dec 12, 2009"
+        },
+        "duration": "1 hr 55 min",
+        "rating": "PG-13 - Teens 13 or older",
+        "score": 8.04,
+        "scored_by": 170362,
+        "rank": 649,
+        "popularity": 993,
+        "members": 274752,
+        "favorites": 483,
+        "synopsis": "Upon hearing news that islands in East Blue are being destroyed, Monkey D. Luffy and his crew go to investigate. On their way, however, an outlandish pirate ship appears out of the sky, helmed by the infamous pirate Shiki \"the Golden Lion\"—a man who ate the Float-Float Fruit and the first ever prisoner to escape from Impel Down. In his quest to defeat the World Government, Shiki kidnaps Nami to be his own navigator and sends the rest of the Straw Hat Pirates to his floating islands as hostages, leaving her in a dilemma. Separated in a land under Shiki's absolute control, Luffy and his crew must survive the mystifying terrain in order to bring back their navigator and friend.\n\n[Written by MAL Rewrite]",
+        "background": "",
+        "season": null,
+        "year": null,
+        "broadcast": {
+            "day": null,
+            "time": null,
+            "timezone": null,
+            "string": null
+        },
+        "producers": [],
+        "licensors": [
+            {
+                "mal_id": 102,
+                "type": "anime",
+                "name": "Funimation",
+                "url": "https://myanimelist.net/anime/producer/102/Funimation"
+            }
+        ],
+        "studios": [
+            {
+                "mal_id": 18,
+                "type": "anime",
+                "name": "Toei Animation",
+                "url": "https://myanimelist.net/anime/producer/18/Toei_Animation"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 1,
+                "type": "anime",
+                "name": "Action",
+                "url": "https://myanimelist.net/anime/genre/1/Action"
+            },
+            {
+                "mal_id": 2,
+                "type": "anime",
+                "name": "Adventure",
+                "url": "https://myanimelist.net/anime/genre/2/Adventure"
+            },
+            {
+                "mal_id": 10,
+                "type": "anime",
+                "name": "Fantasy",
+                "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [],
+        "demographics": [
+            {
+                "mal_id": 27,
+                "type": "anime",
+                "name": "Shounen",
+                "url": "https://myanimelist.net/anime/genre/27/Shounen"
+            }
+        ],
+        "relations": [
+            {
+                "relation": "Prequel",
+                "entry": [
+                    {
+                        "mal_id": 8740,
+                        "type": "anime",
+                        "name": "One Piece Film: Strong World Episode 0",
+                        "url": "https://myanimelist.net/anime/8740/One_Piece_Film__Strong_World_Episode_0"
+                    }
+                ]
+            },
+            {
+                "relation": "Parent Story",
+                "entry": [
+                    {
+                        "mal_id": 21,
+                        "type": "anime",
+                        "name": "One Piece",
+                        "url": "https://myanimelist.net/anime/21/One_Piece"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [],
+            "endings": [
+                "\"fanfare\" by Mr.Children"
+            ]
+        },
+        "external": [
+            {
+                "name": "Official Site",
+                "url": "https://one-piece.com/movie/film/10"
+            },
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=6537"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=10855"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "http://en.wikipedia.org/wiki/One_Piece_Film:_Strong_World"
+            }
+        ],
+        "streaming": [
+            {
+                "name": "Crunchyroll",
+                "url": "http://www.crunchyroll.com/series-283088"
+            }
+        ]
+    },
+    "episodes": []
+}

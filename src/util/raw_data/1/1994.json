@@ -1,0 +1,173 @@
+{
+    "id": 1994,
+    "fetched_at": "Sun Dec 14 18:03:01 2025",
+    "metadata": {
+        "mal_id": 1994,
+        "url": "https://myanimelist.net/anime/1994/hack__Tasogare_no_Udewa_Densetsu__Offline_de_Aimashou",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/2/44554.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/2/44554t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/2/44554l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/2/44554.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/2/44554t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/2/44554l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": ".hack//Tasogare no Udewa Densetsu: Offline de Aimashou"
+            },
+            {
+                "type": "Synonym",
+                "title": ".hack//DUSK Special"
+            },
+            {
+                "type": "Synonym",
+                "title": ".hack//Tasogare no Udewa Densetsu Special"
+            },
+            {
+                "type": "Japanese",
+                "title": ".hack//黄昏の腕輪伝説 オフラインで会いましょう"
+            },
+            {
+                "type": "English",
+                "title": ".hack//Legend of the Twilight Offline Meeting Special"
+            }
+        ],
+        "title": ".hack//Tasogare no Udewa Densetsu: Offline de Aimashou",
+        "title_english": ".hack//Legend of the Twilight Offline Meeting Special",
+        "title_japanese": ".hack//黄昏の腕輪伝説 オフラインで会いましょう",
+        "title_synonyms": [
+            ".hack//DUSK Special",
+            ".hack//Tasogare no Udewa Densetsu Special"
+        ],
+        "type": "Special",
+        "source": "Manga",
+        "episodes": 1,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "2003-10-24T00:00:00+00:00",
+            "to": null,
+            "prop": {
+                "from": {
+                    "day": 24,
+                    "month": 10,
+                    "year": 2003
+                },
+                "to": {
+                    "day": null,
+                    "month": null,
+                    "year": null
+                }
+            },
+            "string": "Oct 24, 2003"
+        },
+        "duration": "20 min",
+        "rating": "PG - Children",
+        "score": 6.1,
+        "scored_by": 4823,
+        "rank": 9733,
+        "popularity": 6458,
+        "members": 12464,
+        "favorites": 5,
+        "synopsis": "It's a short story about the characters from .hack// Legend of the Twilight meeting offline. It's more to hear than to see. It shows only backgrounds from the real world with the heads of the charater-game-avatars; but it reveals some interesting real life informations about the characters.",
+        "background": "",
+        "season": null,
+        "year": null,
+        "broadcast": {
+            "day": null,
+            "time": null,
+            "timezone": null,
+            "string": null
+        },
+        "producers": [
+            {
+                "mal_id": 5,
+                "type": "anime",
+                "name": "Bee Train",
+                "url": "https://myanimelist.net/anime/producer/5/Bee_Train"
+            }
+        ],
+        "licensors": [],
+        "studios": [],
+        "genres": [
+            {
+                "mal_id": 2,
+                "type": "anime",
+                "name": "Adventure",
+                "url": "https://myanimelist.net/anime/genre/2/Adventure"
+            },
+            {
+                "mal_id": 4,
+                "type": "anime",
+                "name": "Comedy",
+                "url": "https://myanimelist.net/anime/genre/4/Comedy"
+            },
+            {
+                "mal_id": 10,
+                "type": "anime",
+                "name": "Fantasy",
+                "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+            },
+            {
+                "mal_id": 24,
+                "type": "anime",
+                "name": "Sci-Fi",
+                "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [
+            {
+                "mal_id": 79,
+                "type": "anime",
+                "name": "Video Game",
+                "url": "https://myanimelist.net/anime/genre/79/Video_Game"
+            }
+        ],
+        "demographics": [],
+        "relations": [
+            {
+                "relation": "Parent Story",
+                "entry": [
+                    {
+                        "mal_id": 298,
+                        "type": "anime",
+                        "name": ".hack//Tasogare no Udewa Densetsu",
+                        "url": "https://myanimelist.net/anime/298/hack__Tasogare_no_Udewa_Densetsu"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [],
+            "endings": []
+        },
+        "external": [
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=447"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": []
+}

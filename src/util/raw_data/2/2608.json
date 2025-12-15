@@ -1,0 +1,479 @@
+{
+    "id": 2608,
+    "fetched_at": "Sun Dec 14 18:44:52 2025",
+    "metadata": {
+        "mal_id": 2608,
+        "url": "https://myanimelist.net/anime/2608/Wangan_Midnight",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/6/86159.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/6/86159t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/6/86159l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/6/86159.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/6/86159t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/6/86159l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Wangan Midnight"
+            },
+            {
+                "type": "Japanese",
+                "title": "湾岸ミッドナイト"
+            }
+        ],
+        "title": "Wangan Midnight",
+        "title_english": null,
+        "title_japanese": "湾岸ミッドナイト",
+        "title_synonyms": [],
+        "type": "TV",
+        "source": "Manga",
+        "episodes": 26,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "2007-06-15T00:00:00+00:00",
+            "to": "2008-09-13T00:00:00+00:00",
+            "prop": {
+                "from": {
+                    "day": 15,
+                    "month": 6,
+                    "year": 2007
+                },
+                "to": {
+                    "day": 13,
+                    "month": 9,
+                    "year": 2008
+                }
+            },
+            "string": "Jun 15, 2007 to Sep 13, 2008"
+        },
+        "duration": "25 min per ep",
+        "rating": "PG-13 - Teens 13 or older",
+        "score": 7.49,
+        "scored_by": 19271,
+        "rank": 2075,
+        "popularity": 3505,
+        "members": 49687,
+        "favorites": 674,
+        "synopsis": "From dusk until dawn, street racers gather on a Tokyo highway—the Wangan Route—in search of only one thing: speed. Among them, a newcomer attracts the attention of the route's veterans after he purchases a Nissan Fairlady Z, a car infamously nicknamed The Devil Z. The newcomer ignores the warnings of Eriko Asakura, who lost her brother, Akio, in an accident involving the same vehicle. The Devil Z's new owner, who coincidentally shares the exact same name as Eriko's brother, becomes bewitched by the car's mysterious power—even after crashing twice.\n\nNow a high school dropout who works to pay for his car repairs, Akio befriends regular street racers of the area: the legendary owner of the Porsche 911 Turbo, a car known on the streets as \"Blackbird;\" the genius surgeon Tatsuya Shima; and Reina Akikawa, who works as a model by day and displays unparalleled skill in her Nissan Skyline GT-R by night. Thanks to these connections, Akio manages to find the retired designer of The Devil Z's engine, a solitary man named Jun Kitami. Following his meeting with Akio, Jun resumes building overpowered yet dangerous engines. Meanwhile, the racers of the Wangan Route are caught in a desperate race against The Devil Z with no clear end in sight.\n\n[Written by MAL Rewrite]",
+        "background": "",
+        "season": "summer",
+        "year": 2007,
+        "broadcast": {
+            "day": null,
+            "time": null,
+            "timezone": null,
+            "string": "Unknown"
+        },
+        "producers": [
+            {
+                "mal_id": 67,
+                "type": "anime",
+                "name": "OB Planning",
+                "url": "https://myanimelist.net/anime/producer/67/OB_Planning"
+            }
+        ],
+        "licensors": [],
+        "studios": [
+            {
+                "mal_id": 179,
+                "type": "anime",
+                "name": "A.C.G.T.",
+                "url": "https://myanimelist.net/anime/producer/179/ACGT"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 1,
+                "type": "anime",
+                "name": "Action",
+                "url": "https://myanimelist.net/anime/genre/1/Action"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [
+            {
+                "mal_id": 3,
+                "type": "anime",
+                "name": "Racing",
+                "url": "https://myanimelist.net/anime/genre/3/Racing"
+            }
+        ],
+        "demographics": [
+            {
+                "mal_id": 42,
+                "type": "anime",
+                "name": "Seinen",
+                "url": "https://myanimelist.net/anime/genre/42/Seinen"
+            }
+        ],
+        "relations": [
+            {
+                "relation": "Adaptation",
+                "entry": [
+                    {
+                        "mal_id": 10354,
+                        "type": "manga",
+                        "name": "Wangan Midnight",
+                        "url": "https://myanimelist.net/manga/10354/Wangan_Midnight"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [
+                "\"lights and any more\" by TRF"
+            ],
+            "endings": [
+                "\"Talking bout good days\" by Mother Ninja"
+            ]
+        },
+        "external": [
+            {
+                "name": "Official Site",
+                "url": "http://www.ppvj.co.jp/anime/0706wanganmidnight"
+            },
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=5088"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=7646"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": [
+        {
+            "mal_id": 1,
+            "url": null,
+            "title": "Devil Z",
+            "title_japanese": "悪魔のZ",
+            "title_romanji": "Akuma no Z ",
+            "aired": "2007-06-15T00:00:00+00:00",
+            "score": 3.97,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2028"
+        },
+        {
+            "mal_id": 2,
+            "url": null,
+            "title": "Black Bird",
+            "title_japanese": "ブラックバード",
+            "title_romanji": "Black Bird ",
+            "aired": "2007-06-15T00:00:00+00:00",
+            "score": 4.06,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2349"
+        },
+        {
+            "mal_id": 3,
+            "url": null,
+            "title": "The Girl in the GT-R",
+            "title_japanese": "GT-Rの少女",
+            "title_romanji": "GT-R no Shoujo ",
+            "aired": "2007-07-07T00:00:00+00:00",
+            "score": 4.16,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=7736"
+        },
+        {
+            "mal_id": 4,
+            "url": null,
+            "title": "The No. 3 Man",
+            "title_japanese": "第3の男",
+            "title_romanji": "Dai 3 no Otoko ",
+            "aired": "2007-07-07T00:00:00+00:00",
+            "score": 4.22,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=7737"
+        },
+        {
+            "mal_id": 5,
+            "url": null,
+            "title": "Tuner From Hell",
+            "title_japanese": "地獄のチューナー",
+            "title_romanji": "Jigoku no Tuner ",
+            "aired": "2007-08-17T00:00:00+00:00",
+            "score": 4.26,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=10378"
+        },
+        {
+            "mal_id": 6,
+            "url": null,
+            "title": "New Machine",
+            "title_japanese": "ニューマシン",
+            "title_romanji": "New Machine ",
+            "aired": "2007-08-17T00:00:00+00:00",
+            "score": 4.2,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=10379"
+        },
+        {
+            "mal_id": 7,
+            "url": null,
+            "title": "The Charmed Ones",
+            "title_japanese": "魅せられた者たち",
+            "title_romanji": "Miserareta Mono-tachi ",
+            "aired": "2007-10-19T00:00:00+00:00",
+            "score": 3.43,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=21746"
+        },
+        {
+            "mal_id": 8,
+            "url": null,
+            "title": "Wangan's Ghost",
+            "title_japanese": "湾岸のゴースト",
+            "title_romanji": "Wangan no Ghost ",
+            "aired": "2007-10-19T00:00:00+00:00",
+            "score": 4.17,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=22397"
+        },
+        {
+            "mal_id": 9,
+            "url": null,
+            "title": "Reviving the Demon",
+            "title_japanese": "甦る悪魔",
+            "title_romanji": "Yomigaeru Akuma ",
+            "aired": "2007-11-16T00:00:00+00:00",
+            "score": 4.15,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=23252"
+        },
+        {
+            "mal_id": 10,
+            "url": null,
+            "title": "Dogfight",
+            "title_japanese": "ドッグファイト",
+            "title_romanji": "Dogfight ",
+            "aired": "2007-11-16T00:00:00+00:00",
+            "score": 4.59,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=25043"
+        },
+        {
+            "mal_id": 11,
+            "url": null,
+            "title": "Illusive Top Speed Runner",
+            "title_japanese": "幻の最高速ランナー",
+            "title_romanji": "Maboroshi no Saikou Soku Runner ",
+            "aired": "2007-12-12T00:00:00+00:00",
+            "score": 4.52,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=26899"
+        },
+        {
+            "mal_id": 12,
+            "url": null,
+            "title": "Professional",
+            "title_japanese": "プロフェッショナル",
+            "title_romanji": "Professional ",
+            "aired": "2007-12-12T00:00:00+00:00",
+            "score": 4.24,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=33000"
+        },
+        {
+            "mal_id": 13,
+            "url": null,
+            "title": "Monster Machine",
+            "title_japanese": "モンスターマシン",
+            "title_romanji": "Monster Machine ",
+            "aired": "2008-02-14T00:00:00+00:00",
+            "score": 4.37,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=33001"
+        },
+        {
+            "mal_id": 14,
+            "url": null,
+            "title": "Stall",
+            "title_japanese": "失速",
+            "title_romanji": "Shissoku ",
+            "aired": "2008-02-14T00:00:00+00:00",
+            "score": 4.39,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=564397"
+        },
+        {
+            "mal_id": 15,
+            "url": null,
+            "title": "R-200 Club",
+            "title_japanese": "R-200CLUB",
+            "title_romanji": "R-200 Club ",
+            "aired": "2008-03-20T00:00:00+00:00",
+            "score": 4.24,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=566285"
+        },
+        {
+            "mal_id": 16,
+            "url": null,
+            "title": "Shot Down",
+            "title_japanese": "撃墜",
+            "title_romanji": "Gekitsui ",
+            "aired": "2008-03-20T00:00:00+00:00",
+            "score": 4.15,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=566311"
+        },
+        {
+            "mal_id": 17,
+            "url": null,
+            "title": "Reunion",
+            "title_japanese": "再会",
+            "title_romanji": "Saikai ",
+            "aired": "2008-04-18T00:00:00+00:00",
+            "score": 4.28,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=699295"
+        },
+        {
+            "mal_id": 18,
+            "url": null,
+            "title": "Now, This Place..",
+            "title_japanese": "今, この場所に...",
+            "title_romanji": "Ima, Kono Basho ni... ",
+            "aired": "2008-04-18T00:00:00+00:00",
+            "score": 4.29,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=699303"
+        },
+        {
+            "mal_id": 19,
+            "url": null,
+            "title": "Stand By Me",
+            "title_japanese": "スタンド·バイ·ミー",
+            "title_romanji": "Stand By Me ",
+            "aired": "2008-06-20T00:00:00+00:00",
+            "score": 4.5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=49470"
+        },
+        {
+            "mal_id": 20,
+            "url": null,
+            "title": "Osaka Midnight",
+            "title_japanese": "大阪ミッドナイト",
+            "title_romanji": "Osaka Midnight ",
+            "aired": "2008-06-20T00:00:00+00:00",
+            "score": 4.27,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=699329"
+        },
+        {
+            "mal_id": 21,
+            "url": null,
+            "title": "In the Passion of the Night",
+            "title_japanese": "夜の熱気の中で",
+            "title_romanji": "Yoru no Nekki no Naka de ",
+            "aired": "2008-07-18T00:00:00+00:00",
+            "score": 4.21,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=699349"
+        },
+        {
+            "mal_id": 22,
+            "url": null,
+            "title": "Shutoku Midnight",
+            "title_japanese": "首都高速午前零時",
+            "title_romanji": "Shuto Kousoku Gozenreiji ",
+            "aired": "2008-07-18T00:00:00+00:00",
+            "score": 4.2,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=699355"
+        },
+        {
+            "mal_id": 23,
+            "url": null,
+            "title": "Dead End",
+            "title_japanese": "デッド·エンド",
+            "title_romanji": "Dead End ",
+            "aired": "2008-08-15T00:00:00+00:00",
+            "score": 4.33,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=49641"
+        },
+        {
+            "mal_id": 24,
+            "url": null,
+            "title": "Passion of the Distant Day",
+            "title_japanese": "遠い日のパッション",
+            "title_romanji": "Tooi Hi no Passhon ",
+            "aired": "2008-08-15T00:00:00+00:00",
+            "score": 4.56,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=699379"
+        },
+        {
+            "mal_id": 25,
+            "url": null,
+            "title": "I Don't Think I Can Stop",
+            "title_japanese": "とめられない思い",
+            "title_romanji": "Tomerarenai Omoi ",
+            "aired": "2008-09-13T00:00:00+00:00",
+            "score": 4.33,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=699393"
+        },
+        {
+            "mal_id": 26,
+            "url": null,
+            "title": "The Chosen One",
+            "title_japanese": "選ばれし者",
+            "title_romanji": "Erabareshi Mono ",
+            "aired": "2008-09-13T00:00:00+00:00",
+            "score": 4.19,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=699405"
+        }
+    ]
+}

@@ -1,0 +1,201 @@
+{
+    "id": 609,
+    "fetched_at": "Sun Dec 14 13:53:41 2025",
+    "metadata": {
+        "mal_id": 609,
+        "url": "https://myanimelist.net/anime/609/Saishuu_Heiki_Kanojo__Another_Love_Song",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/12/54433.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/12/54433t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/12/54433l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/12/54433.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/12/54433t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/12/54433l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Saishuu Heiki Kanojo: Another Love Song"
+            },
+            {
+                "type": "Synonym",
+                "title": "Saishuuheiki Kanojo OVA"
+            },
+            {
+                "type": "Synonym",
+                "title": "Saikano OVA"
+            },
+            {
+                "type": "Japanese",
+                "title": "最終兵器彼女Another Love Song"
+            },
+            {
+                "type": "English",
+                "title": "Saikano: Another Love Song"
+            }
+        ],
+        "title": "Saishuu Heiki Kanojo: Another Love Song",
+        "title_english": "Saikano: Another Love Song",
+        "title_japanese": "最終兵器彼女Another Love Song",
+        "title_synonyms": [
+            "Saishuuheiki Kanojo OVA",
+            "Saikano OVA"
+        ],
+        "type": "OVA",
+        "source": "Manga",
+        "episodes": 2,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "2005-08-05T00:00:00+00:00",
+            "to": "2005-09-09T00:00:00+00:00",
+            "prop": {
+                "from": {
+                    "day": 5,
+                    "month": 8,
+                    "year": 2005
+                },
+                "to": {
+                    "day": 9,
+                    "month": 9,
+                    "year": 2005
+                }
+            },
+            "string": "Aug 5, 2005 to Sep 9, 2005"
+        },
+        "duration": "29 min per ep",
+        "rating": "R+ - Mild Nudity",
+        "score": 7.04,
+        "scored_by": 8635,
+        "rank": 4328,
+        "popularity": 5429,
+        "members": 19442,
+        "favorites": 20,
+        "synopsis": "Before Chise became the \"ultimate weapon,\" there was another—Lieutenant Mizuki. A battle-hardened military woman, she volunteered for an experimental procedure after injuries left her unable to return to the battlefield. As the prototype ultimate weapon, Lieutenant Mizuki was highly successful on the battlefield, however, as the first candidate, her development was limited.\n\nWhen a more suitable candidate to become the weapon, Chise, is forced into the military, Lieutenant Mizuki thinks that she is silly, weak, and unsuited for the role. As the only other person to have undergone the procedure, however, Lieutenant Mizuki can hear Chise's thoughts and is the only one who understands her. As the war rages on and Chise's development progresses, Lieutenant Mizuki discovers more about Chise, ultimate weapons, and herself.\n\n[Written by MAL Rewrite]",
+        "background": "",
+        "season": null,
+        "year": null,
+        "broadcast": {
+            "day": null,
+            "time": null,
+            "timezone": null,
+            "string": null
+        },
+        "producers": [
+            {
+                "mal_id": 146,
+                "type": "anime",
+                "name": "CBC Television",
+                "url": "https://myanimelist.net/anime/producer/146/CBC_Television"
+            },
+            {
+                "mal_id": 577,
+                "type": "anime",
+                "name": "Tohokushinsha Film Corporation",
+                "url": "https://myanimelist.net/anime/producer/577/Tohokushinsha_Film_Corporation"
+            }
+        ],
+        "licensors": [
+            {
+                "mal_id": 119,
+                "type": "anime",
+                "name": "VIZ Media",
+                "url": "https://myanimelist.net/anime/producer/119/VIZ_Media"
+            }
+        ],
+        "studios": [
+            {
+                "mal_id": 24,
+                "type": "anime",
+                "name": "Studio Fantasia",
+                "url": "https://myanimelist.net/anime/producer/24/Studio_Fantasia"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 8,
+                "type": "anime",
+                "name": "Drama",
+                "url": "https://myanimelist.net/anime/genre/8/Drama"
+            },
+            {
+                "mal_id": 22,
+                "type": "anime",
+                "name": "Romance",
+                "url": "https://myanimelist.net/anime/genre/22/Romance"
+            },
+            {
+                "mal_id": 24,
+                "type": "anime",
+                "name": "Sci-Fi",
+                "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [],
+        "demographics": [
+            {
+                "mal_id": 42,
+                "type": "anime",
+                "name": "Seinen",
+                "url": "https://myanimelist.net/anime/genre/42/Seinen"
+            }
+        ],
+        "relations": [
+            {
+                "relation": "Parent Story",
+                "entry": [
+                    {
+                        "mal_id": 529,
+                        "type": "anime",
+                        "name": "Saishuu Heiki Kanojo",
+                        "url": "https://myanimelist.net/anime/529/Saishuu_Heiki_Kanojo"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [],
+            "endings": [
+                "\"Mayonaka no Niji\" by Akira Asakura"
+            ]
+        },
+        "external": [
+            {
+                "name": "Official Site",
+                "url": "http://saikano.co.uk/"
+            },
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=2700"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=4775"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "http://en.wikipedia.org/wiki/Saikano"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": []
+}

@@ -1,0 +1,183 @@
+{
+    "id": 2305,
+    "fetched_at": "Sun Dec 14 18:24:47 2025",
+    "metadata": {
+        "mal_id": 2305,
+        "url": "https://myanimelist.net/anime/2305/Kidou_Senshi_SD_Gundam_Mk-III",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1990/138648.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1990/138648t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1990/138648l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1990/138648.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1990/138648t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1990/138648l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Kidou Senshi SD Gundam Mk-III"
+            },
+            {
+                "type": "Synonym",
+                "title": "Kidou Senshi SD Gundam SD Sengokuden"
+            },
+            {
+                "type": "Japanese",
+                "title": "機動戦士SDガンダム Mk-III"
+            },
+            {
+                "type": "English",
+                "title": "Mobile Suit SD Gundam Mk-III"
+            }
+        ],
+        "title": "Kidou Senshi SD Gundam Mk-III",
+        "title_english": "Mobile Suit SD Gundam Mk-III",
+        "title_japanese": "機動戦士SDガンダム Mk-III",
+        "title_synonyms": [
+            "Kidou Senshi SD Gundam SD Sengokuden"
+        ],
+        "type": "OVA",
+        "source": "Original",
+        "episodes": 6,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "1990-03-23T00:00:00+00:00",
+            "to": null,
+            "prop": {
+                "from": {
+                    "day": 23,
+                    "month": 3,
+                    "year": 1990
+                },
+                "to": {
+                    "day": null,
+                    "month": null,
+                    "year": null
+                }
+            },
+            "string": "Mar 23, 1990"
+        },
+        "duration": "7 min per ep",
+        "rating": "PG-13 - Teens 13 or older",
+        "score": 5.75,
+        "scored_by": 1645,
+        "rank": 11626,
+        "popularity": 9843,
+        "members": 4266,
+        "favorites": 1,
+        "synopsis": "The SD Gundams in Warring States Era Japan.\n\n(Source: ANN)",
+        "background": "",
+        "season": null,
+        "year": null,
+        "broadcast": {
+            "day": null,
+            "time": null,
+            "timezone": null,
+            "string": null
+        },
+        "producers": [],
+        "licensors": [],
+        "studios": [
+            {
+                "mal_id": 14,
+                "type": "anime",
+                "name": "Sunrise",
+                "url": "https://myanimelist.net/anime/producer/14/Sunrise"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 4,
+                "type": "anime",
+                "name": "Comedy",
+                "url": "https://myanimelist.net/anime/genre/4/Comedy"
+            },
+            {
+                "mal_id": 24,
+                "type": "anime",
+                "name": "Sci-Fi",
+                "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [
+            {
+                "mal_id": 18,
+                "type": "anime",
+                "name": "Mecha",
+                "url": "https://myanimelist.net/anime/genre/18/Mecha"
+            },
+            {
+                "mal_id": 20,
+                "type": "anime",
+                "name": "Parody",
+                "url": "https://myanimelist.net/anime/genre/20/Parody"
+            }
+        ],
+        "demographics": [],
+        "relations": [
+            {
+                "relation": "Prequel",
+                "entry": [
+                    {
+                        "mal_id": 2303,
+                        "type": "anime",
+                        "name": "Kidou Senshi SD Gundam Mk-II",
+                        "url": "https://myanimelist.net/anime/2303/Kidou_Senshi_SD_Gundam_Mk-II"
+                    }
+                ]
+            },
+            {
+                "relation": "Sequel",
+                "entry": [
+                    {
+                        "mal_id": 2304,
+                        "type": "anime",
+                        "name": "Kidou Senshi SD Gundam Mk-IV",
+                        "url": "https://myanimelist.net/anime/2304/Kidou_Senshi_SD_Gundam_Mk-IV"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [],
+            "endings": [
+                "\"Tokyo Boogie Night\" by Megumi Hayashibara & Chieko Honda (eps 1)"
+            ]
+        },
+        "external": [
+            {
+                "name": "Official Site",
+                "url": "http://www.sunrise-inc.co.jp/sd-gundam/"
+            },
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=3060"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=3178"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": []
+}

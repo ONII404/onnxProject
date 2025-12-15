@@ -1,0 +1,492 @@
+{
+    "id": 1123,
+    "fetched_at": "Sun Dec 14 14:57:07 2025",
+    "metadata": {
+        "mal_id": 1123,
+        "url": "https://myanimelist.net/anime/1123/Bouken_Ou_Beet_Excellion",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/4/21570.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/4/21570t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/4/21570l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/4/21570.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/4/21570t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/4/21570l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Bouken Ou Beet Excellion"
+            },
+            {
+                "type": "Synonym",
+                "title": "Adventure King Beet Excellion"
+            },
+            {
+                "type": "Japanese",
+                "title": "冒険王ビィト エクセリオン"
+            },
+            {
+                "type": "English",
+                "title": "Beet the Vandel Buster Excellion"
+            }
+        ],
+        "title": "Bouken Ou Beet Excellion",
+        "title_english": "Beet the Vandel Buster Excellion",
+        "title_japanese": "冒険王ビィト エクセリオン",
+        "title_synonyms": [
+            "Adventure King Beet Excellion"
+        ],
+        "type": "TV",
+        "source": "Manga",
+        "episodes": 25,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "2005-10-06T00:00:00+00:00",
+            "to": "2006-03-30T00:00:00+00:00",
+            "prop": {
+                "from": {
+                    "day": 6,
+                    "month": 10,
+                    "year": 2005
+                },
+                "to": {
+                    "day": 30,
+                    "month": 3,
+                    "year": 2006
+                }
+            },
+            "string": "Oct 6, 2005 to Mar 30, 2006"
+        },
+        "duration": "24 min per ep",
+        "rating": "PG - Children",
+        "score": 6.68,
+        "scored_by": 3955,
+        "rank": 6227,
+        "popularity": 7493,
+        "members": 8702,
+        "favorites": 7,
+        "synopsis": "It is the dark century and the people are suffering under the rule of the devil, Vandel, who is able to manipulate monsters. The Vandel Busters are a group of people who hunt these devils, and among them, the Zenon Squad is known to be the strongest busters on the continent. A young boy, Beet, dreams of joining the Zenon Squad. However, one day, as a result of Beet's fault, the Zenon squad was defeated by the devil, Beltose. The five dying busters sacrificed their life power into their five weapons, Saiga. After giving their weapons to Beet, they passed away. Years have passed since then and the young Vandel Buster, Beet, begins his adventure to carry out the Zenon Squad's will to put an end to the dark century.",
+        "background": "",
+        "season": "fall",
+        "year": 2005,
+        "broadcast": {
+            "day": "Thursdays",
+            "time": "18:30",
+            "timezone": "Asia/Tokyo",
+            "string": "Thursdays at 18:30 (JST)"
+        },
+        "producers": [
+            {
+                "mal_id": 16,
+                "type": "anime",
+                "name": "TV Tokyo",
+                "url": "https://myanimelist.net/anime/producer/16/TV_Tokyo"
+            },
+            {
+                "mal_id": 53,
+                "type": "anime",
+                "name": "Dentsu",
+                "url": "https://myanimelist.net/anime/producer/53/Dentsu"
+            }
+        ],
+        "licensors": [],
+        "studios": [
+            {
+                "mal_id": 18,
+                "type": "anime",
+                "name": "Toei Animation",
+                "url": "https://myanimelist.net/anime/producer/18/Toei_Animation"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 1,
+                "type": "anime",
+                "name": "Action",
+                "url": "https://myanimelist.net/anime/genre/1/Action"
+            },
+            {
+                "mal_id": 2,
+                "type": "anime",
+                "name": "Adventure",
+                "url": "https://myanimelist.net/anime/genre/2/Adventure"
+            },
+            {
+                "mal_id": 10,
+                "type": "anime",
+                "name": "Fantasy",
+                "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [],
+        "demographics": [
+            {
+                "mal_id": 27,
+                "type": "anime",
+                "name": "Shounen",
+                "url": "https://myanimelist.net/anime/genre/27/Shounen"
+            }
+        ],
+        "relations": [
+            {
+                "relation": "Prequel",
+                "entry": [
+                    {
+                        "mal_id": 8,
+                        "type": "anime",
+                        "name": "Bouken Ou Beet",
+                        "url": "https://myanimelist.net/anime/8/Bouken_Ou_Beet"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [
+                "1: \"「空を見て想う」 Sora wo Mite Omou\" by OUTLAW"
+            ],
+            "endings": [
+                "\"Kaze no Runner\" by Sunset Swish"
+            ]
+        },
+        "external": [
+            {
+                "name": "Official Site",
+                "url": "http://www.toei-anim.co.jp/tv/beet_ex/"
+            },
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=3703"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=6209"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "http://en.wikipedia.org/wiki/Beet_the_Vandel_Buster"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": [
+        {
+            "mal_id": 1,
+            "url": null,
+            "title": "New World! The Start Of A New Adventure!",
+            "title_japanese": "新大陸! 新たな冒険の始まり!",
+            "title_romanji": "Shin Tairiku! Arata na Bouken no Hajimari! ",
+            "aired": "2005-10-06T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1715005"
+        },
+        {
+            "mal_id": 2,
+            "url": null,
+            "title": "I Don't Want to Be Buster",
+            "title_japanese": "バスターなんかになりたくない!",
+            "title_romanji": "Buster Nanka ni Naritakunai! ",
+            "aired": "2005-11-13T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1935366"
+        },
+        {
+            "mal_id": 3,
+            "url": null,
+            "title": "Gryfus Appears! Bringing Back the Runaway Leon!",
+            "title_japanese": "グリファス登場! 家出したリオンを連れもどせ!",
+            "title_romanji": "Gryfus Toujou! Iede Shita Leon wo Tsuremodose! ",
+            "aired": "2005-10-20T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1935694"
+        },
+        {
+            "mal_id": 4,
+            "url": null,
+            "title": "Beet's Warriors Opening An Inn in Shandigo!?",
+            "title_japanese": "ビィト戦士団 シャンティーゴに宿屋を開く!?",
+            "title_romanji": "Beet Senshi Dan Shantigo ni Yadoya wo Hiraku!? ",
+            "aired": "2005-10-27T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 5,
+            "url": null,
+            "title": "Atoron Attacks! Explosion Of The Soul Of Arts",
+            "title_japanese": "アートロン襲撃! 爆発する芸術の魂[こころ]!",
+            "title_romanji": "Atoron Shuugeki! Bakuhatsu Suru Geijutsu no Kokoro! ",
+            "aired": "2005-11-03T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 6,
+            "url": null,
+            "title": "The Evil Of The Breeze! Beet Listens to The Night Wind`s Voice",
+            "title_japanese": "涼風のイーブル! ビィトよ風の声を聴け!",
+            "title_romanji": "Suzukaze no Evil! Beet yo Kaze no Koe wo Kike! ",
+            "aired": "2005-11-10T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1936051"
+        },
+        {
+            "mal_id": 7,
+            "url": null,
+            "title": "Moonlit Night Meeting! His Name Is Vaus",
+            "title_japanese": "月夜の再会! 奴の名はバウス!",
+            "title_romanji": "Tsukiyo no Saikai! Yatsu no Na wa Vaus! ",
+            "aired": "2005-11-17T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 8,
+            "url": null,
+            "title": "Greedy Ruler Haden! Shantigo Attacks!",
+            "title_japanese": "強欲君主ハーデン! シャンティーゴ強襲!",
+            "title_romanji": "Gouyoku Kunshu Haden! Shantigo Kyoushuu! ",
+            "aired": "2005-11-24T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 9,
+            "url": null,
+            "title": "Tonga of Sparks! The Roar of the Thunder Strike!",
+            "title_japanese": "瞬雷のトンガ! 吼えろ迅雷撃破!",
+            "title_romanji": "Madoka Kaminari no Tonga! Hoero Jinrai Gekiha! ",
+            "aired": "2005-12-01T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1936547"
+        },
+        {
+            "mal_id": 10,
+            "url": null,
+            "title": "Hang Infiltrates! The Battle on Tengeki Festival!",
+            "title_japanese": "ハング潜入! 天撃祭りの戦い!",
+            "title_romanji": "Hangu Sennyuu! Tengeki Matsuri no Tatakai! ",
+            "aired": "2005-12-08T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1936597"
+        },
+        {
+            "mal_id": 11,
+            "url": null,
+            "title": "The Weakest Vandel on the Planet! His Name is Nyanjamar!",
+            "title_japanese": "史上最弱魔人! その名はニャンジャマー!",
+            "title_romanji": "Shijousaijaku Majin! Sono Na wa Nyanjamar! ",
+            "aired": "2005-12-15T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1937004"
+        },
+        {
+            "mal_id": 12,
+            "url": null,
+            "title": "Raymond of the Streams! Young Ones, This is Training!",
+            "title_japanese": "流氷のレイモンド! 若人よこれが修行だ!",
+            "title_romanji": "Ryuuhyou no Raymond! Wakoudo yo Korega Shugyou da! ",
+            "aired": "2005-12-22T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 13,
+            "url": null,
+            "title": "Jera out for Revenge! Beet is Consumed by Flame!",
+            "title_japanese": "復讐のジェラ! ビィト炎に死す!",
+            "title_romanji": "Fukushuu no Jera! Beet Honoo ni Shisu! ",
+            "aired": "2006-01-05T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1937203"
+        },
+        {
+            "mal_id": 14,
+            "url": null,
+            "title": "Revealed! The Secret of the Dark Dungeon!",
+            "title_japanese": "明かされる魔牢獄の秘密!",
+            "title_romanji": "Akasareru Marougoku no Himitsu! ",
+            "aired": "2006-01-12T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 15,
+            "url": null,
+            "title": "The Great Search! Beet Resurrected!",
+            "title_japanese": "大捜索! 復活のビィト!",
+            "title_romanji": "Daisousaku! Fukkatsu no Beet! ",
+            "aired": "2006-01-19T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 16,
+            "url": null,
+            "title": "The Awakened Tenryoku! The Power that lies within Leon!",
+            "title_japanese": "目覚めた天力! リオンに力宿る時!",
+            "title_romanji": "Mezameta Tenryoku! Leon ni Chikara Yadoru Toki! ",
+            "aired": "2005-01-26T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 17,
+            "url": null,
+            "title": "Vaus' Sweeping Attack! The Battle for Shantigo!",
+            "title_japanese": "バウス総攻撃! シャンティーゴの戦い!",
+            "title_romanji": "Vaus Soukougeki! Shantigo no Tatakai! ",
+            "aired": "2006-02-02T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 18,
+            "url": null,
+            "title": "Vaus versus Padro! To Protect Leon!",
+            "title_japanese": "バウスVSパドロ! リオンを守れ!",
+            "title_romanji": "Vaus vs Padro! Leon wo Mamore! ",
+            "aired": "2006-02-09T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1937927"
+        },
+        {
+            "mal_id": 19,
+            "url": null,
+            "title": "Windfang Flash! The Soul of a Wind Mage!",
+            "title_japanese": "風牙一閃! 風使いの魂!",
+            "title_romanji": "Kazekiba Issen! Fuuzukai no Tamashii! ",
+            "aired": "2006-02-16T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 20,
+            "url": null,
+            "title": "The Beet Wariors! Break Into The Dark Dungeon!",
+            "title_japanese": "ビィト戦士団! 魔牢獄突入!",
+            "title_romanji": "Beet Senshi Dan! Marougoku Totsunyuu! ",
+            "aired": "2006-02-23T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 21,
+            "url": null,
+            "title": "Maidens of Flame and Thunder! Defeat Hang!",
+            "title_japanese": "炎と雷の乙女達! ハングを撃破せよ!",
+            "title_romanji": "Honoo to Kaminari no Otome-tachi! Hang wo Gekiha Seyo! ",
+            "aired": "2006-03-02T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1938494"
+        },
+        {
+            "mal_id": 22,
+            "url": null,
+            "title": "The Dark Dungeon Flies!",
+            "title_japanese": "魔牢獄, 飛ぶ!",
+            "title_romanji": "Marougoku, Tobu! ",
+            "aired": "2006-03-09T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 23,
+            "url": null,
+            "title": "Warden of the Dark Dungeon! The True Vaus!",
+            "title_japanese": "魔牢獄獄長! バウスの正体!!",
+            "title_romanji": "Marougoku Gokuchou! Vaus no Shoutai!! ",
+            "aired": "2006-03-16T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 24,
+            "url": null,
+            "title": "The Final Battle! Flashing Excellion Blade!!",
+            "title_japanese": "最終決戦! 閃光のエクセリオンブレード!!",
+            "title_romanji": "Saishuu Kessen! Senkou no Excellion Blade!! ",
+            "aired": "2006-03-23T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 25,
+            "url": null,
+            "title": "Farewell Shantigo!",
+            "title_japanese": "さらばシャンティーゴ!",
+            "title_romanji": "Saraba Shantigo! ",
+            "aired": "2006-03-30T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        }
+    ]
+}

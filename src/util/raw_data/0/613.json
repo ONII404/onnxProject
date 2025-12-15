@@ -1,0 +1,788 @@
+{
+    "id": 613,
+    "fetched_at": "Sun Dec 14 13:54:05 2025",
+    "metadata": {
+        "mal_id": 613,
+        "url": "https://myanimelist.net/anime/613/Onmyou_Taisenki",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1971/100952.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1971/100952t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1971/100952l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1971/100952.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1971/100952t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1971/100952l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": "https://www.youtube-nocookie.com/embed/3AyXfys-EFU?enablejsapi=1&wmode=opaque&autoplay=1",
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Onmyou Taisenki"
+            },
+            {
+                "type": "Synonym",
+                "title": "Onmyou Tai Senki"
+            },
+            {
+                "type": "Japanese",
+                "title": "陰陽大戦記"
+            },
+            {
+                "type": "English",
+                "title": "The Chronicle of the Big Battle between Yin and Yang"
+            }
+        ],
+        "title": "Onmyou Taisenki",
+        "title_english": "The Chronicle of the Big Battle between Yin and Yang",
+        "title_japanese": "陰陽大戦記",
+        "title_synonyms": [
+            "Onmyou Tai Senki"
+        ],
+        "type": "TV",
+        "source": "Manga",
+        "episodes": 52,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "2004-11-30T00:00:00+00:00",
+            "to": "2005-09-29T00:00:00+00:00",
+            "prop": {
+                "from": {
+                    "day": 30,
+                    "month": 11,
+                    "year": 2004
+                },
+                "to": {
+                    "day": 29,
+                    "month": 9,
+                    "year": 2005
+                }
+            },
+            "string": "Nov 30, 2004 to Sep 29, 2005"
+        },
+        "duration": "23 min per ep",
+        "rating": "PG-13 - Teens 13 or older",
+        "score": 7.12,
+        "scored_by": 2082,
+        "rank": 3938,
+        "popularity": 8286,
+        "members": 6738,
+        "favorites": 33,
+        "synopsis": "Riku Tachibana is an average 1st year junior high school student who was supposed to be living a peaceful, ordinary life, but just after entering junior high he ends up fighting a duel against a mysterious man calling himself “a Warrior of Earth,” and Riku’s life is changed forever! Riku discovers that he is a survivor of the believed extinct “Warriors of Heaven,” Using a device called “DRIVE” and summoning a Shikigami, or “Divine Beast,” called Kogenta to his side, Riku devotes his life to the battle against the Warriors of Earth!\n\n(Source: Sunrise)",
+        "background": "",
+        "season": "fall",
+        "year": 2004,
+        "broadcast": {
+            "day": "Thursdays",
+            "time": "18:00",
+            "timezone": "Asia/Tokyo",
+            "string": "Thursdays at 18:00 (JST)"
+        },
+        "producers": [],
+        "licensors": [],
+        "studios": [
+            {
+                "mal_id": 14,
+                "type": "anime",
+                "name": "Sunrise",
+                "url": "https://myanimelist.net/anime/producer/14/Sunrise"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 2,
+                "type": "anime",
+                "name": "Adventure",
+                "url": "https://myanimelist.net/anime/genre/2/Adventure"
+            },
+            {
+                "mal_id": 10,
+                "type": "anime",
+                "name": "Fantasy",
+                "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [],
+        "demographics": [
+            {
+                "mal_id": 27,
+                "type": "anime",
+                "name": "Shounen",
+                "url": "https://myanimelist.net/anime/genre/27/Shounen"
+            }
+        ],
+        "relations": [
+            {
+                "relation": "Adaptation",
+                "entry": [
+                    {
+                        "mal_id": 1212,
+                        "type": "manga",
+                        "name": "Onmyou Taisenki",
+                        "url": "https://myanimelist.net/manga/1212/Onmyou_Taisenki"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [
+                "1: \"Kimi to Nara (君となら)\" by Suther Rand (eps 1-26)",
+                "2: \"Pulse\" by FAKE? (eps 27-52)"
+            ],
+            "endings": [
+                "1: \"Sora Kake Agaru (空カケアガル)\" by Raiko (eps 1-13)",
+                "2: \"Shiroi Fuyu (白い冬)\" by Raiko (eps 14-26)",
+                "3: \"Kimi ni Todoku made... (君に届くまで...)\" by Junko Yanagisawa (eps 27-52)"
+            ]
+        },
+        "external": [
+            {
+                "name": "Official Site",
+                "url": "http://www.onmyoutaisenki.net/"
+            },
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=2512"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=4498"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "http://en.wikipedia.org/wiki/Onmy%C5%8D_Taisenki"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": [
+        {
+            "mal_id": 1,
+            "url": null,
+            "title": "The Fallen God! The Byakko Kogenta",
+            "title_japanese": "降神！ 白虎のコゲンタ",
+            "title_romanji": "Koujin! Byakko no Kogenta ",
+            "aired": "2004-09-30T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1091035"
+        },
+        {
+            "mal_id": 2,
+            "url": null,
+            "title": "Attack of the Earth Style",
+            "title_japanese": "地流強襲",
+            "title_romanji": "Chiryuu Kyoushuu ",
+            "aired": "2004-10-07T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1091093"
+        },
+        {
+            "mal_id": 3,
+            "url": null,
+            "title": "Clash of the Byakko",
+            "title_japanese": "白虎激突",
+            "title_romanji": "Byakko Gekitotsu ",
+            "aired": "2004-10-14T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1091161"
+        },
+        {
+            "mal_id": 4,
+            "url": null,
+            "title": "Strength of the Sword! Saikaidou Kotetsu",
+            "title_japanese": "剛剣！西海道虎鉄",
+            "title_romanji": "Gouken! Saikaidou Kotetsu ",
+            "aired": "2004-10-21T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1091197"
+        },
+        {
+            "mal_id": 5,
+            "url": null,
+            "title": "Clash of the Dragon and Tiger",
+            "title_japanese": "竜虎激闘",
+            "title_romanji": "Ryuuko Gekitou ",
+            "aired": "2004-10-28T00:00:00+00:00",
+            "score": 4.33,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1092041"
+        },
+        {
+            "mal_id": 6,
+            "url": null,
+            "title": "Dance! Toujinfu",
+            "title_japanese": "舞え！闘神符",
+            "title_romanji": "Mae! Toujinfu ",
+            "aired": "2004-11-04T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 7,
+            "url": null,
+            "title": "Invoke! Raging Waves Cutting Soul Sword",
+            "title_japanese": "発動！怒涛斬魂剣",
+            "title_romanji": "Hatsudou! Dotou Zan Kon Ken ",
+            "aired": "2004-11-11T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1092293"
+        },
+        {
+            "mal_id": 8,
+            "url": null,
+            "title": "Yuuma and Souma",
+            "title_japanese": "ユーマとソーマ",
+            "title_romanji": "Yuuma to Souma ",
+            "aired": "2004-11-18T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 9,
+            "url": null,
+            "title": "A Fighting Heart",
+            "title_japanese": "闘う心",
+            "title_romanji": "Tatakau Kokoro ",
+            "aired": "2004-11-25T00:00:00+00:00",
+            "score": 4.5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1092543"
+        },
+        {
+            "mal_id": 10,
+            "url": null,
+            "title": "Ancient Capital, Miraculous Battle",
+            "title_japanese": "古都 神秘の戦い",
+            "title_romanji": "Koto Shinpi no Tatakai ",
+            "aired": "2004-12-02T00:00:00+00:00",
+            "score": 4.33,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1092689"
+        },
+        {
+            "mal_id": 11,
+            "url": null,
+            "title": "Secret of the Ten-ryuu Ruins",
+            "title_japanese": "天流遺跡の秘密",
+            "title_romanji": "Tenryuu Iseki no Himitsu ",
+            "aired": "2004-12-09T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 12,
+            "url": null,
+            "title": "Heaven and Earth Shock, Big Spirits",
+            "title_japanese": "天地驚愕 大降神",
+            "title_romanji": "Tenchi Kyougaku Daikoujin ",
+            "aired": "2004-12-16T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 13,
+            "url": null,
+            "title": "Their Bond",
+            "title_japanese": "二人の絆",
+            "title_romanji": "Futari no Kizuna ",
+            "aired": "2004-12-23T00:00:00+00:00",
+            "score": 2.5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1092859"
+        },
+        {
+            "mal_id": 14,
+            "url": null,
+            "title": "Demon Invasion",
+            "title_japanese": "伏魔殿侵入",
+            "title_romanji": "Fukumaden Shinnyuu ",
+            "aired": "2005-01-06T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 15,
+            "url": null,
+            "title": "Escape to the Northeast",
+            "title_japanese": "鬼門遁走",
+            "title_romanji": "Kimon Tonsou ",
+            "aired": "2005-01-13T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 16,
+            "url": null,
+            "title": "Return of the Assassin",
+            "title_japanese": "刺客再来",
+            "title_romanji": "Shikyaku Sairai ",
+            "aired": "2005-01-20T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1093795"
+        },
+        {
+            "mal_id": 17,
+            "url": null,
+            "title": "Underwater Battle With White Tiger",
+            "title_japanese": "白虎水中大決戦",
+            "title_romanji": "Byakko Suichuu Daikessen ",
+            "aired": "2005-01-27T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 18,
+            "url": null,
+            "title": "Fortress' Seal",
+            "title_japanese": "城塞の封印",
+            "title_romanji": "Jousai no Fuuin ",
+            "aired": "2005-02-03T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1093977"
+        },
+        {
+            "mal_id": 19,
+            "url": null,
+            "title": "Struggle in the Secret Hot Spring",
+            "title_japanese": "秘湯の死闘",
+            "title_romanji": "Hitou no Shitou ",
+            "aired": "2005-02-10T00:00:00+00:00",
+            "score": 4.5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1094073"
+        },
+        {
+            "mal_id": 20,
+            "url": null,
+            "title": "Shivering Big Spirit",
+            "title_japanese": "戦慄の大降神",
+            "title_romanji": "Senritsu no Daikoujin ",
+            "aired": "2005-02-17T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 21,
+            "url": null,
+            "title": "That name is Yakumo",
+            "title_japanese": "その名はヤクモ",
+            "title_romanji": "Sono Na wa Yakumo ",
+            "aired": "2005-02-24T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 22,
+            "url": null,
+            "title": "Seal Engraved on the Heart",
+            "title_japanese": "心に刻まれた印",
+            "title_romanji": "Kokoro ni Kizamareta In ",
+            "aired": "2005-03-03T00:00:00+00:00",
+            "score": 4.67,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1094301"
+        },
+        {
+            "mal_id": 23,
+            "url": null,
+            "title": "White",
+            "title_japanese": "白虎消失",
+            "title_romanji": "Byakko Shoushitsu ",
+            "aired": "2005-03-10T00:00:00+00:00",
+            "score": 5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1094347"
+        },
+        {
+            "mal_id": 24,
+            "url": null,
+            "title": "The Past, Once Again",
+            "title_japanese": "再びの過去",
+            "title_romanji": "Futatabi no Kako ",
+            "aired": "2005-03-17T00:00:00+00:00",
+            "score": 5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=604659"
+        },
+        {
+            "mal_id": 25,
+            "url": null,
+            "title": "Open. Zero Drive",
+            "title_japanese": "開放・零神操機",
+            "title_romanji": "Kaifuu Zero Drive ",
+            "aired": "2005-03-24T00:00:00+00:00",
+            "score": 4.5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=604671"
+        },
+        {
+            "mal_id": 26,
+            "url": null,
+            "title": "Northeastern Opens",
+            "title_japanese": "大鬼門解放",
+            "title_romanji": "Dai Kimon Kaihou ",
+            "aired": "2005-03-31T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 28,
+            "url": null,
+            "title": "Seal's Quickening",
+            "title_japanese": "封印",
+            "title_romanji": "Fuuin no Taidou ",
+            "aired": "2005-04-14T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 29,
+            "url": null,
+            "title": "Enemy's Invitation",
+            "title_japanese": "敵地への招待",
+            "title_romanji": "Tekichi e no Shoutai ",
+            "aired": "2005-04-21T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 30,
+            "url": null,
+            "title": "A Man Racing to the Four Kimon",
+            "title_japanese": "四鬼門に駆けた漢（おとこ）",
+            "title_romanji": "Shikimon ni Kaketa Otoko ",
+            "aired": "2005-04-28T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 31,
+            "url": null,
+            "title": "Built Up Emotions",
+            "title_japanese": "重なる想い",
+            "title_romanji": "Kasanaru Omoi ",
+            "aired": "2005-05-05T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 32,
+            "url": null,
+            "title": "Gold Rush at the Beach",
+            "title_japanese": "渚のゴールドラッシュ",
+            "title_romanji": "Nagisa no Gold Rush ",
+            "aired": "2005-05-12T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 33,
+            "url": null,
+            "title": "A Reunion that Transcends Time",
+            "title_japanese": "時を越えた再会",
+            "title_romanji": "Toki wo Koeta Saikai ",
+            "aired": "2005-05-19T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 34,
+            "url": null,
+            "title": "Ryuuko, Again",
+            "title_japanese": "龍虎、再び",
+            "title_romanji": "Ryuuko, Futatabi ",
+            "aired": "2005-05-26T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 35,
+            "url": null,
+            "title": "The Price of Power",
+            "title_japanese": "力の代償",
+            "title_romanji": "Chikara no Daishou ",
+            "aired": "2005-06-02T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 36,
+            "url": null,
+            "title": "Stray Shikigami, Kuroku's Ordeal",
+            "title_japanese": "はぐれ式神 コロクの試練",
+            "title_romanji": "Hagure Shikigami Kuroku no Shiren ",
+            "aired": "2005-06-09T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 37,
+            "url": null,
+            "title": "Broken Trust",
+            "title_japanese": "砕かれた信頼",
+            "title_romanji": "Kudakareta Shinrai ",
+            "aired": "2005-06-16T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 38,
+            "url": null,
+            "title": "Falling Stars of Calamity",
+            "title_japanese": "凶星、流れる",
+            "title_romanji": "Kyousei, Nagareru ",
+            "aired": "2005-06-23T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 39,
+            "url": null,
+            "title": "Climatic Battle! Ten and Chi",
+            "title_japanese": "決戦！天と地と",
+            "title_romanji": "Kessen! Ten to Chi to ",
+            "aired": "2005-06-30T00:00:00+00:00",
+            "score": 5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=607603"
+        },
+        {
+            "mal_id": 40,
+            "url": null,
+            "title": "Master Power - Byakko Reborn",
+            "title_japanese": "極めし力、白虎新生",
+            "title_romanji": "Kiwameshi Chikara, Byakko Shinsei ",
+            "aired": "2005-07-07T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 41,
+            "url": null,
+            "title": "Utsuho Resurrected",
+            "title_japanese": "ウツホ復活",
+            "title_romanji": "Utsuho Fukkatsu ",
+            "aired": "2005-07-14T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 42,
+            "url": null,
+            "title": "Awakening of the Blue",
+            "title_japanese": "あおのめざめ)",
+            "title_romanji": "Ao no Mezame (蒼の覚醒 ",
+            "aired": "2005-07-21T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 43,
+            "url": null,
+            "title": "Dirtied Savior",
+            "title_japanese": "汚された救世主",
+            "title_romanji": "Yogosareta Kyuuseishu ",
+            "aired": "2005-07-28T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 44,
+            "url": null,
+            "title": "Red Trap",
+            "title_japanese": "紅い罠",
+            "title_romanji": "Akai Wana ",
+            "aired": "2005-08-04T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 45,
+            "url": null,
+            "title": "Burn Up! Souma",
+            "title_japanese": "燃えろ! ソーマ",
+            "title_romanji": "Moero! Souma ",
+            "aired": "2005-08-11T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 46,
+            "url": null,
+            "title": "Farewell, Yakumo",
+            "title_japanese": "さらば、ヤクモ",
+            "title_romanji": "Saraba, Yakumo ",
+            "aired": "2005-08-18T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 47,
+            "url": null,
+            "title": "Fierce Attack of the Yondaiten",
+            "title_japanese": "四大天の猛攻",
+            "title_romanji": "Yondaiten no Moukou ",
+            "aired": "2005-08-25T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 48,
+            "url": null,
+            "title": "The Qualifications to Become a Leader",
+            "title_japanese": "宗家の資格",
+            "title_romanji": "Souke no Shikaku ",
+            "aired": "2005-09-01T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 49,
+            "url": null,
+            "title": "The End of the Dream",
+            "title_japanese": "夢の終わり",
+            "title_romanji": "Yume no Owari ",
+            "aired": "2005-09-08T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 50,
+            "url": null,
+            "title": "With our Bonds at Stake",
+            "title_japanese": "絆をかけて",
+            "title_romanji": "Kizuna wo Kakete ",
+            "aired": "2005-09-15T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 51,
+            "url": null,
+            "title": "The Demise of the Taikyoku",
+            "title_japanese": "終焉（しゅうえん）の太極",
+            "title_romanji": "Shuuen no Taikyoku ",
+            "aired": "2005-09-22T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 52,
+            "url": null,
+            "title": "Among the Passing Seasons",
+            "title_japanese": "巡る節季（とき）の中で",
+            "title_romanji": "Meguru Toki no Naka de ",
+            "aired": "2005-09-29T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1784981"
+        }
+    ]
+}

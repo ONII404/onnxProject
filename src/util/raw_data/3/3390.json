@@ -1,0 +1,178 @@
+{
+    "id": 3390,
+    "fetched_at": "Sun Dec 14 19:32:24 2025",
+    "metadata": {
+        "mal_id": 3390,
+        "url": "https://myanimelist.net/anime/3390/Hoshi_no_Umi_no_Amuri",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1944/98096.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1944/98096t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1944/98096l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1944/98096.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1944/98096t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1944/98096l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Hoshi no Umi no Amuri"
+            },
+            {
+                "type": "Synonym",
+                "title": "Amuri in Star Ocean"
+            },
+            {
+                "type": "Japanese",
+                "title": "星の海のアムリ"
+            }
+        ],
+        "title": "Hoshi no Umi no Amuri",
+        "title_english": null,
+        "title_japanese": "星の海のアムリ",
+        "title_synonyms": [
+            "Amuri in Star Ocean"
+        ],
+        "type": "OVA",
+        "source": "Original",
+        "episodes": 3,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "2008-04-01T00:00:00+00:00",
+            "to": "2008-09-26T00:00:00+00:00",
+            "prop": {
+                "from": {
+                    "day": 1,
+                    "month": 4,
+                    "year": 2008
+                },
+                "to": {
+                    "day": 26,
+                    "month": 9,
+                    "year": 2008
+                }
+            },
+            "string": "Apr 1, 2008 to Sep 26, 2008"
+        },
+        "duration": "29 min per ep",
+        "rating": "PG-13 - Teens 13 or older",
+        "score": 5.69,
+        "scored_by": 1152,
+        "rank": 11908,
+        "popularity": 10165,
+        "members": 3875,
+        "favorites": 6,
+        "synopsis": "The 3D modeled anime is set in Year 019 of the Insonity Progressive Revolution - a future era in which mankind has evolved into a new species called Adapters. Three very young Adapter girls from Japan, China and France set out on a space adventure that will affect the rest of their species. \n\n(Source: animekon)",
+        "background": "",
+        "season": null,
+        "year": null,
+        "broadcast": {
+            "day": null,
+            "time": null,
+            "timezone": null,
+            "string": null
+        },
+        "producers": [
+            {
+                "mal_id": 23,
+                "type": "anime",
+                "name": "Bandai Visual",
+                "url": "https://myanimelist.net/anime/producer/23/Bandai_Visual"
+            }
+        ],
+        "licensors": [],
+        "studios": [
+            {
+                "mal_id": 101,
+                "type": "anime",
+                "name": "Studio Hibari",
+                "url": "https://myanimelist.net/anime/producer/101/Studio_Hibari"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 2,
+                "type": "anime",
+                "name": "Adventure",
+                "url": "https://myanimelist.net/anime/genre/2/Adventure"
+            },
+            {
+                "mal_id": 10,
+                "type": "anime",
+                "name": "Fantasy",
+                "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+            },
+            {
+                "mal_id": 24,
+                "type": "anime",
+                "name": "Sci-Fi",
+                "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [],
+        "demographics": [],
+        "relations": [
+            {
+                "relation": "Adaptation",
+                "entry": [
+                    {
+                        "mal_id": 28727,
+                        "type": "manga",
+                        "name": "Hoshi no Umi no Amuri: Tsuki no Yami no Plugin",
+                        "url": "https://myanimelist.net/manga/28727/Hoshi_no_Umi_no_Amuri__Tsuki_no_Yami_no_Plugin"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [
+                "1: \"Umi Tori Ka - Amuri Ver.- (海鳥花 -アムリVer.-)\" by Yui Makino (eps 1)",
+                "2: \"Yacchaou yo! (やっちゃおうよ!)\" by Yui Makino & Uchuu Shojo Van-aren Team (アムリ率いる宇宙少女ヴァンアレン隊) (eps 2)"
+            ],
+            "endings": [
+                "* Uchuu Shojo Van-aren Team = Yui Makino, Michiru Aizawa, and Momoko Saitou.",
+                "1: \"Yacchaou yo! (やっちゃおうよ!)\" by Yui Makino & Uchuu Shojo Van-aren Team (アムリ率いる宇宙少女ヴァンアレン隊) (eps 1)",
+                "2: \"Suzume no Heitai-san (すずめの兵隊さん)\" by Michiru Aizawa (Lin, Yunque) & Uchuu Shojo Van-aren Team (eps 2)",
+                "3: \"Keruto no Umi de Kuyurarula... (ケルトの海でkuyuraruLa...)\" by Momoko Saitou & Uchuu Shojo Van-aren Team (eps 3)"
+            ]
+        },
+        "external": [
+            {
+                "name": "Official Site",
+                "url": "http://www.amuri.jp/"
+            },
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=5458"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=8720"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "http://en.wikipedia.org/wiki/Amuri_in_Star_Ocean"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": []
+}

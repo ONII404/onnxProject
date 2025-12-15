@@ -1,0 +1,376 @@
+{
+    "id": 1600,
+    "fetched_at": "Sun Dec 14 16:36:04 2025",
+    "metadata": {
+        "mal_id": 1600,
+        "url": "https://myanimelist.net/anime/1600/Galaxy_Angel_Rune",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/12/76294.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/12/76294t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/12/76294l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/12/76294.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/12/76294t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/12/76294l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Galaxy Angel Rune"
+            },
+            {
+                "type": "Synonym",
+                "title": "Galaxy Ange-lune"
+            },
+            {
+                "type": "Synonym",
+                "title": "Galaxy Angel II"
+            },
+            {
+                "type": "Synonym",
+                "title": "Galaxy Angerune"
+            },
+            {
+                "type": "Synonym",
+                "title": "Galaxy Ange-Rune"
+            },
+            {
+                "type": "Japanese",
+                "title": "ギャラクシーエンジェる～ん"
+            }
+        ],
+        "title": "Galaxy Angel Rune",
+        "title_english": null,
+        "title_japanese": "ギャラクシーエンジェる～ん",
+        "title_synonyms": [
+            "Galaxy Ange-lune",
+            "Galaxy Angel II",
+            "Galaxy Angerune",
+            "Galaxy Ange-Rune"
+        ],
+        "type": "TV",
+        "source": "Other",
+        "episodes": 13,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "2006-10-02T00:00:00+00:00",
+            "to": "2006-12-25T00:00:00+00:00",
+            "prop": {
+                "from": {
+                    "day": 2,
+                    "month": 10,
+                    "year": 2006
+                },
+                "to": {
+                    "day": 25,
+                    "month": 12,
+                    "year": 2006
+                }
+            },
+            "string": "Oct 2, 2006 to Dec 25, 2006"
+        },
+        "duration": "24 min per ep",
+        "rating": "PG-13 - Teens 13 or older",
+        "score": 6.21,
+        "scored_by": 2106,
+        "rank": 9054,
+        "popularity": 8536,
+        "members": 6287,
+        "favorites": 3,
+        "synopsis": "Apricot Sakuraba and 4 new girls were now assigned as the new Galaxy Angels with the same mission: to search for the Lost Technology and keep peace to Planet Transbaal. \n\n(Source: ANN)",
+        "background": "",
+        "season": "fall",
+        "year": 2006,
+        "broadcast": {
+            "day": "Mondays",
+            "time": "02:00",
+            "timezone": "Asia/Tokyo",
+            "string": "Mondays at 02:00 (JST)"
+        },
+        "producers": [
+            {
+                "mal_id": 23,
+                "type": "anime",
+                "name": "Bandai Visual",
+                "url": "https://myanimelist.net/anime/producer/23/Bandai_Visual"
+            },
+            {
+                "mal_id": 104,
+                "type": "anime",
+                "name": "Lantis",
+                "url": "https://myanimelist.net/anime/producer/104/Lantis"
+            },
+            {
+                "mal_id": 116,
+                "type": "anime",
+                "name": "Broccoli",
+                "url": "https://myanimelist.net/anime/producer/116/Broccoli"
+            },
+            {
+                "mal_id": 761,
+                "type": "anime",
+                "name": "Sunny Side Up",
+                "url": "https://myanimelist.net/anime/producer/761/Sunny_Side_Up"
+            }
+        ],
+        "licensors": [
+            {
+                "mal_id": 1466,
+                "type": "anime",
+                "name": "Bandai Visual USA",
+                "url": "https://myanimelist.net/anime/producer/1466/Bandai_Visual_USA"
+            }
+        ],
+        "studios": [
+            {
+                "mal_id": 41,
+                "type": "anime",
+                "name": "Satelight",
+                "url": "https://myanimelist.net/anime/producer/41/Satelight"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 4,
+                "type": "anime",
+                "name": "Comedy",
+                "url": "https://myanimelist.net/anime/genre/4/Comedy"
+            },
+            {
+                "mal_id": 24,
+                "type": "anime",
+                "name": "Sci-Fi",
+                "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [],
+        "demographics": [],
+        "relations": [
+            {
+                "relation": "Adaptation",
+                "entry": [
+                    {
+                        "mal_id": 679,
+                        "type": "manga",
+                        "name": "Galaxy Angel 3rd",
+                        "url": "https://myanimelist.net/manga/679/Galaxy_Angel_3rd"
+                    }
+                ]
+            },
+            {
+                "relation": "Alternative Version",
+                "entry": [
+                    {
+                        "mal_id": 383,
+                        "type": "anime",
+                        "name": "Galaxy Angel",
+                        "url": "https://myanimelist.net/anime/383/Galaxy_Angel"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [
+                "\"Uchuu de Koi wa ☆ Ru-run Run\" by Rune Angel-tai"
+            ],
+            "endings": [
+                "\"Happy Flight\" by Maho Tomita"
+            ]
+        },
+        "external": [
+            {
+                "name": "Official Site",
+                "url": "http://www.tv-tokyo.co.jp/anime/runeangel/"
+            },
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=4335"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=6255"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "http://en.wikipedia.org/wiki/Galaxy_Angel_II"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": [
+        {
+            "mal_id": 1,
+            "url": null,
+            "title": "Launch! Angels Scramble-Rune",
+            "title_japanese": "出撃!天使のスクランブる〜ん",
+            "title_romanji": "Shutsugeki! Tenshi no Scramble-Rune ",
+            "aired": "2006-10-02T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 2,
+            "url": null,
+            "title": "Super Cheap! Ground Bazaar~une",
+            "title_japanese": "激安!グラウンドバザーる〜ん",
+            "title_romanji": "Gekiyasu! Ground Bazaar-Rune ",
+            "aired": "2006-10-09T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 3,
+            "url": null,
+            "title": "Legendary! Food Stash Survival-Rune",
+            "title_japanese": "伝説!食材サバイバる〜ん",
+            "title_romanji": "Densetsu! Shokuzai Survival-Rune ",
+            "aired": "2006-10-16T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 4,
+            "url": null,
+            "title": "Temptation! Three o'clock Cafe Table-Rune",
+            "title_japanese": "誘惑!3時のカフェテーブる〜ん",
+            "title_romanji": "Yuuwaku! 3-ji no Cafe Table-Rune ",
+            "aired": "2006-10-23T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 5,
+            "url": null,
+            "title": "Truce! Adult's Alcohol-Rune",
+            "title_japanese": "和解!大人のアルコーる〜ん",
+            "title_romanji": "Wakai! Otona no Alcohol-Rune ",
+            "aired": "2006-10-30T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 6,
+            "url": null,
+            "title": "Debut! New Idol-Rune",
+            "title_japanese": "誕生!新人アイドる〜ん",
+            "title_romanji": "Tanjou! Shinjin Idol-Rune ",
+            "aired": "2006-11-06T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 7,
+            "url": null,
+            "title": "Battle! Rival Senior~unes",
+            "title_japanese": "対決!先輩はライバる〜ん",
+            "title_romanji": "Taiketsu! Senpai wa Rival-Rune ",
+            "aired": "2006-11-13T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 8,
+            "url": null,
+            "title": "Horrible! Rainy Day Call-Rune",
+            "title_japanese": "恐怖!雨の日のコーる〜ん",
+            "title_romanji": "Kyoufu! Ame no Hi no Call-Rune ",
+            "aired": "2006-11-20T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 9,
+            "url": null,
+            "title": "Luxury! Celebrity's Way Travel-Rune",
+            "title_japanese": "豪華!セレブのトラベる〜ん",
+            "title_romanji": "Gouka! Celeb no Travel-Rune ",
+            "aired": "2006-11-27T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 10,
+            "url": null,
+            "title": "Attack! Combat Professional-Rune",
+            "title_japanese": "強襲!戦場のプロフェッショナる〜ん",
+            "title_romanji": "Kyoushuu! Senjou no Professional-Rune ",
+            "aired": "2006-12-04T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 11,
+            "url": null,
+            "title": "Solved! A Detective's Case File-Rune",
+            "title_japanese": "的中! 名探偵の推理ファイる〜ん",
+            "title_romanji": "Tekichuu! Meitantei no Suiri File-Rune ",
+            "aired": "2006-12-11T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 12,
+            "url": null,
+            "title": "Boiling! Hot Spring Commercial-Rune",
+            "title_japanese": "熱湯!コマーシャる〜ん",
+            "title_romanji": "Nettou! Commercial-Rune ",
+            "aired": "2006-12-18T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 13,
+            "url": null,
+            "title": "Now Appearing! Evil-Rune Angel Troupe?!",
+            "title_japanese": "出現!ワルワルワる〜んエンジェル隊!?",
+            "title_romanji": "Shutsugen! Waruwaruwa-Rune Angel-tai!? ",
+            "aired": "2006-12-25T00:00:00+00:00",
+            "score": 4.5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1730458"
+        }
+    ]
+}

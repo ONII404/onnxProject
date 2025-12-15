@@ -1,0 +1,179 @@
+{
+    "id": 2777,
+    "fetched_at": "Sun Dec 14 18:55:47 2025",
+    "metadata": {
+        "mal_id": 2777,
+        "url": "https://myanimelist.net/anime/2777/Generation_of_Chaos_Next__Chikai_no_Pendant",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/10/3753.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/10/3753t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/10/3753l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/10/3753.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/10/3753t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/10/3753l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Generation of Chaos Next: Chikai no Pendant"
+            },
+            {
+                "type": "Japanese",
+                "title": "ジェネレーション オブ カオス ネクスト～誓いのペンダント～"
+            }
+        ],
+        "title": "Generation of Chaos Next: Chikai no Pendant",
+        "title_english": null,
+        "title_japanese": "ジェネレーション オブ カオス ネクスト～誓いのペンダント～",
+        "title_synonyms": [],
+        "type": "OVA",
+        "source": "Game",
+        "episodes": 1,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "2002-05-22T00:00:00+00:00",
+            "to": null,
+            "prop": {
+                "from": {
+                    "day": 22,
+                    "month": 5,
+                    "year": 2002
+                },
+                "to": {
+                    "day": null,
+                    "month": null,
+                    "year": null
+                }
+            },
+            "string": "May 22, 2002"
+        },
+        "duration": "27 min",
+        "rating": "PG-13 - Teens 13 or older",
+        "score": 3.27,
+        "scored_by": 993,
+        "rank": 14477,
+        "popularity": 12092,
+        "members": 2214,
+        "favorites": 1,
+        "synopsis": "Prologue to the second game in the Generation of Chaos RPG series. Ellile is a knight-in-training in the Kingdom of Fredbarn in the Neverland World. He and Princess Roji are secretly in love, and plan to marry. Lifile, the head of the knights, finds out, and tells Ellile that he's not strong enough to protect Roji, let alone the Kingdom. Ellile becomes frustrated, and comtemplates what to do... During the OVA, there are a few animated shorts dealing with a fourth character, Poro, her robot friend, and the GOC Next cast.\n\n(Source: ANN)",
+        "background": "",
+        "season": null,
+        "year": null,
+        "broadcast": {
+            "day": null,
+            "time": null,
+            "timezone": null,
+            "string": null
+        },
+        "producers": [
+            {
+                "mal_id": 193,
+                "type": "anime",
+                "name": "Idea Factory",
+                "url": "https://myanimelist.net/anime/producer/193/Idea_Factory"
+            }
+        ],
+        "licensors": [],
+        "studios": [],
+        "genres": [
+            {
+                "mal_id": 1,
+                "type": "anime",
+                "name": "Action",
+                "url": "https://myanimelist.net/anime/genre/1/Action"
+            },
+            {
+                "mal_id": 2,
+                "type": "anime",
+                "name": "Adventure",
+                "url": "https://myanimelist.net/anime/genre/2/Adventure"
+            },
+            {
+                "mal_id": 10,
+                "type": "anime",
+                "name": "Fantasy",
+                "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+            },
+            {
+                "mal_id": 22,
+                "type": "anime",
+                "name": "Romance",
+                "url": "https://myanimelist.net/anime/genre/22/Romance"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [
+            {
+                "mal_id": 38,
+                "type": "anime",
+                "name": "Military",
+                "url": "https://myanimelist.net/anime/genre/38/Military"
+            }
+        ],
+        "demographics": [],
+        "relations": [
+            {
+                "relation": "Prequel",
+                "entry": [
+                    {
+                        "mal_id": 2776,
+                        "type": "anime",
+                        "name": "Generation of Chaos",
+                        "url": "https://myanimelist.net/anime/2776/Generation_of_Chaos"
+                    }
+                ]
+            },
+            {
+                "relation": "Sequel",
+                "entry": [
+                    {
+                        "mal_id": 2778,
+                        "type": "anime",
+                        "name": "Generation of Chaos III: Toki no Fuuin",
+                        "url": "https://myanimelist.net/anime/2778/Generation_of_Chaos_III__Toki_no_Fuuin"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [
+                "\"LOVE & HISTORY\" by Nana Mizuki"
+            ],
+            "endings": []
+        },
+        "external": [
+            {
+                "name": "Official Site",
+                "url": "http://www.ideaf.co.jp/generation/next/anime.html"
+            },
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=1960"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=5722"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": []
+}

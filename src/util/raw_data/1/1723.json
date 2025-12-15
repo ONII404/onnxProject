@@ -1,0 +1,195 @@
+{
+    "id": 1723,
+    "fetched_at": "Sun Dec 14 16:46:10 2025",
+    "metadata": {
+        "mal_id": 1723,
+        "url": "https://myanimelist.net/anime/1723/Clannad_Movie",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/13/75650.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/13/75650t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/13/75650l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/13/75650.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/13/75650t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/13/75650l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": "https://www.youtube-nocookie.com/embed/lOWFsJpC7z8?enablejsapi=1&wmode=opaque&autoplay=1",
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Clannad Movie"
+            },
+            {
+                "type": "Synonym",
+                "title": "Gekijouban Clannad"
+            },
+            {
+                "type": "Japanese",
+                "title": "劇場版 クラナド"
+            },
+            {
+                "type": "English",
+                "title": "Clannad The Motion Picture"
+            },
+            {
+                "type": "German",
+                "title": "Clannad: Der Film"
+            }
+        ],
+        "title": "Clannad Movie",
+        "title_english": "Clannad The Motion Picture",
+        "title_japanese": "劇場版 クラナド",
+        "title_synonyms": [
+            "Gekijouban Clannad"
+        ],
+        "type": "Movie",
+        "source": "Visual novel",
+        "episodes": 1,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "2007-09-15T00:00:00+00:00",
+            "to": null,
+            "prop": {
+                "from": {
+                    "day": 15,
+                    "month": 9,
+                    "year": 2007
+                },
+                "to": {
+                    "day": null,
+                    "month": null,
+                    "year": null
+                }
+            },
+            "string": "Sep 15, 2007"
+        },
+        "duration": "1 hr 33 min",
+        "rating": "PG-13 - Teens 13 or older",
+        "score": 7.24,
+        "scored_by": 94853,
+        "rank": 3281,
+        "popularity": 1452,
+        "members": 185572,
+        "favorites": 458,
+        "synopsis": "Tomoya Okazaki is a cynical delinquent who lacks ambition as he apathetically labors through high school. During his childhood, a tragedy had caused his father to seek solace in alcoholism and neglect his son. Yet, meaningful human interaction can be a benediction, as Tomoya learns when he meets the enigmatic Nagisa Furukawa. The odd girl offers a gesture of friendship to Tomoya, but he rejects the request, dismissing it as a trivial incident. However, as he soon realizes that he is encountering Nagisa more and more often during school, Tomoya drops his discompassions and befriends the girl.\n\nWhen he learns that Nagisa's dream is to revive the Drama Club, Tomoya decides to shed his detachment from the ordinary pleasures of life and dedicate himself to helping his new friend achieve her ambition. But what starts as a simple friendship may progress into something far more deep, intimate, and life-changing. As the pair face various hardships and afflictions, Tomoya and Nagisa gradually come to terms with the challenges of life.\n\n[Written by MAL Rewrite]",
+        "background": "",
+        "season": null,
+        "year": null,
+        "broadcast": {
+            "day": null,
+            "time": null,
+            "timezone": null,
+            "string": null
+        },
+        "producers": [],
+        "licensors": [
+            {
+                "mal_id": 376,
+                "type": "anime",
+                "name": "Sentai Filmworks",
+                "url": "https://myanimelist.net/anime/producer/376/Sentai_Filmworks"
+            }
+        ],
+        "studios": [
+            {
+                "mal_id": 18,
+                "type": "anime",
+                "name": "Toei Animation",
+                "url": "https://myanimelist.net/anime/producer/18/Toei_Animation"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 8,
+                "type": "anime",
+                "name": "Drama",
+                "url": "https://myanimelist.net/anime/genre/8/Drama"
+            },
+            {
+                "mal_id": 22,
+                "type": "anime",
+                "name": "Romance",
+                "url": "https://myanimelist.net/anime/genre/22/Romance"
+            },
+            {
+                "mal_id": 37,
+                "type": "anime",
+                "name": "Supernatural",
+                "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [
+            {
+                "mal_id": 23,
+                "type": "anime",
+                "name": "School",
+                "url": "https://myanimelist.net/anime/genre/23/School"
+            }
+        ],
+        "demographics": [],
+        "relations": [
+            {
+                "relation": "Alternative Version",
+                "entry": [
+                    {
+                        "mal_id": 2167,
+                        "type": "anime",
+                        "name": "Clannad",
+                        "url": "https://myanimelist.net/anime/2167/Clannad"
+                    },
+                    {
+                        "mal_id": 4181,
+                        "type": "anime",
+                        "name": "Clannad: After Story",
+                        "url": "https://myanimelist.net/anime/4181/Clannad__After_Story"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [
+                "\"Megumeru\" by eufonius"
+            ],
+            "endings": [
+                "\"Chiisana Tenohira\" by eufonius"
+            ]
+        },
+        "external": [
+            {
+                "name": "Official Site",
+                "url": "http://www.clannad-movie.jp/"
+            },
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=4402"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=6436"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "http://en.wikipedia.org/wiki/Clannad_%28visual_novel%29"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": []
+}

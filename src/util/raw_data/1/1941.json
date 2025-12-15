@@ -1,0 +1,346 @@
+{
+    "id": 1941,
+    "fetched_at": "Sun Dec 14 17:59:27 2025",
+    "metadata": {
+        "mal_id": 1941,
+        "url": "https://myanimelist.net/anime/1941/Moonlight_Mile_1st_Season__Lift_Off",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1543/134894.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1543/134894t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1543/134894l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1543/134894.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1543/134894t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1543/134894l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": "https://www.youtube-nocookie.com/embed/YAcnBixmfXQ?enablejsapi=1&wmode=opaque&autoplay=1",
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Moonlight Mile 1st Season: Lift Off"
+            },
+            {
+                "type": "Japanese",
+                "title": "ムーンライトマイル 1stシーズン -Lift off-"
+            },
+            {
+                "type": "French",
+                "title": "Moonlight Mile Saisons 1"
+            }
+        ],
+        "title": "Moonlight Mile 1st Season: Lift Off",
+        "title_english": null,
+        "title_japanese": "ムーンライトマイル 1stシーズン -Lift off-",
+        "title_synonyms": [],
+        "type": "TV",
+        "source": "Manga",
+        "episodes": 12,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "2007-03-04T00:00:00+00:00",
+            "to": "2007-05-27T00:00:00+00:00",
+            "prop": {
+                "from": {
+                    "day": 4,
+                    "month": 3,
+                    "year": 2007
+                },
+                "to": {
+                    "day": 27,
+                    "month": 5,
+                    "year": 2007
+                }
+            },
+            "string": "Mar 4, 2007 to May 27, 2007"
+        },
+        "duration": "25 min per ep",
+        "rating": "R+ - Mild Nudity",
+        "score": 7.1,
+        "scored_by": 3496,
+        "rank": 4081,
+        "popularity": 6480,
+        "members": 12329,
+        "favorites": 21,
+        "synopsis": "After scaling Mt. Everest, mountain climbing partners Saruwatari Gorou and \"Lostman\" Jack F. Woodbridge see the ISA Space Station, and each vows to make the trek into outerspace. When Helium 3, a new energy source, is discovered on the moon, NASA forms a new project named \"Nexus\" to harness that energy for use on earth. This is the story of the two and the paths they take to see their dream become a reality in the quest to harness the next-generation energy source.\n\n(Source: ANN)",
+        "background": "",
+        "season": "spring",
+        "year": 2007,
+        "broadcast": {
+            "day": "Sundays",
+            "time": "01:00",
+            "timezone": "Asia/Tokyo",
+            "string": "Sundays at 01:00 (JST)"
+        },
+        "producers": [],
+        "licensors": [
+            {
+                "mal_id": 97,
+                "type": "anime",
+                "name": "ADV Films",
+                "url": "https://myanimelist.net/anime/producer/97/ADV_Films"
+            },
+            {
+                "mal_id": 102,
+                "type": "anime",
+                "name": "Funimation",
+                "url": "https://myanimelist.net/anime/producer/102/Funimation"
+            }
+        ],
+        "studios": [
+            {
+                "mal_id": 101,
+                "type": "anime",
+                "name": "Studio Hibari",
+                "url": "https://myanimelist.net/anime/producer/101/Studio_Hibari"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 2,
+                "type": "anime",
+                "name": "Adventure",
+                "url": "https://myanimelist.net/anime/genre/2/Adventure"
+            },
+            {
+                "mal_id": 8,
+                "type": "anime",
+                "name": "Drama",
+                "url": "https://myanimelist.net/anime/genre/8/Drama"
+            },
+            {
+                "mal_id": 24,
+                "type": "anime",
+                "name": "Sci-Fi",
+                "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [
+            {
+                "mal_id": 29,
+                "type": "anime",
+                "name": "Space",
+                "url": "https://myanimelist.net/anime/genre/29/Space"
+            }
+        ],
+        "demographics": [
+            {
+                "mal_id": 42,
+                "type": "anime",
+                "name": "Seinen",
+                "url": "https://myanimelist.net/anime/genre/42/Seinen"
+            }
+        ],
+        "relations": [
+            {
+                "relation": "Sequel",
+                "entry": [
+                    {
+                        "mal_id": 2929,
+                        "type": "anime",
+                        "name": "Moonlight Mile 2nd Season: Touch Down",
+                        "url": "https://myanimelist.net/anime/2929/Moonlight_Mile_2nd_Season__Touch_Down"
+                    }
+                ]
+            },
+            {
+                "relation": "Adaptation",
+                "entry": [
+                    {
+                        "mal_id": 681,
+                        "type": "manga",
+                        "name": "Moonlight Mile",
+                        "url": "https://myanimelist.net/manga/681/Moonlight_Mile"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [],
+            "endings": [
+                "\"Scarecrow (スケアクロウ)\" by the pillows"
+            ]
+        },
+        "external": [
+            {
+                "name": "Official Site",
+                "url": "http://www.moonlightmile.jp/"
+            },
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=4900"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=7383"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "http://en.wikipedia.org/wiki/Moonlight_Mile_(manga)#Anime"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": [
+        {
+            "mal_id": 1,
+            "url": null,
+            "title": "To Beyond the Sky",
+            "title_japanese": "宇宙の向こうへ",
+            "title_romanji": "Sora no Mukou e ",
+            "aired": "2007-02-04T00:00:00+00:00",
+            "score": 3.43,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=98639"
+        },
+        {
+            "mal_id": 2,
+            "url": null,
+            "title": "Neverending Dream",
+            "title_japanese": "果てなき夢",
+            "title_romanji": "Hatenaki Yume ",
+            "aired": "2007-03-11T00:00:00+00:00",
+            "score": 3.6,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=102439"
+        },
+        {
+            "mal_id": 3,
+            "url": null,
+            "title": "Last Swing",
+            "title_japanese": "ラストスイング",
+            "title_romanji": "Last Swing ",
+            "aired": "2007-03-18T00:00:00+00:00",
+            "score": 3.67,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=102447"
+        },
+        {
+            "mal_id": 4,
+            "url": null,
+            "title": "Desert's Oath",
+            "title_japanese": "砂漠の誓い",
+            "title_romanji": "Sabaku no Chikai ",
+            "aired": "2007-03-25T00:00:00+00:00",
+            "score": 3.33,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=429429"
+        },
+        {
+            "mal_id": 5,
+            "url": null,
+            "title": "From the City of Stars",
+            "title_japanese": "星の街から",
+            "title_romanji": "Hoshi no Machi kara ",
+            "aired": "2007-04-01T00:00:00+00:00",
+            "score": 3.83,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=429547"
+        },
+        {
+            "mal_id": 6,
+            "url": null,
+            "title": "Gamblers",
+            "title_japanese": "ギャンブラーズ",
+            "title_romanji": "Gamblers ",
+            "aired": "2007-04-08T00:00:00+00:00",
+            "score": 3,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=429611"
+        },
+        {
+            "mal_id": 7,
+            "url": null,
+            "title": "Reunion",
+            "title_japanese": "再会",
+            "title_romanji": "Saikai ",
+            "aired": "2007-04-15T00:00:00+00:00",
+            "score": 3.5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=429635"
+        },
+        {
+            "mal_id": 8,
+            "url": null,
+            "title": "Returning Alive from Orbit",
+            "title_japanese": "軌道からの生還",
+            "title_romanji": "Kidou kara no Seikan ",
+            "aired": "2007-04-22T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=429709"
+        },
+        {
+            "mal_id": 9,
+            "url": null,
+            "title": "Moon Walker",
+            "title_japanese": "ムーンウォーカー",
+            "title_romanji": "Moonwalker ",
+            "aired": "2007-04-29T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=429825"
+        },
+        {
+            "mal_id": 10,
+            "url": null,
+            "title": "Current of Doubt",
+            "title_japanese": "疑惑の潮流",
+            "title_romanji": "Giwaku no Chouryuu ",
+            "aired": "2007-05-13T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=429849"
+        },
+        {
+            "mal_id": 11,
+            "url": null,
+            "title": "The Data Which is Altered",
+            "title_japanese": "改竄されたデータ",
+            "title_romanji": "Kaizan Sareta Data ",
+            "aired": "2007-05-20T00:00:00+00:00",
+            "score": 4.25,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=429867"
+        },
+        {
+            "mal_id": 12,
+            "url": null,
+            "title": "Star Fighter",
+            "title_japanese": "スターファイター",
+            "title_romanji": "Star Fighter ",
+            "aired": "2007-05-27T00:00:00+00:00",
+            "score": 3.7,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=113330"
+        }
+    ]
+}

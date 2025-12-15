@@ -1,0 +1,540 @@
+{
+    "id": 1108,
+    "fetched_at": "Sun Dec 14 14:55:46 2025",
+    "metadata": {
+        "mal_id": 1108,
+        "url": "https://myanimelist.net/anime/1108/Senkaiden_Houshin_Engi",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1004/94169.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1004/94169t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1004/94169l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1004/94169.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1004/94169t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1004/94169l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Senkaiden Houshin Engi"
+            },
+            {
+                "type": "Synonym",
+                "title": "Romances of Sealed Gods"
+            },
+            {
+                "type": "Synonym",
+                "title": "Soul Hunter: Battle of the Immortals"
+            },
+            {
+                "type": "Japanese",
+                "title": "仙界伝 封神演義"
+            },
+            {
+                "type": "English",
+                "title": "Soul Hunter"
+            },
+            {
+                "type": "German",
+                "title": "Soul Hunter: Im Auftrag der Unsterblichen"
+            },
+            {
+                "type": "Spanish",
+                "title": "Soul Hunter - Senkaiden Houshin Engi -"
+            },
+            {
+                "type": "French",
+                "title": "Soul Hunter"
+            }
+        ],
+        "title": "Senkaiden Houshin Engi",
+        "title_english": "Soul Hunter",
+        "title_japanese": "仙界伝 封神演義",
+        "title_synonyms": [
+            "Romances of Sealed Gods",
+            "Soul Hunter: Battle of the Immortals"
+        ],
+        "type": "TV",
+        "source": "Manga",
+        "episodes": 26,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "1999-07-03T00:00:00+00:00",
+            "to": "1999-12-25T00:00:00+00:00",
+            "prop": {
+                "from": {
+                    "day": 3,
+                    "month": 7,
+                    "year": 1999
+                },
+                "to": {
+                    "day": 25,
+                    "month": 12,
+                    "year": 1999
+                }
+            },
+            "string": "Jul 3, 1999 to Dec 25, 1999"
+        },
+        "duration": "24 min per ep",
+        "rating": "PG-13 - Teens 13 or older",
+        "score": 7.05,
+        "scored_by": 7315,
+        "rank": 4308,
+        "popularity": 5511,
+        "members": 18720,
+        "favorites": 76,
+        "synopsis": "Thousands of years ago, it was a time of witchcraft and dark magic. An evil sorceress has bewitched the emperor of the mighty dynasty and he has become a mindless puppet. The country is in shambles, and evil spirits lurk everywhere. The human world is on the verge of utter destruction. A bold mission is planned by the Confederation of the Immortal Masters. They send a young master wizard to hunt down the villains and evil warlocks in the devastated lands.\n\n(Source: ANN)",
+        "background": "",
+        "season": "summer",
+        "year": 1999,
+        "broadcast": {
+            "day": "Saturdays",
+            "time": "07:00",
+            "timezone": "Asia/Tokyo",
+            "string": "Saturdays at 07:00 (JST)"
+        },
+        "producers": [
+            {
+                "mal_id": 717,
+                "type": "anime",
+                "name": "TV Tokyo Music",
+                "url": "https://myanimelist.net/anime/producer/717/TV_Tokyo_Music"
+            }
+        ],
+        "licensors": [
+            {
+                "mal_id": 97,
+                "type": "anime",
+                "name": "ADV Films",
+                "url": "https://myanimelist.net/anime/producer/97/ADV_Films"
+            },
+            {
+                "mal_id": 467,
+                "type": "anime",
+                "name": "Discotek Media",
+                "url": "https://myanimelist.net/anime/producer/467/Discotek_Media"
+            }
+        ],
+        "studios": [
+            {
+                "mal_id": 37,
+                "type": "anime",
+                "name": "Studio Deen",
+                "url": "https://myanimelist.net/anime/producer/37/Studio_Deen"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 1,
+                "type": "anime",
+                "name": "Action",
+                "url": "https://myanimelist.net/anime/genre/1/Action"
+            },
+            {
+                "mal_id": 2,
+                "type": "anime",
+                "name": "Adventure",
+                "url": "https://myanimelist.net/anime/genre/2/Adventure"
+            },
+            {
+                "mal_id": 10,
+                "type": "anime",
+                "name": "Fantasy",
+                "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [],
+        "demographics": [
+            {
+                "mal_id": 27,
+                "type": "anime",
+                "name": "Shounen",
+                "url": "https://myanimelist.net/anime/genre/27/Shounen"
+            }
+        ],
+        "relations": [
+            {
+                "relation": "Adaptation",
+                "entry": [
+                    {
+                        "mal_id": 922,
+                        "type": "manga",
+                        "name": "Houshin Engi",
+                        "url": "https://myanimelist.net/manga/922/Houshin_Engi"
+                    }
+                ]
+            },
+            {
+                "relation": "Alternative Version",
+                "entry": [
+                    {
+                        "mal_id": 36029,
+                        "type": "anime",
+                        "name": "Hakyuu Houshin Engi",
+                        "url": "https://myanimelist.net/anime/36029/Hakyuu_Houshin_Engi"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [
+                "\"Will\" by Yonekura Chihiro"
+            ],
+            "endings": [
+                "\"Friends\" by Chihiro Yonekura"
+            ]
+        },
+        "external": [
+            {
+                "name": "Official Site",
+                "url": "http://www.houshin-engi.com/"
+            },
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=963"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=282"
+            }
+        ],
+        "streaming": [
+            {
+                "name": "Crunchyroll",
+                "url": "http://www.crunchyroll.com/series-273425"
+            }
+        ]
+    },
+    "episodes": [
+        {
+            "mal_id": 1,
+            "url": "https://myanimelist.net/anime/1108/Senkaiden_Houshin_Engi/episode/1",
+            "title": "Taikoubou Is Accorded Project Soul Hunt",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 3.25,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=13779"
+        },
+        {
+            "mal_id": 2,
+            "url": "https://myanimelist.net/anime/1108/Senkaiden_Houshin_Engi/episode/2",
+            "title": "Taikoubou Commits His First Houshin",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 3,
+            "url": "https://myanimelist.net/anime/1108/Senkaiden_Houshin_Engi/episode/3",
+            "title": "Paopei Human Appears in Chintou Outpost",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 4,
+            "url": "https://myanimelist.net/anime/1108/Senkaiden_Houshin_Engi/episode/4",
+            "title": "Lotus-Peach War at Chintou Outpost",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 5,
+            "url": "https://myanimelist.net/anime/1108/Senkaiden_Houshin_Engi/episode/5",
+            "title": "Ki Shou, Lord of the West, Escapes from Chouka",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1827797"
+        },
+        {
+            "mal_id": 6,
+            "url": "https://myanimelist.net/anime/1108/Senkaiden_Houshin_Engi/episode/6",
+            "title": "Raishinshi Calls on Wind and Lightning",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 7,
+            "url": "https://myanimelist.net/anime/1108/Senkaiden_Houshin_Engi/episode/7",
+            "title": "Empress Kyouhi is Arrested as a Traitor",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=595175"
+        },
+        {
+            "mal_id": 8,
+            "url": "https://myanimelist.net/anime/1108/Senkaiden_Houshin_Engi/episode/8",
+            "title": "Taikoubou is Tested by Youzen",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1785279"
+        },
+        {
+            "mal_id": 9,
+            "url": "https://myanimelist.net/anime/1108/Senkaiden_Houshin_Engi/episode/9",
+            "title": "Kou Hiko Decides to Rise in Rebellion",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=595201"
+        },
+        {
+            "mal_id": 10,
+            "url": "https://myanimelist.net/anime/1108/Senkaiden_Houshin_Engi/episode/10",
+            "title": "A Fine Fellow Appears at Rintou Outpost",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1827937"
+        },
+        {
+            "mal_id": 11,
+            "url": "https://myanimelist.net/anime/1108/Senkaiden_Houshin_Engi/episode/11",
+            "title": "Taikoubou Meets Kou Hiko",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 12,
+            "url": "https://myanimelist.net/anime/1108/Senkaiden_Houshin_Engi/episode/12",
+            "title": "Kou Hiko and Bunchu Battle on the High Road",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=595331"
+        },
+        {
+            "mal_id": 13,
+            "url": "https://myanimelist.net/anime/1108/Senkaiden_Houshin_Engi/episode/13",
+            "title": "Taikoubou Encounters Ki Shou, Lord of the West",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 14,
+            "url": "https://myanimelist.net/anime/1108/Senkaiden_Houshin_Engi/episode/14",
+            "title": "The Seiki Army Marches North",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1272109"
+        },
+        {
+            "mal_id": 15,
+            "url": "https://myanimelist.net/anime/1108/Senkaiden_Houshin_Engi/episode/15",
+            "title": "The Shisei's Fierce Attack",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 3,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=595363"
+        },
+        {
+            "mal_id": 16,
+            "url": "https://myanimelist.net/anime/1108/Senkaiden_Houshin_Engi/episode/16",
+            "title": "The Shisei Are Houshined",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1273639"
+        },
+        {
+            "mal_id": 17,
+            "url": "https://myanimelist.net/anime/1108/Senkaiden_Houshin_Engi/episode/17",
+            "title": "The Melody of the Chinese Fiddle Drifts in Su Castle",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1274675"
+        },
+        {
+            "mal_id": 18,
+            "url": "https://myanimelist.net/anime/1108/Senkaiden_Houshin_Engi/episode/18",
+            "title": "The Brothers Return to the Wilderness",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 3.5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1274689"
+        },
+        {
+            "mal_id": 19,
+            "url": "https://myanimelist.net/anime/1108/Senkaiden_Houshin_Engi/episode/19",
+            "title": "Chouka Goes Up in Flames",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 3,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=597535"
+        },
+        {
+            "mal_id": 20,
+            "url": "https://myanimelist.net/anime/1108/Senkaiden_Houshin_Engi/episode/20",
+            "title": "The Yin Dynasty Falls",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=597549"
+        },
+        {
+            "mal_id": 21,
+            "url": "https://myanimelist.net/anime/1108/Senkaiden_Houshin_Engi/episode/21",
+            "title": "Dakki is Houshined",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=597565"
+        },
+        {
+            "mal_id": 22,
+            "url": "https://myanimelist.net/anime/1108/Senkaiden_Houshin_Engi/episode/22",
+            "title": "Battle at Mount Kunlun",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 3,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=597961"
+        },
+        {
+            "mal_id": 23,
+            "url": "https://myanimelist.net/anime/1108/Senkaiden_Houshin_Engi/episode/23",
+            "title": "Taikoubou is Cornered in Gyokukyo Palace",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1274803"
+        },
+        {
+            "mal_id": 24,
+            "url": "https://myanimelist.net/anime/1108/Senkaiden_Houshin_Engi/episode/24",
+            "title": "Genshitenson Shows Taikoubou the Future",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=622103"
+        },
+        {
+            "mal_id": 25,
+            "url": "https://myanimelist.net/anime/1108/Senkaiden_Houshin_Engi/episode/25",
+            "title": "Taikoubou Lowers a Fishing Hook Into the River of Reminiscence",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=622111"
+        },
+        {
+            "mal_id": 26,
+            "url": "https://myanimelist.net/anime/1108/Senkaiden_Houshin_Engi/episode/26",
+            "title": "Taikoubou Shows the Way",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 3.25,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=622129"
+        }
+    ]
+}

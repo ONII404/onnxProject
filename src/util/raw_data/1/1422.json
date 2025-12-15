@@ -1,0 +1,216 @@
+{
+    "id": 1422,
+    "fetched_at": "Sun Dec 14 16:22:07 2025",
+    "metadata": {
+        "mal_id": 1422,
+        "url": "https://myanimelist.net/anime/1422/Lupin_III__1_Money_Wars",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1555/134189.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1555/134189t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1555/134189l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1555/134189.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1555/134189t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1555/134189l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Lupin III: $1 Money Wars"
+            },
+            {
+                "type": "Synonym",
+                "title": "Rupan Sansei"
+            },
+            {
+                "type": "Synonym",
+                "title": "Lupin III: $1 Money Wars"
+            },
+            {
+                "type": "Japanese",
+                "title": "ルパン三世 1$マネーウォーズ"
+            },
+            {
+                "type": "English",
+                "title": "Lupin III: Missed by a Dollar"
+            }
+        ],
+        "title": "Lupin III: $1 Money Wars",
+        "title_english": "Lupin III: Missed by a Dollar",
+        "title_japanese": "ルパン三世 1$マネーウォーズ",
+        "title_synonyms": [
+            "Rupan Sansei",
+            "Lupin III: $1 Money Wars"
+        ],
+        "type": "TV Special",
+        "source": "Manga",
+        "episodes": 1,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "2000-07-28T00:00:00+00:00",
+            "to": null,
+            "prop": {
+                "from": {
+                    "day": 28,
+                    "month": 7,
+                    "year": 2000
+                },
+                "to": {
+                    "day": null,
+                    "month": null,
+                    "year": null
+                }
+            },
+            "string": "Jul 28, 2000"
+        },
+        "duration": "1 hr 31 min",
+        "rating": "PG-13 - Teens 13 or older",
+        "score": 7.1,
+        "scored_by": 3632,
+        "rank": 4076,
+        "popularity": 7562,
+        "members": 8477,
+        "favorites": 3,
+        "synopsis": "Lupin &amp; co. compete with a greedy bank president and her goons to solve the mystery leading to a broach, a treasure said to be behind the success of history's most powerful rulers. \n\n(Source: ANN)",
+        "background": "",
+        "season": null,
+        "year": null,
+        "broadcast": {
+            "day": null,
+            "time": null,
+            "timezone": null,
+            "string": null
+        },
+        "producers": [
+            {
+                "mal_id": 29,
+                "type": "anime",
+                "name": "VAP",
+                "url": "https://myanimelist.net/anime/producer/29/VAP"
+            },
+            {
+                "mal_id": 577,
+                "type": "anime",
+                "name": "Tohokushinsha Film Corporation",
+                "url": "https://myanimelist.net/anime/producer/577/Tohokushinsha_Film_Corporation"
+            }
+        ],
+        "licensors": [
+            {
+                "mal_id": 102,
+                "type": "anime",
+                "name": "Funimation",
+                "url": "https://myanimelist.net/anime/producer/102/Funimation"
+            },
+            {
+                "mal_id": 467,
+                "type": "anime",
+                "name": "Discotek Media",
+                "url": "https://myanimelist.net/anime/producer/467/Discotek_Media"
+            }
+        ],
+        "studios": [
+            {
+                "mal_id": 73,
+                "type": "anime",
+                "name": "TMS Entertainment",
+                "url": "https://myanimelist.net/anime/producer/73/TMS_Entertainment"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 1,
+                "type": "anime",
+                "name": "Action",
+                "url": "https://myanimelist.net/anime/genre/1/Action"
+            },
+            {
+                "mal_id": 2,
+                "type": "anime",
+                "name": "Adventure",
+                "url": "https://myanimelist.net/anime/genre/2/Adventure"
+            },
+            {
+                "mal_id": 4,
+                "type": "anime",
+                "name": "Comedy",
+                "url": "https://myanimelist.net/anime/genre/4/Comedy"
+            },
+            {
+                "mal_id": 7,
+                "type": "anime",
+                "name": "Mystery",
+                "url": "https://myanimelist.net/anime/genre/7/Mystery"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [
+            {
+                "mal_id": 50,
+                "type": "anime",
+                "name": "Adult Cast",
+                "url": "https://myanimelist.net/anime/genre/50/Adult_Cast"
+            }
+        ],
+        "demographics": [
+            {
+                "mal_id": 42,
+                "type": "anime",
+                "name": "Seinen",
+                "url": "https://myanimelist.net/anime/genre/42/Seinen"
+            }
+        ],
+        "relations": [
+            {
+                "relation": "Parent Story",
+                "entry": [
+                    {
+                        "mal_id": 1412,
+                        "type": "anime",
+                        "name": "Lupin III",
+                        "url": "https://myanimelist.net/anime/1412/Lupin_III"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [],
+            "endings": [
+                "\"Life's a Flame\" by Lileth"
+            ]
+        },
+        "external": [
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=2136"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=2089"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "http://en.wikipedia.org/wiki/List_of_Lupin_III_television_specials#ep12"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": []
+}

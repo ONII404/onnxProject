@@ -1,0 +1,232 @@
+{
+    "id": 3292,
+    "fetched_at": "Sun Dec 14 19:26:23 2025",
+    "metadata": {
+        "mal_id": 3292,
+        "url": "https://myanimelist.net/anime/3292/Potemayo_Specials",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/13/42859.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/13/42859t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/13/42859l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/13/42859.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/13/42859t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/13/42859l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Potemayo Specials"
+            },
+            {
+                "type": "Japanese",
+                "title": "ぽてまよ"
+            }
+        ],
+        "title": "Potemayo Specials",
+        "title_english": null,
+        "title_japanese": "ぽてまよ",
+        "title_synonyms": [],
+        "type": "Special",
+        "source": "4-koma manga",
+        "episodes": 6,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "2007-09-28T00:00:00+00:00",
+            "to": "2008-02-22T00:00:00+00:00",
+            "prop": {
+                "from": {
+                    "day": 28,
+                    "month": 9,
+                    "year": 2007
+                },
+                "to": {
+                    "day": 22,
+                    "month": 2,
+                    "year": 2008
+                }
+            },
+            "string": "Sep 28, 2007 to Feb 22, 2008"
+        },
+        "duration": "10 min per ep",
+        "rating": "PG-13 - Teens 13 or older",
+        "score": 7.31,
+        "scored_by": 2327,
+        "rank": 2911,
+        "popularity": 9542,
+        "members": 4669,
+        "favorites": 2,
+        "synopsis": "Potemayo DVD specials.",
+        "background": "",
+        "season": null,
+        "year": null,
+        "broadcast": {
+            "day": null,
+            "time": null,
+            "timezone": null,
+            "string": null
+        },
+        "producers": [],
+        "licensors": [],
+        "studios": [
+            {
+                "mal_id": 7,
+                "type": "anime",
+                "name": "J.C.Staff",
+                "url": "https://myanimelist.net/anime/producer/7/JCStaff"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 4,
+                "type": "anime",
+                "name": "Comedy",
+                "url": "https://myanimelist.net/anime/genre/4/Comedy"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [
+            {
+                "mal_id": 23,
+                "type": "anime",
+                "name": "School",
+                "url": "https://myanimelist.net/anime/genre/23/School"
+            }
+        ],
+        "demographics": [
+            {
+                "mal_id": 42,
+                "type": "anime",
+                "name": "Seinen",
+                "url": "https://myanimelist.net/anime/genre/42/Seinen"
+            }
+        ],
+        "relations": [
+            {
+                "relation": "Parent Story",
+                "entry": [
+                    {
+                        "mal_id": 2744,
+                        "type": "anime",
+                        "name": "Potemayo",
+                        "url": "https://myanimelist.net/anime/2744/Potemayo"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [
+                "\"Katamichi Catchball (片道きゃっちぼーる)\" by MOSAIC.WAV"
+            ],
+            "endings": [
+                "\"Utatane (うたたね)\" by Chata"
+            ]
+        },
+        "external": [
+            {
+                "name": "Official Site",
+                "url": "http://www.potemayo.com/"
+            },
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=4919"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "http://en.wikipedia.org/wiki/Potemayo#Anime"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": [
+        {
+            "mal_id": 1,
+            "url": null,
+            "title": "When She Was 2000% Bigger",
+            "title_japanese": "2000%増量中",
+            "title_romanji": "2000% Zouryou Chuu ",
+            "aired": "2007-09-28T00:00:00+00:00",
+            "score": 4.63,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=92314"
+        },
+        {
+            "mal_id": 2,
+            "url": null,
+            "title": "30% Gravity Increase",
+            "title_japanese": "重力三割増",
+            "title_romanji": "Juuryoku San Warimashi ",
+            "aired": "2007-10-26T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=92315"
+        },
+        {
+            "mal_id": 3,
+            "url": null,
+            "title": "Inuyama-san's Daily Life",
+            "title_japanese": "犬山さんの日常",
+            "title_romanji": "Inuyama-san no Nichijou ",
+            "aired": "2007-11-23T00:00:00+00:00",
+            "score": 5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=92436"
+        },
+        {
+            "mal_id": 4,
+            "url": null,
+            "title": "Shopping Part 2",
+            "title_japanese": "おかいもの2",
+            "title_romanji": "Okaimono 2 ",
+            "aired": "2007-12-21T00:00:00+00:00",
+            "score": 4.57,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=92484"
+        },
+        {
+            "mal_id": 5,
+            "url": null,
+            "title": "School Festival",
+            "title_japanese": "文化祭",
+            "title_romanji": "Bunkasai ",
+            "aired": "2008-01-25T00:00:00+00:00",
+            "score": 4.71,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=92680"
+        },
+        {
+            "mal_id": 6,
+            "url": null,
+            "title": "School Festival Part 2",
+            "title_japanese": "文化祭その2",
+            "title_romanji": "Bunkasai Sono 2 ",
+            "aired": "2008-02-22T00:00:00+00:00",
+            "score": 4.91,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=34218"
+        }
+    ]
+}

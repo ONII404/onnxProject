@@ -1,0 +1,726 @@
+{
+    "id": 1021,
+    "fetched_at": "Sun Dec 14 14:26:57 2025",
+    "metadata": {
+        "mal_id": 1021,
+        "url": "https://myanimelist.net/anime/1021/Kaikan_Phrase",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1625/114978.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1625/114978t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1625/114978l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1625/114978.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1625/114978t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1625/114978l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Kaikan Phrase"
+            },
+            {
+                "type": "Synonym",
+                "title": "Sensual Phrase"
+            },
+            {
+                "type": "Japanese",
+                "title": "快感 フレーズ"
+            }
+        ],
+        "title": "Kaikan Phrase",
+        "title_english": null,
+        "title_japanese": "快感 フレーズ",
+        "title_synonyms": [
+            "Sensual Phrase"
+        ],
+        "type": "TV",
+        "source": "Manga",
+        "episodes": 44,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "1999-04-20T00:00:00+00:00",
+            "to": "2000-03-26T00:00:00+00:00",
+            "prop": {
+                "from": {
+                    "day": 20,
+                    "month": 4,
+                    "year": 1999
+                },
+                "to": {
+                    "day": 26,
+                    "month": 3,
+                    "year": 2000
+                }
+            },
+            "string": "Apr 20, 1999 to Mar 26, 2000"
+        },
+        "duration": "24 min per ep",
+        "rating": "PG-13 - Teens 13 or older",
+        "score": 7.32,
+        "scored_by": 4453,
+        "rank": 2824,
+        "popularity": 5993,
+        "members": 14927,
+        "favorites": 109,
+        "synopsis": "After the break up of their old band, guitarist Yuki &amp; drummer Santa decide to form a new one. They recruit bass player Towa, young guitarist Atsuro, and after much persuasion, vocalist Sakuya. Together they form Lucifer and they struggle to make it in the music business, and also to stay together. As well, they have to deal with personal issues, such as parental objections, and watching their old bands succeed ahead of them. Sakuya is the most troubled band member, as he has to deal with his tragic past, and his relationship with teenaged lyricist Aine.",
+        "background": "",
+        "season": "spring",
+        "year": 1999,
+        "broadcast": {
+            "day": "Sundays",
+            "time": "00:20",
+            "timezone": "Asia/Tokyo",
+            "string": "Sundays at 00:20 (JST)"
+        },
+        "producers": [
+            {
+                "mal_id": 16,
+                "type": "anime",
+                "name": "TV Tokyo",
+                "url": "https://myanimelist.net/anime/producer/16/TV_Tokyo"
+            },
+            {
+                "mal_id": 3087,
+                "type": "anime",
+                "name": "Shogakukan Productions",
+                "url": "https://myanimelist.net/anime/producer/3087/Shogakukan_Productions"
+            }
+        ],
+        "licensors": [],
+        "studios": [
+            {
+                "mal_id": 101,
+                "type": "anime",
+                "name": "Studio Hibari",
+                "url": "https://myanimelist.net/anime/producer/101/Studio_Hibari"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 8,
+                "type": "anime",
+                "name": "Drama",
+                "url": "https://myanimelist.net/anime/genre/8/Drama"
+            },
+            {
+                "mal_id": 22,
+                "type": "anime",
+                "name": "Romance",
+                "url": "https://myanimelist.net/anime/genre/22/Romance"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [
+            {
+                "mal_id": 19,
+                "type": "anime",
+                "name": "Music",
+                "url": "https://myanimelist.net/anime/genre/19/Music"
+            },
+            {
+                "mal_id": 75,
+                "type": "anime",
+                "name": "Showbiz",
+                "url": "https://myanimelist.net/anime/genre/75/Showbiz"
+            }
+        ],
+        "demographics": [
+            {
+                "mal_id": 25,
+                "type": "anime",
+                "name": "Shoujo",
+                "url": "https://myanimelist.net/anime/genre/25/Shoujo"
+            }
+        ],
+        "relations": [
+            {
+                "relation": "Adaptation",
+                "entry": [
+                    {
+                        "mal_id": 678,
+                        "type": "manga",
+                        "name": "Kaikan♥Phrase",
+                        "url": "https://myanimelist.net/manga/678/Kaikan♥Phrase"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [
+                "1: \"サバイバル (Survival)\" by GLAY (eps 1-11)",
+                "2: \"堕天使BLUE (Datenshi Blue)\" by Λucifer (eps 12-22)",
+                "3: \"Cの微熱 (C no Binetsu)\" by Λucifer (eps 23-36)",
+                "4: \"TOKYO幻想[イリュージョン] (Tokyo Illusion)\" by Λucifer (eps 37-44)"
+            ],
+            "endings": [
+                "1: \"Everlasting\" by FEEL (eps 1-10)",
+                "2: \"蜃気楼 (Shinkirou)\" by FEEL (eps 11-22)",
+                "3: \"Overhead Run\" by Transtic Nerve (eps 23-34)",
+                "4: \"love around\" by e.mu (eps 35-43)",
+                "5: \"堕天使BLUE (Datenshi Blue)\" by Lucifer (eps 44)"
+            ]
+        },
+        "external": [
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=843"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=2029"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "http://en.wikipedia.org/wiki/Sensual_Phrase"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": [
+        {
+            "mal_id": 1,
+            "url": null,
+            "title": "Misty Blue",
+            "title_japanese": "ミスティ・ブルー",
+            "title_romanji": null,
+            "aired": "1999-04-20T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1883041"
+        },
+        {
+            "mal_id": 2,
+            "url": null,
+            "title": "Jam",
+            "title_japanese": "ジャム",
+            "title_romanji": null,
+            "aired": "1999-04-27T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 3,
+            "url": null,
+            "title": "Into The Wind",
+            "title_japanese": "イントゥ・ザ・ウィンド",
+            "title_romanji": null,
+            "aired": "1999-05-04T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 4,
+            "url": null,
+            "title": "Time Up",
+            "title_japanese": "タイムアップ",
+            "title_romanji": null,
+            "aired": "1999-05-11T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 5,
+            "url": null,
+            "title": "Day By Day",
+            "title_japanese": "デイ・バイ・デイ",
+            "title_romanji": null,
+            "aired": "1999-05-18T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 6,
+            "url": null,
+            "title": "Cradle",
+            "title_japanese": "クレイドル",
+            "title_romanji": null,
+            "aired": "1999-05-25T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 7,
+            "url": null,
+            "title": "Farewell Live",
+            "title_japanese": "フェアウェル・ライブ",
+            "title_romanji": null,
+            "aired": "1999-06-01T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 8,
+            "url": null,
+            "title": "The End",
+            "title_japanese": "ジ・エンド",
+            "title_romanji": null,
+            "aired": "1999-06-15T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 9,
+            "url": null,
+            "title": "On The Street",
+            "title_japanese": "オン ザ ストリート",
+            "title_romanji": null,
+            "aired": "1999-06-22T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 10,
+            "url": null,
+            "title": "One From The Heart",
+            "title_japanese": "ワン・フロム・ザ・ハート",
+            "title_romanji": null,
+            "aired": "1999-06-29T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 11,
+            "url": null,
+            "title": "Some Day",
+            "title_japanese": "サム・デイ",
+            "title_romanji": null,
+            "aired": "1999-07-13T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 12,
+            "url": null,
+            "title": "Step One",
+            "title_japanese": "ステップ・ワン",
+            "title_romanji": null,
+            "aired": "1999-07-20T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 13,
+            "url": null,
+            "title": "Rainy Express",
+            "title_japanese": "レイニー・エクスプレス",
+            "title_romanji": null,
+            "aired": "1999-07-27T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 14,
+            "url": null,
+            "title": "Grand Prix",
+            "title_japanese": "グラン・プリ",
+            "title_romanji": null,
+            "aired": "1999-08-03T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 15,
+            "url": null,
+            "title": "Magical Mystery Tour",
+            "title_japanese": "マジカル・ミステリー・ツアー",
+            "title_romanji": null,
+            "aired": "1999-08-10T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 16,
+            "url": null,
+            "title": "Rival",
+            "title_japanese": "ライバル",
+            "title_romanji": null,
+            "aired": "1999-08-17T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 17,
+            "url": null,
+            "title": "Osaka Rhapsody",
+            "title_japanese": "オオサカ・ラプソディー",
+            "title_romanji": null,
+            "aired": "1999-08-31T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 18,
+            "url": null,
+            "title": "Coming Home",
+            "title_japanese": "カミング・ホーム",
+            "title_romanji": null,
+            "aired": "1999-09-14T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 19,
+            "url": null,
+            "title": "Debut",
+            "title_japanese": "デビュー",
+            "title_romanji": null,
+            "aired": "1999-09-23T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 20,
+            "url": null,
+            "title": "History",
+            "title_japanese": "ヒストリー",
+            "title_romanji": null,
+            "aired": "1999-10-03T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": true,
+            "forum_url": null
+        },
+        {
+            "mal_id": 21,
+            "url": null,
+            "title": "Hit Charts",
+            "title_japanese": "ヒットチャート",
+            "title_romanji": null,
+            "aired": "1999-10-10T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 22,
+            "url": null,
+            "title": "Song Writer",
+            "title_japanese": "ソング・ライター",
+            "title_romanji": null,
+            "aired": "1999-10-17T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 23,
+            "url": null,
+            "title": "Yesterday",
+            "title_japanese": "イェスタデイ",
+            "title_romanji": null,
+            "aired": "1999-10-24T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 24,
+            "url": null,
+            "title": "Long Goodbye",
+            "title_japanese": "ロング・グッドバイ",
+            "title_romanji": null,
+            "aired": "1999-10-31T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 25,
+            "url": null,
+            "title": "Junior",
+            "title_japanese": "ジュニア",
+            "title_romanji": null,
+            "aired": "1999-11-07T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 26,
+            "url": null,
+            "title": "Knock Out",
+            "title_japanese": "ノック・アウト",
+            "title_romanji": null,
+            "aired": "1999-11-14T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 27,
+            "url": null,
+            "title": "Sympathy",
+            "title_japanese": "シンパシー",
+            "title_romanji": null,
+            "aired": "1999-11-21T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 28,
+            "url": null,
+            "title": "Scandal",
+            "title_japanese": "スキャンダル",
+            "title_romanji": null,
+            "aired": "1999-11-28T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 29,
+            "url": null,
+            "title": "Destiny",
+            "title_japanese": "ディスティニー",
+            "title_romanji": null,
+            "aired": "1999-12-05T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 30,
+            "url": null,
+            "title": "Unplugged",
+            "title_japanese": "アンプラグド",
+            "title_romanji": null,
+            "aired": "1999-12-12T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 31,
+            "url": null,
+            "title": "Reborn",
+            "title_japanese": "リ・ボーン",
+            "title_romanji": null,
+            "aired": "1999-12-19T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 32,
+            "url": null,
+            "title": "Loser",
+            "title_japanese": "ルーザー",
+            "title_romanji": null,
+            "aired": "1999-12-26T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 33,
+            "url": null,
+            "title": "After Days",
+            "title_japanese": "アフター・デイズ",
+            "title_romanji": null,
+            "aired": "2000-01-09T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 34,
+            "url": null,
+            "title": "Actress",
+            "title_japanese": "アクトレス",
+            "title_romanji": null,
+            "aired": "2000-01-16T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 35,
+            "url": null,
+            "title": "Femme Fatale",
+            "title_japanese": "ファムファタール",
+            "title_romanji": null,
+            "aired": "2000-01-23T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 36,
+            "url": null,
+            "title": "Final Act",
+            "title_japanese": "ファイナルアクト",
+            "title_romanji": null,
+            "aired": "2000-01-30T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 37,
+            "url": null,
+            "title": "Top Runners",
+            "title_japanese": "トップランナー",
+            "title_romanji": null,
+            "aired": "2000-02-06T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 38,
+            "url": null,
+            "title": "Mistake",
+            "title_japanese": "ミステイク",
+            "title_romanji": null,
+            "aired": "2000-02-13T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 39,
+            "url": null,
+            "title": "Painful Choice",
+            "title_japanese": "インフル・チョイス",
+            "title_romanji": null,
+            "aired": "2000-02-20T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 40,
+            "url": null,
+            "title": "Emotion",
+            "title_japanese": "モーション",
+            "title_romanji": null,
+            "aired": "2000-02-27T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 41,
+            "url": null,
+            "title": "Never Die",
+            "title_japanese": "ネバー・ダイ",
+            "title_romanji": null,
+            "aired": "2000-03-05T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 42,
+            "url": null,
+            "title": "Separate Eve",
+            "title_japanese": "セパレート・イブ",
+            "title_romanji": null,
+            "aired": "2000-03-12T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 43,
+            "url": null,
+            "title": "Love Melody",
+            "title_japanese": "ラブメロディー",
+            "title_romanji": null,
+            "aired": "2000-03-19T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 44,
+            "url": null,
+            "title": "Fly Away",
+            "title_japanese": "フライ・アウェイ",
+            "title_romanji": null,
+            "aired": "2000-03-26T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        }
+    ]
+}

@@ -1,0 +1,794 @@
+{
+    "id": 3313,
+    "fetched_at": "Sun Dec 14 19:27:53 2025",
+    "metadata": {
+        "mal_id": 3313,
+        "url": "https://myanimelist.net/anime/3313/Montana_Jones",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/13/5303.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/13/5303t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/13/5303l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/13/5303.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/13/5303t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/13/5303l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Montana Jones"
+            },
+            {
+                "type": "Japanese",
+                "title": "モンタナ・ジョーンズ"
+            }
+        ],
+        "title": "Montana Jones",
+        "title_english": null,
+        "title_japanese": "モンタナ・ジョーンズ",
+        "title_synonyms": [],
+        "type": "TV",
+        "source": "Original",
+        "episodes": 52,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "1994-04-02T00:00:00+00:00",
+            "to": "1995-04-08T00:00:00+00:00",
+            "prop": {
+                "from": {
+                    "day": 2,
+                    "month": 4,
+                    "year": 1994
+                },
+                "to": {
+                    "day": 8,
+                    "month": 4,
+                    "year": 1995
+                }
+            },
+            "string": "Apr 2, 1994 to Apr 8, 1995"
+        },
+        "duration": "23 min per ep",
+        "rating": "G - All Ages",
+        "score": 6.86,
+        "scored_by": 733,
+        "rank": 5229,
+        "popularity": 11954,
+        "members": 2290,
+        "favorites": 5,
+        "synopsis": "Boston, 1930: Montana Jones and his cousin professor Alfred Jones travel around the world to search lost treasures in order to bring them to museums. Alfred's mentor professor Gerrit helps them by sending LPs with information. On one trip they meet Melissa, a wealthy reporter, who speaks nearly all languages. She accompanies the two on their trips. Their opponent is Lord Zero, a rich, bizarre art lover and master thief. Lord Zero has two henchmen: Slim and Slam. There is also the inventor Dr. Nitro, who invents strange engines, which to help finding treasures.\n\n(Source: Wikipedia)",
+        "background": "",
+        "season": "spring",
+        "year": 1994,
+        "broadcast": {
+            "day": "Saturdays",
+            "time": "18:10",
+            "timezone": "Asia/Tokyo",
+            "string": "Saturdays at 18:10 (JST)"
+        },
+        "producers": [
+            {
+                "mal_id": 111,
+                "type": "anime",
+                "name": "NHK",
+                "url": "https://myanimelist.net/anime/producer/111/NHK"
+            },
+            {
+                "mal_id": 1797,
+                "type": "anime",
+                "name": "NHK Enterprises",
+                "url": "https://myanimelist.net/anime/producer/1797/NHK_Enterprises"
+            }
+        ],
+        "licensors": [],
+        "studios": [
+            {
+                "mal_id": 280,
+                "type": "anime",
+                "name": "Studio Junio",
+                "url": "https://myanimelist.net/anime/producer/280/Studio_Junio"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 2,
+                "type": "anime",
+                "name": "Adventure",
+                "url": "https://myanimelist.net/anime/genre/2/Adventure"
+            },
+            {
+                "mal_id": 4,
+                "type": "anime",
+                "name": "Comedy",
+                "url": "https://myanimelist.net/anime/genre/4/Comedy"
+            },
+            {
+                "mal_id": 7,
+                "type": "anime",
+                "name": "Mystery",
+                "url": "https://myanimelist.net/anime/genre/7/Mystery"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [
+            {
+                "mal_id": 13,
+                "type": "anime",
+                "name": "Historical",
+                "url": "https://myanimelist.net/anime/genre/13/Historical"
+            }
+        ],
+        "demographics": [],
+        "relations": [],
+        "theme": {
+            "openings": [
+                "\"Boukensha-tachi (冒険者たち)\" by The Alfee"
+            ],
+            "endings": [
+                "\"El Dorado (エルドラド)\" by The Alfee"
+            ]
+        },
+        "external": [
+            {
+                "name": "Official Site",
+                "url": "http://www3.nhk.or.jp/anime/montana/caracter/cara.html"
+            },
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=3555"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=1233"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "http://en.wikipedia.org/wiki/Montana_Jones"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": [
+        {
+            "mal_id": 1,
+            "url": null,
+            "title": "The secret of the goldmedal",
+            "title_japanese": "翼よあれがマヤの灯だ",
+            "title_romanji": null,
+            "aired": "1994-04-02T00:00:00+00:00",
+            "score": 3,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2115548"
+        },
+        {
+            "mal_id": 2,
+            "url": null,
+            "title": "The giant squid",
+            "title_japanese": "海底2万センチ カリブの謎",
+            "title_romanji": null,
+            "aired": "1994-04-09T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 3,
+            "url": null,
+            "title": "Treasure hunting in Istanbul",
+            "title_japanese": "イスタンブールより愛をこめて",
+            "title_romanji": "Istanbul Yori Ai wo Komete ",
+            "aired": "1994-04-16T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 4,
+            "url": null,
+            "title": "The discovery of the jewel bible",
+            "title_japanese": "誰がためにプラハの鐘はなる",
+            "title_romanji": null,
+            "aired": "1994-04-23T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 5,
+            "url": null,
+            "title": "The silk-carpet of the Taj Mahal",
+            "title_japanese": "タージマハルの秘かな愉しみ",
+            "title_romanji": null,
+            "aired": "1994-04-30T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 6,
+            "url": null,
+            "title": "The horrible snowman",
+            "title_japanese": "雪男はチベットがお好き",
+            "title_romanji": null,
+            "aired": "1994-05-07T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 7,
+            "url": null,
+            "title": "The tomb from the Pharao",
+            "title_japanese": "ピラミッドの鍵貸します",
+            "title_romanji": null,
+            "aired": "1994-05-14T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 8,
+            "url": null,
+            "title": "King Arthur's knife",
+            "title_japanese": "突然アーサー王のごとく",
+            "title_romanji": null,
+            "aired": "1994-05-21T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 9,
+            "url": null,
+            "title": "The secret code of the Inkas",
+            "title_japanese": "コンドルは舞いおりた・インカの秘宝",
+            "title_romanji": null,
+            "aired": "1994-05-28T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 10,
+            "url": null,
+            "title": "Criminals in Chinatown",
+            "title_japanese": "チャイナタウンに手を出すな",
+            "title_romanji": null,
+            "aired": "1994-06-04T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 11,
+            "url": null,
+            "title": "Adventuring with the Vikings",
+            "title_japanese": "バイキングはわかってくれない",
+            "title_romanji": "Viking wa Wakatte Kurenai ",
+            "aired": "1994-06-11T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 12,
+            "url": null,
+            "title": "The treasure in the desert",
+            "title_japanese": "燃えよバビロン!",
+            "title_romanji": "Moeyo Babylon! ",
+            "aired": "1994-06-18T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 13,
+            "url": null,
+            "title": "The secrets of the dried fountain",
+            "title_japanese": "アルハンブラのある夜の出来事",
+            "title_romanji": "Alhambra no Aru Yoru no Dekigoto ",
+            "aired": "1994-06-25T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 14,
+            "url": null,
+            "title": "A secret entrance in the castle",
+            "title_japanese": "アンコールワットは危険な香り",
+            "title_romanji": null,
+            "aired": "1994-07-02T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 15,
+            "url": null,
+            "title": "The subterranean waterfalls",
+            "title_japanese": "ナイト)・イン・パリ",
+            "title_romanji": "(ラスト騎士",
+            "aired": "1994-07-09T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 16,
+            "url": null,
+            "title": "Kidnapped to castle Mauleon",
+            "title_japanese": "アポロン神殿・デルフィで昼食を",
+            "title_romanji": null,
+            "aired": "1994-07-16T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 17,
+            "url": null,
+            "title": "A muddy fight for the future",
+            "title_japanese": "白鳥城からの脱出",
+            "title_romanji": "Hakuchou Jou kara no Dasshutsu ",
+            "aired": "1994-07-23T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 18,
+            "url": null,
+            "title": "The golden dragon from Hong Kong",
+            "title_japanese": "香港で激突!皇帝の指令を探せ",
+            "title_romanji": "Hong Kong de Gekitotsu! Koutei no Shirei wo Sagase ",
+            "aired": "1994-07-30T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 19,
+            "url": null,
+            "title": "The hidden flymachine",
+            "title_japanese": "ミラノ大捜査線",
+            "title_romanji": "Milan Dai Sousasen ",
+            "aired": "1994-08-06T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 20,
+            "url": null,
+            "title": "The clock from Ivan the Terrible",
+            "title_japanese": "寒い国から来た招待",
+            "title_romanji": "Samui Kuni kara Kita Shoutai ",
+            "aired": "1994-08-13T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 21,
+            "url": null,
+            "title": "Chased in the goldmine",
+            "title_japanese": "王様と私・ジンバブエの黄金",
+            "title_romanji": null,
+            "aired": "1994-08-20T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 22,
+            "url": null,
+            "title": "The rescueing boomerang",
+            "title_japanese": "赤い砂漠の大冒険",
+            "title_romanji": "Akai Sabaku no Daibouken ",
+            "aired": "1994-08-27T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 23,
+            "url": null,
+            "title": "Attack of the sharks",
+            "title_japanese": "モンテカルロに進路をとれ",
+            "title_romanji": "Monte Carlo ni Shinro wo Tore ",
+            "aired": "1994-09-03T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 24,
+            "url": null,
+            "title": "The flood's coming!",
+            "title_japanese": "シルクロード大攻防戦",
+            "title_romanji": null,
+            "aired": "1994-09-10T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 25,
+            "url": null,
+            "title": "Emergency! Landing on Easter Island",
+            "title_japanese": "緊急指令!イースター島異常あり",
+            "title_romanji": null,
+            "aired": "1994-09-17T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 26,
+            "url": null,
+            "title": "The sunken goldbell.",
+            "title_japanese": "王様は二つの鐘を鳴らす",
+            "title_romanji": null,
+            "aired": "1994-09-24T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 27,
+            "url": null,
+            "title": "The attack of the bandits in Mongolia",
+            "title_japanese": "モンゴル高原・荒野の三人",
+            "title_romanji": "Mongol Kougen: Kouya no Sannin ",
+            "aired": "1994-10-01T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 28,
+            "url": null,
+            "title": "The haunted house in Sctoland",
+            "title_japanese": "古城の恋のメロディ",
+            "title_romanji": "Kojou no Koi no Melody ",
+            "aired": "1994-10-08T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 29,
+            "url": null,
+            "title": "Searching through the labyrint of King Minos",
+            "title_japanese": "クレタ島・迷宮にご用心",
+            "title_romanji": "Kreta Tou: Meikyuu ni Goyoujin ",
+            "aired": "1994-10-15T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 30,
+            "url": null,
+            "title": "The Colombian jungle",
+            "title_japanese": "エルドラドの冒険者たち",
+            "title_romanji": "Eldorado no Boukensha-tachi ",
+            "aired": "1994-10-22T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 31,
+            "url": null,
+            "title": "Saved by the crocodiles",
+            "title_japanese": "ナイル強奪事件・神殿の秘密",
+            "title_romanji": "Nile Goudatsu Jiken: Shinden no Himitsu ",
+            "aired": "1994-10-29T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 32,
+            "url": null,
+            "title": "The treasure of the caliph",
+            "title_japanese": "アラビアンナイト・カリフの熱い夜",
+            "title_romanji": null,
+            "aired": "1994-11-05T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 33,
+            "url": null,
+            "title": "The secret pirateship",
+            "title_japanese": "海賊に明日はない",
+            "title_romanji": "Kaizoku ni Ashita wa Nai ",
+            "aired": "1994-11-12T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 34,
+            "url": null,
+            "title": "Emergency! Landing on treasure island",
+            "title_japanese": "ドラキュラ城のトリコ",
+            "title_romanji": "Dracula Jou no Toriko ",
+            "aired": "1994-11-19T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 35,
+            "url": null,
+            "title": "Adventure in China",
+            "title_japanese": "SOSケティ号・忘れられた孤島",
+            "title_romanji": null,
+            "aired": "1994-11-26T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 36,
+            "url": null,
+            "title": "Straight through Austria",
+            "title_japanese": "とわ)に・始皇帝の遺産",
+            "title_romanji": "Chika Yori Eien ni: Shikoutei no Isan (地下より永遠",
+            "aired": "1994-12-03T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 37,
+            "url": null,
+            "title": "The crown of the tsar",
+            "title_japanese": "モーツァルトにラブソングを",
+            "title_romanji": null,
+            "aired": "1994-12-10T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 38,
+            "url": null,
+            "title": "Marie Antoinette's Collier",
+            "title_japanese": "バイカルは燃えているか",
+            "title_romanji": "Baikal wa Moete Iru ka ",
+            "aired": "1994-12-17T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 39,
+            "url": null,
+            "title": "Lemuria: The hidden land",
+            "title_japanese": "風車とダイヤモンド",
+            "title_romanji": "Kazaguruma to Diamond ",
+            "aired": "1994-12-24T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 40,
+            "url": null,
+            "title": "The secret of the Mont St. Michèl",
+            "title_japanese": "失われたレムリアを求めて",
+            "title_romanji": "Ushinawareta Lemuria wo Motomete ",
+            "aired": "1994-12-31T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 41,
+            "url": null,
+            "title": "The stone dragon",
+            "title_japanese": "お宝は天使の匂い",
+            "title_romanji": "Otakara wa Tenshi no Nioi ",
+            "aired": "1995-01-07T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 42,
+            "url": null,
+            "title": "The Artemis Temple",
+            "title_japanese": "小さな目撃者・ラインの黄金",
+            "title_romanji": "Chiisana Mokugekisha: Line no Ougon ",
+            "aired": "1995-01-14T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 43,
+            "url": null,
+            "title": "Get to the Chaco-Canyon",
+            "title_japanese": "女神の金庫は危険がいっぱい",
+            "title_romanji": "Megami no Kinko wa Kiken ga Ippai ",
+            "aired": "1995-01-21T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 44,
+            "url": null,
+            "title": "Travel through Transsylvania",
+            "title_japanese": "クリフパレスの禁じられた遊び",
+            "title_romanji": "Cliff Palace no Kinjirareta Asobi ",
+            "aired": "1995-01-28T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 45,
+            "url": null,
+            "title": "Locked in Toscana",
+            "title_japanese": "エトルリアの黒い罠",
+            "title_romanji": "Etruria no Kuroi Wana ",
+            "aired": "1995-02-04T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 46,
+            "url": null,
+            "title": "Ormeca",
+            "title_japanese": "アルフレッド怒りの脱出",
+            "title_romanji": "Alfred Ikari no Dasshutsu ",
+            "aired": "1995-02-11T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 47,
+            "url": null,
+            "title": "Marco Polo's heir",
+            "title_japanese": "マルコ・ポーロ、ベニスに消ゆ",
+            "title_romanji": null,
+            "aired": "1995-02-18T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 48,
+            "url": null,
+            "title": "Deseperatly lost in the desert",
+            "title_japanese": "サハラの熱い日",
+            "title_romanji": "Sahara no Atsui Hi ",
+            "aired": "1995-02-25T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 49,
+            "url": null,
+            "title": "The baker and the knight room",
+            "title_japanese": "スイスの危険なめぐりあい",
+            "title_romanji": "Suisu no Kiken na Meguriai ",
+            "aired": "1995-03-18T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 50,
+            "url": null,
+            "title": "Keanu, daughter of the chief",
+            "title_japanese": "日本へ!嘆きの戦士・義経の財宝",
+            "title_romanji": "Nippon e! Nageki no Senshi. Yoshitsune no Zaihou ",
+            "aired": "1994-03-25T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 51,
+            "url": null,
+            "title": "The monk and the samurai",
+            "title_japanese": "ミシシッピの大いなる遺産",
+            "title_romanji": null,
+            "aired": "1995-04-01T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 52,
+            "url": null,
+            "title": "Lost in Africa",
+            "title_japanese": "さらばサバンナの陽",
+            "title_romanji": "Saraba Savanna no Hi ",
+            "aired": "1995-04-08T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        }
+    ]
+}

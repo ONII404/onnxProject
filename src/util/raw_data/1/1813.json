@@ -1,0 +1,266 @@
+{
+    "id": 1813,
+    "fetched_at": "Sun Dec 14 16:54:46 2025",
+    "metadata": {
+        "mal_id": 1813,
+        "url": "https://myanimelist.net/anime/1813/Genshiken_OVA",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/2/21672.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/2/21672t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/2/21672l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/2/21672.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/2/21672t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/2/21672l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Genshiken OVA"
+            },
+            {
+                "type": "Synonym",
+                "title": "The Society for the Study of Modern Visual Culture OVA"
+            },
+            {
+                "type": "Japanese",
+                "title": "げんしけん OVA"
+            }
+        ],
+        "title": "Genshiken OVA",
+        "title_english": null,
+        "title_japanese": "げんしけん OVA",
+        "title_synonyms": [
+            "The Society for the Study of Modern Visual Culture OVA"
+        ],
+        "type": "OVA",
+        "source": "Manga",
+        "episodes": 3,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "2006-12-22T00:00:00+00:00",
+            "to": "2007-04-25T00:00:00+00:00",
+            "prop": {
+                "from": {
+                    "day": 22,
+                    "month": 12,
+                    "year": 2006
+                },
+                "to": {
+                    "day": 25,
+                    "month": 4,
+                    "year": 2007
+                }
+            },
+            "string": "Dec 22, 2006 to Apr 25, 2007"
+        },
+        "duration": "23 min per ep",
+        "rating": "PG-13 - Teens 13 or older",
+        "score": 7.61,
+        "scored_by": 31161,
+        "rank": 1623,
+        "popularity": 3369,
+        "members": 53404,
+        "favorites": 28,
+        "synopsis": "It's the start of a new year for the Genshiken crew, and that means recruiting new members. Always a dreaded task, The Society for the Study of Modern Visual Culture manages to get Chika Ogiue pushed onto them from the Manga Club. With her introduction of \"I'm Ogiue and I hate otaku,\" this year certainly will be anything but boring.\n\n(Source: ANN)",
+        "background": "",
+        "season": null,
+        "year": null,
+        "broadcast": {
+            "day": null,
+            "time": null,
+            "timezone": null,
+            "string": null
+        },
+        "producers": [
+            {
+                "mal_id": 79,
+                "type": "anime",
+                "name": "Genco",
+                "url": "https://myanimelist.net/anime/producer/79/Genco"
+            },
+            {
+                "mal_id": 104,
+                "type": "anime",
+                "name": "Lantis",
+                "url": "https://myanimelist.net/anime/producer/104/Lantis"
+            },
+            {
+                "mal_id": 108,
+                "type": "anime",
+                "name": "Media Factory",
+                "url": "https://myanimelist.net/anime/producer/108/Media_Factory"
+            }
+        ],
+        "licensors": [
+            {
+                "mal_id": 250,
+                "type": "anime",
+                "name": "Media Blasters",
+                "url": "https://myanimelist.net/anime/producer/250/Media_Blasters"
+            }
+        ],
+        "studios": [
+            {
+                "mal_id": 30,
+                "type": "anime",
+                "name": "Ajia-do",
+                "url": "https://myanimelist.net/anime/producer/30/Ajia-do"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 4,
+                "type": "anime",
+                "name": "Comedy",
+                "url": "https://myanimelist.net/anime/genre/4/Comedy"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [
+            {
+                "mal_id": 50,
+                "type": "anime",
+                "name": "Adult Cast",
+                "url": "https://myanimelist.net/anime/genre/50/Adult_Cast"
+            },
+            {
+                "mal_id": 69,
+                "type": "anime",
+                "name": "Otaku Culture",
+                "url": "https://myanimelist.net/anime/genre/69/Otaku_Culture"
+            },
+            {
+                "mal_id": 20,
+                "type": "anime",
+                "name": "Parody",
+                "url": "https://myanimelist.net/anime/genre/20/Parody"
+            }
+        ],
+        "demographics": [
+            {
+                "mal_id": 42,
+                "type": "anime",
+                "name": "Seinen",
+                "url": "https://myanimelist.net/anime/genre/42/Seinen"
+            }
+        ],
+        "relations": [
+            {
+                "relation": "Prequel",
+                "entry": [
+                    {
+                        "mal_id": 240,
+                        "type": "anime",
+                        "name": "Genshiken",
+                        "url": "https://myanimelist.net/anime/240/Genshiken"
+                    }
+                ]
+            },
+            {
+                "relation": "Sequel",
+                "entry": [
+                    {
+                        "mal_id": 2508,
+                        "type": "anime",
+                        "name": "Genshiken 2",
+                        "url": "https://myanimelist.net/anime/2508/Genshiken_2"
+                    }
+                ]
+            },
+            {
+                "relation": "Adaptation",
+                "entry": [
+                    {
+                        "mal_id": 348,
+                        "type": "manga",
+                        "name": "Genshiken",
+                        "url": "https://myanimelist.net/manga/348/Genshiken"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [
+                "\"Seishun to shite (青春として)\" by manzo"
+            ],
+            "endings": [
+                "\"Biidama (びいだま)\" by Saori Atsumi"
+            ]
+        },
+        "external": [
+            {
+                "name": "Official Site",
+                "url": "http://www.genshiken.info/"
+            },
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=4782"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=6909"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "http://en.wikipedia.org/wiki/Genshiken"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": [
+        {
+            "mal_id": 1,
+            "url": null,
+            "title": "I'm Ogiue, and I Hate Otaku",
+            "title_japanese": "オタクが嫌いな荻上です",
+            "title_romanji": "Otaku ga Kirai na Ogiue desu ",
+            "aired": "2006-12-22T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=269"
+        },
+        {
+            "mal_id": 2,
+            "url": null,
+            "title": "I'm from Planet Otaku",
+            "title_japanese": "私はオタク星人",
+            "title_romanji": "Watashi wa Otaku-seijin ",
+            "aired": "2007-02-23T00:00:00+00:00",
+            "score": 4.57,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=7196"
+        },
+        {
+            "mal_id": 3,
+            "url": null,
+            "title": "Then I'll Undress You!",
+            "title_japanese": "じゃあ, 脱がしてあげるッ!",
+            "title_romanji": "Jaa, Nugashite Ageru! ",
+            "aired": "2007-04-25T00:00:00+00:00",
+            "score": 4.42,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2083"
+        }
+    ]
+}

@@ -1,0 +1,226 @@
+{
+    "id": 1959,
+    "fetched_at": "Sun Dec 14 18:00:54 2025",
+    "metadata": {
+        "mal_id": 1959,
+        "url": "https://myanimelist.net/anime/1959/Wild_7",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1164/134100.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1164/134100t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1164/134100l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1164/134100.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1164/134100t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1164/134100l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Wild 7"
+            },
+            {
+                "type": "Synonym",
+                "title": "Wild 7: Biker Knights"
+            },
+            {
+                "type": "Japanese",
+                "title": "ワイルド７"
+            }
+        ],
+        "title": "Wild 7",
+        "title_english": null,
+        "title_japanese": "ワイルド７",
+        "title_synonyms": [
+            "Wild 7: Biker Knights"
+        ],
+        "type": "OVA",
+        "source": "Manga",
+        "episodes": 2,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "1994-12-17T00:00:00+00:00",
+            "to": "1995-02-21T00:00:00+00:00",
+            "prop": {
+                "from": {
+                    "day": 17,
+                    "month": 12,
+                    "year": 1994
+                },
+                "to": {
+                    "day": 21,
+                    "month": 2,
+                    "year": 1995
+                }
+            },
+            "string": "Dec 17, 1994 to Feb 21, 1995"
+        },
+        "duration": "55 min per ep",
+        "rating": "R - 17+ (violence & profanity)",
+        "score": 6.21,
+        "scored_by": 1168,
+        "rank": 9103,
+        "popularity": 10288,
+        "members": 3691,
+        "favorites": 1,
+        "synopsis": "An elite police crime fighting team is formed using convicted criminals. Using their first hand knowledge of the criminal mindset, the Wild 7 are first sent after a gang of Bank robbers. Then in Wild Biker Knights they are sent after a huge crime syndicate that has many high powered government officials in its deep pockets.\n\n(Source: ANN)",
+        "background": "",
+        "season": null,
+        "year": null,
+        "broadcast": {
+            "day": null,
+            "time": null,
+            "timezone": null,
+            "string": null
+        },
+        "producers": [
+            {
+                "mal_id": 169,
+                "type": "anime",
+                "name": "Fuji TV",
+                "url": "https://myanimelist.net/anime/producer/169/Fuji_TV"
+            },
+            {
+                "mal_id": 382,
+                "type": "anime",
+                "name": "Tokuma Shoten",
+                "url": "https://myanimelist.net/anime/producer/382/Tokuma_Shoten"
+            }
+        ],
+        "licensors": [
+            {
+                "mal_id": 311,
+                "type": "anime",
+                "name": "Enoki Films",
+                "url": "https://myanimelist.net/anime/producer/311/Enoki_Films"
+            },
+            {
+                "mal_id": 1447,
+                "type": "anime",
+                "name": "Urban Vision",
+                "url": "https://myanimelist.net/anime/producer/1447/Urban_Vision"
+            }
+        ],
+        "studios": [
+            {
+                "mal_id": 155,
+                "type": "anime",
+                "name": "animate Film",
+                "url": "https://myanimelist.net/anime/producer/155/animate_Film"
+            },
+            {
+                "mal_id": 256,
+                "type": "anime",
+                "name": "Studio Kikan",
+                "url": "https://myanimelist.net/anime/producer/256/Studio_Kikan"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 1,
+                "type": "anime",
+                "name": "Action",
+                "url": "https://myanimelist.net/anime/genre/1/Action"
+            },
+            {
+                "mal_id": 8,
+                "type": "anime",
+                "name": "Drama",
+                "url": "https://myanimelist.net/anime/genre/8/Drama"
+            },
+            {
+                "mal_id": 7,
+                "type": "anime",
+                "name": "Mystery",
+                "url": "https://myanimelist.net/anime/genre/7/Mystery"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [
+            {
+                "mal_id": 39,
+                "type": "anime",
+                "name": "Detective",
+                "url": "https://myanimelist.net/anime/genre/39/Detective"
+            },
+            {
+                "mal_id": 58,
+                "type": "anime",
+                "name": "Gore",
+                "url": "https://myanimelist.net/anime/genre/58/Gore"
+            }
+        ],
+        "demographics": [
+            {
+                "mal_id": 27,
+                "type": "anime",
+                "name": "Shounen",
+                "url": "https://myanimelist.net/anime/genre/27/Shounen"
+            }
+        ],
+        "relations": [
+            {
+                "relation": "Sequel",
+                "entry": [
+                    {
+                        "mal_id": 1745,
+                        "type": "anime",
+                        "name": "Wild 7 Another Bouryaku Unga",
+                        "url": "https://myanimelist.net/anime/1745/Wild_7_Another_Bouryaku_Unga"
+                    }
+                ]
+            },
+            {
+                "relation": "Adaptation",
+                "entry": [
+                    {
+                        "mal_id": 3752,
+                        "type": "manga",
+                        "name": "Wild 7",
+                        "url": "https://myanimelist.net/manga/3752/Wild_7"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [
+                "\"Wild\" by Kahoru Kohiruimaki"
+            ],
+            "endings": [
+                "\"Wild\" by Kahoru Kohiruimaki"
+            ]
+        },
+        "external": [
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=4098"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=3011"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Wild_7#Anime"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": []
+}

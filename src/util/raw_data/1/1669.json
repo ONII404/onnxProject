@@ -1,0 +1,856 @@
+{
+    "id": 1669,
+    "fetched_at": "Sun Dec 14 16:41:24 2025",
+    "metadata": {
+        "mal_id": 1669,
+        "url": "https://myanimelist.net/anime/1669/Bakuten_Shoot_Beyblade_2002",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1230/118855.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1230/118855t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1230/118855l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1230/118855.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1230/118855t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1230/118855l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Bakuten Shoot Beyblade 2002"
+            },
+            {
+                "type": "Synonym",
+                "title": "Beyblade 2002"
+            },
+            {
+                "type": "Japanese",
+                "title": "爆転シュート　ベイブレード2002"
+            },
+            {
+                "type": "English",
+                "title": "Beyblade V-Force"
+            },
+            {
+                "type": "Spanish",
+                "title": "Beyblade Vforce"
+            }
+        ],
+        "title": "Bakuten Shoot Beyblade 2002",
+        "title_english": "Beyblade V-Force",
+        "title_japanese": "爆転シュート　ベイブレード2002",
+        "title_synonyms": [
+            "Beyblade 2002"
+        ],
+        "type": "TV",
+        "source": "Manga",
+        "episodes": 51,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "2002-01-07T00:00:00+00:00",
+            "to": "2002-12-30T00:00:00+00:00",
+            "prop": {
+                "from": {
+                    "day": 7,
+                    "month": 1,
+                    "year": 2002
+                },
+                "to": {
+                    "day": 30,
+                    "month": 12,
+                    "year": 2002
+                }
+            },
+            "string": "Jan 7, 2002 to Dec 30, 2002"
+        },
+        "duration": "23 min per ep",
+        "rating": "PG - Children",
+        "score": 6.74,
+        "scored_by": 45196,
+        "rank": 5849,
+        "popularity": 2844,
+        "members": 72663,
+        "favorites": 125,
+        "synopsis": "The Bladebreakers have to join forces once again because a mysterious group under the lead of Oozuma has defeated them, but the real enemy is not Oozuma. The real threath is formed by a group of people who use cyber-BitBeasts to capture the original ones from the Bladebreakers.\n\n(Source: ANN)",
+        "background": "",
+        "season": "winter",
+        "year": 2002,
+        "broadcast": {
+            "day": "Mondays",
+            "time": "18:00",
+            "timezone": "Asia/Tokyo",
+            "string": "Mondays at 18:00 (JST)"
+        },
+        "producers": [
+            {
+                "mal_id": 16,
+                "type": "anime",
+                "name": "TV Tokyo",
+                "url": "https://myanimelist.net/anime/producer/16/TV_Tokyo"
+            },
+            {
+                "mal_id": 164,
+                "type": "anime",
+                "name": "d-rights",
+                "url": "https://myanimelist.net/anime/producer/164/d-rights"
+            }
+        ],
+        "licensors": [
+            {
+                "mal_id": 215,
+                "type": "anime",
+                "name": "Nelvana",
+                "url": "https://myanimelist.net/anime/producer/215/Nelvana"
+            },
+            {
+                "mal_id": 467,
+                "type": "anime",
+                "name": "Discotek Media",
+                "url": "https://myanimelist.net/anime/producer/467/Discotek_Media"
+            }
+        ],
+        "studios": [
+            {
+                "mal_id": 22,
+                "type": "anime",
+                "name": "Nippon Animation",
+                "url": "https://myanimelist.net/anime/producer/22/Nippon_Animation"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 1,
+                "type": "anime",
+                "name": "Action",
+                "url": "https://myanimelist.net/anime/genre/1/Action"
+            },
+            {
+                "mal_id": 2,
+                "type": "anime",
+                "name": "Adventure",
+                "url": "https://myanimelist.net/anime/genre/2/Adventure"
+            },
+            {
+                "mal_id": 4,
+                "type": "anime",
+                "name": "Comedy",
+                "url": "https://myanimelist.net/anime/genre/4/Comedy"
+            },
+            {
+                "mal_id": 24,
+                "type": "anime",
+                "name": "Sci-Fi",
+                "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [],
+        "demographics": [
+            {
+                "mal_id": 27,
+                "type": "anime",
+                "name": "Shounen",
+                "url": "https://myanimelist.net/anime/genre/27/Shounen"
+            }
+        ],
+        "relations": [
+            {
+                "relation": "Prequel",
+                "entry": [
+                    {
+                        "mal_id": 288,
+                        "type": "anime",
+                        "name": "Bakuten Shoot Beyblade",
+                        "url": "https://myanimelist.net/anime/288/Bakuten_Shoot_Beyblade"
+                    }
+                ]
+            },
+            {
+                "relation": "Sequel",
+                "entry": [
+                    {
+                        "mal_id": 1668,
+                        "type": "anime",
+                        "name": "Bakuten Shoot Beyblade G Revolution",
+                        "url": "https://myanimelist.net/anime/1668/Bakuten_Shoot_Beyblade_G_Revolution"
+                    }
+                ]
+            },
+            {
+                "relation": "Side Story",
+                "entry": [
+                    {
+                        "mal_id": 1670,
+                        "type": "anime",
+                        "name": "Bakuten Shoot Beyblade the Movie: Gekitou!! Takao vs. Daichi",
+                        "url": "https://myanimelist.net/anime/1670/Bakuten_Shoot_Beyblade_the_Movie__Gekitou_Takao_vs_Daichi"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [
+                "1: \"Let's Beyblade\" by Sick Kid featuring Lukas Rossi",
+                "1: \"Off the Chains\" by Toss & Turn (eps 1-21)",
+                "2: \"ジェット (Jet)\" by Fairy Fore (eps 22-51)"
+            ],
+            "endings": [
+                "1: \"Urban Love\" by Shiori (eps 1-21)",
+                "2: \"What's the Answer?\" by Retro G-Style (eps 22-51)"
+            ]
+        },
+        "external": [
+            {
+                "name": "Official Site",
+                "url": "http://www.d-rights.com/beyblade/2002/2001/index.html"
+            },
+            {
+                "name": "YouTube",
+                "url": "https://www.youtube.com/playlist?list=PLJ-JBvtUCWiz484jpH0aYoQ_wa_jux3dy"
+            },
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=1964"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=932"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "http://en.wikipedia.org/wiki/Beyblade"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": [
+        {
+            "mal_id": 1,
+            "url": null,
+            "title": "Shot Down in Flames!",
+            "title_japanese": "新たなる敵",
+            "title_romanji": "Arata Naru Teki ",
+            "aired": "2002-01-07T00:00:00+00:00",
+            "score": 3.42,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=588967"
+        },
+        {
+            "mal_id": 2,
+            "url": null,
+            "title": "The Search for Mr. X",
+            "title_japanese": "謎のブレーダーハンター達",
+            "title_romanji": "Nazo no Blader Hunter-tachi ",
+            "aired": "2002-01-14T00:00:00+00:00",
+            "score": 3.85,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=588973"
+        },
+        {
+            "mal_id": 3,
+            "url": null,
+            "title": "Unseen and Unleashed",
+            "title_japanese": "見えない聖獣",
+            "title_romanji": "Mienai Seijuu ",
+            "aired": "2002-01-21T00:00:00+00:00",
+            "score": 2.88,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1201069"
+        },
+        {
+            "mal_id": 4,
+            "url": null,
+            "title": "Searching For Dragoon",
+            "title_japanese": "恐るべきIQブレーダー",
+            "title_romanji": "Osorubeki IQ Blader ",
+            "aired": "2002-01-28T00:00:00+00:00",
+            "score": 3.71,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1201073"
+        },
+        {
+            "mal_id": 5,
+            "url": null,
+            "title": "Guess Who's Back in Town?",
+            "title_japanese": "よみがえる、カイ",
+            "title_romanji": "Yomigaeru, Kai ",
+            "aired": "2002-02-04T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1201079"
+        },
+        {
+            "mal_id": 6,
+            "url": null,
+            "title": "The Magtram Threat",
+            "title_japanese": "脅威のマグトラム",
+            "title_romanji": "Kyoui no Magtram ",
+            "aired": "2002-02-11T00:00:00+00:00",
+            "score": 3.6,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1403513"
+        },
+        {
+            "mal_id": 7,
+            "url": null,
+            "title": "The Reunion Begins",
+            "title_japanese": "仕組まれた挑戦",
+            "title_romanji": "Shikumareta Chousen ",
+            "aired": "2002-02-18T00:00:00+00:00",
+            "score": 3.6,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1403572"
+        },
+        {
+            "mal_id": 8,
+            "url": null,
+            "title": "Return of The Bladebreakers!",
+            "title_japanese": "復活!BBAチーム",
+            "title_romanji": "Fukkatsu! BBA Team ",
+            "aired": "2002-02-25T00:00:00+00:00",
+            "score": 3,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1403579"
+        },
+        {
+            "mal_id": 9,
+            "url": null,
+            "title": "La Isla Bey-Nita",
+            "title_japanese": "密林のバトルスタジアム",
+            "title_romanji": "Mitsurin no Battle Stadium ",
+            "aired": "2002-03-04T00:00:00+00:00",
+            "score": 3.6,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1403581"
+        },
+        {
+            "mal_id": 10,
+            "url": null,
+            "title": "The Island of No Return",
+            "title_japanese": "暗闇の激突",
+            "title_romanji": "Kurayami no Gekitotsu ",
+            "aired": "2002-03-11T00:00:00+00:00",
+            "score": 3.5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1403585"
+        },
+        {
+            "mal_id": 11,
+            "url": null,
+            "title": "The Evil Island of Dr. B",
+            "title_japanese": "孤島の大決戦",
+            "title_romanji": "Kotou no Daisakusen ",
+            "aired": "2002-03-18T00:00:00+00:00",
+            "score": 3.71,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1403589"
+        },
+        {
+            "mal_id": 12,
+            "url": null,
+            "title": "Bring Me Dranzer",
+            "title_japanese": "吠えろ! ドランザー",
+            "title_romanji": "Hoero! Dranzer ",
+            "aired": "2002-03-25T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1403593"
+        },
+        {
+            "mal_id": 13,
+            "url": null,
+            "title": "Testing One, Two, Three",
+            "title_japanese": "掟やぶりのベイバトル",
+            "title_romanji": "Okite Yaburi no Beybattle ",
+            "aired": "2002-04-01T00:00:00+00:00",
+            "score": 3.8,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1403640"
+        },
+        {
+            "mal_id": 14,
+            "url": null,
+            "title": "Gideon Raises Gerry",
+            "title_japanese": "作られた聖獣",
+            "title_romanji": "Tsukurareta Seijuu ",
+            "aired": "2002-04-08T00:00:00+00:00",
+            "score": 3.67,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1403646"
+        },
+        {
+            "mal_id": 15,
+            "url": null,
+            "title": "Show Me The bit-beasts!",
+            "title_japanese": "聖獣を見てみたい!",
+            "title_romanji": "Seijuu wo Mitemitai! ",
+            "aired": "2002-04-15T00:00:00+00:00",
+            "score": 3.83,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1403648"
+        },
+        {
+            "mal_id": 16,
+            "url": null,
+            "title": "Psykick's New Recruit",
+            "title_japanese": "サイバーブレーダーの悲劇",
+            "title_romanji": "Cyber Blader no Higeki ",
+            "aired": "2002-04-22T00:00:00+00:00",
+            "score": 3.4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1403650"
+        },
+        {
+            "mal_id": 17,
+            "url": null,
+            "title": "Hilary's Bey-B-Que",
+            "title_japanese": "宿命のプレリュード",
+            "title_romanji": "Shukumei no Prelude ",
+            "aired": "2002-04-29T00:00:00+00:00",
+            "score": 3.5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1403768"
+        },
+        {
+            "mal_id": 18,
+            "url": null,
+            "title": "When Friends Become Foes",
+            "title_japanese": "再会のケイン",
+            "title_romanji": "Saikai no Kane ",
+            "aired": "2002-05-06T00:00:00+00:00",
+            "score": 3,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1403769"
+        },
+        {
+            "mal_id": 19,
+            "url": null,
+            "title": "Their Own Private Battles",
+            "title_japanese": "それぞれの戦い",
+            "title_romanji": "Sorezore no Tatakai ",
+            "aired": "2002-05-13T00:00:00+00:00",
+            "score": 3.75,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1403799"
+        },
+        {
+            "mal_id": 20,
+            "url": null,
+            "title": "The Power Half Hour!!",
+            "title_japanese": "明日への決意",
+            "title_romanji": "Asu e no Ketsui ",
+            "aired": "2002-05-20T00:00:00+00:00",
+            "score": 2.8,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1403808"
+        },
+        {
+            "mal_id": 21,
+            "url": null,
+            "title": "The Battle Tower Showdown",
+            "title_japanese": "バトルタワーの陰謀",
+            "title_romanji": "Battle Tower no Inbou ",
+            "aired": "2002-05-27T00:00:00+00:00",
+            "score": 3.6,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1403820"
+        },
+        {
+            "mal_id": 22,
+            "url": null,
+            "title": "Max Takes One For The Team",
+            "title_japanese": "ドラシエルの危機",
+            "title_romanji": "Draciel no Kiki ",
+            "aired": "2002-06-03T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1403828"
+        },
+        {
+            "mal_id": 23,
+            "url": null,
+            "title": "The Bigger The Cyber Driger... The Harder It Falls...",
+            "title_japanese": "約束のバトルフィールド",
+            "title_romanji": "Yakusoku no Battlefield ",
+            "aired": "2002-06-17T00:00:00+00:00",
+            "score": 3,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1403914"
+        },
+        {
+            "mal_id": 24,
+            "url": null,
+            "title": "Ghost in The Machine",
+            "title_japanese": "霧の中の幻",
+            "title_romanji": "Kiri no Naka no Maboroshi ",
+            "aired": "2002-06-24T00:00:00+00:00",
+            "score": 5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1403915"
+        },
+        {
+            "mal_id": 25,
+            "url": null,
+            "title": "Raising Kane!!",
+            "title_japanese": "電撃聖獣NO.4",
+            "title_romanji": "Dengeki Seijuu No.4 ",
+            "aired": "2002-07-01T00:00:00+00:00",
+            "score": 3,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1403931"
+        },
+        {
+            "mal_id": 26,
+            "url": null,
+            "title": "Cyber Dragoon Takes Control!",
+            "title_japanese": "戦慄のサイバー",
+            "title_romanji": "Senritsu no Cyber ",
+            "aired": "2002-07-08T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1403937"
+        },
+        {
+            "mal_id": 27,
+            "url": null,
+            "title": "Building the Perfect bit-beast",
+            "title_japanese": "暴走タワーの最期",
+            "title_romanji": "Bousou Tower no Saigo ",
+            "aired": "2002-07-15T00:00:00+00:00",
+            "score": 3.5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1403939"
+        },
+        {
+            "mal_id": 28,
+            "url": null,
+            "title": "Hot Rock",
+            "title_japanese": "ニューヨーク 謎の石版",
+            "title_romanji": "New York Nazo no Sekiban ",
+            "aired": "2002-07-22T00:00:00+00:00",
+            "score": 3,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1403949"
+        },
+        {
+            "mal_id": 29,
+            "url": null,
+            "title": "Bad Seed in The Big Apple",
+            "title_japanese": "マックス 友の叫び",
+            "title_romanji": "Max, Tomo no Sakebi ",
+            "aired": "2002-07-29T00:00:00+00:00",
+            "score": 3.4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1403955"
+        },
+        {
+            "mal_id": 30,
+            "url": null,
+            "title": "Get a Piece of The Rock!",
+            "title_japanese": "よみがえる石版の力",
+            "title_romanji": "Yomigaeru Sekiban no Chikara ",
+            "aired": "2002-08-05T00:00:00+00:00",
+            "score": 3,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1403962"
+        },
+        {
+            "mal_id": 31,
+            "url": null,
+            "title": "Attack of The Rock bit-beast",
+            "title_japanese": "石版聖獣襲撃!",
+            "title_romanji": "Sekiban Seijuu Shuugeki! ",
+            "aired": "2002-08-12T00:00:00+00:00",
+            "score": 3.83,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1403968"
+        },
+        {
+            "mal_id": 32,
+            "url": null,
+            "title": "Lots Of Questions... Few Answers",
+            "title_japanese": "忘れかけた魂",
+            "title_romanji": "Wasurekaketa Tamashii ",
+            "aired": "2002-08-19T00:00:00+00:00",
+            "score": 3,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1403976"
+        },
+        {
+            "mal_id": 33,
+            "url": null,
+            "title": "Rock Bottom!",
+            "title_japanese": "セント・シールズ",
+            "title_romanji": "Saint Shields ",
+            "aired": "2002-08-26T00:00:00+00:00",
+            "score": 3.6,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1403981"
+        },
+        {
+            "mal_id": 34,
+            "url": null,
+            "title": "Itzy Bey-Itzy Spider",
+            "title_japanese": "物陰からスパイダー",
+            "title_romanji": "Monokage kara Spider ",
+            "aired": "2002-09-02T00:00:00+00:00",
+            "score": 3,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1403992"
+        },
+        {
+            "mal_id": 35,
+            "url": null,
+            "title": "See No Bit-Beast, Hear No Bit-Beast",
+            "title_japanese": "姿なき刺客",
+            "title_romanji": "Sugata Naki Shikaku ",
+            "aired": "2002-09-09T00:00:00+00:00",
+            "score": 2.83,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1404000"
+        },
+        {
+            "mal_id": 36,
+            "url": null,
+            "title": "Friends and Enemies",
+            "title_japanese": "マックスとマリアム",
+            "title_romanji": "Max to Mariam ",
+            "aired": "2002-09-16T00:00:00+00:00",
+            "score": 3.4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1404225"
+        },
+        {
+            "mal_id": 37,
+            "url": null,
+            "title": "Beybattle at the bit-beast Corral",
+            "title_japanese": "戦場の遊園地",
+            "title_romanji": "Senjou no Yuuenchi ",
+            "aired": "2002-09-23T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1404228"
+        },
+        {
+            "mal_id": 38,
+            "url": null,
+            "title": "The Fate of The Spark Battle",
+            "title_japanese": "因縁のスパークバトル",
+            "title_romanji": "Innen no Spark Battle ",
+            "aired": "2002-09-30T00:00:00+00:00",
+            "score": 3.75,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1404241"
+        },
+        {
+            "mal_id": 39,
+            "url": null,
+            "title": "The bit-beast Bond",
+            "title_japanese": "絆とプライド",
+            "title_romanji": "Kizuna to Pride ",
+            "aired": "2002-10-07T00:00:00+00:00",
+            "score": 3.86,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1404248"
+        },
+        {
+            "mal_id": 40,
+            "url": null,
+            "title": "Squeeze Play",
+            "title_japanese": "友情の証",
+            "title_romanji": "Yuujou no Akashi ",
+            "aired": "2002-10-14T00:00:00+00:00",
+            "score": 3.83,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1404252"
+        },
+        {
+            "mal_id": 41,
+            "url": null,
+            "title": "Who's Your Daddy?",
+            "title_japanese": "突然のサヨナラ…",
+            "title_romanji": "Totsuzen no Sayonara... ",
+            "aired": "2002-10-21T00:00:00+00:00",
+            "score": 3,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1404281"
+        },
+        {
+            "mal_id": 42,
+            "url": null,
+            "title": "Fortunes Dear and Dire",
+            "title_japanese": "悪のパーツ狩り",
+            "title_romanji": "Aku no Parts-kari ",
+            "aired": "2002-10-28T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1404287"
+        },
+        {
+            "mal_id": 43,
+            "url": null,
+            "title": "Kai's Royal Flush",
+            "title_japanese": "カイのリベンジバトル",
+            "title_romanji": "Kai no Revenge Battle ",
+            "aired": "2002-11-04T00:00:00+00:00",
+            "score": 3,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1404292"
+        },
+        {
+            "mal_id": 44,
+            "url": null,
+            "title": "The Calm Before The Storm",
+            "title_japanese": "波乱の世界戦前夜",
+            "title_romanji": "Haran no Sekai-sen Zenya ",
+            "aired": "2002-11-11T00:00:00+00:00",
+            "score": 4.25,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1404293"
+        },
+        {
+            "mal_id": 45,
+            "url": null,
+            "title": "Zeo Vs. Ozuma",
+            "title_japanese": "開幕!ゼオVSオズマ",
+            "title_romanji": "Kaimaku! Zeo VS Ozuma ",
+            "aired": "2002-11-18T00:00:00+00:00",
+            "score": 3.75,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1404296"
+        },
+        {
+            "mal_id": 46,
+            "url": null,
+            "title": "Black & White Evil Powers",
+            "title_japanese": "黒と白の魔の手",
+            "title_romanji": "Kuro to Shiro no Ma no Te ",
+            "aired": "2002-11-25T00:00:00+00:00",
+            "score": 3,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1404301"
+        },
+        {
+            "mal_id": 47,
+            "url": null,
+            "title": "Deceit From Above",
+            "title_japanese": "解き放たれた悪意",
+            "title_romanji": "Tokihanatareta Akui ",
+            "aired": "2002-12-02T00:00:00+00:00",
+            "score": 3.83,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1404307"
+        },
+        {
+            "mal_id": 48,
+            "url": null,
+            "title": "Phoenix Falling",
+            "title_japanese": "激震のバトルノイズ",
+            "title_romanji": "Gekishin no Battle Noise ",
+            "aired": "2002-12-09T00:00:00+00:00",
+            "score": 3.83,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1404313"
+        },
+        {
+            "mal_id": 49,
+            "url": null,
+            "title": "The Enemy Within",
+            "title_japanese": "タカオVSカイ友情の戦い",
+            "title_romanji": "Takao VS Kai, Yuujou no Tatakai ",
+            "aired": "2002-12-16T00:00:00+00:00",
+            "score": 3.25,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1404320"
+        },
+        {
+            "mal_id": 50,
+            "url": null,
+            "title": "Clash of the Tyson",
+            "title_japanese": "史上最大の決勝戦",
+            "title_romanji": "Shijousaidai no Kesshousen ",
+            "aired": "2002-12-23T00:00:00+00:00",
+            "score": 4.22,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=402869"
+        },
+        {
+            "mal_id": 51,
+            "url": null,
+            "title": "Destiny of The Final Battle",
+            "title_japanese": "宿命のラストバトル",
+            "title_romanji": "Shukumei no Last Battle ",
+            "aired": "2002-12-30T00:00:00+00:00",
+            "score": 3.86,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=402879"
+        }
+    ]
+}

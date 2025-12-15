@@ -1,0 +1,165 @@
+{
+    "id": 3821,
+    "fetched_at": "Sun Dec 14 20:12:41 2025",
+    "metadata": {
+        "mal_id": 3821,
+        "url": "https://myanimelist.net/anime/3821/Portable_Kuukou",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/3/6818.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/3/6818t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/3/6818l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/3/6818.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/3/6818t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/3/6818l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Portable Kuukou"
+            },
+            {
+                "type": "Japanese",
+                "title": "ポータブル空港"
+            },
+            {
+                "type": "English",
+                "title": "Portable Airport"
+            }
+        ],
+        "title": "Portable Kuukou",
+        "title_english": "Portable Airport",
+        "title_japanese": "ポータブル空港",
+        "title_synonyms": [],
+        "type": "Music",
+        "source": "Original",
+        "episodes": 1,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "2004-05-29T00:00:00+00:00",
+            "to": null,
+            "prop": {
+                "from": {
+                    "day": 29,
+                    "month": 5,
+                    "year": 2004
+                },
+                "to": {
+                    "day": null,
+                    "month": null,
+                    "year": null
+                }
+            },
+            "string": "May 29, 2004"
+        },
+        "duration": "3 min",
+        "rating": "G - All Ages",
+        "score": 5.55,
+        "scored_by": 1555,
+        "rank": null,
+        "popularity": 10749,
+        "members": 3229,
+        "favorites": 0,
+        "synopsis": "A 3 minutes long animated film produced by Studio Kajino, a small studio related to Studio Ghibli, was shown in a double feature prior to the Cutie Honey Live-Action movie. Supervision was done by Yoshiyuki Momose, director of the Ghiblies.\n\nTo be released 16th November 2004 on the \"Ghibli ga Ippai Special Short Short\" DVD, together with other Ghibli-Shorts like Sorairo no Tane, On Your Mark, Space Station No.9, Nandaro and Various Commercials.",
+        "background": "",
+        "season": null,
+        "year": null,
+        "broadcast": {
+            "day": null,
+            "time": null,
+            "timezone": null,
+            "string": null
+        },
+        "producers": [],
+        "licensors": [],
+        "studios": [
+            {
+                "mal_id": 272,
+                "type": "anime",
+                "name": "Studio Kajino",
+                "url": "https://myanimelist.net/anime/producer/272/Studio_Kajino"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 24,
+                "type": "anime",
+                "name": "Sci-Fi",
+                "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [
+            {
+                "mal_id": 19,
+                "type": "anime",
+                "name": "Music",
+                "url": "https://myanimelist.net/anime/genre/19/Music"
+            },
+            {
+                "mal_id": 29,
+                "type": "anime",
+                "name": "Space",
+                "url": "https://myanimelist.net/anime/genre/29/Space"
+            }
+        ],
+        "demographics": [],
+        "relations": [
+            {
+                "relation": "Prequel",
+                "entry": [
+                    {
+                        "mal_id": 3820,
+                        "type": "anime",
+                        "name": "Space Station No.9",
+                        "url": "https://myanimelist.net/anime/3820/Space_Station_No9"
+                    }
+                ]
+            },
+            {
+                "relation": "Sequel",
+                "entry": [
+                    {
+                        "mal_id": 3818,
+                        "type": "anime",
+                        "name": "Soratobu Toshi Keikaku",
+                        "url": "https://myanimelist.net/anime/3818/Soratobu_Toshi_Keikaku"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [],
+            "endings": []
+        },
+        "external": [
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=3958"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=5913"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": []
+}

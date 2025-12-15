@@ -1,0 +1,540 @@
+{
+    "id": 1231,
+    "fetched_at": "Sun Dec 14 15:38:06 2025",
+    "metadata": {
+        "mal_id": 1231,
+        "url": "https://myanimelist.net/anime/1231/Saber_Marionette_J_to_X",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1773/94167.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1773/94167t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1773/94167l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1773/94167.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1773/94167t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1773/94167l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Saber Marionette J to X"
+            },
+            {
+                "type": "Japanese",
+                "title": "セイバーマリオネットJ to X"
+            }
+        ],
+        "title": "Saber Marionette J to X",
+        "title_english": null,
+        "title_japanese": "セイバーマリオネットJ to X",
+        "title_synonyms": [],
+        "type": "TV",
+        "source": "Unknown",
+        "episodes": 26,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "1998-10-06T00:00:00+00:00",
+            "to": "1999-03-30T00:00:00+00:00",
+            "prop": {
+                "from": {
+                    "day": 6,
+                    "month": 10,
+                    "year": 1998
+                },
+                "to": {
+                    "day": 30,
+                    "month": 3,
+                    "year": 1999
+                }
+            },
+            "string": "Oct 6, 1998 to Mar 30, 1999"
+        },
+        "duration": "25 min per ep",
+        "rating": "PG-13 - Teens 13 or older",
+        "score": 7.27,
+        "scored_by": 8067,
+        "rank": 3087,
+        "popularity": 5818,
+        "members": 16161,
+        "favorites": 41,
+        "synopsis": "Taking place mere months after the Saber Marionette J OVA series, this newest installment in the Saber Marionette line follows the continuing adventures of Otaru and his clan of selfless, obsessive marionette girls. This time, the evil Faust is back, and again toying with Marionette technology that was never meant to be explored. The Saber Dolls are back, and torn between their newfound love for Otaru and their undying loyalty to Faust; Will Otaru, Lime, Cherry and Bloodberry be able to stop Faust again, or are they all headed for the scrap heap?\n\n(Source: AniDB)",
+        "background": "",
+        "season": "fall",
+        "year": 1998,
+        "broadcast": {
+            "day": "Tuesdays",
+            "time": "18:00",
+            "timezone": "Asia/Tokyo",
+            "string": "Tuesdays at 18:00 (JST)"
+        },
+        "producers": [
+            {
+                "mal_id": 16,
+                "type": "anime",
+                "name": "TV Tokyo",
+                "url": "https://myanimelist.net/anime/producer/16/TV_Tokyo"
+            },
+            {
+                "mal_id": 64,
+                "type": "anime",
+                "name": "Sotsu",
+                "url": "https://myanimelist.net/anime/producer/64/Sotsu"
+            }
+        ],
+        "licensors": [
+            {
+                "mal_id": 233,
+                "type": "anime",
+                "name": "Bandai Entertainment",
+                "url": "https://myanimelist.net/anime/producer/233/Bandai_Entertainment"
+            }
+        ],
+        "studios": [
+            {
+                "mal_id": 34,
+                "type": "anime",
+                "name": "HAL Film Maker",
+                "url": "https://myanimelist.net/anime/producer/34/HAL_Film_Maker"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 2,
+                "type": "anime",
+                "name": "Adventure",
+                "url": "https://myanimelist.net/anime/genre/2/Adventure"
+            },
+            {
+                "mal_id": 4,
+                "type": "anime",
+                "name": "Comedy",
+                "url": "https://myanimelist.net/anime/genre/4/Comedy"
+            },
+            {
+                "mal_id": 24,
+                "type": "anime",
+                "name": "Sci-Fi",
+                "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [
+            {
+                "mal_id": 35,
+                "type": "anime",
+                "name": "Harem",
+                "url": "https://myanimelist.net/anime/genre/35/Harem"
+            },
+            {
+                "mal_id": 18,
+                "type": "anime",
+                "name": "Mecha",
+                "url": "https://myanimelist.net/anime/genre/18/Mecha"
+            }
+        ],
+        "demographics": [],
+        "relations": [
+            {
+                "relation": "Prequel",
+                "entry": [
+                    {
+                        "mal_id": 1232,
+                        "type": "anime",
+                        "name": "Saber Marionette R",
+                        "url": "https://myanimelist.net/anime/1232/Saber_Marionette_R"
+                    },
+                    {
+                        "mal_id": 1191,
+                        "type": "anime",
+                        "name": "Saber Marionette J Again",
+                        "url": "https://myanimelist.net/anime/1191/Saber_Marionette_J_Again"
+                    }
+                ]
+            },
+            {
+                "relation": "Adaptation",
+                "entry": [
+                    {
+                        "mal_id": 506,
+                        "type": "manga",
+                        "name": "Saber Marionette J",
+                        "url": "https://myanimelist.net/manga/506/Saber_Marionette_J"
+                    },
+                    {
+                        "mal_id": 90134,
+                        "type": "manga",
+                        "name": "SM Girls: Saber Marionette J",
+                        "url": "https://myanimelist.net/manga/90134/SM_Girls__Saber_Marionette_J"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [
+                "\"Proof of Myself\" by Megumi Hayashibara"
+            ],
+            "endings": [
+                "1: \"Lively Motion\" by Megumi Hayashibara (eps 1-19,21,24)",
+                "2: \"Kaze to Sora wo Koete\" by Yuka Imai (eps 20)",
+                "3: \"Issho ni\" by Megumi Hayashibara, Yuri Shiratori & Akiko Hiramatsu (eps 26)"
+            ]
+        },
+        "external": [
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=394"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=334"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Saber_Marionette_J_to_X"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "https://ja.wikipedia.org/wiki/%E3%82%BB%E3%82%A4%E3%83%90%E3%83%BC%E3%83%9E%E3%83%AA%E3%82%AA%E3%83%8D%E3%83%83%E3%83%88#%E3%82%BB%E3%82%A4%E3%83%90%E3%83%BC%E3%83%9E%E3%83%AA%E3%82%AA%E3%83%8D%E3%83%83%E3%83%88J_to_X"
+            },
+            {
+                "name": "Anison",
+                "url": "http://anison.info/data/program/1775.html"
+            },
+            {
+                "name": "Allcinema",
+                "url": "https://www.allcinema.net/cinema/88891"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": [
+        {
+            "mal_id": 1,
+            "url": null,
+            "title": "Civilization All Over the Place",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": "1998-10-06T00:00:00+00:00",
+            "score": 4.33,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1808324"
+        },
+        {
+            "mal_id": 2,
+            "url": null,
+            "title": "Wishes Are Granted to the Winner of the Float Battle",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": "1998-10-13T00:00:00+00:00",
+            "score": 4.33,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1660212"
+        },
+        {
+            "mal_id": 3,
+            "url": null,
+            "title": "Daddy is Coming! Daddy is Coming!",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": "1998-10-20T00:00:00+00:00",
+            "score": 4.2,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1622514"
+        },
+        {
+            "mal_id": 4,
+            "url": null,
+            "title": "The Saberdolls' Journey",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": "1998-10-27T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1667407"
+        },
+        {
+            "mal_id": 5,
+            "url": null,
+            "title": "Shirataki Shines Forever",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": "1998-11-03T00:00:00+00:00",
+            "score": 3.8,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=270177"
+        },
+        {
+            "mal_id": 6,
+            "url": null,
+            "title": "Two Otaru's? The Tightrope of Love",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": "1998-11-10T00:00:00+00:00",
+            "score": 3.38,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1446259"
+        },
+        {
+            "mal_id": 7,
+            "url": null,
+            "title": "The Lonely Fairy",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": "1998-11-17T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 8,
+            "url": null,
+            "title": "Cherry's Babysitting Diary",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": "1998-11-24T00:00:00+00:00",
+            "score": 4.67,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1686465"
+        },
+        {
+            "mal_id": 9,
+            "url": null,
+            "title": "The Forest, An Iron Ball, and Everybody",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": "1998-12-01T00:00:00+00:00",
+            "score": 5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=271143"
+        },
+        {
+            "mal_id": 10,
+            "url": null,
+            "title": "Onigiri Tastes Like Peace?!",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": "1998-12-08T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1881645"
+        },
+        {
+            "mal_id": 11,
+            "url": null,
+            "title": "Redemption of Otaru the Man",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": "1998-12-15T00:00:00+00:00",
+            "score": 4.5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=271833"
+        },
+        {
+            "mal_id": 12,
+            "url": null,
+            "title": "The Heaven's Cross of Fate",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": "1998-12-22T00:00:00+00:00",
+            "score": 3,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1702567"
+        },
+        {
+            "mal_id": 13,
+            "url": null,
+            "title": "Evil Ambitions and the Rise of the Iron Beast",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": "1999-01-05T00:00:00+00:00",
+            "score": 5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1882831"
+        },
+        {
+            "mal_id": 14,
+            "url": null,
+            "title": "A Pair of Tickets for a Slow Train to Xian",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": "1999-01-12T00:00:00+00:00",
+            "score": 4.5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1882841"
+        },
+        {
+            "mal_id": 15,
+            "url": null,
+            "title": "The Eternal City, Xian",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": "1999-01-19T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1882836"
+        },
+        {
+            "mal_id": 16,
+            "url": null,
+            "title": "Birds Without Wings",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": "1999-01-26T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1882842"
+        },
+        {
+            "mal_id": 17,
+            "url": null,
+            "title": "The Many Yesterdays and Today's",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": "1999-02-02T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=272916"
+        },
+        {
+            "mal_id": 18,
+            "url": null,
+            "title": "Under the Plasma Sky",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": "2000-02-09T00:00:00+00:00",
+            "score": 3,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1807840"
+        },
+        {
+            "mal_id": 19,
+            "url": null,
+            "title": "1/3 of Sorrow",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": "1999-02-16T00:00:00+00:00",
+            "score": 2.5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1807992"
+        },
+        {
+            "mal_id": 20,
+            "url": null,
+            "title": "The Unrelenting Rain of Xian",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": "1999-02-23T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 21,
+            "url": null,
+            "title": "The Scarlet Awakening",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": "1999-03-02T00:00:00+00:00",
+            "score": 2.5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1882928"
+        },
+        {
+            "mal_id": 22,
+            "url": null,
+            "title": "The Cry",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": "1999-03-09T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 23,
+            "url": null,
+            "title": "The Dream in the Circuit",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": "1999-03-16T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 24,
+            "url": null,
+            "title": "The Girls beyond the Rainbow",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": "1999-03-23T00:00:00+00:00",
+            "score": 2.5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1808779"
+        },
+        {
+            "mal_id": 25,
+            "url": null,
+            "title": "Rays of Light",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": "1999-03-30T00:00:00+00:00",
+            "score": 4.5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1808979"
+        },
+        {
+            "mal_id": 26,
+            "url": null,
+            "title": "A Forever Blue Sky",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": "1999-04-07T00:00:00+00:00",
+            "score": 4.17,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1761525"
+        }
+    ]
+}

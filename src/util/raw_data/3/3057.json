@@ -1,0 +1,231 @@
+{
+    "id": 3057,
+    "fetched_at": "Sun Dec 14 19:14:35 2025",
+    "metadata": {
+        "mal_id": 3057,
+        "url": "https://myanimelist.net/anime/3057/Loveless_Specials",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/10/22681.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/10/22681t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/10/22681l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/10/22681.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/10/22681t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/10/22681l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Loveless Specials"
+            },
+            {
+                "type": "Synonym",
+                "title": "Loveless: Ohayou Loveless-kun"
+            },
+            {
+                "type": "Japanese",
+                "title": "LOVELESS おはよう ラブレスくーん"
+            }
+        ],
+        "title": "Loveless Specials",
+        "title_english": null,
+        "title_japanese": "LOVELESS おはよう ラブレスくーん",
+        "title_synonyms": [
+            "Loveless: Ohayou Loveless-kun"
+        ],
+        "type": "Special",
+        "source": "Manga",
+        "episodes": 6,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "2005-11-01T00:00:00+00:00",
+            "to": "2006-04-27T00:00:00+00:00",
+            "prop": {
+                "from": {
+                    "day": 1,
+                    "month": 11,
+                    "year": 2005
+                },
+                "to": {
+                    "day": 27,
+                    "month": 4,
+                    "year": 2006
+                }
+            },
+            "string": "Nov 1, 2005 to Apr 27, 2006"
+        },
+        "duration": "2 min per ep",
+        "rating": "PG-13 - Teens 13 or older",
+        "score": 6.44,
+        "scored_by": 8087,
+        "rank": 7732,
+        "popularity": 5400,
+        "members": 19834,
+        "favorites": 32,
+        "synopsis": "A 6-episode special featuring in-character commentary of the series.",
+        "background": "",
+        "season": null,
+        "year": null,
+        "broadcast": {
+            "day": null,
+            "time": null,
+            "timezone": null,
+            "string": null
+        },
+        "producers": [],
+        "licensors": [],
+        "studios": [
+            {
+                "mal_id": 7,
+                "type": "anime",
+                "name": "J.C.Staff",
+                "url": "https://myanimelist.net/anime/producer/7/JCStaff"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 28,
+                "type": "anime",
+                "name": "Boys Love",
+                "url": "https://myanimelist.net/anime/genre/28/Boys_Love"
+            },
+            {
+                "mal_id": 4,
+                "type": "anime",
+                "name": "Comedy",
+                "url": "https://myanimelist.net/anime/genre/4/Comedy"
+            },
+            {
+                "mal_id": 37,
+                "type": "anime",
+                "name": "Supernatural",
+                "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [],
+        "demographics": [
+            {
+                "mal_id": 43,
+                "type": "anime",
+                "name": "Josei",
+                "url": "https://myanimelist.net/anime/genre/43/Josei"
+            }
+        ],
+        "relations": [
+            {
+                "relation": "Parent Story",
+                "entry": [
+                    {
+                        "mal_id": 149,
+                        "type": "anime",
+                        "name": "Loveless",
+                        "url": "https://myanimelist.net/anime/149/Loveless"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [],
+            "endings": []
+        },
+        "external": [
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=2815"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": [
+        {
+            "mal_id": 1,
+            "url": null,
+            "title": "Be Careful with an Old Geezer!",
+            "title_japanese": "オヤジには気をつけろ の巻",
+            "title_romanji": "Oyajini wa Ki wo Tsukero no Maki ",
+            "aired": "2005-11-01T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 2,
+            "url": null,
+            "title": "Ginji Appears!",
+            "title_japanese": "銀次くん登場 の巻",
+            "title_romanji": "Ginji-kun Toujou no Maki ",
+            "aired": "2005-12-23T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 3,
+            "url": null,
+            "title": "Web Address is Loveless.tv!",
+            "title_japanese": "アドレスはloveless.tvれす の巻",
+            "title_romanji": "Address wa loveless.tv Resu no Maki ",
+            "aired": "2006-02-14T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 4,
+            "url": null,
+            "title": "Find the Lion!",
+            "title_japanese": "ライオンを探せ の巻",
+            "title_romanji": "Lion wo Sagase no Maki ",
+            "aired": "2006-03-28T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 5,
+            "url": null,
+            "title": "Defeat the Dark Space Emperor!",
+            "title_japanese": "暗黑宇宙帝王を倒せ の巻",
+            "title_romanji": "Ankoku Uchuu Teiou wo Taose no Maki ",
+            "aired": "2006-04-27T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 6,
+            "url": null,
+            "title": "He is the String-Puller!",
+            "title_japanese": "黑幕はあいつだ! の巻",
+            "title_romanji": "Kuromaku wa Aitsu da! no Maki ",
+            "aired": "2006-04-27T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        }
+    ]
+}

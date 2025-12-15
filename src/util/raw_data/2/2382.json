@@ -1,0 +1,490 @@
+{
+    "id": 2382,
+    "fetched_at": "Sun Dec 14 18:30:34 2025",
+    "metadata": {
+        "mal_id": 2382,
+        "url": "https://myanimelist.net/anime/2382/Firestorm",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/11/6090.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/11/6090t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/11/6090l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/11/6090.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/11/6090t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/11/6090l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Firestorm"
+            },
+            {
+                "type": "Japanese",
+                "title": "FIRESTORM　ファイアーストーム"
+            }
+        ],
+        "title": "Firestorm",
+        "title_english": null,
+        "title_japanese": "FIRESTORM　ファイアーストーム",
+        "title_synonyms": [],
+        "type": "TV",
+        "source": "Original",
+        "episodes": 26,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "2003-04-06T00:00:00+00:00",
+            "to": "2003-09-28T00:00:00+00:00",
+            "prop": {
+                "from": {
+                    "day": 6,
+                    "month": 4,
+                    "year": 2003
+                },
+                "to": {
+                    "day": 28,
+                    "month": 9,
+                    "year": 2003
+                }
+            },
+            "string": "Apr 6, 2003 to Sep 28, 2003"
+        },
+        "duration": "25 min per ep",
+        "rating": "PG-13 - Teens 13 or older",
+        "score": 5.41,
+        "scored_by": 324,
+        "rank": 12961,
+        "popularity": 12886,
+        "members": 1722,
+        "favorites": 1,
+        "synopsis": "It is the year 2104 AD. The terrible war is over and peace seemed close in the world. However, there is one thing that can bring down this peace. That is the criminal organisation who's power and actions are widespread across the world... The Black Orchid.\n\nFrom the main countries of the world, the \"Storm Force\" was formed to take down the Black Orchid. They are also known under the code name \"Fire Storm\".\n\n(Source: AniDB)",
+        "background": "",
+        "season": "spring",
+        "year": 2003,
+        "broadcast": {
+            "day": "Sundays",
+            "time": "09:00",
+            "timezone": "Asia/Tokyo",
+            "string": "Sundays at 09:00 (JST)"
+        },
+        "producers": [
+            {
+                "mal_id": 11,
+                "type": "anime",
+                "name": "Madhouse",
+                "url": "https://myanimelist.net/anime/producer/11/Madhouse"
+            },
+            {
+                "mal_id": 16,
+                "type": "anime",
+                "name": "TV Tokyo",
+                "url": "https://myanimelist.net/anime/producer/16/TV_Tokyo"
+            }
+        ],
+        "licensors": [
+            {
+                "mal_id": 311,
+                "type": "anime",
+                "name": "Enoki Films",
+                "url": "https://myanimelist.net/anime/producer/311/Enoki_Films"
+            }
+        ],
+        "studios": [
+            {
+                "mal_id": 80,
+                "type": "anime",
+                "name": "Trans Arts",
+                "url": "https://myanimelist.net/anime/producer/80/Trans_Arts"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 2,
+                "type": "anime",
+                "name": "Adventure",
+                "url": "https://myanimelist.net/anime/genre/2/Adventure"
+            },
+            {
+                "mal_id": 24,
+                "type": "anime",
+                "name": "Sci-Fi",
+                "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [
+            {
+                "mal_id": 18,
+                "type": "anime",
+                "name": "Mecha",
+                "url": "https://myanimelist.net/anime/genre/18/Mecha"
+            },
+            {
+                "mal_id": 38,
+                "type": "anime",
+                "name": "Military",
+                "url": "https://myanimelist.net/anime/genre/38/Military"
+            }
+        ],
+        "demographics": [],
+        "relations": [],
+        "theme": {
+            "openings": [
+                "\"Stormy Love\" by the NaB's"
+            ],
+            "endings": [
+                "1: \"Kimi to Ita Chikyuu (君といた地球)\" by The NaB's (eps 1-13)",
+                "2: \"RE-SET\" by TAKUI (eps 14-26)"
+            ]
+        },
+        "external": [
+            {
+                "name": "Official Site",
+                "url": "http://enoki-films.co.jp/pro_firestorm.php"
+            },
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=637"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=2546"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Firestorm_(anime)"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": [
+        {
+            "mal_id": 1,
+            "url": null,
+            "title": "Storm Force 9",
+            "title_japanese": "SF 9",
+            "title_romanji": "SF 9 ",
+            "aired": "2003-04-06T00:00:00+00:00",
+            "score": 2.5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1848850"
+        },
+        {
+            "mal_id": 2,
+            "url": null,
+            "title": "Time Bomb",
+            "title_japanese": "カウントダウン",
+            "title_romanji": "Countdown ",
+            "aired": "2003-04-13T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1848855"
+        },
+        {
+            "mal_id": 3,
+            "url": null,
+            "title": "Black Orchid",
+            "title_japanese": "ブラック・オーキッド",
+            "title_romanji": "Black Orchid ",
+            "aired": "2003-04-20T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1849125"
+        },
+        {
+            "mal_id": 4,
+            "url": null,
+            "title": "Morelli Speaks",
+            "title_japanese": "カルロ・モレーリ",
+            "title_romanji": "Carlo Morrelli ",
+            "aired": "2003-04-27T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1849755"
+        },
+        {
+            "mal_id": 5,
+            "url": null,
+            "title": "Barracuda",
+            "title_japanese": "バラクーダ",
+            "title_romanji": "Barracuda ",
+            "aired": "2003-05-04T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1849974"
+        },
+        {
+            "mal_id": 6,
+            "url": null,
+            "title": "Destroy Arizona",
+            "title_japanese": "サーベルフィッシュ",
+            "title_romanji": "Saberfish ",
+            "aired": "2003-05-11T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1849978"
+        },
+        {
+            "mal_id": 7,
+            "url": null,
+            "title": "Ocean Diner",
+            "title_japanese": "オーシャン・ダイナー",
+            "title_romanji": "Ocean Diner ",
+            "aired": "2003-05-18T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1850143"
+        },
+        {
+            "mal_id": 8,
+            "url": null,
+            "title": "Antarctia",
+            "title_japanese": "ディープ・シー",
+            "title_romanji": "Deep Sea ",
+            "aired": "2003-05-25T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1850146"
+        },
+        {
+            "mal_id": 9,
+            "url": null,
+            "title": "Wings",
+            "title_japanese": "ウィングズ",
+            "title_romanji": "Wings ",
+            "aired": "2003-06-01T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1850153"
+        },
+        {
+            "mal_id": 10,
+            "url": null,
+            "title": "The Airline Pilot",
+            "title_japanese": "パイロット",
+            "title_romanji": "Pilot ",
+            "aired": "2003-06-08T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1850304"
+        },
+        {
+            "mal_id": 11,
+            "url": null,
+            "title": "Laser",
+            "title_japanese": "レーザー・キャノン",
+            "title_romanji": "Laser Cannon ",
+            "aired": "2003-06-15T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1850318"
+        },
+        {
+            "mal_id": 12,
+            "url": null,
+            "title": "Lightning",
+            "title_japanese": "ライトニング",
+            "title_romanji": "Lightning ",
+            "aired": "2003-06-22T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1850324"
+        },
+        {
+            "mal_id": 13,
+            "url": null,
+            "title": "Emergency Red - Part 1",
+            "title_japanese": "ペトロス・サロⅠ",
+            "title_romanji": "Pedro's Salo I ",
+            "aired": "2003-06-29T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1850335"
+        },
+        {
+            "mal_id": 14,
+            "url": null,
+            "title": "Emergency Red - Part 2",
+            "title_japanese": "ペトロス・サロⅡ",
+            "title_romanji": "Pedro's Salo II ",
+            "aired": "2003-07-06T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1850343"
+        },
+        {
+            "mal_id": 15,
+            "url": null,
+            "title": "Spider in the Bath",
+            "title_japanese": "エスケープ",
+            "title_romanji": "Escape ",
+            "aired": "2003-07-13T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1850475"
+        },
+        {
+            "mal_id": 16,
+            "url": null,
+            "title": "Monsters",
+            "title_japanese": "モンスター",
+            "title_romanji": "Monster ",
+            "aired": "2003-07-20T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1850527"
+        },
+        {
+            "mal_id": 17,
+            "url": null,
+            "title": "Brain Storm",
+            "title_japanese": "ブレイン・ストーム",
+            "title_romanji": "Brain Storm ",
+            "aired": "2003-07-27T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1850532"
+        },
+        {
+            "mal_id": 18,
+            "url": null,
+            "title": "Oasis",
+            "title_japanese": "オアシス",
+            "title_romanji": "Oasis ",
+            "aired": "2003-08-03T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1850536"
+        },
+        {
+            "mal_id": 19,
+            "url": null,
+            "title": "The Girl Who Fell to Earth",
+            "title_japanese": "ロボットバード",
+            "title_romanji": "Robot Bird ",
+            "aired": "2003-08-10T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1851396"
+        },
+        {
+            "mal_id": 20,
+            "url": null,
+            "title": "Vortex",
+            "title_japanese": "ヴォルテックス",
+            "title_romanji": "Vortex ",
+            "aired": "2003-08-17T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1851405"
+        },
+        {
+            "mal_id": 21,
+            "url": null,
+            "title": "Alien Attack",
+            "title_japanese": "プラネット・ゾリオン",
+            "title_romanji": "Planet Zolion ",
+            "aired": "2003-08-24T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1851411"
+        },
+        {
+            "mal_id": 22,
+            "url": null,
+            "title": "Get Morelli!",
+            "title_japanese": "トラップ",
+            "title_romanji": "Trap ",
+            "aired": "2003-08-31T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1851416"
+        },
+        {
+            "mal_id": 23,
+            "url": null,
+            "title": "The Great Escape",
+            "title_japanese": "サイコパワー",
+            "title_romanji": "Psycho Power ",
+            "aired": "2003-09-07T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1851604"
+        },
+        {
+            "mal_id": 24,
+            "url": null,
+            "title": "Pyramid",
+            "title_japanese": "ピラミッド",
+            "title_romanji": "Pyramid ",
+            "aired": "2003-09-14T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1851608"
+        },
+        {
+            "mal_id": 25,
+            "url": null,
+            "title": "Invasion",
+            "title_japanese": "インベージョン",
+            "title_romanji": "Invasion ",
+            "aired": "2003-09-21T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1851621"
+        },
+        {
+            "mal_id": 26,
+            "url": null,
+            "title": "We Will Fight to the Death!",
+            "title_japanese": "ファイナル・シグナル",
+            "title_romanji": "Final Signal ",
+            "aired": "2003-09-28T00:00:00+00:00",
+            "score": 1,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1851625"
+        }
+    ]
+}
