@@ -1,91 +1,242 @@
-from pydantic import BaseModel
+from pydantic import BaseModel, ConfigDict, EmailStr
 from typing import Optional, List
-from datetime import datetime
-from datetime import date
+from datetime import datetime, date
+from enum import Enum
+
+class MediaType(str, Enum):
+    ANIME = "anime"
+    MANGA = "manga"
+    NOVEL = "novel"
+    JAV = "jav"
+    DOUJIN = "doujin"
+
+class SeriesStatus(str, Enum):
+    ONGOING = "ongoing"
+    FINISHED = "finished"
+    CANCELLED = "cancelled"
+    HIATUS = "hiatus"
+
+class ReleaseStatus(str, Enum):
+    FINISHED = "finished"
+    RELEASING = "releasing"
+    ANNOUNCED = "announced"
+    UNRELEASED = "unreleased"
+
+class GroupType(str, Enum):
+    SEASON = "season"
+    VOLUME = "volume"
+    PART = "part"
+    ABSOLUTE = "absolute"
+
+class StaffRole(str, Enum):
+    DIRECTOR = "director"
+    WRITER = "writer"
+    MUSIC = "music"
+    STUDIO = "studio"
+    MAKER = "maker"
+    PUBLISHER = "publisher"
+    CIRCLE = "circle"
+    ACTRESS = "actress"
+    VOICE_ACTOR = "voice_actor"
+    MANGAKA = "mangaka"
+
+class ExternalSource(str, Enum):
+    MYANIMELIST = "myanimelist"
+    ANILIST = "anilist"
+    KITSU = "kitsu"
+    MANGAUPDATES = "mangaupdates"
+    DMM = "dmm"
+    JAVLIBRARY = "javlibrary"
+
+# =======================
+# AUXILIARES (Para Relaciones)
+# =======================
+
+# Géneros (simplificado)
+class GenreBase(BaseModel):
+    slug: str  # ej: "isekai"
+
+class GenreCreate(GenreBase):
+    pass
+
+class GenreResponse(GenreBase):
+    id: int
+    name: Optional[str] = None  # Si usas translations, puedes anidarlas aquí
+
+    model_config = ConfigDict(from_attributes=True)
+
+# Traducciones (genérico para Series, Groups, etc.)
+class TranslationBase(BaseModel):
+    language: str  # ej: "en", "es"
+    title: str
+    description: Optional[str] = None
+
+class TranslationCreate(TranslationBase):
+    pass
+
+class TranslationResponse(TranslationBase):
+    id: int
+
+    model_config = ConfigDict(from_attributes=True)
+
+# Staff (Personas o Compañías)
+class StaffBase(BaseModel):
+    role: StaffRole
+    role_detail: Optional[str] = None
+    # Para person_id o company_id: Usa uno u otro
+    person_id: Optional[int] = None
+    company_id: Optional[int] = None
+
+class StaffCreate(StaffBase):
+    pass
+
+class StaffResponse(StaffBase):
+    id: int
+    # Puedes anidar details de Person o Company si lo necesitas
+    # Ej: person: Optional[PersonResponse] = None
+
+    model_config = ConfigDict(from_attributes=True)
+
+# Enlaces Externos
+class ExternalLinkBase(BaseModel):
+    source: ExternalSource
+    external_id: str
+    url: Optional[str] = None
+
+class ExternalLinkCreate(ExternalLinkBase):
+    pass
+
+class ExternalLinkResponse(ExternalLinkBase):
+    id: int
+    last_synced_at: Optional[datetime] = None
+
+    model_config = ConfigDict(from_attributes=True)
 
 # =======================
 # USUARIOS
 # =======================
+
 class UserBase(BaseModel):
     username: str
-    email: str
+    email: EmailStr
 
 class UserCreate(UserBase):
-    pass
+    password: str  # Necesario para registro
+
+class UserUpdate(BaseModel):
+    username: Optional[str] = None
+    email: Optional[EmailStr] = None
+    password: Optional[str] = None  # Opcional en updates
 
 class UserResponse(UserBase):
     id: int
-    is_admin: bool
+    is_admin: bool = False
     created_at: datetime
-    
-    class Config:
-        from_attributes = True
+
+    model_config = {"from_attributes": True}  # Antes era class Config
+
+# Opcional: para login
+class UserLogin(BaseModel):
+    username: str
+    password: str
+
+class Token(BaseModel):
+    access_token: str
+    token_type: str = "bearer"
 
 # =======================
-# SERIES
-# =======================
-class SeriesBase(BaseModel):
-    type: str  # anime, manga, novel, etc.
-    is_adult: bool = False
-
-# Input (Lo que envías al crear)
-class SeriesCreate(SeriesBase):
-    title: str       # El título lo pasaremos a la tabla de traducciones
-    reference_code: str # Código interno (ej: ISBN, IPX)
-    description: Optional[str] = None
-
-# Output Público (Lo que ve todo el mundo)
-class SeriesPublic(SeriesBase):
-    id: int
-    # No mostramos reference_code ni fechas de creación
-    # Nota: Para mostrar el título aquí se requiere un poco más de lógica avanzada con SQLAlchemy 
-    # (hybrid properties), por ahora devolveremos el objeto base.
-    
-    class Config:
-        from_attributes = True
-
-# Output Admin (Lo que ves tú)
-class SeriesAdmin(SeriesBase):
-    id: int
-    reference_code: str
-    created_at: datetime
-    
-    class Config:
-        from_attributes = True
-
-# =======================
-# GRUPOS (Temporadas/Volúmenes)
+# GRUPOS (Temporadas/Volúmenes) - Extensión de lo que ya tienes
 # =======================
 class GroupBase(BaseModel):
-    type: str # season, volume, etc.
+    type: GroupType
     order_number: float
     title: Optional[str] = None
-    status: str = "unreleased" # unreleased, releasing, finished
+    status: ReleaseStatus = ReleaseStatus.UNRELEASED
     start_date: Optional[date] = None
+    end_date: Optional[date] = None
+    cover_url: Optional[str] = None
 
 class GroupCreate(GroupBase):
-    pass
+    translations: Optional[List[TranslationCreate]] = None
+    external_links: Optional[List[ExternalLinkCreate]] = None
 
 class GroupResponse(GroupBase):
     id: int
     series_id: int
-    class Config:
-        from_attributes = True
+    translations: List[TranslationResponse] = []
+    external_links: List[ExternalLinkResponse] = []
+
+    model_config = ConfigDict(from_attributes=True)
 
 # =======================
-# CAPÍTULOS
+# CAPÍTULOS - Extensión de lo que ya tienes
 # =======================
 class ChapterBase(BaseModel):
     number_in_group: float
     absolute_number: Optional[float] = None
-    duration: Optional[int] = None # Páginas o minutos
+    duration: Optional[int] = None  # Minutos o páginas
     release_date: Optional[date] = None
 
 class ChapterCreate(ChapterBase):
-    pass
+    translations: Optional[List[TranslationCreate]] = None  # Solo title por capítulo
 
 class ChapterResponse(ChapterBase):
     id: int
     group_id: int
-    class Config:
-        from_attributes = True
+    translations: List[TranslationResponse] = []
+    created_at: datetime
+
+    model_config = ConfigDict(from_attributes=True)
+
+# =======================
+# SERIES - Lo principal que pedías
+# =======================
+
+# Base: Campos esenciales comunes
+class SeriesBase(BaseModel):
+    type: MediaType
+    reference_code: Optional[str] = None  # ej: IPX-123, ISBN
+    status: SeriesStatus = SeriesStatus.ONGOING
+    is_adult: bool = False
+    original_language: str = "ja"
+    cover_url: Optional[str] = None
+
+# Create: Para POST /series (input del usuario)
+# - Campos requeridos + opcionales
+# - Incluye listas para crear relaciones en cascada (si usas session.add en el endpoint)
+class SeriesCreate(SeriesBase):
+    translations: List[TranslationCreate]  # Al menos uno? Hazlo required si quieres
+    genres: Optional[List[GenreCreate]] = None  # Slugs para asociar
+    staff: Optional[List[StaffCreate]] = None
+    groups: Optional[List[GroupCreate]] = None  # Puedes crear groups al mismo tiempo
+    external_links: Optional[List[ExternalLinkCreate]] = None
+
+# Update: Para PATCH /series/{id} (updates parciales)
+# - Todo opcional, para no sobreescribir lo que no se envíe
+class SeriesUpdate(BaseModel):
+    type: Optional[MediaType] = None
+    reference_code: Optional[str] = None
+    status: Optional[SeriesStatus] = None
+    is_adult: Optional[bool] = None
+    original_language: Optional[str] = None
+    cover_url: Optional[str] = None
+    # Para relaciones: Si quieres actualizarlas, usa listas opcionales
+    # Pero para updates complejos de relaciones, mejor endpoints separados (ej: POST /series/{id}/genres)
+
+# Response Básico: Para listas o detalles simples (tu getSeriesById)
+class SeriesPublic(SeriesBase):
+    id: int
+    created_at: datetime
+    translations: List[TranslationResponse] = []  # Incluye títulos/descripciones
+    genres: List[GenreResponse] = []
+
+    model_config = ConfigDict(from_attributes=True)
+
+# Response Completo: Para detalles full (tu getSeriesFullById)
+# - Incluye todo: groups con capítulos, staff, etc.
+class SeriesFull(SeriesPublic):
+    staff: List[StaffResponse] = []
+    groups: List[GroupResponse] = []  # Groups incluyen chapters si los anidas en GroupResponse
+    external_links: List[ExternalLinkResponse] = []
+
+    model_config = ConfigDict(from_attributes=True)
