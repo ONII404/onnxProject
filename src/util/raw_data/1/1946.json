@@ -1,0 +1,784 @@
+{
+    "id": 1946,
+    "fetched_at": "Sun Dec 14 17:59:52 2025",
+    "metadata": {
+        "mal_id": 1946,
+        "url": "https://myanimelist.net/anime/1946/Ashita_no_Nadja",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/7/75381.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/7/75381t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/7/75381l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/7/75381.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/7/75381t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/7/75381l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Ashita no Nadja"
+            },
+            {
+                "type": "Japanese",
+                "title": "明日のナージャ"
+            },
+            {
+                "type": "English",
+                "title": "Tomorrow's Nadja"
+            },
+            {
+                "type": "Spanish",
+                "title": "Nadja Applefields"
+            }
+        ],
+        "title": "Ashita no Nadja",
+        "title_english": "Tomorrow's Nadja",
+        "title_japanese": "明日のナージャ",
+        "title_synonyms": [],
+        "type": "TV",
+        "source": "Original",
+        "episodes": 50,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "2003-02-02T00:00:00+00:00",
+            "to": "2004-01-25T00:00:00+00:00",
+            "prop": {
+                "from": {
+                    "day": 2,
+                    "month": 2,
+                    "year": 2003
+                },
+                "to": {
+                    "day": 25,
+                    "month": 1,
+                    "year": 2004
+                }
+            },
+            "string": "Feb 2, 2003 to Jan 25, 2004"
+        },
+        "duration": "24 min per ep",
+        "rating": "G - All Ages",
+        "score": 7.59,
+        "scored_by": 12459,
+        "rank": 1678,
+        "popularity": 4166,
+        "members": 35936,
+        "favorites": 300,
+        "synopsis": "This story takes place about one hundred years ago. Nadja is a bright, cheerful girl who was raised in an orphanage near London, England. Nadja was entrusted to the orphanage when she was a baby. So she thought her father and mother were dead. But before her thirteenth birthday, she found out that her mother might be alive..\n\nNadja sets out on a journey to find her mother! With all of Europe as the stage, Nadja's exciting adventure begins!\n\n(Source: AniDB)",
+        "background": "",
+        "season": "winter",
+        "year": 2003,
+        "broadcast": {
+            "day": "Sundays",
+            "time": "08:30",
+            "timezone": "Asia/Tokyo",
+            "string": "Sundays at 08:30 (JST)"
+        },
+        "producers": [
+            {
+                "mal_id": 1415,
+                "type": "anime",
+                "name": "Asahi Broadcasting",
+                "url": "https://myanimelist.net/anime/producer/1415/Asahi_Broadcasting"
+            }
+        ],
+        "licensors": [],
+        "studios": [
+            {
+                "mal_id": 18,
+                "type": "anime",
+                "name": "Toei Animation",
+                "url": "https://myanimelist.net/anime/producer/18/Toei_Animation"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 2,
+                "type": "anime",
+                "name": "Adventure",
+                "url": "https://myanimelist.net/anime/genre/2/Adventure"
+            },
+            {
+                "mal_id": 8,
+                "type": "anime",
+                "name": "Drama",
+                "url": "https://myanimelist.net/anime/genre/8/Drama"
+            },
+            {
+                "mal_id": 22,
+                "type": "anime",
+                "name": "Romance",
+                "url": "https://myanimelist.net/anime/genre/22/Romance"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [
+            {
+                "mal_id": 13,
+                "type": "anime",
+                "name": "Historical",
+                "url": "https://myanimelist.net/anime/genre/13/Historical"
+            }
+        ],
+        "demographics": [],
+        "relations": [
+            {
+                "relation": "Adaptation",
+                "entry": [
+                    {
+                        "mal_id": 7282,
+                        "type": "manga",
+                        "name": "Ashita no Nadja",
+                        "url": "https://myanimelist.net/manga/7282/Ashita_no_Nadja"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [
+                "\"Nadja!!\" by Minako Honda"
+            ],
+            "endings": [
+                "\"Que Sera, Sera\" by Ami Koshimizu"
+            ]
+        },
+        "external": [
+            {
+                "name": "Official Site",
+                "url": "http://www.toei-anim.co.jp/tv/nadja/"
+            },
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=520"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=2084"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "http://en.wikipedia.org/wiki/Ashita_no_Nadja"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": [
+        {
+            "mal_id": 1,
+            "url": null,
+            "title": "Nadja, Door of Destiny",
+            "title_japanese": "ナージャ、運命の扉",
+            "title_romanji": "Nadja, Unmei no Tobira!! ",
+            "aired": "2003-02-02T00:00:00+00:00",
+            "score": 4.18,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=109391"
+        },
+        {
+            "mal_id": 2,
+            "url": null,
+            "title": "Night of the Phantom Thief Black Rose",
+            "title_japanese": "怪盗黒バラの夜",
+            "title_romanji": "Kaitou Kuro Bara no Yoru ",
+            "aired": "2003-02-09T00:00:00+00:00",
+            "score": 4.5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2177497"
+        },
+        {
+            "mal_id": 3,
+            "url": null,
+            "title": "Samurai Kennosuke's Wild Ride",
+            "title_japanese": "サムライ・ケンノスケ大暴走",
+            "title_romanji": "Samurai Kennosuke Daibousou!! ",
+            "aired": "2003-02-16T00:00:00+00:00",
+            "score": 3.91,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1850593"
+        },
+        {
+            "mal_id": 4,
+            "url": null,
+            "title": "Dancing Princess Nadja and the Mummy Professor",
+            "title_japanese": "舞姫ナージャとミイラ博士",
+            "title_romanji": "Mai Hime Nadja to Miira Hakase ",
+            "aired": "2003-02-23T00:00:00+00:00",
+            "score": 4.5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2177526"
+        },
+        {
+            "mal_id": 5,
+            "url": null,
+            "title": "The Starry Night: A Waltz just for Two",
+            "title_japanese": "星の夜・二人だけのワルツ",
+            "title_romanji": "Hoshi no Yoru, Futaridake no Waltz ",
+            "aired": "2003-03-02T00:00:00+00:00",
+            "score": 4.58,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1630967"
+        },
+        {
+            "mal_id": 6,
+            "url": null,
+            "title": "The Diary of the Ball that ties Mother and Daughter",
+            "title_japanese": "母子を結ぶ舞踏会の日記",
+            "title_romanji": "Oyako wo Musubu Butoukai no Nikki ",
+            "aired": "2003-03-09T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 7,
+            "url": null,
+            "title": "The Masquerade Ball Trap",
+            "title_japanese": "仮面舞踏会のワナ",
+            "title_romanji": "Kamen Butoukai no Wana ",
+            "aired": "2003-03-16T00:00:00+00:00",
+            "score": 3,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2218146"
+        },
+        {
+            "mal_id": 8,
+            "url": null,
+            "title": "A Broken Wing and Tears of Love",
+            "title_japanese": "折れた翼と恋の涙",
+            "title_romanji": "Oreta Tsubasa to Koi no Namida ",
+            "aired": "2003-03-23T00:00:00+00:00",
+            "score": 4.64,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1419825"
+        },
+        {
+            "mal_id": 9,
+            "url": null,
+            "title": "The Troubled, Genius Pianist",
+            "title_japanese": "悩める天才ピアニスト",
+            "title_romanji": "Nayameru Tensai Pianist! ",
+            "aired": "2003-03-30T00:00:00+00:00",
+            "score": 4.29,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1631798"
+        },
+        {
+            "mal_id": 10,
+            "url": null,
+            "title": "Music Box with Memories for Two",
+            "title_japanese": "ふたつの想い出オルゴール",
+            "title_romanji": "Futatsu no Omoide Orgel ",
+            "aired": "2003-04-06T00:00:00+00:00",
+            "score": 4.56,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=628981"
+        },
+        {
+            "mal_id": 11,
+            "url": null,
+            "title": "A Narrow Escape: Love Confession in Paris",
+            "title_japanese": "危機一髪！パリの告白",
+            "title_romanji": "Kikiippatsu! Paris no Kokuhaku ",
+            "aired": "2003-04-13T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2239223"
+        },
+        {
+            "mal_id": 12,
+            "url": null,
+            "title": "Treasure Hunting is Romantic?",
+            "title_japanese": "宝探しはロマンチック！？",
+            "title_romanji": "Takarasagashi wa Romantic!? ",
+            "aired": "2003-04-20T00:00:00+00:00",
+            "score": 4.62,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=131152"
+        },
+        {
+            "mal_id": 13,
+            "url": null,
+            "title": "Francis in The Morning Light",
+            "title_japanese": "朝陽の中のフランシス",
+            "title_romanji": "Asahi no Naka no Francis ",
+            "aired": "2003-04-27T00:00:00+00:00",
+            "score": 4.89,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1717736"
+        },
+        {
+            "mal_id": 14,
+            "url": null,
+            "title": "A Lie at the Alpine Flower Festival",
+            "title_japanese": "アルプス花祭りのウソ",
+            "title_romanji": "Alps Hanamatsuri no Uso ",
+            "aired": "2003-05-04T00:00:00+00:00",
+            "score": 4.33,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1737223"
+        },
+        {
+            "mal_id": 15,
+            "url": null,
+            "title": "Family in a Storm",
+            "title_japanese": "嵐の中の家族",
+            "title_romanji": "Arashi no Naka no Kazoku ",
+            "aired": "2003-05-11T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2243525"
+        },
+        {
+            "mal_id": 16,
+            "url": null,
+            "title": "I Don't Understand the Game of Love Adults Play",
+            "title_japanese": "わからない！大人の恋愛ゲーム！",
+            "title_romanji": "Wakaranai! Otona no Renai Game! ",
+            "aired": "2003-05-18T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2243791"
+        },
+        {
+            "mal_id": 17,
+            "url": null,
+            "title": "Love and Ambition in Milan",
+            "title_japanese": "愛と野望のミラノ",
+            "title_romanji": "Ai to Yabou no Milan ",
+            "aired": "2003-05-25T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2244649"
+        },
+        {
+            "mal_id": 18,
+            "url": null,
+            "title": "Venice, The Tearful Mama Mia",
+            "title_japanese": "ヴェネツィア、涙のマンマ・ミーア",
+            "title_romanji": "Venecia, Namida no Mamma Mia ",
+            "aired": "2003-06-01T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 19,
+            "url": null,
+            "title": "A Foggy Night: The Black Rose's Truth",
+            "title_japanese": "霧の夜・黒バラの真実",
+            "title_romanji": "Kiri no Yoru, Kuro Bara no Shinjitsu ",
+            "aired": "2003-06-08T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 20,
+            "url": null,
+            "title": "Dangerous Date in Rome",
+            "title_japanese": "危険がいっぱい！ローマのデート",
+            "title_romanji": "Kiken ga Ippai! Rome no Date ",
+            "aired": "2003-06-22T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 21,
+            "url": null,
+            "title": "The Mother and Daughter who keep passing each other and two birthdays",
+            "title_japanese": "すれ違う母娘・ふたつの誕生日",
+            "title_romanji": "Surechigau Oyako, Futatsu no Tanjoubi ",
+            "aired": "2003-06-29T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 22,
+            "url": null,
+            "title": "Help! Memories of Fire",
+            "title_japanese": "助けて！炎の記憶",
+            "title_romanji": "Tasukete! Honoo no Kioku ",
+            "aired": "2003-07-06T00:00:00+00:00",
+            "score": 4.75,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2006986"
+        },
+        {
+            "mal_id": 23,
+            "url": null,
+            "title": "Terror! Ghost Ship of the Mediterranean",
+            "title_japanese": "恐怖！地中海の幽霊船",
+            "title_romanji": "Kyoufu! Chichuukai no Yuureisen ",
+            "aired": "2003-07-13T00:00:00+00:00",
+            "score": 3.86,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1737537"
+        },
+        {
+            "mal_id": 24,
+            "url": null,
+            "title": "Olé! Solar Matador and Flamenco",
+            "title_japanese": "オーレ！太陽の闘牛士とフラメンコ",
+            "title_romanji": "Ole! Taiyou no Tougyuushi to Flamenco ",
+            "aired": "2003-07-20T00:00:00+00:00",
+            "score": 4.67,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1634499"
+        },
+        {
+            "mal_id": 25,
+            "url": null,
+            "title": "The Return of the Beautiful Betrayer",
+            "title_japanese": "帰ってきた裏切りの美女",
+            "title_romanji": "Kaette Kita Uragiri no Bijo ",
+            "aired": "2003-07-27T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 26,
+            "url": null,
+            "title": "The Other Side of Francis",
+            "title_japanese": "フランシスの向こう側",
+            "title_romanji": "Francis no Mukougawa ",
+            "aired": "2003-08-03T00:00:00+00:00",
+            "score": 4.88,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=79889"
+        },
+        {
+            "mal_id": 27,
+            "url": null,
+            "title": "High-Flying Kennosuke",
+            "title_japanese": "空飛ぶケンノスケ！",
+            "title_romanji": "Soratobu Kennosuke! ",
+            "aired": "2003-08-10T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 28,
+            "url": null,
+            "title": "The Dangerous Princess",
+            "title_japanese": "危険なプリンセス",
+            "title_romanji": "Kiken na Princess ",
+            "aired": "2003-08-17T00:00:00+00:00",
+            "score": 4.58,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=357271"
+        },
+        {
+            "mal_id": 29,
+            "url": null,
+            "title": "A Wonderful Life! The Man who saw Light and Shadow",
+            "title_japanese": "すばらしき人生！光と影を見た男",
+            "title_romanji": "Subarashiki Jinsei! Hikari to Kage wo Mita Otoko ",
+            "aired": "2003-08-24T00:00:00+00:00",
+            "score": 4.13,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=357279"
+        },
+        {
+            "mal_id": 30,
+            "url": null,
+            "title": "The Muddy White Rose",
+            "title_japanese": "泥まみれの白バラ",
+            "title_romanji": "Doromamire no Shiro Bara ",
+            "aired": "2003-08-31T00:00:00+00:00",
+            "score": 4.71,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1737691"
+        },
+        {
+            "mal_id": 31,
+            "url": null,
+            "title": "The Clown Who Won't Cry",
+            "title_japanese": "泣かないピエロ",
+            "title_romanji": "Nakanai Pierrot ",
+            "aired": "2003-09-07T00:00:00+00:00",
+            "score": 5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1636747"
+        },
+        {
+            "mal_id": 32,
+            "url": null,
+            "title": "The End of the Nile: The Secret of the Ring",
+            "title_japanese": "ナイルの果て・指輪の秘密",
+            "title_romanji": "Nile no Hate, Yubiwa no Himitsu ",
+            "aired": "2003-09-14T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 33,
+            "url": null,
+            "title": "The Brooch that vanished into the Pyramid",
+            "title_japanese": "ピラミッドに消えたブローチ",
+            "title_romanji": "Pyramid ni Kieta Brooch ",
+            "aired": "2003-09-21T00:00:00+00:00",
+            "score": 4.83,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1737735"
+        },
+        {
+            "mal_id": 34,
+            "url": null,
+            "title": "Farewell, Dandelion Troupe",
+            "title_japanese": "さよならダンデライオン一座",
+            "title_romanji": "Sayonara Dandelion Ichiza ",
+            "aired": "2003-09-28T00:00:00+00:00",
+            "score": 4.57,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1737745"
+        },
+        {
+            "mal_id": 35,
+            "url": null,
+            "title": "The Wind's Trick: Irony of Fate",
+            "title_japanese": "風のいたずら・運命の皮肉",
+            "title_romanji": "Kaze no Itazura, Unmei no Hiniku ",
+            "aired": "2003-10-05T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 36,
+            "url": null,
+            "title": "Danger Lurks: The Black Rose's Life on the Line",
+            "title_japanese": "危うし！命を賭けた黒バラ",
+            "title_romanji": "Ayaushi! Inochi wo Kaketa Kuro Bara ",
+            "aired": "2003-10-12T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 37,
+            "url": null,
+            "title": "Light and Darkness: The Plan to Get the Brooch Back",
+            "title_japanese": "明暗！ブローチ奪還作戦",
+            "title_romanji": "Meian! Brooch Dakkan Sakusen ",
+            "aired": "2003-09-19T00:00:00+00:00",
+            "score": 4.33,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=22785"
+        },
+        {
+            "mal_id": 38,
+            "url": null,
+            "title": "Rosemary: the Scheme Behind the Smile",
+            "title_japanese": "ローズマリー笑顔の陰謀",
+            "title_romanji": "Rosemary Egao no Inbou ",
+            "aired": "2003-10-26T00:00:00+00:00",
+            "score": 4.23,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=102573"
+        },
+        {
+            "mal_id": 39,
+            "url": null,
+            "title": "Don't Steal My Mother!",
+            "title_japanese": "盗らないで！私のお母さん",
+            "title_romanji": "Toranaide! Watashi no Okaasan ",
+            "aired": "2003-11-09T00:00:00+00:00",
+            "score": 4.5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=102594"
+        },
+        {
+            "mal_id": 40,
+            "url": null,
+            "title": "Morning of Decision, Journey of Truth",
+            "title_japanese": "決意の朝！本当の旅立ち",
+            "title_romanji": "Ketsui no Asa! Hontou no Tabidachi ",
+            "aired": "2003-11-16T00:00:00+00:00",
+            "score": 4.14,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=80674"
+        },
+        {
+            "mal_id": 41,
+            "url": null,
+            "title": "A Journey Alone, with Joys and Hardships",
+            "title_japanese": "喜びも苦しみもひとり旅",
+            "title_romanji": "Yorokobi mo Kurushimi mo Hitoritabi ",
+            "aired": "2003-11-23T00:00:00+00:00",
+            "score": 4.38,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=102866"
+        },
+        {
+            "mal_id": 42,
+            "url": null,
+            "title": "Alone at Home",
+            "title_japanese": "ひとりぼっちの故郷",
+            "title_romanji": "Hitoribocchi no Furusato ",
+            "aired": "2003-11-30T00:00:00+00:00",
+            "score": 4.2,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=103068"
+        },
+        {
+            "mal_id": 43,
+            "url": null,
+            "title": "Piano Lullaby",
+            "title_japanese": "ピアノがつなぐ子守歌",
+            "title_romanji": "Piano ga Tsunagu Komoriuta ",
+            "aired": "2003-11-07T00:00:00+00:00",
+            "score": 4.22,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=110585"
+        },
+        {
+            "mal_id": 44,
+            "url": null,
+            "title": "Which do I Like? The ultimate Decision!",
+            "title_japanese": "どっちが好き？究極の選択！",
+            "title_romanji": "Docchi ga Suki? Kyuukyoku no Sentaku! ",
+            "aired": "2003-12-14T00:00:00+00:00",
+            "score": 4.4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=82317"
+        },
+        {
+            "mal_id": 45,
+            "url": null,
+            "title": "Three-Person Triangle: The Wavering Romance",
+            "title_japanese": "三人模様・ぐらつく恋心",
+            "title_romanji": "Sannin Moyou, Guratsuku Koigokoro ",
+            "aired": "2003-12-21T00:00:00+00:00",
+            "score": 4.85,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=110606"
+        },
+        {
+            "mal_id": 46,
+            "url": null,
+            "title": "Confrontation between the Two Nadjas",
+            "title_japanese": "二人のナージャ、対決！",
+            "title_romanji": "Futari no Nadja, Taiketsu! ",
+            "aired": "2003-12-28T00:00:00+00:00",
+            "score": 4.5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=110628"
+        },
+        {
+            "mal_id": 47,
+            "url": null,
+            "title": "Silence! The Captured White Rose",
+            "title_japanese": "沈黙！囚われの白バラ",
+            "title_romanji": "Chinmoku! Toraware no Shiro Bara ",
+            "aired": "2004-01-04T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 48,
+            "url": null,
+            "title": "Reversal: The End of the Black Rose",
+            "title_japanese": "逆転！黒バラの最後",
+            "title_romanji": "Gyakuten! Kuro Bara no Saigo ",
+            "aired": "2004-01-11T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 49,
+            "url": null,
+            "title": "Don't Give Up: The Power of Truth",
+            "title_japanese": "諦めない！真実の力",
+            "title_romanji": "Akiramenai! Shinjitsu no Chikara ",
+            "aired": "2004-01-18T00:00:00+00:00",
+            "score": 4.36,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=154581"
+        },
+        {
+            "mal_id": 50,
+            "url": null,
+            "title": "New Door of Destiny",
+            "title_japanese": "新たなる運命の扉",
+            "title_romanji": "Aratanaru Unmei no Tobira ",
+            "aired": "2004-01-25T00:00:00+00:00",
+            "score": 4.24,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=502721"
+        }
+    ]
+}

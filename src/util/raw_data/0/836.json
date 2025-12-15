@@ -1,0 +1,546 @@
+{
+    "id": 836,
+    "fetched_at": "Sun Dec 14 14:11:24 2025",
+    "metadata": {
+        "mal_id": 836,
+        "url": "https://myanimelist.net/anime/836/Sister_Princess",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/5/23692.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/5/23692t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/5/23692l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/5/23692.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/5/23692t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/5/23692l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": "https://www.youtube-nocookie.com/embed/DA8kjBZb-Ac?enablejsapi=1&wmode=opaque&autoplay=1",
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Sister Princess"
+            },
+            {
+                "type": "Synonym",
+                "title": "SP"
+            },
+            {
+                "type": "Synonym",
+                "title": "sispri"
+            },
+            {
+                "type": "Japanese",
+                "title": "シスター・プリンセス"
+            }
+        ],
+        "title": "Sister Princess",
+        "title_english": null,
+        "title_japanese": "シスター・プリンセス",
+        "title_synonyms": [
+            "SP",
+            "sispri"
+        ],
+        "type": "TV",
+        "source": "Light novel",
+        "episodes": 26,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "2001-04-04T00:00:00+00:00",
+            "to": "2001-09-26T00:00:00+00:00",
+            "prop": {
+                "from": {
+                    "day": 4,
+                    "month": 4,
+                    "year": 2001
+                },
+                "to": {
+                    "day": 26,
+                    "month": 9,
+                    "year": 2001
+                }
+            },
+            "string": "Apr 4, 2001 to Sep 26, 2001"
+        },
+        "duration": "23 min per ep",
+        "rating": "PG-13 - Teens 13 or older",
+        "score": 6.38,
+        "scored_by": 9744,
+        "rank": 8051,
+        "popularity": 4754,
+        "members": 27042,
+        "favorites": 91,
+        "synopsis": "Wataru Minakami is a top student who failed his high school entrance exam because of a computer glitch. He later discovered that he was accepted to Stargazer Hill Academy, which is located at a mysterious place called Promised Island. At the request of his father, Wataru is whisked away to the island, and before he can settle in, a dozen of cute and charming girls start to flock him and claim to be his younger sisters. As Wataru gets closer to his newfound siblings, a deeper mystery as to why they were sent to the island comes to play. \n\n(Source: ANN)",
+        "background": "",
+        "season": "spring",
+        "year": 2001,
+        "broadcast": {
+            "day": null,
+            "time": null,
+            "timezone": null,
+            "string": "Unknown"
+        },
+        "producers": [
+            {
+                "mal_id": 92,
+                "type": "anime",
+                "name": "Starchild Records",
+                "url": "https://myanimelist.net/anime/producer/92/Starchild_Records"
+            },
+            {
+                "mal_id": 717,
+                "type": "anime",
+                "name": "TV Tokyo Music",
+                "url": "https://myanimelist.net/anime/producer/717/TV_Tokyo_Music"
+            },
+            {
+                "mal_id": 721,
+                "type": "anime",
+                "name": "GANSIS",
+                "url": "https://myanimelist.net/anime/producer/721/GANSIS"
+            },
+            {
+                "mal_id": 2981,
+                "type": "anime",
+                "name": "Omnibus Promotion",
+                "url": "https://myanimelist.net/anime/producer/2981/Omnibus_Promotion"
+            }
+        ],
+        "licensors": [
+            {
+                "mal_id": 97,
+                "type": "anime",
+                "name": "ADV Films",
+                "url": "https://myanimelist.net/anime/producer/97/ADV_Films"
+            },
+            {
+                "mal_id": 467,
+                "type": "anime",
+                "name": "Discotek Media",
+                "url": "https://myanimelist.net/anime/producer/467/Discotek_Media"
+            }
+        ],
+        "studios": [
+            {
+                "mal_id": 218,
+                "type": "anime",
+                "name": "Zexcs",
+                "url": "https://myanimelist.net/anime/producer/218/Zexcs"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 4,
+                "type": "anime",
+                "name": "Comedy",
+                "url": "https://myanimelist.net/anime/genre/4/Comedy"
+            },
+            {
+                "mal_id": 8,
+                "type": "anime",
+                "name": "Drama",
+                "url": "https://myanimelist.net/anime/genre/8/Drama"
+            },
+            {
+                "mal_id": 22,
+                "type": "anime",
+                "name": "Romance",
+                "url": "https://myanimelist.net/anime/genre/22/Romance"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [
+            {
+                "mal_id": 35,
+                "type": "anime",
+                "name": "Harem",
+                "url": "https://myanimelist.net/anime/genre/35/Harem"
+            }
+        ],
+        "demographics": [],
+        "relations": [
+            {
+                "relation": "Sequel",
+                "entry": [
+                    {
+                        "mal_id": 835,
+                        "type": "anime",
+                        "name": "Sister Princess: Re Pure",
+                        "url": "https://myanimelist.net/anime/835/Sister_Princess__Re_Pure"
+                    }
+                ]
+            },
+            {
+                "relation": "Adaptation",
+                "entry": [
+                    {
+                        "mal_id": 8414,
+                        "type": "manga",
+                        "name": "Sister Princess",
+                        "url": "https://myanimelist.net/manga/8414/Sister_Princess"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [
+                "\"Love Destiny\" by Horie Yui"
+            ],
+            "endings": [
+                "\"Tsubasa\" by Horie Yui"
+            ]
+        },
+        "external": [
+            {
+                "name": "Official Site",
+                "url": "http://www.starchild.co.jp/special/sispri/index.html"
+            },
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=269"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=1114"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "http://en.wikipedia.org/wiki/Sister_Princess_%28anime%29"
+            }
+        ],
+        "streaming": [
+            {
+                "name": "Crunchyroll",
+                "url": "http://www.crunchyroll.com/series-280703"
+            }
+        ]
+    },
+    "episodes": [
+        {
+            "mal_id": 1,
+            "url": "https://myanimelist.net/anime/836/Sister_Princess/episode/1",
+            "title": "My Graduation",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 4.36,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=146847"
+        },
+        {
+            "mal_id": 2,
+            "url": "https://myanimelist.net/anime/836/Sister_Princess/episode/2",
+            "title": "I Love Big Brother So Much!",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 4.57,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=147180"
+        },
+        {
+            "mal_id": 3,
+            "url": "https://myanimelist.net/anime/836/Sister_Princess/episode/3",
+            "title": "Being With Dear Brother",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 4.56,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=601397"
+        },
+        {
+            "mal_id": 4,
+            "url": "https://myanimelist.net/anime/836/Sister_Princess/episode/4",
+            "title": "Where is Mr. Teddy Bear?",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 4.2,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=601511"
+        },
+        {
+            "mal_id": 5,
+            "url": "https://myanimelist.net/anime/836/Sister_Princess/episode/5",
+            "title": "E-mailing With Bro",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 4.33,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=601559"
+        },
+        {
+            "mal_id": 6,
+            "url": "https://myanimelist.net/anime/836/Sister_Princess/episode/6",
+            "title": "Big Brother is a Prince",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 4.71,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=601611"
+        },
+        {
+            "mal_id": 7,
+            "url": "https://myanimelist.net/anime/836/Sister_Princess/episode/7",
+            "title": "Season of Love",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=603095"
+        },
+        {
+            "mal_id": 8,
+            "url": "https://myanimelist.net/anime/836/Sister_Princess/episode/8",
+            "title": "One Day, Two of Us",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 4.5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=603607"
+        },
+        {
+            "mal_id": 9,
+            "url": "https://myanimelist.net/anime/836/Sister_Princess/episode/9",
+            "title": "Summer Has Come",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 4.6,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=604463"
+        },
+        {
+            "mal_id": 10,
+            "url": "https://myanimelist.net/anime/836/Sister_Princess/episode/10",
+            "title": "Do Your Best, Big Bro!",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 4.73,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=604845"
+        },
+        {
+            "mal_id": 11,
+            "url": "https://myanimelist.net/anime/836/Sister_Princess/episode/11",
+            "title": "Secret Tour With Bro",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 4.5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=604967"
+        },
+        {
+            "mal_id": 12,
+            "url": "https://myanimelist.net/anime/836/Sister_Princess/episode/12",
+            "title": "Vacation is Love!",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 4.71,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=607059"
+        },
+        {
+            "mal_id": 13,
+            "url": "https://myanimelist.net/anime/836/Sister_Princess/episode/13",
+            "title": "Summer With Big Brother",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 4.73,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=608361"
+        },
+        {
+            "mal_id": 14,
+            "url": "https://myanimelist.net/anime/836/Sister_Princess/episode/14",
+            "title": "True Feelings",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 4.22,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=608745"
+        },
+        {
+            "mal_id": 15,
+            "url": "https://myanimelist.net/anime/836/Sister_Princess/episode/15",
+            "title": "Aria's Ribbon",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 4.79,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=608821"
+        },
+        {
+            "mal_id": 16,
+            "url": "https://myanimelist.net/anime/836/Sister_Princess/episode/16",
+            "title": "Kaho Will Do Her Best!",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 4.62,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=333185"
+        },
+        {
+            "mal_id": 17,
+            "url": "https://myanimelist.net/anime/836/Sister_Princess/episode/17",
+            "title": "It's Moxibustion... Blush ❤︎",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 4.63,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=610535"
+        },
+        {
+            "mal_id": 18,
+            "url": "https://myanimelist.net/anime/836/Sister_Princess/episode/18",
+            "title": "....Eternal.... Vows........",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 4.13,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=333501"
+        },
+        {
+            "mal_id": 19,
+            "url": "https://myanimelist.net/anime/836/Sister_Princess/episode/19",
+            "title": "Boxed Lunch of Love",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 4.44,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=611263"
+        },
+        {
+            "mal_id": 20,
+            "url": "https://myanimelist.net/anime/836/Sister_Princess/episode/20",
+            "title": "Christmas Love Destiny",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 4.55,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=611561"
+        },
+        {
+            "mal_id": 21,
+            "url": "https://myanimelist.net/anime/836/Sister_Princess/episode/21",
+            "title": "Me Two to Bro \\(^o^)/~❤︎",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 4.86,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=611873"
+        },
+        {
+            "mal_id": 22,
+            "url": "https://myanimelist.net/anime/836/Sister_Princess/episode/22",
+            "title": "Check It Out, Brother Dearest ❤︎",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 4.67,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=614753"
+        },
+        {
+            "mal_id": 23,
+            "url": "https://myanimelist.net/anime/836/Sister_Princess/episode/23",
+            "title": "The First Guest",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 4.73,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=616031"
+        },
+        {
+            "mal_id": 24,
+            "url": "https://myanimelist.net/anime/836/Sister_Princess/episode/24",
+            "title": "Premonition of a Farewell",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 4.6,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=43414"
+        },
+        {
+            "mal_id": 25,
+            "url": "https://myanimelist.net/anime/836/Sister_Princess/episode/25",
+            "title": "I Want To See... Big Brother",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 4.67,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=617039"
+        },
+        {
+            "mal_id": 26,
+            "url": "https://myanimelist.net/anime/836/Sister_Princess/episode/26",
+            "title": "Promised Island",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 4.25,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=128743"
+        }
+    ]
+}

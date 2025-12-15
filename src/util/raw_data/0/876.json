@@ -1,0 +1,588 @@
+{
+    "id": 876,
+    "fetched_at": "Sun Dec 14 14:14:46 2025",
+    "metadata": {
+        "mal_id": 876,
+        "url": "https://myanimelist.net/anime/876/Street_Fighter_II_V",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/6/29992.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/6/29992t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/6/29992l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/6/29992.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/6/29992t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/6/29992l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Street Fighter II V"
+            },
+            {
+                "type": "Synonym",
+                "title": "Street Fighter 2 V"
+            },
+            {
+                "type": "Japanese",
+                "title": "ストリートファイターII V"
+            },
+            {
+                "type": "English",
+                "title": "Street Fighter II: The Animated Series"
+            }
+        ],
+        "title": "Street Fighter II V",
+        "title_english": "Street Fighter II: The Animated Series",
+        "title_japanese": "ストリートファイターII V",
+        "title_synonyms": [
+            "Street Fighter 2 V"
+        ],
+        "type": "TV",
+        "source": "Game",
+        "episodes": 29,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "1995-04-10T00:00:00+00:00",
+            "to": "1995-11-27T00:00:00+00:00",
+            "prop": {
+                "from": {
+                    "day": 10,
+                    "month": 4,
+                    "year": 1995
+                },
+                "to": {
+                    "day": 27,
+                    "month": 11,
+                    "year": 1995
+                }
+            },
+            "string": "Apr 10, 1995 to Nov 27, 1995"
+        },
+        "duration": "24 min per ep",
+        "rating": "PG-13 - Teens 13 or older",
+        "score": 7.05,
+        "scored_by": 16082,
+        "rank": 4317,
+        "popularity": 4547,
+        "members": 29862,
+        "favorites": 126,
+        "synopsis": "Ryu and Ken Masters are close friends and both are martial artists. In order to become better fighters and learn new techniques, they travel the world and are exposed to many different fighting styles, as well as meeting new people. During their journey, they find themselves caught up in a conspiracy perpetrated by a mysterious organisation called Shadowlaw, both now face their ultimate challenge and must fight for their lives as they combat the evil M. Bison. \n\n(Source: ANN)",
+        "background": "",
+        "season": "spring",
+        "year": 1995,
+        "broadcast": {
+            "day": "Mondays",
+            "time": "19:00",
+            "timezone": "Asia/Tokyo",
+            "string": "Mondays at 19:00 (JST)"
+        },
+        "producers": [
+            {
+                "mal_id": 76,
+                "type": "anime",
+                "name": "Yomiuri Telecasting",
+                "url": "https://myanimelist.net/anime/producer/76/Yomiuri_Telecasting"
+            },
+            {
+                "mal_id": 494,
+                "type": "anime",
+                "name": "Studio Take Off",
+                "url": "https://myanimelist.net/anime/producer/494/Studio_Take_Off"
+            },
+            {
+                "mal_id": 2981,
+                "type": "anime",
+                "name": "Omnibus Promotion",
+                "url": "https://myanimelist.net/anime/producer/2981/Omnibus_Promotion"
+            }
+        ],
+        "licensors": [
+            {
+                "mal_id": 947,
+                "type": "anime",
+                "name": "Manga Entertainment",
+                "url": "https://myanimelist.net/anime/producer/947/Manga_Entertainment"
+            }
+        ],
+        "studios": [
+            {
+                "mal_id": 86,
+                "type": "anime",
+                "name": "Group TAC",
+                "url": "https://myanimelist.net/anime/producer/86/Group_TAC"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 1,
+                "type": "anime",
+                "name": "Action",
+                "url": "https://myanimelist.net/anime/genre/1/Action"
+            },
+            {
+                "mal_id": 2,
+                "type": "anime",
+                "name": "Adventure",
+                "url": "https://myanimelist.net/anime/genre/2/Adventure"
+            },
+            {
+                "mal_id": 8,
+                "type": "anime",
+                "name": "Drama",
+                "url": "https://myanimelist.net/anime/genre/8/Drama"
+            },
+            {
+                "mal_id": 7,
+                "type": "anime",
+                "name": "Mystery",
+                "url": "https://myanimelist.net/anime/genre/7/Mystery"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [],
+        "demographics": [],
+        "relations": [
+            {
+                "relation": "Adaptation",
+                "entry": [
+                    {
+                        "mal_id": 97096,
+                        "type": "manga",
+                        "name": "Street Fighter II V Retsuden: Shouryuu Souha",
+                        "url": "https://myanimelist.net/manga/97096/Street_Fighter_II_V_Retsuden__Shouryuu_Souha"
+                    }
+                ]
+            },
+            {
+                "relation": "Alternative Version",
+                "entry": [
+                    {
+                        "mal_id": 1362,
+                        "type": "anime",
+                        "name": "Street Fighter II Movie",
+                        "url": "https://myanimelist.net/anime/1362/Street_Fighter_II_Movie"
+                    }
+                ]
+            },
+            {
+                "relation": "Alternative Setting",
+                "entry": [
+                    {
+                        "mal_id": 17379,
+                        "type": "anime",
+                        "name": "Street Fighter II: Yomigaeru Fujiwara-Kyou - Toki wo Kaketa Fighter-tachi",
+                        "url": "https://myanimelist.net/anime/17379/Street_Fighter_II__Yomigaeru_Fujiwara-Kyou_-_Toki_wo_Kaketa_Fighter-tachi"
+                    }
+                ]
+            },
+            {
+                "relation": "Other",
+                "entry": [
+                    {
+                        "mal_id": 30042,
+                        "type": "anime",
+                        "name": "Geori-eui Mubeopja",
+                        "url": "https://myanimelist.net/anime/30042/Geori-eui_Mubeopja"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [
+                "1: \"Kaze Fuiteru (風 吹いてる)\" by Yuki Kuroda (eps 1-19)",
+                "2: \"Ima, Ashita no Tame ni (今, 明日のために)\" by Shuji Honda (eps 20-29)"
+            ],
+            "endings": [
+                "1: \"Cry\" by Yuki Kuroda (eps 1-19)",
+                "2: \"Lonely Baby\" by Shuuji Honda (eps 20-29)"
+            ]
+        },
+        "external": [
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=772"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=644"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "http://en.wikipedia.org/wiki/Street_Fighter_II_V"
+            }
+        ],
+        "streaming": [
+            {
+                "name": "Netflix",
+                "url": "https://www.netflix.com/"
+            }
+        ]
+    },
+    "episodes": [
+        {
+            "mal_id": 1,
+            "url": null,
+            "title": "The Beginning of a Journey – Invitation from San Francisco",
+            "title_japanese": "旅立ち サンフランシスコからの招待状",
+            "title_romanji": "Tabidachi: San Francisco kara no Shoutaijou ",
+            "aired": "1995-04-10T00:00:00+00:00",
+            "score": 4.36,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=212415"
+        },
+        {
+            "mal_id": 2,
+            "url": null,
+            "title": "The King of the Air Force – An Explosion of Menacing Military Combat",
+            "title_japanese": "空軍の王者 炸裂、脅威のミリタリーコンバット",
+            "title_romanji": "Kuugun no Ouja: Sakuretsu, Kyoui no Military Combat ",
+            "aired": "1995-04-17T00:00:00+00:00",
+            "score": 4.25,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=212635"
+        },
+        {
+            "mal_id": 3,
+            "url": null,
+            "title": "Landing in Hong Kong",
+            "title_japanese": "香港上陸 潜入、魔闘窟への挑戦状",
+            "title_romanji": "Hong Kong Jouriku: Sennyuu, Matoukutsu e no Chousenjou ",
+            "aired": "1995-04-24T00:00:00+00:00",
+            "score": 4.05,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=256542"
+        },
+        {
+            "mal_id": 4,
+            "url": null,
+            "title": "Darkness at Kowloon Palace – Their Great Escape from the Lawless Zone",
+            "title_japanese": "暗黒の九龍城 無法地帯、命がけの大脱出",
+            "title_romanji": "Ankoku no Kowloon-jou: Muchouchitai, Inochigake no Daidasshutsu ",
+            "aired": "1995-05-01T00:00:00+00:00",
+            "score": 3.92,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1435745"
+        },
+        {
+            "mal_id": 5,
+            "url": null,
+            "title": "Hot Blooded Fei Long – Super Battle Action Movie",
+            "title_japanese": "飛龍熱血! 激写、スーパーバトルアクションムービー",
+            "title_romanji": "Fei Long Nekketsu! Gekisha, Super Battle Action Movie ",
+            "aired": "1995-05-08T00:00:00+00:00",
+            "score": 3.91,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1435952"
+        },
+        {
+            "mal_id": 6,
+            "url": null,
+            "title": "Appearance of the Secret Technique – The Ki Begins to Rise, the Awakening of Hadou.",
+            "title_japanese": "秘伝見参! 漲る気、波動の覚醒",
+            "title_romanji": "Hiden Kenzan! Minagiru Ki, Hadou no Kakusei ",
+            "aired": "1995-05-22T00:00:00+00:00",
+            "score": 4.08,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=254223"
+        },
+        {
+            "mal_id": 7,
+            "url": null,
+            "title": "The Revenge of Ashura – The Attacking Muai Thai Assassin.",
+            "title_japanese": "阿修羅の報復 襲いかかるムエタイの刺客",
+            "title_romanji": "Ashura no Houfuku: Osoikakaru Muay Thai no Shikaku ",
+            "aired": "1995-06-05T00:00:00+00:00",
+            "score": 4.17,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1436271"
+        },
+        {
+            "mal_id": 8,
+            "url": null,
+            "title": "Trap Prison and the Scream of Truth – Proud Ryu",
+            "title_japanese": "罠、牢獄、真実の叫び 誇り高きリュウ",
+            "title_romanji": "Wana, Rougoku, Shinjitsu no Sakebi: Hokoritakaki Ryuu ",
+            "aired": "1995-06-12T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=40086"
+        },
+        {
+            "mal_id": 9,
+            "url": null,
+            "title": "The Superstar of Muay Thai – The Grand Prison Battle Symphony",
+            "title_japanese": "ムエタイの巨星 壮絶、獄中戦交響曲",
+            "title_romanji": "Muay Thai no Kyosei: Souzetsu, Prison Battle Symphony ",
+            "aired": "1995-06-19T00:00:00+00:00",
+            "score": 4.3,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=255496"
+        },
+        {
+            "mal_id": 10,
+            "url": null,
+            "title": "Dark Omen – The Veiled Rightful Ruler",
+            "title_japanese": "暗黒の予兆 ベールに包まれた真の君臨者",
+            "title_romanji": "Ankoku no Yochou: Veil ni Tsutsumareta Shin no Kunrinsha ",
+            "aired": "1995-06-26T00:00:00+00:00",
+            "score": 3.71,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=255502"
+        },
+        {
+            "mal_id": 11,
+            "url": null,
+            "title": "Visitation of the Beasts – The Fierce, Holy Monk Advice to Young Warriors",
+            "title_japanese": "野獣来訪 聖なる荒法師、若武者への忠告",
+            "title_romanji": "Yajuu Raihou: Seinaru Arahoushi, Wakamusha e no Chuukoku ",
+            "aired": "1995-07-03T00:00:00+00:00",
+            "score": 4.43,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=255503"
+        },
+        {
+            "mal_id": 12,
+            "url": null,
+            "title": "The Deadly Phantom Faceoff – The Battle Spirit Hidden Between Body and Soul",
+            "title_japanese": "赤白の闘神 幻の真剣勝負",
+            "title_romanji": "Maboroshi no Shinkenshoubu: Seishin to Nikutai no Hazama ni Hisomu Toushin ",
+            "aired": "1995-07-10T00:00:00+00:00",
+            "score": 4.25,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=255532"
+        },
+        {
+            "mal_id": 13,
+            "url": null,
+            "title": "The Legend of Hadou Ken – All Creation, Source of the Energy",
+            "title_japanese": "森羅万象の気 波動拳伝説",
+            "title_romanji": "Hadouken Densetsu: Shinrabanshou, Energy no Ketsujitsu ",
+            "aired": "1995-07-17T00:00:00+00:00",
+            "score": 4.29,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=255538"
+        },
+        {
+            "mal_id": 14,
+            "url": null,
+            "title": "The Bloodthirsty Prince – A Lust for Beauty and a Love Potion for Chun Li",
+            "title_japanese": "血に飢えた貴公子 美への執着、春麗への媚薬",
+            "title_romanji": "Chi ni Ueta Kikoushi: Bi e no Shuuchaku, Chun-Li e no Biyaku ",
+            "aired": "1995-07-24T00:00:00+00:00",
+            "score": 3.75,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=255541"
+        },
+        {
+            "mal_id": 15,
+            "url": null,
+            "title": "Clash of the Titans – Mortal Combat for Pride, Life, and Cinderella",
+            "title_japanese": "両雄激突 プライドと命とシンデレラを賭けた死闘",
+            "title_romanji": "Ryouyuu Gekitotsu: Pride to Inochi to Cinderella wo Kaketa Shitou ",
+            "aired": "1995-07-31T00:00:00+00:00",
+            "score": 4.5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=264071"
+        },
+        {
+            "mal_id": 16,
+            "url": null,
+            "title": "The Unveiled Ruler – The Rampage of the fearful Thirst for Conquest Begins",
+            "title_japanese": "ベールをぬいだ君臨者 暴走を始めた恐るべき征服欲",
+            "title_romanji": "Veil wo Nuida Kunrinsha: Bousou wo Hajimeta Osorubeki Seifukuyoku ",
+            "aired": "1995-08-07T00:00:00+00:00",
+            "score": 4.71,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=264077"
+        },
+        {
+            "mal_id": 17,
+            "url": null,
+            "title": "Shudder! The Despot's Commander – Infiltration Strategem – An Approaching Crisis",
+            "title_japanese": "戦慄、暴君の司令 忍び寄る策謀、迫り来る危機",
+            "title_romanji": "Senritsu, Boukun no Shirei: Shinobiyoru Sakubou, Semarikuru Kiki ",
+            "aired": "1995-08-14T00:00:00+00:00",
+            "score": 4.57,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=266346"
+        },
+        {
+            "mal_id": 18,
+            "url": null,
+            "title": "The Beautiful Assassin – Green Eyes, Terror of the Cross",
+            "title_japanese": "美しき暗殺者 緑色の瞳、十字架の恐怖",
+            "title_romanji": "Utsukushiki Ansatsusha: Ryokushoku no Hitomi, Cross no Kyoufu ",
+            "aired": "1995-08-21T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=266353"
+        },
+        {
+            "mal_id": 19,
+            "url": null,
+            "title": "Special Orders to Iron Men – The Mightiest Rescuers Launch into the Sheltering Skies",
+            "title_japanese": "鉄人への特命 救出の空に発つ最強の助っ人",
+            "title_romanji": "Tetsujin e no Tokumei: Kyuushutsu no Sora ni Tatsu Saikyou no Suketto ",
+            "aired": "1995-08-28T00:00:00+00:00",
+            "score": 4.22,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=266358"
+        },
+        {
+            "mal_id": 20,
+            "url": null,
+            "title": "Unknown Explosive Force – The Full Extent of Unbelievable Power",
+            "title_japanese": "秘められた爆発力 渾身に満ちるとてつもないパワー",
+            "title_romanji": "Himerareta Bakuhatsuryoku: Konshin ni Michiru to Tetsu mo Nai Power ",
+            "aired": "1995-09-04T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=266362"
+        },
+        {
+            "mal_id": 21,
+            "url": null,
+            "title": "Compulsion Towards Vengeance – Cyberchip – The Challenge to Mind Control",
+            "title_japanese": "服従への強制 サイバーチップ、脳支配への挑戦",
+            "title_romanji": "Fukujuu e no Kyousei: Cyber Chip, Nou Shihai e no Chousen ",
+            "aired": "1995-09-11T00:00:00+00:00",
+            "score": 4.17,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=267920"
+        },
+        {
+            "mal_id": 22,
+            "url": null,
+            "title": "Rising Dragon Into The Sky – The Extremes of Rage – Awakening of Hadou",
+            "title_japanese": "昇龍、空へ 怒りの絶頂、目覚める波動",
+            "title_romanji": "Shouryuu, Sora e: Ikari no Zecchou, Mezameru Hadou ",
+            "aired": "1995-09-18T00:00:00+00:00",
+            "score": 4.13,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=267925"
+        },
+        {
+            "mal_id": 23,
+            "url": null,
+            "title": "The Icy Light of Their Eyes – Heroes Possessed by Evil",
+            "title_japanese": "凍りついた眼光 悪魔に魅入られた勇者",
+            "title_romanji": "Kooritsuita Gankou: Akuma ni Miirareta Yuusha ",
+            "aired": "1995-10-16T00:00:00+00:00",
+            "score": 3.78,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=267934"
+        },
+        {
+            "mal_id": 24,
+            "url": null,
+            "title": "Nightmare Reunion – An Anguished Cry, A Mind Sealed Away",
+            "title_japanese": "悪夢の再会 悲痛の呼び掛け、閉ざされた意識",
+            "title_romanji": "Akumu no Saikai: Hitsuu no Yobikake, Tozasareta Ishiki ",
+            "aired": "1995-10-23T00:00:00+00:00",
+            "score": 4.13,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=268194"
+        },
+        {
+            "mal_id": 25,
+            "url": null,
+            "title": "Fight to the Finish (Round One) – The Grand Triple Battle Command",
+            "title_japanese": "死闘 <第一章> 壮絶、トリプルバトルコマンド",
+            "title_romanji": "Shitou <Dai Ichi Shou>: Souzetsu, Triple Battle Command ",
+            "aired": "1995-10-30T00:00:00+00:00",
+            "score": 4.44,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=268195"
+        },
+        {
+            "mal_id": 26,
+            "url": null,
+            "title": "Fight to the Finish (Round Two) – The Final Moments of an Exhausted True Friend",
+            "title_japanese": "死闘 <第二章> 力尽きゆく親友の断末魔",
+            "title_romanji": "Shitou <Dai Ni Shou>: Chikaratsuki Yuku Shinyuu no Danmatsuma ",
+            "aired": "1995-11-06T00:00:00+00:00",
+            "score": 4.5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=268198"
+        },
+        {
+            "mal_id": 27,
+            "url": null,
+            "title": "Fight to the Finish (Round Three) – Critical Point – The Limits of the Smashing Hadou Energy",
+            "title_japanese": "死闘 <第三章> 臨界点、激突する波動エネルギーの極限",
+            "title_romanji": "Shitou <Dai San Shou>: Rinkaiten, Gekitotsusuru Hadou Energy no Kyokugen ",
+            "aired": "1995-11-13T00:00:00+00:00",
+            "score": 4.5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=268200"
+        },
+        {
+            "mal_id": 28,
+            "url": null,
+            "title": "Fight to the Finish (Round Four) – Master Bison – The Overwhelming Destructive Power",
+            "title_japanese": "死闘 <第四章> 君臨者ベガ、その圧倒的破壊力",
+            "title_romanji": "Shitou <Dai Yon Shou>: Kunrinsha Vega, Sono Attouteki Hakairyoku ",
+            "aired": "1995-11-20T00:00:00+00:00",
+            "score": 4.36,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=268202"
+        },
+        {
+            "mal_id": 29,
+            "url": null,
+            "title": "Fight to the Finish (Final Round) – The Final Battle, Risking All of Body and Soul",
+            "title_japanese": "死闘完結 全身全霊をかけたファイナルバトル",
+            "title_romanji": "Shitou Kanketsu: Zenshinzenrei wo Kaketa Final Battle ",
+            "aired": "1995-11-27T00:00:00+00:00",
+            "score": 4.41,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=268203"
+        }
+    ]
+}

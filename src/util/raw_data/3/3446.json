@@ -1,0 +1,199 @@
+{
+    "id": 3446,
+    "fetched_at": "Sun Dec 14 19:36:10 2025",
+    "metadata": {
+        "mal_id": 3446,
+        "url": "https://myanimelist.net/anime/3446/Biohazard__Degeneration",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/4/11769.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/4/11769t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/4/11769l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/4/11769.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/4/11769t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/4/11769l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Biohazard: Degeneration"
+            },
+            {
+                "type": "Japanese",
+                "title": "バイオハザード ディジェネレーション"
+            },
+            {
+                "type": "English",
+                "title": "Resident Evil: Degeneration"
+            },
+            {
+                "type": "Spanish",
+                "title": "Resident Evil: Degeneración"
+            },
+            {
+                "type": "French",
+                "title": "Resident Evil: Degeneration"
+            }
+        ],
+        "title": "Biohazard: Degeneration",
+        "title_english": "Resident Evil: Degeneration",
+        "title_japanese": "バイオハザード ディジェネレーション",
+        "title_synonyms": [],
+        "type": "Movie",
+        "source": "Game",
+        "episodes": 1,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "2008-10-18T00:00:00+00:00",
+            "to": null,
+            "prop": {
+                "from": {
+                    "day": 18,
+                    "month": 10,
+                    "year": 2008
+                },
+                "to": {
+                    "day": null,
+                    "month": null,
+                    "year": null
+                }
+            },
+            "string": "Oct 18, 2008"
+        },
+        "duration": "1 hr 36 min",
+        "rating": "R - 17+ (violence & profanity)",
+        "score": 6.92,
+        "scored_by": 25950,
+        "rank": 4892,
+        "popularity": 4026,
+        "members": 38709,
+        "favorites": 48,
+        "synopsis": "The story is set in autumn 2005, one year after Resident Evil 4 game took place. Due to an as of yet unexplained reason, zombies appear in a United States airport. The release of the zombies leads to danger of an outbreak.",
+        "background": "",
+        "season": null,
+        "year": null,
+        "broadcast": {
+            "day": null,
+            "time": null,
+            "timezone": null,
+            "string": null
+        },
+        "producers": [
+            {
+                "mal_id": 15,
+                "type": "anime",
+                "name": "Sony Pictures Entertainment",
+                "url": "https://myanimelist.net/anime/producer/15/Sony_Pictures_Entertainment"
+            },
+            {
+                "mal_id": 240,
+                "type": "anime",
+                "name": "Capcom",
+                "url": "https://myanimelist.net/anime/producer/240/Capcom"
+            }
+        ],
+        "licensors": [],
+        "studios": [
+            {
+                "mal_id": 486,
+                "type": "anime",
+                "name": "Digital Frontier",
+                "url": "https://myanimelist.net/anime/producer/486/Digital_Frontier"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 1,
+                "type": "anime",
+                "name": "Action",
+                "url": "https://myanimelist.net/anime/genre/1/Action"
+            },
+            {
+                "mal_id": 14,
+                "type": "anime",
+                "name": "Horror",
+                "url": "https://myanimelist.net/anime/genre/14/Horror"
+            },
+            {
+                "mal_id": 24,
+                "type": "anime",
+                "name": "Sci-Fi",
+                "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [],
+        "demographics": [],
+        "relations": [
+            {
+                "relation": "Prequel",
+                "entry": [
+                    {
+                        "mal_id": 8278,
+                        "type": "anime",
+                        "name": "Biohazard 4: Incubate",
+                        "url": "https://myanimelist.net/anime/8278/Biohazard_4__Incubate"
+                    }
+                ]
+            },
+            {
+                "relation": "Sequel",
+                "entry": [
+                    {
+                        "mal_id": 42976,
+                        "type": "anime",
+                        "name": "Biohazard: Infinite Darkness",
+                        "url": "https://myanimelist.net/anime/42976/Biohazard__Infinite_Darkness"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [],
+            "endings": [
+                "\"GUILTY\" by Anna Tsuchiya"
+            ]
+        },
+        "external": [
+            {
+                "name": "Official Site",
+                "url": "http://www.residentevilcg.com/"
+            },
+            {
+                "name": "Official Site",
+                "url": "https://www.sonypictures.com/movies/residentevildegeneration"
+            },
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=6108"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=9198"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "http://en.wikipedia.org/wiki/Resident_Evil_Degeneration"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": []
+}

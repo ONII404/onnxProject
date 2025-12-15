@@ -1,0 +1,194 @@
+{
+    "id": 1111,
+    "fetched_at": "Sun Dec 14 14:56:04 2025",
+    "metadata": {
+        "mal_id": 1111,
+        "url": "https://myanimelist.net/anime/1111/Vandread__Gekitou-hen",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/13/23643.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/13/23643t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/13/23643l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/13/23643.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/13/23643t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/13/23643l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Vandread: Gekitou-hen"
+            },
+            {
+                "type": "Synonym",
+                "title": "Vandread Intense Fighting Volume"
+            },
+            {
+                "type": "Synonym",
+                "title": "Vandread Turbulence"
+            },
+            {
+                "type": "Japanese",
+                "title": "ヴァンドレッド　激闘篇"
+            }
+        ],
+        "title": "Vandread: Gekitou-hen",
+        "title_english": null,
+        "title_japanese": "ヴァンドレッド　激闘篇",
+        "title_synonyms": [
+            "Vandread Intense Fighting Volume",
+            "Vandread Turbulence"
+        ],
+        "type": "OVA",
+        "source": "Original",
+        "episodes": 1,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "2002-10-25T00:00:00+00:00",
+            "to": null,
+            "prop": {
+                "from": {
+                    "day": 25,
+                    "month": 10,
+                    "year": 2002
+                },
+                "to": {
+                    "day": null,
+                    "month": null,
+                    "year": null
+                }
+            },
+            "string": "Oct 25, 2002"
+        },
+        "duration": "1 hr 26 min",
+        "rating": "PG-13 - Teens 13 or older",
+        "score": 6.85,
+        "scored_by": 3271,
+        "rank": 5266,
+        "popularity": 7575,
+        "members": 8450,
+        "favorites": 3,
+        "synopsis": "Vandread Gekitouhen (Vandread Turbulence), similiar to Vandread Taidouhen, is an OVA summary of Vandread the Second Stage plus several extra scenes\n\n(Source: AniDB)",
+        "background": "",
+        "season": null,
+        "year": null,
+        "broadcast": {
+            "day": null,
+            "time": null,
+            "timezone": null,
+            "string": null
+        },
+        "producers": [],
+        "licensors": [
+            {
+                "mal_id": 102,
+                "type": "anime",
+                "name": "Funimation",
+                "url": "https://myanimelist.net/anime/producer/102/Funimation"
+            }
+        ],
+        "studios": [
+            {
+                "mal_id": 3,
+                "type": "anime",
+                "name": "Gonzo",
+                "url": "https://myanimelist.net/anime/producer/3/Gonzo"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 2,
+                "type": "anime",
+                "name": "Adventure",
+                "url": "https://myanimelist.net/anime/genre/2/Adventure"
+            },
+            {
+                "mal_id": 4,
+                "type": "anime",
+                "name": "Comedy",
+                "url": "https://myanimelist.net/anime/genre/4/Comedy"
+            },
+            {
+                "mal_id": 24,
+                "type": "anime",
+                "name": "Sci-Fi",
+                "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+            },
+            {
+                "mal_id": 9,
+                "type": "anime",
+                "name": "Ecchi",
+                "url": "https://myanimelist.net/anime/genre/9/Ecchi"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [
+            {
+                "mal_id": 18,
+                "type": "anime",
+                "name": "Mecha",
+                "url": "https://myanimelist.net/anime/genre/18/Mecha"
+            },
+            {
+                "mal_id": 29,
+                "type": "anime",
+                "name": "Space",
+                "url": "https://myanimelist.net/anime/genre/29/Space"
+            }
+        ],
+        "demographics": [],
+        "relations": [
+            {
+                "relation": "Full Story",
+                "entry": [
+                    {
+                        "mal_id": 181,
+                        "type": "anime",
+                        "name": "Vandread: The Second Stage",
+                        "url": "https://myanimelist.net/anime/181/Vandread__The_Second_Stage"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [],
+            "endings": []
+        },
+        "external": [
+            {
+                "name": "Official Site",
+                "url": "http://www.vandread.com/"
+            },
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=463"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=2344"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "http://en.wikipedia.org/wiki/Vandread"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": []
+}

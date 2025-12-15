@@ -1,0 +1,198 @@
+{
+    "id": 3026,
+    "fetched_at": "Sun Dec 14 19:12:43 2025",
+    "metadata": {
+        "mal_id": 3026,
+        "url": "https://myanimelist.net/anime/3026/Compiler",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1989/94225.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1989/94225t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1989/94225l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1989/94225.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1989/94225t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1989/94225l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Compiler"
+            },
+            {
+                "type": "Synonym",
+                "title": "Invaders From Cyberspace"
+            },
+            {
+                "type": "Japanese",
+                "title": "COMPILER"
+            },
+            {
+                "type": "English",
+                "title": "Compiler"
+            }
+        ],
+        "title": "Compiler",
+        "title_english": "Compiler",
+        "title_japanese": "COMPILER",
+        "title_synonyms": [
+            "Invaders From Cyberspace"
+        ],
+        "type": "OVA",
+        "source": "Manga",
+        "episodes": 2,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "1994-03-05T00:00:00+00:00",
+            "to": "1994-10-05T00:00:00+00:00",
+            "prop": {
+                "from": {
+                    "day": 5,
+                    "month": 3,
+                    "year": 1994
+                },
+                "to": {
+                    "day": 5,
+                    "month": 10,
+                    "year": 1994
+                }
+            },
+            "string": "Mar 5, 1994 to Oct 5, 1994"
+        },
+        "duration": "30 min per ep",
+        "rating": "R+ - Mild Nudity",
+        "score": 5.08,
+        "scored_by": 1343,
+        "rank": 13716,
+        "popularity": 10402,
+        "members": 3563,
+        "favorites": 0,
+        "synopsis": "When a world of 2-D beings discovers the existence of our universe, they send a team of beautiful Domni-Matrixes into our world to prepare it for total integration. However, once liberated from their flat and dreary 2-D existence, Compiler and Assembler quickly discovered that cybersex with a couple of 3-D guys is a lot more fun than world conquest. Now, in between interfacing with their boyfriends, Assembler and Compiler must protect the Earth from being deleted by their former masters and an army of killer programs.  \n\n(Source: ANN)",
+        "background": "",
+        "season": null,
+        "year": null,
+        "broadcast": {
+            "day": null,
+            "time": null,
+            "timezone": null,
+            "string": null
+        },
+        "producers": [],
+        "licensors": [
+            {
+                "mal_id": 97,
+                "type": "anime",
+                "name": "ADV Films",
+                "url": "https://myanimelist.net/anime/producer/97/ADV_Films"
+            }
+        ],
+        "studios": [
+            {
+                "mal_id": 155,
+                "type": "anime",
+                "name": "animate Film",
+                "url": "https://myanimelist.net/anime/producer/155/animate_Film"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 4,
+                "type": "anime",
+                "name": "Comedy",
+                "url": "https://myanimelist.net/anime/genre/4/Comedy"
+            },
+            {
+                "mal_id": 8,
+                "type": "anime",
+                "name": "Drama",
+                "url": "https://myanimelist.net/anime/genre/8/Drama"
+            },
+            {
+                "mal_id": 22,
+                "type": "anime",
+                "name": "Romance",
+                "url": "https://myanimelist.net/anime/genre/22/Romance"
+            },
+            {
+                "mal_id": 24,
+                "type": "anime",
+                "name": "Sci-Fi",
+                "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [],
+        "demographics": [],
+        "relations": [
+            {
+                "relation": "Sequel",
+                "entry": [
+                    {
+                        "mal_id": 5237,
+                        "type": "anime",
+                        "name": "Compiler Festa",
+                        "url": "https://myanimelist.net/anime/5237/Compiler_Festa"
+                    }
+                ]
+            },
+            {
+                "relation": "Adaptation",
+                "entry": [
+                    {
+                        "mal_id": 2952,
+                        "type": "manga",
+                        "name": "Compiler",
+                        "url": "https://myanimelist.net/manga/2952/Compiler"
+                    }
+                ]
+            },
+            {
+                "relation": "Other",
+                "entry": [
+                    {
+                        "mal_id": 38769,
+                        "type": "anime",
+                        "name": "Compiler: Music Clips in Trackdown",
+                        "url": "https://myanimelist.net/anime/38769/Compiler__Music_Clips_in_Trackdown"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [
+                "\"I Was Born to fall in Love\" by Masami Okui"
+            ],
+            "endings": [
+                "\"Full Up Mind\" by Masami Okui"
+            ]
+        },
+        "external": [
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=1589"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=131"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": []
+}

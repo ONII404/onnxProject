@@ -1,0 +1,195 @@
+{
+    "id": 3202,
+    "fetched_at": "Sun Dec 14 19:21:52 2025",
+    "metadata": {
+        "mal_id": 3202,
+        "url": "https://myanimelist.net/anime/3202/Daisuki_Hello_Kitty",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1439/114479.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1439/114479t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1439/114479l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1439/114479.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1439/114479t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1439/114479l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Daisuki! Hello Kitty"
+            },
+            {
+                "type": "Synonym",
+                "title": "Hello Kitty"
+            },
+            {
+                "type": "Synonym",
+                "title": "Love! Hello Kitty"
+            },
+            {
+                "type": "Japanese",
+                "title": "大好き！ハローキティ"
+            }
+        ],
+        "title": "Daisuki! Hello Kitty",
+        "title_english": null,
+        "title_japanese": "大好き！ハローキティ",
+        "title_synonyms": [
+            "Hello Kitty",
+            "Love! Hello Kitty"
+        ],
+        "type": "TV",
+        "source": "Original",
+        "episodes": 26,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "1993-10-05T00:00:00+00:00",
+            "to": "1994-03-29T00:00:00+00:00",
+            "prop": {
+                "from": {
+                    "day": 5,
+                    "month": 10,
+                    "year": 1993
+                },
+                "to": {
+                    "day": 29,
+                    "month": 3,
+                    "year": 1994
+                }
+            },
+            "string": "Oct 5, 1993 to Mar 29, 1994"
+        },
+        "duration": "21 min per ep",
+        "rating": "G - All Ages",
+        "score": 6.35,
+        "scored_by": 1220,
+        "rank": 8226,
+        "popularity": 10558,
+        "members": 3412,
+        "favorites": 8,
+        "synopsis": "The adventures of a young kitten named Kitty with her twin sister Mimi. It's a variety of adventures, including Kitty in some fairy tales as well.",
+        "background": "",
+        "season": "fall",
+        "year": 1993,
+        "broadcast": {
+            "day": null,
+            "time": null,
+            "timezone": null,
+            "string": "Unknown"
+        },
+        "producers": [
+            {
+                "mal_id": 150,
+                "type": "anime",
+                "name": "Sanrio",
+                "url": "https://myanimelist.net/anime/producer/150/Sanrio"
+            }
+        ],
+        "licensors": [
+            {
+                "mal_id": 97,
+                "type": "anime",
+                "name": "ADV Films",
+                "url": "https://myanimelist.net/anime/producer/97/ADV_Films"
+            }
+        ],
+        "studios": [],
+        "genres": [
+            {
+                "mal_id": 10,
+                "type": "anime",
+                "name": "Fantasy",
+                "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [],
+        "demographics": [
+            {
+                "mal_id": 15,
+                "type": "anime",
+                "name": "Kids",
+                "url": "https://myanimelist.net/anime/genre/15/Kids"
+            }
+        ],
+        "relations": [
+            {
+                "relation": "Side Story",
+                "entry": [
+                    {
+                        "mal_id": 53975,
+                        "type": "anime",
+                        "name": "Hello Kitty Twinkle☆Moonlight: Cuterium with Sanrio Characters",
+                        "url": "https://myanimelist.net/anime/53975/Hello_Kitty_Twinkle☆Moonlight__Cuterium_with_Sanrio_Characters"
+                    }
+                ]
+            },
+            {
+                "relation": "Other",
+                "entry": [
+                    {
+                        "mal_id": 33915,
+                        "type": "anime",
+                        "name": "Kitty-chan wo Sagase! Toyama-shi Stamp Rally",
+                        "url": "https://myanimelist.net/anime/33915/Kitty-chan_wo_Sagase_Toyama-shi_Stamp_Rally"
+                    },
+                    {
+                        "mal_id": 60485,
+                        "type": "anime",
+                        "name": "Hello Kitty to Asobou! Manabou!",
+                        "url": "https://myanimelist.net/anime/60485/Hello_Kitty_to_Asobou_Manabou"
+                    },
+                    {
+                        "mal_id": 39674,
+                        "type": "anime",
+                        "name": "Gundam vs Hello Kitty",
+                        "url": "https://myanimelist.net/anime/39674/Gundam_vs_Hello_Kitty"
+                    },
+                    {
+                        "mal_id": 51324,
+                        "type": "anime",
+                        "name": "Shinkalion Hello Kitty",
+                        "url": "https://myanimelist.net/anime/51324/Shinkalion_Hello_Kitty"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [],
+            "endings": []
+        },
+        "external": [
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=5874"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=800"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "http://en.wikipedia.org/wiki/Hello_Kitty"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": []
+}

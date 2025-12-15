@@ -1,0 +1,191 @@
+{
+    "id": 1001,
+    "fetched_at": "Sun Dec 14 14:24:53 2025",
+    "metadata": {
+        "mal_id": 1001,
+        "url": "https://myanimelist.net/anime/1001/Tide-Line_Blue__Kyoudai",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/3/21407.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/3/21407t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/3/21407l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/3/21407.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/3/21407t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/3/21407l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Tide-Line Blue: Kyoudai"
+            },
+            {
+                "type": "Synonym",
+                "title": "Tide-Line Blue Special"
+            },
+            {
+                "type": "Synonym",
+                "title": "Tide-Line Blue Episode 13"
+            },
+            {
+                "type": "Synonym",
+                "title": "Tide-Line Blue: Brother"
+            },
+            {
+                "type": "Japanese",
+                "title": "タイドライン・ブルー 兄弟"
+            }
+        ],
+        "title": "Tide-Line Blue: Kyoudai",
+        "title_english": null,
+        "title_japanese": "タイドライン・ブルー 兄弟",
+        "title_synonyms": [
+            "Tide-Line Blue Special",
+            "Tide-Line Blue Episode 13",
+            "Tide-Line Blue: Brother"
+        ],
+        "type": "Special",
+        "source": "Original",
+        "episodes": 1,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "2006-04-26T00:00:00+00:00",
+            "to": null,
+            "prop": {
+                "from": {
+                    "day": 26,
+                    "month": 4,
+                    "year": 2006
+                },
+                "to": {
+                    "day": null,
+                    "month": null,
+                    "year": null
+                }
+            },
+            "string": "Apr 26, 2006"
+        },
+        "duration": "23 min",
+        "rating": "PG-13 - Teens 13 or older",
+        "score": 6.57,
+        "scored_by": 938,
+        "rank": 6924,
+        "popularity": 12163,
+        "members": 2162,
+        "favorites": 1,
+        "synopsis": "DVD only 13th episode of the series.\n\nGould and Keel work together with the New United Nations and the crew of the last remaining space station \"Freedom\" (their father) to broadcast a powerful signal all over the world with the new world map for everyone to be available. The episode ends with both of them looking over the horizon, as we see Freedom station falling to earth’s orbit as a shooting star.",
+        "background": "",
+        "season": null,
+        "year": null,
+        "broadcast": {
+            "day": null,
+            "time": null,
+            "timezone": null,
+            "string": null
+        },
+        "producers": [
+            {
+                "mal_id": 23,
+                "type": "anime",
+                "name": "Bandai Visual",
+                "url": "https://myanimelist.net/anime/producer/23/Bandai_Visual"
+            },
+            {
+                "mal_id": 55,
+                "type": "anime",
+                "name": "TV Asahi",
+                "url": "https://myanimelist.net/anime/producer/55/TV_Asahi"
+            },
+            {
+                "mal_id": 104,
+                "type": "anime",
+                "name": "Lantis",
+                "url": "https://myanimelist.net/anime/producer/104/Lantis"
+            }
+        ],
+        "licensors": [
+            {
+                "mal_id": 233,
+                "type": "anime",
+                "name": "Bandai Entertainment",
+                "url": "https://myanimelist.net/anime/producer/233/Bandai_Entertainment"
+            }
+        ],
+        "studios": [
+            {
+                "mal_id": 94,
+                "type": "anime",
+                "name": "Telecom Animation Film",
+                "url": "https://myanimelist.net/anime/producer/94/Telecom_Animation_Film"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 2,
+                "type": "anime",
+                "name": "Adventure",
+                "url": "https://myanimelist.net/anime/genre/2/Adventure"
+            },
+            {
+                "mal_id": 8,
+                "type": "anime",
+                "name": "Drama",
+                "url": "https://myanimelist.net/anime/genre/8/Drama"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [],
+        "demographics": [],
+        "relations": [
+            {
+                "relation": "Prequel",
+                "entry": [
+                    {
+                        "mal_id": 473,
+                        "type": "anime",
+                        "name": "Tide-Line Blue",
+                        "url": "https://myanimelist.net/anime/473/Tide-Line_Blue"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [
+                "\"Blue Treasure\" by Kuribayashi Minami"
+            ],
+            "endings": []
+        },
+        "external": [
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=3340"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=5460"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Tide-Line_Blue"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": []
+}

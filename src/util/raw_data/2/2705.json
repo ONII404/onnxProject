@@ -1,0 +1,823 @@
+{
+    "id": 2705,
+    "fetched_at": "Sun Dec 14 18:50:29 2025",
+    "metadata": {
+        "mal_id": 2705,
+        "url": "https://myanimelist.net/anime/2705/Bakusou_Kyoudai_Lets___Go",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/7/26251.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/7/26251t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/7/26251l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/7/26251.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/7/26251t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/7/26251l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Bakusou Kyoudai Let's & Go"
+            },
+            {
+                "type": "Synonym",
+                "title": "Bakuso Kyodai Let's & Go"
+            },
+            {
+                "type": "Synonym",
+                "title": "The Racing Brothers"
+            },
+            {
+                "type": "Japanese",
+                "title": "爆走兄弟レッツ＆ゴー!!"
+            }
+        ],
+        "title": "Bakusou Kyoudai Let's & Go",
+        "title_english": null,
+        "title_japanese": "爆走兄弟レッツ＆ゴー!!",
+        "title_synonyms": [
+            "Bakuso Kyodai Let's & Go",
+            "The Racing Brothers"
+        ],
+        "type": "TV",
+        "source": "Manga",
+        "episodes": 51,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "1996-01-08T00:00:00+00:00",
+            "to": "1996-12-23T00:00:00+00:00",
+            "prop": {
+                "from": {
+                    "day": 8,
+                    "month": 1,
+                    "year": 1996
+                },
+                "to": {
+                    "day": 23,
+                    "month": 12,
+                    "year": 1996
+                }
+            },
+            "string": "Jan 8, 1996 to Dec 23, 1996"
+        },
+        "duration": "25 min per ep",
+        "rating": "G - All Ages",
+        "score": 6.87,
+        "scored_by": 6869,
+        "rank": 5132,
+        "popularity": 6416,
+        "members": 12629,
+        "favorites": 50,
+        "synopsis": "Based on the manga by Tetsuhiro Koshita, Bakusou Kyoudai Let's &amp; Go!! has two main seasons evolving around the Go brothers and the TRF Victorys. The third season, Bakusou Kyoudai Let's &amp; Go!! MAX evolves more around two new main characters, but the primary idea is the same... Racing!\n\nLet's &amp; Go!! focuses on Retsu and Go Seiba, two young brothers who receive racing cars called \"Mini 4WD\" by Dr. Tsuchia. From there on, the series portraits those two boys, training and customizing parts to later on participate on Japans Cup, where all of Japan's racers enter to be the best of the best!",
+        "background": "",
+        "season": "winter",
+        "year": 1996,
+        "broadcast": {
+            "day": "Mondays",
+            "time": "18:00",
+            "timezone": "Asia/Tokyo",
+            "string": "Mondays at 18:00 (JST)"
+        },
+        "producers": [
+            {
+                "mal_id": 16,
+                "type": "anime",
+                "name": "TV Tokyo",
+                "url": "https://myanimelist.net/anime/producer/16/TV_Tokyo"
+            },
+            {
+                "mal_id": 127,
+                "type": "anime",
+                "name": "Yomiko Advertising",
+                "url": "https://myanimelist.net/anime/producer/127/Yomiko_Advertising"
+            }
+        ],
+        "licensors": [],
+        "studios": [
+            {
+                "mal_id": 27,
+                "type": "anime",
+                "name": "Xebec",
+                "url": "https://myanimelist.net/anime/producer/27/Xebec"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 2,
+                "type": "anime",
+                "name": "Adventure",
+                "url": "https://myanimelist.net/anime/genre/2/Adventure"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [
+            {
+                "mal_id": 3,
+                "type": "anime",
+                "name": "Racing",
+                "url": "https://myanimelist.net/anime/genre/3/Racing"
+            }
+        ],
+        "demographics": [
+            {
+                "mal_id": 15,
+                "type": "anime",
+                "name": "Kids",
+                "url": "https://myanimelist.net/anime/genre/15/Kids"
+            }
+        ],
+        "relations": [
+            {
+                "relation": "Sequel",
+                "entry": [
+                    {
+                        "mal_id": 2706,
+                        "type": "anime",
+                        "name": "Bakusou Kyoudai Let's & Go WGP",
+                        "url": "https://myanimelist.net/anime/2706/Bakusou_Kyoudai_Lets___Go_WGP"
+                    }
+                ]
+            },
+            {
+                "relation": "Adaptation",
+                "entry": [
+                    {
+                        "mal_id": 8298,
+                        "type": "manga",
+                        "name": "Bakusou Kyoudai Let's & Go!!",
+                        "url": "https://myanimelist.net/manga/8298/Bakusou_Kyoudai_Lets___Go"
+                    }
+                ]
+            },
+            {
+                "relation": "Side Story",
+                "entry": [
+                    {
+                        "mal_id": 9857,
+                        "type": "anime",
+                        "name": "Bakusou Kyoudai Let's & Go Special",
+                        "url": "https://myanimelist.net/anime/9857/Bakusou_Kyoudai_Lets___Go_Special"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [
+                "\"LET'S & GO - SULLE ALI DI UN TURBO\" by Giorgio Vanni",
+                "1: \"Uiningu ran! -Kaze ni naritai-\" by Yukio Yamagata",
+                "2: \"FLESH & BLOOD ~Futatsu no omoi~\" by G-CRISIS"
+            ],
+            "endings": [
+                "1: \"Yo!BROTHER\" by BOOGIEMAN",
+                "2: \"Kizutsuku kono mo dekinai\" by Miyuki Kajitani",
+                "3: \"Koi no Target Boy\" by Pink Pops",
+                "4: \"Yume no hate made mo\" by PERSONZ"
+            ]
+        },
+        "external": [
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=1171"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=1202"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "http://en.wikipedia.org/wiki/Bakusou_Kyoudai_Let%27s_%26_Go#Anime"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": [
+        {
+            "mal_id": 1,
+            "url": null,
+            "title": "Enter Mini 4WD Brothers! Go Saber!",
+            "title_japanese": "ミニ四駆兄弟登場走れセイバー!",
+            "title_romanji": "Mini Yonku Kyoudai Toujou: Hashire Saber! ",
+            "aired": "1996-01-08T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 2,
+            "url": null,
+            "title": "Disturbance of the Winter Race Finals!!",
+            "title_japanese": "ウインターレース波乱の決勝戦!!",
+            "title_romanji": "Winter Race: Haran no Kesshousen!! ",
+            "aired": "1996-01-15T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1904080"
+        },
+        {
+            "mal_id": 3,
+            "url": null,
+            "title": "Mysterious Fully-Cowled Machine!",
+            "title_japanese": "謎のフルカウルマシン!",
+            "title_romanji": "Nazo no Full Cowl Machine! ",
+            "aired": "1996-01-22T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 4,
+            "url": null,
+            "title": "Stormy Confrontation! Roaring Downhill Race!",
+            "title_japanese": "嵐の兄弟対決! 爆走ダウンヒルレース!",
+            "title_romanji": "Arashi no Kyoudai Taiketsu! Bakusou Downhill Race! ",
+            "aired": "1996-01-29T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 5,
+            "url": null,
+            "title": "Rematch! Culvert Tridagger X Battle!",
+            "title_japanese": "再対決! トライダガーX地下水路の戦い!",
+            "title_romanji": "Saitaiketsu! Tridagger X: Chikasuiro no Tatakai ",
+            "aired": "1996-02-05T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 6,
+            "url": null,
+            "title": "Dangerous Magnum! The New Lightning Fast Machine!!",
+            "title_japanese": "危うしマグナム! 稲妻走りの新マシン!!",
+            "title_romanji": "Ayaushi Magnum! Inazumabashiri no Shin Machine!! ",
+            "aired": "1996-02-12T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 7,
+            "url": null,
+            "title": "Crash! Corner Game: Soinc Saber vs. Spin Axe",
+            "title_japanese": "激突! コーナー勝負ソニックセイバーVSスピンアックス",
+            "title_romanji": "Gekitotsu! Corner Shoubu: Sonic Saber vs. Spin Axe ",
+            "aired": "1996-02-19T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 8,
+            "url": null,
+            "title": "Fly, Magnum! Aim at the Spring Race!",
+            "title_japanese": "かっ飛べマグナム! スプリングレースをめざせ!",
+            "title_romanji": "Kattobe Magnum! Spring Race wo Mezase! ",
+            "aired": "1996-02-26T00:00:00+00:00",
+            "score": 4.67,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1904466"
+        },
+        {
+            "mal_id": 9,
+            "url": null,
+            "title": "Large Gathering, Powerful Oppenent! The Sparking Spring Race!",
+            "title_japanese": "強敵大集合! 火花を散らすスプリングレース",
+            "title_romanji": "Kyouteki Daishuugou! Hibana wo Chirasu Spring Race ",
+            "aired": "1996-03-04T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 10,
+            "url": null,
+            "title": "Surefire Magnum Tornado!",
+            "title_japanese": "必殺マグナムトルネード!",
+            "title_romanji": "Hissatsu Magnum Tornado! ",
+            "aired": "1996-03-11T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 11,
+            "url": null,
+            "title": "Retsu's Crisis! Remaining Chance",
+            "title_japanese": "烈の危機! 残されたチャンス",
+            "title_romanji": "Retsu no Kiki! Nokosareta Chance ",
+            "aired": "1996-03-18T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 12,
+            "url": null,
+            "title": "Gou's Challenge! Recover Magnum!!",
+            "title_japanese": "豪の挑戦! マグナムを取り戻せ!!",
+            "title_romanji": "Gou no Chousen! Magnum wo Torimodose!! ",
+            "aired": "1996-03-25T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 13,
+            "url": null,
+            "title": "Fully Cowled Racer of Public Attention! The 6th Fully-Cowled Machine Racer!",
+            "title_japanese": "6人目のフルカウルレーサー",
+            "title_romanji": "6-ninme no Full Cowl Racer ",
+            "aired": "1996-04-01T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 14,
+            "url": null,
+            "title": "Dr. Oogami's Ambition: The Strongest Miracle Machine!",
+            "title_japanese": "驚異の最強マシン大神博士の野望!",
+            "title_romanji": "Kyoui no Saikyou Machine: Oogami-hakase no Yabou! ",
+            "aired": "1996-04-08T00:00:00+00:00",
+            "score": 4.75,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1904876"
+        },
+        {
+            "mal_id": 15,
+            "url": null,
+            "title": "Confronting the Gang! Protect Grandpa!",
+            "title_japanese": "ギャングと対決! ご先祖様を守れ!!",
+            "title_romanji": "Gang to Taiketsu! Gosenzo-sama wo Mamore!! ",
+            "aired": "1996-04-15T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 16,
+            "url": null,
+            "title": "Volcanic Crater Deathmatch! Saber's Desperate Situation!",
+            "title_japanese": "火山口の死闘! セイバー絶体絶命!",
+            "title_romanji": "Kazankou no Shitou! Saber Zettaizetsumei! ",
+            "aired": "1996-04-22T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 17,
+            "url": null,
+            "title": "V Machines Born! Bet on Tomorrow's Victory!",
+            "title_japanese": "Vマシン誕生! 勝利の明日に賭けろ",
+            "title_romanji": "V Machine Tanjou! Shouri no Ashita ni Kakero ",
+            "aired": "1996-04-29T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 18,
+            "url": null,
+            "title": "Run, V Machine! Amusement Park Race Full of Danger!",
+            "title_japanese": "走れVマシン! 危険がいっぱい遊園地レース",
+            "title_romanji": "Hashire V Machine! Kiken ga Ippai Yuuenchi Race ",
+            "aired": "1996-05-06T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 19,
+            "url": null,
+            "title": "Defeat JB, the Powerful Opponent! V Power of Friendship!",
+            "title_japanese": "強敵JBを倒せ!! 友情のVパワー",
+            "title_romanji": "Kyouteki JB wo Taose!! Yuujou no V Power ",
+            "aired": "1996-05-13T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 20,
+            "url": null,
+            "title": "Tridagger X Goes Out!",
+            "title_japanese": "消えたマシントライダガーX!",
+            "title_romanji": "Kieta Machine: Tridagger X! ",
+            "aired": "1996-05-20T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 21,
+            "url": null,
+            "title": "Chiiko's Whirlwind Confrontation! Seiba Brothers",
+            "title_japanese": "チイコ大旋風 対決! 星馬兄弟",
+            "title_romanji": "Chiiko Daisenpuu: Taiketsu! Seiba Kyoudai ",
+            "aired": "1996-05-27T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 22,
+            "url": null,
+            "title": "Return of That Dreaded Cutting Machine!",
+            "title_japanese": "帰ってきたあいつ 恐怖の切り裂きマシン!",
+            "title_romanji": "Kaette Kita Aitsu: Kyoufu no Kirisaki Machine! ",
+            "aired": "1996-06-03T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 23,
+            "url": null,
+            "title": "Canned Goods Factory Duel! Starting a New Journey!",
+            "title_japanese": "缶詰工場の決闘! 新たなる旅立ち",
+            "title_romanji": "Kanzume Koujou no Kettou! Aratanaru Tabidachi ",
+            "aired": "1996-06-10T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 24,
+            "url": null,
+            "title": "Spin Cobra Takes Off! New Machine Devolpment Orders",
+            "title_japanese": "スピンコブラ発進! ニューマシン開発指令",
+            "title_romanji": "Spin Cobra Hasshin! New Machine Kaihatsu Shirei ",
+            "aired": "1996-06-17T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 25,
+            "url": null,
+            "title": "The Summer Race Where It's Too Hot!",
+            "title_japanese": "サマーレース開催ミニ四駆の熱い夏!",
+            "title_romanji": "Summer Race Kaisai: Mini Yonku no Atsui Natsu! ",
+            "aired": "1996-06-24T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 26,
+            "url": null,
+            "title": "Goal for the Scar of Being Lazy! Tridagger of Tears!",
+            "title_japanese": "傷だらけのゴール! 涙のトライダガー",
+            "title_romanji": "Kizudarake no Goal! Namida no Tridagger ",
+            "aired": "1996-07-01T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 27,
+            "url": null,
+            "title": "Reviving a New Machine! Tridagger of flame!",
+            "title_japanese": "炎のニューマシンよみがえれトライダガー",
+            "title_romanji": "Honoo no New Machine: Yomigaere Tridagger ",
+            "aired": "1996-07-08T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 28,
+            "url": null,
+            "title": "Sinterring! ZMC's Complete Revival of Wonder!",
+            "title_japanese": "焼結! 驚異のZMC鷹羽リョウ完全復活",
+            "title_romanji": "Shouketsu! Kyoui no ZMC: Takaba Ryou Kanzen Fukkatsu ",
+            "aired": "1996-07-15T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 29,
+            "url": null,
+            "title": "Rapid Current Panic! Mini 4WD Rescue Team",
+            "title_japanese": "激流パニック! ミニ四駆救助隊",
+            "title_romanji": "Gekiryuu Panic! Mini Yonku Kyuujotai ",
+            "aired": "1996-07-22T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 30,
+            "url": null,
+            "title": "It's the Sea! It's the Monkeys! Big Race of Teamwork",
+            "title_japanese": "海だ! サルだ! チームワークで大勝負",
+            "title_romanji": "Umi da! Saru da! Teamwork de Ooshoubu ",
+            "aired": "1996-07-29T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 31,
+            "url": null,
+            "title": "Enter Brocken G! Heavyweight Machine of Destruction",
+            "title_japanese": "ブロッケンG登場! 破壊の重量級マシ",
+            "title_romanji": "Brocken G Toujou! Hakai no Juuryoukyuu Machine ",
+            "aired": "1996-08-05T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 32,
+            "url": null,
+            "title": "Confrontation With a Ghost! School Race of Seven Wonders!!",
+            "title_japanese": "ゆうれいと対決! 学校七不思議レース!!",
+            "title_romanji": "Yuurei to Taiketsu! Gakkou Nanafushigi Race!! ",
+            "aired": "1996-08-12T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 33,
+            "url": null,
+            "title": "Sandstorm Battle! Oogami Race of No Rules",
+            "title_japanese": "砂嵐の戦い! ルール無用の大神レース",
+            "title_romanji": "Sunaarashi no Tatakai! Rule Muyou no Oogami Race ",
+            "aired": "1996-08-19T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 34,
+            "url": null,
+            "title": "Decisive Battle in Camp! J is Chased",
+            "title_japanese": "キャンプで決戦! 追いつめられたJ",
+            "title_romanji": "Camp de Kessen! Oitsumerareta J ",
+            "aired": "1996-08-26T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 35,
+            "url": null,
+            "title": "Enemy V Machince! Let's Go Recapture Maneuvers",
+            "title_japanese": "敵はVマシン! レッツゴー奪回作戦",
+            "title_romanji": "Teki wa V Machine! Let's Go Dakkai Sakusen ",
+            "aired": "1996-09-02T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 36,
+            "url": null,
+            "title": "Mini 4WD of Phantom Scorpion Legend",
+            "title_japanese": "幻のスコーピオン 伝説のミニ四駆",
+            "title_romanji": "Maboroshi no Scorpion: Densetsu no Mini Yonku ",
+            "aired": "1996-09-09T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 37,
+            "url": null,
+            "title": "Ray Stinger! Oogami's Trump Card!",
+            "title_japanese": "レイスティンガー! 大神の切り札!",
+            "title_romanji": "Ray Stinger! Oogami no Kirifuda! ",
+            "aired": "1996-09-16T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 38,
+            "url": null,
+            "title": "Revival! Magnum, Thy Name is Cyclone",
+            "title_japanese": "復活! マグナムその名はサイクロン",
+            "title_romanji": "Fukkatsu! Magnum: Sono Na wa Cyclone ",
+            "aired": "1996-09-23T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 39,
+            "url": null,
+            "title": "Cyclone Landing! I'm a Genius Designer",
+            "title_japanese": "サイクロン上陸! 俺は天才デザイナー",
+            "title_romanji": "Cyclone Jouriku! Ore wa Tensai Designer ",
+            "aired": "1996-09-30T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 40,
+            "url": null,
+            "title": "Climatic Autumn Race",
+            "title_japanese": "白熱のオータムレース",
+            "title_romanji": "Hakunetsu no Autumn Race ",
+            "aired": "1996-10-07T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 41,
+            "url": null,
+            "title": "Antagonism! J & Gou, Dangerous Cyclone",
+            "title_japanese": "対立! Jと豪 危うしサイクロン",
+            "title_romanji": "Tairitsu! J to Gou: Ayaushi Cyclone ",
+            "aired": "1996-10-14T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 42,
+            "url": null,
+            "title": "Gou, the Mini 4WD Master!? Autumn Festival Exhibition Race",
+            "title_japanese": "ミニ四師匠 豪!? 秋祭りレース開催",
+            "title_romanji": "Mini Yon Shishou Gou!? Akimatsuri Race Kaisai ",
+            "aired": "1996-10-21T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 43,
+            "url": null,
+            "title": "Race With the Prince! Jun Love Elopement",
+            "title_japanese": "王子様とレース! ジュン愛逃避行",
+            "title_romanji": "Ouji-sama to Race! Jun Ai Touhikou ",
+            "aired": "1996-10-28T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 44,
+            "url": null,
+            "title": "Magnum's Best Condition! Retsu's Impatience",
+            "title_japanese": "マグナム絶好調! 烈のあせり",
+            "title_romanji": "Magnum Zekkouchou! Retsu no Aseri ",
+            "aired": "1996-11-04T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 45,
+            "url": null,
+            "title": "Retsu's Betrayal!? Sonic vs. Magnum",
+            "title_japanese": "烈の裏切り!? ソニックVSマグナム",
+            "title_romanji": "Retsu no Uragiri!? Sonic vs. Magnum ",
+            "aired": "1996-11-11T00:00:00+00:00",
+            "score": 4.4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1676633"
+        },
+        {
+            "mal_id": 46,
+            "url": null,
+            "title": "Revival of J! Proto Seiba EVO. (Evolution)",
+            "title_japanese": "復活のJ! プロトセーバーEVO.（エボリューション）",
+            "title_romanji": "Fukkatsu no J! Proto-Saber Evolution ",
+            "aired": "1996-11-18T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 47,
+            "url": null,
+            "title": "The Rusted Chance Which Scatters Sparks!",
+            "title_japanese": "火花散るラストチャンス!",
+            "title_romanji": "Hibana Chiru Last Chance! ",
+            "aired": "1996-11-25T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 48,
+            "url": null,
+            "title": "SGJC Commencement!! Start of Disturbance!",
+            "title_japanese": "SGJC開幕!! 波乱のスタート!",
+            "title_romanji": "SGJC Kaimaku!! Haran no Start! ",
+            "aired": "1996-12-02T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 49,
+            "url": null,
+            "title": "Let's go Have a Bitter Fight! Blast Shin! Destructive Corps",
+            "title_japanese": "レッツゴー大苦戦! 爆進! 破壊軍団",
+            "title_romanji": "Let's Go Daikusen! Bakushin! Hakai Gundan ",
+            "aired": "1996-12-09T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 50,
+            "url": null,
+            "title": "Large Fierce Battle! Second Course is a Severe Mountain Ground!",
+            "title_japanese": "大激戦! 雪山コース 過酷な第2グラウンド!",
+            "title_romanji": "Daigekisen! Yukiyama Course: Kakoku na Dai 2 Ground! ",
+            "aired": "1996-12-16T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 51,
+            "url": null,
+            "title": "Commendation Stand of Glory!! Mini 4WD of Victory!",
+            "title_japanese": "栄光の表彰台!! 勝利のミニ四駆",
+            "title_romanji": "Eikou no Hyoushoudai!! Shouri no Mini Yonku ",
+            "aired": "1996-12-23T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        }
+    ]
+}

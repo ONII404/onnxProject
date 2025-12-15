@@ -1,0 +1,152 @@
+{
+    "id": 3863,
+    "fetched_at": "Sun Dec 14 20:43:08 2025",
+    "metadata": {
+        "mal_id": 3863,
+        "url": "https://myanimelist.net/anime/3863/Sweet_Valerian_Specials",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1491/131538.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1491/131538t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1491/131538l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1491/131538.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1491/131538t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1491/131538l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Sweet Valerian Specials"
+            },
+            {
+                "type": "Japanese",
+                "title": "スウィート・ヴァレリアン"
+            }
+        ],
+        "title": "Sweet Valerian Specials",
+        "title_english": null,
+        "title_japanese": "スウィート・ヴァレリアン",
+        "title_synonyms": [],
+        "type": "Special",
+        "source": "Original",
+        "episodes": 8,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "2005-06-22T00:00:00+00:00",
+            "to": "2005-09-28T00:00:00+00:00",
+            "prop": {
+                "from": {
+                    "day": 22,
+                    "month": 6,
+                    "year": 2005
+                },
+                "to": {
+                    "day": 28,
+                    "month": 9,
+                    "year": 2005
+                }
+            },
+            "string": "Jun 22, 2005 to Sep 28, 2005"
+        },
+        "duration": "4 min per ep",
+        "rating": "G - All Ages",
+        "score": 5.78,
+        "scored_by": 570,
+        "rank": 11471,
+        "popularity": 13677,
+        "members": 1375,
+        "favorites": 0,
+        "synopsis": "Eight DVD-only episodes.",
+        "background": "",
+        "season": null,
+        "year": null,
+        "broadcast": {
+            "day": null,
+            "time": null,
+            "timezone": null,
+            "string": null
+        },
+        "producers": [],
+        "licensors": [],
+        "studios": [
+            {
+                "mal_id": 11,
+                "type": "anime",
+                "name": "Madhouse",
+                "url": "https://myanimelist.net/anime/producer/11/Madhouse"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 4,
+                "type": "anime",
+                "name": "Comedy",
+                "url": "https://myanimelist.net/anime/genre/4/Comedy"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [],
+        "demographics": [],
+        "relations": [
+            {
+                "relation": "Adaptation",
+                "entry": [
+                    {
+                        "mal_id": 3309,
+                        "type": "manga",
+                        "name": "Sweet Valerian",
+                        "url": "https://myanimelist.net/manga/3309/Sweet_Valerian"
+                    }
+                ]
+            },
+            {
+                "relation": "Parent Story",
+                "entry": [
+                    {
+                        "mal_id": 2727,
+                        "type": "anime",
+                        "name": "Sweet Valerian",
+                        "url": "https://myanimelist.net/anime/2727/Sweet_Valerian"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [],
+            "endings": []
+        },
+        "external": [
+            {
+                "name": "Official Site",
+                "url": "http://www.aniplex.co.jp/sweetvalerian/"
+            },
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=2339"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "http://en.wikipedia.org/wiki/Sweet_Valerian"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": []
+}

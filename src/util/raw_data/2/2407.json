@@ -1,0 +1,180 @@
+{
+    "id": 2407,
+    "fetched_at": "Sun Dec 14 18:32:30 2025",
+    "metadata": {
+        "mal_id": 2407,
+        "url": "https://myanimelist.net/anime/2407/Keroro_Gunsou_Movie_1",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1638/98558.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1638/98558t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1638/98558l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1638/98558.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1638/98558t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1638/98558l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Keroro Gunsou Movie 1"
+            },
+            {
+                "type": "Synonym",
+                "title": "Chou Gekijouban Keroro Gunsou"
+            },
+            {
+                "type": "Synonym",
+                "title": "Keroro Gunsou the Movie"
+            },
+            {
+                "type": "Japanese",
+                "title": "超劇場版 ケロロ軍曹"
+            },
+            {
+                "type": "English",
+                "title": "Sergeant Frog Movie"
+            }
+        ],
+        "title": "Keroro Gunsou Movie 1",
+        "title_english": "Sergeant Frog Movie",
+        "title_japanese": "超劇場版 ケロロ軍曹",
+        "title_synonyms": [
+            "Chou Gekijouban Keroro Gunsou",
+            "Keroro Gunsou the Movie"
+        ],
+        "type": "Movie",
+        "source": "Manga",
+        "episodes": 1,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "2006-03-11T00:00:00+00:00",
+            "to": null,
+            "prop": {
+                "from": {
+                    "day": 11,
+                    "month": 3,
+                    "year": 2006
+                },
+                "to": {
+                    "day": null,
+                    "month": null,
+                    "year": null
+                }
+            },
+            "string": "Mar 11, 2006"
+        },
+        "duration": "59 min",
+        "rating": "PG - Children",
+        "score": 7.22,
+        "scored_by": 3614,
+        "rank": 3392,
+        "popularity": 8067,
+        "members": 7198,
+        "favorites": 15,
+        "synopsis": "Sergeant Keroro and his four subordinates came from the planet Keron to the Earth to conquer. However, without notice, they began to enjoy the life on the Earth. Keroro was supposed to stay with Hitana to get the chance to conquer the Earth, but he became friend with Hinata's son, Fuyuki.\n\nToday, as usual, Keroro goes to buy his favorite Gundam plastic model with Fuyuki. On their way home, they find a small shrine, and enter. There, they find a vase, and happens to break it. Since the next day, strange things happen all over the town and people are in panic. Inside the vase, Kiruru, Keron's ancient ultimate weapon was sealed. At the moment, Mirara who holds the secret of the Kiruru appears and informs them of the only method to save the Earth. However...\n\n(Source: AnimeNfo)",
+        "background": "",
+        "season": null,
+        "year": null,
+        "broadcast": {
+            "day": null,
+            "time": null,
+            "timezone": null,
+            "string": null
+        },
+        "producers": [],
+        "licensors": [],
+        "studios": [
+            {
+                "mal_id": 14,
+                "type": "anime",
+                "name": "Sunrise",
+                "url": "https://myanimelist.net/anime/producer/14/Sunrise"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 4,
+                "type": "anime",
+                "name": "Comedy",
+                "url": "https://myanimelist.net/anime/genre/4/Comedy"
+            },
+            {
+                "mal_id": 24,
+                "type": "anime",
+                "name": "Sci-Fi",
+                "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [],
+        "demographics": [
+            {
+                "mal_id": 27,
+                "type": "anime",
+                "name": "Shounen",
+                "url": "https://myanimelist.net/anime/genre/27/Shounen"
+            }
+        ],
+        "relations": [
+            {
+                "relation": "Parent Story",
+                "entry": [
+                    {
+                        "mal_id": 516,
+                        "type": "anime",
+                        "name": "Keroro Gunsou",
+                        "url": "https://myanimelist.net/anime/516/Keroro_Gunsou"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [],
+            "endings": [
+                "\"Keroro Dancing\" by Ogiyahagi"
+            ]
+        },
+        "external": [
+            {
+                "name": "Official Site",
+                "url": "http://www.kerozoro-movie.net/"
+            },
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=3569"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=6418"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "http://en.wikipedia.org/wiki/Keroro_Gunso_the_Movie"
+            }
+        ],
+        "streaming": [
+            {
+                "name": "Netflix",
+                "url": "https://www.netflix.com/"
+            }
+        ]
+    },
+    "episodes": []
+}

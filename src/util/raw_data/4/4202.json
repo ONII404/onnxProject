@@ -1,0 +1,209 @@
+{
+    "id": 4202,
+    "fetched_at": "Sun Dec 14 22:27:16 2025",
+    "metadata": {
+        "mal_id": 4202,
+        "url": "https://myanimelist.net/anime/4202/Mokke_Specials",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/2/7761.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/2/7761t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/2/7761l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/2/7761.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/2/7761t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/2/7761l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Mokke Specials"
+            },
+            {
+                "type": "Synonym",
+                "title": "Mokke - Toorikaze"
+            },
+            {
+                "type": "Japanese",
+                "title": "もっけ"
+            },
+            {
+                "type": "English",
+                "title": "Mokke Special Episodes"
+            }
+        ],
+        "title": "Mokke Specials",
+        "title_english": "Mokke Special Episodes",
+        "title_japanese": "もっけ",
+        "title_synonyms": [
+            "Mokke - Toorikaze"
+        ],
+        "type": "Special",
+        "source": "Manga",
+        "episodes": 2,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "2008-01-25T00:00:00+00:00",
+            "to": "2008-05-23T00:00:00+00:00",
+            "prop": {
+                "from": {
+                    "day": 25,
+                    "month": 1,
+                    "year": 2008
+                },
+                "to": {
+                    "day": 23,
+                    "month": 5,
+                    "year": 2008
+                }
+            },
+            "string": "Jan 25, 2008 to May 23, 2008"
+        },
+        "duration": "23 min per ep",
+        "rating": "PG - Children",
+        "score": 6.8,
+        "scored_by": 964,
+        "rank": 5542,
+        "popularity": 11592,
+        "members": 2539,
+        "favorites": 0,
+        "synopsis": "Mokke Special Episodes:\n1. Toorikaze (Passing Wind)\n2. Mitsua Shigaeru",
+        "background": "",
+        "season": null,
+        "year": null,
+        "broadcast": {
+            "day": null,
+            "time": null,
+            "timezone": null,
+            "string": null
+        },
+        "producers": [
+            {
+                "mal_id": 159,
+                "type": "anime",
+                "name": "Kodansha",
+                "url": "https://myanimelist.net/anime/producer/159/Kodansha"
+            }
+        ],
+        "licensors": [],
+        "studios": [
+            {
+                "mal_id": 11,
+                "type": "anime",
+                "name": "Madhouse",
+                "url": "https://myanimelist.net/anime/producer/11/Madhouse"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 7,
+                "type": "anime",
+                "name": "Mystery",
+                "url": "https://myanimelist.net/anime/genre/7/Mystery"
+            },
+            {
+                "mal_id": 36,
+                "type": "anime",
+                "name": "Slice of Life",
+                "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+            },
+            {
+                "mal_id": 37,
+                "type": "anime",
+                "name": "Supernatural",
+                "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [
+            {
+                "mal_id": 63,
+                "type": "anime",
+                "name": "Iyashikei",
+                "url": "https://myanimelist.net/anime/genre/63/Iyashikei"
+            }
+        ],
+        "demographics": [
+            {
+                "mal_id": 42,
+                "type": "anime",
+                "name": "Seinen",
+                "url": "https://myanimelist.net/anime/genre/42/Seinen"
+            }
+        ],
+        "relations": [
+            {
+                "relation": "Parent Story",
+                "entry": [
+                    {
+                        "mal_id": 2931,
+                        "type": "anime",
+                        "name": "Mokke",
+                        "url": "https://myanimelist.net/anime/2931/Mokke"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [
+                "\"Kokoro no Ato\" by Riyu Kosaka"
+            ],
+            "endings": [
+                "\"Panorama (パノラマ)\" by Mai Hashimoto"
+            ]
+        },
+        "external": [
+            {
+                "name": "Official Site",
+                "url": "http://www.avexmovie.jp/lineup/mokke/"
+            },
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=5052"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": [
+        {
+            "mal_id": 1,
+            "url": null,
+            "title": "Toorikaze",
+            "title_japanese": "トオリカゼ",
+            "title_romanji": "Toorikaze ",
+            "aired": "2008-01-25T00:00:00+00:00",
+            "score": 3.91,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=18391"
+        },
+        {
+            "mal_id": 2,
+            "url": null,
+            "title": "Mitsua Shigaeru",
+            "title_japanese": "ミツアシガエル",
+            "title_romanji": "Mitsua Shigaeru ",
+            "aired": "2008-05-23T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=579371"
+        }
+    ]
+}

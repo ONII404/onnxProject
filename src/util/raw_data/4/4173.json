@@ -1,0 +1,172 @@
+{
+    "id": 4173,
+    "fetched_at": "Sun Dec 14 22:25:44 2025",
+    "metadata": {
+        "mal_id": 4173,
+        "url": "https://myanimelist.net/anime/4173/Shigofumi_Picture_Drama",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/3/14417.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/3/14417t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/3/14417l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/3/14417.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/3/14417t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/3/14417l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Shigofumi Picture Drama"
+            },
+            {
+                "type": "Synonym",
+                "title": "Shigofumi ~Stories of Last Letter~ Picture Drama"
+            },
+            {
+                "type": "Japanese",
+                "title": "シゴフミ"
+            }
+        ],
+        "title": "Shigofumi Picture Drama",
+        "title_english": null,
+        "title_japanese": "シゴフミ",
+        "title_synonyms": [
+            "Shigofumi ~Stories of Last Letter~ Picture Drama"
+        ],
+        "type": "Special",
+        "source": "Original",
+        "episodes": 7,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "2008-03-25T00:00:00+00:00",
+            "to": "2008-09-26T00:00:00+00:00",
+            "prop": {
+                "from": {
+                    "day": 25,
+                    "month": 3,
+                    "year": 2008
+                },
+                "to": {
+                    "day": 26,
+                    "month": 9,
+                    "year": 2008
+                }
+            },
+            "string": "Mar 25, 2008 to Sep 26, 2008"
+        },
+        "duration": "5 min per ep",
+        "rating": "PG-13 - Teens 13 or older",
+        "score": 6.42,
+        "scored_by": 1565,
+        "rank": 7849,
+        "popularity": 9577,
+        "members": 4605,
+        "favorites": 2,
+        "synopsis": "Side stories released exclusively on DVD.",
+        "background": "",
+        "season": null,
+        "year": null,
+        "broadcast": {
+            "day": null,
+            "time": null,
+            "timezone": null,
+            "string": null
+        },
+        "producers": [
+            {
+                "mal_id": 23,
+                "type": "anime",
+                "name": "Bandai Visual",
+                "url": "https://myanimelist.net/anime/producer/23/Bandai_Visual"
+            },
+            {
+                "mal_id": 79,
+                "type": "anime",
+                "name": "Genco",
+                "url": "https://myanimelist.net/anime/producer/79/Genco"
+            },
+            {
+                "mal_id": 104,
+                "type": "anime",
+                "name": "Lantis",
+                "url": "https://myanimelist.net/anime/producer/104/Lantis"
+            },
+            {
+                "mal_id": 211,
+                "type": "anime",
+                "name": "Rakuonsha",
+                "url": "https://myanimelist.net/anime/producer/211/Rakuonsha"
+            }
+        ],
+        "licensors": [],
+        "studios": [
+            {
+                "mal_id": 7,
+                "type": "anime",
+                "name": "J.C.Staff",
+                "url": "https://myanimelist.net/anime/producer/7/JCStaff"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 4,
+                "type": "anime",
+                "name": "Comedy",
+                "url": "https://myanimelist.net/anime/genre/4/Comedy"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [],
+        "demographics": [],
+        "relations": [
+            {
+                "relation": "Parent Story",
+                "entry": [
+                    {
+                        "mal_id": 3420,
+                        "type": "anime",
+                        "name": "Shigofumi",
+                        "url": "https://myanimelist.net/anime/3420/Shigofumi"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [],
+            "endings": []
+        },
+        "external": [
+            {
+                "name": "Official Site",
+                "url": "http://www.shigofumi.com/"
+            },
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=5549"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "http://en.wikipedia.org/wiki/Shigofumi:_Letters_from_the_Departed#Anime"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": []
+}

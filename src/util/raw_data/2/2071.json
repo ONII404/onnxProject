@@ -1,0 +1,190 @@
+{
+    "id": 2071,
+    "fetched_at": "Sun Dec 14 18:08:17 2025",
+    "metadata": {
+        "mal_id": 2071,
+        "url": "https://myanimelist.net/anime/2071/Hana_yori_Dango_Movie",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/7/45907.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/7/45907t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/7/45907l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/7/45907.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/7/45907t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/7/45907l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Hana yori Dango (Movie)"
+            },
+            {
+                "type": "Synonym",
+                "title": "Hana yori Dango (1997)"
+            },
+            {
+                "type": "Synonym",
+                "title": "Hana Yori Dango: The Movie"
+            },
+            {
+                "type": "Synonym",
+                "title": "Boys Over Flowers Movie"
+            },
+            {
+                "type": "Japanese",
+                "title": "花より男子"
+            },
+            {
+                "type": "English",
+                "title": "Hana Yori Dango The Movie"
+            }
+        ],
+        "title": "Hana yori Dango (Movie)",
+        "title_english": "Hana Yori Dango The Movie",
+        "title_japanese": "花より男子",
+        "title_synonyms": [
+            "Hana yori Dango (1997)",
+            "Hana Yori Dango: The Movie",
+            "Boys Over Flowers Movie"
+        ],
+        "type": "Movie",
+        "source": "Manga",
+        "episodes": 1,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "1997-03-08T00:00:00+00:00",
+            "to": null,
+            "prop": {
+                "from": {
+                    "day": 8,
+                    "month": 3,
+                    "year": 1997
+                },
+                "to": {
+                    "day": null,
+                    "month": null,
+                    "year": null
+                }
+            },
+            "string": "Mar 8, 1997"
+        },
+        "duration": "30 min",
+        "rating": "PG-13 - Teens 13 or older",
+        "score": 6.31,
+        "scored_by": 3378,
+        "rank": 8519,
+        "popularity": 7450,
+        "members": 8813,
+        "favorites": 18,
+        "synopsis": "Set in an alternative timeline to the TV series and manga, the movie features a classic Cinderella story told through the medium of 80's dance. Tsukushi Makino is a trainee dancer in a New York Performance group, struggling to become the star of the show with the help of Rui Hanazawa and Tsukasa Doumyouji.\n\n(Source: ANN)",
+        "background": "",
+        "season": null,
+        "year": null,
+        "broadcast": {
+            "day": null,
+            "time": null,
+            "timezone": null,
+            "string": null
+        },
+        "producers": [],
+        "licensors": [
+            {
+                "mal_id": 467,
+                "type": "anime",
+                "name": "Discotek Media",
+                "url": "https://myanimelist.net/anime/producer/467/Discotek_Media"
+            }
+        ],
+        "studios": [
+            {
+                "mal_id": 18,
+                "type": "anime",
+                "name": "Toei Animation",
+                "url": "https://myanimelist.net/anime/producer/18/Toei_Animation"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 8,
+                "type": "anime",
+                "name": "Drama",
+                "url": "https://myanimelist.net/anime/genre/8/Drama"
+            },
+            {
+                "mal_id": 22,
+                "type": "anime",
+                "name": "Romance",
+                "url": "https://myanimelist.net/anime/genre/22/Romance"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [
+            {
+                "mal_id": 70,
+                "type": "anime",
+                "name": "Performing Arts",
+                "url": "https://myanimelist.net/anime/genre/70/Performing_Arts"
+            }
+        ],
+        "demographics": [
+            {
+                "mal_id": 25,
+                "type": "anime",
+                "name": "Shoujo",
+                "url": "https://myanimelist.net/anime/genre/25/Shoujo"
+            }
+        ],
+        "relations": [
+            {
+                "relation": "Alternative Setting",
+                "entry": [
+                    {
+                        "mal_id": 106,
+                        "type": "anime",
+                        "name": "Hana yori Dango",
+                        "url": "https://myanimelist.net/anime/106/Hana_yori_Dango"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [],
+            "endings": [
+                "\"Futsuu no nichiyoubi ni\" by Kikuta Tomohiko"
+            ]
+        },
+        "external": [
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=1249"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=1137"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "http://en.wikipedia.org/wiki/Boys_Over_Flowers#Anime_Movie"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": []
+}

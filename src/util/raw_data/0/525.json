@@ -1,0 +1,511 @@
+{
+    "id": 525,
+    "fetched_at": "Sun Dec 14 13:46:14 2025",
+    "metadata": {
+        "mal_id": 525,
+        "url": "https://myanimelist.net/anime/525/Otogizoushi",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/9/16736.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/9/16736t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/9/16736l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/9/16736.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/9/16736t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/9/16736l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Otogizoushi"
+            },
+            {
+                "type": "Japanese",
+                "title": "お伽草子"
+            },
+            {
+                "type": "English",
+                "title": "Otogi Zoshi: The Legend of Magatama"
+            },
+            {
+                "type": "French",
+                "title": "Legend Of The Magatama"
+            }
+        ],
+        "title": "Otogizoushi",
+        "title_english": "Otogi Zoshi: The Legend of Magatama",
+        "title_japanese": "お伽草子",
+        "title_synonyms": [],
+        "type": "TV",
+        "source": "Original",
+        "episodes": 26,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "2004-07-07T00:00:00+00:00",
+            "to": "2005-03-30T00:00:00+00:00",
+            "prop": {
+                "from": {
+                    "day": 7,
+                    "month": 7,
+                    "year": 2004
+                },
+                "to": {
+                    "day": 30,
+                    "month": 3,
+                    "year": 2005
+                }
+            },
+            "string": "Jul 7, 2004 to Mar 30, 2005"
+        },
+        "duration": "23 min per ep",
+        "rating": "PG-13 - Teens 13 or older",
+        "score": 6.9,
+        "scored_by": 4794,
+        "rank": 5007,
+        "popularity": 5426,
+        "members": 19464,
+        "favorites": 52,
+        "synopsis": "The year is 972 A.D. in Kyoto, the capital of ancient Japan. Kyoto is becoming a corrupt and run-down city; selfish samurai and onmyoji, who care only about gaining political power are everywhere. To make matters worse the city is suffering from famine and widespread disease. Unable to ignore the condition of the city any longer, the Imperial Court decides to send Minamoto no Raiko, a famous samurai well-known for his archery skills, to recover a legendary gem said to hold mysterious power to save the world. However Raiko also falls ill to disease. Instead his youngest sister, Hikaru, decides secretely to make the journey in his place. Hikaru meets many people, and has many adventures while on her trip for the legendary gem.\n\n(Source: ANN)",
+        "background": "",
+        "season": "summer",
+        "year": 2004,
+        "broadcast": {
+            "day": null,
+            "time": null,
+            "timezone": null,
+            "string": "Unknown"
+        },
+        "producers": [
+            {
+                "mal_id": 29,
+                "type": "anime",
+                "name": "VAP",
+                "url": "https://myanimelist.net/anime/producer/29/VAP"
+            },
+            {
+                "mal_id": 1003,
+                "type": "anime",
+                "name": "Nippon Television Network",
+                "url": "https://myanimelist.net/anime/producer/1003/Nippon_Television_Network"
+            }
+        ],
+        "licensors": [
+            {
+                "mal_id": 250,
+                "type": "anime",
+                "name": "Media Blasters",
+                "url": "https://myanimelist.net/anime/producer/250/Media_Blasters"
+            }
+        ],
+        "studios": [
+            {
+                "mal_id": 10,
+                "type": "anime",
+                "name": "Production I.G",
+                "url": "https://myanimelist.net/anime/producer/10/Production_IG"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 2,
+                "type": "anime",
+                "name": "Adventure",
+                "url": "https://myanimelist.net/anime/genre/2/Adventure"
+            },
+            {
+                "mal_id": 8,
+                "type": "anime",
+                "name": "Drama",
+                "url": "https://myanimelist.net/anime/genre/8/Drama"
+            },
+            {
+                "mal_id": 10,
+                "type": "anime",
+                "name": "Fantasy",
+                "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [
+            {
+                "mal_id": 13,
+                "type": "anime",
+                "name": "Historical",
+                "url": "https://myanimelist.net/anime/genre/13/Historical"
+            }
+        ],
+        "demographics": [],
+        "relations": [
+            {
+                "relation": "Adaptation",
+                "entry": [
+                    {
+                        "mal_id": 470,
+                        "type": "manga",
+                        "name": "Otogizoushi",
+                        "url": "https://myanimelist.net/manga/470/Otogizoushi"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [
+                "1: \"Zen (漸-ZEN)\" by Attack Haus (eps 1-13)",
+                "2: \"Ashita wa Kyou to Onaji Mirai (明日は今日と同じ未来)\" by Gomes the Hitman (eps 14-26)"
+            ],
+            "endings": [
+                "1: \"Hoshi ni Negai wo (☆に願いを)\" by Chieko Kawabe (eps 1-13)",
+                "2: \"Cry Baby\" by Chieko Kawabe (eps 14-26)"
+            ]
+        },
+        "external": [
+            {
+                "name": "Official Site",
+                "url": "http://www.production-ig.co.jp/contents/works_sp/1170_/index.html"
+            },
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=1958"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=3972"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "http://en.wikipedia.org/wiki/Otogiz%C5%8Dshi_%28anime%29"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": [
+        {
+            "mal_id": 1,
+            "url": null,
+            "title": "Raiko",
+            "title_japanese": "頼光",
+            "title_romanji": "Raikou ",
+            "aired": "2004-07-07T00:00:00+00:00",
+            "score": 4.63,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1285127"
+        },
+        {
+            "mal_id": 2,
+            "url": null,
+            "title": "Sadamitsu",
+            "title_japanese": "貞光",
+            "title_romanji": "Sadamitsu ",
+            "aired": "2004-07-14T00:00:00+00:00",
+            "score": 4.14,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1285133"
+        },
+        {
+            "mal_id": 3,
+            "url": null,
+            "title": "Tsuchigumo",
+            "title_japanese": "土蜘蛛",
+            "title_romanji": "Tsuchigumo ",
+            "aired": "2004-07-21T00:00:00+00:00",
+            "score": 4.5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1285145"
+        },
+        {
+            "mal_id": 4,
+            "url": null,
+            "title": "Rashou Gate",
+            "title_japanese": "羅城門",
+            "title_romanji": "Rajoumon ",
+            "aired": "2004-07-28T00:00:00+00:00",
+            "score": 4.25,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=162730"
+        },
+        {
+            "mal_id": 5,
+            "url": null,
+            "title": "Urabe",
+            "title_japanese": "卜部",
+            "title_romanji": "Urabe ",
+            "aired": "2004-08-04T00:00:00+00:00",
+            "score": 4.75,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=162737"
+        },
+        {
+            "mal_id": 6,
+            "url": null,
+            "title": "Noroijima",
+            "title_japanese": "呪島",
+            "title_romanji": "Noroijima ",
+            "aired": "2004-08-11T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=162744"
+        },
+        {
+            "mal_id": 7,
+            "url": null,
+            "title": "Mansairaku",
+            "title_japanese": "万歳楽",
+            "title_romanji": "Mansairaku ",
+            "aired": "2004-08-18T00:00:00+00:00",
+            "score": 5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1285685"
+        },
+        {
+            "mal_id": 8,
+            "url": null,
+            "title": "Red Demon",
+            "title_japanese": "赤鬼",
+            "title_romanji": "Aka Oni ",
+            "aired": "2004-08-25T00:00:00+00:00",
+            "score": 3.5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=150574"
+        },
+        {
+            "mal_id": 9,
+            "url": null,
+            "title": "Darkness",
+            "title_japanese": "暗闇",
+            "title_romanji": "Kurayami ",
+            "aired": "2004-09-01T00:00:00+00:00",
+            "score": 5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1285717"
+        },
+        {
+            "mal_id": 10,
+            "url": null,
+            "title": "Shuten",
+            "title_japanese": "酒呑",
+            "title_romanji": "Shuten ",
+            "aired": "2004-09-08T00:00:00+00:00",
+            "score": 5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1285723"
+        },
+        {
+            "mal_id": 11,
+            "url": null,
+            "title": "Relationship of Enmity",
+            "title_japanese": "相克",
+            "title_romanji": "Soukoku ",
+            "aired": "2004-09-15T00:00:00+00:00",
+            "score": 5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1285729"
+        },
+        {
+            "mal_id": 12,
+            "url": null,
+            "title": "Seimei",
+            "title_japanese": "晴明",
+            "title_romanji": "Seimei ",
+            "aired": "2004-09-22T00:00:00+00:00",
+            "score": 4.5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=170586"
+        },
+        {
+            "mal_id": 13,
+            "url": null,
+            "title": "Hikaru",
+            "title_japanese": "光",
+            "title_romanji": "Hikaru ",
+            "aired": "2004-09-29T00:00:00+00:00",
+            "score": 4.11,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=36837"
+        },
+        {
+            "mal_id": 14,
+            "url": null,
+            "title": "Tokyo",
+            "title_japanese": "東京",
+            "title_romanji": "Tokyo ",
+            "aired": "2004-10-06T00:00:00+00:00",
+            "score": 3.3,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=61212"
+        },
+        {
+            "mal_id": 15,
+            "url": null,
+            "title": "Shinjuku",
+            "title_japanese": "新宿",
+            "title_romanji": "Shinjuku ",
+            "aired": "2004-10-20T00:00:00+00:00",
+            "score": 5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1285759"
+        },
+        {
+            "mal_id": 16,
+            "url": null,
+            "title": "Shiba Park",
+            "title_japanese": "芝公園",
+            "title_romanji": "Shiba Kouen ",
+            "aired": "2004-10-27T00:00:00+00:00",
+            "score": 4.67,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=152058"
+        },
+        {
+            "mal_id": 17,
+            "url": null,
+            "title": "Kourakuen",
+            "title_japanese": "後楽園",
+            "title_romanji": "Kourakuen ",
+            "aired": "2004-11-03T00:00:00+00:00",
+            "score": 3.5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1285775"
+        },
+        {
+            "mal_id": 18,
+            "url": null,
+            "title": "Ueno",
+            "title_japanese": "上野",
+            "title_romanji": "Ueno ",
+            "aired": "2004-11-10T00:00:00+00:00",
+            "score": 5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1285777"
+        },
+        {
+            "mal_id": 19,
+            "url": null,
+            "title": "Shibuya",
+            "title_japanese": "渋谷",
+            "title_romanji": "Shibuya ",
+            "aired": "2004-11-17T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=260923"
+        },
+        {
+            "mal_id": 20,
+            "url": null,
+            "title": "Azabu",
+            "title_japanese": "麻布",
+            "title_romanji": "Azabu ",
+            "aired": "2004-12-01T00:00:00+00:00",
+            "score": 5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1286235"
+        },
+        {
+            "mal_id": 21,
+            "url": null,
+            "title": "Ikebukuro",
+            "title_japanese": "池袋",
+            "title_romanji": "Ikebukuro ",
+            "aired": "2004-12-15T00:00:00+00:00",
+            "score": 5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1286257"
+        },
+        {
+            "mal_id": 22,
+            "url": null,
+            "title": "Ookubo",
+            "title_japanese": "大久保",
+            "title_romanji": "Ookubo ",
+            "aired": "2004-12-22T00:00:00+00:00",
+            "score": 4.5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=61241"
+        },
+        {
+            "mal_id": 23,
+            "url": null,
+            "title": "Marunouchi",
+            "title_japanese": "丸の内",
+            "title_romanji": "Marunouchi ",
+            "aired": "2004-12-29T00:00:00+00:00",
+            "score": 5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1286279"
+        },
+        {
+            "mal_id": 24,
+            "url": null,
+            "title": "Manseibashi",
+            "title_japanese": "万世橋",
+            "title_romanji": "Manseibashi ",
+            "aired": "2005-01-05T00:00:00+00:00",
+            "score": 3.4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=36838"
+        },
+        {
+            "mal_id": 25,
+            "url": null,
+            "title": "Demon Gate",
+            "title_japanese": "鬼門",
+            "title_romanji": "Kimon ",
+            "aired": "2005-03-23T00:00:00+00:00",
+            "score": 5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1286301"
+        },
+        {
+            "mal_id": 26,
+            "url": null,
+            "title": "Minato",
+            "title_japanese": "都",
+            "title_romanji": "Minato ",
+            "aired": "2005-03-30T00:00:00+00:00",
+            "score": 4.22,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=61270"
+        }
+    ]
+}

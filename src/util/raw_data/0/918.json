@@ -1,0 +1,2859 @@
+{
+    "id": 918,
+    "fetched_at": "Sun Dec 14 14:18:23 2025",
+    "metadata": {
+        "mal_id": 918,
+        "url": "https://myanimelist.net/anime/918/Gintama",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/10/73274.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/10/73274t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/10/73274l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/10/73274.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/10/73274t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/10/73274l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Gintama"
+            },
+            {
+                "type": "Synonym",
+                "title": "Gin Tama"
+            },
+            {
+                "type": "Synonym",
+                "title": "Silver Soul"
+            },
+            {
+                "type": "Synonym",
+                "title": "Yorinuki Gintama-san"
+            },
+            {
+                "type": "Japanese",
+                "title": "銀魂"
+            },
+            {
+                "type": "English",
+                "title": "Gintama"
+            }
+        ],
+        "title": "Gintama",
+        "title_english": "Gintama",
+        "title_japanese": "銀魂",
+        "title_synonyms": [
+            "Gin Tama",
+            "Silver Soul",
+            "Yorinuki Gintama-san"
+        ],
+        "type": "TV",
+        "source": "Manga",
+        "episodes": 201,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "2006-04-04T00:00:00+00:00",
+            "to": "2010-03-25T00:00:00+00:00",
+            "prop": {
+                "from": {
+                    "day": 4,
+                    "month": 4,
+                    "year": 2006
+                },
+                "to": {
+                    "day": 25,
+                    "month": 3,
+                    "year": 2010
+                }
+            },
+            "string": "Apr 4, 2006 to Mar 25, 2010"
+        },
+        "duration": "24 min per ep",
+        "rating": "PG-13 - Teens 13 or older",
+        "score": 8.93,
+        "scored_by": 418334,
+        "rank": 19,
+        "popularity": 146,
+        "members": 1136380,
+        "favorites": 61287,
+        "synopsis": "Edo is a city that was home to the vigor and ambition of samurai across the country. However, following feudal Japan's surrender to powerful aliens known as the \"Amanto,\" those aspirations now seem unachievable. With the once-influential shogunate rebuilt as a puppet government, a new law is passed that promptly prohibits all swords in public. \n\nEnter Gintoki Sakata, an eccentric silver-haired man who always carries around a wooden sword and maintains his stature as a samurai despite the ban. As the founder of Yorozuya, a small business for odd jobs, Gintoki often embarks on endeavors to help other people—though usually in rather strange and unforeseen ways. \n\nAssisted by Shinpachi Shimura, a boy with glasses supposedly learning the way of the samurai; Kagura, a tomboyish girl with superhuman strength and an endless appetite; and Sadaharu, their giant pet dog who loves biting on people's heads, the Yorozuya encounter anything from alien royalty to scuffles with local gangs in the ever-changing world of Edo.\n\n[Written by MAL Rewrite]",
+        "background": "Gintama adapts chapters 1-292 of original manga. The series received high-definition reruns of older episodes by TV Tokyo from April 5, 2010, to March 28, 2011, under the name Yorinuki Gintama-san, which included 51 selected episodes as well as four new opening and ending songs.",
+        "season": "spring",
+        "year": 2006,
+        "broadcast": {
+            "day": "Thursdays",
+            "time": "18:00",
+            "timezone": "Asia/Tokyo",
+            "string": "Thursdays at 18:00 (JST)"
+        },
+        "producers": [
+            {
+                "mal_id": 16,
+                "type": "anime",
+                "name": "TV Tokyo",
+                "url": "https://myanimelist.net/anime/producer/16/TV_Tokyo"
+            },
+            {
+                "mal_id": 17,
+                "type": "anime",
+                "name": "Aniplex",
+                "url": "https://myanimelist.net/anime/producer/17/Aniplex"
+            },
+            {
+                "mal_id": 53,
+                "type": "anime",
+                "name": "Dentsu",
+                "url": "https://myanimelist.net/anime/producer/53/Dentsu"
+            },
+            {
+                "mal_id": 643,
+                "type": "anime",
+                "name": "Trinity Sound",
+                "url": "https://myanimelist.net/anime/producer/643/Trinity_Sound"
+            },
+            {
+                "mal_id": 763,
+                "type": "anime",
+                "name": "Miracle Robo",
+                "url": "https://myanimelist.net/anime/producer/763/Miracle_Robo"
+            },
+            {
+                "mal_id": 1365,
+                "type": "anime",
+                "name": "Shueisha",
+                "url": "https://myanimelist.net/anime/producer/1365/Shueisha"
+            }
+        ],
+        "licensors": [
+            {
+                "mal_id": 376,
+                "type": "anime",
+                "name": "Sentai Filmworks",
+                "url": "https://myanimelist.net/anime/producer/376/Sentai_Filmworks"
+            },
+            {
+                "mal_id": 1468,
+                "type": "anime",
+                "name": "Crunchyroll",
+                "url": "https://myanimelist.net/anime/producer/1468/Crunchyroll"
+            }
+        ],
+        "studios": [
+            {
+                "mal_id": 14,
+                "type": "anime",
+                "name": "Sunrise",
+                "url": "https://myanimelist.net/anime/producer/14/Sunrise"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 1,
+                "type": "anime",
+                "name": "Action",
+                "url": "https://myanimelist.net/anime/genre/1/Action"
+            },
+            {
+                "mal_id": 4,
+                "type": "anime",
+                "name": "Comedy",
+                "url": "https://myanimelist.net/anime/genre/4/Comedy"
+            },
+            {
+                "mal_id": 24,
+                "type": "anime",
+                "name": "Sci-Fi",
+                "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [
+            {
+                "mal_id": 57,
+                "type": "anime",
+                "name": "Gag Humor",
+                "url": "https://myanimelist.net/anime/genre/57/Gag_Humor"
+            },
+            {
+                "mal_id": 13,
+                "type": "anime",
+                "name": "Historical",
+                "url": "https://myanimelist.net/anime/genre/13/Historical"
+            },
+            {
+                "mal_id": 20,
+                "type": "anime",
+                "name": "Parody",
+                "url": "https://myanimelist.net/anime/genre/20/Parody"
+            },
+            {
+                "mal_id": 21,
+                "type": "anime",
+                "name": "Samurai",
+                "url": "https://myanimelist.net/anime/genre/21/Samurai"
+            }
+        ],
+        "demographics": [
+            {
+                "mal_id": 27,
+                "type": "anime",
+                "name": "Shounen",
+                "url": "https://myanimelist.net/anime/genre/27/Shounen"
+            }
+        ],
+        "relations": [
+            {
+                "relation": "Sequel",
+                "entry": [
+                    {
+                        "mal_id": 9969,
+                        "type": "anime",
+                        "name": "Gintama'",
+                        "url": "https://myanimelist.net/anime/9969/Gintama"
+                    }
+                ]
+            },
+            {
+                "relation": "Adaptation",
+                "entry": [
+                    {
+                        "mal_id": 44,
+                        "type": "manga",
+                        "name": "Gintama",
+                        "url": "https://myanimelist.net/manga/44/Gintama"
+                    }
+                ]
+            },
+            {
+                "relation": "Side Story",
+                "entry": [
+                    {
+                        "mal_id": 2951,
+                        "type": "anime",
+                        "name": "Gintama: Nanigoto mo Saisho ga Kanjin nanode Tashou Senobisuru Kurai ga Choudoyoi",
+                        "url": "https://myanimelist.net/anime/2951/Gintama__Nanigoto_mo_Saisho_ga_Kanjin_nanode_Tashou_Senobisuru_Kurai_ga_Choudoyoi"
+                    },
+                    {
+                        "mal_id": 6945,
+                        "type": "anime",
+                        "name": "Gintama: Shiroyasha Koutan",
+                        "url": "https://myanimelist.net/anime/6945/Gintama__Shiroyasha_Koutan"
+                    },
+                    {
+                        "mal_id": 10643,
+                        "type": "anime",
+                        "name": "Gintama: Dai Hanseikai",
+                        "url": "https://myanimelist.net/anime/10643/Gintama__Dai_Hanseikai"
+                    },
+                    {
+                        "mal_id": 25313,
+                        "type": "anime",
+                        "name": "Gintama': Futon ni Haitte kara Buki Nokoshi ni Kizuite Neru ni Nerenai Toki mo Aru",
+                        "url": "https://myanimelist.net/anime/25313/Gintama__Futon_ni_Haitte_kara_Buki_Nokoshi_ni_Kizuite_Neru_ni_Nerenai_Toki_mo_Aru"
+                    },
+                    {
+                        "mal_id": 32122,
+                        "type": "anime",
+                        "name": "Gintama°: Umai-mono wa Atomawashi ni Suru to Yokodorisareru kara Yappari Saki ni Kue",
+                        "url": "https://myanimelist.net/anime/32122/Gintama°__Umai-mono_wa_Atomawashi_ni_Suru_to_Yokodorisareru_kara_Yappari_Saki_ni_Kue"
+                    }
+                ]
+            },
+            {
+                "relation": "Spin-Off",
+                "entry": [
+                    {
+                        "mal_id": 54757,
+                        "type": "anime",
+                        "name": "3-nen Z-gumi Ginpachi-sensei",
+                        "url": "https://myanimelist.net/anime/54757/3-nen_Z-gumi_Ginpachi-sensei"
+                    }
+                ]
+            },
+            {
+                "relation": "Alternative Version",
+                "entry": [
+                    {
+                        "mal_id": 7472,
+                        "type": "anime",
+                        "name": "Gintama Movie 1: Shinyaku Benizakura-hen",
+                        "url": "https://myanimelist.net/anime/7472/Gintama_Movie_1__Shinyaku_Benizakura-hen"
+                    },
+                    {
+                        "mal_id": 21899,
+                        "type": "anime",
+                        "name": "Gintama: Yorinuki Gintama-san on Theater 2D",
+                        "url": "https://myanimelist.net/anime/21899/Gintama__Yorinuki_Gintama-san_on_Theater_2D"
+                    },
+                    {
+                        "mal_id": 62277,
+                        "type": "anime",
+                        "name": "Gintama Movie 3: Yoshiwara Daienjou",
+                        "url": "https://myanimelist.net/anime/62277/Gintama_Movie_3__Yoshiwara_Daienjou"
+                    }
+                ]
+            },
+            {
+                "relation": "Character",
+                "entry": [
+                    {
+                        "mal_id": 40323,
+                        "type": "anime",
+                        "name": "Gintama: Monster Strike-hen",
+                        "url": "https://myanimelist.net/anime/40323/Gintama__Monster_Strike-hen"
+                    }
+                ]
+            },
+            {
+                "relation": "Other",
+                "entry": [
+                    {
+                        "mal_id": 15335,
+                        "type": "anime",
+                        "name": "Gintama Movie 2: Kanketsu-hen - Yorozuya yo Eien Nare",
+                        "url": "https://myanimelist.net/anime/15335/Gintama_Movie_2__Kanketsu-hen_-_Yorozuya_yo_Eien_Nare"
+                    },
+                    {
+                        "mal_id": 19261,
+                        "type": "anime",
+                        "name": "Gintama x Mameshiba",
+                        "url": "https://myanimelist.net/anime/19261/Gintama_x_Mameshiba"
+                    },
+                    {
+                        "mal_id": 37864,
+                        "type": "anime",
+                        "name": "Yinhun x KFC",
+                        "url": "https://myanimelist.net/anime/37864/Yinhun_x_KFC"
+                    },
+                    {
+                        "mal_id": 54761,
+                        "type": "anime",
+                        "name": "3-nen Z-gumi Ginpachi-sensei Announcement Special",
+                        "url": "https://myanimelist.net/anime/54761/3-nen_Z-gumi_Ginpachi-sensei_Announcement_Special"
+                    },
+                    {
+                        "mal_id": 57670,
+                        "type": "anime",
+                        "name": "Gintama x Meta Quest 3 Collaboration CM",
+                        "url": "https://myanimelist.net/anime/57670/Gintama_x_Meta_Quest_3_Collaboration_CM"
+                    },
+                    {
+                        "mal_id": 62640,
+                        "type": "anime",
+                        "name": "Jantama x Gintama Collab Kettei Promotion Anime",
+                        "url": "https://myanimelist.net/anime/62640/Jantama_x_Gintama_Collab_Kettei_Promotion_Anime"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [
+                "R1: \"Bakuchi Dancer (バクチ・ダンサー)\" by DOES (eps 1-9)",
+                "R2: \"Kaze no Gotoku (風のごとく)\" by Inoue Joe (eps 10-26)",
+                "R3: \"Kanousei Girl (可能性ガール)\" by Chiaki Kuriyama (eps 27-39)",
+                "R4: \"Katoniago (カートニアゴ )\" by FLiP (eps 40-51)",
+                "1: \"Pray\" by Tommy heavenly6 (eps 1-24)",
+                "2: \"Tooi Nioi (遠い匂い)\" by YO-KING (eps 25-49)",
+                "3: \"Giniro no Sora (銀色の空)\" by redballoon (eps 50-75)",
+                "4: \"Kasanaru Kage (かさなる影)\" by Hearts Grow (eps 76-99)",
+                "5: \"DONTEN (曇天)\" by DOES (eps 100-125)",
+                "6: \"Anata MAGIC (アナタMAGIC)\" by monobright (eps 126-150)",
+                "7: \"Stairway Generation\" by Base Ball Bear (eps 151-176)",
+                "8: \"Light Infection\" by Prague (eps 177-201)"
+            ],
+            "endings": [
+                "R1: \"Bokutachi no Kisetsu\" by DOES (eps 1-9)",
+                "R2: \"Wave\" by Vijandeux (eps 10-26)",
+                "R3: \"In My Life\" by AZU (eps 27-39)",
+                "R4: \"Sakurane\" by Piko (eps 40-51)",
+                "1: \"Fuusen Gum\" by Captain Straydum (eps 1-13)",
+                "2: \"MR.RAINDROP\" by amplified (eps 14-24)",
+                "3: \"Yuki no Tsubasa\" by redballoon (eps 25-37)",
+                "4: \"Candy Line\" by Hitomi Takahashi (eps 38-49)",
+                "5: \"Shura\" by DOES (eps 50-62)",
+                "6: \"Kiseki\" by Snowkel (eps 63-75)",
+                "7: \"SIGNAL\" by KELUN (eps 76-87)",
+                "8: \"Speed of Flow\" by The Rodeo Carburettor (eps 88-99)",
+                "9: \"Sanagi\" by POSSIBILITY (eps 100112)",
+                "10: \"This World is yours\" by plingmin (eps 113-125)",
+                "11: \"Ai, Ai, Ai\" by GHOSTNOTE (eps 126-138)",
+                "12: \"Kagayaita\" by SHIGI (eps 139-150)",
+                "13: \"Asa Answer\" by PENGIN (eps 151-163)",
+                "14: \"Wo Ai Ni\" by Hitomi Takahashi feat. Beat Crusaders (eps 164-176)",
+                "15: \"Wonderful Days\" by ONE☆DRAFT (eps 177-189)",
+                "16: \"SAYONARA no Sora\" by Qwai (eps 190-201)"
+            ]
+        },
+        "external": [
+            {
+                "name": "Official Site",
+                "url": "https://www.bn-pictures.co.jp/gintama/"
+            },
+            {
+                "name": "@gintamamovie",
+                "url": "https://twitter.com/gintamamovie"
+            },
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=3468"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=6236"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "http://en.wikipedia.org/wiki/Gintama"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "https://ja.wikipedia.org/wiki/%E9%8A%80%E9%AD%82_%28%E3%82%A2%E3%83%8B%E3%83%A1%29"
+            },
+            {
+                "name": "Syoboi",
+                "url": "https://cal.syoboi.jp/tid/853"
+            }
+        ],
+        "streaming": [
+            {
+                "name": "Crunchyroll",
+                "url": "http://www.crunchyroll.com/series-47620"
+            },
+            {
+                "name": "Netflix",
+                "url": "https://www.netflix.com/"
+            }
+        ]
+    },
+    "episodes": [
+        {
+            "mal_id": 1,
+            "url": "https://myanimelist.net/anime/918/Gintama/episode/1",
+            "title": "You Jerks! And You Claim To Have Gintama?! (part 1)",
+            "title_japanese": "前編)",
+            "title_romanji": "Temeeraaaa!! Soredemo Gintama Tsuiten no kaaaa! (Zenpen) (てめーらァァァ﻿！﻿！それでも銀魂ついてんのかァァァ﻿！",
+            "aired": "2006-04-04T00:00:00+00:00",
+            "score": 4.19,
+            "filler": true,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=31100"
+        },
+        {
+            "mal_id": 2,
+            "url": "https://myanimelist.net/anime/918/Gintama/episode/2",
+            "title": "You Jerks! And You Claim To Have Gintama?! (part 2)",
+            "title_japanese": "後編)",
+            "title_romanji": "Temeeraaaa!! Soredemo Gintama Tsuiten no kaaaa! (Kouhen) (てめーらァァァ!! それでも銀魂ついてんのかァァァ! ",
+            "aired": "2006-04-04T00:00:00+00:00",
+            "score": 4.26,
+            "filler": true,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=31102"
+        },
+        {
+            "mal_id": 3,
+            "url": "https://myanimelist.net/anime/918/Gintama/episode/3",
+            "title": "Nobody With Naturally Wavy Hair Can Be That Bad",
+            "title_japanese": "天然パーマに悪い奴はいない",
+            "title_romanji": "Tennen Perm ni Warui Yatsu wa Inai ",
+            "aired": "2006-04-11T00:00:00+00:00",
+            "score": 4.15,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=122618"
+        },
+        {
+            "mal_id": 4,
+            "url": "https://myanimelist.net/anime/918/Gintama/episode/4",
+            "title": "Watch Out! Weekly Shonen JUMP Sometimes Comes Out On Saturdays!",
+            "title_japanese": "ジャンプは時々土曜にでるから気をつけろ",
+            "title_romanji": "Jump wa Tokidoki Doyou ni Deru Kara Ki wo Tsukero ",
+            "aired": "2006-04-25T00:00:00+00:00",
+            "score": 4.19,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=120581"
+        },
+        {
+            "mal_id": 5,
+            "url": "https://myanimelist.net/anime/918/Gintama/episode/5",
+            "title": "Make Friends You Can Call By Their Nicknames, Even When You're An Old Fart",
+            "title_japanese": "ジジィになってもあだ名で呼び合える友達を作れ",
+            "title_romanji": "Jijii ni Natte mo Ada Na de Yobiaeru Tomodachi wo Tsukure ",
+            "aired": "2006-05-02T00:00:00+00:00",
+            "score": 4.22,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=108756"
+        },
+        {
+            "mal_id": 6,
+            "url": "https://myanimelist.net/anime/918/Gintama/episode/6",
+            "title": "Keep Your Promise Even If It Kills You",
+            "title_japanese": "一度した約束は死んでも守れ",
+            "title_romanji": "Ichido Shita Yakusoku wa Shinde mo Mamore ",
+            "aired": "2006-05-09T00:00:00+00:00",
+            "score": 4.1,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=120592"
+        },
+        {
+            "mal_id": 7,
+            "url": "https://myanimelist.net/anime/918/Gintama/episode/7",
+            "title": "Responsible Owners Should Clean Up After Their Pets",
+            "title_japanese": "ペットは飼い主が責任をもって最後まで面倒を見ましょう",
+            "title_romanji": "Pet wa Kainushi ga Sekinin wo Motte Saigo Made Medou wo Mimashou ",
+            "aired": "2006-05-16T00:00:00+00:00",
+            "score": 4.14,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=36993"
+        },
+        {
+            "mal_id": 8,
+            "url": "https://myanimelist.net/anime/918/Gintama/episode/8",
+            "title": "There Is Butt A Fine Line Between Persistence And Stubbornness",
+            "title_japanese": "粘り強さとしつこさは紙一重",
+            "title_romanji": "Nebari Tsuyosa to Shitsukosa wa Kamihitoe ",
+            "aired": "2006-05-23T00:00:00+00:00",
+            "score": 4.45,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=120627"
+        },
+        {
+            "mal_id": 9,
+            "url": "https://myanimelist.net/anime/918/Gintama/episode/9",
+            "title": "Fighting Should Be Done With Fists",
+            "title_japanese": "喧嘩はグーでやるべし",
+            "title_romanji": "Kenka wa Guu de Yarubeshi ",
+            "aired": "2006-05-30T00:00:00+00:00",
+            "score": 4.35,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=120628"
+        },
+        {
+            "mal_id": 10,
+            "url": "https://myanimelist.net/anime/918/Gintama/episode/10",
+            "title": "Eat Something Sour When You're Tired",
+            "title_japanese": "疲れたときは酸っぱいものを",
+            "title_romanji": "Tsukareta Toki wa Suppai Mono wo ",
+            "aired": "2006-06-06T00:00:00+00:00",
+            "score": 4.34,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=109319"
+        },
+        {
+            "mal_id": 11,
+            "url": "https://myanimelist.net/anime/918/Gintama/episode/11",
+            "title": "Look, Overly Sticky Sweet Dumplings Are Not Real Dumplings, You Idiot!",
+            "title_japanese": "べちゃべちゃした団子なんてなァ団子じゃねぇバカヤロー",
+            "title_romanji": "Bechabecha Shita Dango Nante naa~ Dango ja nee~ Bakayaroo~ ",
+            "aired": "2006-06-13T00:00:00+00:00",
+            "score": 4.3,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=121417"
+        },
+        {
+            "mal_id": 12,
+            "url": "https://myanimelist.net/anime/918/Gintama/episode/12",
+            "title": "People Who Make Good First Impressions Usually Suck",
+            "title_japanese": "第一印象がいい奴にロクな奴はいない",
+            "title_romanji": "Daiichi Inshou ga Ii Yatsu ni Roku na Yatsu wa Inai ",
+            "aired": "2006-06-13T00:00:00+00:00",
+            "score": 4.28,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=14634"
+        },
+        {
+            "mal_id": 13,
+            "url": "https://myanimelist.net/anime/918/Gintama/episode/13",
+            "title": "If You're Going To Cosplay, Go All Out",
+            "title_japanese": "コスプレするなら心まで飾れ",
+            "title_romanji": "Cosplay Suru Nara Kokoro Made Kazare ",
+            "aired": "2006-06-20T00:00:00+00:00",
+            "score": 4.52,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=134796"
+        },
+        {
+            "mal_id": 14,
+            "url": "https://myanimelist.net/anime/918/Gintama/episode/14",
+            "title": "Boys Have A Weird Ritual That Makes Them Think They Turn Into Men When They Touch A Frog You Only Gotta Wash Under Your Armpits - Just The Armpits",
+            "title_japanese": "男にはカエルに触れて一人前みたいな訳のわからないルールがある 脇だけ洗っときゃいいんだよ脇だけ",
+            "title_romanji": "Otoko ni wa Kaeru ni Sawarete Ichininmae Mitai na Wake no Wakaranai Ruuru ga Aru Waki Dake Arattokya Iindayo Waki Dake ",
+            "aired": "2006-07-04T00:00:00+00:00",
+            "score": 4.28,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=89016"
+        },
+        {
+            "mal_id": 15,
+            "url": "https://myanimelist.net/anime/918/Gintama/episode/15",
+            "title": "Pets Resemble Their Owners",
+            "title_japanese": "飼い主とペットは似る",
+            "title_romanji": "Kainushi to Pet wa Niru ",
+            "aired": "2006-07-11T00:00:00+00:00",
+            "score": 4.31,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=136168"
+        },
+        {
+            "mal_id": 16,
+            "url": "https://myanimelist.net/anime/918/Gintama/episode/16",
+            "title": "If You Stop And Think About It, Your Life's A Lot Longer As An Old Guy Than A Kid! Whoa, Scary!",
+            "title_japanese": "考えたら人生ってオッさんになってからの方が長いじゃねーか!怖っ!!",
+            "title_romanji": "Kangaetara Jinseitte Ossan ni Natte kara no Hou ga Nagaijane-ka! Kowa!! ",
+            "aired": "2006-07-18T00:00:00+00:00",
+            "score": 4.42,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=127582"
+        },
+        {
+            "mal_id": 17,
+            "url": "https://myanimelist.net/anime/918/Gintama/episode/17",
+            "title": "Sons Only Take After Their Fathers' Negative Attributes",
+            "title_japanese": "親子ってのは嫌いなとこばかり似るもんだ",
+            "title_romanji": "Oyakotte no wa Iya na Toko Bakari Niru Mon da ",
+            "aired": "2006-07-25T00:00:00+00:00",
+            "score": 4.37,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=109605"
+        },
+        {
+            "mal_id": 18,
+            "url": "https://myanimelist.net/anime/918/Gintama/episode/18",
+            "title": "Oh, Yeah! Our Crib Is Number One!",
+            "title_japanese": "ああやっぱり我が家が一番だわ",
+            "title_romanji": "Aa Yappari Wagaya ga Ichiban da wa ",
+            "aired": "2006-08-01T00:00:00+00:00",
+            "score": 4.45,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=102138"
+        },
+        {
+            "mal_id": 19,
+            "url": "https://myanimelist.net/anime/918/Gintama/episode/19",
+            "title": "Why Is The Sea So Salty? Because You City Folk Pee Whenever You Go Swimming!",
+            "title_japanese": "海がなぜしょっぱいだと?オメーら都会人が泳ぎながら用足してくからだろーがァァ",
+            "title_romanji": "Umi no Mizu ga Naze Shoppai ka da to? Omeera Tokaijin ga Oyoginagara Youzoku Shitekukara Darou gaaa!! ",
+            "aired": "2006-08-08T00:00:00+00:00",
+            "score": 4.22,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=109872"
+        },
+        {
+            "mal_id": 20,
+            "url": "https://myanimelist.net/anime/918/Gintama/episode/20",
+            "title": "Watch Out For Conveyor Belts!",
+            "title_japanese": "ベルトコンベアには気をつけろ",
+            "title_romanji": "Belt Conveyer wa Ki wo Tsukero ",
+            "aired": "2006-08-15T00:00:00+00:00",
+            "score": 4.52,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=30229"
+        },
+        {
+            "mal_id": 21,
+            "url": "https://myanimelist.net/anime/918/Gintama/episode/21",
+            "title": "If You're A Man, Try The Swordfish! If You Go To Sleep With The Fan On You'll Get A Stomachache, So Be Careful",
+            "title_japanese": "男ならとりあえずカジキ 扇風機つけっぱなしで寝るとおなか壊しちゃうから気をつけて",
+            "title_romanji": "Otoko Nara Toriaezu Kajiki Senpuuki Tsukeppanashide Neruto Onaka Kowashichau kara ki wo Tsukete ",
+            "aired": "2006-08-22T00:00:00+00:00",
+            "score": 4.31,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=30350"
+        },
+        {
+            "mal_id": 22,
+            "url": "https://myanimelist.net/anime/918/Gintama/episode/22",
+            "title": "Marriage Is Prolonging An Illusion For Your Whole Life",
+            "title_japanese": "結婚とは勘違いを一生涯し続けることだ",
+            "title_romanji": "Kekkon to wa Kanchigai wo Issho Shitsuzukeru Koto da ",
+            "aired": "2006-09-05T00:00:00+00:00",
+            "score": 4.64,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=30353"
+        },
+        {
+            "mal_id": 23,
+            "url": "https://myanimelist.net/anime/918/Gintama/episode/23",
+            "title": "When You're In A Fix, Keep On Laughing, Laughing...",
+            "title_japanese": "困ったときは笑っとけ笑っとけ",
+            "title_romanji": "Komatta Toki wa Warattoke Warattoke ",
+            "aired": "2006-09-12T00:00:00+00:00",
+            "score": 4.28,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=57314"
+        },
+        {
+            "mal_id": 24,
+            "url": "https://myanimelist.net/anime/918/Gintama/episode/24",
+            "title": "Cute Faces Are Always Hiding Something",
+            "title_japanese": "カワイイ顔には必ず何かが隠れてる",
+            "title_romanji": "Kawaii Kao ni wa Kanarazu Nanikaga Kakureteru ",
+            "aired": "2006-09-19T00:00:00+00:00",
+            "score": 4.18,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=139846"
+        },
+        {
+            "mal_id": 25,
+            "url": "https://myanimelist.net/anime/918/Gintama/episode/25",
+            "title": "A Shared Soup Pot Is A Microcosm Of Life",
+            "title_japanese": "鍋は人生の縮図である",
+            "title_romanji": "Nabe wa Jinsei no Shukuzu de Aru ",
+            "aired": "2006-10-05T00:00:00+00:00",
+            "score": 4.72,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=30742"
+        },
+        {
+            "mal_id": 26,
+            "url": "https://myanimelist.net/anime/918/Gintama/episode/26",
+            "title": "Don't Be Shy - Just Raise Your Hand And Say It",
+            "title_japanese": "恥ずかしがらずに手を挙げて言え",
+            "title_romanji": "Hazukashigarazu ni Te wo Agete Ie ",
+            "aired": "2006-10-12T00:00:00+00:00",
+            "score": 4.28,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=38190"
+        },
+        {
+            "mal_id": 27,
+            "url": "https://myanimelist.net/anime/918/Gintama/episode/27",
+            "title": "Some Things Can't Be Cut With A Sword",
+            "title_japanese": "刀じゃ斬れないものがある",
+            "title_romanji": "Katana ja Kirenai Mono ga Aru ",
+            "aired": "2006-10-19T00:00:00+00:00",
+            "score": 4.59,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=30753"
+        },
+        {
+            "mal_id": 28,
+            "url": "https://myanimelist.net/anime/918/Gintama/episode/28",
+            "title": "Good Things Never Come In Twos (But Bad Things Do)",
+            "title_japanese": "いい事は連続して起こらないくせに悪い事は連続して起こるもんだ",
+            "title_romanji": "Ii Koto wa Renzoku Shiteokoranai Kuse ni Warui Koto wa Renzoku Shiteokorumon da ",
+            "aired": "2006-10-26T00:00:00+00:00",
+            "score": 4.56,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=15299"
+        },
+        {
+            "mal_id": 29,
+            "url": "https://myanimelist.net/anime/918/Gintama/episode/29",
+            "title": "Don't Panic - There's A Return Policy! I Told You To Pay Attention To The News!",
+            "title_japanese": "慌てるな! クーリングオフというものがある テレビとか新聞とかちゃんと見ないとダメだって",
+            "title_romanji": "Awateruna! Cooling-off to Iu Mono ga Aru Television to ka Shinbun to ka Chanto Minai to Dame Datte ",
+            "aired": "2006-11-02T00:00:00+00:00",
+            "score": 4.55,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=38198"
+        },
+        {
+            "mal_id": 30,
+            "url": "https://myanimelist.net/anime/918/Gintama/episode/30",
+            "title": "Even Teen Idols Act Like You Guys",
+            "title_japanese": "アイドルだってほぼお前らと同じ事やってんだよ",
+            "title_romanji": "Aidol Datte Hobo Omaera to Onaji Koto Yattenda yo ",
+            "aired": "2006-11-09T00:00:00+00:00",
+            "score": 4.38,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=30776"
+        },
+        {
+            "mal_id": 31,
+            "url": "https://myanimelist.net/anime/918/Gintama/episode/31",
+            "title": "You Always Remember The Things That Matter The Least",
+            "title_japanese": "どうでもいい事に限ってなかなか忘れない",
+            "title_romanji": "Doudemo Ii Koto ni Kagitte Nakanaka Wasurenai ",
+            "aired": "2006-11-16T00:00:00+00:00",
+            "score": 4.58,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2037"
+        },
+        {
+            "mal_id": 32,
+            "url": "https://myanimelist.net/anime/918/Gintama/episode/32",
+            "title": "Life Moves On Like A Conveyor Belt",
+            "title_japanese": "人生はベルトコンベアのように流れる",
+            "title_romanji": "Jinsei wa Belt Conveyor no Youni Nagareru ",
+            "aired": "2006-11-23T00:00:00+00:00",
+            "score": 4.67,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2186"
+        },
+        {
+            "mal_id": 33,
+            "url": "https://myanimelist.net/anime/918/Gintama/episode/33",
+            "title": "Mistaking Someone's Name Is Rude!",
+            "title_japanese": "人の名前とか間違えるの失礼だ",
+            "title_romanji": "Hito no Namae Toka Machigaeru no Shitsurei da ",
+            "aired": "2006-11-30T00:00:00+00:00",
+            "score": 4.5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2499"
+        },
+        {
+            "mal_id": 34,
+            "url": "https://myanimelist.net/anime/918/Gintama/episode/34",
+            "title": "Love Doesn't Require A Manual",
+            "title_japanese": "恋にマニュアルなんていらない",
+            "title_romanji": "Koi ni Manyuaru Nante Iranai ",
+            "aired": "2006-12-07T00:00:00+00:00",
+            "score": 4.77,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2612"
+        },
+        {
+            "mal_id": 35,
+            "url": "https://myanimelist.net/anime/918/Gintama/episode/35",
+            "title": "Love Doesn't Require A Manual (Continued) You Can't Judge A Person By His Appearance, Either",
+            "title_japanese": "恋にマニュアルなんていらない延長戦 外見だけで人を判断しちゃダメ",
+            "title_romanji": "Koi ni Manyuaru Nante Iranai Enchousen Gaiken Dake de Hito wo Handan Shicha Dame ",
+            "aired": "2006-12-14T00:00:00+00:00",
+            "score": 4.68,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=3768"
+        },
+        {
+            "mal_id": 36,
+            "url": "https://myanimelist.net/anime/918/Gintama/episode/36",
+            "title": "People With Dark Pasts Can't Shut Up",
+            "title_japanese": "すねに傷がある奴ほどよくしゃべる",
+            "title_romanji": "Sune ni Kizu ga Aruyatsu Hodo Yoku Shaberu ",
+            "aired": "2006-12-21T00:00:00+00:00",
+            "score": 4.12,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=38527"
+        },
+        {
+            "mal_id": 37,
+            "url": "https://myanimelist.net/anime/918/Gintama/episode/37",
+            "title": "People Who Say That Santa Doesn't Really Exist Actually Want To Believe In Him Prayer Won't Make Your Worldly Desires Go Away! Control Yourself",
+            "title_japanese": "サンタなんていねーんだよって言い張る奴こそホントはいるって信じたいんだよ 煩悩が鐘で消えるかァァ己で制御しろ己で",
+            "title_romanji": "Santa Nante Ineen da Yotte Iiharu Yatsu Koso Honto wa Irutte Shinjitaindayo Bonnou ga Kane de Kieru kaaa Onore de Seigyoshiro Onore de ",
+            "aired": "2006-12-28T00:00:00+00:00",
+            "score": 4.47,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=5429"
+        },
+        {
+            "mal_id": 38,
+            "url": "https://myanimelist.net/anime/918/Gintama/episode/38",
+            "title": "Only Children Play In The Snow Eating Ice Cream In Winter Is Awesome",
+            "title_japanese": "雪ではしゃぐの子供だけ 冬に食べるアイスもなかなかオツなモンだ",
+            "title_romanji": "Yuki de Hashagu no wa Kodoma Dake Fuyu ni Taberu Ice mo Nakanaka Otsu na Mon da ",
+            "aired": "2007-01-11T00:00:00+00:00",
+            "score": 4.46,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=5933"
+        },
+        {
+            "mal_id": 39,
+            "url": "https://myanimelist.net/anime/918/Gintama/episode/39",
+            "title": "Ramen Shops With Long Menus Never Do Well",
+            "title_japanese": "メニューが多いラーメン屋はたいてい流行ってない",
+            "title_romanji": "Menu ga Ooi Ramen ya wa Taitei Ryuukoutte Inai ",
+            "aired": "2007-01-18T00:00:00+00:00",
+            "score": 4.68,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=6500"
+        },
+        {
+            "mal_id": 40,
+            "url": "https://myanimelist.net/anime/918/Gintama/episode/40",
+            "title": "Give A Thought To Planned Pregnancy",
+            "title_japanese": "子作りは計画的に",
+            "title_romanji": "Kozukuri wa Keikaku Teki ni ",
+            "aired": "2007-01-25T00:00:00+00:00",
+            "score": 4.51,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=6759"
+        },
+        {
+            "mal_id": 41,
+            "url": "https://myanimelist.net/anime/918/Gintama/episode/41",
+            "title": "You Can't Judge A Movie By Its Title",
+            "title_japanese": "タイトルだけじゃ映画の面白さはわかんない",
+            "title_romanji": "Title Dake ja Movie no Omoshirosa wa Wakannai ",
+            "aired": "2007-02-01T00:00:00+00:00",
+            "score": 4.7,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=6988"
+        },
+        {
+            "mal_id": 42,
+            "url": "https://myanimelist.net/anime/918/Gintama/episode/42",
+            "title": "You Know What Happens If You Pee On A Worm",
+            "title_japanese": "ミミズにおしっこかけると腫れるよ",
+            "title_romanji": "Mimizu ni Oshikko Kakeru to Hareruyo ",
+            "aired": "2007-02-08T00:00:00+00:00",
+            "score": 4.8,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=7335"
+        },
+        {
+            "mal_id": 43,
+            "url": "https://myanimelist.net/anime/918/Gintama/episode/43",
+            "title": "Make Characters So Anybody Can Tell Who They Are By Just Their Silhouettes Since It Ended A Bit Early, We're Starting The Next One",
+            "title_japanese": "キャラクターはシルエットだけで読者に見分けがつくように描きましょう なんか早く終わっちャったので次回の話をはじめちゃう",
+            "title_romanji": "Character wa Sillhouette dake Dokusha ni Miwake ga Tsuku You ni Agakiwakeyou Nanka Hayaku Owachatta Node Jikai no Hanashi wo Hajimechau ",
+            "aired": "2007-02-15T00:00:00+00:00",
+            "score": 4.52,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=8122"
+        },
+        {
+            "mal_id": 44,
+            "url": "https://myanimelist.net/anime/918/Gintama/episode/44",
+            "title": "Mom's Busy, Too, So Quit Complaining About What's For Dinner",
+            "title_japanese": "お母さんだって忙しいんだから夕飯のメニューに文句つけるの止めなさい",
+            "title_romanji": "Okaa-san Datte Isogashiindakara Yuuhan no Menu ni Monku Tsukeru no Tomenasai ",
+            "aired": "2007-02-22T00:00:00+00:00",
+            "score": 4.64,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=8833"
+        },
+        {
+            "mal_id": 45,
+            "url": "https://myanimelist.net/anime/918/Gintama/episode/45",
+            "title": "Walk Your Dog At An Appropriate Speed",
+            "title_japanese": "愛犬の散歩は適度なスピードで",
+            "title_romanji": "Aiken no Sanpo wa Tekido na Speed de ",
+            "aired": "2007-03-01T00:00:00+00:00",
+            "score": 4.63,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=10501"
+        },
+        {
+            "mal_id": 46,
+            "url": "https://myanimelist.net/anime/918/Gintama/episode/46",
+            "title": "Adults Only. We Wouldn't Want Anyone Immature In Here...",
+            "title_japanese": "XX遊びは20歳になってから",
+            "title_romanji": "XX Asobi wa Hatachi ni Natte kara ",
+            "aired": "2007-03-08T00:00:00+00:00",
+            "score": 4.35,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=11636"
+        },
+        {
+            "mal_id": 47,
+            "url": "https://myanimelist.net/anime/918/Gintama/episode/47",
+            "title": "Do Cherries Come From Cherry Trees?",
+            "title_japanese": "さくらんぼってアレ桜の木になるの?",
+            "title_romanji": "Sakuranbotte Are Sakura no Ki ni Naru no? ",
+            "aired": "2007-03-15T00:00:00+00:00",
+            "score": 4.52,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=12183"
+        },
+        {
+            "mal_id": 48,
+            "url": "https://myanimelist.net/anime/918/Gintama/episode/48",
+            "title": "The More You're Alike, The More You Fight Whatever You Play, Play To Win",
+            "title_japanese": "似てる二人は喧嘩する 何であれ やるからには負けちゃダメ",
+            "title_romanji": "Niteru Futari wa Kenka Suru Nande Are Yaru Kara ni wa Makecha Dame ",
+            "aired": "2007-03-22T00:00:00+00:00",
+            "score": 4.56,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=12545"
+        },
+        {
+            "mal_id": 49,
+            "url": "https://myanimelist.net/anime/918/Gintama/episode/49",
+            "title": "A Life Without Gambling Is Like Sushi Without Wasabi",
+            "title_japanese": "ギャンブルのない人生なんてわさび抜きの寿司みてぇなもんだ",
+            "title_romanji": "Gamble no Nai Jinsei Nante Wasabi Nuki no Sushi Miteena Mon da ",
+            "aired": "2007-03-29T00:00:00+00:00",
+            "score": 4.28,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=13454"
+        },
+        {
+            "mal_id": 50,
+            "url": "https://myanimelist.net/anime/918/Gintama/episode/50",
+            "title": "Pending Means Pending, It's Not Final",
+            "title_japanese": "未定は未定であって決定ではない",
+            "title_romanji": "Mitei wa Mitei de Atte Kettei Dewanai ",
+            "aired": "2007-04-05T00:00:00+00:00",
+            "score": 4.65,
+            "filler": true,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=14898"
+        },
+        {
+            "mal_id": 51,
+            "url": "https://myanimelist.net/anime/918/Gintama/episode/51",
+            "title": "Milk Should Be Served At Body Temperature",
+            "title_japanese": "ミルクは人肌の温度で",
+            "title_romanji": "Miruku wa Hitohada no Ondo de ",
+            "aired": "2007-04-12T00:00:00+00:00",
+            "score": 4.68,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=16287"
+        },
+        {
+            "mal_id": 52,
+            "url": "https://myanimelist.net/anime/918/Gintama/episode/52",
+            "title": "If You Want To See Someone, Make An Appo First",
+            "title_japanese": "人に会うときはまずアポを",
+            "title_romanji": "Hito to Au Toki wa Mazu Appo(intment) wo ",
+            "aired": "2007-04-19T00:00:00+00:00",
+            "score": 4.68,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=17601"
+        },
+        {
+            "mal_id": 53,
+            "url": "https://myanimelist.net/anime/918/Gintama/episode/53",
+            "title": "Stress Makes You Bald, But It's Stressful To Avoid Stress, So You End Up Stressed Out Anyway, So In The End There's Nothing You Can Do",
+            "title_japanese": "ストレスはハゲる原因になるがストレスをためないように気を配るとそこでまたストレスがたまるので結局僕らにできることなんて何もない",
+            "title_romanji": "Stress wa Hageru Genin ni Naru ga Stress wo Tamenai You ni Ki wo Kubaru to Sokode Mata Stress ga Tamaru no de Kekkyoku Bokura ni Dekiru Koto Nante Nani mo Nai ",
+            "aired": "2007-04-26T00:00:00+00:00",
+            "score": 4.42,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=19604"
+        },
+        {
+            "mal_id": 54,
+            "url": "https://myanimelist.net/anime/918/Gintama/episode/54",
+            "title": "Mothers Everywhere Are All The Same",
+            "title_japanese": "どこの母ちゃんもだいたい同じ",
+            "title_romanji": "Doko no Kaa-chan mo Daitai Onaji ",
+            "aired": "2007-05-03T00:00:00+00:00",
+            "score": 4.39,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=21010"
+        },
+        {
+            "mal_id": 55,
+            "url": "https://myanimelist.net/anime/918/Gintama/episode/55",
+            "title": "Don't Make Munching Noises When You Eat",
+            "title_japanese": "もの食べるときクチャクチャ音をたてない",
+            "title_romanji": "Mono Taberu Toki Kuchakucha Koto wo Tatenai ",
+            "aired": "2007-05-10T00:00:00+00:00",
+            "score": 4.45,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=22110"
+        },
+        {
+            "mal_id": 56,
+            "url": "https://myanimelist.net/anime/918/Gintama/episode/56",
+            "title": "Keep An Eye On The Chief For The Day",
+            "title_japanese": "一日局長に気をつけろッテンマイヤーさん",
+            "title_romanji": "Ichinichi Kyokuchou ni Ki wo Tsukerottenmaiya-san ",
+            "aired": "2007-05-17T00:00:00+00:00",
+            "score": 4.58,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=23509"
+        },
+        {
+            "mal_id": 57,
+            "url": "https://myanimelist.net/anime/918/Gintama/episode/57",
+            "title": "When Looking For Things You've Lost, Remember What You Were Doing On The Day You Lost It",
+            "title_japanese": "無くした物を探すときはその日の行動をさかのぼれ",
+            "title_romanji": "Nakushita Mono wo Sagasu Toki wa Sono Hi no Koudou wo Sakanobore ",
+            "aired": "2007-05-24T00:00:00+00:00",
+            "score": 4.33,
+            "filler": true,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=24382"
+        },
+        {
+            "mal_id": 58,
+            "url": "https://myanimelist.net/anime/918/Gintama/episode/58",
+            "title": "Croquette Sandwiches Are Always The Most Popular Food Sold At The Stalls",
+            "title_japanese": "売店ではやっぱりコロッケパンが一番人気",
+            "title_romanji": "Uriden Dewa Yappa Croquette Pan ga Ichiban Ninki ",
+            "aired": "2007-05-31T00:00:00+00:00",
+            "score": 4.77,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=24766"
+        },
+        {
+            "mal_id": 59,
+            "url": "https://myanimelist.net/anime/918/Gintama/episode/59",
+            "title": "Be Careful Not To Leave Your Umbrella Somewhere",
+            "title_japanese": "傘の置き忘れに注意",
+            "title_romanji": "Kasa no Oki Wasure ni Chuui ",
+            "aired": "2007-06-07T00:00:00+00:00",
+            "score": 4.74,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=25594"
+        },
+        {
+            "mal_id": 60,
+            "url": "https://myanimelist.net/anime/918/Gintama/episode/60",
+            "title": "The Sun Will Rise Again",
+            "title_japanese": "陽はまた昇る",
+            "title_romanji": "Hi wa Mata Noboru ",
+            "aired": "2007-06-14T00:00:00+00:00",
+            "score": 4.77,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=26773"
+        },
+        {
+            "mal_id": 61,
+            "url": "https://myanimelist.net/anime/918/Gintama/episode/61",
+            "title": "On A Moonless Night, Insects Are Drawn To The Light",
+            "title_japanese": "闇夜の虫は光に集う",
+            "title_romanji": "Yamiyo no Mushi wa Hikari ni Tsudou ",
+            "aired": "2007-06-21T00:00:00+00:00",
+            "score": 4.84,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=27206"
+        },
+        {
+            "mal_id": 62,
+            "url": "https://myanimelist.net/anime/918/Gintama/episode/62",
+            "title": "Even Mummy Hunters Sometimes Turn into Mummys",
+            "title_japanese": "ミイラ捕りがミイラに",
+            "title_romanji": "Miira Tori ga Miira ni ",
+            "aired": "2007-06-28T00:00:00+00:00",
+            "score": 4.65,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=28567"
+        },
+        {
+            "mal_id": 63,
+            "url": "https://myanimelist.net/anime/918/Gintama/episode/63",
+            "title": "The Preview Section in JUMP is Always Unreliable",
+            "title_japanese": "ジャンプの次号予告は当てにならない",
+            "title_romanji": "Jump no Jigo Yokoku wa Ate ni Naranai ",
+            "aired": "2007-07-05T00:00:00+00:00",
+            "score": 4.46,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=30805"
+        },
+        {
+            "mal_id": 64,
+            "url": "https://myanimelist.net/anime/918/Gintama/episode/64",
+            "title": "Eating Nmaibo Can Make You Full in No Time!",
+            "title_japanese": "んまい棒は意外とお腹いっぱいになる",
+            "title_romanji": "Nmaibou wa Igai to Onaka Ippai ni Naru ",
+            "aired": "2007-07-12T00:00:00+00:00",
+            "score": 4.63,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=31044"
+        },
+        {
+            "mal_id": 65,
+            "url": "https://myanimelist.net/anime/918/Gintama/episode/65",
+            "title": "Rhinoceros Beetles Teach Boys that Life is Precious",
+            "title_japanese": "少年はカブト虫を通し生命の尊さを知る",
+            "title_romanji": "Shounen wa Kabuto Mushi wo Tooshi Inochi no Tattosa wo Shiru ",
+            "aired": "2007-07-19T00:00:00+00:00",
+            "score": 4.67,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=32679"
+        },
+        {
+            "mal_id": 66,
+            "url": "https://myanimelist.net/anime/918/Gintama/episode/66",
+            "title": "Dango Over Flowers",
+            "title_japanese": "華より団子",
+            "title_romanji": "Hana Yori Dango ",
+            "aired": "2007-07-26T00:00:00+00:00",
+            "score": 4.43,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=32683"
+        },
+        {
+            "mal_id": 67,
+            "url": "https://myanimelist.net/anime/918/Gintama/episode/67",
+            "title": "For the Wind Is the Life",
+            "title_japanese": "走り続けてこそ人生 理想の彼女はやっぱり南ちゃん",
+            "title_romanji": "Hashiri Tsuzukete Koso Jinsei Risou no Kanojo wa Yappari Minami-chan ",
+            "aired": "2007-08-02T00:00:00+00:00",
+            "score": 4.37,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=34202"
+        },
+        {
+            "mal_id": 68,
+            "url": "https://myanimelist.net/anime/918/Gintama/episode/68",
+            "title": "Like a Haunted House, Life is Filled with Horrors",
+            "title_japanese": "渡る世間はオバケばかり",
+            "title_romanji": "Wataru Seken wa Obake Bakari ",
+            "aired": "2007-08-09T00:00:00+00:00",
+            "score": 4.15,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=37725"
+        },
+        {
+            "mal_id": 69,
+            "url": "https://myanimelist.net/anime/918/Gintama/episode/69",
+            "title": "Please Help by Separating Your Trash",
+            "title_japanese": "ゴミの分別回収にご協力下さい",
+            "title_romanji": "Gomi no Bunbetsu Kaishuu ni Gokyouryoku Kudasai ",
+            "aired": "2007-08-16T00:00:00+00:00",
+            "score": 4.5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=37717"
+        },
+        {
+            "mal_id": 70,
+            "url": "https://myanimelist.net/anime/918/Gintama/episode/70",
+            "title": "Too Many Cuties Can Make You Sick",
+            "title_japanese": "可愛いモノも多すぎると気持ち悪い",
+            "title_romanji": "Kawaii Mono mo Oosugiru to Kimochi Warui ",
+            "aired": "2007-08-23T00:00:00+00:00",
+            "score": 4.36,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=37703"
+        },
+        {
+            "mal_id": 71,
+            "url": "https://myanimelist.net/anime/918/Gintama/episode/71",
+            "title": "Some Data Cannot Be Erased",
+            "title_japanese": "消せないデータもある",
+            "title_romanji": "Kesenai Data mo Aru ",
+            "aired": "2007-08-30T00:00:00+00:00",
+            "score": 4.66,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=39899"
+        },
+        {
+            "mal_id": 72,
+            "url": "https://myanimelist.net/anime/918/Gintama/episode/72",
+            "title": "A Dog's Paws Smell Fragrant Drive With A Might Attitude",
+            "title_japanese": "犬の肉球はこうばしい匂いがする かもしれない運転で行け",
+            "title_romanji": "Inu no Nikudama wa Koubashii Nioi ga Suru Kamoshirenai Unten de Ike ",
+            "aired": "2007-09-06T00:00:00+00:00",
+            "score": 4.67,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=40125"
+        },
+        {
+            "mal_id": 73,
+            "url": "https://myanimelist.net/anime/918/Gintama/episode/73",
+            "title": "Think For A Minute Now, Do Matsutake Mushrooms Really Taste All That Good?",
+            "title_japanese": "そんなに松茸って美味しいもんなのか一度良く考えてみよう",
+            "title_romanji": "Sonna ni Matsutakette Oishii Mon na no ka Ichido Yoku Kangaete Miyou ",
+            "aired": "2007-09-13T00:00:00+00:00",
+            "score": 4.28,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=40197"
+        },
+        {
+            "mal_id": 74,
+            "url": "https://myanimelist.net/anime/918/Gintama/episode/74",
+            "title": "The Manga Writer Becomes A Pro, After Doing A Stock Of Manuscripts",
+            "title_japanese": "漫画家は原稿のストックが出来てこそ一人前",
+            "title_romanji": "Mangaka wa Genkou no Stock ga Dekite Koso Hitorimae ",
+            "aired": "2007-09-20T00:00:00+00:00",
+            "score": 4.61,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=41011"
+        },
+        {
+            "mal_id": 75,
+            "url": "https://myanimelist.net/anime/918/Gintama/episode/75",
+            "title": "Don't Complain About Your Job At Home, Do It Somewhere Else",
+            "title_japanese": "仕事のグチは家でこぼさず外でこぼせ!",
+            "title_romanji": "Shigoto no Guchi wa Ie de Kobasazu Soto de Kobose! ",
+            "aired": "2007-09-27T00:00:00+00:00",
+            "score": 4.24,
+            "filler": true,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=41109"
+        },
+        {
+            "mal_id": 76,
+            "url": "https://myanimelist.net/anime/918/Gintama/episode/76",
+            "title": "In Those Situations, Keep Quiet And Cook Red Rice With Beans",
+            "title_japanese": "そういう時は黙って赤飯",
+            "title_romanji": "Sou Iu Toki wa Damatte Sekihan ",
+            "aired": "2007-10-04T00:00:00+00:00",
+            "score": 4.36,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=42223"
+        },
+        {
+            "mal_id": 77,
+            "url": "https://myanimelist.net/anime/918/Gintama/episode/77",
+            "title": "Yesterday's Enemy, After All Is Said And Done, Is Still The Enemy",
+            "title_japanese": "昨日の敵は今日もなんやかんやで敵",
+            "title_romanji": "Kinou no Teki wa Kyou mo Nanyakanya de Teki ",
+            "aired": "2007-10-11T00:00:00+00:00",
+            "score": 4.84,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=42437"
+        },
+        {
+            "mal_id": 78,
+            "url": "https://myanimelist.net/anime/918/Gintama/episode/78",
+            "title": "People Who Are Picky About Food Are Also Picky About People, Too",
+            "title_japanese": "食べ物の好き嫌いが多い人は人間の好き嫌いも多い",
+            "title_romanji": "Tabemono no Sukikirai ga Ooii Hito wa Ningen no Sukikirai mo Ooii ",
+            "aired": "2007-10-18T00:00:00+00:00",
+            "score": 4.7,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=42543"
+        },
+        {
+            "mal_id": 79,
+            "url": "https://myanimelist.net/anime/918/Gintama/episode/79",
+            "title": "Four Heads Are Better Than One",
+            "title_japanese": "四人揃えばいろんな知恵",
+            "title_romanji": "Yonin Soroeba Ironna Chie ",
+            "aired": "2007-10-25T00:00:00+00:00",
+            "score": 4.87,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=42748"
+        },
+        {
+            "mal_id": 80,
+            "url": "https://myanimelist.net/anime/918/Gintama/episode/80",
+            "title": "When Someone Who Wears Glasses Takes Them Off, It Looks Like Something's Missing",
+            "title_japanese": "普段眼鏡をかけてる奴が眼鏡を外すとなんかもの足りない パーツが一個足りない気がする",
+            "title_romanji": "Fudan Megane wo Kaketeru Yatsu ga Megane wo Hazusuto Nanka Mono Tarinai Parts ga Ikko Tarinai Ki ga Suru ",
+            "aired": "2007-11-08T00:00:00+00:00",
+            "score": 4.69,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=43040"
+        },
+        {
+            "mal_id": 81,
+            "url": "https://myanimelist.net/anime/918/Gintama/episode/81",
+            "title": "A Woman's Best Make Up Is Her Smile",
+            "title_japanese": "女の一番の化粧は笑顔",
+            "title_romanji": "Onna no Ichiban no Keshou wa Egao ",
+            "aired": "2007-11-15T00:00:00+00:00",
+            "score": 4.83,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=43343"
+        },
+        {
+            "mal_id": 82,
+            "url": "https://myanimelist.net/anime/918/Gintama/episode/82",
+            "title": "You Don't Stand In Line For The Ramen, You Stand In Line For The Self Satisfaction You Say Kawaii So Often, You Must Really Think You're Cute Stuff",
+            "title_japanese": "ラーメンのために並ぶんじゃない自己満足のため並ぶんだ カワイイを連発する自分自身をカワイイと思ってんだろ",
+            "title_romanji": "Ramen no Tame ni Narabunjanai. Jikomanzoku Tame ni Narabunda Kawaii wo Renpatsu Suru Jibun Jishin wo Kawaii to Omottendaro ",
+            "aired": "2007-11-22T00:00:00+00:00",
+            "score": 4.12,
+            "filler": true,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=44665"
+        },
+        {
+            "mal_id": 83,
+            "url": "https://myanimelist.net/anime/918/Gintama/episode/83",
+            "title": "Rank Has Nothing To Do With Luck",
+            "title_japanese": "運に身分は関係ない",
+            "title_romanji": "Un ni Jibun wa Kankeinai ",
+            "aired": "2007-11-29T00:00:00+00:00",
+            "score": 4.73,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=44799"
+        },
+        {
+            "mal_id": 84,
+            "url": "https://myanimelist.net/anime/918/Gintama/episode/84",
+            "title": "Hard-Boiled Egg On A Man's Heart",
+            "title_japanese": "男は心に固ゆで卵",
+            "title_romanji": "Otoko wa Kokoro ni Katayude Tamago ",
+            "aired": "2007-12-06T00:00:00+00:00",
+            "score": 2.92,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=45604"
+        },
+        {
+            "mal_id": 85,
+            "url": "https://myanimelist.net/anime/918/Gintama/episode/85",
+            "title": "Hard-Boiled Eggs Don't Crack",
+            "title_japanese": "固ゆで卵は潰れない",
+            "title_romanji": "Katayude Tamago wa Tsuburenai ",
+            "aired": "2007-12-13T00:00:00+00:00",
+            "score": 4.05,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=45785"
+        },
+        {
+            "mal_id": 86,
+            "url": "https://myanimelist.net/anime/918/Gintama/episode/86",
+            "title": "It's Often Difficult To Sleep When You're Engrossed With Counting Sheep",
+            "title_japanese": "羊数えるの自体に夢中になったりして結局眠れないことも多い",
+            "title_romanji": "Tsuji Kazoeru no Jitai ni Muchuu ni Aattarishite Kekkyoku Nemurenai Koto mo Ooi ",
+            "aired": "2007-12-20T00:00:00+00:00",
+            "score": 4.83,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=45831"
+        },
+        {
+            "mal_id": 87,
+            "url": "https://myanimelist.net/anime/918/Gintama/episode/87",
+            "title": "Perform A German Suplex On A Woman Who Asks If She Or The Job Is More Important",
+            "title_japanese": "私と仕事どっちが大事なのかという女にはジャーマンスープレックス",
+            "title_romanji": "Watashi to Shigoto Docchi Daiji na no Toka Iu Onna ni wa German Suplex ",
+            "aired": "2007-12-27T00:00:00+00:00",
+            "score": 4.91,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=45832"
+        },
+        {
+            "mal_id": 88,
+            "url": "https://myanimelist.net/anime/918/Gintama/episode/88",
+            "title": "The Most Exciting Part Of A Group Date Is Before It Starts",
+            "title_japanese": "合コンは始まるまでが一番楽しい",
+            "title_romanji": "Goukon wa Hajimaru Made ga Ichiban Tanoshii ",
+            "aired": "2008-01-10T00:00:00+00:00",
+            "score": 4.59,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=45858"
+        },
+        {
+            "mal_id": 89,
+            "url": "https://myanimelist.net/anime/918/Gintama/episode/89",
+            "title": "What Happens Twice, Happens Thrice",
+            "title_japanese": "2度あることは3度ある",
+            "title_romanji": "Nido Aru Koto wa Sando Aru ",
+            "aired": "2008-01-17T00:00:00+00:00",
+            "score": 4.37,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=47543"
+        },
+        {
+            "mal_id": 90,
+            "url": "https://myanimelist.net/anime/918/Gintama/episode/90",
+            "title": "The More Delicious The Food, The Nastier It Is When It Goes Bad",
+            "title_japanese": "美味しいものほど当たると恐い",
+            "title_romanji": "Oishii Mono Hodo Ataru to Kowai ",
+            "aired": "2008-01-24T00:00:00+00:00",
+            "score": 4.43,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=47563"
+        },
+        {
+            "mal_id": 91,
+            "url": "https://myanimelist.net/anime/918/Gintama/episode/91",
+            "title": "If You Want To Lose Weight, Then Stop Eating And Start Moving",
+            "title_japanese": "やせたいなら動け 食べるな",
+            "title_romanji": "Yasetai Nara Ugoke Taberuna ",
+            "aired": "2008-01-31T00:00:00+00:00",
+            "score": 4.37,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=58027"
+        },
+        {
+            "mal_id": 92,
+            "url": "https://myanimelist.net/anime/918/Gintama/episode/92",
+            "title": "Be A Person Who Can See People's Strong Points And Not Their Weak Points",
+            "title_japanese": "人の短所を見つけるより長所を見つけられる人になれ",
+            "title_romanji": "Hito no Dansho wo Miru Yori Chousho wo Mitsukerareru Hito ni Nare ",
+            "aired": "2008-02-07T00:00:00+00:00",
+            "score": 4.64,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=58032"
+        },
+        {
+            "mal_id": 93,
+            "url": "https://myanimelist.net/anime/918/Gintama/episode/93",
+            "title": "Even A Hero Has Issues",
+            "title_japanese": "ヒーローだって悩んでる",
+            "title_romanji": "Hero Datte Nayan Deru ",
+            "aired": "2008-02-14T00:00:00+00:00",
+            "score": 3.78,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=58018"
+        },
+        {
+            "mal_id": 94,
+            "url": "https://myanimelist.net/anime/918/Gintama/episode/94",
+            "title": "When Riding A Train, Make Sure You Grab The Straps With Both Hands",
+            "title_japanese": "電車に乗る時は必ず両手をつり革に",
+            "title_romanji": "Densha ni Noru Toki wa Kanarazu Ryoute wo Tsurikawa ni ",
+            "aired": "2008-02-21T00:00:00+00:00",
+            "score": 4.55,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=62838"
+        },
+        {
+            "mal_id": 95,
+            "url": "https://myanimelist.net/anime/918/Gintama/episode/95",
+            "title": "Men, Be A Madao",
+            "title_japanese": "男たちよマダオであれ",
+            "title_romanji": "Otoko-tachi yo Madao de Are ",
+            "aired": "2008-02-28T00:00:00+00:00",
+            "score": 4.73,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=62885"
+        },
+        {
+            "mal_id": 96,
+            "url": "https://myanimelist.net/anime/918/Gintama/episode/96",
+            "title": "If You're A Man, Don't Give Up",
+            "title_japanese": "男なら諦めるな",
+            "title_romanji": "Otoko Nara Akirameru na ",
+            "aired": "2008-03-06T00:00:00+00:00",
+            "score": 4.39,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=63593"
+        },
+        {
+            "mal_id": 97,
+            "url": "https://myanimelist.net/anime/918/Gintama/episode/97",
+            "title": "Exaggerate The Tales Of Your Exploits By A Third, So Everyone Has A Good Time Men Have A Weakness For Girls Who Sell Flowers And Work In Pastry Shops",
+            "title_japanese": "昔の武勇伝は三割増で話せ 花屋とかケーキ屋の娘に男は弱い",
+            "title_romanji": "Mukashi no Buyuuden wa Sanwarimashi de Hanase Hanaya Toka Cake ya no Musume ni Otoko wa Yowai ",
+            "aired": "2008-03-13T00:00:00+00:00",
+            "score": 4.57,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=64393"
+        },
+        {
+            "mal_id": 98,
+            "url": "https://myanimelist.net/anime/918/Gintama/episode/98",
+            "title": "Play Video Games For Only An Hour A Day",
+            "title_japanese": "ゲームは一日一時間",
+            "title_romanji": "Game wa Ichinichi Ichi Jikan ",
+            "aired": "2008-03-20T00:00:00+00:00",
+            "score": 4.7,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=64945"
+        },
+        {
+            "mal_id": 99,
+            "url": "https://myanimelist.net/anime/918/Gintama/episode/99",
+            "title": "Life And Video Games Are Full Of Bugs",
+            "title_japanese": "人生もゲームもバグだらけ",
+            "title_romanji": "Jinsei mo Game mo Bug Darake ",
+            "aired": "2008-03-27T00:00:00+00:00",
+            "score": 4.87,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=64904"
+        },
+        {
+            "mal_id": 100,
+            "url": "https://myanimelist.net/anime/918/Gintama/episode/100",
+            "title": "The More Something Is Disliked, The More Lovely It Is",
+            "title_japanese": "好かれないものほど愛おしい",
+            "title_romanji": "Sukarenai Mono Hodo Itoushii ",
+            "aired": "2008-04-03T00:00:00+00:00",
+            "score": 4.46,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=65868"
+        },
+        {
+            "mal_id": 101,
+            "url": "https://myanimelist.net/anime/918/Gintama/episode/101",
+            "title": "Rules Are Made To Be Broken",
+            "title_japanese": "掟は破るためにこそある",
+            "title_romanji": "Okite wa Yaburu Tame ni Koso Aru ",
+            "aired": "2008-04-10T00:00:00+00:00",
+            "score": 4.55,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=67334"
+        },
+        {
+            "mal_id": 102,
+            "url": "https://myanimelist.net/anime/918/Gintama/episode/102",
+            "title": "Otaku Are Talkative",
+            "title_japanese": "オタクは話好き",
+            "title_romanji": "Otaku wa Hanashizuki ",
+            "aired": "2008-04-17T00:00:00+00:00",
+            "score": 4.77,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=68800"
+        },
+        {
+            "mal_id": 103,
+            "url": "https://myanimelist.net/anime/918/Gintama/episode/103",
+            "title": "There's A Thin Line Between Strengths And Weaknesses",
+            "title_japanese": "長所と短所は紙一重",
+            "title_romanji": "Chousho to Tansho wa Kamihitoe ",
+            "aired": "2008-04-24T00:00:00+00:00",
+            "score": 4.85,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=71661"
+        },
+        {
+            "mal_id": 104,
+            "url": "https://myanimelist.net/anime/918/Gintama/episode/104",
+            "title": "Important Things Are Hard To See",
+            "title_japanese": "大切なものは見えにくい",
+            "title_romanji": "Taisetsu na Mono wa Mienikui ",
+            "aired": "2008-05-01T00:00:00+00:00",
+            "score": 4.76,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=75674"
+        },
+        {
+            "mal_id": 105,
+            "url": "https://myanimelist.net/anime/918/Gintama/episode/105",
+            "title": "It's All About The Beat And Timing",
+            "title_japanese": "何事もノリとタイミング",
+            "title_romanji": "Nanigoto mo Norito Taiming ",
+            "aired": "2008-05-08T00:00:00+00:00",
+            "score": 4.79,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=75681"
+        },
+        {
+            "mal_id": 106,
+            "url": "https://myanimelist.net/anime/918/Gintama/episode/106",
+            "title": "Love Is Often Played Out In Sudden Death",
+            "title_japanese": "恋愛ってたいていサドンデス方式",
+            "title_romanji": "Renaitte Taitei Sudden Death Houshiki ",
+            "aired": "2008-05-15T00:00:00+00:00",
+            "score": 4.33,
+            "filler": true,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=74684"
+        },
+        {
+            "mal_id": 107,
+            "url": "https://myanimelist.net/anime/918/Gintama/episode/107",
+            "title": "Kids Don't Understand How Their Parents Feel",
+            "title_japanese": "親の心子知らず",
+            "title_romanji": "Oya no Kokoro ko Shirazu ",
+            "aired": "2008-05-22T00:00:00+00:00",
+            "score": 4.38,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=79091"
+        },
+        {
+            "mal_id": 108,
+            "url": "https://myanimelist.net/anime/918/Gintama/episode/108",
+            "title": "Some Things Are Better Left Unsaid",
+            "title_japanese": "言わぬが花",
+            "title_romanji": "Iwanuga Hana ",
+            "aired": "2008-05-29T00:00:00+00:00",
+            "score": 4.54,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=82809"
+        },
+        {
+            "mal_id": 109,
+            "url": "https://myanimelist.net/anime/918/Gintama/episode/109",
+            "title": "Life Is A Test",
+            "title_japanese": "人生は試験だ",
+            "title_romanji": "Jinsei wa Shiken da ",
+            "aired": "2008-06-05T00:00:00+00:00",
+            "score": 4.57,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=79122"
+        },
+        {
+            "mal_id": 110,
+            "url": "https://myanimelist.net/anime/918/Gintama/episode/110",
+            "title": "People Are All Escapees Of Their Own Inner Prisons",
+            "title_japanese": "人は皆自分という檻を破る脱獄囚",
+            "title_romanji": "Hito wa Mina Jibun to Iu Ori wo Yaburu Datsugoku Shuu ",
+            "aired": "2008-06-12T00:00:00+00:00",
+            "score": 4.82,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=79123"
+        },
+        {
+            "mal_id": 111,
+            "url": "https://myanimelist.net/anime/918/Gintama/episode/111",
+            "title": "Definitely Do Not Let Your Girlfriend See The Things You Use For Cross-Dressing There's Almost A 100% Chance You'll Forget Your Umbrella And Hate Yourself For It",
+            "title_japanese": "NH物は彼女に見つかるな ほぼ100%の確率でビニール傘を置き忘れてくる自分が嫌い",
+            "title_romanji": "NH Butsu wa Kanojo ni Mitsukaru na Hobo 100% no Kakuritsu de Vinyl Kasa wo Okiwasurete Kuru Jibun ga Kirai ",
+            "aired": "2008-06-19T00:00:00+00:00",
+            "score": 4.69,
+            "filler": true,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=88809"
+        },
+        {
+            "mal_id": 112,
+            "url": "https://myanimelist.net/anime/918/Gintama/episode/112",
+            "title": "Lucky Is A Man Who Gets Up And Goes To Work",
+            "title_japanese": "二十代の誕生日に深い意味はない/ 起きて働く果報者",
+            "title_romanji": "Nijuudai no Tanjoubi ni Fukai Imi wa Nai / Okite Hataraku Kahou Mono ",
+            "aired": "2008-06-26T00:00:00+00:00",
+            "score": 4.64,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=88842"
+        },
+        {
+            "mal_id": 113,
+            "url": "https://myanimelist.net/anime/918/Gintama/episode/113",
+            "title": "The Act of Polishing a Urinal Is Like the Act of Polishing One`s Heart / Subtitle Undecided",
+            "title_japanese": "便器を磨く事これ心を磨く事なり / サブタイトル未定",
+            "title_romanji": "Benki wo Migaku Koto Kore Kokoro wo Migaku Koto Nari / Subtitle Mitei ",
+            "aired": "2008-07-03T00:00:00+00:00",
+            "score": 4.69,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=79124"
+        },
+        {
+            "mal_id": 114,
+            "url": "https://myanimelist.net/anime/918/Gintama/episode/114",
+            "title": "When Sweet and Spicy Things Are Switched... / They Say That Adding Soy Sauce to Pudding Gives the Taste of Sea Urchin, but Really, Adding Soy Sauce to Pudding Only Gives the Taste of Soy Sauce and Pudding",
+            "title_japanese": "甘いもの辛いもの交互に... / プリンに醤油かけたらウニの味がするって言うけどプリンに醤油かけてもプリンと醤油の味しかしない",
+            "title_romanji": "Amai Mono Tsurai Mono Kougo ni... / Pudding ni Shouyu Kaketara Uni no Aji ga Surutte Iu Kedo Pudding ni Shouyu Kakete mo Pudding to Shouyu no Aji Shika Shinai ",
+            "aired": "2008-07-10T00:00:00+00:00",
+            "score": 4.71,
+            "filler": true,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=79125"
+        },
+        {
+            "mal_id": 115,
+            "url": "https://myanimelist.net/anime/918/Gintama/episode/115",
+            "title": "Summer Vacation Is The Most Fun Right Before It Begins",
+            "title_japanese": "夏休みは始まる前が一番楽しい",
+            "title_romanji": "Natsuyasumi wa Hajimaru Mae ga Ichiban Tanoshii ",
+            "aired": "2008-07-17T00:00:00+00:00",
+            "score": 4.67,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=79126"
+        },
+        {
+            "mal_id": 116,
+            "url": "https://myanimelist.net/anime/918/Gintama/episode/116",
+            "title": "The Older, The Wiser",
+            "title_japanese": "亀の甲より年の功",
+            "title_romanji": "Kamenokou Yori Toshinokou ",
+            "aired": "2008-07-24T00:00:00+00:00",
+            "score": 4.38,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=79127"
+        },
+        {
+            "mal_id": 117,
+            "url": "https://myanimelist.net/anime/918/Gintama/episode/117",
+            "title": "Beauty Is Like A Summer Fruit",
+            "title_japanese": "美は夏の果実の如き物",
+            "title_romanji": "Bi wa Natsu no Kajitsu no Gotoki Mono ",
+            "aired": "2008-07-31T00:00:00+00:00",
+            "score": 4.3,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=79128"
+        },
+        {
+            "mal_id": 118,
+            "url": "https://myanimelist.net/anime/918/Gintama/episode/118",
+            "title": "Even If Your Back Is Bent, Go Straight Forward",
+            "title_japanese": "腰は曲がってもまっすぐに",
+            "title_romanji": "Koshi wa Magatte mo Massugu ni ",
+            "aired": "2008-08-07T00:00:00+00:00",
+            "score": 4.47,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=79129"
+        },
+        {
+            "mal_id": 119,
+            "url": "https://myanimelist.net/anime/918/Gintama/episode/119",
+            "title": "Within Each Box Of Cigarettes, Are One Or Two Cigarettes That Smell Like Horse Dung",
+            "title_japanese": "タバコは一箱に一, 二本馬糞みたいな匂いのする奴が入っている",
+            "title_romanji": "Tabako wa Ichihako ni Ichi, Nippon Bafun Mitai na Nioi no Suru Yatsu ga Haitte Iru ",
+            "aired": "2008-08-14T00:00:00+00:00",
+            "score": 4.69,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=79130"
+        },
+        {
+            "mal_id": 120,
+            "url": "https://myanimelist.net/anime/918/Gintama/episode/120",
+            "title": "Japanese Restaurants Abroad Taste Pretty Much Like School Cafeteria Lunches Once You've Taken A Dish, You Can't Put It Back",
+            "title_japanese": "海外の日本料理店の味はだいたい学食レベル 一度取った皿は戻さない",
+            "title_romanji": "Kaigai no Nippon Ryouriten no Aji wa Daitai Gakushoku Level Ichido Totta Sara wa Modosanai ",
+            "aired": "2008-08-21T00:00:00+00:00",
+            "score": 4.71,
+            "filler": true,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=97575"
+        },
+        {
+            "mal_id": 121,
+            "url": "https://myanimelist.net/anime/918/Gintama/episode/121",
+            "title": "Novices Only Need A Flathead And A Phillips",
+            "title_japanese": "素人はプラスとマイナスだけで十分だ",
+            "title_romanji": "Shirouto wa Plus to Minus Dake de Juubun da ",
+            "aired": "2008-08-28T00:00:00+00:00",
+            "score": 4.56,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=79132"
+        },
+        {
+            "mal_id": 122,
+            "url": "https://myanimelist.net/anime/918/Gintama/episode/122",
+            "title": "Imagination Is Nurtured In The 8th Grade",
+            "title_japanese": "想像力は中2で培われる",
+            "title_romanji": "Souzou Tyoku wa Chuu 2 de Tsuchikawareru ",
+            "aired": "2008-09-04T00:00:00+00:00",
+            "score": 4.58,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=79133"
+        },
+        {
+            "mal_id": 123,
+            "url": "https://myanimelist.net/anime/918/Gintama/episode/123",
+            "title": "Always Keep A Screwdriver In Your Heart",
+            "title_japanese": "いつも心に一本のドライバー",
+            "title_romanji": "Itsumo Kokoro ni Ippon no Screwdriver ",
+            "aired": "2008-09-11T00:00:00+00:00",
+            "score": 4.56,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=79135"
+        },
+        {
+            "mal_id": 124,
+            "url": "https://myanimelist.net/anime/918/Gintama/episode/124",
+            "title": "When Nagging Goes Too Far It Becomes Intimidating",
+            "title_japanese": "おねだりも度がすぎれば脅迫",
+            "title_romanji": "Onedari mo Tabi ga Sugireba Kyohaku ",
+            "aired": "2008-09-18T00:00:00+00:00",
+            "score": 3.69,
+            "filler": true,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=106355"
+        },
+        {
+            "mal_id": 125,
+            "url": "https://myanimelist.net/anime/918/Gintama/episode/125",
+            "title": "Entering The Final Chapter!",
+            "title_japanese": "最終章突入!",
+            "title_romanji": "Saishuushou Totsunyuu! ",
+            "aired": "2008-09-25T00:00:00+00:00",
+            "score": 4.28,
+            "filler": false,
+            "recap": true,
+            "forum_url": "https://myanimelist.net/forum/?topicid=97840"
+        },
+        {
+            "mal_id": 126,
+            "url": "https://myanimelist.net/anime/918/Gintama/episode/126",
+            "title": "Some Things Can Only Be Conveyed Through The Written Word",
+            "title_japanese": "文字でしか伝わらないものがある",
+            "title_romanji": "Monji de Shika Tsutawaranai Mono ga Aru ",
+            "aired": "2008-10-02T00:00:00+00:00",
+            "score": 4.5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=79137"
+        },
+        {
+            "mal_id": 127,
+            "url": "https://myanimelist.net/anime/918/Gintama/episode/127",
+            "title": "Sometimes You Must Meet To Understand",
+            "title_japanese": "会わないとわからないこともある",
+            "title_romanji": "Awanai to Wakaranai Koto mo Aru ",
+            "aired": "2008-10-09T00:00:00+00:00",
+            "score": 4.73,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=107947"
+        },
+        {
+            "mal_id": 128,
+            "url": "https://myanimelist.net/anime/918/Gintama/episode/128",
+            "title": "Sometimes You Can't Tell Just By Meeting Someone",
+            "title_japanese": "会ってもわからないこともある",
+            "title_romanji": "Attemo Wakaranai Koto mo Aru ",
+            "aired": "2008-10-16T00:00:00+00:00",
+            "score": 4.56,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=107948"
+        },
+        {
+            "mal_id": 129,
+            "url": "https://myanimelist.net/anime/918/Gintama/episode/129",
+            "title": "Beware Of Food You Pick Up Off The Ground",
+            "title_japanese": "拾い食いに気をつけろ",
+            "title_romanji": "Hiroikuini Ki wo Tsukero ",
+            "aired": "2008-10-23T00:00:00+00:00",
+            "score": 4.26,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=79100"
+        },
+        {
+            "mal_id": 130,
+            "url": "https://myanimelist.net/anime/918/Gintama/episode/130",
+            "title": "Cat Lovers And Dog Lovers Are Mutually Exclusive",
+            "title_japanese": "猫好きと犬好きは相容れない",
+            "title_romanji": "Nekozuki to Inuzuki wa Aiirenai ",
+            "aired": "2008-10-30T00:00:00+00:00",
+            "score": 4.69,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=79101"
+        },
+        {
+            "mal_id": 131,
+            "url": "https://myanimelist.net/anime/918/Gintama/episode/131",
+            "title": "Fights Often Ensue During Trips",
+            "title_japanese": "旅行先ではだいたいケンカする",
+            "title_romanji": "Ryokousaki Dewa Daitai Kenka Suru ",
+            "aired": "2008-11-06T00:00:00+00:00",
+            "score": 4.58,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=79102"
+        },
+        {
+            "mal_id": 132,
+            "url": "https://myanimelist.net/anime/918/Gintama/episode/132",
+            "title": "Briefs Will Unavoidably Get Skidmarks",
+            "title_japanese": "ブリーフの××筋は絶対不可避",
+            "title_romanji": "Brief no XX Suji wa Zettai Fukahi ",
+            "aired": "2008-11-13T00:00:00+00:00",
+            "score": 4.34,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=79103"
+        },
+        {
+            "mal_id": 133,
+            "url": "https://myanimelist.net/anime/918/Gintama/episode/133",
+            "title": "Gin And His Excellency's Good-For-Nothings",
+            "title_japanese": "銀と閣下の穀潰し",
+            "title_romanji": "Gin to Kakka no Gokutsubushi ",
+            "aired": "2008-11-20T00:00:00+00:00",
+            "score": 4.33,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=79104"
+        },
+        {
+            "mal_id": 134,
+            "url": "https://myanimelist.net/anime/918/Gintama/episode/134",
+            "title": "Be Very Careful When Using Ghost Stories",
+            "title_japanese": "幽霊ネタやる時は慎重に",
+            "title_romanji": "Yuurei Neta Yaru Toki wa Shinchou ni ",
+            "aired": "2008-11-27T00:00:00+00:00",
+            "score": 4.28,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=79105"
+        },
+        {
+            "mal_id": 135,
+            "url": "https://myanimelist.net/anime/918/Gintama/episode/135",
+            "title": "Before Worrying About The Earth, Think About The Even More Endangered Future Of 'Gintaman'",
+            "title_japanese": "地球の前に、もっと危ない「ギンタマン」の未来を考えろ",
+            "title_romanji": "Chikyuu no Mae ni, Motto Abunai \"Gintaman\" no Mirai wo Kangaero ",
+            "aired": "2008-12-04T00:00:00+00:00",
+            "score": 4.25,
+            "filler": true,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=79106"
+        },
+        {
+            "mal_id": 136,
+            "url": "https://myanimelist.net/anime/918/Gintama/episode/136",
+            "title": "It's Your House, You Build It",
+            "title_japanese": "己の居場所は己で作るものなり",
+            "title_romanji": "Onore no Ibasho wa Onore de Tsukuru Mono Nari ",
+            "aired": "2008-12-11T00:00:00+00:00",
+            "score": 4.29,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=79107"
+        },
+        {
+            "mal_id": 137,
+            "url": "https://myanimelist.net/anime/918/Gintama/episode/137",
+            "title": "99% Of Men Aren't Confident In Confessing Their Love People Who Don't Believe In Santa Are The Very Ones Who Want To Believe, You Contentious Bastard",
+            "title_japanese": "告白に自信のある男なんて99%いない ンタを信じていない人々は、あなた訟バスタードは、信じたい良いものです",
+            "title_romanji": "Kokuhaku ni Jishin no Aru Otoko Nante 99% Inai Santa wa Inaitte Yatsu Koso Hontou wa Shinjitai no Neko no Amanojaku-san ",
+            "aired": "2008-12-18T00:00:00+00:00",
+            "score": 4.3,
+            "filler": true,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=79108"
+        },
+        {
+            "mal_id": 138,
+            "url": "https://myanimelist.net/anime/918/Gintama/episode/138",
+            "title": "Let's Talk About The Old Days Once In A While",
+            "title_japanese": "時には昔の話をしようか",
+            "title_romanji": "Toki ni wa Mukashi no Hanashi wo Shiyou ka ",
+            "aired": "2008-12-25T00:00:00+00:00",
+            "score": 4.36,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=79109"
+        },
+        {
+            "mal_id": 139,
+            "url": "https://myanimelist.net/anime/918/Gintama/episode/139",
+            "title": "Don't Put Your Wallet In Your Back Pocket",
+            "title_japanese": "財布は尻ポケットに入れるな",
+            "title_romanji": "Saifu wa Shiri Pocket ni Ireruna ",
+            "aired": "2009-01-08T00:00:00+00:00",
+            "score": 4.73,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=79111"
+        },
+        {
+            "mal_id": 140,
+            "url": "https://myanimelist.net/anime/918/Gintama/episode/140",
+            "title": "Beware Of Those Who Use An Umbrella On A Sunny Day!",
+            "title_japanese": "晴れの日に雨傘さす奴には御用心",
+            "title_romanji": "Hare no hi ni Amagasa Sasu Yatsu Niwa Goyoujin ",
+            "aired": "2009-01-15T00:00:00+00:00",
+            "score": 4.82,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=79112"
+        },
+        {
+            "mal_id": 141,
+            "url": "https://myanimelist.net/anime/918/Gintama/episode/141",
+            "title": "Butting Into A Fight Is Dangerous",
+            "title_japanese": "ケンカの横槍は危険",
+            "title_romanji": "Kenka no Yokoyari wa Kiken ",
+            "aired": "2009-01-22T00:00:00+00:00",
+            "score": 4.76,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=79113"
+        },
+        {
+            "mal_id": 142,
+            "url": "https://myanimelist.net/anime/918/Gintama/episode/142",
+            "title": "Life Is A Series Of Choices",
+            "title_japanese": "人生は選択肢の連続",
+            "title_romanji": "Jinsei wa Sentakushi no Renzoku ",
+            "aired": "2009-01-29T00:00:00+00:00",
+            "score": 4.88,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=79114"
+        },
+        {
+            "mal_id": 143,
+            "url": "https://myanimelist.net/anime/918/Gintama/episode/143",
+            "title": "Those Who Stand On Four Legs Are Beasts. Those Who Stand On Two Legs, Guts, And Glory Are Men",
+            "title_japanese": "四本足で立つのが獣二本足と意地と見栄で立つのが男",
+            "title_romanji": "Yonhon Ashi de Tatsu no ga Kedamono, Nihon Ashi to Iji to Mie de Tatsu no ga Otoko ",
+            "aired": "2009-02-05T00:00:00+00:00",
+            "score": 4.8,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=79115"
+        },
+        {
+            "mal_id": 144,
+            "url": "https://myanimelist.net/anime/918/Gintama/episode/144",
+            "title": "Don't Trust Bedtime Stories",
+            "title_japanese": "寝物語は信用するな",
+            "title_romanji": "Nemonogatari wa Shinyou Suruna ",
+            "aired": "2009-02-12T00:00:00+00:00",
+            "score": 4.73,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=79116"
+        },
+        {
+            "mal_id": 145,
+            "url": "https://myanimelist.net/anime/918/Gintama/episode/145",
+            "title": "The Color For Each Person's Bond Comes In Various Colors",
+            "title_japanese": "絆の色は十人十色",
+            "title_romanji": "Kizuna no Iro wa Juunin Toiro ",
+            "aired": "2009-02-19T00:00:00+00:00",
+            "score": 4.66,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=68824"
+        },
+        {
+            "mal_id": 146,
+            "url": "https://myanimelist.net/anime/918/Gintama/episode/146",
+            "title": "The Taste Of Drinking Under Broad Daylight Is Something Special",
+            "title_japanese": "昼間に飲む酒は一味違う",
+            "title_romanji": "Hiruma ni Nomu Sake wa Hitoaji Chigau ",
+            "aired": "2009-02-26T00:00:00+00:00",
+            "score": 4.64,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=79117"
+        },
+        {
+            "mal_id": 147,
+            "url": "https://myanimelist.net/anime/918/Gintama/episode/147",
+            "title": "All Adults Are Instructors For All Children",
+            "title_japanese": "全ての大人達は全ての子供達のインストラクター",
+            "title_romanji": "Subete no Otona-tachi wa Subete no Kodomo-tachi no Instructor ",
+            "aired": "2009-03-05T00:00:00+00:00",
+            "score": 4.56,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=79118"
+        },
+        {
+            "mal_id": 148,
+            "url": "https://myanimelist.net/anime/918/Gintama/episode/148",
+            "title": "Zip Up Your Fly Nice And Slowly",
+            "title_japanese": "チャックはゆっくり引きあげろ",
+            "title_romanji": "Chakku wa Yukkuri Hikiagero ",
+            "aired": "2009-03-12T00:00:00+00:00",
+            "score": 4.49,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=79119"
+        },
+        {
+            "mal_id": 149,
+            "url": "https://myanimelist.net/anime/918/Gintama/episode/149",
+            "title": "When Breaking A Chuubert In Half, The End With The Knob Should Be Better. It's Also Tasty To Drink From There",
+            "title_japanese": "チューパットを二つに分ける時はあの持つトコある奴の方がなんかイイ あそこから飲むのもオツ",
+            "title_romanji": "Chuupatto Wo Futatsu ni Wakeru Toki wa Ano Motsu Toko Aru Yatsu no Kata ga Nanka Ii Asoko kara Nomu no Mootsu ",
+            "aired": "2009-03-19T00:00:00+00:00",
+            "score": 4.51,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=79120"
+        },
+        {
+            "mal_id": 150,
+            "url": "https://myanimelist.net/anime/918/Gintama/episode/150",
+            "title": "If You Can't Beat Them, Join Them",
+            "title_japanese": "長いものには巻かれろ!!",
+            "title_romanji": "Nagai Mono ni wa Makarero!! ",
+            "aired": "2009-03-26T00:00:00+00:00",
+            "score": 4.71,
+            "filler": true,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=75568"
+        },
+        {
+            "mal_id": 151,
+            "url": "https://myanimelist.net/anime/918/Gintama/episode/151",
+            "title": "A Conversation With A Barber, During A Haircut, Is The Most Pointless Thing In The World",
+            "title_japanese": "髪切りながら交わされる美容師との会話は世界で一番どうでもいい",
+            "title_romanji": "Kamigiri Nagara Kawasareru Biyoushi to no Kaiwa wa Sekai de Ichiban Dou de mo Ii ",
+            "aired": "2009-04-02T00:00:00+00:00",
+            "score": 4.62,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=76882"
+        },
+        {
+            "mal_id": 152,
+            "url": "https://myanimelist.net/anime/918/Gintama/episode/152",
+            "title": "The Heavens Created Chonmage Above Man Instead Of Another Man",
+            "title_japanese": "天は人の上に人をつくらず髷をつくりました",
+            "title_romanji": "Ten wa Hito no Ue ni Hito Wo Tsukurazu Mage Wo Tsukurimashita ",
+            "aired": "2009-04-09T00:00:00+00:00",
+            "score": 4.77,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=79121"
+        },
+        {
+            "mal_id": 153,
+            "url": "https://myanimelist.net/anime/918/Gintama/episode/153",
+            "title": "Sleep Helps A Child Grow",
+            "title_japanese": "寝る子は育つ",
+            "title_romanji": "Neru ko wa Sodatsu ",
+            "aired": "2009-04-16T00:00:00+00:00",
+            "score": 4.77,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=79712"
+        },
+        {
+            "mal_id": 154,
+            "url": "https://myanimelist.net/anime/918/Gintama/episode/154",
+            "title": "That Person Looks Different From Usual During A Birthday Party",
+            "title_japanese": "誕生日会はいつものアイツが違う奴に見える",
+            "title_romanji": "Tanjoubikai wa Itsumo no Aitsu ga Chigau Yatsu ni Mieru ",
+            "aired": "2009-04-23T00:00:00+00:00",
+            "score": 4.57,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=81087"
+        },
+        {
+            "mal_id": 155,
+            "url": "https://myanimelist.net/anime/918/Gintama/episode/155",
+            "title": "The Other Side Of The Other Side Of The Other Side Would Be The Other Side",
+            "title_japanese": "裏の裏の裏は裏",
+            "title_romanji": "Ura no Ura no Ura wa Ura ",
+            "aired": "2009-04-30T00:00:00+00:00",
+            "score": 4.29,
+            "filler": true,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=82444"
+        },
+        {
+            "mal_id": 156,
+            "url": "https://myanimelist.net/anime/918/Gintama/episode/156",
+            "title": "It Takes A Bit Of Courage To Enter A Street Vendor's Stand",
+            "title_japanese": "屋台に入るには微妙に勇気がいる",
+            "title_romanji": "Yatai ni Hairu ni wa Bimyou ni Yuuki ga Iru ",
+            "aired": "2009-05-07T00:00:00+00:00",
+            "score": 4.45,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=83882"
+        },
+        {
+            "mal_id": 157,
+            "url": "https://myanimelist.net/anime/918/Gintama/episode/157",
+            "title": "Any Place With A Bunch Of Men Gathered Around Will Turn Into A Battlefield",
+            "title_japanese": "男が揃えばどんな場所でも戦場になる",
+            "title_romanji": "Otoko ga Soroeba Donna Basho Demo Senjou ni Naru ",
+            "aired": "2009-05-14T00:00:00+00:00",
+            "score": 3.95,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=85115"
+        },
+        {
+            "mal_id": 158,
+            "url": "https://myanimelist.net/anime/918/Gintama/episode/158",
+            "title": "If A Friend Gets Injured, Take Him To The Hospital, Stat!",
+            "title_japanese": "友達がケガしたらすぐに病院へ",
+            "title_romanji": "Tomodachi ga Kegashitara sugu ni Byouin e ",
+            "aired": "2009-05-21T00:00:00+00:00",
+            "score": 4.18,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=86233"
+        },
+        {
+            "mal_id": 159,
+            "url": "https://myanimelist.net/anime/918/Gintama/episode/159",
+            "title": "If One Orange In The Box Is Rotten, The Rest Of Them Will Become Rotten Before You Realize It",
+            "title_japanese": "みかんは一個腐るといつの間にかダンボール中のみかんを腐らせる",
+            "title_romanji": "Mikan wa Ikko Kusaru to Itsu no Ma ni ka Danbouru-juu no Mikan wo Kusaraseru ",
+            "aired": "2009-05-28T00:00:00+00:00",
+            "score": 4.48,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=87852"
+        },
+        {
+            "mal_id": 160,
+            "url": "https://myanimelist.net/anime/918/Gintama/episode/160",
+            "title": "From A Foreigner's Perspective, You're The Foreigner. From An Alien's Perspective, You're The Alien",
+            "title_japanese": "外国人から見たらこっちも外国人 宇宙人から見たらこっちも宇宙人",
+            "title_romanji": "Gaikokujin kara Mitara Kocchi mo Gaikokujin, Uchuujin kara Mitara Kocchi mo Uchuujin ",
+            "aired": "2009-06-04T00:00:00+00:00",
+            "score": 4.62,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=89538"
+        },
+        {
+            "mal_id": 161,
+            "url": "https://myanimelist.net/anime/918/Gintama/episode/161",
+            "title": "Laputa's Still Good After Seeing It So Many Times",
+            "title_japanese": "何回見てもラピュタはいい",
+            "title_romanji": "Nankai Mite mo Rapyuta wa Ii ",
+            "aired": "2009-06-11T00:00:00+00:00",
+            "score": 4.51,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=90944"
+        },
+        {
+            "mal_id": 162,
+            "url": "https://myanimelist.net/anime/918/Gintama/episode/162",
+            "title": "Love Is Unconditional",
+            "title_japanese": "愛とは無償のものなり",
+            "title_romanji": "Ai towa Mushou no Mono Nari ",
+            "aired": "2009-06-18T00:00:00+00:00",
+            "score": 4.23,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=93658"
+        },
+        {
+            "mal_id": 163,
+            "url": "https://myanimelist.net/anime/918/Gintama/episode/163",
+            "title": "The Black Ships Even Make A Scene When They Sink",
+            "title_japanese": "黒船は沈む時も派手",
+            "title_romanji": "Kurofune wa Shizumu Toki mo Hade ",
+            "aired": "2009-06-25T00:00:00+00:00",
+            "score": 4.33,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=94895"
+        },
+        {
+            "mal_id": 164,
+            "url": "https://myanimelist.net/anime/918/Gintama/episode/164",
+            "title": "That Matsutake Soup Stuff Tastes Better Than The Real Deal People Who Die Stay Dead",
+            "title_japanese": "松茸のお吸い物ってアレ ホンモノよりうまいよね 人は死んだら生き返らない",
+            "title_romanji": "Matsutake no Osuimonotte Are Honmono Yori Umai yo ne Hito wa Shindara Ikikaeranai ",
+            "aired": "2009-07-02T00:00:00+00:00",
+            "score": 3.58,
+            "filler": true,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=96271"
+        },
+        {
+            "mal_id": 165,
+            "url": "https://myanimelist.net/anime/918/Gintama/episode/165",
+            "title": "If It Works Once, It'll Work Over And Over Again",
+            "title_japanese": "柳の下にどじょうは沢山いる",
+            "title_romanji": "Yanagi no Shita Ni Dojou wa Takusan Iru ",
+            "aired": "2009-07-09T00:00:00+00:00",
+            "score": 4.62,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=97688"
+        },
+        {
+            "mal_id": 166,
+            "url": "https://myanimelist.net/anime/918/Gintama/episode/166",
+            "title": "Two Is Better Than One. Two People Are Better Than One",
+            "title_japanese": "一つより二つ 一人より二人",
+            "title_romanji": "Hitotsu Yori Futatsu Hitori Yori Futari ",
+            "aired": "2009-07-16T00:00:00+00:00",
+            "score": 4.71,
+            "filler": true,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=99569"
+        },
+        {
+            "mal_id": 167,
+            "url": "https://myanimelist.net/anime/918/Gintama/episode/167",
+            "title": "Smooth Polygons Smooth Men's Hearts Too",
+            "title_japanese": "なめらかなポリゴンは人の心もなめらかにする",
+            "title_romanji": "Nameraka na Polygon wa Hito no Kokoro mo Nameraka ni Suru ",
+            "aired": "2009-07-23T00:00:00+00:00",
+            "score": 4.31,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=101099"
+        },
+        {
+            "mal_id": 168,
+            "url": "https://myanimelist.net/anime/918/Gintama/episode/168",
+            "title": "The Human Body Is Like A Little Universe",
+            "title_japanese": "人の身体は小宇宙",
+            "title_romanji": "Hito no Karada wa Shouuchuu ",
+            "aired": "2009-07-30T00:00:00+00:00",
+            "score": 4.33,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=102490"
+        },
+        {
+            "mal_id": 169,
+            "url": "https://myanimelist.net/anime/918/Gintama/episode/169",
+            "title": "The Chosen Idiots",
+            "title_japanese": "導かれしバカたち",
+            "title_romanji": "Michibikareshi Baka-tachi ",
+            "aired": "2009-08-06T00:00:00+00:00",
+            "score": 4.2,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=104142"
+        },
+        {
+            "mal_id": 170,
+            "url": "https://myanimelist.net/anime/918/Gintama/episode/170",
+            "title": "And Into The Legend...",
+            "title_japanese": "そして伝説へ",
+            "title_romanji": "Soshite Densetsu e ",
+            "aired": "2009-08-13T00:00:00+00:00",
+            "score": 4.32,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=106354"
+        },
+        {
+            "mal_id": 171,
+            "url": "https://myanimelist.net/anime/918/Gintama/episode/171",
+            "title": "You'll Get Sued If All You Do Is Copy Others You Don't Know What You've Got Till It's Gone",
+            "title_japanese": "真似ばかりしていると訴えられる なくなって初めてわかるいとおしさ",
+            "title_romanji": "Mane Bakari Shite Iru to Uttaerareru Nakunatte Hajimete Wakaru Itooshisa ",
+            "aired": "2009-08-20T00:00:00+00:00",
+            "score": 4.59,
+            "filler": true,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=108037"
+        },
+        {
+            "mal_id": 172,
+            "url": "https://myanimelist.net/anime/918/Gintama/episode/172",
+            "title": "It All Depends On How You Use The 'Carrot And Stick' Method",
+            "title_japanese": "アメとムチは使いよう",
+            "title_romanji": "Ame to Muchi wa Tsukaiyou ",
+            "aired": "2009-08-27T00:00:00+00:00",
+            "score": 4.32,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=109855"
+        },
+        {
+            "mal_id": 173,
+            "url": "https://myanimelist.net/anime/918/Gintama/episode/173",
+            "title": "It's What's On The Inside That Counts It's What's On The Inside That Counts, But Only To A Certain Extent",
+            "title_japanese": "大事なのは見た目ではなく中身 見た目ではなく中身といっても限度がある",
+            "title_romanji": "Daiji na no wa Mitame de wa Naku Nakami Mitame de wa Naku Nakami to Ittemo Gendo ga Aru ",
+            "aired": "2009-09-04T00:00:00+00:00",
+            "score": 4.71,
+            "filler": true,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=111727"
+        },
+        {
+            "mal_id": 174,
+            "url": "https://myanimelist.net/anime/918/Gintama/episode/174",
+            "title": "Are There Still People Who Go To The Ocean And Yell Out 'Bakayaro'? When A Person Is Trapped, Their Inner Door Opens",
+            "title_japanese": "海に向かってバカヤローとか言う人ってまだいるのだろうか 人は閉じ込められると自分の中の扉が開く",
+            "title_romanji": "Umi ni Mukatte Bakayarou toka Iu Hito tte Mada Iru no Darou ka Hito wa Tojikomerareru to Jibun no Naka no Tobira ga Hiraku ",
+            "aired": "2009-09-10T00:00:00+00:00",
+            "score": 4.5,
+            "filler": true,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=114130"
+        },
+        {
+            "mal_id": 175,
+            "url": "https://myanimelist.net/anime/918/Gintama/episode/175",
+            "title": "People Of All Ages Hate The Dentist!",
+            "title_japanese": "幾つになっても歯医者は嫌",
+            "title_romanji": "Ikutsu ni Nattemo Haisha wa Iya ",
+            "aired": "2009-09-17T00:00:00+00:00",
+            "score": 4.43,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=117099"
+        },
+        {
+            "mal_id": 176,
+            "url": "https://myanimelist.net/anime/918/Gintama/episode/176",
+            "title": "Countdown Begins",
+            "title_japanese": "カウントダウン開始",
+            "title_romanji": "Kaunto Daun Kaishi ",
+            "aired": "2009-09-24T00:00:00+00:00",
+            "score": 4.22,
+            "filler": false,
+            "recap": true,
+            "forum_url": "https://myanimelist.net/forum/?topicid=118435"
+        },
+        {
+            "mal_id": 177,
+            "url": "https://myanimelist.net/anime/918/Gintama/episode/177",
+            "title": "It's Bad Luck To See A Spider At Night",
+            "title_japanese": "夜の蜘蛛は縁起が悪い",
+            "title_romanji": "Yoru no Kumo wa Engi ka Warui ",
+            "aired": "2009-10-01T00:00:00+00:00",
+            "score": 4.76,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=119974"
+        },
+        {
+            "mal_id": 178,
+            "url": "https://myanimelist.net/anime/918/Gintama/episode/178",
+            "title": "Once You're Entangled In A Spiderweb, It's Hard To Get It Off",
+            "title_japanese": "蜘蛛の糸は一度絡まるとなかなかとれない",
+            "title_romanji": "Kumo no Ito wa Ichido Karamaru to Nakanaka Torenai ",
+            "aired": "2009-10-08T00:00:00+00:00",
+            "score": 4.59,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=121920"
+        },
+        {
+            "mal_id": 179,
+            "url": "https://myanimelist.net/anime/918/Gintama/episode/179",
+            "title": "It's The Irresponsible One Who's Scary When Pissed",
+            "title_japanese": "チャランポランな奴程怒ると恐い",
+            "title_romanji": "Charanporan na Yatsu Hodo Okoru to Kowai ",
+            "aired": "2009-10-15T00:00:00+00:00",
+            "score": 4.73,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=123781"
+        },
+        {
+            "mal_id": 180,
+            "url": "https://myanimelist.net/anime/918/Gintama/episode/180",
+            "title": "The More Precious The Burden, The Heavier And More Difficult It Is To Shoulder It",
+            "title_japanese": "大切な荷ほど重く背負い難い",
+            "title_romanji": "Taisetsu na Ni Hodo Omoku Seoinikui ",
+            "aired": "2009-10-22T00:00:00+00:00",
+            "score": 4.74,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=125555"
+        },
+        {
+            "mal_id": 181,
+            "url": "https://myanimelist.net/anime/918/Gintama/episode/181",
+            "title": "Watch Out For A Set Of Women And A Drink",
+            "title_japanese": "酒と女はワンセットで気をつけろ",
+            "title_romanji": "Sake to Onna wa One Set de Ki wo Tsukero ",
+            "aired": "2009-10-29T00:00:00+00:00",
+            "score": 4.69,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=127269"
+        },
+        {
+            "mal_id": 182,
+            "url": "https://myanimelist.net/anime/918/Gintama/episode/182",
+            "title": "Screw Popularity Polls",
+            "title_japanese": "人気投票なんて糞食らえ",
+            "title_romanji": "Ninkitouhyou Nante Kuso Kurae ",
+            "aired": "2009-11-05T00:00:00+00:00",
+            "score": 4.73,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=129082"
+        },
+        {
+            "mal_id": 183,
+            "url": "https://myanimelist.net/anime/918/Gintama/episode/183",
+            "title": "Popularity Polls Can Burn In Hell",
+            "title_japanese": "人気投票なんて燃えて灰になれ",
+            "title_romanji": "Ninkitouhyou Nante Moete hai ni Nare ",
+            "aired": "2009-11-12T00:00:00+00:00",
+            "score": 4.83,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=130968"
+        },
+        {
+            "mal_id": 184,
+            "url": "https://myanimelist.net/anime/918/Gintama/episode/184",
+            "title": "Popularity Polls Can...",
+            "title_japanese": "人気投票なんて…",
+            "title_romanji": "Ninkitouhyou Nante... ",
+            "aired": "2009-11-19T00:00:00+00:00",
+            "score": 4.71,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=132624"
+        },
+        {
+            "mal_id": 185,
+            "url": "https://myanimelist.net/anime/918/Gintama/episode/185",
+            "title": "Hometowns And Boobs Are Best Thought From Afar The Whole Peeing On A Bee Sting Is A Myth. You'll Get Germs, So Don't Do It!!",
+            "title_japanese": "故郷とおっぱいは遠くにありて思うもの 蜂に刺されたら小便かけろってアレは迷信です バイ菌が入るから気をつけようね!!",
+            "title_romanji": "Kokyou to Oppai wa Tooku ni Arite Omou Mono Hachi ni Sasaretara Shouben Kakerotte Are wa Meishin Desu Baikin ga Hairu kara Ki wo Tsukeyou ne!! ",
+            "aired": "2009-11-26T00:00:00+00:00",
+            "score": 4.52,
+            "filler": true,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=134448"
+        },
+        {
+            "mal_id": 186,
+            "url": "https://myanimelist.net/anime/918/Gintama/episode/186",
+            "title": "Beware Of Foreshadows",
+            "title_japanese": "死亡フラグに気をつけろ",
+            "title_romanji": "Shibou Furagu ni ki wo Tsukero ",
+            "aired": "2009-12-03T00:00:00+00:00",
+            "score": 4.59,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=136286"
+        },
+        {
+            "mal_id": 187,
+            "url": "https://myanimelist.net/anime/918/Gintama/episode/187",
+            "title": "It's Goodbye Once A Flag Is Set",
+            "title_japanese": "フラグを踏んだらサヨウナラ",
+            "title_romanji": "Flag wo Fundara Sayounara ",
+            "aired": "2009-12-10T00:00:00+00:00",
+            "score": 4.58,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=142131"
+        },
+        {
+            "mal_id": 188,
+            "url": "https://myanimelist.net/anime/918/Gintama/episode/188",
+            "title": "An Observation Journal Should Be Seen Through To The Very End",
+            "title_japanese": "観察日記は最後までやりきろう",
+            "title_romanji": "Kansatsu Nikki wa Saigo made Yarikirou ",
+            "aired": "2009-12-17T00:00:00+00:00",
+            "score": 4.91,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=143906"
+        },
+        {
+            "mal_id": 189,
+            "url": "https://myanimelist.net/anime/918/Gintama/episode/189",
+            "title": "It's Better To Take Care Of This Year's Business Within The Year, But Once The Year Is About To End, You Figure That You Might As Well Put It Off Till Next Year For A Fresh Start. That's How The End Of The Year Goes Radio Exercises Are Socials For Boys And Girls",
+            "title_japanese": "今年できる事は今年中にやっちゃった方が区切りいいんだけど つい来年から仕切り直しゃいーやって思って後回しにしてしまうのが年末のお約束 ラジオ体操は少年少女の社交場",
+            "title_romanji": "Kotoshi dekiru Koto wa Kotoshijuu ni Yacchatta Hou ga Kugiri iindakedo Tsui Rainen kara Shikirinaosha Iiyatte Omotte Atomawashi ni Shiteshimau no ga Nenmatsu no Oyakusoku Rajio Taisou wa Shounen Shoujo no Shakouba ",
+            "aired": "2009-12-24T00:00:00+00:00",
+            "score": 4.76,
+            "filler": true,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=145814"
+        },
+        {
+            "mal_id": 190,
+            "url": "https://myanimelist.net/anime/918/Gintama/episode/190",
+            "title": "When Looking For Something, Try Using Its Perspective",
+            "title_japanese": "捜しものをする時はそいつの目線になって捜せ",
+            "title_romanji": "Sagashimono wo Suru Toki wa Soitsu no Mesen ni Natte Sagase ",
+            "aired": "2010-01-07T00:00:00+00:00",
+            "score": 4.74,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=149411"
+        },
+        {
+            "mal_id": 191,
+            "url": "https://myanimelist.net/anime/918/Gintama/episode/191",
+            "title": "Freedom Means To Live True To Yourself, Not Without Law!",
+            "title_japanese": "自由とは無法ではなく己のルールで生きること",
+            "title_romanji": "Jiyuu to wa Muhou de wa Naku Onore no Rule de Ikiru Koto ",
+            "aired": "2010-01-14T00:00:00+00:00",
+            "score": 4.7,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=151165"
+        },
+        {
+            "mal_id": 192,
+            "url": "https://myanimelist.net/anime/918/Gintama/episode/192",
+            "title": "Kabukicho Stray Cat Blues",
+            "title_japanese": "かぶき町野良猫ブルース",
+            "title_romanji": "Kabuki-chou Noraneko Blues ",
+            "aired": "2010-01-21T00:00:00+00:00",
+            "score": 4.7,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=152796"
+        },
+        {
+            "mal_id": 193,
+            "url": "https://myanimelist.net/anime/918/Gintama/episode/193",
+            "title": "Cooking Is About Guts",
+            "title_japanese": "料理は根性",
+            "title_romanji": "Ryouri wa Konjou ",
+            "aired": "2010-01-28T00:00:00+00:00",
+            "score": 3.49,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=154618"
+        },
+        {
+            "mal_id": 194,
+            "url": "https://myanimelist.net/anime/918/Gintama/episode/194",
+            "title": "Whenever I Hear Leviathan, I Think Of Sazae-san. Stupid Me!!",
+            "title_japanese": "リヴァイアサンってきいたらどうしてもサザエさんがチラつく俺のバカ!!",
+            "title_romanji": "Leviathan tte Kiitara Doushite mo Sazae-san ga Chiratsuku Ore no Baka!! ",
+            "aired": "2010-02-04T00:00:00+00:00",
+            "score": 4.33,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=156710"
+        },
+        {
+            "mal_id": 195,
+            "url": "https://myanimelist.net/anime/918/Gintama/episode/195",
+            "title": "Not Losing To The Rain",
+            "title_japanese": "雨ニモ負ケズ",
+            "title_romanji": "Ame ni mo Makezu ",
+            "aired": "2010-02-11T00:00:00+00:00",
+            "score": 4.62,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=158423"
+        },
+        {
+            "mal_id": 196,
+            "url": "https://myanimelist.net/anime/918/Gintama/episode/196",
+            "title": "Not Losing To The Wind",
+            "title_japanese": "風ニモ負ケズ",
+            "title_romanji": "Kaze ni mo Makezu ",
+            "aired": "2010-02-18T00:00:00+00:00",
+            "score": 4.54,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=160453"
+        },
+        {
+            "mal_id": 197,
+            "url": "https://myanimelist.net/anime/918/Gintama/episode/197",
+            "title": "Not Losing To The Storm",
+            "title_japanese": "嵐ニモ負ケズ",
+            "title_romanji": "Arashi ni mo Makezu ",
+            "aired": "2010-02-25T00:00:00+00:00",
+            "score": 4.8,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=162199"
+        },
+        {
+            "mal_id": 198,
+            "url": "https://myanimelist.net/anime/918/Gintama/episode/198",
+            "title": "Never Losing That Smile",
+            "title_japanese": "イカナル時ニモ笑顔ヲ絶ヤサナイ",
+            "title_romanji": "Ikanaru Toki ni mo Egao wo Tayasanai ",
+            "aired": "2010-03-04T00:00:00+00:00",
+            "score": 4.45,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=164986"
+        },
+        {
+            "mal_id": 199,
+            "url": "https://myanimelist.net/anime/918/Gintama/episode/199",
+            "title": "That's How I Wish To Be, Beautiful And Strong",
+            "title_japanese": "ソンナ強ク美シイモノニ私ハナリタイ",
+            "title_romanji": "Sonna Tsuyoku Utsukushi Mono ni Watashi wa Naritai ",
+            "aired": "2010-03-11T00:00:00+00:00",
+            "score": 4.62,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=166695"
+        },
+        {
+            "mal_id": 200,
+            "url": "https://myanimelist.net/anime/918/Gintama/episode/200",
+            "title": "Santa Claus Red Is Blood Red",
+            "title_japanese": "サンタクロースの赤は血の色",
+            "title_romanji": "Santa Claus no Aka wa Chi no Iro ",
+            "aired": "2010-03-18T00:00:00+00:00",
+            "score": 4.61,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=168387"
+        },
+        {
+            "mal_id": 201,
+            "url": "https://myanimelist.net/anime/918/Gintama/episode/201",
+            "title": "Everybody's A Santa",
+            "title_japanese": "人類みなサンタ!",
+            "title_romanji": "Jinrui Minna Santa! ",
+            "aired": "2010-03-25T00:00:00+00:00",
+            "score": 4.54,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=170998"
+        }
+    ]
+}

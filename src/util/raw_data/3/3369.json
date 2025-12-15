@@ -1,0 +1,424 @@
+{
+    "id": 3369,
+    "fetched_at": "Sun Dec 14 19:30:37 2025",
+    "metadata": {
+        "mal_id": 3369,
+        "url": "https://myanimelist.net/anime/3369/Shoubushi_Densetsu_Tetsuya",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1165/145095.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1165/145095t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1165/145095l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1165/145095.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1165/145095t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1165/145095l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Shoubushi Densetsu Tetsuya"
+            },
+            {
+                "type": "Synonym",
+                "title": "Legendary Gambler Tetsuya"
+            },
+            {
+                "type": "Japanese",
+                "title": "勝負師伝説哲也"
+            }
+        ],
+        "title": "Shoubushi Densetsu Tetsuya",
+        "title_english": null,
+        "title_japanese": "勝負師伝説哲也",
+        "title_synonyms": [
+            "Legendary Gambler Tetsuya"
+        ],
+        "type": "TV",
+        "source": "Manga",
+        "episodes": 20,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "2000-10-07T00:00:00+00:00",
+            "to": "2001-03-24T00:00:00+00:00",
+            "prop": {
+                "from": {
+                    "day": 7,
+                    "month": 10,
+                    "year": 2000
+                },
+                "to": {
+                    "day": 24,
+                    "month": 3,
+                    "year": 2001
+                }
+            },
+            "string": "Oct 7, 2000 to Mar 24, 2001"
+        },
+        "duration": "23 min per ep",
+        "rating": "R - 17+ (violence & profanity)",
+        "score": 7.5,
+        "scored_by": 3975,
+        "rank": 2056,
+        "popularity": 6604,
+        "members": 11796,
+        "favorites": 76,
+        "synopsis": "In the year 1947, the people of Shinjuku are down on their luck. With little money to buy food or necessities, some resort to gambling in order to survive. Traveling Tetsuya chooses to spend his time at Mahjong parlors where he is wiping the floor clean with his adversaries. However, when Tetsuya meets the intensely skilled Boushu-san, he realizes that his skills are still lacking.\n\n(Source: ANN)",
+        "background": "",
+        "season": "fall",
+        "year": 2000,
+        "broadcast": {
+            "day": null,
+            "time": null,
+            "timezone": null,
+            "string": "Unknown"
+        },
+        "producers": [
+            {
+                "mal_id": 55,
+                "type": "anime",
+                "name": "TV Asahi",
+                "url": "https://myanimelist.net/anime/producer/55/TV_Asahi"
+            },
+            {
+                "mal_id": 141,
+                "type": "anime",
+                "name": "Toei Video",
+                "url": "https://myanimelist.net/anime/producer/141/Toei_Video"
+            },
+            {
+                "mal_id": 2292,
+                "type": "anime",
+                "name": "Toei Advertising",
+                "url": "https://myanimelist.net/anime/producer/2292/Toei_Advertising"
+            }
+        ],
+        "licensors": [],
+        "studios": [
+            {
+                "mal_id": 18,
+                "type": "anime",
+                "name": "Toei Animation",
+                "url": "https://myanimelist.net/anime/producer/18/Toei_Animation"
+            }
+        ],
+        "genres": [],
+        "explicit_genres": [],
+        "themes": [
+            {
+                "mal_id": 13,
+                "type": "anime",
+                "name": "Historical",
+                "url": "https://myanimelist.net/anime/genre/13/Historical"
+            },
+            {
+                "mal_id": 11,
+                "type": "anime",
+                "name": "Strategy Game",
+                "url": "https://myanimelist.net/anime/genre/11/Strategy_Game"
+            }
+        ],
+        "demographics": [
+            {
+                "mal_id": 27,
+                "type": "anime",
+                "name": "Shounen",
+                "url": "https://myanimelist.net/anime/genre/27/Shounen"
+            }
+        ],
+        "relations": [
+            {
+                "relation": "Adaptation",
+                "entry": [
+                    {
+                        "mal_id": 13168,
+                        "type": "manga",
+                        "name": "Tetsuya: Jansei to Yobareta Otoko",
+                        "url": "https://myanimelist.net/manga/13168/Tetsuya__Jansei_to_Yobareta_Otoko"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [
+                "\"REACH OUT\" by Akiko Wada"
+            ],
+            "endings": [
+                "\"Kajitsu\" by Teruo Isono"
+            ]
+        },
+        "external": [
+            {
+                "name": "Official Site",
+                "url": "http://www.toei-anim.co.jp/tv/tetsuya/"
+            },
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=238"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=2143"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": [
+        {
+            "mal_id": 1,
+            "url": null,
+            "title": "The Magician of the Tiles",
+            "title_japanese": "牌の魔術師",
+            "title_romanji": "Pai no Majutsushi ",
+            "aired": "2000-10-07T00:00:00+00:00",
+            "score": 4.13,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=260868"
+        },
+        {
+            "mal_id": 2,
+            "url": null,
+            "title": "The Code of the Gamblers",
+            "title_japanese": "玄人の掟",
+            "title_romanji": "Kurouto no Okite ",
+            "aired": "2000-10-14T00:00:00+00:00",
+            "score": 4.25,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=260878"
+        },
+        {
+            "mal_id": 3,
+            "url": null,
+            "title": "Requirements to Win",
+            "title_japanese": "勝者の条件",
+            "title_romanji": "Shousha no Jouken ",
+            "aired": "2000-10-21T00:00:00+00:00",
+            "score": 4.14,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=260893"
+        },
+        {
+            "mal_id": 4,
+            "url": null,
+            "title": "The Best in Shinjuku",
+            "title_japanese": "新宿最強コンビ誕生",
+            "title_romanji": "Shinjuku Saikyou Combi Tanjou ",
+            "aired": "2000-10-28T00:00:00+00:00",
+            "score": 4.75,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=260897"
+        },
+        {
+            "mal_id": 5,
+            "url": null,
+            "title": "Asia vs. Shinjuku",
+            "title_japanese": "東洋ㄧ対新宿ㄧ",
+            "title_romanji": "Toyo Ichi Tai Shinjuku Ichi ",
+            "aired": "2000-11-04T00:00:00+00:00",
+            "score": 4.8,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=260905"
+        },
+        {
+            "mal_id": 6,
+            "url": null,
+            "title": "The Test",
+            "title_japanese": "底力",
+            "title_romanji": "Sokojikara ",
+            "aired": "2000-11-11T00:00:00+00:00",
+            "score": 4.67,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=260908"
+        },
+        {
+            "mal_id": 7,
+            "url": null,
+            "title": "Born Lucky",
+            "title_japanese": "天運",
+            "title_romanji": "Tenun ",
+            "aired": "2000-11-18T00:00:00+00:00",
+            "score": 4.5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=260921"
+        },
+        {
+            "mal_id": 8,
+            "url": null,
+            "title": "The Grim Reaper",
+            "title_japanese": "忍び寄る死神",
+            "title_romanji": "Shinobi Yoru Shinigami ",
+            "aired": "2000-11-25T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=261100"
+        },
+        {
+            "mal_id": 9,
+            "url": null,
+            "title": "The Battle Against Death",
+            "title_japanese": "死神封じ",
+            "title_romanji": "Shinigami Fuuji ",
+            "aired": "2001-01-06T00:00:00+00:00",
+            "score": 4.43,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=261306"
+        },
+        {
+            "mal_id": 10,
+            "url": null,
+            "title": "The Devil's Eye Returns",
+            "title_japanese": "魔眼再び",
+            "title_romanji": "Magan Futatabi ",
+            "aired": "2001-01-13T00:00:00+00:00",
+            "score": 4.33,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=261308"
+        },
+        {
+            "mal_id": 11,
+            "url": null,
+            "title": "The End of Darkness",
+            "title_japanese": "闇の終わり",
+            "title_romanji": "Yami no Owari ",
+            "aired": "2001-01-20T00:00:00+00:00",
+            "score": 3.92,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=261342"
+        },
+        {
+            "mal_id": 12,
+            "url": null,
+            "title": "The Immortal Girl",
+            "title_japanese": "不死身の女",
+            "title_romanji": "Fujimi no Onna ",
+            "aired": "2001-01-27T00:00:00+00:00",
+            "score": 4.2,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1748798"
+        },
+        {
+            "mal_id": 13,
+            "url": null,
+            "title": "The Delicate Flower",
+            "title_japanese": "華のいのち",
+            "title_romanji": "Hana no Inochi ",
+            "aired": "2001-02-03T00:00:00+00:00",
+            "score": 4.33,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1748801"
+        },
+        {
+            "mal_id": 14,
+            "url": null,
+            "title": "The Broken Telephone",
+            "title_japanese": "届かぬ通し［サイン］",
+            "title_romanji": "Todokanu Sign ",
+            "aired": "2001-02-10T00:00:00+00:00",
+            "score": 4.8,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1748976"
+        },
+        {
+            "mal_id": 15,
+            "url": null,
+            "title": "Partners",
+            "title_japanese": "コンビの絆",
+            "title_romanji": "Combi no Kizuna ",
+            "aired": "2001-02-17T00:00:00+00:00",
+            "score": 5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1748981"
+        },
+        {
+            "mal_id": 16,
+            "url": null,
+            "title": "A True Gambler",
+            "title_japanese": "本物の玄人",
+            "title_romanji": "Honmono no Kurouto ",
+            "aired": "2001-02-24T00:00:00+00:00",
+            "score": 4.17,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1684915"
+        },
+        {
+            "mal_id": 17,
+            "url": null,
+            "title": "The Legend Reborn",
+            "title_japanese": "甦る伝説",
+            "title_romanji": "Yomigaeru Densetsu ",
+            "aired": "2001-03-03T00:00:00+00:00",
+            "score": 4.6,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1749511"
+        },
+        {
+            "mal_id": 18,
+            "url": null,
+            "title": "The Last Tenhou",
+            "title_japanese": "別れの天和",
+            "title_romanji": "Wakare no Tenna ",
+            "aired": "2001-03-10T00:00:00+00:00",
+            "score": 4.94,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=262818"
+        },
+        {
+            "mal_id": 19,
+            "url": null,
+            "title": "Dora! Dora! Dora!",
+            "title_japanese": "ドラ! ドラ! ドラ!",
+            "title_romanji": "Dora! Dora! Dora! ",
+            "aired": "2001-03-17T00:00:00+00:00",
+            "score": 4.83,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1162423"
+        },
+        {
+            "mal_id": 20,
+            "url": null,
+            "title": "Our World",
+            "title_japanese": "俺たちの世界",
+            "title_romanji": "Ore-tachi no Sekai ",
+            "aired": "2001-03-24T00:00:00+00:00",
+            "score": 4.76,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=262856"
+        }
+    ]
+}

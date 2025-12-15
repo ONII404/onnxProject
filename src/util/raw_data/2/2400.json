@@ -1,0 +1,721 @@
+{
+    "id": 2400,
+    "fetched_at": "Sun Dec 14 18:32:13 2025",
+    "metadata": {
+        "mal_id": 2400,
+        "url": "https://myanimelist.net/anime/2400/GS_Mikami",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1630/94116.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1630/94116t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1630/94116l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1630/94116.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1630/94116t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1630/94116l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "GS Mikami"
+            },
+            {
+                "type": "Japanese",
+                "title": "GS（ゴーストスイーパー）美神"
+            },
+            {
+                "type": "English",
+                "title": "Ghost Sweeper Mikami"
+            }
+        ],
+        "title": "GS Mikami",
+        "title_english": "Ghost Sweeper Mikami",
+        "title_japanese": "GS（ゴーストスイーパー）美神",
+        "title_synonyms": [],
+        "type": "TV",
+        "source": "Manga",
+        "episodes": 45,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "1993-04-11T00:00:00+00:00",
+            "to": "1994-03-06T00:00:00+00:00",
+            "prop": {
+                "from": {
+                    "day": 11,
+                    "month": 4,
+                    "year": 1993
+                },
+                "to": {
+                    "day": 6,
+                    "month": 3,
+                    "year": 1994
+                }
+            },
+            "string": "Apr 11, 1993 to Mar 6, 1994"
+        },
+        "duration": "24 min per ep",
+        "rating": "PG-13 - Teens 13 or older",
+        "score": 7.22,
+        "scored_by": 5451,
+        "rank": 3382,
+        "popularity": 5809,
+        "members": 16223,
+        "favorites": 51,
+        "synopsis": "In a world plagued with malicious ghosts, how is it possible to combat the existence of such evil spirits? The answer is to hire a \"Ghost Sweeper\"—a professional exorcist, whose duty is to exterminate any unwanted ghoul or poltergeist.\n\nWhen it comes to Ghost Sweepers, Reiko Mikami is considered to be a cut above the rest. After receiving an offer to examine a haunting near Jinkotsu Hot Spring, she sets off to put her skills to work. Accompanied by her assistants, the underpaid and perverted high school student Tadao Yokoshima and the friendly teenage ghost Kinu Himuro, GS Mikami details the wacky exploits and adventures of these three as they go about investigating paranormal activities.\n\n[Written by MAL Rewrite]",
+        "background": "",
+        "season": "spring",
+        "year": 1993,
+        "broadcast": {
+            "day": "Sundays",
+            "time": "08:30",
+            "timezone": "Asia/Tokyo",
+            "string": "Sundays at 08:30 (JST)"
+        },
+        "producers": [],
+        "licensors": [
+            {
+                "mal_id": 376,
+                "type": "anime",
+                "name": "Sentai Filmworks",
+                "url": "https://myanimelist.net/anime/producer/376/Sentai_Filmworks"
+            }
+        ],
+        "studios": [
+            {
+                "mal_id": 18,
+                "type": "anime",
+                "name": "Toei Animation",
+                "url": "https://myanimelist.net/anime/producer/18/Toei_Animation"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 4,
+                "type": "anime",
+                "name": "Comedy",
+                "url": "https://myanimelist.net/anime/genre/4/Comedy"
+            },
+            {
+                "mal_id": 37,
+                "type": "anime",
+                "name": "Supernatural",
+                "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [],
+        "demographics": [
+            {
+                "mal_id": 27,
+                "type": "anime",
+                "name": "Shounen",
+                "url": "https://myanimelist.net/anime/genre/27/Shounen"
+            }
+        ],
+        "relations": [
+            {
+                "relation": "Adaptation",
+                "entry": [
+                    {
+                        "mal_id": 3822,
+                        "type": "manga",
+                        "name": "GS Mikami: Gokuraku Daisakusen!!",
+                        "url": "https://myanimelist.net/manga/3822/GS_Mikami__Gokuraku_Daisakusen"
+                    }
+                ]
+            },
+            {
+                "relation": "Side Story",
+                "entry": [
+                    {
+                        "mal_id": 3037,
+                        "type": "anime",
+                        "name": "GS Mikami: Gokuraku Daisakusen!!",
+                        "url": "https://myanimelist.net/anime/3037/GS_Mikami__Gokuraku_Daisakusen"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [
+                "\"Ghost Sweeper\" by Chie Harada"
+            ],
+            "endings": [
+                "\"Believe Me\" by Yumiko Kosaka"
+            ]
+        },
+        "external": [
+            {
+                "name": "Official Site",
+                "url": "http://www.toei-anim.co.jp/lineup/tv/gs_mikami/"
+            },
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=2096"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=2034"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": [
+        {
+            "mal_id": 1,
+            "url": null,
+            "title": "Here Comes the Super Sexy Exorcist!",
+            "title_japanese": "ボディコン除霊師登場!",
+            "title_romanji": "Bodeikon Jorei Shi Toujou! ",
+            "aired": "1993-04-11T00:00:00+00:00",
+            "score": 4.17,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1203855"
+        },
+        {
+            "mal_id": 2,
+            "url": null,
+            "title": "Armed Robbers Have No Tomorrow!",
+            "title_japanese": "強盗に明日はない!",
+            "title_romanji": "Goutou ni Ashita wa nai! ",
+            "aired": "1993-04-18T00:00:00+00:00",
+            "score": 4.71,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1205843"
+        },
+        {
+            "mal_id": 3,
+            "url": null,
+            "title": "The Empire of Haunted Dolls!!",
+            "title_japanese": "呪いの人形帝国!!",
+            "title_romanji": "Noroi no Ningyou Teikoku!! ",
+            "aired": "1993-04-25T00:00:00+00:00",
+            "score": 4.17,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1605068"
+        },
+        {
+            "mal_id": 4,
+            "url": null,
+            "title": "Ghost Sweeper in Space!!",
+            "title_japanese": "宇宙ゴースト退治!!",
+            "title_romanji": "Uchuu Ghost Taiji!! ",
+            "aired": "1993-05-02T00:00:00+00:00",
+            "score": 4.5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1728459"
+        },
+        {
+            "mal_id": 5,
+            "url": null,
+            "title": "The Howling of the Haunted Mansion!",
+            "title_japanese": "幽霊屋敷の遠吠え!",
+            "title_romanji": "Yuurei Yashiki no Tooboe! ",
+            "aired": "1993-05-09T00:00:00+00:00",
+            "score": 4.23,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1606012"
+        },
+        {
+            "mal_id": 6,
+            "url": null,
+            "title": "The Princess Exorcist!",
+            "title_japanese": "お嬢さま除霊師!",
+            "title_romanji": "Ojou-sama Joreishi! ",
+            "aired": "1993-05-16T00:00:00+00:00",
+            "score": 4.89,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1668525"
+        },
+        {
+            "mal_id": 7,
+            "url": null,
+            "title": "Dr. Chaos' Challenge!",
+            "title_japanese": "Dr.カオスの挑戦!",
+            "title_romanji": "Dr. Chaos no Chousen! ",
+            "aired": "1993-05-23T00:00:00+00:00",
+            "score": 4.56,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1699083"
+        },
+        {
+            "mal_id": 8,
+            "url": null,
+            "title": "Love Overcomes the Test of Time! (Part 1 of 2)",
+            "title_japanese": "愛は時間を越えて!",
+            "title_romanji": "Ai wa Jikan wo Koete! ",
+            "aired": "1993-05-30T00:00:00+00:00",
+            "score": 4.44,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1229063"
+        },
+        {
+            "mal_id": 9,
+            "url": null,
+            "title": "Please Kiss Me!! (Part 2 of 2)",
+            "title_japanese": "お願いチューして!!",
+            "title_romanji": "Onegai Chuu Shite!! ",
+            "aired": "1993-06-06T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1800380"
+        },
+        {
+            "mal_id": 10,
+            "url": null,
+            "title": "Find the Shikigami!!",
+            "title_japanese": "式神を捜せ!",
+            "title_romanji": "Shikigami wo Sagase! ",
+            "aired": "1993-06-13T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1610100"
+        },
+        {
+            "mal_id": 11,
+            "url": null,
+            "title": "Let's Take the Ghost Train!!",
+            "title_japanese": "霊列車で行こう!!",
+            "title_romanji": "Rei Ressha de Ikou!! ",
+            "aired": "1993-06-20T00:00:00+00:00",
+            "score": 4.43,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1235075"
+        },
+        {
+            "mal_id": 12,
+            "url": null,
+            "title": "Beware of Yakuchin-do!?",
+            "title_japanese": "厄珍堂にご用心!?",
+            "title_romanji": "Yakuchindou ni Goyoujin!? ",
+            "aired": "1993-06-27T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 13,
+            "url": null,
+            "title": "Rival Emi Ogasawara!",
+            "title_japanese": "宿敵[ライバル]!小笠原エミ!",
+            "title_romanji": "Rival! Ogasawara Emi! ",
+            "aired": "1993-07-04T00:00:00+00:00",
+            "score": 3.88,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1697502"
+        },
+        {
+            "mal_id": 14,
+            "url": null,
+            "title": "Summer! Pool! Monsters!",
+            "title_japanese": "夏だプールだ妖怪だ",
+            "title_romanji": "Natsu Da Pool Da Youkai Da ",
+            "aired": "1993-07-11T00:00:00+00:00",
+            "score": 3.67,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1748884"
+        },
+        {
+            "mal_id": 15,
+            "url": null,
+            "title": "Assemble at the Mediterranean Sea! (Part 1 of 2)",
+            "title_japanese": "地中海に全員集合!",
+            "title_romanji": "Chichuukai ni Zenin Shuugou! ",
+            "aired": "1993-07-18T00:00:00+00:00",
+            "score": 4.14,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1802562"
+        },
+        {
+            "mal_id": 16,
+            "url": null,
+            "title": "Put The Vampire To Sleep! (Part 2 of 2)",
+            "title_japanese": "吸血鬼を眠らせろ!",
+            "title_romanji": "Kyuuketsuki wo Nemurasero! ",
+            "aired": "1993-07-25T00:00:00+00:00",
+            "score": 5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1802563"
+        },
+        {
+            "mal_id": 17,
+            "url": null,
+            "title": "Temptations on the Summer Beach",
+            "title_japanese": "夏の海は誘惑だらけ",
+            "title_romanji": "Natsu no Umi wa Yuuwaku Darake ",
+            "aired": "1993-08-01T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 18,
+            "url": null,
+            "title": "Shrinking Mikami!!",
+            "title_japanese": "縮みゆく美神!!",
+            "title_romanji": "Chidimiyuku Mikami!! ",
+            "aired": "1993-08-15T00:00:00+00:00",
+            "score": 4.67,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1804326"
+        },
+        {
+            "mal_id": 19,
+            "url": null,
+            "title": "Chase the Ghost Submarine!",
+            "title_japanese": "幽霊潜水艦を追え!",
+            "title_romanji": "Yuurei Sensuikan wo Oe! ",
+            "aired": "1993-08-22T00:00:00+00:00",
+            "score": 4.67,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1804328"
+        },
+        {
+            "mal_id": 20,
+            "url": null,
+            "title": "Heavenly Smash!",
+            "title_japanese": "極楽スマッシュ!!",
+            "title_romanji": "Gokuraku Smash! ",
+            "aired": "1993-08-29T00:00:00+00:00",
+            "score": 4.78,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1804333"
+        },
+        {
+            "mal_id": 21,
+            "url": null,
+            "title": "Everyone, Turn Into A Kid!! (Part 1 of 2)",
+            "title_japanese": "みんな子供になれ!!",
+            "title_romanji": "Minna Kodomo ni Nare!! ",
+            "aired": "1993-09-05T00:00:00+00:00",
+            "score": 5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1796722"
+        },
+        {
+            "mal_id": 22,
+            "url": null,
+            "title": "Devil Piper's Revenge (Part 2 of 2)",
+            "title_japanese": "悪魔パイパーの逆襲",
+            "title_romanji": "Akuma Piper no Gyakushuu ",
+            "aired": "1993-09-12T00:00:00+00:00",
+            "score": 5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1804336"
+        },
+        {
+            "mal_id": 23,
+            "url": null,
+            "title": "The Path to the Dragon!! (Part 1 of 2)",
+            "title_japanese": "ドラゴンへの道!!",
+            "title_romanji": "Dragon e no Michi!! ",
+            "aired": "1993-09-19T00:00:00+00:00",
+            "score": 4.83,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1804419"
+        },
+        {
+            "mal_id": 24,
+            "url": null,
+            "title": "Runaway Dragon in a Rage (Part 2 of 2)",
+            "title_japanese": "ドラゴン怒りの暴走",
+            "title_romanji": "Dragon Ikari no Bousou ",
+            "aired": "1993-09-26T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 25,
+            "url": null,
+            "title": "Himiko of the Yamatai Kingdom",
+            "title_japanese": "ヤマタイ国のヒミコ",
+            "title_romanji": "Yamatai-koku no Himiko ",
+            "aired": "1993-10-03T00:00:00+00:00",
+            "score": 5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1804568"
+        },
+        {
+            "mal_id": 26,
+            "url": null,
+            "title": "The Adventure of Heroine Mikami",
+            "title_japanese": "勇者・美神の冒険!",
+            "title_romanji": "Yuusha Mikami no Bouken! ",
+            "aired": "1993-10-10T00:00:00+00:00",
+            "score": 4.71,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1798218"
+        },
+        {
+            "mal_id": 27,
+            "url": null,
+            "title": "Pure-Hearted Maria in Love!",
+            "title_japanese": "マリア純情一直線!",
+            "title_romanji": "Maria Junjou Icchokusen! ",
+            "aired": "1993-10-17T00:00:00+00:00",
+            "score": 5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1804861"
+        },
+        {
+            "mal_id": 28,
+            "url": null,
+            "title": "Dragon Prince!! (Part 1 of 2)",
+            "title_japanese": "ドラゴンの王子!!",
+            "title_romanji": "Dragon no Ouji!! ",
+            "aired": "1993-10-24T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 29,
+            "url": null,
+            "title": "Dragon in Imminent Danger!! (Part 2 of 2)",
+            "title_japanese": "ドラゴン危機一髪!!",
+            "title_romanji": "Dragon Kiki Ippatsu!! ",
+            "aired": "1993-10-31T00:00:00+00:00",
+            "score": 4.83,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1806568"
+        },
+        {
+            "mal_id": 30,
+            "url": null,
+            "title": "Here Comes the Devilish Sword Shimesaba-Maru!",
+            "title_japanese": "妖刀シメサバ丸見参",
+            "title_romanji": "Youtou Shimesaba-maru Kenzan ",
+            "aired": "1993-11-14T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 31,
+            "url": null,
+            "title": "Flying Magic Broom",
+            "title_japanese": "空とぶ魔法のホウキ",
+            "title_romanji": "Soratobu Mahou no Houki ",
+            "aired": "1993-11-21T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 32,
+            "url": null,
+            "title": "I, Reiko, Will Marry You!?",
+            "title_japanese": "令子・結婚します!?",
+            "title_romanji": "Reiko Kekkon Shimasu!? ",
+            "aired": "1993-11-28T00:00:00+00:00",
+            "score": 4.83,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1807076"
+        },
+        {
+            "mal_id": 33,
+            "url": null,
+            "title": "Mannequins Are Calling You",
+            "title_japanese": "マネキン人形が招く",
+            "title_romanji": "Mannequin Ningyou ga Maneku ",
+            "aired": "1993-12-05T00:00:00+00:00",
+            "score": 4.75,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2039947"
+        },
+        {
+            "mal_id": 34,
+            "url": null,
+            "title": "Ghostly High School",
+            "title_japanese": "妖怪ハイスクール",
+            "title_romanji": "Youkai High School ",
+            "aired": "1993-12-12T00:00:00+00:00",
+            "score": 5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1826357"
+        },
+        {
+            "mal_id": 35,
+            "url": null,
+            "title": "The Santa Claus's Gift!",
+            "title_japanese": "サンタの贈りもの!",
+            "title_romanji": "Santa no Okuri Mono! ",
+            "aired": "1993-12-19T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 36,
+            "url": null,
+            "title": "Okinu's Christmas",
+            "title_japanese": "おキヌのクリスマス",
+            "title_romanji": "Okinu no Christmas ",
+            "aired": "1993-12-26T00:00:00+00:00",
+            "score": 5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1827419"
+        },
+        {
+            "mal_id": 37,
+            "url": null,
+            "title": "The Battle of the New Year!!",
+            "title_japanese": "バトル謹賀新年!!",
+            "title_romanji": "Battle Kinga Shinnen!! ",
+            "aired": "1994-01-09T00:00:00+00:00",
+            "score": 4.86,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1827905"
+        },
+        {
+            "mal_id": 38,
+            "url": null,
+            "title": "The College Examinee's Blues",
+            "title_japanese": "受験生ブルース",
+            "title_romanji": "Jukensei Blues ",
+            "aired": "1994-01-16T00:00:00+00:00",
+            "score": 4.25,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1807029"
+        },
+        {
+            "mal_id": 39,
+            "url": null,
+            "title": "Maria's Sister (Part 1 of 2)",
+            "title_japanese": "マリアの妹",
+            "title_romanji": "Maria no Imouto ",
+            "aired": "1994-01-23T00:00:00+00:00",
+            "score": 5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1828698"
+        },
+        {
+            "mal_id": 40,
+            "url": null,
+            "title": "Maria and Teresa (Part 2 of 2)",
+            "title_japanese": "マリアとテレサ",
+            "title_romanji": "Maria to Teresa ",
+            "aired": "1994-01-30T00:00:00+00:00",
+            "score": 4.57,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1807021"
+        },
+        {
+            "mal_id": 41,
+            "url": null,
+            "title": "The Fierce Battle with The Snow Queen!",
+            "title_japanese": "熱闘!雪の女王",
+            "title_romanji": "Nettou! Yuki no Joou ",
+            "aired": "1994-02-06T00:00:00+00:00",
+            "score": 4.88,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1840996"
+        },
+        {
+            "mal_id": 42,
+            "url": null,
+            "title": "Here's My Chocolate!!",
+            "title_japanese": "チョコあげます!!",
+            "title_romanji": "Choco Agemasu!! ",
+            "aired": "1994-02-13T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 43,
+            "url": null,
+            "title": "Into The Dream! (Part 1 of 2)",
+            "title_japanese": "夢の中へ!",
+            "title_romanji": "Yume no Naka e! ",
+            "aired": "1994-02-20T00:00:00+00:00",
+            "score": 5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1841567"
+        },
+        {
+            "mal_id": 44,
+            "url": null,
+            "title": "The Hellish Nightmare (Part 2 of 2)",
+            "title_japanese": "地獄のナイトメア",
+            "title_romanji": "Jigoku no Nightmare ",
+            "aired": "1994-02-27T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 45,
+            "url": null,
+            "title": "With Love From Ghost Sweepers",
+            "title_japanese": "GS[ゴーストスイーパー]より愛をこめて",
+            "title_romanji": "Ghost Sweeper yori Ai wo Komete ",
+            "aired": "1994-03-06T00:00:00+00:00",
+            "score": 4.17,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1808730"
+        }
+    ]
+}

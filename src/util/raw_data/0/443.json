@@ -1,0 +1,226 @@
+{
+    "id": 443,
+    "fetched_at": "Sun Dec 14 13:39:26 2025",
+    "metadata": {
+        "mal_id": 443,
+        "url": "https://myanimelist.net/anime/443/Onegai☆Teacher__Himitsu_na_Futari",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/5/33671.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/5/33671t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/5/33671l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/5/33671.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/5/33671t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/5/33671l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Onegai☆Teacher: Himitsu na Futari"
+            },
+            {
+                "type": "Synonym",
+                "title": "Onegai Sensei OVA"
+            },
+            {
+                "type": "Japanese",
+                "title": "おねがい☆ティーチャー ヒミツなふたり"
+            },
+            {
+                "type": "English",
+                "title": "Please Teacher!: Secret Couple"
+            }
+        ],
+        "title": "Onegai☆Teacher: Himitsu na Futari",
+        "title_english": "Please Teacher!: Secret Couple",
+        "title_japanese": "おねがい☆ティーチャー ヒミツなふたり",
+        "title_synonyms": [
+            "Onegai Sensei OVA"
+        ],
+        "type": "OVA",
+        "source": "Original",
+        "episodes": 1,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "2002-10-25T00:00:00+00:00",
+            "to": null,
+            "prop": {
+                "from": {
+                    "day": 25,
+                    "month": 10,
+                    "year": 2002
+                },
+                "to": {
+                    "day": null,
+                    "month": null,
+                    "year": null
+                }
+            },
+            "string": "Oct 25, 2002"
+        },
+        "duration": "21 min",
+        "rating": "PG-13 - Teens 13 or older",
+        "score": 7.26,
+        "scored_by": 29987,
+        "rank": 3162,
+        "popularity": 3467,
+        "members": 50746,
+        "favorites": 57,
+        "synopsis": "Kei and Mizuho are having some marital difficulties, and Mizuho's family decides it's high time for a visit. \n\n(Source: ANN)",
+        "background": "",
+        "season": null,
+        "year": null,
+        "broadcast": {
+            "day": null,
+            "time": null,
+            "timezone": null,
+            "string": null
+        },
+        "producers": [
+            {
+                "mal_id": 23,
+                "type": "anime",
+                "name": "Bandai Visual",
+                "url": "https://myanimelist.net/anime/producer/23/Bandai_Visual"
+            },
+            {
+                "mal_id": 33,
+                "type": "anime",
+                "name": "WOWOW",
+                "url": "https://myanimelist.net/anime/producer/33/WOWOW"
+            },
+            {
+                "mal_id": 104,
+                "type": "anime",
+                "name": "Lantis",
+                "url": "https://myanimelist.net/anime/producer/104/Lantis"
+            }
+        ],
+        "licensors": [
+            {
+                "mal_id": 217,
+                "type": "anime",
+                "name": "Nozomi Entertainment",
+                "url": "https://myanimelist.net/anime/producer/217/Nozomi_Entertainment"
+            },
+            {
+                "mal_id": 233,
+                "type": "anime",
+                "name": "Bandai Entertainment",
+                "url": "https://myanimelist.net/anime/producer/233/Bandai_Entertainment"
+            }
+        ],
+        "studios": [
+            {
+                "mal_id": 39,
+                "type": "anime",
+                "name": "Daume",
+                "url": "https://myanimelist.net/anime/producer/39/Daume"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 4,
+                "type": "anime",
+                "name": "Comedy",
+                "url": "https://myanimelist.net/anime/genre/4/Comedy"
+            },
+            {
+                "mal_id": 22,
+                "type": "anime",
+                "name": "Romance",
+                "url": "https://myanimelist.net/anime/genre/22/Romance"
+            },
+            {
+                "mal_id": 24,
+                "type": "anime",
+                "name": "Sci-Fi",
+                "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+            },
+            {
+                "mal_id": 9,
+                "type": "anime",
+                "name": "Ecchi",
+                "url": "https://myanimelist.net/anime/genre/9/Ecchi"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [],
+        "demographics": [],
+        "relations": [
+            {
+                "relation": "Spin-Off",
+                "entry": [
+                    {
+                        "mal_id": 196,
+                        "type": "anime",
+                        "name": "Onegai☆Twins",
+                        "url": "https://myanimelist.net/anime/196/Onegai☆Twins"
+                    },
+                    {
+                        "mal_id": 524,
+                        "type": "anime",
+                        "name": "Onegai☆Twins: Natsu wa Owaranai",
+                        "url": "https://myanimelist.net/anime/524/Onegai☆Twins__Natsu_wa_Owaranai"
+                    }
+                ]
+            },
+            {
+                "relation": "Parent Story",
+                "entry": [
+                    {
+                        "mal_id": 195,
+                        "type": "anime",
+                        "name": "Onegai☆Teacher",
+                        "url": "https://myanimelist.net/anime/195/Onegai☆Teacher"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [
+                "\"Shooting Star\" by Kotoko"
+            ],
+            "endings": [
+                "\"Sora no Mori de (空の森で)\" by Mami Kawada"
+            ]
+        },
+        "external": [
+            {
+                "name": "Official Site",
+                "url": "http://www.please-please.jp/one/index.html"
+            },
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=16"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=2046"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "http://en.wikipedia.org/wiki/Please_Teacher!"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": []
+}

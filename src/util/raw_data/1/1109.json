@@ -1,0 +1,191 @@
+{
+    "id": 1109,
+    "fetched_at": "Sun Dec 14 14:55:52 2025",
+    "metadata": {
+        "mal_id": 1109,
+        "url": "https://myanimelist.net/anime/1109/Monster_Extra__Hottan",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/5/10372.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/5/10372t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/5/10372l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/5/10372.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/5/10372t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/5/10372l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Monster Extra: Hottan"
+            },
+            {
+                "type": "Japanese",
+                "title": "モンスター EXTRA"
+            }
+        ],
+        "title": "Monster Extra: Hottan",
+        "title_english": null,
+        "title_japanese": "モンスター EXTRA",
+        "title_synonyms": [],
+        "type": "TV Special",
+        "source": "Manga",
+        "episodes": 1,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "2004-09-21T00:00:00+00:00",
+            "to": null,
+            "prop": {
+                "from": {
+                    "day": 21,
+                    "month": 9,
+                    "year": 2004
+                },
+                "to": {
+                    "day": null,
+                    "month": null,
+                    "year": null
+                }
+            },
+            "string": "Sep 21, 2004"
+        },
+        "duration": "24 min",
+        "rating": "R - 17+ (violence & profanity)",
+        "score": 6.64,
+        "scored_by": 4942,
+        "rank": 6459,
+        "popularity": 6518,
+        "members": 12126,
+        "favorites": 20,
+        "synopsis": "Recap of the first 17 episodes of Monster, airing between episodes 24 and 25 of the TV series.",
+        "background": "",
+        "season": null,
+        "year": null,
+        "broadcast": {
+            "day": null,
+            "time": null,
+            "timezone": null,
+            "string": null
+        },
+        "producers": [
+            {
+                "mal_id": 29,
+                "type": "anime",
+                "name": "VAP",
+                "url": "https://myanimelist.net/anime/producer/29/VAP"
+            }
+        ],
+        "licensors": [
+            {
+                "mal_id": 119,
+                "type": "anime",
+                "name": "VIZ Media",
+                "url": "https://myanimelist.net/anime/producer/119/VIZ_Media"
+            }
+        ],
+        "studios": [
+            {
+                "mal_id": 11,
+                "type": "anime",
+                "name": "Madhouse",
+                "url": "https://myanimelist.net/anime/producer/11/Madhouse"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 8,
+                "type": "anime",
+                "name": "Drama",
+                "url": "https://myanimelist.net/anime/genre/8/Drama"
+            },
+            {
+                "mal_id": 7,
+                "type": "anime",
+                "name": "Mystery",
+                "url": "https://myanimelist.net/anime/genre/7/Mystery"
+            },
+            {
+                "mal_id": 41,
+                "type": "anime",
+                "name": "Suspense",
+                "url": "https://myanimelist.net/anime/genre/41/Suspense"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [
+            {
+                "mal_id": 50,
+                "type": "anime",
+                "name": "Adult Cast",
+                "url": "https://myanimelist.net/anime/genre/50/Adult_Cast"
+            },
+            {
+                "mal_id": 40,
+                "type": "anime",
+                "name": "Psychological",
+                "url": "https://myanimelist.net/anime/genre/40/Psychological"
+            }
+        ],
+        "demographics": [
+            {
+                "mal_id": 42,
+                "type": "anime",
+                "name": "Seinen",
+                "url": "https://myanimelist.net/anime/genre/42/Seinen"
+            }
+        ],
+        "relations": [
+            {
+                "relation": "Full Story",
+                "entry": [
+                    {
+                        "mal_id": 19,
+                        "type": "anime",
+                        "name": "Monster",
+                        "url": "https://myanimelist.net/anime/19/Monster"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [
+                "\"Grain\" by Kuniaki Haishima"
+            ],
+            "endings": [
+                "\"For The Love of Life\" by David Sylvian"
+            ]
+        },
+        "external": [
+            {
+                "name": "Official Site",
+                "url": "http://www.ntv.co.jp/monster/"
+            },
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=1539"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "http://en.wikipedia.org/wiki/Monster_manga"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": []
+}

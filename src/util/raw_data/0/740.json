@@ -1,0 +1,785 @@
+{
+    "id": 740,
+    "fetched_at": "Sun Dec 14 14:03:31 2025",
+    "metadata": {
+        "mal_id": 740,
+        "url": "https://myanimelist.net/anime/740/Bishoujo_Senshi_Sailor_Moon_R",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1/740.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1/740t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1/740l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1/740.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1/740t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1/740l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": "https://www.youtube-nocookie.com/embed/mKV6I31WL6c?enablejsapi=1&wmode=opaque&autoplay=1",
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Bishoujo Senshi Sailor Moon R"
+            },
+            {
+                "type": "Synonym",
+                "title": "Pretty Soldier Sailor Moon R"
+            },
+            {
+                "type": "Japanese",
+                "title": "美少女戦士セーラームーン R"
+            },
+            {
+                "type": "English",
+                "title": "Sailor Moon R"
+            },
+            {
+                "type": "Spanish",
+                "title": "Sailor Moon R"
+            },
+            {
+                "type": "French",
+                "title": "Sailor Moon R"
+            }
+        ],
+        "title": "Bishoujo Senshi Sailor Moon R",
+        "title_english": "Sailor Moon R",
+        "title_japanese": "美少女戦士セーラームーン R",
+        "title_synonyms": [
+            "Pretty Soldier Sailor Moon R"
+        ],
+        "type": "TV",
+        "source": "Manga",
+        "episodes": 43,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "1993-03-06T00:00:00+00:00",
+            "to": "1994-03-12T00:00:00+00:00",
+            "prop": {
+                "from": {
+                    "day": 6,
+                    "month": 3,
+                    "year": 1993
+                },
+                "to": {
+                    "day": 12,
+                    "month": 3,
+                    "year": 1994
+                }
+            },
+            "string": "Mar 6, 1993 to Mar 12, 1994"
+        },
+        "duration": "24 min per ep",
+        "rating": "PG-13 - Teens 13 or older",
+        "score": 7.73,
+        "scored_by": 92055,
+        "rank": 1271,
+        "popularity": 1579,
+        "members": 169695,
+        "favorites": 906,
+        "synopsis": "Usagi Tsukino and her friends have been living peacefully until they are called into action again as Sailor Guardians, planetary warriors fighting for the peace of the galaxy. Usagi, also known as Sailor Moon, leads their group into battle when a new threat from beyond the stars presents itself: two survivors of an alien race, An and Ail. In order to save the source of their life force, the Makai Tree, An and Ail begin harvesting energy from unsuspecting humans. The Sailor Guardians must stop their plot or face the annihilation of Earth.\n\nBut as one threat subsides, another follows—this time in the form of a little girl from the future who seeks the source of Sailor Moon's power to save her family. However, she is not the only one vying for it, as a group known as the Black Moon Clan also wishes to obtain the power and use it for nefarious purposes. In order to protect their destinies and the harmony of the universe, Sailor Moon and the rest of the Sailor Guardians must fight to stop these forces from succeeding.\n\n[Written by MAL Rewrite]",
+        "background": "",
+        "season": "spring",
+        "year": 1993,
+        "broadcast": {
+            "day": "Saturdays",
+            "time": "19:00",
+            "timezone": "Asia/Tokyo",
+            "string": "Saturdays at 19:00 (JST)"
+        },
+        "producers": [
+            {
+                "mal_id": 55,
+                "type": "anime",
+                "name": "TV Asahi",
+                "url": "https://myanimelist.net/anime/producer/55/TV_Asahi"
+            },
+            {
+                "mal_id": 2292,
+                "type": "anime",
+                "name": "Toei Advertising",
+                "url": "https://myanimelist.net/anime/producer/2292/Toei_Advertising"
+            }
+        ],
+        "licensors": [
+            {
+                "mal_id": 97,
+                "type": "anime",
+                "name": "ADV Films",
+                "url": "https://myanimelist.net/anime/producer/97/ADV_Films"
+            },
+            {
+                "mal_id": 119,
+                "type": "anime",
+                "name": "VIZ Media",
+                "url": "https://myanimelist.net/anime/producer/119/VIZ_Media"
+            },
+            {
+                "mal_id": 269,
+                "type": "anime",
+                "name": "DiC Entertainment",
+                "url": "https://myanimelist.net/anime/producer/269/DiC_Entertainment"
+            }
+        ],
+        "studios": [
+            {
+                "mal_id": 18,
+                "type": "anime",
+                "name": "Toei Animation",
+                "url": "https://myanimelist.net/anime/producer/18/Toei_Animation"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 22,
+                "type": "anime",
+                "name": "Romance",
+                "url": "https://myanimelist.net/anime/genre/22/Romance"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [
+            {
+                "mal_id": 66,
+                "type": "anime",
+                "name": "Mahou Shoujo",
+                "url": "https://myanimelist.net/anime/genre/66/Mahou_Shoujo"
+            }
+        ],
+        "demographics": [
+            {
+                "mal_id": 25,
+                "type": "anime",
+                "name": "Shoujo",
+                "url": "https://myanimelist.net/anime/genre/25/Shoujo"
+            }
+        ],
+        "relations": [
+            {
+                "relation": "Prequel",
+                "entry": [
+                    {
+                        "mal_id": 530,
+                        "type": "anime",
+                        "name": "Bishoujo Senshi Sailor Moon",
+                        "url": "https://myanimelist.net/anime/530/Bishoujo_Senshi_Sailor_Moon"
+                    }
+                ]
+            },
+            {
+                "relation": "Sequel",
+                "entry": [
+                    {
+                        "mal_id": 532,
+                        "type": "anime",
+                        "name": "Bishoujo Senshi Sailor Moon S",
+                        "url": "https://myanimelist.net/anime/532/Bishoujo_Senshi_Sailor_Moon_S"
+                    }
+                ]
+            },
+            {
+                "relation": "Adaptation",
+                "entry": [
+                    {
+                        "mal_id": 92,
+                        "type": "manga",
+                        "name": "Bishoujo Senshi Sailor Moon",
+                        "url": "https://myanimelist.net/manga/92/Bishoujo_Senshi_Sailor_Moon"
+                    }
+                ]
+            },
+            {
+                "relation": "Side Story",
+                "entry": [
+                    {
+                        "mal_id": 531,
+                        "type": "anime",
+                        "name": "Bishoujo Senshi Sailor Moon R: The Movie",
+                        "url": "https://myanimelist.net/anime/531/Bishoujo_Senshi_Sailor_Moon_R__The_Movie"
+                    }
+                ]
+            },
+            {
+                "relation": "Summary",
+                "entry": [
+                    {
+                        "mal_id": 8756,
+                        "type": "anime",
+                        "name": "Bishoujo Senshi Sailor Moon Memorial",
+                        "url": "https://myanimelist.net/anime/8756/Bishoujo_Senshi_Sailor_Moon_Memorial"
+                    }
+                ]
+            },
+            {
+                "relation": "Alternative Version",
+                "entry": [
+                    {
+                        "mal_id": 14751,
+                        "type": "anime",
+                        "name": "Bishoujo Senshi Sailor Moon Crystal",
+                        "url": "https://myanimelist.net/anime/14751/Bishoujo_Senshi_Sailor_Moon_Crystal"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [
+                "\"Moonlight Densetsu\" by DALI"
+            ],
+            "endings": [
+                "\"Otome no Policy\" by Yoko Ishida"
+            ]
+        },
+        "external": [
+            {
+                "name": "Official Site",
+                "url": "http://www.toei-anim.co.jp/lineup/tv/sailor_moon_r/"
+            },
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=2539"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=213"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "http://en.wikipedia.org/wiki/Sailor_Moon_R"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": [
+        {
+            "mal_id": 1,
+            "url": null,
+            "title": "Moon Returns: The Mysterious Aliens Appear",
+            "title_japanese": "ムーン復活!謎のエイリアン出現",
+            "title_romanji": "Moon Fukkatsu! Nazo no Eirian Shutsugen  ",
+            "aired": "1993-03-06T00:00:00+00:00",
+            "score": 4.23,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=84583"
+        },
+        {
+            "mal_id": 2,
+            "url": null,
+            "title": "For Love and for Justice: Sailor Guardians Once Again",
+            "title_japanese": "愛と正義ゆえ!セーラー戦士再び",
+            "title_romanji": "Ai to Seigi Yue! Sailor Senshi Futatabi  ",
+            "aired": "1993-03-13T00:00:00+00:00",
+            "score": 4.12,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=84588"
+        },
+        {
+            "mal_id": 3,
+            "url": null,
+            "title": "For Whom Is the White Rose: The Moonlight Knight Appears",
+            "title_japanese": "白いバラは誰に?月影の騎士登場",
+            "title_romanji": "Shiroi Bara wa Dare ni? Tsukikage no Night Toujou  ",
+            "aired": "1993-03-20T00:00:00+00:00",
+            "score": 4.18,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=84609"
+        },
+        {
+            "mal_id": 4,
+            "url": null,
+            "title": "Usagi's Crisis: The Tiara Stops Working",
+            "title_japanese": "うさぎの危機!ティアラ作動せず",
+            "title_romanji": "Usagi no Kiki! Tiara Sadou Sezu  ",
+            "aired": "1993-04-10T00:00:00+00:00",
+            "score": 4.06,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=84618"
+        },
+        {
+            "mal_id": 5,
+            "url": null,
+            "title": "A New Transformation: Usagi's Power-Up",
+            "title_japanese": "新しき変身!うさぎパワーアップ",
+            "title_romanji": "Atarashiki Henshin! Usagi Power-Up ",
+            "aired": "1993-04-17T00:00:00+00:00",
+            "score": 4.39,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=84622"
+        },
+        {
+            "mal_id": 6,
+            "url": null,
+            "title": "The Targeted Kindergarteners: Venus to the Rescue",
+            "title_japanese": "狙われた園児!ヴィーナス大活躍",
+            "title_romanji": "Nerawareta Enji! Venus Daikatsuyaku  ",
+            "aired": "1993-04-24T00:00:00+00:00",
+            "score": 4.06,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=84661"
+        },
+        {
+            "mal_id": 7,
+            "url": null,
+            "title": "Mamoru and Usagi's Babysitting Mayhem",
+            "title_japanese": "衛とうさぎのベビーシッター騒動",
+            "title_romanji": "Mamoru to Usagi no Babysitting Soudou ",
+            "aired": "1993-05-01T00:00:00+00:00",
+            "score": 4.05,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=84679"
+        },
+        {
+            "mal_id": 8,
+            "url": null,
+            "title": "The School Festival is for Me: Queen Rei's Song",
+            "title_japanese": "文化祭は私のため?!レイ女王熱唱",
+            "title_romanji": "Bunkasai wa Watashi no Tame?! Rei Joou Nesshou ",
+            "aired": "1993-05-08T00:00:00+00:00",
+            "score": 4.16,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=123820"
+        },
+        {
+            "mal_id": 9,
+            "url": null,
+            "title": "Is Seijuro the Moonlight Knight? Mako On Fire",
+            "title_japanese": "月影は星十郎?もえるまこちゃん",
+            "title_romanji": "Tsukikage wa Seijuurou? Moeru Mako-chan ",
+            "aired": "1993-05-22T00:00:00+00:00",
+            "score": 4.2,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=254265"
+        },
+        {
+            "mal_id": 10,
+            "url": null,
+            "title": "Steal a Kiss from Mamoru! An's Project Snow White",
+            "title_japanese": "衛のキス奪え!アンの白雪姫作戦",
+            "title_romanji": "Mamoru no Kiss Ubae! An no Shirayuki-hime Sakusen  ",
+            "aired": "1993-05-29T00:00:00+00:00",
+            "score": 4.17,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=254266"
+        },
+        {
+            "mal_id": 11,
+            "url": null,
+            "title": "After School Trouble: Usagi Is a Target",
+            "title_japanese": "放課後にご用心!狙われたうさぎ",
+            "title_romanji": "Houkago ni Goyoujin! Nerawareta Usagi  ",
+            "aired": "1993-06-05T00:00:00+00:00",
+            "score": 3.9,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=254278"
+        },
+        {
+            "mal_id": 12,
+            "url": null,
+            "title": "Disconnecting Love: the Raging Makai Tree",
+            "title_japanese": "すれちがう愛の心!怒りの魔界樹",
+            "title_romanji": "Surechigau Ai no Kokoro! Ikari no Makaiju  ",
+            "aired": "1993-06-12T00:00:00+00:00",
+            "score": 4.28,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=254282"
+        },
+        {
+            "mal_id": 13,
+            "url": null,
+            "title": "True Love Awakens: The Makai Tree's Secret",
+            "title_japanese": "めざめる真実の愛!魔界樹の秘密",
+            "title_romanji": "Mezameru Shinjitsu no Ai! Makaiju no Himitsu ",
+            "aired": "1993-06-19T00:00:00+00:00",
+            "score": 4.6,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=254283"
+        },
+        {
+            "mal_id": 14,
+            "url": null,
+            "title": "An Angel? A Devil? Mysterious Girl from the Sky",
+            "title_japanese": "天使?悪魔?空からきた謎の少女",
+            "title_romanji": "Tenshi? Akuma? Sora kara Kita Nazo no Shoujo ",
+            "aired": "1993-06-26T00:00:00+00:00",
+            "score": 4.19,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=254286"
+        },
+        {
+            "mal_id": 15,
+            "url": null,
+            "title": "Huge Shock for Usagi! Mamoru Declares a Break Up",
+            "title_japanese": "うさぎ大ショック!衛の絶交宣言",
+            "title_romanji": "Usagi Dai Shock! Mamoru no Zekkou Sengen  ",
+            "aired": "1993-07-03T00:00:00+00:00",
+            "score": 4.32,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=254298"
+        },
+        {
+            "mal_id": 16,
+            "url": null,
+            "title": "The Friendship of Sailor Warriors! Good-bye Ami",
+            "title_japanese": "戦士の友情!さよなら亜美ちゃん",
+            "title_romanji": "Senshi no Yuujou! Sayonara Ami-chan  ",
+            "aired": "1993-07-10T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=130525"
+        },
+        {
+            "mal_id": 17,
+            "url": null,
+            "title": "Women Should Be Strong and Beautiful! Rei's New Killer Move\"",
+            "title_japanese": "女は強く美しく!レイの新必殺技",
+            "title_romanji": "Onna wa Tsuyoku Utsukushiku! Rei no Shin Hissatsu Waza  ",
+            "aired": "1993-07-24T00:00:00+00:00",
+            "score": 3.61,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=254535"
+        },
+        {
+            "mal_id": 18,
+            "url": null,
+            "title": "In Search of the Silver Crystal! Chibiusa's Secret",
+            "title_japanese": "銀水晶を求めて!ちびうさの秘密",
+            "title_romanji": "Ginzuishou Motomete! Chibiusa no Himitsu  ",
+            "aired": "1993-07-31T00:00:00+00:00",
+            "score": 4.02,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=254536"
+        },
+        {
+            "mal_id": 19,
+            "url": null,
+            "title": "Dispute Over Love! Minako and Makoto Face Off",
+            "title_japanese": "恋の論争!美奈子とまことが対立",
+            "title_romanji": "Koi no Ronsou! Minako to Makoto ga Tairitsu  ",
+            "aired": "1993-08-14T00:00:00+00:00",
+            "score": 3.77,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=254544"
+        },
+        {
+            "mal_id": 20,
+            "url": null,
+            "title": "Usagi's Parental Love? A Curry Triangle Relationship",
+            "title_japanese": "うさぎの親心?カレーな三角関係",
+            "title_romanji": "Usagi no Oyagokoro!? Curry na Sankaku Kankei  ",
+            "aired": "1993-08-21T00:00:00+00:00",
+            "score": 4.02,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=254546"
+        },
+        {
+            "mal_id": 21,
+            "url": null,
+            "title": "The Ocean! The Island! A Vacation! A Break for the Sailor Warriors",
+            "title_japanese": "海よ島よバカンスよ!戦士の休息",
+            "title_romanji": "Umi yo Shima yo Bakansu yo! Senshi no Kyuusoku  ",
+            "aired": "1993-08-28T00:00:00+00:00",
+            "score": 3.39,
+            "filler": true,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=159522"
+        },
+        {
+            "mal_id": 22,
+            "url": null,
+            "title": "Protect Chibiusa! Clash of the 10 Warriors",
+            "title_japanese": "ちびうさを守れ!10戦士の大激戦",
+            "title_romanji": "Chibiusa wo Mamore! Juu Senshi no Daigekisen  ",
+            "aired": "1993-09-11T00:00:00+00:00",
+            "score": 4.34,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=254550"
+        },
+        {
+            "mal_id": 23,
+            "url": null,
+            "title": "Awaken, Sleeping Beauty! Mamoru's Distress",
+            "title_japanese": "目覚めよ眠れる美少女!衛の苦悩",
+            "title_romanji": "Mezame yo Nemureru Bishoujo! Mamoru no Kunou ",
+            "aired": "1993-09-25T00:00:00+00:00",
+            "score": 3.94,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=254558"
+        },
+        {
+            "mal_id": 24,
+            "url": null,
+            "title": "A Battle of the Flames of Love! Mars vs. Koan",
+            "title_japanese": "愛の炎の対決!マーズVSコーアン",
+            "title_romanji": "Ai no Honou no Taiketsu! Mars vs Koan ",
+            "aired": "1993-10-02T00:00:00+00:00",
+            "score": 4.42,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=254561"
+        },
+        {
+            "mal_id": 25,
+            "url": null,
+            "title": "For Friendship! Ami and Berthier Clash",
+            "title_japanese": "友情のため!亜美とベルチェ激突",
+            "title_romanji": "Yuujou no Tame! Ami to Berthier Gekitotsu  ",
+            "aired": "1993-10-16T00:00:00+00:00",
+            "score": 4.15,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=254573"
+        },
+        {
+            "mal_id": 26,
+            "url": null,
+            "title": "Cold-Hearted Rubeus! The Four Sisters of Sorrow",
+            "title_japanese": "非情のルベウス!悲しみの四姉妹",
+            "title_romanji": "Hijou no Rubeus! Kanashimi no Yon Shimai  ",
+            "aired": "1993-10-30T00:00:00+00:00",
+            "score": 4.3,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=254576"
+        },
+        {
+            "mal_id": 27,
+            "url": null,
+            "title": "A UFO Appears! The Sailor Warriors are Abducted",
+            "title_japanese": "UFO出現!さらわれたセーラー戦士たち",
+            "title_romanji": "UFO Shutsugen! Sarawareta Sailor Senshi-tachi  ",
+            "aired": "1993-11-06T00:00:00+00:00",
+            "score": 3.98,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=254578"
+        },
+        {
+            "mal_id": 28,
+            "url": null,
+            "title": "Defeat Rubeus! The Battle in Space",
+            "title_japanese": "ルベウスを倒せ!宇宙空間の決戦",
+            "title_romanji": "Rubeus wo Taose! Uchuukuukan no Kessen ",
+            "aired": "1993-11-13T00:00:00+00:00",
+            "score": 4.26,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=254729"
+        },
+        {
+            "mal_id": 29,
+            "url": null,
+            "title": "A Mysterious New Warrior, Sailor Pluto Appears",
+            "title_japanese": "謎の新戦士セーラープルート登場",
+            "title_romanji": "Nazo no Shin Senshi Sailor Pluto Toujou ",
+            "aired": "1993-11-20T00:00:00+00:00",
+            "score": 4.07,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=247148"
+        },
+        {
+            "mal_id": 30,
+            "url": null,
+            "title": "Magical Power of Darkness! Esmeraude's Invasion",
+            "title_japanese": "暗黒の魔力!エスメロードの侵略",
+            "title_romanji": "Ankoku no Maryoku! Esmeraude no Shinryaku  ",
+            "aired": "1993-12-04T00:00:00+00:00",
+            "score": 3.95,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=254730"
+        },
+        {
+            "mal_id": 31,
+            "url": null,
+            "title": "Our Feelings are the Same! Usagi and Mamoru in Love Once Again",
+            "title_japanese": "想いは同じ!うさぎと衛の愛再び",
+            "title_romanji": "Omoi wa Onaji! Usagi to Mamoru no Ai Futatabi  ",
+            "aired": "1993-12-11T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=254731"
+        },
+        {
+            "mal_id": 32,
+            "url": null,
+            "title": "Venus Minako's Nurse Mayhem",
+            "title_japanese": "ヴィーナス美奈子のナース大騒動",
+            "title_romanji": "Venus Minako no Nurse Dai Soudou  ",
+            "aired": "1993-12-18T00:00:00+00:00",
+            "score": 4.13,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=254754"
+        },
+        {
+            "mal_id": 33,
+            "url": null,
+            "title": "Artemis' Adventure! The Evil Animal Kingdom",
+            "title_japanese": "アルテミスの冒険!魔の動物王国",
+            "title_romanji": "Artemis no Bouken! Ma no Doubutsu Oukoku  ",
+            "aired": "1993-12-25T00:00:00+00:00",
+            "score": 3.61,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=254755"
+        },
+        {
+            "mal_id": 34,
+            "url": null,
+            "title": "Terrifying Illusion! Ami All Alone",
+            "title_japanese": "恐怖の幻影!ひとりぼっちの亜美",
+            "title_romanji": "Kyoufu no Genei! Hitoribocchi no Ami ",
+            "aired": "1994-01-08T00:00:00+00:00",
+            "score": 3.88,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=254756"
+        },
+        {
+            "mal_id": 35,
+            "url": null,
+            "title": "Dark Gate Completed? A Grade School in Danger",
+            "title_japanese": "暗黒ゲート完成?狙われた小学校",
+            "title_romanji": "Ankoku Gate Kansei? Nerawareta Shougakkou  ",
+            "aired": "1994-01-15T00:00:00+00:00",
+            "score": 4.04,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=254758"
+        },
+        {
+            "mal_id": 36,
+            "url": null,
+            "title": "Journey to the Future! Battle in the Space-Time Corridor",
+            "title_japanese": "未来への旅立ち!時空回廊の戦い",
+            "title_romanji": "Mirai e no Tabidachi! Jikuu Kairou no Tatakai  ",
+            "aired": "1994-01-22T00:00:00+00:00",
+            "score": 4.25,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=206530"
+        },
+        {
+            "mal_id": 37,
+            "url": null,
+            "title": "The Shocking Future! Dimande's Dark Ambition",
+            "title_japanese": "衝撃の未来!デマンドの黒き野望",
+            "title_romanji": "Shougeki no Mirai! Diamande no Kuroki Yabou ",
+            "aired": "1994-01-29T00:00:00+00:00",
+            "score": 4.33,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=254761"
+        },
+        {
+            "mal_id": 38,
+            "url": null,
+            "title": "Wiseman's Evil Hand! Chibiusa Disappears",
+            "title_japanese": "ワイズマンの魔手!ちびうさ消滅",
+            "title_romanji": "Waizman no Mashu! Chibiusa Shoumetsu  ",
+            "aired": "1994-02-05T00:00:00+00:00",
+            "score": 4.04,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=254762"
+        },
+        {
+            "mal_id": 39,
+            "url": null,
+            "title": "The Birth of Black Lady, The Queen of Darkness",
+            "title_japanese": "暗黒の女王ブラックレディの誕生",
+            "title_romanji": "Ankoku no Joou Black Lady no Tanjou ",
+            "aired": "1994-02-12T00:00:00+00:00",
+            "score": 4.15,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=247964"
+        },
+        {
+            "mal_id": 40,
+            "url": null,
+            "title": "Saphir Dies! Wiseman's Trap",
+            "title_japanese": "サフィール絶命!ワイズマンの罠",
+            "title_romanji": "Saphir Zetsumei! Waizuman no Wana  ",
+            "aired": "1994-02-19T00:00:00+00:00",
+            "score": 4.49,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=254777"
+        },
+        {
+            "mal_id": 41,
+            "url": null,
+            "title": "Believe in Love and the Future! Usagi's Determination",
+            "title_japanese": "愛と未来を信じて!うさぎの決心",
+            "title_romanji": "Ai to Mirai wo Shinjite! Usagi no Kesshin  ",
+            "aired": "1994-02-26T00:00:00+00:00",
+            "score": 4.14,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=254778"
+        },
+        {
+            "mal_id": 42,
+            "url": null,
+            "title": "The Final Battle Between Light and Darkness! Love Sworn to the Future",
+            "title_japanese": "光と闇の最終決戦!未来へ誓う愛",
+            "title_romanji": "Hikari to Yami no Saishuu Kessen! Mirai he Chikau Ai  ",
+            "aired": "1994-03-05T00:00:00+00:00",
+            "score": 4.49,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=206781"
+        },
+        {
+            "mal_id": 43,
+            "url": null,
+            "title": "Usagi and the Girls' Resolve! Prelude to a new Battle",
+            "title_japanese": "うさぎ達の決意!新しき戦いの序曲",
+            "title_romanji": "Usagi-tachi no Ketsui! Atarashiki Tatakai no Jokyoku  ",
+            "aired": "1994-03-12T00:00:00+00:00",
+            "score": 3.68,
+            "filler": false,
+            "recap": true,
+            "forum_url": "https://myanimelist.net/forum/?topicid=254780"
+        }
+    ]
+}

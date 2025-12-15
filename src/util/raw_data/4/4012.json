@@ -1,0 +1,168 @@
+{
+    "id": 4012,
+    "fetched_at": "Sun Dec 14 20:53:05 2025",
+    "metadata": {
+        "mal_id": 4012,
+        "url": "https://myanimelist.net/anime/4012/First_Squad",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/2/7282.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/2/7282t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/2/7282l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/2/7282.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/2/7282t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/2/7282l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "First Squad"
+            },
+            {
+                "type": "Synonym",
+                "title": "Ligalize - First Squad"
+            },
+            {
+                "type": "Synonym",
+                "title": "Pervyi Otryad"
+            },
+            {
+                "type": "Synonym",
+                "title": "Первый Отряд"
+            },
+            {
+                "type": "Japanese",
+                "title": "ファーストスクワッド"
+            },
+            {
+                "type": "German",
+                "title": "First Squad: Moment der Wahrheit"
+            },
+            {
+                "type": "French",
+                "title": "First Squad : Le Moment de vérité"
+            }
+        ],
+        "title": "First Squad",
+        "title_english": null,
+        "title_japanese": "ファーストスクワッド",
+        "title_synonyms": [
+            "Ligalize - First Squad",
+            "Pervyi Otryad",
+            "Первый Отряд"
+        ],
+        "type": "Music",
+        "source": "Original",
+        "episodes": 1,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "2005-03-20T00:00:00+00:00",
+            "to": null,
+            "prop": {
+                "from": {
+                    "day": 20,
+                    "month": 3,
+                    "year": 2005
+                },
+                "to": {
+                    "day": null,
+                    "month": null,
+                    "year": null
+                }
+            },
+            "string": "Mar 20, 2005"
+        },
+        "duration": "3 min",
+        "rating": "PG-13 - Teens 13 or older",
+        "score": 5.75,
+        "scored_by": 3965,
+        "rank": null,
+        "popularity": 7977,
+        "members": 7432,
+        "favorites": 4,
+        "synopsis": "Music video for the song First Squad by Legalize, created by Studio 4°C.",
+        "background": "",
+        "season": null,
+        "year": null,
+        "broadcast": {
+            "day": null,
+            "time": null,
+            "timezone": null,
+            "string": null
+        },
+        "producers": [],
+        "licensors": [],
+        "studios": [
+            {
+                "mal_id": 13,
+                "type": "anime",
+                "name": "Studio 4°C",
+                "url": "https://myanimelist.net/anime/producer/13/Studio_4%C2%B0C"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 1,
+                "type": "anime",
+                "name": "Action",
+                "url": "https://myanimelist.net/anime/genre/1/Action"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [
+            {
+                "mal_id": 19,
+                "type": "anime",
+                "name": "Music",
+                "url": "https://myanimelist.net/anime/genre/19/Music"
+            }
+        ],
+        "demographics": [],
+        "relations": [
+            {
+                "relation": "Other",
+                "entry": [
+                    {
+                        "mal_id": 5178,
+                        "type": "anime",
+                        "name": "First Squad: The Moment of Truth",
+                        "url": "https://myanimelist.net/anime/5178/First_Squad__The_Moment_of_Truth"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [],
+            "endings": []
+        },
+        "external": [
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=4401"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "http://en.wikipedia.org/wiki/First_Squad"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": []
+}

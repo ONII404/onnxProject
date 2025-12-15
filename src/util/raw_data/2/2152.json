@@ -1,0 +1,518 @@
+{
+    "id": 2152,
+    "fetched_at": "Sun Dec 14 18:14:34 2025",
+    "metadata": {
+        "mal_id": 2152,
+        "url": "https://myanimelist.net/anime/2152/Oh_Edo_Rocket",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/8/75790.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/8/75790t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/8/75790l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/8/75790.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/8/75790t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/8/75790l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": "https://www.youtube-nocookie.com/embed/AWkcHwLO3hI?enablejsapi=1&wmode=opaque&autoplay=1",
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Oh! Edo Rocket"
+            },
+            {
+                "type": "Synonym",
+                "title": "Ohedo Rocket"
+            },
+            {
+                "type": "Synonym",
+                "title": "Ooedo Rocket"
+            },
+            {
+                "type": "Japanese",
+                "title": "大江戸ロケット"
+            },
+            {
+                "type": "English",
+                "title": "Oh! Edo Rocket"
+            }
+        ],
+        "title": "Oh! Edo Rocket",
+        "title_english": "Oh! Edo Rocket",
+        "title_japanese": "大江戸ロケット",
+        "title_synonyms": [
+            "Ohedo Rocket",
+            "Ooedo Rocket"
+        ],
+        "type": "TV",
+        "source": "Other",
+        "episodes": 26,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "2007-04-04T00:00:00+00:00",
+            "to": "2007-09-26T00:00:00+00:00",
+            "prop": {
+                "from": {
+                    "day": 4,
+                    "month": 4,
+                    "year": 2007
+                },
+                "to": {
+                    "day": 26,
+                    "month": 9,
+                    "year": 2007
+                }
+            },
+            "string": "Apr 4, 2007 to Sep 26, 2007"
+        },
+        "duration": "24 min per ep",
+        "rating": "PG-13 - Teens 13 or older",
+        "score": 7.18,
+        "scored_by": 4868,
+        "rank": 3600,
+        "popularity": 6219,
+        "members": 13657,
+        "favorites": 35,
+        "synopsis": "In Edo in the mid-1800's, fireworks maker Seikichi Tamaya and his friends struggle to live under the harsh morality laws imposed by the strict city councilor, which ban all luxuries, including fireworks. One day, a strange girl stops by Sekichi's shop with an equally strange request: she wants Sekichi to build a firework that can reach the moon.\n\n(Source: ANN)",
+        "background": "",
+        "season": "spring",
+        "year": 2007,
+        "broadcast": {
+            "day": "Wednesdays",
+            "time": "02:00",
+            "timezone": "Asia/Tokyo",
+            "string": "Wednesdays at 02:00 (JST)"
+        },
+        "producers": [
+            {
+                "mal_id": 761,
+                "type": "anime",
+                "name": "Sunny Side Up",
+                "url": "https://myanimelist.net/anime/producer/761/Sunny_Side_Up"
+            },
+            {
+                "mal_id": 870,
+                "type": "anime",
+                "name": "Index",
+                "url": "https://myanimelist.net/anime/producer/870/Index"
+            },
+            {
+                "mal_id": 1450,
+                "type": "anime",
+                "name": "Universal Pictures Japan",
+                "url": "https://myanimelist.net/anime/producer/1450/Universal_Pictures_Japan"
+            }
+        ],
+        "licensors": [
+            {
+                "mal_id": 102,
+                "type": "anime",
+                "name": "Funimation",
+                "url": "https://myanimelist.net/anime/producer/102/Funimation"
+            }
+        ],
+        "studios": [
+            {
+                "mal_id": 11,
+                "type": "anime",
+                "name": "Madhouse",
+                "url": "https://myanimelist.net/anime/producer/11/Madhouse"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 4,
+                "type": "anime",
+                "name": "Comedy",
+                "url": "https://myanimelist.net/anime/genre/4/Comedy"
+            },
+            {
+                "mal_id": 8,
+                "type": "anime",
+                "name": "Drama",
+                "url": "https://myanimelist.net/anime/genre/8/Drama"
+            },
+            {
+                "mal_id": 10,
+                "type": "anime",
+                "name": "Fantasy",
+                "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+            },
+            {
+                "mal_id": 24,
+                "type": "anime",
+                "name": "Sci-Fi",
+                "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [
+            {
+                "mal_id": 13,
+                "type": "anime",
+                "name": "Historical",
+                "url": "https://myanimelist.net/anime/genre/13/Historical"
+            }
+        ],
+        "demographics": [],
+        "relations": [],
+        "theme": {
+            "openings": [
+                "\"Oh Edo Nagareboshi IV\" by PUFFY"
+            ],
+            "endings": [
+                "\"100 miles~Niji o Oikakete\" by Santara",
+                "2: \"I Got Rhythm\" by Natural High"
+            ]
+        },
+        "external": [
+            {
+                "name": "Official Site",
+                "url": "http://www.ohedorocket.jp/top.html"
+            },
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=5042"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=7631"
+            }
+        ],
+        "streaming": [
+            {
+                "name": "Crunchyroll",
+                "url": "http://www.crunchyroll.com/series-274799"
+            }
+        ]
+    },
+    "episodes": [
+        {
+            "mal_id": 1,
+            "url": "https://myanimelist.net/anime/2152/Oh_Edo_Rocket/episode/1",
+            "title": "Bright Red Fireworks Bloom in the Great City of Edo",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1768"
+        },
+        {
+            "mal_id": 2,
+            "url": "https://myanimelist.net/anime/2152/Oh_Edo_Rocket/episode/2",
+            "title": "The Man Was Waiting",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 4.83,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2507"
+        },
+        {
+            "mal_id": 3,
+            "url": "https://myanimelist.net/anime/2152/Oh_Edo_Rocket/episode/3",
+            "title": "A Silver Fox Bound by Fate",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 4.8,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=282079"
+        },
+        {
+            "mal_id": 4,
+            "url": "https://myanimelist.net/anime/2152/Oh_Edo_Rocket/episode/4",
+            "title": "No Need to Get Excited",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 4.2,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=282086"
+        },
+        {
+            "mal_id": 5,
+            "url": "https://myanimelist.net/anime/2152/Oh_Edo_Rocket/episode/5",
+            "title": "The Argument",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 4.83,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=267597"
+        },
+        {
+            "mal_id": 6,
+            "url": "https://myanimelist.net/anime/2152/Oh_Edo_Rocket/episode/6",
+            "title": "Duel to the First Love",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 4.33,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=290866"
+        },
+        {
+            "mal_id": 7,
+            "url": "https://myanimelist.net/anime/2152/Oh_Edo_Rocket/episode/7",
+            "title": "That Crazy Girl Just Flew!",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 4.8,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=290872"
+        },
+        {
+            "mal_id": 8,
+            "url": "https://myanimelist.net/anime/2152/Oh_Edo_Rocket/episode/8",
+            "title": "Love, Murder... He Does It All",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 4.8,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=124655"
+        },
+        {
+            "mal_id": 9,
+            "url": "https://myanimelist.net/anime/2152/Oh_Edo_Rocket/episode/9",
+            "title": "Betting On Love",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 4.75,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=290906"
+        },
+        {
+            "mal_id": 10,
+            "url": "https://myanimelist.net/anime/2152/Oh_Edo_Rocket/episode/10",
+            "title": "Madhousecatincarnations",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=696689"
+        },
+        {
+            "mal_id": 11,
+            "url": "https://myanimelist.net/anime/2152/Oh_Edo_Rocket/episode/11",
+            "title": "Poppycock!",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 12,
+            "url": "https://myanimelist.net/anime/2152/Oh_Edo_Rocket/episode/12",
+            "title": "If You Don't Like Worrying...",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 13,
+            "url": "https://myanimelist.net/anime/2152/Oh_Edo_Rocket/episode/13",
+            "title": "Whaddaya Think of These Guys?",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 14,
+            "url": "https://myanimelist.net/anime/2152/Oh_Edo_Rocket/episode/14",
+            "title": "Just To Let You Know: I Caught A Glimpse Of Tomorrow",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 15,
+            "url": "https://myanimelist.net/anime/2152/Oh_Edo_Rocket/episode/15",
+            "title": "Out of Nowhere! Air Raid at New Year's",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 16,
+            "url": "https://myanimelist.net/anime/2152/Oh_Edo_Rocket/episode/16",
+            "title": "That Thing, Is Me!",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 17,
+            "url": "https://myanimelist.net/anime/2152/Oh_Edo_Rocket/episode/17",
+            "title": "Killing Melody at First Light",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 18,
+            "url": "https://myanimelist.net/anime/2152/Oh_Edo_Rocket/episode/18",
+            "title": "Up Against the Divine Lord's Dungeon",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 19,
+            "url": "https://myanimelist.net/anime/2152/Oh_Edo_Rocket/episode/19",
+            "title": "Utter Nonsense",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 20,
+            "url": "https://myanimelist.net/anime/2152/Oh_Edo_Rocket/episode/20",
+            "title": "Woman Who Smiles in the Face of Hardship",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 4.75,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1922821"
+        },
+        {
+            "mal_id": 21,
+            "url": "https://myanimelist.net/anime/2152/Oh_Edo_Rocket/episode/21",
+            "title": "You Get Three Digressions",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 22,
+            "url": "https://myanimelist.net/anime/2152/Oh_Edo_Rocket/episode/22",
+            "title": "It Was Just a One-Night Dream",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 23,
+            "url": "https://myanimelist.net/anime/2152/Oh_Edo_Rocket/episode/23",
+            "title": "Some Fireworks for the Sword Dance",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 24,
+            "url": "https://myanimelist.net/anime/2152/Oh_Edo_Rocket/episode/24",
+            "title": "Hijack the You-Know-What!",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 25,
+            "url": "https://myanimelist.net/anime/2152/Oh_Edo_Rocket/episode/25",
+            "title": "When a Master's Work Cries for the Moon...",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 26,
+            "url": "https://myanimelist.net/anime/2152/Oh_Edo_Rocket/episode/26",
+            "title": "Somehow or Other, Liftoff",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 4.42,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=11699"
+        }
+    ]
+}

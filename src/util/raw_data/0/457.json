@@ -1,0 +1,628 @@
+{
+    "id": 457,
+    "fetched_at": "Sun Dec 14 13:40:39 2025",
+    "metadata": {
+        "mal_id": 457,
+        "url": "https://myanimelist.net/anime/457/Mushishi",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/2/73862.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/2/73862t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/2/73862l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/2/73862.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/2/73862t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/2/73862l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": "https://www.youtube-nocookie.com/embed/h371H0KIuPo?enablejsapi=1&wmode=opaque&autoplay=1",
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Mushishi"
+            },
+            {
+                "type": "Japanese",
+                "title": "蟲師"
+            },
+            {
+                "type": "English",
+                "title": "Mushi-Shi"
+            },
+            {
+                "type": "German",
+                "title": "Mushi-Shi"
+            },
+            {
+                "type": "Spanish",
+                "title": "Mushi-Shi"
+            },
+            {
+                "type": "French",
+                "title": "Mushi-Shi"
+            }
+        ],
+        "title": "Mushishi",
+        "title_english": "Mushi-Shi",
+        "title_japanese": "蟲師",
+        "title_synonyms": [],
+        "type": "TV",
+        "source": "Manga",
+        "episodes": 26,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "2005-10-23T00:00:00+00:00",
+            "to": "2006-06-19T00:00:00+00:00",
+            "prop": {
+                "from": {
+                    "day": 23,
+                    "month": 10,
+                    "year": 2005
+                },
+                "to": {
+                    "day": 19,
+                    "month": 6,
+                    "year": 2006
+                }
+            },
+            "string": "Oct 23, 2005 to Jun 19, 2006"
+        },
+        "duration": "23 min per ep",
+        "rating": "PG-13 - Teens 13 or older",
+        "score": 8.65,
+        "scored_by": 294233,
+        "rank": 79,
+        "popularity": 222,
+        "members": 890941,
+        "favorites": 28070,
+        "synopsis": "\"Mushi\": the most basic forms of life in the world. They exist without any goals or purposes aside from simply \"being.\" They are beyond the shackles of the words \"good\" and \"evil.\" Mushi can exist in countless forms and are capable of mimicking things from the natural world such as plants, diseases, and even phenomena like rainbows.\n\nThis is, however, just a vague definition of these entities that inhabit the vibrant world of Mushishi, as to even call them a form of life would be an oversimplification. Detailed information on Mushi is scarce because the majority of humans are unaware of their existence.\n\nSo what are Mushi and why do they exist? This is the question that a \"Mushishi,\" Ginko, ponders constantly. Mushishi are those who research Mushi in hopes of understanding their place in the world's hierarchy of life.\n\nGinko chases rumors of occurrences that could be tied to Mushi, all for the sake of finding an answer.\n\nIt could, after all, lead to the meaning of life itself.\n\n[Written by MAL Rewrite]",
+        "background": "Mushishi is an adaptation of Yuki Urushibara's award-winning manga of the same name. The series adapts the first 26 chapters of the manga, adapting one per episode. The anime aired these stories in a different order than that of the manga. The series won the Tokyo Anime Award in the Television category in 2006. The series premiered on October 23, 2005, but went on hiatus on March 12, 2006 after having aired 20 episodes. Broadcast resumed on May 15, and aired the remaining 6 episodes, concluding on June 19, 2006.",
+        "season": "fall",
+        "year": 2005,
+        "broadcast": {
+            "day": "Sundays",
+            "time": "03:40",
+            "timezone": "Asia/Tokyo",
+            "string": "Sundays at 03:40 (JST)"
+        },
+        "producers": [
+            {
+                "mal_id": 52,
+                "type": "anime",
+                "name": "Avex Entertainment",
+                "url": "https://myanimelist.net/anime/producer/52/Avex_Entertainment"
+            },
+            {
+                "mal_id": 82,
+                "type": "anime",
+                "name": "Marvelous Entertainment",
+                "url": "https://myanimelist.net/anime/producer/82/Marvelous_Entertainment"
+            },
+            {
+                "mal_id": 147,
+                "type": "anime",
+                "name": "SKY Perfect Well Think",
+                "url": "https://myanimelist.net/anime/producer/147/SKY_Perfect_Well_Think"
+            },
+            {
+                "mal_id": 711,
+                "type": "anime",
+                "name": "Delfi Sound",
+                "url": "https://myanimelist.net/anime/producer/711/Delfi_Sound"
+            }
+        ],
+        "licensors": [
+            {
+                "mal_id": 102,
+                "type": "anime",
+                "name": "Funimation",
+                "url": "https://myanimelist.net/anime/producer/102/Funimation"
+            }
+        ],
+        "studios": [
+            {
+                "mal_id": 8,
+                "type": "anime",
+                "name": "Artland",
+                "url": "https://myanimelist.net/anime/producer/8/Artland"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 2,
+                "type": "anime",
+                "name": "Adventure",
+                "url": "https://myanimelist.net/anime/genre/2/Adventure"
+            },
+            {
+                "mal_id": 7,
+                "type": "anime",
+                "name": "Mystery",
+                "url": "https://myanimelist.net/anime/genre/7/Mystery"
+            },
+            {
+                "mal_id": 36,
+                "type": "anime",
+                "name": "Slice of Life",
+                "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+            },
+            {
+                "mal_id": 37,
+                "type": "anime",
+                "name": "Supernatural",
+                "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [
+            {
+                "mal_id": 50,
+                "type": "anime",
+                "name": "Adult Cast",
+                "url": "https://myanimelist.net/anime/genre/50/Adult_Cast"
+            },
+            {
+                "mal_id": 13,
+                "type": "anime",
+                "name": "Historical",
+                "url": "https://myanimelist.net/anime/genre/13/Historical"
+            },
+            {
+                "mal_id": 63,
+                "type": "anime",
+                "name": "Iyashikei",
+                "url": "https://myanimelist.net/anime/genre/63/Iyashikei"
+            }
+        ],
+        "demographics": [
+            {
+                "mal_id": 42,
+                "type": "anime",
+                "name": "Seinen",
+                "url": "https://myanimelist.net/anime/genre/42/Seinen"
+            }
+        ],
+        "relations": [
+            {
+                "relation": "Sequel",
+                "entry": [
+                    {
+                        "mal_id": 21329,
+                        "type": "anime",
+                        "name": "Mushishi: Hihamukage",
+                        "url": "https://myanimelist.net/anime/21329/Mushishi__Hihamukage"
+                    },
+                    {
+                        "mal_id": 21939,
+                        "type": "anime",
+                        "name": "Mushishi Zoku Shou",
+                        "url": "https://myanimelist.net/anime/21939/Mushishi_Zoku_Shou"
+                    }
+                ]
+            },
+            {
+                "relation": "Adaptation",
+                "entry": [
+                    {
+                        "mal_id": 418,
+                        "type": "manga",
+                        "name": "Mushishi",
+                        "url": "https://myanimelist.net/manga/418/Mushishi"
+                    }
+                ]
+            },
+            {
+                "relation": "Summary",
+                "entry": [
+                    {
+                        "mal_id": 39738,
+                        "type": "anime",
+                        "name": "Mushishi Recap",
+                        "url": "https://myanimelist.net/anime/39738/Mushishi_Recap"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [
+                "\"The Sore Feet Song\" by Ally Kerr"
+            ],
+            "endings": [
+                "1: \"Midori no Za (緑の座)\" by Masuda Toshio (eps 1)",
+                "2: \"Mabuta no Hikari (瞼の光)\" by Masuda Toshio (eps 2)",
+                "3: \"Yawarakai Kaku (柔らかい角)\" by Masuda Toshio (eps 3)",
+                "4: \"Makura Kouji (枕小路 )\" by Masuda Toshio (eps 4)",
+                "5: \"Tabi wo Suru Numa (旅をする沼)\" by Masuda Toshio (eps 5)",
+                "6: \"Tsuyu wo Suu Mure (露を吸う群れ)\" by Masuda Toshio (eps 6)",
+                "7: \"Ame ga Kuru Niji ga Tatsu (雨がくる虹がたつ)\" by Masuda Toshio (eps 7)",
+                "8: \"Unasaka Yori (海境より)\" by Masuda Toshio (eps 8)",
+                "9: \"Omoi Mi (重い実)\" by Masuda Toshio (eps 9)",
+                "10: \"Suzuri ni Sumu Shiro (硯に棲む白)\" by Masuda Toshio (eps 10)",
+                "11: \"Yama Nemuru (やまねむる)\" by Masuda Toshio (eps 11)",
+                "12: \"Sugame no Sakana (眇の魚)\" by Masuda Toshio (eps 12)",
+                "13: \"Hitoyobashi (一夜橋)\" by Masuda Toshio (eps 13)",
+                "14: \"Kago no Naka (籠のなか)\" by Masuda Toshio (eps 14)",
+                "15: \"Haru to Usobuko (春と嘯く)\" by Masuda Toshio (eps 15)",
+                "16: \"Akatsuki no Hebi (暁の蛇)\" by Masuda Toshio (eps 16)",
+                "17: \"Uromayutori (虚繭取り)\" by Masuda Toshio (eps 17)",
+                "18: \"Yama Daku Koromo (山抱く衣)\" by Masuda Toshio (eps 18)",
+                "19: \"Tenpen no Ito (天辺の糸)\" by Masuda Toshio (eps 19)",
+                "20: \"Fude no Umi (筆の海)\" by Masuda Toshio (eps 20)",
+                "21: \"Wataboshi (綿胞子)\" by Masuda Toshio (eps 21)",
+                "22: \"Okitsu Miya (沖つ宮)\" by Masuda Toshio (eps 22)",
+                "23: \"Sabi no Naku Koe (錆の鳴く聲)\" by Masuda Toshio (eps 23)",
+                "24: \"Kagarinokou (篝野行)\" by Masuda Toshio (eps 24)",
+                "25: \"Ganpuku Ganka (眼福眼禍)\" by Masuda Toshio (eps 25)",
+                "26: \"Kusa wo Fumu Oto (草を踏む音)\" by Masuda Toshio (eps 26)"
+            ]
+        },
+        "external": [
+            {
+                "name": "Official Site",
+                "url": "http://www.mushishi-anime.com/"
+            },
+            {
+                "name": "@mushishi_anime",
+                "url": "https://twitter.com/mushishi_anime"
+            },
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=3433"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=5923"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "http://en.wikipedia.org/wiki/Mushishi"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "https://ja.wikipedia.org/wiki/%E8%9F%B2%E5%B8%AB"
+            },
+            {
+                "name": "Syoboi",
+                "url": "https://cal.syoboi.jp/tid/699"
+            }
+        ],
+        "streaming": [
+            {
+                "name": "Crunchyroll",
+                "url": "http://www.crunchyroll.com/series-258413"
+            },
+            {
+                "name": "Tubi TV",
+                "url": "https://tubitv.com/series/2374/mushi-shi"
+            }
+        ]
+    },
+    "episodes": [
+        {
+            "mal_id": 1,
+            "url": "https://myanimelist.net/anime/457/Mushishi/episode/1",
+            "title": "The Green Seat",
+            "title_japanese": "緑の座",
+            "title_romanji": "Midori no Za ",
+            "aired": "2005-10-23T00:00:00+00:00",
+            "score": 4.38,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=12050"
+        },
+        {
+            "mal_id": 2,
+            "url": "https://myanimelist.net/anime/457/Mushishi/episode/2",
+            "title": "The Light of the Eyelid",
+            "title_japanese": "瞼の光",
+            "title_romanji": "Mabuta no Hikari ",
+            "aired": "2005-10-30T00:00:00+00:00",
+            "score": 4.52,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=12480"
+        },
+        {
+            "mal_id": 3,
+            "url": "https://myanimelist.net/anime/457/Mushishi/episode/3",
+            "title": "Tender Horns",
+            "title_japanese": "柔らかい角",
+            "title_romanji": "Yawarakai Tsuno ",
+            "aired": "2005-11-06T00:00:00+00:00",
+            "score": 4.43,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=12511"
+        },
+        {
+            "mal_id": 4,
+            "url": "https://myanimelist.net/anime/457/Mushishi/episode/4",
+            "title": "The Pillow Pathway",
+            "title_japanese": "枕小路",
+            "title_romanji": "Makura no Kouji ",
+            "aired": "2005-11-13T00:00:00+00:00",
+            "score": 4.6,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=12570"
+        },
+        {
+            "mal_id": 5,
+            "url": "https://myanimelist.net/anime/457/Mushishi/episode/5",
+            "title": "The Traveling Swamp",
+            "title_japanese": "旅をする沼",
+            "title_romanji": "Tabi wo Suru Numa ",
+            "aired": "2005-11-20T00:00:00+00:00",
+            "score": 4.4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=12573"
+        },
+        {
+            "mal_id": 6,
+            "url": "https://myanimelist.net/anime/457/Mushishi/episode/6",
+            "title": "Those Who Inhale the Dew",
+            "title_japanese": "露を吸う群",
+            "title_romanji": "Tsuyu wo Suu Mure ",
+            "aired": "2005-11-27T00:00:00+00:00",
+            "score": 4.43,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=12598"
+        },
+        {
+            "mal_id": 7,
+            "url": "https://myanimelist.net/anime/457/Mushishi/episode/7",
+            "title": "Raindrops and Rainbows",
+            "title_japanese": "雨がくる虹がたつ",
+            "title_romanji": "Ame ga Kuru Niji ga Tatsu ",
+            "aired": "2005-12-04T00:00:00+00:00",
+            "score": 4.58,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=12629"
+        },
+        {
+            "mal_id": 8,
+            "url": "https://myanimelist.net/anime/457/Mushishi/episode/8",
+            "title": "Where Sea Meets Man",
+            "title_japanese": "海境より",
+            "title_romanji": "Unasaka yori ",
+            "aired": "2005-12-11T00:00:00+00:00",
+            "score": 4.63,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=12662"
+        },
+        {
+            "mal_id": 9,
+            "url": "https://myanimelist.net/anime/457/Mushishi/episode/9",
+            "title": "The Heavy Seed",
+            "title_japanese": "重い実",
+            "title_romanji": "Omoi Mi ",
+            "aired": "2005-12-18T00:00:00+00:00",
+            "score": 4.51,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=12738"
+        },
+        {
+            "mal_id": 10,
+            "url": "https://myanimelist.net/anime/457/Mushishi/episode/10",
+            "title": "The White Which Lives Within the Ink Stone",
+            "title_japanese": "硯に棲む白",
+            "title_romanji": "Suzuri ni Sumu Shiro ",
+            "aired": "2006-01-08T00:00:00+00:00",
+            "score": 4.52,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=12741"
+        },
+        {
+            "mal_id": 11,
+            "url": "https://myanimelist.net/anime/457/Mushishi/episode/11",
+            "title": "The Sleeping Mountain",
+            "title_japanese": "やまねむる",
+            "title_romanji": "Yama Nemuru ",
+            "aired": "2006-01-08T00:00:00+00:00",
+            "score": 4.59,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=12744"
+        },
+        {
+            "mal_id": 12,
+            "url": "https://myanimelist.net/anime/457/Mushishi/episode/12",
+            "title": "One-Eyed Fish",
+            "title_japanese": "眇の魚",
+            "title_romanji": "Sugame no Uo ",
+            "aired": "2006-01-15T00:00:00+00:00",
+            "score": 4.84,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=12751"
+        },
+        {
+            "mal_id": 13,
+            "url": "https://myanimelist.net/anime/457/Mushishi/episode/13",
+            "title": "One-Night Bridge",
+            "title_japanese": "一夜橋",
+            "title_romanji": "Hitoyobashi ",
+            "aired": "2006-01-22T00:00:00+00:00",
+            "score": 4.53,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=12802"
+        },
+        {
+            "mal_id": 14,
+            "url": "https://myanimelist.net/anime/457/Mushishi/episode/14",
+            "title": "Inside the Cage",
+            "title_japanese": "籠のなか",
+            "title_romanji": "Kago no Naka ",
+            "aired": "2006-01-29T00:00:00+00:00",
+            "score": 4.71,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=12803"
+        },
+        {
+            "mal_id": 15,
+            "url": "https://myanimelist.net/anime/457/Mushishi/episode/15",
+            "title": "Pretense of Spring",
+            "title_japanese": "春と嘯く",
+            "title_romanji": "Haru to Usobuku ",
+            "aired": "2006-02-05T00:00:00+00:00",
+            "score": 4.7,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=12805"
+        },
+        {
+            "mal_id": 16,
+            "url": "https://myanimelist.net/anime/457/Mushishi/episode/16",
+            "title": "Sunrise Serpent",
+            "title_japanese": "暁の蛇",
+            "title_romanji": "Akatsuki no Hebi ",
+            "aired": "2006-02-12T00:00:00+00:00",
+            "score": 4.57,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=12830"
+        },
+        {
+            "mal_id": 17,
+            "url": "https://myanimelist.net/anime/457/Mushishi/episode/17",
+            "title": "Pickers of Empty Cocoons",
+            "title_japanese": "虚繭取り",
+            "title_romanji": "Uromayu Tori ",
+            "aired": "2006-02-19T00:00:00+00:00",
+            "score": 4.67,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=12894"
+        },
+        {
+            "mal_id": 18,
+            "url": "https://myanimelist.net/anime/457/Mushishi/episode/18",
+            "title": "Clothes That Embrace the Mountain",
+            "title_japanese": "山抱く衣",
+            "title_romanji": "Yama Daku Koromo ",
+            "aired": "2006-02-26T00:00:00+00:00",
+            "score": 4.62,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=12970"
+        },
+        {
+            "mal_id": 19,
+            "url": "https://myanimelist.net/anime/457/Mushishi/episode/19",
+            "title": "String from the Sky",
+            "title_japanese": "天辺の糸",
+            "title_romanji": "Teppen no Ito ",
+            "aired": "2006-03-05T00:00:00+00:00",
+            "score": 4.79,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=13054"
+        },
+        {
+            "mal_id": 20,
+            "url": "https://myanimelist.net/anime/457/Mushishi/episode/20",
+            "title": "A Sea of Writings",
+            "title_japanese": "筆の海",
+            "title_romanji": "Fude no Umi ",
+            "aired": "2006-03-12T00:00:00+00:00",
+            "score": 4.8,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=13078"
+        },
+        {
+            "mal_id": 21,
+            "url": "https://myanimelist.net/anime/457/Mushishi/episode/21",
+            "title": "Cotton Changeling",
+            "title_japanese": "綿胞子",
+            "title_romanji": "Wataboushi ",
+            "aired": "2006-05-15T00:00:00+00:00",
+            "score": 4.72,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=13130"
+        },
+        {
+            "mal_id": 22,
+            "url": "https://myanimelist.net/anime/457/Mushishi/episode/22",
+            "title": "Shrine in the Sea",
+            "title_japanese": "沖つ宮",
+            "title_romanji": "Okitsu Miya ",
+            "aired": "2006-05-22T00:00:00+00:00",
+            "score": 4.63,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=13143"
+        },
+        {
+            "mal_id": 23,
+            "url": "https://myanimelist.net/anime/457/Mushishi/episode/23",
+            "title": "The Sound of Rust",
+            "title_japanese": "錆の鳴く聲",
+            "title_romanji": "Sabi no Naku Koe ",
+            "aired": "2006-05-29T00:00:00+00:00",
+            "score": 4.6,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=13146"
+        },
+        {
+            "mal_id": 24,
+            "url": "https://myanimelist.net/anime/457/Mushishi/episode/24",
+            "title": "The Journey to the Field of Fire",
+            "title_japanese": "篝野行",
+            "title_romanji": "Kagarinokou ",
+            "aired": "2006-06-05T00:00:00+00:00",
+            "score": 4.51,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=13149"
+        },
+        {
+            "mal_id": 25,
+            "url": "https://myanimelist.net/anime/457/Mushishi/episode/25",
+            "title": "Eye of Fortune, Eye of Misfortune",
+            "title_japanese": "眼福眼禍",
+            "title_romanji": "Ganpuku Ganka ",
+            "aired": "2006-06-12T00:00:00+00:00",
+            "score": 4.72,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=13152"
+        },
+        {
+            "mal_id": 26,
+            "url": "https://myanimelist.net/anime/457/Mushishi/episode/26",
+            "title": "The Sound of Footsteps on the Grass",
+            "title_japanese": "草を踏む音",
+            "title_romanji": "Kusa wo Fumu Oto ",
+            "aired": "2006-06-19T00:00:00+00:00",
+            "score": 4.59,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=13154"
+        }
+    ]
+}

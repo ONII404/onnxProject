@@ -1,0 +1,178 @@
+{
+    "id": 454,
+    "fetched_at": "Sun Dec 14 13:40:21 2025",
+    "metadata": {
+        "mal_id": 454,
+        "url": "https://myanimelist.net/anime/454/hack__Gift",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/2/23085.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/2/23085t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/2/23085l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/2/23085.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/2/23085t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/2/23085l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": ".hack//Gift"
+            },
+            {
+                "type": "Japanese",
+                "title": ".hack//GIFT"
+            },
+            {
+                "type": "English",
+                "title": ".hack//Gift"
+            }
+        ],
+        "title": ".hack//Gift",
+        "title_english": ".hack//Gift",
+        "title_japanese": ".hack//GIFT",
+        "title_synonyms": [],
+        "type": "OVA",
+        "source": "Original",
+        "episodes": 1,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "2003-11-16T00:00:00+00:00",
+            "to": null,
+            "prop": {
+                "from": {
+                    "day": 16,
+                    "month": 11,
+                    "year": 2003
+                },
+                "to": {
+                    "day": null,
+                    "month": null,
+                    "year": null
+                }
+            },
+            "string": "Nov 16, 2003"
+        },
+        "duration": "26 min",
+        "rating": "R+ - Mild Nudity",
+        "score": 6.08,
+        "scored_by": 10031,
+        "rank": 9841,
+        "popularity": 5221,
+        "members": 21521,
+        "favorites": 20,
+        "synopsis": "As an expression of gratitude for the heroes of both the .hack//Sign and the .hack game series, Helba has prepared a special event for all the characters to find the newly established \"Twilight Hot Springs.\" The characters can get their well-deserved rest and relaxation by having a soak in the wonderful hot springs, but there is only one problem—the hot springs are hidden, and there have been mysterious player murders. With the only clue being the word \"GIFT,\" the race has begun to find the culprit and the location of the hot springs.\n\n[Written by MAL Rewrite]",
+        "background": "",
+        "season": null,
+        "year": null,
+        "broadcast": {
+            "day": null,
+            "time": null,
+            "timezone": null,
+            "string": null
+        },
+        "producers": [
+            {
+                "mal_id": 231,
+                "type": "anime",
+                "name": "CyberConnect2",
+                "url": "https://myanimelist.net/anime/producer/231/CyberConnect2"
+            }
+        ],
+        "licensors": [
+            {
+                "mal_id": 233,
+                "type": "anime",
+                "name": "Bandai Entertainment",
+                "url": "https://myanimelist.net/anime/producer/233/Bandai_Entertainment"
+            }
+        ],
+        "studios": [
+            {
+                "mal_id": 5,
+                "type": "anime",
+                "name": "Bee Train",
+                "url": "https://myanimelist.net/anime/producer/5/Bee_Train"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 4,
+                "type": "anime",
+                "name": "Comedy",
+                "url": "https://myanimelist.net/anime/genre/4/Comedy"
+            },
+            {
+                "mal_id": 10,
+                "type": "anime",
+                "name": "Fantasy",
+                "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [
+            {
+                "mal_id": 79,
+                "type": "anime",
+                "name": "Video Game",
+                "url": "https://myanimelist.net/anime/genre/79/Video_Game"
+            }
+        ],
+        "demographics": [],
+        "relations": [
+            {
+                "relation": "Parent Story",
+                "entry": [
+                    {
+                        "mal_id": 48,
+                        "type": "anime",
+                        "name": ".hack//Sign",
+                        "url": "https://myanimelist.net/anime/48/hack__Sign"
+                    },
+                    {
+                        "mal_id": 298,
+                        "type": "anime",
+                        "name": ".hack//Tasogare no Udewa Densetsu",
+                        "url": "https://myanimelist.net/anime/298/hack__Tasogare_no_Udewa_Densetsu"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [
+                "\"Obsession\" by See-Saw"
+            ],
+            "endings": [
+                "\"Yasashii Yoake\" by See-Saw"
+            ]
+        },
+        "external": [
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=1135"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=3613"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": []
+}

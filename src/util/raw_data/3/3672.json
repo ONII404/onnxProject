@@ -1,0 +1,772 @@
+{
+    "id": 3672,
+    "fetched_at": "Sun Dec 14 20:05:01 2025",
+    "metadata": {
+        "mal_id": 3672,
+        "url": "https://myanimelist.net/anime/3672/Tottemo_Luckyman",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1130/134623.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1130/134623t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1130/134623l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1130/134623.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1130/134623t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1130/134623l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Tottemo! Luckyman"
+            },
+            {
+                "type": "Japanese",
+                "title": "とっても！ラッキーマン"
+            }
+        ],
+        "title": "Tottemo! Luckyman",
+        "title_english": null,
+        "title_japanese": "とっても！ラッキーマン",
+        "title_synonyms": [],
+        "type": "TV",
+        "source": "Manga",
+        "episodes": 50,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "1994-04-06T00:00:00+00:00",
+            "to": "1995-03-23T00:00:00+00:00",
+            "prop": {
+                "from": {
+                    "day": 6,
+                    "month": 4,
+                    "year": 1994
+                },
+                "to": {
+                    "day": 23,
+                    "month": 3,
+                    "year": 1995
+                }
+            },
+            "string": "Apr 6, 1994 to Mar 23, 1995"
+        },
+        "duration": "24 min per ep",
+        "rating": "G - All Ages",
+        "score": 7.41,
+        "scored_by": 2329,
+        "rank": 2431,
+        "popularity": 9798,
+        "members": 4317,
+        "favorites": 38,
+        "synopsis": "This gag comedy series focused on the adventures of a bizarre superhero powered by special cooking and fights against various aliens and other enemies threatening the planet Earth.",
+        "background": "",
+        "season": "spring",
+        "year": 1994,
+        "broadcast": {
+            "day": "Thursdays",
+            "time": "19:00",
+            "timezone": "Asia/Tokyo",
+            "string": "Thursdays at 19:00 (JST)"
+        },
+        "producers": [
+            {
+                "mal_id": 16,
+                "type": "anime",
+                "name": "TV Tokyo",
+                "url": "https://myanimelist.net/anime/producer/16/TV_Tokyo"
+            },
+            {
+                "mal_id": 127,
+                "type": "anime",
+                "name": "Yomiko Advertising",
+                "url": "https://myanimelist.net/anime/producer/127/Yomiko_Advertising"
+            },
+            {
+                "mal_id": 717,
+                "type": "anime",
+                "name": "TV Tokyo Music",
+                "url": "https://myanimelist.net/anime/producer/717/TV_Tokyo_Music"
+            }
+        ],
+        "licensors": [],
+        "studios": [
+            {
+                "mal_id": 1,
+                "type": "anime",
+                "name": "Studio Pierrot",
+                "url": "https://myanimelist.net/anime/producer/1/Studio_Pierrot"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 4,
+                "type": "anime",
+                "name": "Comedy",
+                "url": "https://myanimelist.net/anime/genre/4/Comedy"
+            },
+            {
+                "mal_id": 24,
+                "type": "anime",
+                "name": "Sci-Fi",
+                "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [
+            {
+                "mal_id": 57,
+                "type": "anime",
+                "name": "Gag Humor",
+                "url": "https://myanimelist.net/anime/genre/57/Gag_Humor"
+            },
+            {
+                "mal_id": 31,
+                "type": "anime",
+                "name": "Super Power",
+                "url": "https://myanimelist.net/anime/genre/31/Super_Power"
+            }
+        ],
+        "demographics": [
+            {
+                "mal_id": 27,
+                "type": "anime",
+                "name": "Shounen",
+                "url": "https://myanimelist.net/anime/genre/27/Shounen"
+            }
+        ],
+        "relations": [
+            {
+                "relation": "Adaptation",
+                "entry": [
+                    {
+                        "mal_id": 8930,
+                        "type": "manga",
+                        "name": "Tottemo! Luckyman",
+                        "url": "https://myanimelist.net/manga/8930/Tottemo_Luckyman"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [
+                "\"Luckyman no Uta (ラッキーマンの歌)\" by Aki Yashiro"
+            ],
+            "endings": [
+                "1: \"Koi wa Buuga (恋はブーガ)\" by Aki Yashiro (eps 1-49)",
+                "2: \"Luckyman no Uta (ラッキーマンの歌)\" by Aki Yashiro (eps 50)"
+            ]
+        },
+        "external": [
+            {
+                "name": "Official Site",
+                "url": "http://pierrot.jp/title/luckyman/"
+            },
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=3977"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=4625"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "http://en.wikipedia.org/wiki/Tottemo!_Luckyman"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": [
+        {
+            "mal_id": 1,
+            "url": null,
+            "title": "Lucky to be a mantis alien!",
+            "title_japanese": "かまきり星人でラッキー!",
+            "title_romanji": "Kamakiri Seijin de Lucky! ",
+            "aired": "1994-04-06T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 2,
+            "url": null,
+            "title": "Lucky for oyaji Man!",
+            "title_japanese": "おやじマンでラッキー!",
+            "title_romanji": "Oyajiman de Lucky! ",
+            "aired": "1994-04-13T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 3,
+            "url": null,
+            "title": "Lucky for Birdman!",
+            "title_japanese": "バードマンでラッキー!",
+            "title_romanji": "Birdman de Lucky! ",
+            "aired": "1994-04-20T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 4,
+            "url": null,
+            "title": "Lucky to be the strongest baron!",
+            "title_japanese": "最強男爵でラッキー!",
+            "title_romanji": "Saikyou Danshaku de Lucky! ",
+            "aired": "1994-04-27T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 5,
+            "url": null,
+            "title": "Lucky to be a beastmaster!",
+            "title_japanese": "猛獣使いマンでラッキー!",
+            "title_romanji": "Moujuu Dukai de Lucky! ",
+            "aired": "1994-05-04T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 6,
+            "url": null,
+            "title": "Lucky to be an Otaki man!",
+            "title_japanese": "オタッキーマンでラッキー!",
+            "title_romanji": "Otaki-man de Lucky! ",
+            "aired": "1994-05-11T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 7,
+            "url": null,
+            "title": "Lucky for Bushikgon!",
+            "title_japanese": "ブサイクゴンでラッキー!",
+            "title_romanji": "Bushikgon de Lucky! ",
+            "aired": "1994-05-18T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 8,
+            "url": null,
+            "title": "Lucky for Doryoku Man",
+            "title_japanese": "努力マンでラッキー!",
+            "title_romanji": "Doryoku-man de Lucky! ",
+            "aired": "1994-05-25T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 9,
+            "url": null,
+            "title": "Lucky with a thousand faces!",
+            "title_japanese": "千顔マンでラッキー!",
+            "title_romanji": "Sengao-man de Lucky! ",
+            "aired": "1994-06-01T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 10,
+            "url": null,
+            "title": "Lucky to be the strongest baron again!",
+            "title_japanese": "またまた最強男爵でラッキー!",
+            "title_romanji": "Matamata Saikyou Danshaku de Lucky! ",
+            "aired": "1994-06-08T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 11,
+            "url": null,
+            "title": "Lucky to transform into a Superstar Man!",
+            "title_japanese": "めだち変身でラッキー!",
+            "title_romanji": "Medachi Henshin de Lucky! ",
+            "aired": "1994-06-15T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 12,
+            "url": null,
+            "title": "Lucky to be an artstar!",
+            "title_japanese": "芸術星人でラッキー!",
+            "title_romanji": "Geijutsu Seijin de Lucky! ",
+            "aired": "1994-06-22T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 13,
+            "url": null,
+            "title": "Lucky continuation of art aliens!",
+            "title_japanese": "芸術星人でラッキーのつづき!",
+            "title_romanji": "Geijutsu Seijin de Lucky no Tsuzuki! ",
+            "aired": "1994-06-29T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 14,
+            "url": null,
+            "title": "Lucky to be the strongest baron without stiffness!",
+            "title_japanese": "こりずに最強男爵でラッキー!",
+            "title_romanji": "Korizu ni Saikyou Danshaku de Lucky! ",
+            "aired": "1994-07-06T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 15,
+            "url": null,
+            "title": "Lucky for the party vandalism man!",
+            "title_japanese": "パーティー荒らしマンでラッキー!",
+            "title_romanji": "Party arashi-man de Lucky! ",
+            "aired": "1994-07-13T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 16,
+            "url": null,
+            "title": "Lucky to be a half-fish man!",
+            "title_japanese": "半魚人でラッキー!",
+            "title_romanji": "Hangyojin de Lucky! ",
+            "aired": "1994-07-20T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 17,
+            "url": null,
+            "title": "Lucky for a okkake man!",
+            "title_japanese": "おっかけマンでラッキー!",
+            "title_romanji": "Okkake-man de Lucky! ",
+            "aired": "1994-07-27T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 18,
+            "url": null,
+            "title": "Lucky for Debt Triman!",
+            "title_japanese": "借金トリマンでラッキー!",
+            "title_romanji": "Shakkin Tori-man de Lucky! ",
+            "aired": "1994-08-03T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 19,
+            "url": null,
+            "title": "Lucky for the secret of Medatsu!",
+            "title_japanese": "目立の秘密でラッキー!",
+            "title_romanji": "Medatsu no Himitsu de Lucky! ",
+            "aired": "1994-08-10T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 21,
+            "url": null,
+            "title": "Lucky with natto!",
+            "title_japanese": "納豆づけでラッキー!",
+            "title_romanji": "Nattouzuke de Lucky! ",
+            "aired": "1994-08-24T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 22,
+            "url": null,
+            "title": "The luck of natto!",
+            "title_japanese": "納豆づけでラッキーのつづき!",
+            "title_romanji": "Nattouzuke de Lucky no Tsuzuki! ",
+            "aired": "1994-08-31T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 23,
+            "url": null,
+            "title": "Lucky with G-5 (Gigo)!",
+            "title_japanese": "G-5[ジーゴ]でラッキー!",
+            "title_romanji": "G-5 (Gigo) de Lucky! ",
+            "aired": "1994-09-07T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 24,
+            "url": null,
+            "title": "Lucky with Cinderella!",
+            "title_japanese": "シンデレラでラッキー!",
+            "title_romanji": "Cinderella de Lucky! ",
+            "aired": "1994-09-14T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 25,
+            "url": null,
+            "title": "Lucky to be a super evil teacherman!",
+            "title_japanese": "極悪教師マンでラッキー!",
+            "title_romanji": "Gokuaku Kyoushi-man de Lucky! ",
+            "aired": "1994-09-21T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 26,
+            "url": null,
+            "title": "Lucky in the athletic meetman!",
+            "title_japanese": "運動会マンでラッキー!",
+            "title_romanji": "Undoukai-man de Lucky! ",
+            "aired": "1994-09-28T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 27,
+            "url": null,
+            "title": "Lucky in the Edoperiod!",
+            "title_japanese": "江戸時代でラッキー!",
+            "title_romanji": "Edo Jidai de Lucky! ",
+            "aired": "1994-10-13T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 28,
+            "url": null,
+            "title": "Lucky to be a ninjaman!",
+            "title_japanese": "忍者マンでラッキー!",
+            "title_romanji": "Ninja-man de Lucky! ",
+            "aired": "1994-10-20T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 29,
+            "url": null,
+            "title": "Lucky to be a sportsman!",
+            "title_japanese": "スポーツマンでラッキー!",
+            "title_romanji": "Sportsman de Lucky! ",
+            "aired": "1994-10-27T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 30,
+            "url": null,
+            "title": "Lucky to be a united alien!",
+            "title_japanese": "合体星人でラッキー!",
+            "title_romanji": "Gattai Seijin de Lucky! ",
+            "aired": "1994-11-03T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 31,
+            "url": null,
+            "title": "Reunited! Victory, Friendship, and doryoku",
+            "title_japanese": "再会!勝利・友情・努力三兄弟",
+            "title_romanji": "Saikai! Shouri. Yuujou. Doryoku san Kyoudai ",
+            "aired": "1994-11-10T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 32,
+            "url": null,
+            "title": "A state of emergency! The Crisis of the Whole Universe!!",
+            "title_japanese": "非常事態!全宇宙の危機!!",
+            "title_romanji": "Hijou Jitai! Zen Uchuu no Kiki!! ",
+            "aired": "1994-11-17T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 33,
+            "url": null,
+            "title": "Doryoku Man's past! Betrayal of brothers",
+            "title_japanese": "努力マンの過去!兄たちの裏切り",
+            "title_romanji": "Doryoku-man no Kako! Oni-tachi no Uragiri ",
+            "aired": "1994-11-24T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 34,
+            "url": null,
+            "title": "Targeted Hero Association President!!",
+            "title_japanese": "狙われたヒーロー協会会長!!",
+            "title_romanji": "Nerawareta Hero Kyoukai Kaichou!! ",
+            "aired": "1994-12-01T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 35,
+            "url": null,
+            "title": "Come on, come on! Fear Killer Hitman!!",
+            "title_japanese": "来襲!恐怖の殺し屋ヒットマン!!",
+            "title_romanji": "Raishuu! Kyoufu no Koroshiya Hitman!! ",
+            "aired": "1994-12-08T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 36,
+            "url": null,
+            "title": "Fear! Hand squadron finger ranger!!",
+            "title_japanese": "恐怖!お手手戦隊指レンジャー!!",
+            "title_romanji": "Kyoufu! Otete Sentai Yubi Ranger!! ",
+            "aired": "1994-12-22T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 37,
+            "url": null,
+            "title": "Now, it starts! The biggest battle in the universe!!",
+            "title_japanese": "衝撃!小指グリーンの正体!!",
+            "title_romanji": "Shougeki! Koyubi Green no Shoutai!! ",
+            "aired": "1995-01-01T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 39,
+            "url": null,
+            "title": "Perfect! Speedman Turbo!!",
+            "title_japanese": "完全体!スピードマンターボ!!",
+            "title_romanji": "Kan Zentai! Speedman Turbo!! ",
+            "aired": "1995-01-05T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 40,
+            "url": null,
+            "title": "The second enemy! Ring finger yellow",
+            "title_japanese": "第二の敵!薬指イエロー",
+            "title_romanji": "Dai ni no teki! Kusuriyubi Yellow ",
+            "aired": "1995-01-12T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 41,
+            "url": null,
+            "title": "Third enemy! Steel power duo",
+            "title_japanese": "第三の敵!鋼鉄・パワー二人組",
+            "title_romanji": null,
+            "aired": "1995-01-19T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 42,
+            "url": null,
+            "title": "Resurrected! Beautiful Brotherly Love",
+            "title_japanese": "復活!美しき兄弟愛",
+            "title_romanji": "Fukkatsu! Utsukushiki Kyoudai Ai ",
+            "aired": "1995-01-26T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 43,
+            "url": null,
+            "title": "50 years of suffering! ! The Power of Tofu Geta",
+            "title_japanese": "苦節50年!豆腐ゲタの威力",
+            "title_romanji": "Kusetsu 50 nen! Toufu Geta no Iryoku ",
+            "aired": "1995-02-02T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 44,
+            "url": null,
+            "title": "Exploded! The doryuko Man of Anger",
+            "title_japanese": "爆発!怒りの努力マン",
+            "title_romanji": "Bakuhatsu! Ikari no Doryoku-man ",
+            "aired": "1995-02-09T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 45,
+            "url": null,
+            "title": "Storm of Blood! Full power of Doryoku Man",
+            "title_japanese": "血の嵐!努力マンのフルパワー",
+            "title_romanji": "Chi no Arashi! Doryoku-man no Firepower ",
+            "aired": "1995-02-16T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 46,
+            "url": null,
+            "title": "The Legend of heroes! The Tragedy of the Genius Man",
+            "title_japanese": "ヒーロー伝説!天才マンの悲劇",
+            "title_romanji": "Hero Densetsu! Tensai-man no Higeki ",
+            "aired": "1995-02-23T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 47,
+            "url": null,
+            "title": "Confrontation! Lucky Man vs. Genius Man",
+            "title_japanese": "対決!ラッキーマン対天才マン",
+            "title_romanji": "Taiketsu! Lucky-man tai Tensai-man ",
+            "aired": "1995-03-02T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 48,
+            "url": null,
+            "title": "Brutal. The hardest way to kill!!",
+            "title_japanese": "残忍!最高に苦しい殺し方!!",
+            "title_romanji": "Zannin! Saikou ni Kurushii Koroshi kata!! ",
+            "aired": "1995-03-09T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 49,
+            "url": null,
+            "title": "Strong enemy! Invincible rehabilitation man",
+            "title_japanese": "強敵!無敵の世直しマン",
+            "title_romanji": "Kyouteki! Muteki no Yonaoshi-man ",
+            "aired": "1995-03-16T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 50,
+            "url": null,
+            "title": "The Last Battle! The strongest combined power!",
+            "title_japanese": "最後の決戦!最強の合体パワー!!",
+            "title_romanji": "Saigo no Kessen! Saikyou no Gattai Power!! ",
+            "aired": "1995-03-23T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        }
+    ]
+}

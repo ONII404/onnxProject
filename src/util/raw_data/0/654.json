@@ -1,0 +1,195 @@
+{
+    "id": 654,
+    "fetched_at": "Sun Dec 14 13:57:33 2025",
+    "metadata": {
+        "mal_id": 654,
+        "url": "https://myanimelist.net/anime/654/Galaxy_Angel_3_Specials",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1512/146310.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1512/146310t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1512/146310l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1512/146310.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1512/146310t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1512/146310l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Galaxy Angel 3 Specials"
+            },
+            {
+                "type": "Synonym",
+                "title": "Galaxy Angel AA"
+            },
+            {
+                "type": "Japanese",
+                "title": "ギャラクシーエンジェルＡＡ"
+            },
+            {
+                "type": "English",
+                "title": "Galaxy Angel AA"
+            }
+        ],
+        "title": "Galaxy Angel 3 Specials",
+        "title_english": "Galaxy Angel AA",
+        "title_japanese": "ギャラクシーエンジェルＡＡ",
+        "title_synonyms": [
+            "Galaxy Angel AA"
+        ],
+        "type": "Special",
+        "source": "Original",
+        "episodes": 2,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "2003-11-28T00:00:00+00:00",
+            "to": null,
+            "prop": {
+                "from": {
+                    "day": 28,
+                    "month": 11,
+                    "year": 2003
+                },
+                "to": {
+                    "day": null,
+                    "month": null,
+                    "year": null
+                }
+            },
+            "string": "Nov 28, 2003"
+        },
+        "duration": "13 min per ep",
+        "rating": "PG - Children",
+        "score": 7.1,
+        "scored_by": 1624,
+        "rank": 4063,
+        "popularity": 9951,
+        "members": 4118,
+        "favorites": 3,
+        "synopsis": "Specials from Galaxy Angel 3 DVDs.",
+        "background": "",
+        "season": null,
+        "year": null,
+        "broadcast": {
+            "day": null,
+            "time": null,
+            "timezone": null,
+            "string": null
+        },
+        "producers": [
+            {
+                "mal_id": 116,
+                "type": "anime",
+                "name": "Broccoli",
+                "url": "https://myanimelist.net/anime/producer/116/Broccoli"
+            }
+        ],
+        "licensors": [
+            {
+                "mal_id": 217,
+                "type": "anime",
+                "name": "Nozomi Entertainment",
+                "url": "https://myanimelist.net/anime/producer/217/Nozomi_Entertainment"
+            },
+            {
+                "mal_id": 233,
+                "type": "anime",
+                "name": "Bandai Entertainment",
+                "url": "https://myanimelist.net/anime/producer/233/Bandai_Entertainment"
+            }
+        ],
+        "studios": [],
+        "genres": [
+            {
+                "mal_id": 4,
+                "type": "anime",
+                "name": "Comedy",
+                "url": "https://myanimelist.net/anime/genre/4/Comedy"
+            },
+            {
+                "mal_id": 24,
+                "type": "anime",
+                "name": "Sci-Fi",
+                "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [],
+        "demographics": [],
+        "relations": [
+            {
+                "relation": "Parent Story",
+                "entry": [
+                    {
+                        "mal_id": 653,
+                        "type": "anime",
+                        "name": "Galaxy Angel 3",
+                        "url": "https://myanimelist.net/anime/653/Galaxy_Angel_3"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [],
+            "endings": []
+        },
+        "external": [
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=260"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=2142"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "http://en.wikipedia.org/wiki/Galaxy_Angel"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": [
+        {
+            "mal_id": 1,
+            "url": null,
+            "title": "Extremely Fried Chicken",
+            "title_japanese": "めっちゃ! フライドチキン",
+            "title_romanji": "Meccha! Fried Chicken ",
+            "aired": "2003-11-28T00:00:00+00:00",
+            "score": 5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1912509"
+        },
+        {
+            "mal_id": 2,
+            "url": null,
+            "title": "Over-fried Embarrassing Oyster",
+            "title_japanese": "恥カキフライあがり過ぎ",
+            "title_romanji": "Haji-kaki Fry Agarisugi ",
+            "aired": "2003-11-28T00:00:00+00:00",
+            "score": 4.5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1913176"
+        }
+    ]
+}

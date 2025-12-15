@@ -1,0 +1,157 @@
+{
+    "id": 1753,
+    "fetched_at": "Sun Dec 14 16:49:25 2025",
+    "metadata": {
+        "mal_id": 1753,
+        "url": "https://myanimelist.net/anime/1753/Di_Gi_Charat__Kuchi_Kara_Bazooka",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/12/57017.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/12/57017t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/12/57017l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/12/57017.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/12/57017t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/12/57017l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Di Gi Charat: Kuchi Kara Bazooka"
+            },
+            {
+                "type": "Synonym",
+                "title": "Upchuck Bazooka"
+            },
+            {
+                "type": "Synonym",
+                "title": "DiGi Charat Special: A Rocket from the Mouth"
+            },
+            {
+                "type": "Synonym",
+                "title": "Di Gi Charat Special: A Rocket from the Mouth"
+            },
+            {
+                "type": "Japanese",
+                "title": "くちからバズーカ"
+            }
+        ],
+        "title": "Di Gi Charat: Kuchi Kara Bazooka",
+        "title_english": null,
+        "title_japanese": "くちからバズーカ",
+        "title_synonyms": [
+            "Upchuck Bazooka",
+            "DiGi Charat Special: A Rocket from the Mouth",
+            "Di Gi Charat Special: A Rocket from the Mouth"
+        ],
+        "type": "Special",
+        "source": "Original",
+        "episodes": 1,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "2002-07-12T00:00:00+00:00",
+            "to": null,
+            "prop": {
+                "from": {
+                    "day": 12,
+                    "month": 7,
+                    "year": 2002
+                },
+                "to": {
+                    "day": null,
+                    "month": null,
+                    "year": null
+                }
+            },
+            "string": "Jul 12, 2002"
+        },
+        "duration": "13 min",
+        "rating": "PG-13 - Teens 13 or older",
+        "score": 6.3,
+        "scored_by": 1416,
+        "rank": 8536,
+        "popularity": 10993,
+        "members": 3013,
+        "favorites": 1,
+        "synopsis": "Piyoko and her villainous friends plot for a way to use the mouth rocket to beat Dejiko's laser eyes.",
+        "background": "",
+        "season": null,
+        "year": null,
+        "broadcast": {
+            "day": null,
+            "time": null,
+            "timezone": null,
+            "string": null
+        },
+        "producers": [],
+        "licensors": [],
+        "studios": [
+            {
+                "mal_id": 11,
+                "type": "anime",
+                "name": "Madhouse",
+                "url": "https://myanimelist.net/anime/producer/11/Madhouse"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 4,
+                "type": "anime",
+                "name": "Comedy",
+                "url": "https://myanimelist.net/anime/genre/4/Comedy"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [],
+        "demographics": [],
+        "relations": [
+            {
+                "relation": "Parent Story",
+                "entry": [
+                    {
+                        "mal_id": 1752,
+                        "type": "anime",
+                        "name": "Di Gi Charat: Hoshi no Tabi",
+                        "url": "https://myanimelist.net/anime/1752/Di_Gi_Charat__Hoshi_no_Tabi"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [],
+            "endings": []
+        },
+        "external": [
+            {
+                "name": "Official Site",
+                "url": "http://www.broccoli.co.jp/dejiko/what.html"
+            },
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=769"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "http://en.wikipedia.org/wiki/Di_Gi_Charat#Movie"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": []
+}

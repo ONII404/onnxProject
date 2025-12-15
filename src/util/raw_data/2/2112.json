@@ -1,0 +1,510 @@
+{
+    "id": 2112,
+    "fetched_at": "Sun Dec 14 18:11:45 2025",
+    "metadata": {
+        "mal_id": 2112,
+        "url": "https://myanimelist.net/anime/2112/Over_Drive",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/3/89534.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/3/89534t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/3/89534l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/3/89534.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/3/89534t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/3/89534l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Over Drive"
+            },
+            {
+                "type": "Synonym",
+                "title": "OverDrive"
+            },
+            {
+                "type": "Japanese",
+                "title": "オーバードライヴ"
+            }
+        ],
+        "title": "Over Drive",
+        "title_english": null,
+        "title_japanese": "オーバードライヴ",
+        "title_synonyms": [
+            "OverDrive"
+        ],
+        "type": "TV",
+        "source": "Manga",
+        "episodes": 26,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "2007-04-04T00:00:00+00:00",
+            "to": "2007-09-26T00:00:00+00:00",
+            "prop": {
+                "from": {
+                    "day": 4,
+                    "month": 4,
+                    "year": 2007
+                },
+                "to": {
+                    "day": 26,
+                    "month": 9,
+                    "year": 2007
+                }
+            },
+            "string": "Apr 4, 2007 to Sep 26, 2007"
+        },
+        "duration": "23 min per ep",
+        "rating": "PG-13 - Teens 13 or older",
+        "score": 7.51,
+        "scored_by": 21172,
+        "rank": 2006,
+        "popularity": 3651,
+        "members": 46353,
+        "favorites": 210,
+        "synopsis": "Mikoto Shinozaki is a high school student lacking in social awareness. In addition, due to his untidy appearance and low self-esteem, he is an easy target for bullies. Regardless, any misfortune that falls upon Mikoto is partly his own fault—at least, that is what Yuki Fukuzawa, the most popular girl in class, believes. With this assumption, Yuki invites Mikoto to join the school's bicycle club, in hopes he can improve himself and gain new friends. Motivated by feelings he has for Yuki, Mikoto has no reason to decline her offer—except for the fact that he does not know how to ride a bicycle.\n\nDespite his lack of even the fundamentals, Mikoto cannot get over the image of himself on a bicycle. Eventually, he succumbs to his curiosity and sneaks into the school grounds at night to practice. This begins Mikoto's journey as he pedals his way through the vast world of cycling, where the scenery of his life changes in ways he never thought possible.\n\n[Written by MAL Rewrite]",
+        "background": "",
+        "season": "spring",
+        "year": 2007,
+        "broadcast": {
+            "day": "Wednesdays",
+            "time": "01:30",
+            "timezone": "Asia/Tokyo",
+            "string": "Wednesdays at 01:30 (JST)"
+        },
+        "producers": [
+            {
+                "mal_id": 64,
+                "type": "anime",
+                "name": "Sotsu",
+                "url": "https://myanimelist.net/anime/producer/64/Sotsu"
+            },
+            {
+                "mal_id": 144,
+                "type": "anime",
+                "name": "Pony Canyon",
+                "url": "https://myanimelist.net/anime/producer/144/Pony_Canyon"
+            },
+            {
+                "mal_id": 213,
+                "type": "anime",
+                "name": "Half H.P Studio",
+                "url": "https://myanimelist.net/anime/producer/213/Half_HP_Studio"
+            }
+        ],
+        "licensors": [],
+        "studios": [
+            {
+                "mal_id": 27,
+                "type": "anime",
+                "name": "Xebec",
+                "url": "https://myanimelist.net/anime/producer/27/Xebec"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 30,
+                "type": "anime",
+                "name": "Sports",
+                "url": "https://myanimelist.net/anime/genre/30/Sports"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [
+            {
+                "mal_id": 3,
+                "type": "anime",
+                "name": "Racing",
+                "url": "https://myanimelist.net/anime/genre/3/Racing"
+            }
+        ],
+        "demographics": [
+            {
+                "mal_id": 27,
+                "type": "anime",
+                "name": "Shounen",
+                "url": "https://myanimelist.net/anime/genre/27/Shounen"
+            }
+        ],
+        "relations": [
+            {
+                "relation": "Adaptation",
+                "entry": [
+                    {
+                        "mal_id": 2720,
+                        "type": "manga",
+                        "name": "Over Drive",
+                        "url": "https://myanimelist.net/manga/2720/Over_Drive"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [
+                "\"WINDER ~Boku wa Koko ni Iru~(WINDER~ボクハココニイル~)\" by Shonen Kamikaze"
+            ],
+            "endings": [
+                "1: \"Saihate no Parade (最果てのパレード)\" by Merry (eps 1-13)",
+                "2: \"Koi Suzumi (恋涼み)\" by DEL (eps 14-23,25-26)"
+            ]
+        },
+        "external": [
+            {
+                "name": "Official Site",
+                "url": "http://www.tv-tokyo.co.jp/anime/overdrive/"
+            },
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=5072"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=7629"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Over_Drive_(manga)#Anime"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "https://ja.wikipedia.org/wiki/Over_Drive_(%E6%BC%AB%E7%94%BB)#%E3%83%86%E3%83%AC%E3%83%93%E3%82%A2%E3%83%8B%E3%83%A1"
+            },
+            {
+                "name": "Syoboi",
+                "url": "https://cal.syoboi.jp/tid/1156"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": [
+        {
+            "mal_id": 1,
+            "url": null,
+            "title": "Boy Meets Bicycle (Part 1)",
+            "title_japanese": "Part.1)",
+            "title_romanji": "(Boy meets bicycle.",
+            "aired": "2007-04-04T00:00:00+00:00",
+            "score": 3.85,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1067"
+        },
+        {
+            "mal_id": 2,
+            "url": null,
+            "title": "Boy Meets Bicycle (Part 2)",
+            "title_japanese": "Part.2)",
+            "title_romanji": "(Boy meets bicycle.",
+            "aired": "2007-04-11T00:00:00+00:00",
+            "score": 3.97,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1172"
+        },
+        {
+            "mal_id": 3,
+            "url": null,
+            "title": "Cross the Rubicon",
+            "title_japanese": "Cross the rubicon.",
+            "title_romanji": null,
+            "aired": "2007-04-18T00:00:00+00:00",
+            "score": 3.7,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1321"
+        },
+        {
+            "mal_id": 4,
+            "url": null,
+            "title": "Every Dog can be a Lion",
+            "title_japanese": "Every dog can be a lion.",
+            "title_romanji": null,
+            "aired": "2007-04-25T00:00:00+00:00",
+            "score": 3.71,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2130"
+        },
+        {
+            "mal_id": 5,
+            "url": null,
+            "title": "Funky Monkey Baby",
+            "title_japanese": "Funky monkey baby.",
+            "title_romanji": null,
+            "aired": "2007-05-02T00:00:00+00:00",
+            "score": 3.38,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=454033"
+        },
+        {
+            "mal_id": 6,
+            "url": null,
+            "title": "Give the Devil his Due",
+            "title_japanese": "Give the devil his due.",
+            "title_romanji": null,
+            "aired": "2007-05-09T00:00:00+00:00",
+            "score": 3.6,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=454035"
+        },
+        {
+            "mal_id": 7,
+            "url": null,
+            "title": "Hunger is the Best",
+            "title_japanese": "Hunger is the best.",
+            "title_romanji": null,
+            "aired": "2007-05-16T00:00:00+00:00",
+            "score": 3.7,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=289196"
+        },
+        {
+            "mal_id": 8,
+            "url": null,
+            "title": "Know Your Enemy as well as Yourself",
+            "title_japanese": "Know your enemy as well as yourself.",
+            "title_romanji": null,
+            "aired": "2007-05-23T00:00:00+00:00",
+            "score": 3.93,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=289197"
+        },
+        {
+            "mal_id": 9,
+            "url": null,
+            "title": "Little Wings Fly High",
+            "title_japanese": "Little wings fly high.",
+            "title_romanji": null,
+            "aired": "2007-05-30T00:00:00+00:00",
+            "score": 3.64,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=637529"
+        },
+        {
+            "mal_id": 10,
+            "url": null,
+            "title": "Nobody Knows",
+            "title_japanese": "Nobody knows.",
+            "title_romanji": null,
+            "aired": "2007-06-06T00:00:00+00:00",
+            "score": 3.78,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=529144"
+        },
+        {
+            "mal_id": 11,
+            "url": null,
+            "title": "Once a Chicken, Always a Chicken",
+            "title_japanese": "Once a chicken, always a chicken.",
+            "title_romanji": null,
+            "aired": "2007-06-13T00:00:00+00:00",
+            "score": 4.16,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=3259"
+        },
+        {
+            "mal_id": 12,
+            "url": null,
+            "title": "Rules are Made to be Broken",
+            "title_japanese": "Rules are made to be broken.",
+            "title_romanji": null,
+            "aired": "2007-06-20T00:00:00+00:00",
+            "score": 4.6,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=4734"
+        },
+        {
+            "mal_id": 13,
+            "url": null,
+            "title": "Silent Men are Deep and Dangerous",
+            "title_japanese": "Silent men are deep and dangerous.",
+            "title_romanji": null,
+            "aired": "2007-06-27T00:00:00+00:00",
+            "score": 4.05,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=5004"
+        },
+        {
+            "mal_id": 14,
+            "url": null,
+            "title": "The Devil's Children",
+            "title_japanese": "The devil's children.",
+            "title_romanji": null,
+            "aired": "2007-07-04T00:00:00+00:00",
+            "score": 4.26,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=5047"
+        },
+        {
+            "mal_id": 15,
+            "url": null,
+            "title": "All Good Things Come to an End",
+            "title_japanese": "All good things come to an end.",
+            "title_romanji": null,
+            "aired": "2007-07-11T00:00:00+00:00",
+            "score": 4.18,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=664561"
+        },
+        {
+            "mal_id": 16,
+            "url": null,
+            "title": "We Are Going to Climbing",
+            "title_japanese": "We are going to climbing.",
+            "title_romanji": null,
+            "aired": "2007-07-18T00:00:00+00:00",
+            "score": 4.24,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=5354"
+        },
+        {
+            "mal_id": 17,
+            "url": null,
+            "title": "Zeal is Runaway Horse",
+            "title_japanese": "Zeal is runaway horse.",
+            "title_romanji": null,
+            "aired": "2007-07-25T00:00:00+00:00",
+            "score": 4.48,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=5989"
+        },
+        {
+            "mal_id": 18,
+            "url": null,
+            "title": "Deeds, Not Words",
+            "title_japanese": "Deeds, not words.",
+            "title_romanji": null,
+            "aired": "2007-08-01T00:00:00+00:00",
+            "score": 4.59,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=6306"
+        },
+        {
+            "mal_id": 19,
+            "url": null,
+            "title": "Men are Blind in Their Own Cause",
+            "title_japanese": "Men are blind in their own cause.",
+            "title_romanji": null,
+            "aired": "2007-08-08T00:00:00+00:00",
+            "score": 3.77,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=6513"
+        },
+        {
+            "mal_id": 20,
+            "url": null,
+            "title": "Prosperity Makes Friends, Adversity Tries Them",
+            "title_japanese": "Prosperity makes friends, adversity tries them.",
+            "title_romanji": null,
+            "aired": "2007-08-15T00:00:00+00:00",
+            "score": 3.43,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=6873"
+        },
+        {
+            "mal_id": 21,
+            "url": null,
+            "title": "Vision Without Action is a Daydream",
+            "title_japanese": "Vision without action is a daydream.",
+            "title_romanji": null,
+            "aired": "2007-08-22T00:00:00+00:00",
+            "score": 3.74,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=8960"
+        },
+        {
+            "mal_id": 22,
+            "url": null,
+            "title": "Uneasy Lies the Head That Wears a Crown",
+            "title_japanese": "Uneasy lies the head that wears a crown.",
+            "title_romanji": null,
+            "aired": "2007-08-29T00:00:00+00:00",
+            "score": 3.8,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=9085"
+        },
+        {
+            "mal_id": 23,
+            "url": null,
+            "title": "Quick Resentments are Often Fatal",
+            "title_japanese": "Quick resentments are often fatal.",
+            "title_romanji": null,
+            "aired": "2007-09-05T00:00:00+00:00",
+            "score": 3.05,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=9245"
+        },
+        {
+            "mal_id": 24,
+            "url": null,
+            "title": "It's Dogged That Does It",
+            "title_japanese": "It's dogged that does it.",
+            "title_romanji": null,
+            "aired": "2007-09-12T00:00:00+00:00",
+            "score": 3.89,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=10670"
+        },
+        {
+            "mal_id": 25,
+            "url": null,
+            "title": "Joy and Sorrow are Next Door Neighbors",
+            "title_japanese": "Joy and sorrow are next door neighbors.",
+            "title_romanji": null,
+            "aired": "2007-09-19T00:00:00+00:00",
+            "score": 4.66,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=11607"
+        },
+        {
+            "mal_id": 26,
+            "url": null,
+            "title": "You Never Know What you can do Till you Try",
+            "title_japanese": "You never know what you can do till you try.",
+            "title_romanji": null,
+            "aired": "2007-09-26T00:00:00+00:00",
+            "score": 4.57,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=11674"
+        }
+    ]
+}

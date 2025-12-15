@@ -1,0 +1,513 @@
+{
+    "id": 2704,
+    "fetched_at": "Sun Dec 14 18:50:22 2025",
+    "metadata": {
+        "mal_id": 2704,
+        "url": "https://myanimelist.net/anime/2704/Kaiketsu_Jouki_Tanteidan",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/5/20557.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/5/20557t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/5/20557l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/5/20557.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/5/20557t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/5/20557l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Kaiketsu Jouki Tanteidan"
+            },
+            {
+                "type": "Synonym",
+                "title": "Steam Detective"
+            },
+            {
+                "type": "Synonym",
+                "title": "Kaiketsu Shoki Tanteidan"
+            },
+            {
+                "type": "Japanese",
+                "title": "快傑蒸気探偵団"
+            },
+            {
+                "type": "English",
+                "title": "Steam Detectives"
+            }
+        ],
+        "title": "Kaiketsu Jouki Tanteidan",
+        "title_english": "Steam Detectives",
+        "title_japanese": "快傑蒸気探偵団",
+        "title_synonyms": [
+            "Steam Detective",
+            "Kaiketsu Shoki Tanteidan"
+        ],
+        "type": "TV",
+        "source": "Manga",
+        "episodes": 26,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "1998-10-07T00:00:00+00:00",
+            "to": "1999-03-31T00:00:00+00:00",
+            "prop": {
+                "from": {
+                    "day": 7,
+                    "month": 10,
+                    "year": 1998
+                },
+                "to": {
+                    "day": 31,
+                    "month": 3,
+                    "year": 1999
+                }
+            },
+            "string": "Oct 7, 1998 to Mar 31, 1999"
+        },
+        "duration": "24 min per ep",
+        "rating": "PG-13 - Teens 13 or older",
+        "score": 6.58,
+        "scored_by": 1611,
+        "rank": 6817,
+        "popularity": 8691,
+        "members": 6020,
+        "favorites": 8,
+        "synopsis": "The scene is Steam City, a London-ish city which represents an entire civilization run by coal and steam power. Because of steam, the city is sometimes covered in a mist. Villains take advantage of the steamy mist to hide and execute their evil plans. Only a few dare venture into what's beyond the steamy mist. They are known as the Steam Detectives: Narutaki (and his convertible all-purpose pistol), his nurse-assistant Lingling, and his Megamaton robot Gohliki.\n \n(Source: ANN)",
+        "background": "",
+        "season": "fall",
+        "year": 1998,
+        "broadcast": {
+            "day": "Wednesdays",
+            "time": "18:00",
+            "timezone": "Asia/Tokyo",
+            "string": "Wednesdays at 18:00 (JST)"
+        },
+        "producers": [
+            {
+                "mal_id": 16,
+                "type": "anime",
+                "name": "TV Tokyo",
+                "url": "https://myanimelist.net/anime/producer/16/TV_Tokyo"
+            },
+            {
+                "mal_id": 127,
+                "type": "anime",
+                "name": "Yomiko Advertising",
+                "url": "https://myanimelist.net/anime/producer/127/Yomiko_Advertising"
+            },
+            {
+                "mal_id": 216,
+                "type": "anime",
+                "name": "Studio Tron",
+                "url": "https://myanimelist.net/anime/producer/216/Studio_Tron"
+            }
+        ],
+        "licensors": [
+            {
+                "mal_id": 97,
+                "type": "anime",
+                "name": "ADV Films",
+                "url": "https://myanimelist.net/anime/producer/97/ADV_Films"
+            }
+        ],
+        "studios": [
+            {
+                "mal_id": 27,
+                "type": "anime",
+                "name": "Xebec",
+                "url": "https://myanimelist.net/anime/producer/27/Xebec"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 7,
+                "type": "anime",
+                "name": "Mystery",
+                "url": "https://myanimelist.net/anime/genre/7/Mystery"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [
+            {
+                "mal_id": 39,
+                "type": "anime",
+                "name": "Detective",
+                "url": "https://myanimelist.net/anime/genre/39/Detective"
+            },
+            {
+                "mal_id": 18,
+                "type": "anime",
+                "name": "Mecha",
+                "url": "https://myanimelist.net/anime/genre/18/Mecha"
+            }
+        ],
+        "demographics": [],
+        "relations": [
+            {
+                "relation": "Adaptation",
+                "entry": [
+                    {
+                        "mal_id": 243,
+                        "type": "manga",
+                        "name": "Kaiketsu Jouki Tanteidan",
+                        "url": "https://myanimelist.net/manga/243/Kaiketsu_Jouki_Tanteidan"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [
+                "\"Kimi, Hohoenda Yoru (君, 微笑んだ夜)\" by Elika"
+            ],
+            "endings": [
+                "1: \"Okubyou Emotion\" by Elika",
+                "2: \"Oasis\" by Elika"
+            ]
+        },
+        "external": [
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=1644"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=863"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "http://en.wikipedia.org/wiki/Steam_Detectives"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": [
+        {
+            "mal_id": 1,
+            "url": null,
+            "title": "Go! Steam Detectives",
+            "title_japanese": "出動! 蒸気探偵団",
+            "title_romanji": "Shutsudou! Jouki Tanteidan ",
+            "aired": "1998-10-07T00:00:00+00:00",
+            "score": 4.33,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1811411"
+        },
+        {
+            "mal_id": 2,
+            "url": null,
+            "title": "The Challenge of the Crimson Scorpion",
+            "title_japanese": "紅サソリの挑戦",
+            "title_romanji": "Benisasori no Chousen ",
+            "aired": "1998-10-14T00:00:00+00:00",
+            "score": 4.33,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1813107"
+        },
+        {
+            "mal_id": 3,
+            "url": null,
+            "title": "Machine Baron's Abnormal Love?",
+            "title_japanese": "機械男爵の異常な愛情?!",
+            "title_romanji": "Kikaidanshaku no Ijou na Aijou?! ",
+            "aired": "1998-10-21T00:00:00+00:00",
+            "score": 5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1831446"
+        },
+        {
+            "mal_id": 4,
+            "url": null,
+            "title": "Rival, His Name is Le Bled",
+            "title_japanese": "ライバル) その名はル・ブレッド",
+            "title_romanji": "(好敵手",
+            "aired": "1998-10-28T00:00:00+00:00",
+            "score": 4.67,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1813110"
+        },
+        {
+            "mal_id": 5,
+            "url": null,
+            "title": "Shadowbolt",
+            "title_japanese": "シャドウボルト",
+            "title_romanji": "Shadowbolt ",
+            "aired": "1998-11-04T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 6,
+            "url": null,
+            "title": "The Seven Changes Of The Crimson Scorpion",
+            "title_japanese": "紅サソリ七変化",
+            "title_romanji": "Beni Sasori Shichi Henge ",
+            "aired": "1998-11-11T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 7,
+            "url": null,
+            "title": "Emergency Orders! Arrest Goriki!",
+            "title_japanese": "緊急指令!強力を逮捕せよ",
+            "title_romanji": "Kinkyuu Shirei! Gouriki wo Taiho Seyo ",
+            "aired": "1998-11-18T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 8,
+            "url": null,
+            "title": "From Whom Do You Run?",
+            "title_japanese": "た)がために君は走る",
+            "title_romanji": "Taga Tame ni Kimi wa Hashiru (誰",
+            "aired": "1998-11-25T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 9,
+            "url": null,
+            "title": "Phantom, The Vengeful Man",
+            "title_japanese": "復讐人ファンタム",
+            "title_romanji": "Fukushuujin Phantom ",
+            "aired": "1998-12-02T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 10,
+            "url": null,
+            "title": "Goriki In A Pinch! The Big Capital Tornado",
+            "title_japanese": "強力ピンチ!帝都大竜巻",
+            "title_romanji": "Gouriki Pinch! Teito Ootatsumaki ",
+            "aired": "1998-12-09T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 11,
+            "url": null,
+            "title": "Steam Fantasy",
+            "title_japanese": "ファンタジー)",
+            "title_romanji": "Steam Fantasy (スチーム不思議話 ",
+            "aired": "1998-12-16T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 12,
+            "url": null,
+            "title": "The Machine Baron's Fatal Error",
+            "title_japanese": "機械男爵の大いなる失敗",
+            "title_romanji": "Kikaidanshaku no Ooinaru Shippai ",
+            "aired": "1998-12-23T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 13,
+            "url": null,
+            "title": "Narutaki vs. Ling Ling: A Tiny Battle",
+            "title_japanese": "鳴滝 VS 鈴々 小さな戦い",
+            "title_romanji": "Narutaki VS Ling Ling Chiisana Tatakai ",
+            "aired": "1998-12-30T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 14,
+            "url": null,
+            "title": "Novel: \"The Horrific King Steam\"",
+            "title_japanese": "小説恐怖の蒸気王",
+            "title_romanji": "Shousetsu Kyoufu no Jouki Ou ",
+            "aired": "1999-01-06T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 15,
+            "url": null,
+            "title": "The Target is Onigawara",
+            "title_japanese": "ターゲットは鬼瓦",
+            "title_romanji": "Target wa Onigawara ",
+            "aired": "1999-01-13T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 16,
+            "url": null,
+            "title": "Tears of a Black Angel",
+            "title_japanese": "黒い天使の涙",
+            "title_romanji": "Kuroi Tenshi no Namida ",
+            "aired": "1999-01-20T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 17,
+            "url": null,
+            "title": "Go After Submarine X!",
+            "title_japanese": "潜水艦X号を追え!",
+            "title_romanji": "Sensuikan X-gou wo Oe! ",
+            "aired": "1999-01-27T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 18,
+            "url": null,
+            "title": "36 Pages in a Detective's Pocketbook",
+            "title_japanese": "ページ)の探偵手帳",
+            "title_romanji": "36 Page no Tantei Techou (36頁",
+            "aired": "1999-02-03T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": true,
+            "forum_url": null
+        },
+        {
+            "mal_id": 19,
+            "url": null,
+            "title": "Pale Crimson Memories",
+            "title_japanese": "薄紅の思ひ出",
+            "title_romanji": "Usubeni no Omoide ",
+            "aired": "1999-02-10T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 20,
+            "url": null,
+            "title": "Goodbye Young Detective",
+            "title_japanese": "さらば少年探偵",
+            "title_romanji": "Saraba Shounen Tantei ",
+            "aired": "1999-02-17T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 21,
+            "url": null,
+            "title": "La Bled's Invitation",
+            "title_japanese": "ル・ブレッドの招待状",
+            "title_romanji": "La Bled Shoutaijou ",
+            "aired": "1999-02-24T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 22,
+            "url": null,
+            "title": "Rivals, Eternally",
+            "title_japanese": "とわ)に",
+            "title_romanji": "Rival yo Towa ni (ライバルよ永久",
+            "aired": "1999-03-03T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 23,
+            "url": null,
+            "title": "The Final Plan",
+            "title_japanese": "最後の作戦",
+            "title_romanji": "Saigo no Sakusen ",
+            "aired": "1999-03-10T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 24,
+            "url": null,
+            "title": "The Approaching Demon's Shadow",
+            "title_japanese": "迫り来る悪魔の影",
+            "title_romanji": "Semari Kuru Akuma no Kage ",
+            "aired": "1999-03-17T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 25,
+            "url": null,
+            "title": "And Then, There Were None",
+            "title_japanese": "そして誰もいなくなった",
+            "title_romanji": "Soshite Daremo Inakunatta ",
+            "aired": "1999-03-24T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 26,
+            "url": null,
+            "title": "The Imperial Capital is Waiting For You",
+            "title_japanese": "帝都は君を待っている",
+            "title_romanji": "Teito wa Kimi wo Matteiru ",
+            "aired": "1999-03-31T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        }
+    ]
+}

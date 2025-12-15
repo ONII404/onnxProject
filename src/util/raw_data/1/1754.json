@@ -1,0 +1,204 @@
+{
+    "id": 1754,
+    "fetched_at": "Sun Dec 14 16:49:31 2025",
+    "metadata": {
+        "mal_id": 1754,
+        "url": "https://myanimelist.net/anime/1754/Di_Gi_Charat_Summer_Special_2000",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/12/64457.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/12/64457t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/12/64457l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/12/64457.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/12/64457t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/12/64457l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Di Gi Charat Summer Special 2000"
+            },
+            {
+                "type": "Japanese",
+                "title": "Di Gi Charat サマースペシャル2000"
+            }
+        ],
+        "title": "Di Gi Charat Summer Special 2000",
+        "title_english": null,
+        "title_japanese": "Di Gi Charat サマースペシャル2000",
+        "title_synonyms": [],
+        "type": "TV Special",
+        "source": "Original",
+        "episodes": 4,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "2000-08-22T00:00:00+00:00",
+            "to": "2000-08-23T00:00:00+00:00",
+            "prop": {
+                "from": {
+                    "day": 22,
+                    "month": 8,
+                    "year": 2000
+                },
+                "to": {
+                    "day": 23,
+                    "month": 8,
+                    "year": 2000
+                }
+            },
+            "string": "Aug 22, 2000 to Aug 23, 2000"
+        },
+        "duration": "11 min per ep",
+        "rating": "G - All Ages",
+        "score": 6.55,
+        "scored_by": 2441,
+        "rank": 7042,
+        "popularity": 9475,
+        "members": 4778,
+        "favorites": 5,
+        "synopsis": "The Di Gi Charat Summer Special was a four episode series that aired over two days, August 22, 2000 to August 23, 2000. This was the first series that Piyoko appeared in and the plot involves her attempting to hold Dejiko hostage for ransom.\n\n• Summer Special 2000 Episode 1 - Here comes Pyoko-nyo!\n• Summer Special 2000 Episode 2 - It's the Black Gamers-nyo\n• Summer Special 2000 Episode 3 - The Return of Abarenbou\n• Summer Special 2000 Episode 4 - Summer Bug  \n\n(Source: AniDB &amp; Wikipedia)",
+        "background": "",
+        "season": null,
+        "year": null,
+        "broadcast": {
+            "day": null,
+            "time": null,
+            "timezone": null,
+            "string": null
+        },
+        "producers": [
+            {
+                "mal_id": 145,
+                "type": "anime",
+                "name": "TBS",
+                "url": "https://myanimelist.net/anime/producer/145/TBS"
+            }
+        ],
+        "licensors": [
+            {
+                "mal_id": 376,
+                "type": "anime",
+                "name": "Sentai Filmworks",
+                "url": "https://myanimelist.net/anime/producer/376/Sentai_Filmworks"
+            }
+        ],
+        "studios": [
+            {
+                "mal_id": 11,
+                "type": "anime",
+                "name": "Madhouse",
+                "url": "https://myanimelist.net/anime/producer/11/Madhouse"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 4,
+                "type": "anime",
+                "name": "Comedy",
+                "url": "https://myanimelist.net/anime/genre/4/Comedy"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [],
+        "demographics": [],
+        "relations": [
+            {
+                "relation": "Prequel",
+                "entry": [
+                    {
+                        "mal_id": 293,
+                        "type": "anime",
+                        "name": "Di Gi Charat",
+                        "url": "https://myanimelist.net/anime/293/Di_Gi_Charat"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [
+                "\"CUTIE\" by Masami Okui"
+            ],
+            "endings": [
+                "\"Powerful Summer (パワフルサマー)\" by Asami Sanada, Miyuki Sawashiro, Kyouko Hikami"
+            ]
+        },
+        "external": [
+            {
+                "name": "Official Site",
+                "url": "http://www.broccoli.co.jp/dejiko/anime.html"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "http://en.wikipedia.org/wiki/Di_Gi_Charat#Specials"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": [
+        {
+            "mal_id": 1,
+            "url": null,
+            "title": "Piyoko is Here-nyo",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": "2000-08-22T00:00:00+00:00",
+            "score": 3.83,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1873616"
+        },
+        {
+            "mal_id": 2,
+            "url": null,
+            "title": "It's the Black Gamers-nyo",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": "2000-08-22T00:00:00+00:00",
+            "score": 3.75,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1873620"
+        },
+        {
+            "mal_id": 3,
+            "url": null,
+            "title": "Abarenbou Strikes Back",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": "2000-08-23T00:00:00+00:00",
+            "score": 3.25,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1873625"
+        },
+        {
+            "mal_id": 4,
+            "url": null,
+            "title": "A Summer Bug",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": "2000-08-23T00:00:00+00:00",
+            "score": 3.25,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1822313"
+        }
+    ]
+}

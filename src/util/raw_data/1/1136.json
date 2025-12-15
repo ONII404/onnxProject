@@ -1,0 +1,531 @@
+{
+    "id": 1136,
+    "fetched_at": "Sun Dec 14 14:58:01 2025",
+    "metadata": {
+        "mal_id": 1136,
+        "url": "https://myanimelist.net/anime/1136/Betterman",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1157/91069.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1157/91069t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1157/91069l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1157/91069.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1157/91069t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1157/91069l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": "https://www.youtube-nocookie.com/embed/rfPxw1_asHc?enablejsapi=1&wmode=opaque&autoplay=1",
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Betterman"
+            },
+            {
+                "type": "Japanese",
+                "title": "ベターマン"
+            }
+        ],
+        "title": "Betterman",
+        "title_english": null,
+        "title_japanese": "ベターマン",
+        "title_synonyms": [],
+        "type": "TV",
+        "source": "Original",
+        "episodes": 26,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "1999-04-02T00:00:00+00:00",
+            "to": "1999-10-01T00:00:00+00:00",
+            "prop": {
+                "from": {
+                    "day": 2,
+                    "month": 4,
+                    "year": 1999
+                },
+                "to": {
+                    "day": 1,
+                    "month": 10,
+                    "year": 1999
+                }
+            },
+            "string": "Apr 2, 1999 to Oct 1, 1999"
+        },
+        "duration": "24 min per ep",
+        "rating": "R - 17+ (violence & profanity)",
+        "score": 6.58,
+        "scored_by": 4975,
+        "rank": 6862,
+        "popularity": 5685,
+        "members": 17214,
+        "favorites": 84,
+        "synopsis": "Keita Aono is an ordinary high school student who loves to chat with his friends about military technology and the girls in their class. One day, Keita is surprised and delighted by a new transfer student in his class, his childhood friend Hinoki Sai. But when Keita tries to catch up with Hinoki after school, he accidentally wanders into Bottom World—an underground amusement park whose opening was canceled due to an unexplained tragedy.\n\nAs Keita explores the area, he eventually finds Hinoki in the cockpit of a strange robot. She is here on behalf of Akamatsu Industries, a company contracted with the secretive international organization Mode Warp to investigate strange cases of violence worldwide. After joining Hinoki in the robot, the pair attempt to defend themselves against the various attractions of Bottom World, which have come to life and become violent. However, they are unable to escape until a man with transforming powers—dubbed \"Betterman\"—joins their struggle. Faced with an enemy he does not understand and a slew of mysterious new technology, Keita joins Akamatsu Industries in a fight against a force they call \"Algernon.\"\n\n[Written by MAL Rewrite]",
+        "background": "Betterman was released on DVD in North America in six volumes by Bandai Entertainment from June 4, 2002, to April 1, 2003.",
+        "season": "spring",
+        "year": 1999,
+        "broadcast": {
+            "day": "Fridays",
+            "time": "01:15",
+            "timezone": "Asia/Tokyo",
+            "string": "Fridays at 01:15 (JST)"
+        },
+        "producers": [
+            {
+                "mal_id": 123,
+                "type": "anime",
+                "name": "Victor Entertainment",
+                "url": "https://myanimelist.net/anime/producer/123/Victor_Entertainment"
+            }
+        ],
+        "licensors": [
+            {
+                "mal_id": 233,
+                "type": "anime",
+                "name": "Bandai Entertainment",
+                "url": "https://myanimelist.net/anime/producer/233/Bandai_Entertainment"
+            },
+            {
+                "mal_id": 376,
+                "type": "anime",
+                "name": "Sentai Filmworks",
+                "url": "https://myanimelist.net/anime/producer/376/Sentai_Filmworks"
+            }
+        ],
+        "studios": [
+            {
+                "mal_id": 14,
+                "type": "anime",
+                "name": "Sunrise",
+                "url": "https://myanimelist.net/anime/producer/14/Sunrise"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 2,
+                "type": "anime",
+                "name": "Adventure",
+                "url": "https://myanimelist.net/anime/genre/2/Adventure"
+            },
+            {
+                "mal_id": 8,
+                "type": "anime",
+                "name": "Drama",
+                "url": "https://myanimelist.net/anime/genre/8/Drama"
+            },
+            {
+                "mal_id": 14,
+                "type": "anime",
+                "name": "Horror",
+                "url": "https://myanimelist.net/anime/genre/14/Horror"
+            },
+            {
+                "mal_id": 7,
+                "type": "anime",
+                "name": "Mystery",
+                "url": "https://myanimelist.net/anime/genre/7/Mystery"
+            },
+            {
+                "mal_id": 24,
+                "type": "anime",
+                "name": "Sci-Fi",
+                "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [
+            {
+                "mal_id": 18,
+                "type": "anime",
+                "name": "Mecha",
+                "url": "https://myanimelist.net/anime/genre/18/Mecha"
+            },
+            {
+                "mal_id": 40,
+                "type": "anime",
+                "name": "Psychological",
+                "url": "https://myanimelist.net/anime/genre/40/Psychological"
+            }
+        ],
+        "demographics": [],
+        "relations": [
+            {
+                "relation": "Adaptation",
+                "entry": [
+                    {
+                        "mal_id": 113191,
+                        "type": "manga",
+                        "name": "Betterman",
+                        "url": "https://myanimelist.net/manga/113191/Betterman"
+                    }
+                ]
+            },
+            {
+                "relation": "Alternative Setting",
+                "entry": [
+                    {
+                        "mal_id": 4416,
+                        "type": "anime",
+                        "name": "Yuusha-Ou GaoGaiGar Final Grand Glorious Gathering",
+                        "url": "https://myanimelist.net/anime/4416/Yuusha-Ou_GaoGaiGar_Final_Grand_Glorious_Gathering"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [
+                "\"Yume No Kakera (ユメノカケラ)\" by Wuyontana"
+            ],
+            "endings": [
+                "1: \"Chin: Requiem (鎮-requiem-)\" by Mai",
+                "2: \"Dou: Revelation (導-revelation-)\" by Mai"
+            ]
+        },
+        "external": [
+            {
+                "name": "Official Site",
+                "url": "http://www.betterman.jp/"
+            },
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=745"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=350"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Betterman_(TV_series)"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": [
+        {
+            "mal_id": 1,
+            "url": null,
+            "title": "Darkness",
+            "title_japanese": "闇 -yami-",
+            "title_romanji": "Yami ",
+            "aired": "1999-04-02T00:00:00+00:00",
+            "score": 3.62,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1275483"
+        },
+        {
+            "mal_id": 2,
+            "url": null,
+            "title": "Voice",
+            "title_japanese": "声 -koe-",
+            "title_romanji": "Koe ",
+            "aired": "1999-04-09T00:00:00+00:00",
+            "score": 3.8,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1276041"
+        },
+        {
+            "mal_id": 3,
+            "url": null,
+            "title": "Sky",
+            "title_japanese": "宙 -sora-",
+            "title_romanji": "Sora ",
+            "aired": "1999-04-16T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1276051"
+        },
+        {
+            "mal_id": 4,
+            "url": null,
+            "title": "Awaken",
+            "title_japanese": "醒 -mezame-",
+            "title_romanji": "Mezame ",
+            "aired": "1999-04-23T00:00:00+00:00",
+            "score": 3.67,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1801303"
+        },
+        {
+            "mal_id": 5,
+            "url": null,
+            "title": "Hell",
+            "title_japanese": "冥 -zigoku-",
+            "title_romanji": "Jigoku ",
+            "aired": "1999-04-30T00:00:00+00:00",
+            "score": 4.5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1801307"
+        },
+        {
+            "mal_id": 6,
+            "url": null,
+            "title": "Echo",
+            "title_japanese": "六霊 -kodama-",
+            "title_romanji": "Kodama ",
+            "aired": "1999-05-07T00:00:00+00:00",
+            "score": 4.33,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1801454"
+        },
+        {
+            "mal_id": 7,
+            "url": null,
+            "title": "Forte",
+            "title_japanese": "力 -forte-",
+            "title_romanji": "Forte ",
+            "aired": "1999-05-14T00:00:00+00:00",
+            "score": 4.67,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1801457"
+        },
+        {
+            "mal_id": 8,
+            "url": null,
+            "title": "Poison",
+            "title_japanese": "毒 -doku-",
+            "title_romanji": "Doku ",
+            "aired": "1999-05-21T00:00:00+00:00",
+            "score": 4.33,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1801584"
+        },
+        {
+            "mal_id": 9,
+            "url": null,
+            "title": "Aqua",
+            "title_japanese": "海 -aqua-",
+            "title_romanji": "Aqua ",
+            "aired": "1999-05-28T00:00:00+00:00",
+            "score": 4.33,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1801586"
+        },
+        {
+            "mal_id": 10,
+            "url": null,
+            "title": "Worms",
+            "title_japanese": "蟲 -musi-",
+            "title_romanji": "Mushi ",
+            "aired": "1999-06-11T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1801703"
+        },
+        {
+            "mal_id": 11,
+            "url": null,
+            "title": "Nebula",
+            "title_japanese": "霧 -nebula-",
+            "title_romanji": "Nebula ",
+            "aired": "1999-06-18T00:00:00+00:00",
+            "score": 1.5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1282823"
+        },
+        {
+            "mal_id": 12,
+            "url": null,
+            "title": "Dragon",
+            "title_japanese": "龍 -dragon-",
+            "title_romanji": "Dragon ",
+            "aired": "1999-06-25T00:00:00+00:00",
+            "score": 4.67,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1801965"
+        },
+        {
+            "mal_id": 13,
+            "url": null,
+            "title": "Nectar",
+            "title_japanese": "蜜 -mitu-",
+            "title_romanji": "Mitsu ",
+            "aired": "1999-07-02T00:00:00+00:00",
+            "score": 5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1802095"
+        },
+        {
+            "mal_id": 14,
+            "url": null,
+            "title": "Soul",
+            "title_japanese": "魂 -kokoro-",
+            "title_romanji": "Kokoro ",
+            "aired": "1999-07-09T00:00:00+00:00",
+            "score": 4.5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1802098"
+        },
+        {
+            "mal_id": 15,
+            "url": null,
+            "title": "Shadow",
+            "title_japanese": "翳 -kage-",
+            "title_romanji": "Kage ",
+            "aired": "1999-07-16T00:00:00+00:00",
+            "score": 4.33,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=640615"
+        },
+        {
+            "mal_id": 16,
+            "url": null,
+            "title": "Revelation",
+            "title_japanese": "現 -ututu-",
+            "title_romanji": "Utsutsu ",
+            "aired": "1999-07-23T00:00:00+00:00",
+            "score": 4.5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1802355"
+        },
+        {
+            "mal_id": 17,
+            "url": null,
+            "title": "Dream",
+            "title_japanese": "夢 -yume-",
+            "title_romanji": "Yume ",
+            "aired": "1999-07-30T00:00:00+00:00",
+            "score": 5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1802872"
+        },
+        {
+            "mal_id": 18,
+            "url": null,
+            "title": "Hunger",
+            "title_japanese": "飢 -kawaki-",
+            "title_romanji": "Kawaki ",
+            "aired": "1999-08-06T00:00:00+00:00",
+            "score": 5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1287633"
+        },
+        {
+            "mal_id": 19,
+            "url": null,
+            "title": "Mirror",
+            "title_japanese": "鏡 -ituwari-",
+            "title_romanji": "Itsuwari ",
+            "aired": "1999-08-13T00:00:00+00:00",
+            "score": 5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1287635"
+        },
+        {
+            "mal_id": 20,
+            "url": null,
+            "title": "Trap",
+            "title_japanese": "罠 -wana-",
+            "title_romanji": "Wana ",
+            "aired": "1999-08-20T00:00:00+00:00",
+            "score": 5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1802525"
+        },
+        {
+            "mal_id": 21,
+            "url": null,
+            "title": "Death",
+            "title_japanese": "亡 -horobi-",
+            "title_romanji": "Horobi ",
+            "aired": "1999-08-27T00:00:00+00:00",
+            "score": 5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1802901"
+        },
+        {
+            "mal_id": 22,
+            "url": null,
+            "title": "Life",
+            "title_japanese": "生 -mogaki-",
+            "title_romanji": "Mogaki ",
+            "aired": "1999-09-03T00:00:00+00:00",
+            "score": 5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1803011"
+        },
+        {
+            "mal_id": 23,
+            "url": null,
+            "title": "Offering",
+            "title_japanese": "贄 -mitugi-",
+            "title_romanji": "Mitsugi ",
+            "aired": "1999-09-10T00:00:00+00:00",
+            "score": 5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1803124"
+        },
+        {
+            "mal_id": 24,
+            "url": null,
+            "title": "Departure",
+            "title_japanese": "死 -wakare-",
+            "title_romanji": "Wakare ",
+            "aired": "1999-09-17T00:00:00+00:00",
+            "score": 3,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1803128"
+        },
+        {
+            "mal_id": 25,
+            "url": null,
+            "title": "Memory",
+            "title_japanese": "脳 -kioku-",
+            "title_romanji": "Kioku ",
+            "aired": "1999-09-24T00:00:00+00:00",
+            "score": 5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1803188"
+        },
+        {
+            "mal_id": 26,
+            "url": null,
+            "title": "Nothingness",
+            "title_japanese": "-mu-",
+            "title_romanji": "Mu ",
+            "aired": "1999-10-01T00:00:00+00:00",
+            "score": 4.12,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=278402"
+        }
+    ]
+}

@@ -1,0 +1,152 @@
+{
+    "id": 3414,
+    "fetched_at": "Sun Dec 14 19:34:11 2025",
+    "metadata": {
+        "mal_id": 3414,
+        "url": "https://myanimelist.net/anime/3414/Hula_Kappa",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/8/80771.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/8/80771t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/8/80771l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/8/80771.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/8/80771t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/8/80771l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Hula Kappa"
+            },
+            {
+                "type": "Synonym",
+                "title": "Hula Kapper"
+            },
+            {
+                "type": "Synonym",
+                "title": "Furakappa"
+            },
+            {
+                "type": "Japanese",
+                "title": "フラカッパー"
+            }
+        ],
+        "title": "Hula Kappa",
+        "title_english": null,
+        "title_japanese": "フラカッパー",
+        "title_synonyms": [
+            "Hula Kapper",
+            "Furakappa"
+        ],
+        "type": "TV",
+        "source": "Original",
+        "episodes": 78,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "2006-04-01T00:00:00+00:00",
+            "to": "2006-12-21T00:00:00+00:00",
+            "prop": {
+                "from": {
+                    "day": 1,
+                    "month": 4,
+                    "year": 2006
+                },
+                "to": {
+                    "day": 21,
+                    "month": 12,
+                    "year": 2006
+                }
+            },
+            "string": "Apr 1, 2006 to Dec 21, 2006"
+        },
+        "duration": "3 min per ep",
+        "rating": "G - All Ages",
+        "score": null,
+        "scored_by": null,
+        "rank": 22171,
+        "popularity": 18100,
+        "members": 490,
+        "favorites": 1,
+        "synopsis": "Some sort of educationnal anime for children. A bit of humoristic.",
+        "background": "",
+        "season": "spring",
+        "year": 2006,
+        "broadcast": {
+            "day": null,
+            "time": null,
+            "timezone": null,
+            "string": "Unknown"
+        },
+        "producers": [],
+        "licensors": [],
+        "studios": [
+            {
+                "mal_id": 429,
+                "type": "anime",
+                "name": "Office AO",
+                "url": "https://myanimelist.net/anime/producer/429/Office_AO"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 4,
+                "type": "anime",
+                "name": "Comedy",
+                "url": "https://myanimelist.net/anime/genre/4/Comedy"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [],
+        "demographics": [],
+        "relations": [
+            {
+                "relation": "Sequel",
+                "entry": [
+                    {
+                        "mal_id": 34531,
+                        "type": "anime",
+                        "name": "Hula Kappa: Owakare-kai (2) Atarashii wo Tomodachi",
+                        "url": "https://myanimelist.net/anime/34531/Hula_Kappa__Owakare-kai_2_Atarashii_wo_Tomodachi"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [],
+            "endings": []
+        },
+        "external": [
+            {
+                "name": "Official Site",
+                "url": "http://www.office-ao.co.jp/kappa/kappa.html"
+            },
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=4323"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "http://ja.wikipedia.org/wiki/フラカッパー"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": []
+}

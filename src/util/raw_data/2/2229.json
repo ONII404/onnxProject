@@ -1,0 +1,792 @@
+{
+    "id": 2229,
+    "fetched_at": "Sun Dec 14 18:20:09 2025",
+    "metadata": {
+        "mal_id": 2229,
+        "url": "https://myanimelist.net/anime/2229/Dragon_Quest__Dai_no_Daibouken_TV",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1963/108416.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1963/108416t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1963/108416l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1963/108416.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1963/108416t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1963/108416l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Dragon Quest: Dai no Daibouken (TV)"
+            },
+            {
+                "type": "Synonym",
+                "title": "Dragon Quest: Dai's Great Adventure"
+            },
+            {
+                "type": "Synonym",
+                "title": "Dragon Quest: Adventure of Dai"
+            },
+            {
+                "type": "Japanese",
+                "title": "ドラゴンクエスト・ダイの大冒険"
+            },
+            {
+                "type": "English",
+                "title": "Dragon Quest: The Adventure of Dai"
+            }
+        ],
+        "title": "Dragon Quest: Dai no Daibouken (TV)",
+        "title_english": "Dragon Quest: The Adventure of Dai",
+        "title_japanese": "ドラゴンクエスト・ダイの大冒険",
+        "title_synonyms": [
+            "Dragon Quest: Dai's Great Adventure",
+            "Dragon Quest: Adventure of Dai"
+        ],
+        "type": "TV",
+        "source": "Manga",
+        "episodes": 46,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "1991-10-17T00:00:00+00:00",
+            "to": "1992-09-24T00:00:00+00:00",
+            "prop": {
+                "from": {
+                    "day": 17,
+                    "month": 10,
+                    "year": 1991
+                },
+                "to": {
+                    "day": 24,
+                    "month": 9,
+                    "year": 1992
+                }
+            },
+            "string": "Oct 17, 1991 to Sep 24, 1992"
+        },
+        "duration": "24 min per ep",
+        "rating": "G - All Ages",
+        "score": 7.56,
+        "scored_by": 11717,
+        "rank": 1787,
+        "popularity": 4832,
+        "members": 25966,
+        "favorites": 126,
+        "synopsis": "After the defeat of the demon lord Hadlar all of the monsters were unleashed from his evil will and moved to the island of Delmurin to live in peace. Dai is the only human living on the island. Having been raised by the kindly monster Brass, Dai's dream is to grow up to be a hero. He gets to become one when Hadlar is resurrected and the previous hero, Avan, comes to train Dai to help in the battle. But Hadlar, announcing that he now works for an even more powerful demon lord, comes to kill Avan. To save his students Avan uses a Self-Sacrifice spell to attack, but is unable to defeat Hadlar. When it seems that Dai and Avan's other student Pop are doomed a mark appears on Dai's forehead and he suddenly gains super powers and is able to fend off Hadlar. The two students then go off on a journey to avenge Avan and bring peace back to the world.\n\n(Source: ANN)",
+        "background": "",
+        "season": "fall",
+        "year": 1991,
+        "broadcast": {
+            "day": null,
+            "time": null,
+            "timezone": null,
+            "string": "Unknown"
+        },
+        "producers": [],
+        "licensors": [],
+        "studios": [
+            {
+                "mal_id": 18,
+                "type": "anime",
+                "name": "Toei Animation",
+                "url": "https://myanimelist.net/anime/producer/18/Toei_Animation"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 1,
+                "type": "anime",
+                "name": "Action",
+                "url": "https://myanimelist.net/anime/genre/1/Action"
+            },
+            {
+                "mal_id": 2,
+                "type": "anime",
+                "name": "Adventure",
+                "url": "https://myanimelist.net/anime/genre/2/Adventure"
+            },
+            {
+                "mal_id": 10,
+                "type": "anime",
+                "name": "Fantasy",
+                "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [],
+        "demographics": [
+            {
+                "mal_id": 27,
+                "type": "anime",
+                "name": "Shounen",
+                "url": "https://myanimelist.net/anime/genre/27/Shounen"
+            }
+        ],
+        "relations": [
+            {
+                "relation": "Prequel",
+                "entry": [
+                    {
+                        "mal_id": 2819,
+                        "type": "anime",
+                        "name": "Dragon Quest: Yuusha Abel Densetsu",
+                        "url": "https://myanimelist.net/anime/2819/Dragon_Quest__Yuusha_Abel_Densetsu"
+                    }
+                ]
+            },
+            {
+                "relation": "Adaptation",
+                "entry": [
+                    {
+                        "mal_id": 871,
+                        "type": "manga",
+                        "name": "Dragon Quest: Dai no Daibouken",
+                        "url": "https://myanimelist.net/manga/871/Dragon_Quest__Dai_no_Daibouken"
+                    }
+                ]
+            },
+            {
+                "relation": "Side Story",
+                "entry": [
+                    {
+                        "mal_id": 7436,
+                        "type": "anime",
+                        "name": "Dragon Quest: Dai no Daibouken Tachiagare!! Aban no Shito",
+                        "url": "https://myanimelist.net/anime/7436/Dragon_Quest__Dai_no_Daibouken_Tachiagare_Aban_no_Shito"
+                    },
+                    {
+                        "mal_id": 7364,
+                        "type": "anime",
+                        "name": "Dragon Quest: Dai no Daibouken Buchiyabure!! Shinsei 6 Daishougun",
+                        "url": "https://myanimelist.net/anime/7364/Dragon_Quest__Dai_no_Daibouken_Buchiyabure_Shinsei_6_Daishougun"
+                    }
+                ]
+            },
+            {
+                "relation": "Alternative Version",
+                "entry": [
+                    {
+                        "mal_id": 7435,
+                        "type": "anime",
+                        "name": "Dragon Quest: Dai no Daibouken",
+                        "url": "https://myanimelist.net/anime/7435/Dragon_Quest__Dai_no_Daibouken"
+                    },
+                    {
+                        "mal_id": 40906,
+                        "type": "anime",
+                        "name": "Dragon Quest: Dai no Daibouken (2020)",
+                        "url": "https://myanimelist.net/anime/40906/Dragon_Quest__Dai_no_Daibouken_2020"
+                    }
+                ]
+            },
+            {
+                "relation": "Other",
+                "entry": [
+                    {
+                        "mal_id": 39274,
+                        "type": "anime",
+                        "name": "Dragon Quest: Your Story",
+                        "url": "https://myanimelist.net/anime/39274/Dragon_Quest__Your_Story"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [
+                "\"Yuusha yo Isoge!!\" by Sugiyama Kouichi"
+            ],
+            "endings": [
+                "\"Kono Michi Waga Tabi (My Road, My Journey) (この道わが旅(My Road,My Journey)) by Dan Jirou"
+            ]
+        },
+        "external": [
+            {
+                "name": "Official Site",
+                "url": "http://www.toei-anim.co.jp/lineup/tv/dai_daiboken/"
+            },
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=1105"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=1521"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "http://en.wikipedia.org/wiki/Dragon_Quest:_Dai_no_Daibouken"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": [
+        {
+            "mal_id": 1,
+            "url": null,
+            "title": "I'm the Small Hero, Dai!!",
+            "title_japanese": "オレは小さな勇者ダイ‼",
+            "title_romanji": "Ore wa Chiisa na Yuusha Dai!! ",
+            "aired": "1991-10-17T00:00:00+00:00",
+            "score": 3.73,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1672093"
+        },
+        {
+            "mal_id": 2,
+            "url": null,
+            "title": "I Won't Let you Die, Princess Leona",
+            "title_japanese": "死なせてたまるかレオナ姫",
+            "title_romanji": "Shinasete Tamaru ka Leona Hime ",
+            "aired": "1991-10-24T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1802731"
+        },
+        {
+            "mal_id": 3,
+            "url": null,
+            "title": "Feel Anger, Dai! Shine, Dragon Crest!!",
+            "title_japanese": "怒れダイ!輝け竜の紋章!!",
+            "title_romanji": "Ikare Dai! Kagayake Dragon no Monshou!! ",
+            "aired": "1991-10-31T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 4,
+            "url": null,
+            "title": "The Hero's Tutor, Avan Appears",
+            "title_japanese": "者の家庭教師 アバン登場",
+            "title_romanji": "Yuusha no Kateikyoushi Aban Toujou ",
+            "aired": "1991-11-07T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1854020"
+        },
+        {
+            "mal_id": 5,
+            "url": null,
+            "title": "Avan Style Extreme Hero Training!!",
+            "title_japanese": "アバン流·勇者の超特訓‼",
+            "title_romanji": "Aban Ryuu: Yuusha no Chou-tokkun!! ",
+            "aired": "1991-11-14T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1727908"
+        },
+        {
+            "mal_id": 6,
+            "url": null,
+            "title": "The Dark Lord Hadlar, Appears! Land the Special Move, Wave Slash!!",
+            "title_japanese": "魔王ハドラー出現!キメろ必殺技海波斬‼",
+            "title_romanji": "Maou Hudler Shutsugen! Kimero Hissatsu Waza Uminami Kiri!! ",
+            "aired": "1991-11-21T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 7,
+            "url": null,
+            "title": "The Temporary License is My Proof of Graduating; Decisive Battle!! Hadlar VS Avan",
+            "title_japanese": "卒業の証は仮免、決戦‼ ハドラー対アバン",
+            "title_romanji": "Sotsugyou no Akashi wa Karimen, Kessen!! Hudler Tai Aban ",
+            "aired": "1991-11-28T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 8,
+            "url": null,
+            "title": "Avan Falls to Kamikazee!? Strike, Strash!!",
+            "title_japanese": "アバン自己犠牲呪文に散る!? 撃て·最高技‼",
+            "title_romanji": "Aban Megante ni Chiru!? Ute Strash!! ",
+            "aired": "1991-12-05T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1855375"
+        },
+        {
+            "mal_id": 9,
+            "url": null,
+            "title": "Goodbye Dermline island! Journeying on a Great Adventure!!\"",
+            "title_japanese": "さらばデルムリン島!大冒険への旅立ち‼",
+            "title_romanji": "Saraba Delmurin Shima! Daibouken e no Tabidachi!! ",
+            "aired": "1991-12-12T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 10,
+            "url": null,
+            "title": "Wandering in the Monster's Forest! The King of Beasts, Crocodine Appears",
+            "title_japanese": "さまよえる魔の森!獣王クロコダイン登場",
+            "title_romanji": "Samayoeru Ma no Mori! Kedamono Ou Crocodine Toujou ",
+            "aired": "1991-12-19T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1855810"
+        },
+        {
+            "mal_id": 11,
+            "url": null,
+            "title": "The Howling Void Axe! Repel it with an Avan Sword Style Technique",
+            "title_japanese": "うなる真空の斧!むかえ撃てアバン流刀殺法",
+            "title_romanji": "Unaru Shinkuu no Ono! Mukae Geki te Aban Ryuu Katanasatsubou ",
+            "aired": "1992-01-09T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 12,
+            "url": null,
+            "title": "The One We Call Our Teacher Avan, the Memories Left with the Magic Bullet Gun.",
+            "title_japanese": "我らが師アバン、魔弾銃に残された思い出",
+            "title_romanji": "Warera ga Shi Aban, Madan Gun ni Nokosareta Omoide ",
+            "aired": "1992-01-16T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 13,
+            "url": null,
+            "title": "The Ghost Bishop Zaboera's Trap: Eh!? The Fake Hero's party",
+            "title_japanese": "妖魔司教ザボエラの罠 あ!?ニセ勇者御一行様",
+            "title_romanji": "Youma Shikyou Zaboela no Wana A!? Nise Yuusha Goichigyou-sama ",
+            "aired": "1992-01-23T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 14,
+            "url": null,
+            "title": "The Hundred Beast Army's Blitz Attack!! Rescue Romos Kingdom From its Crisis!",
+            "title_japanese": "百獣魔団総進撃‼ ロモス王国の危機を救え!",
+            "title_romanji": "Hyakujuu Madan Soushingeki!! Romos Oukoku Kiki wo Sukue! ",
+            "aired": "1992-01-30T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 15,
+            "url": null,
+            "title": "Why? Brass Attacks Dai!! The Cowardly Ghost Bishop",
+            "title_japanese": "なぜ?ダイを襲うブラス‼ 卑劣なり妖魔司教",
+            "title_romanji": "Naze? Dai wo Osou Blas!! Hiretsu nari Youma Shikyou ",
+            "aired": "1992-02-06T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 16,
+            "url": null,
+            "title": "Muster Your Courage, Popp! A Fragment of Courage!!",
+            "title_japanese": "ふるい起こせポップ!ひとかけらの勇気を‼",
+            "title_romanji": "Furui Okose Pop! Hitokakera no Yuuki wo!! ",
+            "aired": "1992-02-13T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 17,
+            "url": null,
+            "title": "The Evil-crushing Spell that Brings Forth a Miracle!! Now it's Time for Friendship...",
+            "title_japanese": "奇跡を呼ぶ破邪呪文‼友情よいまここに...",
+            "title_romanji": "Kiseki wo Yobu Haja Jumon!! Juujou yo Ima Koko ni... ",
+            "aired": "1992-02-20T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1858343"
+        },
+        {
+            "mal_id": 18,
+            "url": null,
+            "title": "A Direct Hit from the Crest of Anger!! The Roaring King of Beasts, Crocodine",
+            "title_japanese": "怒りの紋章が直撃‼ ほえる獣王クロコダイン",
+            "title_romanji": "Ikari no Monshou ga Chokugeki!! Hoeru Kedamono Ou Crocodine ",
+            "aired": "1992-02-27T00:00:00+00:00",
+            "score": 5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1858463"
+        },
+        {
+            "mal_id": 19,
+            "url": null,
+            "title": "Cross the Ocean, Dai! The 6 Commanders of the Demon Lord's Army Gather",
+            "title_japanese": "海を渡れダイ!魔王軍6大軍団長集結",
+            "title_romanji": "Umi wo Watare Dai! Maougun 6 Taigun Danchou Shuuketsu!! ",
+            "aired": "1992-03-05T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 20,
+            "url": null,
+            "title": "A Frightening Enemy Appears!? The Demonic Swordsman, Hyunckel!",
+            "title_japanese": "恐るべき敵あらわる!? 魔剣戦士ヒュンケル!",
+            "title_romanji": "Osorubeki Teki Arawaru!? Ma Ken Senshi Hyunkel! ",
+            "aired": "1992-03-12T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 21,
+            "url": null,
+            "title": "Father's Enemy is Avan!? The Ultimate Black Sword of Hatred!!",
+            "title_japanese": "父の敵は·アバン!? 憎しみの黒き最強剣‼",
+            "title_romanji": "Chichi no Kataki wa Aban!? Nikushimi no Kuroki Saikyou Ken!! ",
+            "aired": "1992-03-19T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1859429"
+        },
+        {
+            "mal_id": 22,
+            "url": null,
+            "title": "The Fighting Spirits of Darkness! The Demon Puppet Grab attacks Dai!!",
+            "title_japanese": "暗黒闘気!”闘魔傀儡掌”がダイを襲う‼",
+            "title_romanji": "Ankoku Touki! \"Tou Ma Kairai Tanagokoro\" ga Dai wo Osou!! ",
+            "aired": "1992-03-26T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1859621"
+        },
+        {
+            "mal_id": 23,
+            "url": null,
+            "title": "Maam's Crisis! Work Together to Summon Lightning!!",
+            "title_japanese": "マァムの危機!力を合わせて稲妻を呼べ‼",
+            "title_romanji": "Mam no Kiki! Chikara wo Awasete Inazuma Yobe!! ",
+            "aired": "1992-04-16T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 24,
+            "url": null,
+            "title": "Rescue Maam! Infiltrate the Underground Demon Castle, The Maze of Death!!",
+            "title_japanese": "マァムを救え!地底魔城潜入·死の迷宮‼",
+            "title_romanji": "Mam wo Sukue! Chitei Ma Shiro Sennyuu Shi no Dungeon!! ",
+            "aired": "1992-04-23T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 25,
+            "url": null,
+            "title": "Thank you for... The memories... A Father's True Voice!!",
+            "title_japanese": "思い出を...ありがとう... 真実の父の声‼",
+            "title_romanji": "Omoide wo... Arigatou... Shinjitsu no Chichi no Koe!! ",
+            "aired": "1992-04-30T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 26,
+            "url": null,
+            "title": "Farewell Lonely Soldier Hyunckel!! Settle it with the Magic Sword",
+            "title_japanese": "さらば孤独の戦士ヒュンケル‼ 決着の魔法剣",
+            "title_romanji": "Saraba Kodoku no Senshi Hyunkel!! Kecchaku no Mahouken ",
+            "aired": "1992-05-07T00:00:00+00:00",
+            "score": 5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1860747"
+        },
+        {
+            "mal_id": 27,
+            "url": null,
+            "title": "The Ally From the Sky!! Dai, Hurry to Leona",
+            "title_japanese": "空から来た味方‼ ダイよ急げレオナのもとへ",
+            "title_romanji": "Sora kara Kita Mikata!! Dai yo Isoge Leona no Moto e ",
+            "aired": "1992-05-14T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 28,
+            "url": null,
+            "title": "I'll Protect Leona!! Showdown!! The Hero versus the Commander of Ice and Fire",
+            "title_japanese": "レオナはオレが守る‼ 対決‼勇者対氷炎将軍",
+            "title_romanji": "Leona wa Ore ga Mamoru! Taiketsu!! Yuusha Tai Hien Shougun ",
+            "aired": "1992-05-21T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 29,
+            "url": null,
+            "title": "The Ice and Fire Barrier!! Ah! Leona Becomes the Frozen Girl...",
+            "title_japanese": "氷炎結界!!ああ!　レオナが凍れる美女に…",
+            "title_romanji": "Hien Kekkai!! Aa! Leona ga Kooreru Bijo ni... ",
+            "aired": "1992-05-28T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 30,
+            "url": null,
+            "title": "Avan's Close Friend!? The Great Mage Matoriv's Great Training!!",
+            "title_japanese": "アバンの親友!? 大魔導士マトリフの大特訓‼",
+            "title_romanji": "Aban no Tomo!? Daimadoushi Matorif no Daitokkun!! ",
+            "aired": "1992-06-04T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 31,
+            "url": null,
+            "title": "The Rescue Mission for Leona! Landing on Valge Island",
+            "title_japanese": "レオナ救出作戦の始まりだ! バルジ島上陸‼",
+            "title_romanji": "Leona Kyuushutsu Sakusen no Hajimari Da! Baruji Shima Jouriku!! ",
+            "aired": "1992-06-11T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 32,
+            "url": null,
+            "title": "The Old Enemy Hadlar!! Popp, Stand and Face Him With Courage!!",
+            "title_japanese": "宿敵ハドラー‼ポップよ勇気で立ち向かえ‼",
+            "title_romanji": "Shukuteki Hudler!! Pop yo Yuuki de Tachimukae!! ",
+            "aired": "1992-06-18T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1862268"
+        },
+        {
+            "mal_id": 33,
+            "url": null,
+            "title": "The Soldier Has Returned!! Clash! Hyunckel vs. Hadlar",
+            "title_japanese": "戦士は復活した‼激突ヒュンケル対ハドラー",
+            "title_romanji": "Senshi wa Fukkatsu Shita!! Gekitou Hyunkel Tai Hudler ",
+            "aired": "1992-06-25T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 34,
+            "url": null,
+            "title": "The Radiance of Life! The Final Fighting Spirit, Pearly Gates!!",
+            "title_japanese": "いのちの輝き! 最終闘気·グランドクルス‼",
+            "title_romanji": "Inochi no Kagayaki! Saishuu Touki Grand Cross!! ",
+            "aired": "1992-07-02T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 35,
+            "url": null,
+            "title": "Flazzard's Tenacity Towards Victory! The Stormy Scattering Rock Bullet",
+            "title_japanese": "フレイザード勝利への執念! 嵐の弾岩爆花散",
+            "title_romanji": "Flazzard Shouri e no Shuunen! Arashi no Dangan Bakkazan ",
+            "aired": "1992-07-09T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 36,
+            "url": null,
+            "title": "Here it is! The Avan Style Final Secret Technique, Sky Slash!!",
+            "title_japanese": "でたっ! アバン流最後の奥義·空裂斬‼",
+            "title_romanji": "Deta! Aban Ryuu Saigo no Okugi Soraretsukiri ",
+            "aired": "1992-07-16T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 37,
+            "url": null,
+            "title": "Avan Strash!! Now... Slice everything...",
+            "title_japanese": "アバンストラッシュ‼ いま...すべてを斬る...",
+            "title_romanji": "Aban Strash!! Ima... Subete wo Kiru... ",
+            "aired": "1992-07-23T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 38,
+            "url": null,
+            "title": "The path of the disciples of Avan.. And Maam's decision",
+            "title_japanese": "アバンの使徒の道...そしてマァムの決意",
+            "title_romanji": "Aban no Shito no Michi... Soshite, Mam no Ketsui ",
+            "aired": "1992-07-30T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 39,
+            "url": null,
+            "title": "The wonderful comrade Maam, until we meet again...",
+            "title_japanese": "すばらしき仲間マァムよ、また会う日まで...",
+            "title_romanji": "Subarashiki Nakama Mam yo, Mata Au Hi made... ",
+            "aired": "1992-08-06T00:00:00+00:00",
+            "score": 5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1863887"
+        },
+        {
+            "mal_id": 40,
+            "url": null,
+            "title": "Shopping at Bengarna!! Lets go to the Department store.",
+            "title_japanese": "ベンガーナへ買い物だ‼ デパートへ行こう!",
+            "title_romanji": "Benganam e Kaimono Da!! Depaato e Ikou! ",
+            "aired": "1992-08-13T00:00:00+00:00",
+            "score": 5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1864055"
+        },
+        {
+            "mal_id": 41,
+            "url": null,
+            "title": "The super dragon army lands! Protect the town of Bengarna!!",
+            "title_japanese": "超竜軍団上陸!ベンガーナの街を守れ‼",
+            "title_romanji": "Chou Ryuu Gundan Jouriku! Benganam no Machi wo Mamore!! ",
+            "aired": "1992-08-20T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 42,
+            "url": null,
+            "title": "The Mystic Kingdom of Teran... The sleeping legend of the Dragon Knight!",
+            "title_japanese": "神秘の国テラン王国... 伝説に眠る竜の騎士!",
+            "title_romanji": "Shinpi no Kuni Teran Oukoku... Densetsu ni Nemuru Dragon no Kishi! ",
+            "aired": "1992-08-27T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 43,
+            "url": null,
+            "title": "The Dragon Commander Baran tells... The Dragon Knight's mission!",
+            "title_japanese": "竜騎将バランは語る...竜の騎士の使命!",
+            "title_romanji": "Ryuuki Shou Baran wa Kataru... Dragon no Kishi no Shimei! ",
+            "aired": "1992-09-03T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 44,
+            "url": null,
+            "title": "The bond between parent and child is a sad fate! The fight between father and child!!",
+            "title_japanese": "親子の絆は悲しき運命! 父と子の闘い‼",
+            "title_romanji": "Oyako no Kizuna wa Kanashiki Sadame! Chichi to Ko no Tatakai!! ",
+            "aired": "1992-09-10T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 45,
+            "url": null,
+            "title": "The strongest secret is the Dragon Fighting Spirit!? Protect our Dai!",
+            "title_japanese": "最強の秘密は竜闘気!? オレ達のダイを守れ!",
+            "title_romanji": "Saikyou no Himitsu wa Dragonic Aura!? Ore-tachi no Dai wo Mamore! ",
+            "aired": "1992-09-17T00:00:00+00:00",
+            "score": 5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1865329"
+        },
+        {
+            "mal_id": 46,
+            "url": null,
+            "title": "Stand up, Dai! The hero's path never ends!",
+            "title_japanese": "ダイよ立ち上がれ!勇者のみちは永遠に!",
+            "title_romanji": "Dai yo Tachiagare! Yuusha no Michi wa Eien ni! ",
+            "aired": "1992-09-24T00:00:00+00:00",
+            "score": 3.83,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2048405"
+        }
+    ]
+}

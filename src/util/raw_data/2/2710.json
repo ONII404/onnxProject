@@ -1,0 +1,162 @@
+{
+    "id": 2710,
+    "fetched_at": "Sun Dec 14 18:50:57 2025",
+    "metadata": {
+        "mal_id": 2710,
+        "url": "https://myanimelist.net/anime/2710/Nintama_Rantarou_Movie",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1320/134317.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1320/134317t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1320/134317l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1320/134317.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1320/134317t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1320/134317l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Nintama Rantarou Movie"
+            },
+            {
+                "type": "Synonym",
+                "title": "Eiga Nintama Rantarou"
+            },
+            {
+                "type": "Japanese",
+                "title": "映画　忍たま乱太郎"
+            }
+        ],
+        "title": "Nintama Rantarou Movie",
+        "title_english": null,
+        "title_japanese": "映画　忍たま乱太郎",
+        "title_synonyms": [
+            "Eiga Nintama Rantarou"
+        ],
+        "type": "Movie",
+        "source": "Unknown",
+        "episodes": 1,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "1996-06-29T00:00:00+00:00",
+            "to": null,
+            "prop": {
+                "from": {
+                    "day": 29,
+                    "month": 6,
+                    "year": 1996
+                },
+                "to": {
+                    "day": null,
+                    "month": null,
+                    "year": null
+                }
+            },
+            "string": "Jun 29, 1996"
+        },
+        "duration": "46 min",
+        "rating": "G - All Ages",
+        "score": 6.34,
+        "scored_by": 279,
+        "rank": 8275,
+        "popularity": 15308,
+        "members": 896,
+        "favorites": 2,
+        "synopsis": "In the movie, the Dokutake ninja steal a shipment of saltpeter from Shinbei's papa. They plan to use it to create medicine that will make them fly and become super-ninjas! Danzou, who's father was transporting the goods, stows away and is taken to the Dokutake's secret headquarters. When Shinbei informs the school, Yamada-sensei and Doi-sensei rush to help. But Hagumi decide to take matters into their own hands and try to rescue Danzou themselves. Things don't go according to plan, though, and soon they all need to be rescued too. Fortunately Rikichi, Yamada-sensei's cool son, is around to help out! In fact, before long everyone gets into the act! But can Rantarou and his friends stop Happousai before it's too late?\n\n(Source: AniDB)",
+        "background": "",
+        "season": null,
+        "year": null,
+        "broadcast": {
+            "day": null,
+            "time": null,
+            "timezone": null,
+            "string": null
+        },
+        "producers": [],
+        "licensors": [],
+        "studios": [
+            {
+                "mal_id": 30,
+                "type": "anime",
+                "name": "Ajia-do",
+                "url": "https://myanimelist.net/anime/producer/30/Ajia-do"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 4,
+                "type": "anime",
+                "name": "Comedy",
+                "url": "https://myanimelist.net/anime/genre/4/Comedy"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [],
+        "demographics": [
+            {
+                "mal_id": 27,
+                "type": "anime",
+                "name": "Shounen",
+                "url": "https://myanimelist.net/anime/genre/27/Shounen"
+            }
+        ],
+        "relations": [
+            {
+                "relation": "Parent Story",
+                "entry": [
+                    {
+                        "mal_id": 1199,
+                        "type": "anime",
+                        "name": "Nintama Rantarou",
+                        "url": "https://myanimelist.net/anime/1199/Nintama_Rantarou"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [
+                "\"Yuuki 100% (勇気100%)\" by Hikaru GENJI SUPER5"
+            ],
+            "endings": [
+                "\"Nin Nin Nintama Ondo (にんにん忍たま音頭)\" by SAY・S & Nintama Family"
+            ]
+        },
+        "external": [
+            {
+                "name": "Official Site",
+                "url": "http://www3.nhk.or.jp/anime/nintama/"
+            },
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=3640"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=11944"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "http://en.wikipedia.org/wiki/Nintama_Rantarou"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": []
+}

@@ -1,0 +1,163 @@
+{
+    "id": 2233,
+    "fetched_at": "Sun Dec 14 18:20:23 2025",
+    "metadata": {
+        "mal_id": 2233,
+        "url": "https://myanimelist.net/anime/2233/Ocha-ken__Chokotto_Monogatari",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/10/54633.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/10/54633t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/10/54633l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/10/54633.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/10/54633t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/10/54633l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Ocha-ken: Chokotto Monogatari"
+            },
+            {
+                "type": "Synonym",
+                "title": "Tea-dog"
+            },
+            {
+                "type": "Synonym",
+                "title": "Tea Dogs"
+            },
+            {
+                "type": "Japanese",
+                "title": "お茶犬 ちょこっとものがたり"
+            }
+        ],
+        "title": "Ocha-ken: Chokotto Monogatari",
+        "title_english": null,
+        "title_japanese": "お茶犬 ちょこっとものがたり",
+        "title_synonyms": [
+            "Tea-dog",
+            "Tea Dogs"
+        ],
+        "type": "TV",
+        "source": "Unknown",
+        "episodes": 26,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "2003-10-06T00:00:00+00:00",
+            "to": "2004-04-01T00:00:00+00:00",
+            "prop": {
+                "from": {
+                    "day": 6,
+                    "month": 10,
+                    "year": 2003
+                },
+                "to": {
+                    "day": 1,
+                    "month": 4,
+                    "year": 2004
+                }
+            },
+            "string": "Oct 6, 2003 to Apr 1, 2004"
+        },
+        "duration": "4 min per ep",
+        "rating": "G - All Ages",
+        "score": 6.29,
+        "scored_by": 530,
+        "rank": 8648,
+        "popularity": 13329,
+        "members": 1508,
+        "favorites": 8,
+        "synopsis": "Ocha-ken is a children's program about tea-dogs and tea-cats, each representing a different blend. The episodes are very short and geared to teaching the audience various values. The lesson, or moral of the episode is displayed at the end. \n\n(Source: AniDB)",
+        "background": "",
+        "season": "fall",
+        "year": 2003,
+        "broadcast": {
+            "day": null,
+            "time": null,
+            "timezone": null,
+            "string": "Unknown"
+        },
+        "producers": [
+            {
+                "mal_id": 285,
+                "type": "anime",
+                "name": "Four Some",
+                "url": "https://myanimelist.net/anime/producer/285/Four_Some"
+            }
+        ],
+        "licensors": [],
+        "studios": [],
+        "genres": [
+            {
+                "mal_id": 4,
+                "type": "anime",
+                "name": "Comedy",
+                "url": "https://myanimelist.net/anime/genre/4/Comedy"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [],
+        "demographics": [
+            {
+                "mal_id": 15,
+                "type": "anime",
+                "name": "Kids",
+                "url": "https://myanimelist.net/anime/genre/15/Kids"
+            }
+        ],
+        "relations": [
+            {
+                "relation": "Sequel",
+                "entry": [
+                    {
+                        "mal_id": 34358,
+                        "type": "anime",
+                        "name": "Ocha-ken: Hotto Monogatari",
+                        "url": "https://myanimelist.net/anime/34358/Ocha-ken__Hotto_Monogatari"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [
+                "\"'HO' toshiyo!\" by Mizuki Endou"
+            ],
+            "endings": [
+                "\"Ochaccha Ocha-ken ~Monbushou Shouka 'Chatsumi' Melody Yori~\" by the Ocha-ken Singers"
+            ]
+        },
+        "external": [
+            {
+                "name": "Official Site",
+                "url": "http://www.ocha-ken.com/pc_top.html"
+            },
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=1106"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=3015"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": []
+}

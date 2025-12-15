@@ -1,0 +1,209 @@
+{
+    "id": 4286,
+    "fetched_at": "Sun Dec 14 22:28:43 2025",
+    "metadata": {
+        "mal_id": 4286,
+        "url": "https://myanimelist.net/anime/4286/Bonobono_TV",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/3/65867.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/3/65867t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/3/65867l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/3/65867.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/3/65867t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/3/65867l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Bonobono (TV)"
+            },
+            {
+                "type": "Japanese",
+                "title": "ぼのぼの"
+            },
+            {
+                "type": "English",
+                "title": "Bonobono"
+            },
+            {
+                "type": "German",
+                "title": "Bono Bono"
+            },
+            {
+                "type": "Spanish",
+                "title": "Bono Bono"
+            },
+            {
+                "type": "French",
+                "title": "Bono Bono"
+            }
+        ],
+        "title": "Bonobono (TV)",
+        "title_english": "Bonobono",
+        "title_japanese": "ぼのぼの",
+        "title_synonyms": [],
+        "type": "TV",
+        "source": "4-koma manga",
+        "episodes": 48,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "1995-04-20T00:00:00+00:00",
+            "to": "1996-03-28T00:00:00+00:00",
+            "prop": {
+                "from": {
+                    "day": 20,
+                    "month": 4,
+                    "year": 1995
+                },
+                "to": {
+                    "day": 28,
+                    "month": 3,
+                    "year": 1996
+                }
+            },
+            "string": "Apr 20, 1995 to Mar 28, 1996"
+        },
+        "duration": "11 min per ep",
+        "rating": "G - All Ages",
+        "score": 6.74,
+        "scored_by": 826,
+        "rank": 5851,
+        "popularity": 12085,
+        "members": 2219,
+        "favorites": 10,
+        "synopsis": "A sea otter and his friends, a raccoon and squirrel, live and play together in the forest.",
+        "background": "",
+        "season": "spring",
+        "year": 1995,
+        "broadcast": {
+            "day": "Thursdays",
+            "time": "19:00",
+            "timezone": "Asia/Tokyo",
+            "string": "Thursdays at 19:00 (JST)"
+        },
+        "producers": [],
+        "licensors": [],
+        "studios": [
+            {
+                "mal_id": 86,
+                "type": "anime",
+                "name": "Group TAC",
+                "url": "https://myanimelist.net/anime/producer/86/Group_TAC"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 4,
+                "type": "anime",
+                "name": "Comedy",
+                "url": "https://myanimelist.net/anime/genre/4/Comedy"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [
+            {
+                "mal_id": 51,
+                "type": "anime",
+                "name": "Anthropomorphic",
+                "url": "https://myanimelist.net/anime/genre/51/Anthropomorphic"
+            }
+        ],
+        "demographics": [],
+        "relations": [
+            {
+                "relation": "Adaptation",
+                "entry": [
+                    {
+                        "mal_id": 96345,
+                        "type": "manga",
+                        "name": "Bonobono",
+                        "url": "https://myanimelist.net/manga/96345/Bonobono"
+                    }
+                ]
+            },
+            {
+                "relation": "Side Story",
+                "entry": [
+                    {
+                        "mal_id": 8417,
+                        "type": "anime",
+                        "name": "Bonobono (TV) Specials",
+                        "url": "https://myanimelist.net/anime/8417/Bonobono_TV_Specials"
+                    }
+                ]
+            },
+            {
+                "relation": "Alternative Version",
+                "entry": [
+                    {
+                        "mal_id": 8416,
+                        "type": "anime",
+                        "name": "Bonobono",
+                        "url": "https://myanimelist.net/anime/8416/Bonobono"
+                    },
+                    {
+                        "mal_id": 8403,
+                        "type": "anime",
+                        "name": "Bonobono: Kumomo no Ki no Koto",
+                        "url": "https://myanimelist.net/anime/8403/Bonobono__Kumomo_no_Ki_no_Koto"
+                    },
+                    {
+                        "mal_id": 32353,
+                        "type": "anime",
+                        "name": "Bonobono (TV 2016)",
+                        "url": "https://myanimelist.net/anime/32353/Bonobono_TV_2016"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [],
+            "endings": [
+                "1: \"Chikamichi Shitai (近道したい)\" by Kyouko Suga (eps 1-23,48)",
+                "2: \"LOVE, TWO LOVE\" by Kyouko Suga (eps 24-47)"
+            ]
+        },
+        "external": [
+            {
+                "name": "Official Site",
+                "url": "http://www.bonobono.jp/"
+            },
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=3548"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=1424"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "http://en.wikipedia.org/wiki/Bonobono"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "https://ja.wikipedia.org/wiki/ぼのぼの_(1995年のテレビアニメ)"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": []
+}

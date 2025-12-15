@@ -1,0 +1,949 @@
+{
+    "id": 1710,
+    "fetched_at": "Sun Dec 14 16:45:17 2025",
+    "metadata": {
+        "mal_id": 1710,
+        "url": "https://myanimelist.net/anime/1710/RockmanEXE",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/2/26575.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/2/26575t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/2/26575l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/2/26575.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/2/26575t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/2/26575l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Rockman.EXE"
+            },
+            {
+                "type": "Synonym",
+                "title": "Rockman EXE"
+            },
+            {
+                "type": "Synonym",
+                "title": "MegaMan: NT Warrior"
+            },
+            {
+                "type": "Japanese",
+                "title": "ロックマン エグゼ"
+            },
+            {
+                "type": "English",
+                "title": "MegaMan NT Warrior"
+            },
+            {
+                "type": "German",
+                "title": "MegaMan: NT Warrior Einklinken!"
+            },
+            {
+                "type": "French",
+                "title": "Megaman NT Warrior"
+            }
+        ],
+        "title": "Rockman.EXE",
+        "title_english": "MegaMan NT Warrior",
+        "title_japanese": "ロックマン エグゼ",
+        "title_synonyms": [
+            "Rockman EXE",
+            "MegaMan: NT Warrior"
+        ],
+        "type": "TV",
+        "source": "Game",
+        "episodes": 56,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "2002-03-04T00:00:00+00:00",
+            "to": "2003-03-31T00:00:00+00:00",
+            "prop": {
+                "from": {
+                    "day": 4,
+                    "month": 3,
+                    "year": 2002
+                },
+                "to": {
+                    "day": 31,
+                    "month": 3,
+                    "year": 2003
+                }
+            },
+            "string": "Mar 4, 2002 to Mar 31, 2003"
+        },
+        "duration": "23 min per ep",
+        "rating": "PG-13 - Teens 13 or older",
+        "score": 6.91,
+        "scored_by": 20971,
+        "rank": 4949,
+        "popularity": 3853,
+        "members": 42280,
+        "favorites": 160,
+        "synopsis": "In the year of 20XX, a young boy by the name of Netto Hikari receives a very special gift as he enters the 5th grade. His very own customized net navi, Rockman! Despite Rockman's small size and far more responsible personality, the two boys quickly become the best of friends. A net navi is designed to guide his operator from the inside of his or her PErsonal Terminal, or simply PET for short. Children and adults alike enjoy friendly \"Net Battles\", where they spar their navis against each other to prove their worth. \n \n(Source: Official Site)",
+        "background": "",
+        "season": "spring",
+        "year": 2002,
+        "broadcast": {
+            "day": "Mondays",
+            "time": "18:30",
+            "timezone": "Asia/Tokyo",
+            "string": "Mondays at 18:30 (JST)"
+        },
+        "producers": [
+            {
+                "mal_id": 16,
+                "type": "anime",
+                "name": "TV Tokyo",
+                "url": "https://myanimelist.net/anime/producer/16/TV_Tokyo"
+            },
+            {
+                "mal_id": 139,
+                "type": "anime",
+                "name": "Nihon Ad Systems",
+                "url": "https://myanimelist.net/anime/producer/139/Nihon_Ad_Systems"
+            },
+            {
+                "mal_id": 213,
+                "type": "anime",
+                "name": "Half H.P Studio",
+                "url": "https://myanimelist.net/anime/producer/213/Half_HP_Studio"
+            },
+            {
+                "mal_id": 3087,
+                "type": "anime",
+                "name": "Shogakukan Productions",
+                "url": "https://myanimelist.net/anime/producer/3087/Shogakukan_Productions"
+            }
+        ],
+        "licensors": [
+            {
+                "mal_id": 119,
+                "type": "anime",
+                "name": "VIZ Media",
+                "url": "https://myanimelist.net/anime/producer/119/VIZ_Media"
+            }
+        ],
+        "studios": [
+            {
+                "mal_id": 27,
+                "type": "anime",
+                "name": "Xebec",
+                "url": "https://myanimelist.net/anime/producer/27/Xebec"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 1,
+                "type": "anime",
+                "name": "Action",
+                "url": "https://myanimelist.net/anime/genre/1/Action"
+            },
+            {
+                "mal_id": 2,
+                "type": "anime",
+                "name": "Adventure",
+                "url": "https://myanimelist.net/anime/genre/2/Adventure"
+            },
+            {
+                "mal_id": 4,
+                "type": "anime",
+                "name": "Comedy",
+                "url": "https://myanimelist.net/anime/genre/4/Comedy"
+            },
+            {
+                "mal_id": 24,
+                "type": "anime",
+                "name": "Sci-Fi",
+                "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [
+            {
+                "mal_id": 79,
+                "type": "anime",
+                "name": "Video Game",
+                "url": "https://myanimelist.net/anime/genre/79/Video_Game"
+            }
+        ],
+        "demographics": [],
+        "relations": [
+            {
+                "relation": "Sequel",
+                "entry": [
+                    {
+                        "mal_id": 2108,
+                        "type": "anime",
+                        "name": "Rockman.EXE Axess",
+                        "url": "https://myanimelist.net/anime/2108/RockmanEXE_Axess"
+                    }
+                ]
+            },
+            {
+                "relation": "Adaptation",
+                "entry": [
+                    {
+                        "mal_id": 761,
+                        "type": "manga",
+                        "name": "Rockman EXE",
+                        "url": "https://myanimelist.net/manga/761/Rockman_EXE"
+                    },
+                    {
+                        "mal_id": 16702,
+                        "type": "manga",
+                        "name": "Battle Story Rockman.EXE",
+                        "url": "https://myanimelist.net/manga/16702/Battle_Story_RockmanEXE"
+                    }
+                ]
+            },
+            {
+                "relation": "Spin-Off",
+                "entry": [
+                    {
+                        "mal_id": 1854,
+                        "type": "anime",
+                        "name": "Rockman Hoshi ni Negai wo",
+                        "url": "https://myanimelist.net/anime/1854/Rockman_Hoshi_ni_Negai_wo"
+                    },
+                    {
+                        "mal_id": 2808,
+                        "type": "anime",
+                        "name": "Irregular Hunter X: The Day of Sigma",
+                        "url": "https://myanimelist.net/anime/2808/Irregular_Hunter_X__The_Day_of_Sigma"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [
+                "1: \"Kaze wo Tsukinukete\" by Jin Hashimoto"
+            ],
+            "endings": [
+                "1: \"Piece of Peace\" by Mika (eps 1-25)",
+                "2: \"begin the TRY\" by Showtaro Morikubo (eps 26-56)"
+            ]
+        },
+        "external": [
+            {
+                "name": "Official Site",
+                "url": "http://www.tv-tokyo.co.jp/anime/rockmanexe/"
+            },
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=146"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=2259"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "http://en.wikipedia.org/wiki/MegaMan_NT_Warrior"
+            },
+            {
+                "name": "Bangumi",
+                "url": "https://bangumi.tv/subject/5230"
+            },
+            {
+                "name": "Baidu Baike",
+                "url": "https://baike.baidu.com/item/%E6%B4%9B%E5%85%8B%E4%BA%BAexe/8660234"
+            },
+            {
+                "name": "Douban",
+                "url": "https://movie.douban.com/subject/1940788/"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": [
+        {
+            "mal_id": 1,
+            "url": null,
+            "title": "Jack In! MegaMan!",
+            "title_japanese": "プラグイン！ロックマン！",
+            "title_romanji": "Plug-in! Rockman! ",
+            "aired": "2002-03-04T00:00:00+00:00",
+            "score": 4.22,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=85988"
+        },
+        {
+            "mal_id": 2,
+            "url": null,
+            "title": "Subway Scramble!",
+            "title_japanese": "地下鉄大暴走！",
+            "title_romanji": "Chikatetsu Daibousou! ",
+            "aired": "2002-03-11T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=85989"
+        },
+        {
+            "mal_id": 3,
+            "url": null,
+            "title": "Traffic Signal Chaos!",
+            "title_japanese": "シグナルパニック！",
+            "title_romanji": "Signal Panic! ",
+            "aired": "2002-03-18T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=85990"
+        },
+        {
+            "mal_id": 4,
+            "url": null,
+            "title": "Count to Three!!",
+            "title_japanese": "三つ数えろ!!",
+            "title_romanji": "Mittsu Kazoero!! ",
+            "aired": "2002-03-25T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=85992"
+        },
+        {
+            "mal_id": 5,
+            "url": null,
+            "title": "Robotic Fish Gone Wild!",
+            "title_japanese": "暴走魚の挑戦！",
+            "title_romanji": "Bousougyo no Chousen! ",
+            "aired": "2002-04-01T00:00:00+00:00",
+            "score": 4.2,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=85993"
+        },
+        {
+            "mal_id": 6,
+            "url": null,
+            "title": "Ice Ice Baby!",
+            "title_japanese": "零下の熱闘！",
+            "title_romanji": "Reika no Nettou! ",
+            "aired": "2002-04-08T00:00:00+00:00",
+            "score": 4.19,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=86040"
+        },
+        {
+            "mal_id": 7,
+            "url": null,
+            "title": "Game Off!",
+            "title_japanese": "真夜中の決闘！",
+            "title_romanji": "Mayonaka no Kettou! ",
+            "aired": "2002-04-15T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=86129"
+        },
+        {
+            "mal_id": 8,
+            "url": null,
+            "title": "Hot Tempers!",
+            "title_japanese": "リベンジ　ファイアマン！",
+            "title_romanji": "Revenge Fireman! ",
+            "aired": "2002-04-22T00:00:00+00:00",
+            "score": 4.21,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=86204"
+        },
+        {
+            "mal_id": 9,
+            "url": null,
+            "title": "The Yoga Warrior!",
+            "title_japanese": "恐怖のヨガ戦士！",
+            "title_romanji": "Kyoufu no Yoga Senshi ",
+            "aired": "2002-04-29T00:00:00+00:00",
+            "score": 4.15,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=86236"
+        },
+        {
+            "mal_id": 10,
+            "url": null,
+            "title": "N1 Grand Prix!",
+            "title_japanese": "Ｎ１（エヌワン）グランプリ！",
+            "title_romanji": "N1 Grand Prix! ",
+            "aired": "2002-05-06T00:00:00+00:00",
+            "score": 3.8,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=86371"
+        },
+        {
+            "mal_id": 11,
+            "url": null,
+            "title": "Skullmania!",
+            "title_japanese": "見えざる敵！",
+            "title_romanji": "Miezaru Teki! ",
+            "aired": "2002-05-13T00:00:00+00:00",
+            "score": 4.25,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=86583"
+        },
+        {
+            "mal_id": 12,
+            "url": null,
+            "title": "Wacky Madness & Blazing Battles! (Part 1)",
+            "title_japanese": "激突! ピンクの火花!",
+            "title_romanji": "Gekitotsu! Pink no Hibana! ",
+            "aired": "2002-05-20T00:00:00+00:00",
+            "score": 3.9,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=617223"
+        },
+        {
+            "mal_id": 13,
+            "url": null,
+            "title": "Wacky Madness & Blazing Battles! (Part 2)",
+            "title_japanese": "灼熱のネットバトル！",
+            "title_romanji": "Shakunetsu no Net Battle! ",
+            "aired": "2002-05-27T00:00:00+00:00",
+            "score": 4.09,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=87518"
+        },
+        {
+            "mal_id": 14,
+            "url": null,
+            "title": "Street Fight!",
+            "title_japanese": "ストリートファイト！",
+            "title_romanji": "Street Fight! ",
+            "aired": "2002-06-03T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=87519"
+        },
+        {
+            "mal_id": 15,
+            "url": null,
+            "title": "The Legendary Program Advance!",
+            "title_japanese": "特訓！プログラムアドバンス！",
+            "title_romanji": "Tokkun! Program Advance! ",
+            "aired": "2002-06-17T00:00:00+00:00",
+            "score": 4.15,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=87520"
+        },
+        {
+            "mal_id": 16,
+            "url": null,
+            "title": "The Solo NetNavis!",
+            "title_japanese": "驚異のネットナビ！",
+            "title_romanji": "Kyoui no Net Navi! ",
+            "aired": "2002-06-24T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=618121"
+        },
+        {
+            "mal_id": 17,
+            "url": null,
+            "title": "Something's Fishy with Commander Beef!",
+            "title_japanese": "ビーフ司令の正体！",
+            "title_romanji": "Beef Shirei no Shoutai! ",
+            "aired": "2002-07-01T00:00:00+00:00",
+            "score": 4.38,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=618131"
+        },
+        {
+            "mal_id": 18,
+            "url": null,
+            "title": "Evil Empress Roll! (Part 1)",
+            "title_japanese": "暗躍！ワールドスリー！",
+            "title_romanji": "Anyaku! World Three! ",
+            "aired": "2002-07-08T00:00:00+00:00",
+            "score": 3.91,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=618679"
+        },
+        {
+            "mal_id": 19,
+            "url": null,
+            "title": "Evil Empress Roll! (Part 2)",
+            "title_japanese": "戦慄！悪魔チップ！",
+            "title_romanji": "Senritsu! Akuma Chip! ",
+            "aired": "2002-07-15T00:00:00+00:00",
+            "score": 4.5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2081591"
+        },
+        {
+            "mal_id": 20,
+            "url": null,
+            "title": "There's No \"I\" in Team! (Part 1)",
+            "title_japanese": "やいとちゃん危機一髪！",
+            "title_romanji": "Yaito-chan Kikiippatsu! ",
+            "aired": "2002-07-22T00:00:00+00:00",
+            "score": 4.27,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1405478"
+        },
+        {
+            "mal_id": 21,
+            "url": null,
+            "title": "There's No \"I\" in Team! (Part 2)",
+            "title_japanese": "最強タッグＢＲ旋風！",
+            "title_romanji": "Saikyou Tag BR Senpuu! ",
+            "aired": "2002-07-29T00:00:00+00:00",
+            "score": 4.71,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1405480"
+        },
+        {
+            "mal_id": 22,
+            "url": null,
+            "title": "That Sinking Feeling!",
+            "title_japanese": "ファイナルバトルのはてに",
+            "title_romanji": "Final Battle no Hate ni ",
+            "aired": "2002-08-05T00:00:00+00:00",
+            "score": 4.5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1405870"
+        },
+        {
+            "mal_id": 23,
+            "url": null,
+            "title": "PharaohMan Reborn!",
+            "title_japanese": "破滅の王　ファラオマン！",
+            "title_romanji": "Hakai no Ou Pharaohman! ",
+            "aired": "2002-08-12T00:00:00+00:00",
+            "score": 4.13,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1406251"
+        },
+        {
+            "mal_id": 24,
+            "url": null,
+            "title": "Rebuilding MegaMan!",
+            "title_japanese": "ロックマン復活作戦！",
+            "title_romanji": "Rockman Fukkatsu Sakusen! ",
+            "aired": "2002-08-19T00:00:00+00:00",
+            "score": 4.4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1406682"
+        },
+        {
+            "mal_id": 25,
+            "url": null,
+            "title": "MegaMan Lives!",
+            "title_japanese": "甦れ! ロックマン!",
+            "title_romanji": "Yomigaere! Rockman! ",
+            "aired": "2002-08-26T00:00:00+00:00",
+            "score": 4.29,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1406690"
+        },
+        {
+            "mal_id": 26,
+            "url": null,
+            "title": "Bizarre! Mystery of the Ghost Ship!",
+            "title_japanese": "怪奇！幽霊船の謎！",
+            "title_romanji": "Kaiki! Yuureisen no Nazo! ",
+            "aired": "2002-09-02T00:00:00+00:00",
+            "score": 4,
+            "filler": true,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1407000"
+        },
+        {
+            "mal_id": 27,
+            "url": null,
+            "title": "To Become an Idol!",
+            "title_japanese": "アイドルになります！",
+            "title_romanji": "Idol ni Narimasu! ",
+            "aired": "2002-09-09T00:00:00+00:00",
+            "score": 3.18,
+            "filler": true,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1407254"
+        },
+        {
+            "mal_id": 28,
+            "url": null,
+            "title": "MegaMan Stolen!",
+            "title_japanese": "盗まれたロックマン！",
+            "title_romanji": "Nusumareta Rockman! ",
+            "aired": "2002-09-16T00:00:00+00:00",
+            "score": 4.67,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1407571"
+        },
+        {
+            "mal_id": 29,
+            "url": null,
+            "title": "SnakeMan's Survival Seven",
+            "title_japanese": "毒ヘビマダムの罠！",
+            "title_romanji": "Dokuhebi Madam no Wana! ",
+            "aired": "2002-09-24T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1408339"
+        },
+        {
+            "mal_id": 30,
+            "url": null,
+            "title": "Don't Mess with Mama Zap!",
+            "title_japanese": "エレキママの電撃作戦！",
+            "title_romanji": "Elec Mama no Dengeki Sakusen! ",
+            "aired": "2002-09-30T00:00:00+00:00",
+            "score": 3.38,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1408625"
+        },
+        {
+            "mal_id": 31,
+            "url": null,
+            "title": "The Great Curry NetBattle",
+            "title_japanese": "華麗なるカレーバトル！",
+            "title_romanji": "Kareinaru Curry Battle! ",
+            "aired": "2002-10-07T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1408709"
+        },
+        {
+            "mal_id": 32,
+            "url": null,
+            "title": "Net City!",
+            "title_japanese": "ネットシティ",
+            "title_romanji": "Net City ",
+            "aired": "2002-10-14T00:00:00+00:00",
+            "score": 4.4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1409107"
+        },
+        {
+            "mal_id": 33,
+            "url": null,
+            "title": "The Virus Factory",
+            "title_japanese": "ウイルス工場をぶっ潰せ！",
+            "title_romanji": "Virus Koujou wo Buttsubuse! ",
+            "aired": "2002-10-21T00:00:00+00:00",
+            "score": 4.33,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1409478"
+        },
+        {
+            "mal_id": 34,
+            "url": null,
+            "title": "Electronic Money Panic!",
+            "title_japanese": "電子マネー大混乱！",
+            "title_romanji": "Denshi Money Daikonran! ",
+            "aired": "2002-10-28T00:00:00+00:00",
+            "score": 3.8,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1409488"
+        },
+        {
+            "mal_id": 35,
+            "url": null,
+            "title": "Countdown to Catastrophe!",
+            "title_japanese": "ダム決壊０秒前！",
+            "title_romanji": "Dam Kekkai 0 Byoumae! ",
+            "aired": "2002-11-04T00:00:00+00:00",
+            "score": 4.14,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1409765"
+        },
+        {
+            "mal_id": 36,
+            "url": null,
+            "title": "DenTech City's Deep Freeze!",
+            "title_japanese": "デンサンシティ南極化計画！",
+            "title_romanji": "Densan City Nankyokuka Keikaku! ",
+            "aired": "2002-11-11T00:00:00+00:00",
+            "score": 3.86,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1409847"
+        },
+        {
+            "mal_id": 37,
+            "url": null,
+            "title": "Crimson Flash!",
+            "title_japanese": "紅い閃光！",
+            "title_romanji": "Akai Senkou! ",
+            "aired": "2002-11-18T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1410445"
+        },
+        {
+            "mal_id": 38,
+            "url": null,
+            "title": "CutMan Brothers!",
+            "title_japanese": "ヘンに強いぞ！カットマンブラザーズ！",
+            "title_romanji": "Hen ni Tsuyoizo! Cutman Brothers! ",
+            "aired": "2002-11-25T00:00:00+00:00",
+            "score": 3.88,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1410812"
+        },
+        {
+            "mal_id": 39,
+            "url": null,
+            "title": "Guess Who's Coming to NetBattle!",
+            "title_japanese": "ぷりぷりプリンセス！",
+            "title_romanji": "Pretty Pretty Princess! ",
+            "aired": "2002-12-02T00:00:00+00:00",
+            "score": 4.57,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1411524"
+        },
+        {
+            "mal_id": 40,
+            "url": null,
+            "title": "Chess Mess!",
+            "title_japanese": "ばとったるねん！",
+            "title_romanji": "Batottaru nen! ",
+            "aired": "2002-12-09T00:00:00+00:00",
+            "score": 3.83,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1411622"
+        },
+        {
+            "mal_id": 41,
+            "url": null,
+            "title": "The Incredible Rush!",
+            "title_japanese": "名犬ラッシュ！",
+            "title_romanji": "Meiken Rush! ",
+            "aired": "2002-12-16T00:00:00+00:00",
+            "score": 3.57,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1411627"
+        },
+        {
+            "mal_id": 42,
+            "url": null,
+            "title": "Working for Grave",
+            "title_japanese": "転職先はゴスペル！",
+            "title_romanji": "Tenshokusaki wa Gospel! ",
+            "aired": "2002-12-23T00:00:00+00:00",
+            "score": 3.71,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1411894"
+        },
+        {
+            "mal_id": 43,
+            "url": null,
+            "title": "Take Me Out to the Ball Game!",
+            "title_japanese": "僕を野球に連れてって！",
+            "title_romanji": "Boku wo Yakyuu ni Tsuretette! ",
+            "aired": "2002-12-30T00:00:00+00:00",
+            "score": 3,
+            "filler": true,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1412276"
+        },
+        {
+            "mal_id": 44,
+            "url": null,
+            "title": "KnightMan's Betrayal!",
+            "title_japanese": "裏切りのナイトマン！",
+            "title_romanji": "Uragiri no Knightman! ",
+            "aired": "2003-01-06T00:00:00+00:00",
+            "score": 4.43,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1412380"
+        },
+        {
+            "mal_id": 45,
+            "url": null,
+            "title": "To the Moon!",
+            "title_japanese": "あの月へ行け！",
+            "title_romanji": "Ano Tsuki e Ike! ",
+            "aired": "2003-01-13T00:00:00+00:00",
+            "score": 3.83,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1412679"
+        },
+        {
+            "mal_id": 46,
+            "url": null,
+            "title": "Mr. Wily's Legacy!",
+            "title_japanese": "ワイリー博士の遺産！",
+            "title_romanji": "Wily-hakase no Isan! ",
+            "aired": "2003-01-20T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1413048"
+        },
+        {
+            "mal_id": 47,
+            "url": null,
+            "title": "The NetMobile Grand Prix!",
+            "title_japanese": "ネットモービルグランプリ！",
+            "title_romanji": "Net Mobile Grand Prix! ",
+            "aired": "2003-01-27T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1413158"
+        },
+        {
+            "mal_id": 48,
+            "url": null,
+            "title": "The VirusBeast!",
+            "title_japanese": "電脳の魔物！",
+            "title_romanji": "Dennou no Mamono! ",
+            "aired": "2003-02-03T00:00:00+00:00",
+            "score": 4.2,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1413498"
+        },
+        {
+            "mal_id": 49,
+            "url": null,
+            "title": "Grave",
+            "title_japanese": "ゴスペル",
+            "title_romanji": "Gospel ",
+            "aired": "2003-02-10T00:00:00+00:00",
+            "score": 4.5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1413841"
+        },
+        {
+            "mal_id": 50,
+            "url": null,
+            "title": "Bass",
+            "title_japanese": "フォルテ",
+            "title_romanji": "Forte ",
+            "aired": "2003-02-17T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1413874"
+        },
+        {
+            "mal_id": 51,
+            "url": null,
+            "title": "The End of the End!",
+            "title_japanese": "崩壊の刻",
+            "title_romanji": "Houkai no Koku! ",
+            "aired": "2003-02-24T00:00:00+00:00",
+            "score": 3.5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1414160"
+        },
+        {
+            "mal_id": 52,
+            "url": null,
+            "title": "Secret of the Ayanokouji House!",
+            "title_japanese": "綾小路家の秘密！",
+            "title_romanji": "Ayanokouji-ke no Himitsu! ",
+            "aired": "2003-03-03T00:00:00+00:00",
+            "score": 3.6,
+            "filler": true,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1414504"
+        },
+        {
+            "mal_id": 53,
+            "url": null,
+            "title": "NetBattle of the Hearts!",
+            "title_japanese": "ビーフ司令VS熱斗くん！",
+            "title_romanji": "Beef Shirei vs. Netto-kun! ",
+            "aired": "2003-03-10T00:00:00+00:00",
+            "score": 3.67,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1414840"
+        },
+        {
+            "mal_id": 54,
+            "url": null,
+            "title": "Chisao's in Town!",
+            "title_japanese": "チサオが町にやってきた！",
+            "title_romanji": "Chisao ga Machi ni Yatte Kita! ",
+            "aired": "2003-03-17T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1415213"
+        },
+        {
+            "mal_id": 55,
+            "url": null,
+            "title": "From Here to Revolutionary PETs",
+            "title_japanese": "ブルースの長い一日",
+            "title_romanji": "Blues no Nagai Ichinichi ",
+            "aired": "2003-03-24T00:00:00+00:00",
+            "score": 4.6,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1415308"
+        },
+        {
+            "mal_id": 56,
+            "url": null,
+            "title": "Virus Busters!",
+            "title_japanese": "ウィルスバスターズ！",
+            "title_romanji": "Virus Busters! ",
+            "aired": "2003-03-31T00:00:00+00:00",
+            "score": 4.4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1415315"
+        }
+    ]
+}

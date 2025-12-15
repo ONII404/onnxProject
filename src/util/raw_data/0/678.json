@@ -1,0 +1,558 @@
+{
+    "id": 678,
+    "fetched_at": "Sun Dec 14 13:59:24 2025",
+    "metadata": {
+        "mal_id": 678,
+        "url": "https://myanimelist.net/anime/678/Shadow_Skill__Eigi",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/4/61189.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/4/61189t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/4/61189l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/4/61189.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/4/61189t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/4/61189l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Shadow Skill: Eigi"
+            },
+            {
+                "type": "Synonym",
+                "title": "Shadow Skill (1998)"
+            },
+            {
+                "type": "Synonym",
+                "title": "Shadow Skill TV"
+            },
+            {
+                "type": "Japanese",
+                "title": "影技 SHADOW SKILL"
+            },
+            {
+                "type": "German",
+                "title": "Shadow Skill"
+            },
+            {
+                "type": "French",
+                "title": "Shadow Skill"
+            }
+        ],
+        "title": "Shadow Skill: Eigi",
+        "title_english": null,
+        "title_japanese": "影技 SHADOW SKILL",
+        "title_synonyms": [
+            "Shadow Skill (1998)",
+            "Shadow Skill TV"
+        ],
+        "type": "TV",
+        "source": "Manga",
+        "episodes": 26,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "1998-07-03T00:00:00+00:00",
+            "to": "1998-12-25T00:00:00+00:00",
+            "prop": {
+                "from": {
+                    "day": 3,
+                    "month": 7,
+                    "year": 1998
+                },
+                "to": {
+                    "day": 25,
+                    "month": 12,
+                    "year": 1998
+                }
+            },
+            "string": "Jul 3, 1998 to Dec 25, 1998"
+        },
+        "duration": "25 min per ep",
+        "rating": "PG-13 - Teens 13 or older",
+        "score": 7.06,
+        "scored_by": 5331,
+        "rank": 4244,
+        "popularity": 5764,
+        "members": 16583,
+        "favorites": 68,
+        "synopsis": "In the land of Kuruda, warriors with magical powers and incredible fighting skills battle for the ultimate prize: the title of Sevaar, the strongest warrior in the land. Elle Ragu, nicknamed Shadow Skill, is the newest Sevaar to emerge, but that doesn't make her life any easier. Teaching her \"little brother,\" Gau, how to be a warrior, fending off assassins from other kingdoms and thwarting enemy invasions is hard enough, but her biggest challenge will be paying off her drinking debts. \n\n(Source: ANN)",
+        "background": "",
+        "season": "summer",
+        "year": 1998,
+        "broadcast": {
+            "day": "Fridays",
+            "time": "01:15",
+            "timezone": "Asia/Tokyo",
+            "string": "Fridays at 01:15 (JST)"
+        },
+        "producers": [
+            {
+                "mal_id": 23,
+                "type": "anime",
+                "name": "Bandai Visual",
+                "url": "https://myanimelist.net/anime/producer/23/Bandai_Visual"
+            }
+        ],
+        "licensors": [
+            {
+                "mal_id": 97,
+                "type": "anime",
+                "name": "ADV Films",
+                "url": "https://myanimelist.net/anime/producer/97/ADV_Films"
+            },
+            {
+                "mal_id": 947,
+                "type": "anime",
+                "name": "Manga Entertainment",
+                "url": "https://myanimelist.net/anime/producer/947/Manga_Entertainment"
+            }
+        ],
+        "studios": [
+            {
+                "mal_id": 37,
+                "type": "anime",
+                "name": "Studio Deen",
+                "url": "https://myanimelist.net/anime/producer/37/Studio_Deen"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 1,
+                "type": "anime",
+                "name": "Action",
+                "url": "https://myanimelist.net/anime/genre/1/Action"
+            },
+            {
+                "mal_id": 2,
+                "type": "anime",
+                "name": "Adventure",
+                "url": "https://myanimelist.net/anime/genre/2/Adventure"
+            },
+            {
+                "mal_id": 8,
+                "type": "anime",
+                "name": "Drama",
+                "url": "https://myanimelist.net/anime/genre/8/Drama"
+            },
+            {
+                "mal_id": 10,
+                "type": "anime",
+                "name": "Fantasy",
+                "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [
+            {
+                "mal_id": 17,
+                "type": "anime",
+                "name": "Martial Arts",
+                "url": "https://myanimelist.net/anime/genre/17/Martial_Arts"
+            },
+            {
+                "mal_id": 31,
+                "type": "anime",
+                "name": "Super Power",
+                "url": "https://myanimelist.net/anime/genre/31/Super_Power"
+            }
+        ],
+        "demographics": [
+            {
+                "mal_id": 27,
+                "type": "anime",
+                "name": "Shounen",
+                "url": "https://myanimelist.net/anime/genre/27/Shounen"
+            }
+        ],
+        "relations": [
+            {
+                "relation": "Prequel",
+                "entry": [
+                    {
+                        "mal_id": 3005,
+                        "type": "anime",
+                        "name": "Shadow Skill",
+                        "url": "https://myanimelist.net/anime/3005/Shadow_Skill"
+                    }
+                ]
+            },
+            {
+                "relation": "Adaptation",
+                "entry": [
+                    {
+                        "mal_id": 10220,
+                        "type": "manga",
+                        "name": "Shadow Skill",
+                        "url": "https://myanimelist.net/manga/10220/Shadow_Skill"
+                    }
+                ]
+            },
+            {
+                "relation": "Alternative Version",
+                "entry": [
+                    {
+                        "mal_id": 679,
+                        "type": "anime",
+                        "name": "Shadow Skill (1996)",
+                        "url": "https://myanimelist.net/anime/679/Shadow_Skill_1996"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [
+                "\"Born Legend\" by Kasumi"
+            ],
+            "endings": [
+                "1: \"Last Quarter\" by Princess Purin",
+                "2: \"For My Pride\" by Spirit Level"
+            ]
+        },
+        "external": [
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=42"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=729"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "http://en.wikipedia.org/wiki/Shadow_Skill"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": [
+        {
+            "mal_id": 1,
+            "url": null,
+            "title": "The Power of My Blow has No Equal!",
+            "title_japanese": "我が一撃は無敵なり",
+            "title_romanji": "Waga Ichigeki wa Muteki Nari ",
+            "aired": "1998-07-03T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=739487"
+        },
+        {
+            "mal_id": 2,
+            "url": null,
+            "title": "Duelists",
+            "title_japanese": "決闘者たち",
+            "title_romanji": "Kettousha-tachi ",
+            "aired": "1998-07-10T00:00:00+00:00",
+            "score": 4.5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=493737"
+        },
+        {
+            "mal_id": 3,
+            "url": null,
+            "title": "Phantom's Keepsake",
+            "title_japanese": "ファントムの忘れ形見",
+            "title_romanji": "Phantom no Wasuregatami ",
+            "aired": "1998-07-17T00:00:00+00:00",
+            "score": 4.5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=739681"
+        },
+        {
+            "mal_id": 4,
+            "url": null,
+            "title": "What My Father Left Me",
+            "title_japanese": "父が遺したもの",
+            "title_romanji": "Chichi ga Nokoshita Mono ",
+            "aired": "1998-07-24T00:00:00+00:00",
+            "score": 4.29,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=739709"
+        },
+        {
+            "mal_id": 5,
+            "url": null,
+            "title": "Proud Battlefield",
+            "title_japanese": "誇り高き戦場",
+            "title_romanji": "Hokoritakaki Senjou ",
+            "aired": "1998-07-31T00:00:00+00:00",
+            "score": 4.5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=739727"
+        },
+        {
+            "mal_id": 6,
+            "url": null,
+            "title": "White and Black Flash",
+            "title_japanese": "白と黒の閃光",
+            "title_romanji": "Shiro to Kuro no Senkou ",
+            "aired": "1998-08-07T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=739737"
+        },
+        {
+            "mal_id": 7,
+            "url": null,
+            "title": "Destined Confrontation",
+            "title_japanese": "宿命の対決",
+            "title_romanji": "Shukumei no Taiketsu ",
+            "aired": "1998-08-14T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=742345"
+        },
+        {
+            "mal_id": 8,
+            "url": null,
+            "title": "Dangerous Human Weapon. To the North",
+            "title_japanese": "人間凶器.北へ",
+            "title_romanji": "Ningen Kyouki. Kita e ",
+            "aired": "1998-08-21T00:00:00+00:00",
+            "score": 4.5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=493831"
+        },
+        {
+            "mal_id": 9,
+            "url": null,
+            "title": "Violent Bombing of the Holy City",
+            "title_japanese": "聖都爆烈す",
+            "title_romanji": "Seito Bakuretsusu ",
+            "aired": "1998-08-28T00:00:00+00:00",
+            "score": 4.67,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=742699"
+        },
+        {
+            "mal_id": 10,
+            "url": null,
+            "title": "Clash of White and Black",
+            "title_japanese": "白と黒の激突",
+            "title_romanji": "Shiro to Kuro no Shoutotsu ",
+            "aired": "1998-09-04T00:00:00+00:00",
+            "score": 5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=493863"
+        },
+        {
+            "mal_id": 11,
+            "url": null,
+            "title": "Invasion",
+            "title_japanese": "侵攻",
+            "title_romanji": "Shinkou ",
+            "aired": "1998-09-11T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=742777"
+        },
+        {
+            "mal_id": 12,
+            "url": null,
+            "title": "Black Howling",
+            "title_japanese": "黒き咆哮",
+            "title_romanji": "Kuroki Houkou ",
+            "aired": "1998-09-18T00:00:00+00:00",
+            "score": 4.2,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=742915"
+        },
+        {
+            "mal_id": 13,
+            "url": null,
+            "title": "With the Heart of a Friend",
+            "title_japanese": "友の心とともに",
+            "title_romanji": "Tomo no Kokoro to Tomo ni ",
+            "aired": "1998-09-25T00:00:00+00:00",
+            "score": 3.4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=742965"
+        },
+        {
+            "mal_id": 14,
+            "url": null,
+            "title": "The Temple of Moonlight",
+            "title_japanese": "月影神殿",
+            "title_romanji": "Tsukikage Shinden ",
+            "aired": "1998-10-02T00:00:00+00:00",
+            "score": 3.63,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=743165"
+        },
+        {
+            "mal_id": 15,
+            "url": null,
+            "title": "Ghost",
+            "title_japanese": "亡霊",
+            "title_romanji": "Bourei ",
+            "aired": "1998-10-09T00:00:00+00:00",
+            "score": 3.33,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=743259"
+        },
+        {
+            "mal_id": 16,
+            "url": null,
+            "title": "An Attacker From the Past",
+            "title_japanese": "過去からの襲撃者",
+            "title_romanji": "Kako kara no Shuugekisha ",
+            "aired": "1998-10-16T00:00:00+00:00",
+            "score": 5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=493889"
+        },
+        {
+            "mal_id": 17,
+            "url": null,
+            "title": "Crimson",
+            "title_japanese": "紅蓮",
+            "title_romanji": "Guren ",
+            "aired": "1998-10-23T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=743429"
+        },
+        {
+            "mal_id": 18,
+            "url": null,
+            "title": "The Seventh Dawn",
+            "title_japanese": "第七の暁",
+            "title_romanji": "Dainana no Akatsuki ",
+            "aired": "1998-10-30T00:00:00+00:00",
+            "score": 3.5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2059091"
+        },
+        {
+            "mal_id": 19,
+            "url": null,
+            "title": "Fang, 2nd Generation",
+            "title_japanese": "牙、二代",
+            "title_romanji": "Kiba, Nidai ",
+            "aired": "1998-11-06T00:00:00+00:00",
+            "score": 4.5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=744035"
+        },
+        {
+            "mal_id": 20,
+            "url": null,
+            "title": "Darkness and Death",
+            "title_japanese": "闇と死と",
+            "title_romanji": "Yami to Shi to ",
+            "aired": "1998-11-13T00:00:00+00:00",
+            "score": 3.67,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=744109"
+        },
+        {
+            "mal_id": 21,
+            "url": null,
+            "title": "Cannon",
+            "title_japanese": "神音-カノン-",
+            "title_romanji": "Kanon ",
+            "aired": "1998-11-20T00:00:00+00:00",
+            "score": 5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=744165"
+        },
+        {
+            "mal_id": 22,
+            "url": null,
+            "title": "Older Sister, Younger Brother",
+            "title_japanese": "あね、おとうと",
+            "title_romanji": "Ane, Otouto ",
+            "aired": "1998-11-27T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=493949"
+        },
+        {
+            "mal_id": 23,
+            "url": null,
+            "title": "Prepare Yourself",
+            "title_japanese": "覚悟を決めろ",
+            "title_romanji": "Kakugo wo Kimero ",
+            "aired": "1998-12-04T00:00:00+00:00",
+            "score": 3.33,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=744271"
+        },
+        {
+            "mal_id": 24,
+            "url": null,
+            "title": "Fist of God",
+            "title_japanese": "神の拳",
+            "title_romanji": "Kami no Kobushi ",
+            "aired": "1998-12-11T00:00:00+00:00",
+            "score": 2.75,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=744369"
+        },
+        {
+            "mal_id": 25,
+            "url": null,
+            "title": "Ying-style Demon",
+            "title_japanese": "陰流の魔徒",
+            "title_romanji": "Kage Ryuu no Mato ",
+            "aired": "1998-12-18T00:00:00+00:00",
+            "score": 3.33,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=744383"
+        },
+        {
+            "mal_id": 26,
+            "url": null,
+            "title": "Path of a Sevaar",
+            "title_japanese": "修練闘士[セヴァール]への道",
+            "title_romanji": "Sevaar e no Michi ",
+            "aired": "1998-12-25T00:00:00+00:00",
+            "score": 4.5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=744403"
+        }
+    ]
+}

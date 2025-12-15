@@ -1,0 +1,605 @@
+{
+    "id": 754,
+    "fetched_at": "Sun Dec 14 14:04:42 2025",
+    "metadata": {
+        "mal_id": 754,
+        "url": "https://myanimelist.net/anime/754/Yuki_no_Joou_TV",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/2/26180.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/2/26180t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/2/26180l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/2/26180.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/2/26180t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/2/26180l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Yuki no Joou (TV)"
+            },
+            {
+                "type": "Synonym",
+                "title": "Yuki no Jo-Oh"
+            },
+            {
+                "type": "Japanese",
+                "title": "雪の女王"
+            },
+            {
+                "type": "English",
+                "title": "The Snow Queen"
+            }
+        ],
+        "title": "Yuki no Joou (TV)",
+        "title_english": "The Snow Queen",
+        "title_japanese": "雪の女王",
+        "title_synonyms": [
+            "Yuki no Jo-Oh"
+        ],
+        "type": "TV",
+        "source": "Book",
+        "episodes": 36,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "2005-05-22T00:00:00+00:00",
+            "to": "2006-02-12T00:00:00+00:00",
+            "prop": {
+                "from": {
+                    "day": 22,
+                    "month": 5,
+                    "year": 2005
+                },
+                "to": {
+                    "day": 12,
+                    "month": 2,
+                    "year": 2006
+                }
+            },
+            "string": "May 22, 2005 to Feb 12, 2006"
+        },
+        "duration": "25 min per ep",
+        "rating": "PG - Children",
+        "score": 6.96,
+        "scored_by": 1330,
+        "rank": 4738,
+        "popularity": 9208,
+        "members": 5182,
+        "favorites": 15,
+        "synopsis": "Based on the children's story by Hans Christian Andersen. \n\nGerda and Kai have been neighbors and best friends since childhood. Gerda is eleven, Kai twelve. They were happy children who worked and played as they should. All that changed when the Snow Queen's mirror broke. The shards spread all through the world, each containing evil. If a shard went inside your eye, it would turn your heart to ice. A shard went into Kai's eye. After that, he grew cold to those he loved. \n\nOne night, the Snow Queen came in her carriage and took Kai back to her ice castle at the farthest north point of the world. Everyone in Kai and Gerda's village didn't know where he went and believed he died from drowning in the frozen-over lake. Gerda doesn't believe this, for she dreamed of seeing Kai enter the carriage. When a drunk man admits that he also saw this, Gerda starts realizing that maybe what she saw wasn't a dream. She packs her things and goes on a journey to save Kai and bring him back home. \n\n(Source: Wikipedia)",
+        "background": "Yuki no Joou was created in celebration of 200 years since Hans Christian Andersen's birth. Apart from \"The Snow Queen\", it adapts a number of his other tales, such as \"The Red Shoes\", \"The Little Match Girl\", and \"The Little Mermaid\".",
+        "season": "spring",
+        "year": 2005,
+        "broadcast": {
+            "day": "Sundays",
+            "time": "19:30",
+            "timezone": "Asia/Tokyo",
+            "string": "Sundays at 19:30 (JST)"
+        },
+        "producers": [
+            {
+                "mal_id": 111,
+                "type": "anime",
+                "name": "NHK",
+                "url": "https://myanimelist.net/anime/producer/111/NHK"
+            },
+            {
+                "mal_id": 1797,
+                "type": "anime",
+                "name": "NHK Enterprises",
+                "url": "https://myanimelist.net/anime/producer/1797/NHK_Enterprises"
+            }
+        ],
+        "licensors": [],
+        "studios": [
+            {
+                "mal_id": 73,
+                "type": "anime",
+                "name": "TMS Entertainment",
+                "url": "https://myanimelist.net/anime/producer/73/TMS_Entertainment"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 2,
+                "type": "anime",
+                "name": "Adventure",
+                "url": "https://myanimelist.net/anime/genre/2/Adventure"
+            },
+            {
+                "mal_id": 8,
+                "type": "anime",
+                "name": "Drama",
+                "url": "https://myanimelist.net/anime/genre/8/Drama"
+            },
+            {
+                "mal_id": 10,
+                "type": "anime",
+                "name": "Fantasy",
+                "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [],
+        "demographics": [],
+        "relations": [
+            {
+                "relation": "Alternative Version",
+                "entry": [
+                    {
+                        "mal_id": 34946,
+                        "type": "anime",
+                        "name": "Yuki no Joou",
+                        "url": "https://myanimelist.net/anime/34946/Yuki_no_Joou"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [
+                "\"Snow Diamond\" by Mariko Chisumi"
+            ],
+            "endings": [
+                "\"Daisuki na kimi ni\" by Kazumasa Oda"
+            ]
+        },
+        "external": [
+            {
+                "name": "Official Site",
+                "url": "http://www3.nhk.or.jp/anime/snowqueen/"
+            },
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=2828"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=5363"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "http://en.wikipedia.org/wiki/The_Snow_Queen_(anime)"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": [
+        {
+            "mal_id": 1,
+            "url": null,
+            "title": "Gerda and Kai",
+            "title_japanese": "ゲルダとカイ",
+            "title_romanji": "Gerda to Kai ",
+            "aired": "2005-05-22T00:00:00+00:00",
+            "score": 4.33,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1503289"
+        },
+        {
+            "mal_id": 2,
+            "url": null,
+            "title": "Streets of Aurora",
+            "title_japanese": "オーロラの街",
+            "title_romanji": "Aurora no Machi ",
+            "aired": "2005-05-29T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1503295"
+        },
+        {
+            "mal_id": 3,
+            "url": null,
+            "title": "Fragments of the Mirror",
+            "title_japanese": "鏡のかけら",
+            "title_romanji": "Kagami no Kakera ",
+            "aired": "2005-06-05T00:00:00+00:00",
+            "score": 5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1503526"
+        },
+        {
+            "mal_id": 4,
+            "url": null,
+            "title": "Start of a Journey",
+            "title_japanese": "旅立ち",
+            "title_romanji": "Tabidachi ",
+            "aired": "2005-06-12T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1503527"
+        },
+        {
+            "mal_id": 5,
+            "url": null,
+            "title": "First Road",
+            "title_japanese": "初めての道",
+            "title_romanji": "Hajimete no Michi ",
+            "aired": "2005-06-19T00:00:00+00:00",
+            "score": 4.33,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1237519"
+        },
+        {
+            "mal_id": 6,
+            "url": null,
+            "title": "The Pea and the Girl",
+            "title_japanese": "えんどう豆と少女",
+            "title_romanji": "Endoumame to Shoujo ",
+            "aired": "2005-06-26T00:00:00+00:00",
+            "score": 5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1237539"
+        },
+        {
+            "mal_id": 7,
+            "url": null,
+            "title": "The Nasty King",
+            "title_japanese": "悪い王様",
+            "title_romanji": "Warui Ou-sama ",
+            "aired": "2005-07-03T00:00:00+00:00",
+            "score": 5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1239423"
+        },
+        {
+            "mal_id": 8,
+            "url": null,
+            "title": "Garden Magic",
+            "title_japanese": "花園の魔法使い",
+            "title_romanji": "Hanazono no Mahou Tsukai ",
+            "aired": "2005-07-10T00:00:00+00:00",
+            "score": 5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1251881"
+        },
+        {
+            "mal_id": 9,
+            "url": null,
+            "title": "The Rose Fairy",
+            "title_japanese": "バラの妖精",
+            "title_romanji": "Bara no Yousei ",
+            "aired": "2005-07-17T00:00:00+00:00",
+            "score": 5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1295051"
+        },
+        {
+            "mal_id": 10,
+            "url": null,
+            "title": "Claus's Dream",
+            "title_japanese": "クラウスの夢",
+            "title_romanji": "Kuraudo no Yume ",
+            "aired": "2005-07-24T00:00:00+00:00",
+            "score": 5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1295067"
+        },
+        {
+            "mal_id": 11,
+            "url": null,
+            "title": "Red Shoes",
+            "title_japanese": "赤い靴",
+            "title_romanji": "Akai Kutsu ",
+            "aired": "2005-07-31T00:00:00+00:00",
+            "score": 3,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1300153"
+        },
+        {
+            "mal_id": 12,
+            "url": null,
+            "title": "The Lucky Pear Tree",
+            "title_japanese": "幸運の梨の木",
+            "title_romanji": "Kooun no Nashi no Ki ",
+            "aired": "2005-08-07T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1300165"
+        },
+        {
+            "mal_id": 13,
+            "url": null,
+            "title": "The White Carriage",
+            "title_japanese": "白い馬車",
+            "title_romanji": "Shiroi Basha ",
+            "aired": "2005-08-14T00:00:00+00:00",
+            "score": 5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1300221"
+        },
+        {
+            "mal_id": 14,
+            "url": null,
+            "title": "The Road",
+            "title_japanese": "道づれ",
+            "title_romanji": "Michizure ",
+            "aired": "2005-08-21T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1300741"
+        },
+        {
+            "mal_id": 15,
+            "url": null,
+            "title": "Han's Challenge",
+            "title_japanese": "ハンスの挑戦",
+            "title_romanji": "Hansu no Chousen ",
+            "aired": "2005-08-28T00:00:00+00:00",
+            "score": 5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1302137"
+        },
+        {
+            "mal_id": 16,
+            "url": null,
+            "title": "The Wandering Poet, Ragi",
+            "title_japanese": "吟遊詩人ラギ",
+            "title_romanji": "Ginyuushijin Ragi ",
+            "aired": "2005-09-04T00:00:00+00:00",
+            "score": 5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1330399"
+        },
+        {
+            "mal_id": 17,
+            "url": null,
+            "title": "That Woman is Useless",
+            "title_japanese": "あの女はろくでなし",
+            "title_romanji": "Ano Onna wa Roku de Nashi ",
+            "aired": "2005-09-18T00:00:00+00:00",
+            "score": 5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1330409"
+        },
+        {
+            "mal_id": 18,
+            "url": null,
+            "title": "To the Sea of Ice",
+            "title_japanese": "氷の海へ",
+            "title_romanji": "Koori no Umi e ",
+            "aired": "2005-09-25T00:00:00+00:00",
+            "score": 2,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1355373"
+        },
+        {
+            "mal_id": 19,
+            "url": null,
+            "title": "Matchstick Girl",
+            "title_japanese": "マッチ売りの少女",
+            "title_romanji": "Match Uri no Shoujo ",
+            "aired": "2005-10-02T00:00:00+00:00",
+            "score": 5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1355375"
+        },
+        {
+            "mal_id": 20,
+            "url": null,
+            "title": "A Letter to Kai",
+            "title_japanese": "カイへの手紙",
+            "title_romanji": "Kai e no Tegami ",
+            "aired": "2005-10-09T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": true,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1397950"
+        },
+        {
+            "mal_id": 21,
+            "url": null,
+            "title": "Three Walnuts",
+            "title_japanese": "3つのくるみ",
+            "title_romanji": "Mitsu no Kurumi ",
+            "aired": "2005-10-16T00:00:00+00:00",
+            "score": 5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1397955"
+        },
+        {
+            "mal_id": 22,
+            "url": null,
+            "title": "Circus Miracle",
+            "title_japanese": "サーカスの奇跡",
+            "title_romanji": "Circus no Kiseki ",
+            "aired": "2005-10-23T00:00:00+00:00",
+            "score": 5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1397966"
+        },
+        {
+            "mal_id": 23,
+            "url": null,
+            "title": "Paradise Garden",
+            "title_japanese": "パラダイスの園",
+            "title_romanji": "Paradise no Sono ",
+            "aired": "2005-10-30T00:00:00+00:00",
+            "score": 5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1535200"
+        },
+        {
+            "mal_id": 24,
+            "url": null,
+            "title": "Mermaid Princess of the Night",
+            "title_japanese": "月夜の人魚姫",
+            "title_romanji": "Tsukiyo no Marina ",
+            "aired": "2005-11-06T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1535509"
+        },
+        {
+            "mal_id": 25,
+            "url": null,
+            "title": "Key of the Royal Family",
+            "title_japanese": "王家の鍵",
+            "title_romanji": "Ouke no Kagi ",
+            "aired": "2005-11-13T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1535517"
+        },
+        {
+            "mal_id": 26,
+            "url": null,
+            "title": "Legend of Holgar",
+            "title_japanese": "ホルガー伝説",
+            "title_romanji": "Holger no Densetsu ",
+            "aired": "2005-11-20T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1535535"
+        },
+        {
+            "mal_id": 27,
+            "url": null,
+            "title": "Crisis of the Large Glacier",
+            "title_japanese": "大氷河の危機",
+            "title_romanji": "Dai Hyouga no Kiki ",
+            "aired": "2005-11-27T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1535846"
+        },
+        {
+            "mal_id": 28,
+            "url": null,
+            "title": "The Magical Glass",
+            "title_japanese": "不思議なカラス",
+            "title_romanji": "Fushigi na Karasu ",
+            "aired": "2005-12-04T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1535852"
+        },
+        {
+            "mal_id": 29,
+            "url": null,
+            "title": "Daughter of the Bandit",
+            "title_japanese": "山賊の娘",
+            "title_romanji": "Sanzoku no Musume ",
+            "aired": "2005-12-11T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 30,
+            "url": null,
+            "title": "Commandments of a Bandit",
+            "title_japanese": "山賊の掟",
+            "title_romanji": "Sanzoku no Okite ",
+            "aired": "2005-12-18T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1695310"
+        },
+        {
+            "mal_id": 32,
+            "url": null,
+            "title": "The Philosopher and the Wind-User",
+            "title_japanese": "賢者と風使い",
+            "title_romanji": "Kensha to Kaze Tsukai ",
+            "aired": "2006-01-15T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 33,
+            "url": null,
+            "title": "Ice Palace",
+            "title_japanese": "氷の城",
+            "title_romanji": "Koori no Shiro ",
+            "aired": "2006-01-22T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1808578"
+        },
+        {
+            "mal_id": 34,
+            "url": null,
+            "title": "Ragi's Resurrection",
+            "title_japanese": "ラギの復活",
+            "title_romanji": "Ragi no Fukukatsu ",
+            "aired": "2006-01-29T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 35,
+            "url": null,
+            "title": "The Imminent Demon King",
+            "title_japanese": "迫る魔王",
+            "title_romanji": "Semaru Maou ",
+            "aired": "2006-02-05T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 36,
+            "url": null,
+            "title": "Back to Hometown",
+            "title_japanese": "故郷へ",
+            "title_romanji": "Furusato e ",
+            "aired": "2006-02-12T00:00:00+00:00",
+            "score": 5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1536325"
+        }
+    ]
+}

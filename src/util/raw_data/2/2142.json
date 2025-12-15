@@ -1,0 +1,788 @@
+{
+    "id": 2142,
+    "fetched_at": "Sun Dec 14 18:13:49 2025",
+    "metadata": {
+        "mal_id": 2142,
+        "url": "https://myanimelist.net/anime/2142/Blue_Dragon",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/2/20597.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/2/20597t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/2/20597l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/2/20597.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/2/20597t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/2/20597l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": "https://www.youtube-nocookie.com/embed/s3RhVF34ug0?enablejsapi=1&wmode=opaque&autoplay=1",
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Blue Dragon"
+            },
+            {
+                "type": "Japanese",
+                "title": "ブルー・ドラゴン"
+            }
+        ],
+        "title": "Blue Dragon",
+        "title_english": null,
+        "title_japanese": "ブルー・ドラゴン",
+        "title_synonyms": [],
+        "type": "TV",
+        "source": "Game",
+        "episodes": 51,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "2007-04-07T00:00:00+00:00",
+            "to": "2008-03-29T00:00:00+00:00",
+            "prop": {
+                "from": {
+                    "day": 7,
+                    "month": 4,
+                    "year": 2007
+                },
+                "to": {
+                    "day": 29,
+                    "month": 3,
+                    "year": 2008
+                }
+            },
+            "string": "Apr 7, 2007 to Mar 29, 2008"
+        },
+        "duration": "24 min per ep",
+        "rating": "PG - Children",
+        "score": 6.4,
+        "scored_by": 29683,
+        "rank": 7975,
+        "popularity": 3203,
+        "members": 58268,
+        "favorites": 124,
+        "synopsis": "As Shu's village was being attacked by an unknown enemy, he and his friends, Jiro and Kluke decide to defend their home. They soon meet warrior Zola and receive the powers of Shadow, an ability that let's them transform their shadow into a powerful monster. Shu receives one of the most powerful monsters, Blue Dragon, and they all set out to defeat their enemy.\n\n(Source: ANN)",
+        "background": "",
+        "season": "spring",
+        "year": 2007,
+        "broadcast": {
+            "day": "Saturdays",
+            "time": "09:00",
+            "timezone": "Asia/Tokyo",
+            "string": "Saturdays at 09:00 (JST)"
+        },
+        "producers": [
+            {
+                "mal_id": 144,
+                "type": "anime",
+                "name": "Pony Canyon",
+                "url": "https://myanimelist.net/anime/producer/144/Pony_Canyon"
+            }
+        ],
+        "licensors": [
+            {
+                "mal_id": 119,
+                "type": "anime",
+                "name": "VIZ Media",
+                "url": "https://myanimelist.net/anime/producer/119/VIZ_Media"
+            }
+        ],
+        "studios": [
+            {
+                "mal_id": 1,
+                "type": "anime",
+                "name": "Studio Pierrot",
+                "url": "https://myanimelist.net/anime/producer/1/Studio_Pierrot"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 2,
+                "type": "anime",
+                "name": "Adventure",
+                "url": "https://myanimelist.net/anime/genre/2/Adventure"
+            },
+            {
+                "mal_id": 4,
+                "type": "anime",
+                "name": "Comedy",
+                "url": "https://myanimelist.net/anime/genre/4/Comedy"
+            },
+            {
+                "mal_id": 10,
+                "type": "anime",
+                "name": "Fantasy",
+                "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [],
+        "demographics": [],
+        "relations": [
+            {
+                "relation": "Sequel",
+                "entry": [
+                    {
+                        "mal_id": 4197,
+                        "type": "anime",
+                        "name": "Blue Dragon: Tenkai no Shichi Ryuu",
+                        "url": "https://myanimelist.net/anime/4197/Blue_Dragon__Tenkai_no_Shichi_Ryuu"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [
+                "1: \"FRIEND\" by Keita Tachibana (eps 1-26)",
+                "2: \"Mune ni Kibou o (ムネニキボウヲ)\" by Haruka (eps 27-51)"
+            ],
+            "endings": [
+                "1: \"Fly So High\" by Yu Yamada (eps 1-16)",
+                "2: \"Kokoro\" by SS501 (eps 17-26)",
+                "3: \"HANA\" by Masami Mitsuoka (eps 27-38)",
+                "4: \"Sepia\" by D-51 (eps 39-51)"
+            ]
+        },
+        "external": [
+            {
+                "name": "Official Site",
+                "url": "http://www.tv-tokyo.co.jp/contents/bluedragon/index.html"
+            },
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=5044"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=7478"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": [
+        {
+            "mal_id": 1,
+            "url": null,
+            "title": "The Shadow Comes Forth",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 3.7,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1370"
+        },
+        {
+            "mal_id": 2,
+            "url": null,
+            "title": "The Blue Power",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 3.13,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1492"
+        },
+        {
+            "mal_id": 3,
+            "url": null,
+            "title": "Shu and Jiro",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 3.89,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1542"
+        },
+        {
+            "mal_id": 4,
+            "url": null,
+            "title": "Underwear Is The Trump Card",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 4.21,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1600"
+        },
+        {
+            "mal_id": 5,
+            "url": null,
+            "title": "General Logi",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 4.4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1745"
+        },
+        {
+            "mal_id": 6,
+            "url": null,
+            "title": "Fluffy Fluffy Squeezy!",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1853925"
+        },
+        {
+            "mal_id": 7,
+            "url": null,
+            "title": "The Noblewoman's Trap",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1853928"
+        },
+        {
+            "mal_id": 8,
+            "url": null,
+            "title": "Knight Master",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1853950"
+        },
+        {
+            "mal_id": 9,
+            "url": null,
+            "title": "Operation Marriage Proposal",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1853949"
+        },
+        {
+            "mal_id": 10,
+            "url": null,
+            "title": "Logi Strikes",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1853960"
+        },
+        {
+            "mal_id": 11,
+            "url": null,
+            "title": "Escape Through The Enemy Front",
+            "title_japanese": "包囲網を突破せよ",
+            "title_romanji": "Houimou wo Toppa Seyo ",
+            "aired": "2007-06-16T00:00:00+00:00",
+            "score": 4.5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1853966"
+        },
+        {
+            "mal_id": 12,
+            "url": null,
+            "title": "Dragnov's Last Stand",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1853969"
+        },
+        {
+            "mal_id": 13,
+            "url": null,
+            "title": "Infiltrate!",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1854127"
+        },
+        {
+            "mal_id": 14,
+            "url": null,
+            "title": "Kluke's Feelings",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1854128"
+        },
+        {
+            "mal_id": 15,
+            "url": null,
+            "title": "A Path Towards Hope",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1854134"
+        },
+        {
+            "mal_id": 16,
+            "url": null,
+            "title": "The Book Of The Beginning",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1854955"
+        },
+        {
+            "mal_id": 17,
+            "url": null,
+            "title": "Homeron Has Died",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1854951"
+        },
+        {
+            "mal_id": 18,
+            "url": null,
+            "title": "Dear Shadow",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1854979"
+        },
+        {
+            "mal_id": 19,
+            "url": null,
+            "title": "The Mystery of the Ruins",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1855254"
+        },
+        {
+            "mal_id": 20,
+            "url": null,
+            "title": "The Captive Knight",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1855262"
+        },
+        {
+            "mal_id": 21,
+            "url": null,
+            "title": "The Informant's Pursuit",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1863251"
+        },
+        {
+            "mal_id": 22,
+            "url": null,
+            "title": "Vanish Vanish Don't!",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 3.5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1863257"
+        },
+        {
+            "mal_id": 23,
+            "url": null,
+            "title": "Towards the Great Blue Sky",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1863260"
+        },
+        {
+            "mal_id": 24,
+            "url": null,
+            "title": "Pursuit of the Devil",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 3,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1863271"
+        },
+        {
+            "mal_id": 25,
+            "url": null,
+            "title": "Versus the Independent Flying Squadron",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1863283"
+        },
+        {
+            "mal_id": 26,
+            "url": null,
+            "title": "Cynthia's Madness",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1863359"
+        },
+        {
+            "mal_id": 27,
+            "url": null,
+            "title": "Into Logi's Ship",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 3,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1863366"
+        },
+        {
+            "mal_id": 28,
+            "url": null,
+            "title": "Sneaky Sneaky Shock!",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 3.5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1863368"
+        },
+        {
+            "mal_id": 29,
+            "url": null,
+            "title": "The Extra Seven",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 3.5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1863376"
+        },
+        {
+            "mal_id": 30,
+            "url": null,
+            "title": "The Dark Dragon",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1863382"
+        },
+        {
+            "mal_id": 31,
+            "url": null,
+            "title": "The Powerful One",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 3,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1863388"
+        },
+        {
+            "mal_id": 32,
+            "url": null,
+            "title": "The Shadow Wielder's Apprentice",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1863430"
+        },
+        {
+            "mal_id": 33,
+            "url": null,
+            "title": "Panty Heaven",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 3,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1863436"
+        },
+        {
+            "mal_id": 34,
+            "url": null,
+            "title": "Gilliam Returns",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 3,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1863452"
+        },
+        {
+            "mal_id": 35,
+            "url": null,
+            "title": "The Shining Hippo",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1863468"
+        },
+        {
+            "mal_id": 36,
+            "url": null,
+            "title": "Whisper Whisper Boom!",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 3,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1863531"
+        },
+        {
+            "mal_id": 37,
+            "url": null,
+            "title": "Aerial Fortress Showdown",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1863533"
+        },
+        {
+            "mal_id": 38,
+            "url": null,
+            "title": "The Final Battle",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1863537"
+        },
+        {
+            "mal_id": 39,
+            "url": null,
+            "title": "The Triumphant Return",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 2,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1863544"
+        },
+        {
+            "mal_id": 40,
+            "url": null,
+            "title": "Rosekstan",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 3,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1863546"
+        },
+        {
+            "mal_id": 41,
+            "url": null,
+            "title": "Bird in a Cage",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 3,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1863552"
+        },
+        {
+            "mal_id": 42,
+            "url": null,
+            "title": "Awakening",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 3,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1863556"
+        },
+        {
+            "mal_id": 43,
+            "url": null,
+            "title": "The Seven Soldiers of Light",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1863569"
+        },
+        {
+            "mal_id": 44,
+            "url": null,
+            "title": "The Truth",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 3,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1863580"
+        },
+        {
+            "mal_id": 45,
+            "url": null,
+            "title": "Quiver Quiver Boing!",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1863584"
+        },
+        {
+            "mal_id": 46,
+            "url": null,
+            "title": "Dissension",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 4.5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1863588"
+        },
+        {
+            "mal_id": 47,
+            "url": null,
+            "title": "Into the Darkness",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1863603"
+        },
+        {
+            "mal_id": 48,
+            "url": null,
+            "title": "The Two Pledges",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 3.67,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1863609"
+        },
+        {
+            "mal_id": 49,
+            "url": null,
+            "title": "Zola",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 4.5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1863616"
+        },
+        {
+            "mal_id": 50,
+            "url": null,
+            "title": "Bonds",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 4.5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1863619"
+        },
+        {
+            "mal_id": 51,
+            "url": null,
+            "title": "Shu",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 4.41,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=95427"
+        }
+    ]
+}

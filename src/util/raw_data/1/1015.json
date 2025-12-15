@@ -1,0 +1,194 @@
+{
+    "id": 1015,
+    "fetched_at": "Sun Dec 14 14:26:17 2025",
+    "metadata": {
+        "mal_id": 1015,
+        "url": "https://myanimelist.net/anime/1015/Full_Metal_Panic_The_Second_Raid__Wari_to_Hima_na_Sentaichou_no_Ichinichi",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/3/23458.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/3/23458t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/3/23458l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/3/23458.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/3/23458t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/3/23458l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Full Metal Panic! The Second Raid: Wari to Hima na Sentaichou no Ichinichi"
+            },
+            {
+                "type": "Synonym",
+                "title": "The Commanding Officer's Rather Quiet Day"
+            },
+            {
+                "type": "Synonym",
+                "title": "Full Metal Panic! The Second Raid Special"
+            },
+            {
+                "type": "Synonym",
+                "title": "Full Metal Panic! The Second Raid OVA"
+            },
+            {
+                "type": "Japanese",
+                "title": "わりとヒマな戦隊長の一日"
+            },
+            {
+                "type": "English",
+                "title": "Full Metal Panic! The Second Raid: A Relatively Leisurely Day in the Life of a Fleet Captain"
+            }
+        ],
+        "title": "Full Metal Panic! The Second Raid: Wari to Hima na Sentaichou no Ichinichi",
+        "title_english": "Full Metal Panic! The Second Raid: A Relatively Leisurely Day in the Life of a Fleet Captain",
+        "title_japanese": "わりとヒマな戦隊長の一日",
+        "title_synonyms": [
+            "The Commanding Officer's Rather Quiet Day",
+            "Full Metal Panic! The Second Raid Special",
+            "Full Metal Panic! The Second Raid OVA"
+        ],
+        "type": "Special",
+        "source": "Manga",
+        "episodes": 1,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "2006-05-26T00:00:00+00:00",
+            "to": null,
+            "prop": {
+                "from": {
+                    "day": 26,
+                    "month": 5,
+                    "year": 2006
+                },
+                "to": {
+                    "day": null,
+                    "month": null,
+                    "year": null
+                }
+            },
+            "string": "May 26, 2006"
+        },
+        "duration": "30 min",
+        "rating": "PG-13 - Teens 13 or older",
+        "score": 7.64,
+        "scored_by": 41495,
+        "rank": 1531,
+        "popularity": 2822,
+        "members": 73658,
+        "favorites": 99,
+        "synopsis": "On her day off, Tessa wakes up in her commander chair. After regaining her composure, she notices that her favorite stuffed animal is missing and thus tries to remember what actually transpired the night before. To do so, she will spend time with all the main characters of the Danaan crew, and eventually recalls the events of the previous night.\n\n[Written by MAL Rewrite]",
+        "background": "",
+        "season": null,
+        "year": null,
+        "broadcast": {
+            "day": null,
+            "time": null,
+            "timezone": null,
+            "string": null
+        },
+        "producers": [
+            {
+                "mal_id": 113,
+                "type": "anime",
+                "name": "Kadokawa Shoten",
+                "url": "https://myanimelist.net/anime/producer/113/Kadokawa_Shoten"
+            },
+            {
+                "mal_id": 787,
+                "type": "anime",
+                "name": "Happinet Pictures",
+                "url": "https://myanimelist.net/anime/producer/787/Happinet_Pictures"
+            }
+        ],
+        "licensors": [
+            {
+                "mal_id": 102,
+                "type": "anime",
+                "name": "Funimation",
+                "url": "https://myanimelist.net/anime/producer/102/Funimation"
+            },
+            {
+                "mal_id": 262,
+                "type": "anime",
+                "name": "Kadokawa Pictures USA",
+                "url": "https://myanimelist.net/anime/producer/262/Kadokawa_Pictures_USA"
+            }
+        ],
+        "studios": [
+            {
+                "mal_id": 2,
+                "type": "anime",
+                "name": "Kyoto Animation",
+                "url": "https://myanimelist.net/anime/producer/2/Kyoto_Animation"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 4,
+                "type": "anime",
+                "name": "Comedy",
+                "url": "https://myanimelist.net/anime/genre/4/Comedy"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [],
+        "demographics": [],
+        "relations": [
+            {
+                "relation": "Adaptation",
+                "entry": [
+                    {
+                        "mal_id": 895,
+                        "type": "manga",
+                        "name": "Full Metal Panic! Sigma",
+                        "url": "https://myanimelist.net/manga/895/Full_Metal_Panic_Sigma"
+                    }
+                ]
+            },
+            {
+                "relation": "Parent Story",
+                "entry": [
+                    {
+                        "mal_id": 73,
+                        "type": "anime",
+                        "name": "Full Metal Panic! The Second Raid",
+                        "url": "https://myanimelist.net/anime/73/Full_Metal_Panic_The_Second_Raid"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [],
+            "endings": []
+        },
+        "external": [
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=2710"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=6256"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": []
+}

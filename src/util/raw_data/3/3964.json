@@ -1,0 +1,203 @@
+{
+    "id": 3964,
+    "fetched_at": "Sun Dec 14 20:49:47 2025",
+    "metadata": {
+        "mal_id": 3964,
+        "url": "https://myanimelist.net/anime/3964/Turn_A_Gundam_II__Gekkou_Chou",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/12/7122.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/12/7122t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/12/7122l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/12/7122.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/12/7122t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/12/7122l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Turn A Gundam II: Gekkou Chou"
+            },
+            {
+                "type": "Synonym",
+                "title": "Turn A Gundam II Movie: Moonlight Butterfly"
+            },
+            {
+                "type": "Japanese",
+                "title": "劇場版∀ガンダムII 月光蝶"
+            },
+            {
+                "type": "English",
+                "title": "∀ Gundam II: Moonlight Butterfly"
+            }
+        ],
+        "title": "Turn A Gundam II: Gekkou Chou",
+        "title_english": "∀ Gundam II: Moonlight Butterfly",
+        "title_japanese": "劇場版∀ガンダムII 月光蝶",
+        "title_synonyms": [
+            "Turn A Gundam II Movie: Moonlight Butterfly"
+        ],
+        "type": "Movie",
+        "source": "Original",
+        "episodes": 1,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "2002-02-10T00:00:00+00:00",
+            "to": null,
+            "prop": {
+                "from": {
+                    "day": 10,
+                    "month": 2,
+                    "year": 2002
+                },
+                "to": {
+                    "day": null,
+                    "month": null,
+                    "year": null
+                }
+            },
+            "string": "Feb 10, 2002"
+        },
+        "duration": "2 hr 8 min",
+        "rating": "PG-13 - Teens 13 or older",
+        "score": 6.57,
+        "scored_by": 1532,
+        "rank": 6928,
+        "popularity": 9071,
+        "members": 5379,
+        "favorites": 1,
+        "synopsis": "The movie retelling of the final half of the Turn A Gundam series.",
+        "background": "",
+        "season": null,
+        "year": null,
+        "broadcast": {
+            "day": null,
+            "time": null,
+            "timezone": null,
+            "string": null
+        },
+        "producers": [
+            {
+                "mal_id": 64,
+                "type": "anime",
+                "name": "Sotsu",
+                "url": "https://myanimelist.net/anime/producer/64/Sotsu"
+            },
+            {
+                "mal_id": 1175,
+                "type": "anime",
+                "name": "Atelier Musa",
+                "url": "https://myanimelist.net/anime/producer/1175/Atelier_Musa"
+            }
+        ],
+        "licensors": [
+            {
+                "mal_id": 217,
+                "type": "anime",
+                "name": "Nozomi Entertainment",
+                "url": "https://myanimelist.net/anime/producer/217/Nozomi_Entertainment"
+            }
+        ],
+        "studios": [
+            {
+                "mal_id": 14,
+                "type": "anime",
+                "name": "Sunrise",
+                "url": "https://myanimelist.net/anime/producer/14/Sunrise"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 8,
+                "type": "anime",
+                "name": "Drama",
+                "url": "https://myanimelist.net/anime/genre/8/Drama"
+            },
+            {
+                "mal_id": 24,
+                "type": "anime",
+                "name": "Sci-Fi",
+                "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [
+            {
+                "mal_id": 18,
+                "type": "anime",
+                "name": "Mecha",
+                "url": "https://myanimelist.net/anime/genre/18/Mecha"
+            },
+            {
+                "mal_id": 38,
+                "type": "anime",
+                "name": "Military",
+                "url": "https://myanimelist.net/anime/genre/38/Military"
+            },
+            {
+                "mal_id": 29,
+                "type": "anime",
+                "name": "Space",
+                "url": "https://myanimelist.net/anime/genre/29/Space"
+            }
+        ],
+        "demographics": [],
+        "relations": [
+            {
+                "relation": "Prequel",
+                "entry": [
+                    {
+                        "mal_id": 3963,
+                        "type": "anime",
+                        "name": "Turn A Gundam I: Chikyuukou",
+                        "url": "https://myanimelist.net/anime/3963/Turn_A_Gundam_I__Chikyuukou"
+                    }
+                ]
+            },
+            {
+                "relation": "Full Story",
+                "entry": [
+                    {
+                        "mal_id": 95,
+                        "type": "anime",
+                        "name": "Turn A Gundam",
+                        "url": "https://myanimelist.net/anime/95/Turn_A_Gundam"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [],
+            "endings": []
+        },
+        "external": [
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=2812"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=2944"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": []
+}

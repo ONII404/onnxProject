@@ -1,0 +1,189 @@
+{
+    "id": 1056,
+    "fetched_at": "Sun Dec 14 14:30:02 2025",
+    "metadata": {
+        "mal_id": 1056,
+        "url": "https://myanimelist.net/anime/1056/Good_Morning_Call",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1387/134249.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1387/134249t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1387/134249l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1387/134249.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1387/134249t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1387/134249l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Good Morning Call"
+            },
+            {
+                "type": "Japanese",
+                "title": "グッドモーニング・コール"
+            }
+        ],
+        "title": "Good Morning Call",
+        "title_english": null,
+        "title_japanese": "グッドモーニング・コール",
+        "title_synonyms": [],
+        "type": "OVA",
+        "source": "Manga",
+        "episodes": 1,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "2001-08-02T00:00:00+00:00",
+            "to": null,
+            "prop": {
+                "from": {
+                    "day": 2,
+                    "month": 8,
+                    "year": 2001
+                },
+                "to": {
+                    "day": null,
+                    "month": null,
+                    "year": null
+                }
+            },
+            "string": "Aug 2, 2001"
+        },
+        "duration": "19 min",
+        "rating": "PG - Children",
+        "score": 6.06,
+        "scored_by": 3949,
+        "rank": 9948,
+        "popularity": 7915,
+        "members": 7554,
+        "favorites": 4,
+        "synopsis": "One year has passed since Nao and Uehara accidently moved into the same apartment. Since then, they have become an official couple. With Uehara's 16th birthday coming up, Nao's biggest worry is what to buy him. Everything is going smoothly- that is, until Nao realizes Uehara's birthday has already passed and she spent it acting as a cut model for the handsome hair stylist, Asai. \n\n(Source: ANN)",
+        "background": "",
+        "season": null,
+        "year": null,
+        "broadcast": {
+            "day": null,
+            "time": null,
+            "timezone": null,
+            "string": null
+        },
+        "producers": [
+            {
+                "mal_id": 139,
+                "type": "anime",
+                "name": "Nihon Ad Systems",
+                "url": "https://myanimelist.net/anime/producer/139/Nihon_Ad_Systems"
+            },
+            {
+                "mal_id": 1365,
+                "type": "anime",
+                "name": "Shueisha",
+                "url": "https://myanimelist.net/anime/producer/1365/Shueisha"
+            }
+        ],
+        "licensors": [],
+        "studios": [
+            {
+                "mal_id": 10,
+                "type": "anime",
+                "name": "Production I.G",
+                "url": "https://myanimelist.net/anime/producer/10/Production_IG"
+            },
+            {
+                "mal_id": 80,
+                "type": "anime",
+                "name": "Trans Arts",
+                "url": "https://myanimelist.net/anime/producer/80/Trans_Arts"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 4,
+                "type": "anime",
+                "name": "Comedy",
+                "url": "https://myanimelist.net/anime/genre/4/Comedy"
+            },
+            {
+                "mal_id": 8,
+                "type": "anime",
+                "name": "Drama",
+                "url": "https://myanimelist.net/anime/genre/8/Drama"
+            },
+            {
+                "mal_id": 22,
+                "type": "anime",
+                "name": "Romance",
+                "url": "https://myanimelist.net/anime/genre/22/Romance"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [
+            {
+                "mal_id": 23,
+                "type": "anime",
+                "name": "School",
+                "url": "https://myanimelist.net/anime/genre/23/School"
+            }
+        ],
+        "demographics": [
+            {
+                "mal_id": 25,
+                "type": "anime",
+                "name": "Shoujo",
+                "url": "https://myanimelist.net/anime/genre/25/Shoujo"
+            }
+        ],
+        "relations": [
+            {
+                "relation": "Adaptation",
+                "entry": [
+                    {
+                        "mal_id": 1242,
+                        "type": "manga",
+                        "name": "Good Morning Call",
+                        "url": "https://myanimelist.net/manga/1242/Good_Morning_Call"
+                    }
+                ]
+            },
+            {
+                "relation": "Other",
+                "entry": [
+                    {
+                        "mal_id": 1613,
+                        "type": "anime",
+                        "name": "Jikuu Ihoujin Kyoko: Chocola ni Omakase!",
+                        "url": "https://myanimelist.net/anime/1613/Jikuu_Ihoujin_Kyoko__Chocola_ni_Omakase"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [],
+            "endings": []
+        },
+        "external": [
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=1255"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": []
+}

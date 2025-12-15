@@ -1,0 +1,233 @@
+{
+    "id": 1496,
+    "fetched_at": "Sun Dec 14 16:26:49 2025",
+    "metadata": {
+        "mal_id": 1496,
+        "url": "https://myanimelist.net/anime/1496/Fushigi_no_Kuni_no_Miyuki-chan",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1187/110295.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1187/110295t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1187/110295l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1187/110295.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1187/110295t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1187/110295l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Fushigi no Kuni no Miyuki-chan"
+            },
+            {
+                "type": "Synonym",
+                "title": "Miyuki-chan In Mirrorland"
+            },
+            {
+                "type": "Japanese",
+                "title": "不思議の国の美幸ちゃん"
+            },
+            {
+                "type": "English",
+                "title": "Miyuki-chan in Wonderland"
+            }
+        ],
+        "title": "Fushigi no Kuni no Miyuki-chan",
+        "title_english": "Miyuki-chan in Wonderland",
+        "title_japanese": "不思議の国の美幸ちゃん",
+        "title_synonyms": [
+            "Miyuki-chan In Mirrorland"
+        ],
+        "type": "OVA",
+        "source": "Manga",
+        "episodes": 2,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "1995-06-21T00:00:00+00:00",
+            "to": null,
+            "prop": {
+                "from": {
+                    "day": 21,
+                    "month": 6,
+                    "year": 1995
+                },
+                "to": {
+                    "day": null,
+                    "month": null,
+                    "year": null
+                }
+            },
+            "string": "Jun 21, 1995"
+        },
+        "duration": "14 min per ep",
+        "rating": "R+ - Mild Nudity",
+        "score": 5.62,
+        "scored_by": 6970,
+        "rank": 12241,
+        "popularity": 6073,
+        "members": 14434,
+        "favorites": 10,
+        "synopsis": "Rushing to school after oversleeping, Miyuki finds herself falling into a pit. When she regains consciousness, it does not take long for her to realize that she has entered another world as she begins to encounter different peculiarities and odd female figures, all wanting her to themselves. If Miyuki wants to go back to school, she must escape the bizarre situations and find a way to return to reality.\n\n[Written by MAL Rewrite]",
+        "background": "",
+        "season": null,
+        "year": null,
+        "broadcast": {
+            "day": null,
+            "time": null,
+            "timezone": null,
+            "string": null
+        },
+        "producers": [
+            {
+                "mal_id": 3172,
+                "type": "anime",
+                "name": "Arts Pro",
+                "url": "https://myanimelist.net/anime/producer/3172/Arts_Pro"
+            }
+        ],
+        "licensors": [
+            {
+                "mal_id": 97,
+                "type": "anime",
+                "name": "ADV Films",
+                "url": "https://myanimelist.net/anime/producer/97/ADV_Films"
+            }
+        ],
+        "studios": [
+            {
+                "mal_id": 155,
+                "type": "anime",
+                "name": "animate Film",
+                "url": "https://myanimelist.net/anime/producer/155/animate_Film"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 4,
+                "type": "anime",
+                "name": "Comedy",
+                "url": "https://myanimelist.net/anime/genre/4/Comedy"
+            },
+            {
+                "mal_id": 10,
+                "type": "anime",
+                "name": "Fantasy",
+                "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+            },
+            {
+                "mal_id": 26,
+                "type": "anime",
+                "name": "Girls Love",
+                "url": "https://myanimelist.net/anime/genre/26/Girls_Love"
+            },
+            {
+                "mal_id": 9,
+                "type": "anime",
+                "name": "Ecchi",
+                "url": "https://myanimelist.net/anime/genre/9/Ecchi"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [],
+        "demographics": [],
+        "relations": [
+            {
+                "relation": "Adaptation",
+                "entry": [
+                    {
+                        "mal_id": 452,
+                        "type": "manga",
+                        "name": "Fushigi no Kuni no Miyuki-chan",
+                        "url": "https://myanimelist.net/manga/452/Fushigi_no_Kuni_no_Miyuki-chan"
+                    }
+                ]
+            },
+            {
+                "relation": "Character",
+                "entry": [
+                    {
+                        "mal_id": 2274,
+                        "type": "anime",
+                        "name": "CLAMP in Wonderland",
+                        "url": "https://myanimelist.net/anime/2274/CLAMP_in_Wonderland"
+                    },
+                    {
+                        "mal_id": 1844,
+                        "type": "anime",
+                        "name": "Clamp Gakuen Tanteidan",
+                        "url": "https://myanimelist.net/anime/1844/Clamp_Gakuen_Tanteidan"
+                    },
+                    {
+                        "mal_id": 2768,
+                        "type": "anime",
+                        "name": "CLAMP in Wonderland 2",
+                        "url": "https://myanimelist.net/anime/2768/CLAMP_in_Wonderland_2"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [],
+            "endings": [
+                "\"Iya Yo!\" by Mariko Kouda"
+            ]
+        },
+        "external": [
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=451"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=356"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Miyuki-chan_in_Wonderland"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": [
+        {
+            "mal_id": 1,
+            "url": null,
+            "title": "Miyuki-chan in Wonderland",
+            "title_japanese": "不思議の国の美幸ちゃん",
+            "title_romanji": "Fushigi no Kuni no Miyuki-chan ",
+            "aired": "1995-06-21T00:00:00+00:00",
+            "score": 3.88,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1913887"
+        },
+        {
+            "mal_id": 2,
+            "url": null,
+            "title": "Miyuki-chan in Mirrorland",
+            "title_japanese": "鏡の国の美幸ちゃん",
+            "title_romanji": "Kagami no Kuni no Miyuki-chan ",
+            "aired": "1995-06-21T00:00:00+00:00",
+            "score": 3.69,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1536369"
+        }
+    ]
+}

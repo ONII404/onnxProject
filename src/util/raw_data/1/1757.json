@@ -1,0 +1,186 @@
+{
+    "id": 1757,
+    "fetched_at": "Sun Dec 14 16:49:50 2025",
+    "metadata": {
+        "mal_id": 1757,
+        "url": "https://myanimelist.net/anime/1757/Di_Gi_Charat_Christmas_Special",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1348/95892.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1348/95892t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1348/95892l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1348/95892.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1348/95892t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1348/95892l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Di Gi Charat Christmas Special"
+            },
+            {
+                "type": "Synonym",
+                "title": "DiGi Charat Christmas Special"
+            },
+            {
+                "type": "Japanese",
+                "title": "Di Gi Charat クリスマススペシャル"
+            }
+        ],
+        "title": "Di Gi Charat Christmas Special",
+        "title_english": null,
+        "title_japanese": "Di Gi Charat クリスマススペシャル",
+        "title_synonyms": [
+            "DiGi Charat Christmas Special"
+        ],
+        "type": "Special",
+        "source": "Original",
+        "episodes": 1,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "2000-12-17T00:00:00+00:00",
+            "to": null,
+            "prop": {
+                "from": {
+                    "day": 17,
+                    "month": 12,
+                    "year": 2000
+                },
+                "to": {
+                    "day": null,
+                    "month": null,
+                    "year": null
+                }
+            },
+            "string": "Dec 17, 2000"
+        },
+        "duration": "23 min",
+        "rating": "G - All Ages",
+        "score": 6.63,
+        "scored_by": 2612,
+        "rank": 6517,
+        "popularity": 9337,
+        "members": 4968,
+        "favorites": 4,
+        "synopsis": "The Christmas Special aired in December 2000 and featured Piyoko again attempting to capture Dejiko by inviting all the characters on a cruise.\n\n(Source: Wikipedia)",
+        "background": "",
+        "season": null,
+        "year": null,
+        "broadcast": {
+            "day": null,
+            "time": null,
+            "timezone": null,
+            "string": null
+        },
+        "producers": [
+            {
+                "mal_id": 145,
+                "type": "anime",
+                "name": "TBS",
+                "url": "https://myanimelist.net/anime/producer/145/TBS"
+            },
+            {
+                "mal_id": 3098,
+                "type": "anime",
+                "name": "Aquatone",
+                "url": "https://myanimelist.net/anime/producer/3098/Aquatone"
+            }
+        ],
+        "licensors": [
+            {
+                "mal_id": 376,
+                "type": "anime",
+                "name": "Sentai Filmworks",
+                "url": "https://myanimelist.net/anime/producer/376/Sentai_Filmworks"
+            }
+        ],
+        "studios": [
+            {
+                "mal_id": 11,
+                "type": "anime",
+                "name": "Madhouse",
+                "url": "https://myanimelist.net/anime/producer/11/Madhouse"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 4,
+                "type": "anime",
+                "name": "Comedy",
+                "url": "https://myanimelist.net/anime/genre/4/Comedy"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [],
+        "demographics": [],
+        "relations": [
+            {
+                "relation": "Prequel",
+                "entry": [
+                    {
+                        "mal_id": 1754,
+                        "type": "anime",
+                        "name": "Di Gi Charat Summer Special 2000",
+                        "url": "https://myanimelist.net/anime/1754/Di_Gi_Charat_Summer_Special_2000"
+                    }
+                ]
+            },
+            {
+                "relation": "Sequel",
+                "entry": [
+                    {
+                        "mal_id": 1755,
+                        "type": "anime",
+                        "name": "Di Gi Charat Ohanami Special",
+                        "url": "https://myanimelist.net/anime/1755/Di_Gi_Charat_Ohanami_Special"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [
+                "\"Megami ni Naritai\" by Masami Okui"
+            ],
+            "endings": [
+                "\"Party Night (White Version)\" by Asami Sanada, Miyuki Sawashiro and Kyouko Hikami"
+            ]
+        },
+        "external": [
+            {
+                "name": "Official Site",
+                "url": "http://www.broccoli.co.jp/dejiko/"
+            },
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=553"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=2933"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "http://en.wikipedia.org/wiki/Di_Gi_Charat#Specials"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": []
+}

@@ -1,0 +1,222 @@
+{
+    "id": 1769,
+    "fetched_at": "Sun Dec 14 16:50:53 2025",
+    "metadata": {
+        "mal_id": 1769,
+        "url": "https://myanimelist.net/anime/1769/Oh_Super_Milk-chan",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1189/134405.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1189/134405t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1189/134405l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1189/134405.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1189/134405t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1189/134405l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Oh! Super Milk-chan"
+            },
+            {
+                "type": "Japanese",
+                "title": "OH! スーパーミルクチャン"
+            },
+            {
+                "type": "English",
+                "title": "The Super Milk-Chan Show"
+            }
+        ],
+        "title": "Oh! Super Milk-chan",
+        "title_english": "The Super Milk-Chan Show",
+        "title_japanese": "OH! スーパーミルクチャン",
+        "title_synonyms": [],
+        "type": "TV",
+        "source": "Original",
+        "episodes": 12,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "2000-01-27T00:00:00+00:00",
+            "to": "2000-04-13T00:00:00+00:00",
+            "prop": {
+                "from": {
+                    "day": 27,
+                    "month": 1,
+                    "year": 2000
+                },
+                "to": {
+                    "day": 13,
+                    "month": 4,
+                    "year": 2000
+                }
+            },
+            "string": "Jan 27, 2000 to Apr 13, 2000"
+        },
+        "duration": "21 min per ep",
+        "rating": "R - 17+ (violence & profanity)",
+        "score": 6.08,
+        "scored_by": 2880,
+        "rank": 9886,
+        "popularity": 8344,
+        "members": 6646,
+        "favorites": 46,
+        "synopsis": "Milk-chan is a drooling, potty-mouthed baby who lives in an apartment with an obsolete robot named Tetsuko, a slug named Hanage, and an uncontrollable pet named Robodog. Whenever the President calls, Milk-chan and the gang rush to the scene to solve any type of problem - whether it's stopping a money counterfeiter hungry for Belgian waffles or counselling a school of drunk fish. At the same time, they have to avoid a nagging landlord, as they're six months behind their rent.\n\n(Source: ANN)",
+        "background": "",
+        "season": "winter",
+        "year": 2000,
+        "broadcast": {
+            "day": "Thursdays",
+            "time": "18:30",
+            "timezone": "Asia/Tokyo",
+            "string": "Thursdays at 18:30 (JST)"
+        },
+        "producers": [
+            {
+                "mal_id": 79,
+                "type": "anime",
+                "name": "Genco",
+                "url": "https://myanimelist.net/anime/producer/79/Genco"
+            },
+            {
+                "mal_id": 204,
+                "type": "anime",
+                "name": "Pioneer LDC",
+                "url": "https://myanimelist.net/anime/producer/204/Pioneer_LDC"
+            },
+            {
+                "mal_id": 1343,
+                "type": "anime",
+                "name": "Space Shower Music",
+                "url": "https://myanimelist.net/anime/producer/1343/Space_Shower_Music"
+            }
+        ],
+        "licensors": [
+            {
+                "mal_id": 97,
+                "type": "anime",
+                "name": "ADV Films",
+                "url": "https://myanimelist.net/anime/producer/97/ADV_Films"
+            }
+        ],
+        "studios": [
+            {
+                "mal_id": 1,
+                "type": "anime",
+                "name": "Studio Pierrot",
+                "url": "https://myanimelist.net/anime/producer/1/Studio_Pierrot"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 1,
+                "type": "anime",
+                "name": "Action",
+                "url": "https://myanimelist.net/anime/genre/1/Action"
+            },
+            {
+                "mal_id": 4,
+                "type": "anime",
+                "name": "Comedy",
+                "url": "https://myanimelist.net/anime/genre/4/Comedy"
+            },
+            {
+                "mal_id": 24,
+                "type": "anime",
+                "name": "Sci-Fi",
+                "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [
+            {
+                "mal_id": 20,
+                "type": "anime",
+                "name": "Parody",
+                "url": "https://myanimelist.net/anime/genre/20/Parody"
+            }
+        ],
+        "demographics": [],
+        "relations": [
+            {
+                "relation": "Prequel",
+                "entry": [
+                    {
+                        "mal_id": 1743,
+                        "type": "anime",
+                        "name": "Super Milk-chan",
+                        "url": "https://myanimelist.net/anime/1743/Super_Milk-chan"
+                    }
+                ]
+            },
+            {
+                "relation": "Side Story",
+                "entry": [
+                    {
+                        "mal_id": 18815,
+                        "type": "anime",
+                        "name": "Oh! Super Milk-chan Special",
+                        "url": "https://myanimelist.net/anime/18815/Oh_Super_Milk-chan_Special"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [
+                "\"We Don't Fear Wolves (Original Japanese version)\" by Haruka Nakamura"
+            ],
+            "endings": [
+                "\"Tsuppari Rock'nRoll (Original Japanese version)\" by the President."
+            ]
+        },
+        "external": [
+            {
+                "name": "Official Site",
+                "url": "http://www.supermilk-chan.com/"
+            },
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=544"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=1020"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "http://en.wikipedia.org/wiki/Milk-Chan"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": [
+        {
+            "mal_id": 1,
+            "url": null,
+            "title": "The Evil Spirits Go Marching In",
+            "title_japanese": "ミルクの亡者が街にやって来たの巻",
+            "title_romanji": "Milk no Mouja ga Machi ni Yattekita no Maki ",
+            "aired": "2000-01-27T00:00:00+00:00",
+            "score": 3.6,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=161401"
+        }
+    ]
+}

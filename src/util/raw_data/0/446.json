@@ -1,0 +1,365 @@
+{
+    "id": 446,
+    "fetched_at": "Sun Dec 14 13:39:42 2025",
+    "metadata": {
+        "mal_id": 446,
+        "url": "https://myanimelist.net/anime/446/Weiß_Kreuz_Glühen",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/9/23693.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/9/23693t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/9/23693l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/9/23693.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/9/23693t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/9/23693l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Weiß Kreuz Glühen"
+            },
+            {
+                "type": "Synonym",
+                "title": "Weiss Kreuz Gluehen"
+            },
+            {
+                "type": "Synonym",
+                "title": "Weiss Kreuz Gluhen"
+            },
+            {
+                "type": "Synonym",
+                "title": "White Cross Glowing"
+            },
+            {
+                "type": "Japanese",
+                "title": "ヴァイスクロイツ・グリーエン"
+            },
+            {
+                "type": "English",
+                "title": "Knight Hunters Eternity"
+            }
+        ],
+        "title": "Weiß Kreuz Glühen",
+        "title_english": "Knight Hunters Eternity",
+        "title_japanese": "ヴァイスクロイツ・グリーエン",
+        "title_synonyms": [
+            "Weiss Kreuz Gluehen",
+            "Weiss Kreuz Gluhen",
+            "White Cross Glowing"
+        ],
+        "type": "TV",
+        "source": "Original",
+        "episodes": 13,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "2002-11-28T00:00:00+00:00",
+            "to": "2003-03-20T00:00:00+00:00",
+            "prop": {
+                "from": {
+                    "day": 28,
+                    "month": 11,
+                    "year": 2002
+                },
+                "to": {
+                    "day": 20,
+                    "month": 3,
+                    "year": 2003
+                }
+            },
+            "string": "Nov 28, 2002 to Mar 20, 2003"
+        },
+        "duration": "24 min per ep",
+        "rating": "R - 17+ (violence & profanity)",
+        "score": 6.51,
+        "scored_by": 4190,
+        "rank": 7298,
+        "popularity": 6722,
+        "members": 11314,
+        "favorites": 24,
+        "synopsis": "Koua is an academy that brings Japanese's most talented people and students together. The mission is to train talented people to bear the world's future leadership. However, recently, the suicide rate in the academy is increasing and there is hardly any information being released to the public. \n\nFujimiya Aya is sent to infiltrate this school carrying out criminal investigation and disguise himself as a teacher. In fact, actually, there is a connection between Koua academy and the global terrorist activities that are frequently occur. Therefore Persia assigns Hidaka Ken and Kudou Youji as well into this mission to solve the truth and connection of the incident behind Koua academy. \n\n(Source: AniDB)",
+        "background": "",
+        "season": "fall",
+        "year": 2002,
+        "broadcast": {
+            "day": null,
+            "time": null,
+            "timezone": null,
+            "string": "Unknown"
+        },
+        "producers": [
+            {
+                "mal_id": 155,
+                "type": "anime",
+                "name": "animate Film",
+                "url": "https://myanimelist.net/anime/producer/155/animate_Film"
+            },
+            {
+                "mal_id": 158,
+                "type": "anime",
+                "name": "Kids Station",
+                "url": "https://myanimelist.net/anime/producer/158/Kids_Station"
+            },
+            {
+                "mal_id": 166,
+                "type": "anime",
+                "name": "Movic",
+                "url": "https://myanimelist.net/anime/producer/166/Movic"
+            }
+        ],
+        "licensors": [
+            {
+                "mal_id": 250,
+                "type": "anime",
+                "name": "Media Blasters",
+                "url": "https://myanimelist.net/anime/producer/250/Media_Blasters"
+            }
+        ],
+        "studios": [
+            {
+                "mal_id": 43,
+                "type": "anime",
+                "name": "ufotable",
+                "url": "https://myanimelist.net/anime/producer/43/ufotable"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 1,
+                "type": "anime",
+                "name": "Action",
+                "url": "https://myanimelist.net/anime/genre/1/Action"
+            },
+            {
+                "mal_id": 8,
+                "type": "anime",
+                "name": "Drama",
+                "url": "https://myanimelist.net/anime/genre/8/Drama"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [],
+        "demographics": [],
+        "relations": [
+            {
+                "relation": "Prequel",
+                "entry": [
+                    {
+                        "mal_id": 447,
+                        "type": "anime",
+                        "name": "Weiß Kreuz",
+                        "url": "https://myanimelist.net/anime/447/Weiß_Kreuz"
+                    },
+                    {
+                        "mal_id": 1024,
+                        "type": "anime",
+                        "name": "Weiß Kreuz OVA",
+                        "url": "https://myanimelist.net/anime/1024/Weiß_Kreuz_OVA"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [
+                "\"Glühen\" by Weiß"
+            ],
+            "endings": [
+                "1: \"Stone Roses\" by Weiß (eps 1-12)",
+                "2: \"Tomorrow\" by Weiß (eps 13)"
+            ]
+        },
+        "external": [
+            {
+                "name": "Official Site",
+                "url": "http://www.kids-station.com/2002/weibkreuz/"
+            },
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=226"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=1822"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "http://en.wikipedia.org/wiki/Wei%C3%9F_Kreuz"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": [
+        {
+            "mal_id": 1,
+            "url": null,
+            "title": "White Flames",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": "2002-11-28T00:00:00+00:00",
+            "score": 3.33,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=293711"
+        },
+        {
+            "mal_id": 2,
+            "url": null,
+            "title": "God Hurts Those He Loves",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": "2002-12-05T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 3,
+            "url": null,
+            "title": "Sweet Nothing",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": "2002-12-12T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 4,
+            "url": null,
+            "title": "Rhodesia",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": "2002-12-19T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 5,
+            "url": null,
+            "title": "It's Too Late",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": "2002-12-26T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 6,
+            "url": null,
+            "title": "No Reason",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": "2003-01-05T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 7,
+            "url": null,
+            "title": "Jeepstar",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": "2003-01-09T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 8,
+            "url": null,
+            "title": "Instant Karma",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": "2003-01-16T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 9,
+            "url": null,
+            "title": "Mellow Candle",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": "2003-01-23T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 10,
+            "url": null,
+            "title": "Velvet Underworld",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": "2003-01-30T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 11,
+            "url": null,
+            "title": "Piece of Heaven",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": "2003-02-06T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 12,
+            "url": null,
+            "title": "Epitaph",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": "2003-02-13T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 13,
+            "url": null,
+            "title": "Tomorrow",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": "2003-02-20T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        }
+    ]
+}

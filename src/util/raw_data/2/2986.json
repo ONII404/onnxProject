@@ -1,0 +1,552 @@
+{
+    "id": 2986,
+    "fetched_at": "Sun Dec 14 19:10:14 2025",
+    "metadata": {
+        "mal_id": 2986,
+        "url": "https://myanimelist.net/anime/2986/Bamboo_Blade",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1790/114537.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1790/114537t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1790/114537l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1790/114537.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1790/114537t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1790/114537l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Bamboo Blade"
+            },
+            {
+                "type": "Japanese",
+                "title": "バンブーブレード"
+            },
+            {
+                "type": "English",
+                "title": "Bamboo Blade"
+            }
+        ],
+        "title": "Bamboo Blade",
+        "title_english": "Bamboo Blade",
+        "title_japanese": "バンブーブレード",
+        "title_synonyms": [],
+        "type": "TV",
+        "source": "Manga",
+        "episodes": 26,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "2007-10-02T00:00:00+00:00",
+            "to": "2008-04-01T00:00:00+00:00",
+            "prop": {
+                "from": {
+                    "day": 2,
+                    "month": 10,
+                    "year": 2007
+                },
+                "to": {
+                    "day": 1,
+                    "month": 4,
+                    "year": 2008
+                }
+            },
+            "string": "Oct 2, 2007 to Apr 1, 2008"
+        },
+        "duration": "24 min per ep",
+        "rating": "PG-13 - Teens 13 or older",
+        "score": 7.29,
+        "scored_by": 42185,
+        "rank": 2960,
+        "popularity": 2461,
+        "members": 91812,
+        "favorites": 284,
+        "synopsis": "Kojirou is the kendo instructor for Muroe High School and he's totally broke. But then an unexpected chance is given to him: his team must win against his senpai's team and the prize is: free meals for a whole year! Now, the only problem left... where to find girls skilled enough and willing to join the kendo team?",
+        "background": "",
+        "season": "fall",
+        "year": 2007,
+        "broadcast": {
+            "day": "Tuesdays",
+            "time": "01:30",
+            "timezone": "Asia/Tokyo",
+            "string": "Tuesdays at 01:30 (JST)"
+        },
+        "producers": [
+            {
+                "mal_id": 48,
+                "type": "anime",
+                "name": "AIC",
+                "url": "https://myanimelist.net/anime/producer/48/AIC"
+            },
+            {
+                "mal_id": 58,
+                "type": "anime",
+                "name": "Square Enix",
+                "url": "https://myanimelist.net/anime/producer/58/Square_Enix"
+            },
+            {
+                "mal_id": 164,
+                "type": "anime",
+                "name": "d-rights",
+                "url": "https://myanimelist.net/anime/producer/164/d-rights"
+            },
+            {
+                "mal_id": 210,
+                "type": "anime",
+                "name": "Studio Tulip",
+                "url": "https://myanimelist.net/anime/producer/210/Studio_Tulip"
+            },
+            {
+                "mal_id": 460,
+                "type": "anime",
+                "name": "KlockWorx",
+                "url": "https://myanimelist.net/anime/producer/460/KlockWorx"
+            },
+            {
+                "mal_id": 464,
+                "type": "anime",
+                "name": "flying DOG",
+                "url": "https://myanimelist.net/anime/producer/464/flying_DOG"
+            }
+        ],
+        "licensors": [
+            {
+                "mal_id": 102,
+                "type": "anime",
+                "name": "Funimation",
+                "url": "https://myanimelist.net/anime/producer/102/Funimation"
+            }
+        ],
+        "studios": [
+            {
+                "mal_id": 88,
+                "type": "anime",
+                "name": "AIC ASTA",
+                "url": "https://myanimelist.net/anime/producer/88/AIC_ASTA"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 4,
+                "type": "anime",
+                "name": "Comedy",
+                "url": "https://myanimelist.net/anime/genre/4/Comedy"
+            },
+            {
+                "mal_id": 30,
+                "type": "anime",
+                "name": "Sports",
+                "url": "https://myanimelist.net/anime/genre/30/Sports"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [
+            {
+                "mal_id": 54,
+                "type": "anime",
+                "name": "Combat Sports",
+                "url": "https://myanimelist.net/anime/genre/54/Combat_Sports"
+            },
+            {
+                "mal_id": 23,
+                "type": "anime",
+                "name": "School",
+                "url": "https://myanimelist.net/anime/genre/23/School"
+            }
+        ],
+        "demographics": [
+            {
+                "mal_id": 42,
+                "type": "anime",
+                "name": "Seinen",
+                "url": "https://myanimelist.net/anime/genre/42/Seinen"
+            }
+        ],
+        "relations": [
+            {
+                "relation": "Adaptation",
+                "entry": [
+                    {
+                        "mal_id": 720,
+                        "type": "manga",
+                        "name": "Bamboo Blade",
+                        "url": "https://myanimelist.net/manga/720/Bamboo_Blade"
+                    }
+                ]
+            },
+            {
+                "relation": "Side Story",
+                "entry": [
+                    {
+                        "mal_id": 28813,
+                        "type": "anime",
+                        "name": "Bamboo Blade: Fanfu-Fufe-Fo",
+                        "url": "https://myanimelist.net/anime/28813/Bamboo_Blade__Fanfu-Fufe-Fo"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [
+                "\"BAMBOO BEAT\" by Ryou Hirohashi, Megumi Toyoguchi, Sachiko Kojima, Houko Kuwashima & Rina Satou"
+            ],
+            "endings": [
+                "\"STAR RISE\" by Ryou Hirohashi, Megumi Toyoguchi, Sachiko Kojima, Houko Kuwashima & Rina Satou"
+            ]
+        },
+        "external": [
+            {
+                "name": "Official Site",
+                "url": "http://www.bambooblade.jp/pc/"
+            },
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=5356"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=8455"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "http://en.wikipedia.org/wiki/Bamboo_Blade"
+            }
+        ],
+        "streaming": [
+            {
+                "name": "Crunchyroll",
+                "url": "http://www.crunchyroll.com/series-283116"
+            }
+        ]
+    },
+    "episodes": [
+        {
+            "mal_id": 1,
+            "url": "https://myanimelist.net/anime/2986/Bamboo_Blade/episode/1",
+            "title": "A Bamboo Broom and a Champion of Justice",
+            "title_japanese": "竹ぼうきと正義の味方",
+            "title_romanji": "Takebouki to Seigi no Mikata ",
+            "aired": "2007-10-02T00:00:00+00:00",
+            "score": 4.15,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=5867"
+        },
+        {
+            "mal_id": 2,
+            "url": "https://myanimelist.net/anime/2986/Bamboo_Blade/episode/2",
+            "title": "The Blade Bravers and Boxed Lunch",
+            "title_japanese": "ブレードブレイバーとお弁当",
+            "title_romanji": "Blade Braver to Obentou ",
+            "aired": "2007-10-09T00:00:00+00:00",
+            "score": 4.45,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=5962"
+        },
+        {
+            "mal_id": 3,
+            "url": "https://myanimelist.net/anime/2986/Bamboo_Blade/episode/3",
+            "title": "Black and Blue",
+            "title_japanese": "ブラックとブルー",
+            "title_romanji": "Black to Blue ",
+            "aired": "2007-10-16T00:00:00+00:00",
+            "score": 4.34,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=6124"
+        },
+        {
+            "mal_id": 4,
+            "url": "https://myanimelist.net/anime/2986/Bamboo_Blade/episode/4",
+            "title": "Pink and Blue",
+            "title_japanese": "ピンクとブルー",
+            "title_romanji": "Pink to Blue ",
+            "aired": "2007-10-23T00:00:00+00:00",
+            "score": 4.31,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=6937"
+        },
+        {
+            "mal_id": 5,
+            "url": "https://myanimelist.net/anime/2986/Bamboo_Blade/episode/5",
+            "title": "Muroe High and Machido High",
+            "title_japanese": "室江高と町戸高",
+            "title_romanji": "Muroekou to Machidokou ",
+            "aired": "2007-10-30T00:00:00+00:00",
+            "score": 4.55,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=7358"
+        },
+        {
+            "mal_id": 6,
+            "url": "https://myanimelist.net/anime/2986/Bamboo_Blade/episode/6",
+            "title": "Tamaki Kawazoe and the Tardy Braver",
+            "title_japanese": "川添珠姫と遅刻の武礼葉",
+            "title_romanji": "Kawazoe Tamaki to Chikoku no Bureiba ",
+            "aired": "2007-11-06T00:00:00+00:00",
+            "score": 4.52,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=7387"
+        },
+        {
+            "mal_id": 7,
+            "url": "https://myanimelist.net/anime/2986/Bamboo_Blade/episode/7",
+            "title": "Sushi and Mince Meat Cutlets",
+            "title_japanese": "寿司とメンチカツ",
+            "title_romanji": "Sushi to Mince Cutlet ",
+            "aired": "2007-11-13T00:00:00+00:00",
+            "score": 4.65,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=7456"
+        },
+        {
+            "mal_id": 8,
+            "url": "https://myanimelist.net/anime/2986/Bamboo_Blade/episode/8",
+            "title": "Tama and Part-time Work",
+            "title_japanese": "タマちゃんとアルバイト",
+            "title_romanji": "Tama-chan to Arbeit ",
+            "aired": "2007-10-20T00:00:00+00:00",
+            "score": 4.43,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=7775"
+        },
+        {
+            "mal_id": 9,
+            "url": "https://myanimelist.net/anime/2986/Bamboo_Blade/episode/9",
+            "title": "Kojiro and the Crossroads of Fate",
+            "title_japanese": "コジローと運命の分岐点",
+            "title_romanji": "Kojirou to Unmei no Bunkiten ",
+            "aired": "2007-11-27T00:00:00+00:00",
+            "score": 4.41,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=8209"
+        },
+        {
+            "mal_id": 10,
+            "url": "https://myanimelist.net/anime/2986/Bamboo_Blade/episode/10",
+            "title": "Miyako Miyazaki's Melancholy and the First Tournament",
+            "title_japanese": "宮崎都の憂鬱と初大会",
+            "title_romanji": "Miyazaki Miyako no Yuuutsu to Hatsu Taikai ",
+            "aired": "2007-12-04T00:00:00+00:00",
+            "score": 4.41,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=8527"
+        },
+        {
+            "mal_id": 11,
+            "url": "https://myanimelist.net/anime/2986/Bamboo_Blade/episode/11",
+            "title": "Animation and Dreams",
+            "title_japanese": "アニメーションとドリーム",
+            "title_romanji": "Animation to Dream ",
+            "aired": "2007-12-11T00:00:00+00:00",
+            "score": 4.5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=9066"
+        },
+        {
+            "mal_id": 12,
+            "url": "https://myanimelist.net/anime/2986/Bamboo_Blade/episode/12",
+            "title": "Azuma's Circumstances and Mei's Circumstances",
+            "title_japanese": "東の事情とメイの事情",
+            "title_romanji": "Azuma no Jijou to Mei no Jijou ",
+            "aired": "2007-12-18T00:00:00+00:00",
+            "score": 4.57,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=9315"
+        },
+        {
+            "mal_id": 13,
+            "url": "https://myanimelist.net/anime/2986/Bamboo_Blade/episode/13",
+            "title": "Teachers and Students",
+            "title_japanese": "先生たちと生徒たち",
+            "title_romanji": "Sensei-tachi to Seito-tachi ",
+            "aired": "2007-12-25T00:00:00+00:00",
+            "score": 4.54,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=9763"
+        },
+        {
+            "mal_id": 14,
+            "url": "https://myanimelist.net/anime/2986/Bamboo_Blade/episode/14",
+            "title": "Satorin's Resolve and Nomming",
+            "title_japanese": "さとりんの決意ともぎゅもぎゅ",
+            "title_romanji": "Satorin no Ketsui to Mogyumogyu ",
+            "aired": "2008-01-08T00:00:00+00:00",
+            "score": 4.41,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=10771"
+        },
+        {
+            "mal_id": 15,
+            "url": "https://myanimelist.net/anime/2986/Bamboo_Blade/episode/15",
+            "title": "First Training Camp and First Public Bath",
+            "title_japanese": "初合宿と初銭湯",
+            "title_romanji": "Hatsugasshuku to Hatsusentou ",
+            "aired": "2008-01-15T00:00:00+00:00",
+            "score": 4.62,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=11454"
+        },
+        {
+            "mal_id": 16,
+            "url": "https://myanimelist.net/anime/2986/Bamboo_Blade/episode/16",
+            "title": "Kirino's Absence and the Preliminary Tournament",
+            "title_japanese": "キリノの欠席と予選大会",
+            "title_romanji": "Kirino no Kesseki to Yosen Taikai ",
+            "aired": "2008-01-22T00:00:00+00:00",
+            "score": 4.38,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=11952"
+        },
+        {
+            "mal_id": 17,
+            "url": "https://myanimelist.net/anime/2986/Bamboo_Blade/episode/17",
+            "title": "Light and Shadow",
+            "title_japanese": "光と陰",
+            "title_romanji": "Hikari to Kage ",
+            "aired": "2008-01-29T00:00:00+00:00",
+            "score": 4.7,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=12417"
+        },
+        {
+            "mal_id": 18,
+            "url": "https://myanimelist.net/anime/2986/Bamboo_Blade/episode/18",
+            "title": "The Tournament and Muroe High After That",
+            "title_japanese": "大会とその後の室江高",
+            "title_romanji": "Taikai to Sonogo no Muroekou ",
+            "aired": "2008-02-05T00:00:00+00:00",
+            "score": 4.34,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=12880"
+        },
+        {
+            "mal_id": 19,
+            "url": "https://myanimelist.net/anime/2986/Bamboo_Blade/episode/19",
+            "title": "The Armadillo and the Pangolin",
+            "title_japanese": "アルマジロとセンザンコウ",
+            "title_romanji": "Armadillo to Senzankou ",
+            "aired": "2008-02-12T00:00:00+00:00",
+            "score": 4.11,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=13895"
+        },
+        {
+            "mal_id": 20,
+            "url": "https://myanimelist.net/anime/2986/Bamboo_Blade/episode/20",
+            "title": "Braver and Shinaider",
+            "title_japanese": "ブレイバーとシナイダー",
+            "title_romanji": "Braver to Shinaider ",
+            "aired": "2008-02-19T00:00:00+00:00",
+            "score": 4.58,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=14493"
+        },
+        {
+            "mal_id": 21,
+            "url": "https://myanimelist.net/anime/2986/Bamboo_Blade/episode/21",
+            "title": "Tamaki Kawazoe and Rin Suzuki",
+            "title_japanese": "川 添珠姫と鈴木凛",
+            "title_romanji": "Kawazoe Tamaki to Suzuki Rin ",
+            "aired": "2008-02-26T00:00:00+00:00",
+            "score": 4.44,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=14973"
+        },
+        {
+            "mal_id": 22,
+            "url": "https://myanimelist.net/anime/2986/Bamboo_Blade/episode/22",
+            "title": "Winners and Losers",
+            "title_japanese": "敗者と勝者",
+            "title_romanji": "Haisha to Shousha ",
+            "aired": "2008-03-04T00:00:00+00:00",
+            "score": 4.46,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=15920"
+        },
+        {
+            "mal_id": 23,
+            "url": "https://myanimelist.net/anime/2986/Bamboo_Blade/episode/23",
+            "title": "Lie and Silence",
+            "title_japanese": "嘘と沈黙",
+            "title_romanji": "Uso to Chinmoku ",
+            "aired": "2008-03-11T00:00:00+00:00",
+            "score": 4.26,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=16909"
+        },
+        {
+            "mal_id": 24,
+            "url": "https://myanimelist.net/anime/2986/Bamboo_Blade/episode/24",
+            "title": "The Sword and the Way",
+            "title_japanese": "剣と道",
+            "title_romanji": "Ken to Michi ",
+            "aired": "2008-03-18T00:00:00+00:00",
+            "score": 4.61,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=17120"
+        },
+        {
+            "mal_id": 25,
+            "url": "https://myanimelist.net/anime/2986/Bamboo_Blade/episode/25",
+            "title": "Kendo and What it Brings About",
+            "title_japanese": "剣道とそれがもたらすもの",
+            "title_romanji": "Kendou to Sore ga Motarasu Mono ",
+            "aired": "2008-03-25T00:00:00+00:00",
+            "score": 4.69,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=17703"
+        },
+        {
+            "mal_id": 26,
+            "url": "https://myanimelist.net/anime/2986/Bamboo_Blade/episode/26",
+            "title": "\"Since Then\" and \"From Here on Out\"",
+            "title_japanese": "\"それから\"と\"これから\"",
+            "title_romanji": "\"Sorekara\" to \"korekara\" ",
+            "aired": "2008-04-01T00:00:00+00:00",
+            "score": 4.59,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=18793"
+        }
+    ]
+}

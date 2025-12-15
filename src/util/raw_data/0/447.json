@@ -1,0 +1,512 @@
+{
+    "id": 447,
+    "fetched_at": "Sun Dec 14 13:39:47 2025",
+    "metadata": {
+        "mal_id": 447,
+        "url": "https://myanimelist.net/anime/447/Weiß_Kreuz",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/13/23697.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/13/23697t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/13/23697l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/13/23697.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/13/23697t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/13/23697l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Weiß Kreuz"
+            },
+            {
+                "type": "Synonym",
+                "title": "Weiss Kreuz"
+            },
+            {
+                "type": "Synonym",
+                "title": "White Cross"
+            },
+            {
+                "type": "Japanese",
+                "title": "Weiß kreuz　ヴァイス　クロイツ"
+            },
+            {
+                "type": "English",
+                "title": "Knight Hunters"
+            }
+        ],
+        "title": "Weiß Kreuz",
+        "title_english": "Knight Hunters",
+        "title_japanese": "Weiß kreuz　ヴァイス　クロイツ",
+        "title_synonyms": [
+            "Weiss Kreuz",
+            "White Cross"
+        ],
+        "type": "TV",
+        "source": "Original",
+        "episodes": 25,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "1998-04-09T00:00:00+00:00",
+            "to": "1998-10-01T00:00:00+00:00",
+            "prop": {
+                "from": {
+                    "day": 9,
+                    "month": 4,
+                    "year": 1998
+                },
+                "to": {
+                    "day": 1,
+                    "month": 10,
+                    "year": 1998
+                }
+            },
+            "string": "Apr 9, 1998 to Oct 1, 1998"
+        },
+        "duration": "23 min per ep",
+        "rating": "PG-13 - Teens 13 or older",
+        "score": 6.67,
+        "scored_by": 7887,
+        "rank": 6301,
+        "popularity": 5350,
+        "members": 20308,
+        "favorites": 150,
+        "synopsis": "Aya, Youji, Ken, and Omi are the four young men who comprise Weiss Kreuz (WK), an assassin group that eliminates certain menaces to society. Each member has his own trademark fighting style. Aya is adept at fighting with a katana, Youji has mastered the art of strangulation via strings, Ken is lethal with his metal claws, while Omi specializes in a wide array of projectiles. Under the command of a mysterious man known only as \"Persia\", the WK is dispatched to take care of drug rings, terrorist factions, and the like. But as things go along, they discover that most, if not all, the bad elements they have dealt with are somehow connected to the Takatori family. The Takatori family is rich, powerful, and influential. It seems if the problem is to be nipped in the bud, the WK would have to put an end to one of Japan's most prominent clans.\n\n(Source: AniDB)",
+        "background": "",
+        "season": "spring",
+        "year": 1998,
+        "broadcast": {
+            "day": null,
+            "time": null,
+            "timezone": null,
+            "string": "Unknown"
+        },
+        "producers": [
+            {
+                "mal_id": 155,
+                "type": "anime",
+                "name": "animate Film",
+                "url": "https://myanimelist.net/anime/producer/155/animate_Film"
+            },
+            {
+                "mal_id": 156,
+                "type": "anime",
+                "name": "Polygram Japan",
+                "url": "https://myanimelist.net/anime/producer/156/Polygram_Japan"
+            }
+        ],
+        "licensors": [
+            {
+                "mal_id": 250,
+                "type": "anime",
+                "name": "Media Blasters",
+                "url": "https://myanimelist.net/anime/producer/250/Media_Blasters"
+            }
+        ],
+        "studios": [
+            {
+                "mal_id": 107,
+                "type": "anime",
+                "name": "Plum",
+                "url": "https://myanimelist.net/anime/producer/107/Plum"
+            },
+            {
+                "mal_id": 207,
+                "type": "anime",
+                "name": "Magic Bus",
+                "url": "https://myanimelist.net/anime/producer/207/Magic_Bus"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 1,
+                "type": "anime",
+                "name": "Action",
+                "url": "https://myanimelist.net/anime/genre/1/Action"
+            },
+            {
+                "mal_id": 8,
+                "type": "anime",
+                "name": "Drama",
+                "url": "https://myanimelist.net/anime/genre/8/Drama"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [],
+        "demographics": [],
+        "relations": [
+            {
+                "relation": "Sequel",
+                "entry": [
+                    {
+                        "mal_id": 1024,
+                        "type": "anime",
+                        "name": "Weiß Kreuz OVA",
+                        "url": "https://myanimelist.net/anime/1024/Weiß_Kreuz_OVA"
+                    },
+                    {
+                        "mal_id": 446,
+                        "type": "anime",
+                        "name": "Weiß Kreuz Glühen",
+                        "url": "https://myanimelist.net/anime/446/Weiß_Kreuz_Glühen"
+                    }
+                ]
+            },
+            {
+                "relation": "Adaptation",
+                "entry": [
+                    {
+                        "mal_id": 2722,
+                        "type": "manga",
+                        "name": "Weiß: An Assassin and White Shaman",
+                        "url": "https://myanimelist.net/manga/2722/Weiß__An_Assassin_and_White_Shaman"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [
+                "1: \"Velvet Underworld\" by Weiß (eps 1-15)",
+                "2: \"Piece of Heaven\" by Weiß (eps 16-25)"
+            ],
+            "endings": [
+                "1: \"Beautiful Alone\" by Weiß (eps 1-15)",
+                "2: \"It's too Late\" by Weiß (eps 16-25)"
+            ]
+        },
+        "external": [
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=583"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=254"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "http://en.wikipedia.org/wiki/Wei%C3%9F_Kreuz"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": [
+        {
+            "mal_id": 1,
+            "url": null,
+            "title": "Lockvogel - Sacred Banquet",
+            "title_japanese": "Lockvogel -贄の宴-",
+            "title_romanji": "Lockvogel -Nie no Utage- ",
+            "aired": "1998-04-09T00:00:00+00:00",
+            "score": 3.38,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=606051"
+        },
+        {
+            "mal_id": 2,
+            "url": null,
+            "title": "Fort Laufen - The Awakened Runaway",
+            "title_japanese": "Fort Laufen -醒めた暴走-",
+            "title_romanji": "Fort Laufen -Sameta Bousou- ",
+            "aired": "1998-04-16T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=606307"
+        },
+        {
+            "mal_id": 3,
+            "url": null,
+            "title": "Paradies - Heaven is Hell",
+            "title_japanese": "Paradies -天国は地獄-",
+            "title_romanji": "Paradies -Tengoku wa Jigoku- ",
+            "aired": "1998-04-23T00:00:00+00:00",
+            "score": 3.63,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=606333"
+        },
+        {
+            "mal_id": 4,
+            "url": null,
+            "title": "Verrat - Execution of Betrayal",
+            "title_japanese": "Verrat -裏切りの処刑-",
+            "title_romanji": "Verrat -Uragiri no Shokei- ",
+            "aired": "1998-04-30T00:00:00+00:00",
+            "score": 3.13,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=606465"
+        },
+        {
+            "mal_id": 5,
+            "url": null,
+            "title": "Schicksal - Fate of the Hunter",
+            "title_japanese": "Schicksal -狩人の運命-",
+            "title_romanji": "Schicksal -Kariudo no Sadame- ",
+            "aired": "1998-05-07T00:00:00+00:00",
+            "score": 2.5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=606557"
+        },
+        {
+            "mal_id": 6,
+            "url": null,
+            "title": "Fräulein - The Image of a Girl",
+            "title_japanese": "Fräulein -面影の少女-",
+            "title_romanji": "Fraulein -Omokage no Shoujo- ",
+            "aired": "1998-05-14T00:00:00+00:00",
+            "score": 2.8,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=606769"
+        },
+        {
+            "mal_id": 7,
+            "url": null,
+            "title": "Entführen - The Memories Return",
+            "title_japanese": "Entführen -甦る記憶-",
+            "title_romanji": "Entfuhren -Yomigaeru Kioku- ",
+            "aired": "1998-06-04T00:00:00+00:00",
+            "score": 3,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=606979"
+        },
+        {
+            "mal_id": 8,
+            "url": null,
+            "title": "Raubtier - Howls in the Night",
+            "title_japanese": "Raubtier -慟哭の夜-",
+            "title_romanji": "Raubtier -Doukoku no Yoru- ",
+            "aired": "1998-06-11T00:00:00+00:00",
+            "score": 3.6,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=607641"
+        },
+        {
+            "mal_id": 9,
+            "url": null,
+            "title": "Schreient - Each One's Thoughts",
+            "title_japanese": "Schreient -それぞれの思い-",
+            "title_romanji": "Schreient -Sorezore no Omoi- ",
+            "aired": "1998-06-18T00:00:00+00:00",
+            "score": 3.75,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=608117"
+        },
+        {
+            "mal_id": 10,
+            "url": null,
+            "title": "Bruder - Bond of Darkness",
+            "title_japanese": "Bruder -昏き絆-",
+            "title_romanji": "Bruder -Kuraki Kizuna- ",
+            "aired": "1998-06-25T00:00:00+00:00",
+            "score": 3,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=609151"
+        },
+        {
+            "mal_id": 11,
+            "url": null,
+            "title": "Abkunft - Breaking from the Spells",
+            "title_japanese": "Abkunft -呪縛からの決別-",
+            "title_romanji": "Abkunft -Jubaku Kara no Ketsubetsu- ",
+            "aired": "1998-07-02T00:00:00+00:00",
+            "score": 3.25,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=609759"
+        },
+        {
+            "mal_id": 12,
+            "url": null,
+            "title": "Abschied - Why...",
+            "title_japanese": "Abschied -何故…-",
+            "title_romanji": "Abschied -Naze...- ",
+            "aired": "1998-07-09T00:00:00+00:00",
+            "score": 3.8,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=610419"
+        },
+        {
+            "mal_id": 13,
+            "url": null,
+            "title": "Bruch - Rain of Revenge",
+            "title_japanese": "Bruch -復讐の雨-",
+            "title_romanji": "Bruch -Fukushuu no Ame- ",
+            "aired": "1998-07-16T00:00:00+00:00",
+            "score": 2.75,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=454117"
+        },
+        {
+            "mal_id": 14,
+            "url": null,
+            "title": "Fliehen - Martial Law",
+            "title_japanese": "Fliehen -首都戒厳-",
+            "title_romanji": "Fliehen -Shuto Kaigen- ",
+            "aired": "1998-07-23T00:00:00+00:00",
+            "score": 4.5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=611133"
+        },
+        {
+            "mal_id": 15,
+            "url": null,
+            "title": "Duell - Hunters of Revenge",
+            "title_japanese": "Duell -逆襲の狩人-",
+            "title_romanji": "Duell -Gyakushuu no Kariudo- ",
+            "aired": "1998-06-30T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=55589"
+        },
+        {
+            "mal_id": 16,
+            "url": null,
+            "title": "Schatten - Return to Battle",
+            "title_japanese": "Schatten -戦いへの回帰-",
+            "title_romanji": "Schatten -Tatakai e no Kaiki- ",
+            "aired": "1998-08-06T00:00:00+00:00",
+            "score": 3,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=616177"
+        },
+        {
+            "mal_id": 17,
+            "url": null,
+            "title": "Kritiker - Pride With No Name",
+            "title_japanese": "Kritiker -名もなき誇り-",
+            "title_romanji": "Kritiker -Na mo Naki Hokori- ",
+            "aired": "1998-08-13T00:00:00+00:00",
+            "score": 3,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=617699"
+        },
+        {
+            "mal_id": 18,
+            "url": null,
+            "title": "Schuld - Farfarello",
+            "title_japanese": "Schuld -ファルファレロ-",
+            "title_romanji": "Schuld - Farfarello ",
+            "aired": "1998-08-20T00:00:00+00:00",
+            "score": 3.67,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=618409"
+        },
+        {
+            "mal_id": 19,
+            "url": null,
+            "title": "Sehen - Prelude to Insanity",
+            "title_japanese": "Sehen -狂想の序曲-",
+            "title_romanji": "Sehen -Kyou Sou no Jokyoku- ",
+            "aired": "1998-08-27T00:00:00+00:00",
+            "score": 3.67,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=618461"
+        },
+        {
+            "mal_id": 20,
+            "url": null,
+            "title": "Recht - Arrow of Justice",
+            "title_japanese": "Recht -裁きの矢-",
+            "title_romanji": "Recht -Sabaki no Ya- ",
+            "aired": "1998-09-03T00:00:00+00:00",
+            "score": 3.2,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=618897"
+        },
+        {
+            "mal_id": 21,
+            "url": null,
+            "title": "Trane - Among Memories...",
+            "title_japanese": "Trane -思い出の中で…-",
+            "title_romanji": "Trane -Omoide no Naka de- ",
+            "aired": "1998-09-10T00:00:00+00:00",
+            "score": 3,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=618959"
+        },
+        {
+            "mal_id": 22,
+            "url": null,
+            "title": "Miteid - Fading Time",
+            "title_japanese": "Miteid -色あせる時-",
+            "title_romanji": "Miteid -Iroaseru Toki- ",
+            "aired": "1998-09-17T00:00:00+00:00",
+            "score": 3.33,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=618967"
+        },
+        {
+            "mal_id": 23,
+            "url": null,
+            "title": "Schraube - Everything For Love",
+            "title_japanese": "Schraube -愛にすべてを-",
+            "title_romanji": "Schraube -Ai ni Subete wo- ",
+            "aired": "1998-09-24T00:00:00+00:00",
+            "score": 2.67,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=619005"
+        },
+        {
+            "mal_id": 24,
+            "url": null,
+            "title": "Zeremonie - The Portrait Which Passes Each Other",
+            "title_japanese": "Zeremonie -すれ違う肖像-",
+            "title_romanji": "Zeremonie -Surechigau Shouzou- ",
+            "aired": "1998-10-01T00:00:00+00:00",
+            "score": 3,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=619613"
+        },
+        {
+            "mal_id": 25,
+            "url": null,
+            "title": "Ende des Weiß - Those of White...",
+            "title_japanese": "Ende des Weiß -白き者たちに…-",
+            "title_romanji": "Ende des Weiß -Shiroki Mono-tachi...- ",
+            "aired": "1998-10-01T00:00:00+00:00",
+            "score": 3.88,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=619659"
+        }
+    ]
+}

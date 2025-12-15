@@ -1,0 +1,182 @@
+{
+    "id": 1850,
+    "fetched_at": "Sun Dec 14 17:28:33 2025",
+    "metadata": {
+        "mal_id": 1850,
+        "url": "https://myanimelist.net/anime/1850/Haou_Taikei_Ryuu_Knight__Adeu_Legend_II",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/8/52147.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/8/52147t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/8/52147l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/8/52147.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/8/52147t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/8/52147l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Haou Taikei Ryuu Knight: Adeu Legend II"
+            },
+            {
+                "type": "Synonym",
+                "title": "Adeus Legend OVA II"
+            },
+            {
+                "type": "Synonym",
+                "title": "Lord of Lords Ryu Knight OVA 2"
+            },
+            {
+                "type": "Japanese",
+                "title": "覇王大系リューナイト アデュー・レジェンドⅡ"
+            },
+            {
+                "type": "English",
+                "title": "Lord of Lords Ryu Knight: Adeu's Legend II"
+            }
+        ],
+        "title": "Haou Taikei Ryuu Knight: Adeu Legend II",
+        "title_english": "Lord of Lords Ryu Knight: Adeu's Legend II",
+        "title_japanese": "覇王大系リューナイト アデュー・レジェンドⅡ",
+        "title_synonyms": [
+            "Adeus Legend OVA II",
+            "Lord of Lords Ryu Knight OVA 2"
+        ],
+        "type": "OVA",
+        "source": "Original",
+        "episodes": 3,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "1995-12-18T00:00:00+00:00",
+            "to": "1996-04-25T00:00:00+00:00",
+            "prop": {
+                "from": {
+                    "day": 18,
+                    "month": 12,
+                    "year": 1995
+                },
+                "to": {
+                    "day": 25,
+                    "month": 4,
+                    "year": 1996
+                }
+            },
+            "string": "Dec 18, 1995 to Apr 25, 1996"
+        },
+        "duration": "25 min per ep",
+        "rating": "PG-13 - Teens 13 or older",
+        "score": 5.99,
+        "scored_by": 523,
+        "rank": 10343,
+        "popularity": 13615,
+        "members": 1398,
+        "favorites": 1,
+        "synopsis": "Continuation of the series.",
+        "background": "",
+        "season": null,
+        "year": null,
+        "broadcast": {
+            "day": null,
+            "time": null,
+            "timezone": null,
+            "string": null
+        },
+        "producers": [],
+        "licensors": [],
+        "studios": [
+            {
+                "mal_id": 14,
+                "type": "anime",
+                "name": "Sunrise",
+                "url": "https://myanimelist.net/anime/producer/14/Sunrise"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 2,
+                "type": "anime",
+                "name": "Adventure",
+                "url": "https://myanimelist.net/anime/genre/2/Adventure"
+            },
+            {
+                "mal_id": 10,
+                "type": "anime",
+                "name": "Fantasy",
+                "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [
+            {
+                "mal_id": 18,
+                "type": "anime",
+                "name": "Mecha",
+                "url": "https://myanimelist.net/anime/genre/18/Mecha"
+            }
+        ],
+        "demographics": [],
+        "relations": [
+            {
+                "relation": "Prequel",
+                "entry": [
+                    {
+                        "mal_id": 1849,
+                        "type": "anime",
+                        "name": "Haou Taikei Ryuu Knight: Adeu Legend",
+                        "url": "https://myanimelist.net/anime/1849/Haou_Taikei_Ryuu_Knight__Adeu_Legend"
+                    }
+                ]
+            },
+            {
+                "relation": "Sequel",
+                "entry": [
+                    {
+                        "mal_id": 1851,
+                        "type": "anime",
+                        "name": "Haou Taikei Ryuu Knight: Adeu Legend Final",
+                        "url": "https://myanimelist.net/anime/1851/Haou_Taikei_Ryuu_Knight__Adeu_Legend_Final"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [],
+            "endings": [
+                "\"Yume ni Stay (夢にStay)\" by Hitomi Mieno"
+            ]
+        },
+        "external": [
+            {
+                "name": "Official Site",
+                "url": "http://www.sunrise-anime.jp/sunrise-inc/works/detail.php?cid=190"
+            },
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=1235"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=7396"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": []
+}

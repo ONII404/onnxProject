@@ -1,0 +1,148 @@
+{
+    "id": 3429,
+    "fetched_at": "Sun Dec 14 19:35:23 2025",
+    "metadata": {
+        "mal_id": 3429,
+        "url": "https://myanimelist.net/anime/3429/Blame_Special",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/5/10569.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/5/10569t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/5/10569l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/5/10569.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/5/10569t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/5/10569l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Blame! Special"
+            },
+            {
+                "type": "Japanese",
+                "title": "Blame! Extra Log: Collapsed Data"
+            }
+        ],
+        "title": "Blame! Special",
+        "title_english": null,
+        "title_japanese": "Blame! Extra Log: Collapsed Data",
+        "title_synonyms": [],
+        "type": "Special",
+        "source": "Manga",
+        "episodes": 1,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "2003-10-24T00:00:00+00:00",
+            "to": null,
+            "prop": {
+                "from": {
+                    "day": 24,
+                    "month": 10,
+                    "year": 2003
+                },
+                "to": {
+                    "day": null,
+                    "month": null,
+                    "year": null
+                }
+            },
+            "string": "Oct 24, 2003"
+        },
+        "duration": "4 min",
+        "rating": "PG-13 - Teens 13 or older",
+        "score": 5.3,
+        "scored_by": 4113,
+        "rank": 13248,
+        "popularity": 7119,
+        "members": 9890,
+        "favorites": 5,
+        "synopsis": "Based on the Blame! manga series by Tsutomu Nihei.",
+        "background": "",
+        "season": null,
+        "year": null,
+        "broadcast": {
+            "day": null,
+            "time": null,
+            "timezone": null,
+            "string": null
+        },
+        "producers": [],
+        "licensors": [],
+        "studios": [
+            {
+                "mal_id": 86,
+                "type": "anime",
+                "name": "Group TAC",
+                "url": "https://myanimelist.net/anime/producer/86/Group_TAC"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 24,
+                "type": "anime",
+                "name": "Sci-Fi",
+                "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [
+            {
+                "mal_id": 18,
+                "type": "anime",
+                "name": "Mecha",
+                "url": "https://myanimelist.net/anime/genre/18/Mecha"
+            }
+        ],
+        "demographics": [],
+        "relations": [
+            {
+                "relation": "Prequel",
+                "entry": [
+                    {
+                        "mal_id": 1055,
+                        "type": "anime",
+                        "name": "Blame!",
+                        "url": "https://myanimelist.net/anime/1055/Blame"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [],
+            "endings": []
+        },
+        "external": [
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=1050"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=1166"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Blame!"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": []
+}

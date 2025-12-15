@@ -1,0 +1,366 @@
+{
+    "id": 888,
+    "fetched_at": "Sun Dec 14 14:15:46 2025",
+    "metadata": {
+        "mal_id": 888,
+        "url": "https://myanimelist.net/anime/888/Megami_Kouhosei",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/11/75472.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/11/75472t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/11/75472l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/11/75472.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/11/75472t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/11/75472l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Megami Kouhosei"
+            },
+            {
+                "type": "Synonym",
+                "title": "Pilot Candidate"
+            },
+            {
+                "type": "Japanese",
+                "title": "女神候補生"
+            },
+            {
+                "type": "English",
+                "title": "Candidate for Goddesses"
+            }
+        ],
+        "title": "Megami Kouhosei",
+        "title_english": "Candidate for Goddesses",
+        "title_japanese": "女神候補生",
+        "title_synonyms": [
+            "Pilot Candidate"
+        ],
+        "type": "TV",
+        "source": "Manga",
+        "episodes": 12,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "2000-01-10T00:00:00+00:00",
+            "to": "2000-03-27T00:00:00+00:00",
+            "prop": {
+                "from": {
+                    "day": 10,
+                    "month": 1,
+                    "year": 2000
+                },
+                "to": {
+                    "day": 27,
+                    "month": 3,
+                    "year": 2000
+                }
+            },
+            "string": "Jan 10, 2000 to Mar 27, 2000"
+        },
+        "duration": "24 min per ep",
+        "rating": "PG-13 - Teens 13 or older",
+        "score": 6.31,
+        "scored_by": 11213,
+        "rank": 8471,
+        "popularity": 4977,
+        "members": 24082,
+        "favorites": 52,
+        "synopsis": "In the future humankind has expanded and colonized other planets. Then an alien species, Victim, attacks the human colonies leaving only one planet, Zion. In an effort to stop Victim from destroying the last planet a training school, GOA, is set up to gather boys from the Zion colonies and train them to become pilots of the Ingrids AKA The Goddesses, five fighting robots that protect Zion. The boys must possess a rare blood type, EO, as well as a special ability, or EX. Zero (Candidate 88) has just arrived in GOA when he falls into the cockpit of the Ingrid Eeva-Leena. Since the synch between pilot and Ingrid are very sensitive everyone believes the Goddess will kill Zero in an attempt to synch. Just before Zero passes out he makes a full synch with the Goddess. Before he can find out more about the incident, his pilot training begins.\n\n(Source: ANN)",
+        "background": "",
+        "season": "winter",
+        "year": 2000,
+        "broadcast": {
+            "day": "Mondays",
+            "time": "18:00",
+            "timezone": "Asia/Tokyo",
+            "string": "Mondays at 18:00 (JST)"
+        },
+        "producers": [
+            {
+                "mal_id": 23,
+                "type": "anime",
+                "name": "Bandai Visual",
+                "url": "https://myanimelist.net/anime/producer/23/Bandai_Visual"
+            },
+            {
+                "mal_id": 469,
+                "type": "anime",
+                "name": "ING",
+                "url": "https://myanimelist.net/anime/producer/469/ING"
+            }
+        ],
+        "licensors": [
+            {
+                "mal_id": 233,
+                "type": "anime",
+                "name": "Bandai Entertainment",
+                "url": "https://myanimelist.net/anime/producer/233/Bandai_Entertainment"
+            },
+            {
+                "mal_id": 467,
+                "type": "anime",
+                "name": "Discotek Media",
+                "url": "https://myanimelist.net/anime/producer/467/Discotek_Media"
+            }
+        ],
+        "studios": [
+            {
+                "mal_id": 27,
+                "type": "anime",
+                "name": "Xebec",
+                "url": "https://myanimelist.net/anime/producer/27/Xebec"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 24,
+                "type": "anime",
+                "name": "Sci-Fi",
+                "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [
+            {
+                "mal_id": 18,
+                "type": "anime",
+                "name": "Mecha",
+                "url": "https://myanimelist.net/anime/genre/18/Mecha"
+            },
+            {
+                "mal_id": 38,
+                "type": "anime",
+                "name": "Military",
+                "url": "https://myanimelist.net/anime/genre/38/Military"
+            },
+            {
+                "mal_id": 29,
+                "type": "anime",
+                "name": "Space",
+                "url": "https://myanimelist.net/anime/genre/29/Space"
+            }
+        ],
+        "demographics": [],
+        "relations": [
+            {
+                "relation": "Adaptation",
+                "entry": [
+                    {
+                        "mal_id": 93,
+                        "type": "manga",
+                        "name": "Megami Kouhosei",
+                        "url": "https://myanimelist.net/manga/93/Megami_Kouhosei"
+                    }
+                ]
+            },
+            {
+                "relation": "Summary",
+                "entry": [
+                    {
+                        "mal_id": 887,
+                        "type": "anime",
+                        "name": "Megami Kouhosei Special Curriculum",
+                        "url": "https://myanimelist.net/anime/887/Megami_Kouhosei_Special_Curriculum"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [
+                "\"Aim for Zion, the Planet of Hope\" by Tomoyuki Asakawa"
+            ],
+            "endings": [
+                "1: \"Chance\" by Koizumi Kouhei (eps 1-11)",
+                "2: \"Kagayaki\" by Koizumi Kouhei (eps 12)"
+            ]
+        },
+        "external": [
+            {
+                "name": "Official Site",
+                "url": "http://www.production-ig.co.jp/xebec/sakuhin/megami/index.html"
+            },
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=253"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=194"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "http://en.wikipedia.org/wiki/Candidate_for_Goddess"
+            }
+        ],
+        "streaming": [
+            {
+                "name": "Crunchyroll",
+                "url": "http://www.crunchyroll.com/series-273787"
+            }
+        ]
+    },
+    "episodes": [
+        {
+            "mal_id": 1,
+            "url": "https://myanimelist.net/anime/888/Megami_Kouhosei/episode/1",
+            "title": "Curriculum 01 In Tune",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 3.2,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=630833"
+        },
+        {
+            "mal_id": 2,
+            "url": "https://myanimelist.net/anime/888/Megami_Kouhosei/episode/2",
+            "title": "Curriculum 02 EX",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 3.38,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=630837"
+        },
+        {
+            "mal_id": 3,
+            "url": "https://myanimelist.net/anime/888/Megami_Kouhosei/episode/3",
+            "title": "Curriculum 03 Self Awareness",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 2.5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=630849"
+        },
+        {
+            "mal_id": 4,
+            "url": "https://myanimelist.net/anime/888/Megami_Kouhosei/episode/4",
+            "title": "Curriculum 04 Partner",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 3.4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=630855"
+        },
+        {
+            "mal_id": 5,
+            "url": "https://myanimelist.net/anime/888/Megami_Kouhosei/episode/5",
+            "title": "Curriculum 05 Combination",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 3.2,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=630905"
+        },
+        {
+            "mal_id": 6,
+            "url": "https://myanimelist.net/anime/888/Megami_Kouhosei/episode/6",
+            "title": "Curriculum 06 PRO-ING",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 2.6,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=630931"
+        },
+        {
+            "mal_id": 7,
+            "url": "https://myanimelist.net/anime/888/Megami_Kouhosei/episode/7",
+            "title": "Curriculum 07 Ground Battle",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 2.67,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=630961"
+        },
+        {
+            "mal_id": 8,
+            "url": "https://myanimelist.net/anime/888/Megami_Kouhosei/episode/8",
+            "title": "Curriculum 08 Death",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 3,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=630975"
+        },
+        {
+            "mal_id": 9,
+            "url": "https://myanimelist.net/anime/888/Megami_Kouhosei/episode/9",
+            "title": "Curriculum 09 Dream",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 2.67,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=630997"
+        },
+        {
+            "mal_id": 10,
+            "url": "https://myanimelist.net/anime/888/Megami_Kouhosei/episode/10",
+            "title": "Curriculum 10 Jealousy",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 2.5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=631007"
+        },
+        {
+            "mal_id": 11,
+            "url": "https://myanimelist.net/anime/888/Megami_Kouhosei/episode/11",
+            "title": "Curriculum 11 Driftage",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 3,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=631021"
+        },
+        {
+            "mal_id": 12,
+            "url": "https://myanimelist.net/anime/888/Megami_Kouhosei/episode/12",
+            "title": "Curriculum 12 Friends",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 2.63,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=282844"
+        }
+    ]
+}

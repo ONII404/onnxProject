@@ -1,0 +1,176 @@
+{
+    "id": 3514,
+    "fetched_at": "Sun Dec 14 19:40:48 2025",
+    "metadata": {
+        "mal_id": 3514,
+        "url": "https://myanimelist.net/anime/3514/Noramimi",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1532/133818.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1532/133818t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1532/133818l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1532/133818.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1532/133818t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1532/133818l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Noramimi"
+            },
+            {
+                "type": "Synonym",
+                "title": "Nora Mimi"
+            },
+            {
+                "type": "Japanese",
+                "title": "のらみみ"
+            }
+        ],
+        "title": "Noramimi",
+        "title_english": null,
+        "title_japanese": "のらみみ",
+        "title_synonyms": [
+            "Nora Mimi"
+        ],
+        "type": "TV",
+        "source": "Manga",
+        "episodes": 12,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "2008-01-09T00:00:00+00:00",
+            "to": "2008-03-26T00:00:00+00:00",
+            "prop": {
+                "from": {
+                    "day": 9,
+                    "month": 1,
+                    "year": 2008
+                },
+                "to": {
+                    "day": 26,
+                    "month": 3,
+                    "year": 2008
+                }
+            },
+            "string": "Jan 9, 2008 to Mar 26, 2008"
+        },
+        "duration": "20 min per ep",
+        "rating": "G - All Ages",
+        "score": 6.15,
+        "scored_by": 171,
+        "rank": 9475,
+        "popularity": 13579,
+        "members": 1416,
+        "favorites": 1,
+        "synopsis": "The anime is based on Kazuo Hara's comedy manga in which mascot characters live and work among humans. Agencies have been set up to train mascots to babysit children and then to place the mascots within families. Noramimi is one such mascot at the Hello Kids branch office #59. Unfortunately, no family wants to adopt a mascot born from a demon (oni) family, so he is stuck living at the agency.\n\nSource: ANN, Moon Phase",
+        "background": "",
+        "season": "winter",
+        "year": 2008,
+        "broadcast": {
+            "day": null,
+            "time": null,
+            "timezone": null,
+            "string": "Unknown"
+        },
+        "producers": [
+            {
+                "mal_id": 2174,
+                "type": "anime",
+                "name": "TMS Music",
+                "url": "https://myanimelist.net/anime/producer/2174/TMS_Music"
+            }
+        ],
+        "licensors": [],
+        "studios": [
+            {
+                "mal_id": 73,
+                "type": "anime",
+                "name": "TMS Entertainment",
+                "url": "https://myanimelist.net/anime/producer/73/TMS_Entertainment"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 4,
+                "type": "anime",
+                "name": "Comedy",
+                "url": "https://myanimelist.net/anime/genre/4/Comedy"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [
+            {
+                "mal_id": 53,
+                "type": "anime",
+                "name": "Childcare",
+                "url": "https://myanimelist.net/anime/genre/53/Childcare"
+            }
+        ],
+        "demographics": [],
+        "relations": [
+            {
+                "relation": "Sequel",
+                "entry": [
+                    {
+                        "mal_id": 5089,
+                        "type": "anime",
+                        "name": "Noramimi 2",
+                        "url": "https://myanimelist.net/anime/5089/Noramimi_2"
+                    }
+                ]
+            },
+            {
+                "relation": "Adaptation",
+                "entry": [
+                    {
+                        "mal_id": 1713,
+                        "type": "manga",
+                        "name": "Noramimi",
+                        "url": "https://myanimelist.net/manga/1713/Noramimi"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [
+                "\"Furui Teikyuubi no Uta\" by Masaki Kurihara"
+            ],
+            "endings": [
+                "\"roundabout\" by Seira Kagami"
+            ]
+        },
+        "external": [
+            {
+                "name": "Official Site",
+                "url": "http://www.ikki-para.com/comix/noramimi.html"
+            },
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=5624"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=8891"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": []
+}

@@ -1,0 +1,171 @@
+{
+    "id": 1764,
+    "fetched_at": "Sun Dec 14 16:50:23 2025",
+    "metadata": {
+        "mal_id": 1764,
+        "url": "https://myanimelist.net/anime/1764/Slam_Dunk_Movie",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/5/31927.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/5/31927t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/5/31927l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/5/31927.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/5/31927t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/5/31927l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": "https://www.youtube-nocookie.com/embed/admV20pr2BY?enablejsapi=1&wmode=opaque&autoplay=1",
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Slam Dunk (Movie)"
+            },
+            {
+                "type": "Synonym",
+                "title": "Slam Dunk Movie 1"
+            },
+            {
+                "type": "Japanese",
+                "title": "スラムダンク"
+            }
+        ],
+        "title": "Slam Dunk (Movie)",
+        "title_english": null,
+        "title_japanese": "スラムダンク",
+        "title_synonyms": [
+            "Slam Dunk Movie 1"
+        ],
+        "type": "Movie",
+        "source": "Manga",
+        "episodes": 1,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "1994-03-12T00:00:00+00:00",
+            "to": null,
+            "prop": {
+                "from": {
+                    "day": 12,
+                    "month": 3,
+                    "year": 1994
+                },
+                "to": {
+                    "day": null,
+                    "month": null,
+                    "year": null
+                }
+            },
+            "string": "Mar 12, 1994"
+        },
+        "duration": "30 min",
+        "rating": "PG-13 - Teens 13 or older",
+        "score": 7.31,
+        "scored_by": 11742,
+        "rank": 2862,
+        "popularity": 5074,
+        "members": 23024,
+        "favorites": 31,
+        "synopsis": "Sakuragi and the Shohoku team takes on Oda and Takezono High School. This is Sakuragi's second match as he faces Oda, a basketball player who went to the same junior high.\n\n(Source: ANN)",
+        "background": "",
+        "season": null,
+        "year": null,
+        "broadcast": {
+            "day": null,
+            "time": null,
+            "timezone": null,
+            "string": null
+        },
+        "producers": [],
+        "licensors": [],
+        "studios": [
+            {
+                "mal_id": 18,
+                "type": "anime",
+                "name": "Toei Animation",
+                "url": "https://myanimelist.net/anime/producer/18/Toei_Animation"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 30,
+                "type": "anime",
+                "name": "Sports",
+                "url": "https://myanimelist.net/anime/genre/30/Sports"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [
+            {
+                "mal_id": 23,
+                "type": "anime",
+                "name": "School",
+                "url": "https://myanimelist.net/anime/genre/23/School"
+            },
+            {
+                "mal_id": 77,
+                "type": "anime",
+                "name": "Team Sports",
+                "url": "https://myanimelist.net/anime/genre/77/Team_Sports"
+            }
+        ],
+        "demographics": [
+            {
+                "mal_id": 27,
+                "type": "anime",
+                "name": "Shounen",
+                "url": "https://myanimelist.net/anime/genre/27/Shounen"
+            }
+        ],
+        "relations": [
+            {
+                "relation": "Parent Story",
+                "entry": [
+                    {
+                        "mal_id": 170,
+                        "type": "anime",
+                        "name": "Slam Dunk",
+                        "url": "https://myanimelist.net/anime/170/Slam_Dunk"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [
+                "\"Kimi ga Suki da to Sakebitai\" by BAAD"
+            ],
+            "endings": [
+                "\"Anata Dake Mitsumete'ru\" by Ooguro Maki"
+            ]
+        },
+        "external": [
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=695"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=1141"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "http://en.wikipedia.org/wiki/Slam_Dunk_%28manga%29"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": []
+}

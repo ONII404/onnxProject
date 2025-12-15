@@ -1,0 +1,543 @@
+{
+    "id": 3226,
+    "fetched_at": "Sun Dec 14 19:23:05 2025",
+    "metadata": {
+        "mal_id": 3226,
+        "url": "https://myanimelist.net/anime/3226/Major_S4",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/9/75217.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/9/75217t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/9/75217l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/9/75217.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/9/75217t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/9/75217l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Major S4"
+            },
+            {
+                "type": "Synonym",
+                "title": "Major 4th Season"
+            },
+            {
+                "type": "Synonym",
+                "title": "Major 4"
+            },
+            {
+                "type": "Synonym",
+                "title": "m4"
+            },
+            {
+                "type": "Japanese",
+                "title": "メジャー　（第4シリーズ)"
+            }
+        ],
+        "title": "Major S4",
+        "title_english": null,
+        "title_japanese": "メジャー　（第4シリーズ)",
+        "title_synonyms": [
+            "Major 4th Season",
+            "Major 4",
+            "m4"
+        ],
+        "type": "TV",
+        "source": "Manga",
+        "episodes": 26,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "2008-01-05T00:00:00+00:00",
+            "to": "2008-06-28T00:00:00+00:00",
+            "prop": {
+                "from": {
+                    "day": 5,
+                    "month": 1,
+                    "year": 2008
+                },
+                "to": {
+                    "day": 28,
+                    "month": 6,
+                    "year": 2008
+                }
+            },
+            "string": "Jan 5, 2008 to Jun 28, 2008"
+        },
+        "duration": "24 min per ep",
+        "rating": "PG-13 - Teens 13 or older",
+        "score": 8.18,
+        "scored_by": 42641,
+        "rank": 447,
+        "popularity": 2923,
+        "members": 69160,
+        "favorites": 196,
+        "synopsis": "Having finished high school, Gorou Honda sets his sights on becoming a professional baseball player. His dreams are much more ambitious than becoming a Japanese Baseball League player, so he instead decides to move to the birthplace of his beloved sport, America, in order to play in the Major League.\n\nHowever, Gorou finds that the Major League players are much faster, stronger, and more driven than he is. Nonetheless, he is eager to catch up with them. In order to do so, Gorou must first conquer the ranks of the Minor League, where numerous skilled players compete in the grueling rise to the Majors.\n\nGorou learns that he will have to adapt to the stark differences of American culture and push himself to new extremes as his race to join the Major League begins.\n\n[Written by MAL Rewrite]",
+        "background": "",
+        "season": "winter",
+        "year": 2008,
+        "broadcast": {
+            "day": "Saturdays",
+            "time": "18:00",
+            "timezone": "Asia/Tokyo",
+            "string": "Saturdays at 18:00 (JST)"
+        },
+        "producers": [
+            {
+                "mal_id": 111,
+                "type": "anime",
+                "name": "NHK",
+                "url": "https://myanimelist.net/anime/producer/111/NHK"
+            },
+            {
+                "mal_id": 1797,
+                "type": "anime",
+                "name": "NHK Enterprises",
+                "url": "https://myanimelist.net/anime/producer/1797/NHK_Enterprises"
+            },
+            {
+                "mal_id": 3087,
+                "type": "anime",
+                "name": "Shogakukan Productions",
+                "url": "https://myanimelist.net/anime/producer/3087/Shogakukan_Productions"
+            }
+        ],
+        "licensors": [],
+        "studios": [
+            {
+                "mal_id": 118,
+                "type": "anime",
+                "name": "SynergySP",
+                "url": "https://myanimelist.net/anime/producer/118/SynergySP"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 30,
+                "type": "anime",
+                "name": "Sports",
+                "url": "https://myanimelist.net/anime/genre/30/Sports"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [
+            {
+                "mal_id": 77,
+                "type": "anime",
+                "name": "Team Sports",
+                "url": "https://myanimelist.net/anime/genre/77/Team_Sports"
+            }
+        ],
+        "demographics": [
+            {
+                "mal_id": 27,
+                "type": "anime",
+                "name": "Shounen",
+                "url": "https://myanimelist.net/anime/genre/27/Shounen"
+            }
+        ],
+        "relations": [
+            {
+                "relation": "Prequel",
+                "entry": [
+                    {
+                        "mal_id": 1842,
+                        "type": "anime",
+                        "name": "Major S3",
+                        "url": "https://myanimelist.net/anime/1842/Major_S3"
+                    }
+                ]
+            },
+            {
+                "relation": "Sequel",
+                "entry": [
+                    {
+                        "mal_id": 5028,
+                        "type": "anime",
+                        "name": "Major S5",
+                        "url": "https://myanimelist.net/anime/5028/Major_S5"
+                    }
+                ]
+            },
+            {
+                "relation": "Adaptation",
+                "entry": [
+                    {
+                        "mal_id": 10978,
+                        "type": "manga",
+                        "name": "Major",
+                        "url": "https://myanimelist.net/manga/10978/Major"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [
+                "\"Rise\" by Kouhei Ootomo"
+            ],
+            "endings": [
+                "1: \"One Day\" by The Loose Dogs (eps 1-17)",
+                "2: \"Ame Nochi Niji Iro)\" by Goro Shigeno x The Loose Dogs feat. Maki Ohguro (eps 18-25)",
+                "3: \"Rise\" by Kouhei Ootomo (eps 26)"
+            ]
+        },
+        "external": [
+            {
+                "name": "Official Site",
+                "url": "http://www3.nhk.or.jp/anime/major/"
+            },
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=5316"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=4115"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "http://en.wikipedia.org/wiki/Major_(manga)"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "https://ja.wikipedia.org/wiki/%E3%83%A1%E3%82%B8%E3%83%A3%E3%83%BC_%28%E3%82%A2%E3%83%8B%E3%83%A1%29"
+            },
+            {
+                "name": "Syoboi",
+                "url": "https://cal.syoboi.jp/tid/1305"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": [
+        {
+            "mal_id": 1,
+            "url": null,
+            "title": "To the Birthplace of Baseball",
+            "title_japanese": "ふるさと)へ",
+            "title_romanji": "Yakyuu no Furusato e (野球の故郷",
+            "aired": "2008-01-05T00:00:00+00:00",
+            "score": 4.65,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=11099"
+        },
+        {
+            "mal_id": 2,
+            "url": null,
+            "title": "Tryout",
+            "title_japanese": "トライアウト",
+            "title_romanji": "Tryout ",
+            "aired": "2008-01-12T00:00:00+00:00",
+            "score": 4.48,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=11655"
+        },
+        {
+            "mal_id": 3,
+            "url": null,
+            "title": "I'll Do It",
+            "title_japanese": "やってやる!",
+            "title_romanji": "Yatte Yaru! ",
+            "aired": "2008-01-19T00:00:00+00:00",
+            "score": 4.59,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=11540"
+        },
+        {
+            "mal_id": 4,
+            "url": null,
+            "title": "This is the Majors!",
+            "title_japanese": "これがメジャー!",
+            "title_romanji": "Kore ga Major! ",
+            "aired": "2008-01-26T00:00:00+00:00",
+            "score": 4.41,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=12527"
+        },
+        {
+            "mal_id": 5,
+            "url": null,
+            "title": "Sign towards the World",
+            "title_japanese": "世界への道しるべ",
+            "title_romanji": "Sekai e no Michishirube ",
+            "aired": "2008-02-02T00:00:00+00:00",
+            "score": 4.41,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=13425"
+        },
+        {
+            "mal_id": 6,
+            "url": null,
+            "title": "Unforgivable!!",
+            "title_japanese": "ゆるさねぇ!!",
+            "title_romanji": "Yurusanee!! ",
+            "aired": "2008-02-09T00:00:00+00:00",
+            "score": 4.31,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=13974"
+        },
+        {
+            "mal_id": 7,
+            "url": null,
+            "title": "Courage, full score!",
+            "title_japanese": "度胸満点!",
+            "title_romanji": "Dokyou Manten! ",
+            "aired": "2008-02-16T00:00:00+00:00",
+            "score": 4.45,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=16133"
+        },
+        {
+            "mal_id": 8,
+            "url": null,
+            "title": "Debut!",
+            "title_japanese": "デビュー!",
+            "title_romanji": "Debut! ",
+            "aired": "2008-02-23T00:00:00+00:00",
+            "score": 3.75,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=18835"
+        },
+        {
+            "mal_id": 9,
+            "url": null,
+            "title": "Challenger",
+            "title_japanese": "挑戦者",
+            "title_romanji": "Chousensha ",
+            "aired": "2008-03-01T00:00:00+00:00",
+            "score": 3.48,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=21620"
+        },
+        {
+            "mal_id": 10,
+            "url": null,
+            "title": "It's not impossible",
+            "title_japanese": "無理じゃねぇ",
+            "title_romanji": "Muri ja Nee ",
+            "aired": "2008-03-08T00:00:00+00:00",
+            "score": 4.21,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=25127"
+        },
+        {
+            "mal_id": 11,
+            "url": null,
+            "title": "Try and aim for it",
+            "title_japanese": "狙ってみるか",
+            "title_romanji": "Neratte Miruka ",
+            "aired": "2008-03-15T00:00:00+00:00",
+            "score": 4.17,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=30956"
+        },
+        {
+            "mal_id": 12,
+            "url": null,
+            "title": "Liar!",
+            "title_japanese": "嘘つき!",
+            "title_romanji": "Usotsuki! ",
+            "aired": "2008-03-22T00:00:00+00:00",
+            "score": 4.17,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=244217"
+        },
+        {
+            "mal_id": 13,
+            "url": null,
+            "title": "A Stupid Bet",
+            "title_japanese": "バカな賭け",
+            "title_romanji": "Baka na Kake ",
+            "aired": "2008-03-29T00:00:00+00:00",
+            "score": 4.05,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=32492"
+        },
+        {
+            "mal_id": 14,
+            "url": null,
+            "title": "Keene's Past",
+            "title_japanese": "キーンの過去",
+            "title_romanji": "Keene no Kako ",
+            "aired": "2008-04-05T00:00:00+00:00",
+            "score": 4.2,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=32493"
+        },
+        {
+            "mal_id": 15,
+            "url": null,
+            "title": "Hero",
+            "title_japanese": "ヒーロ",
+            "title_romanji": "Hero ",
+            "aired": "2008-04-12T00:00:00+00:00",
+            "score": 4.33,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=42962"
+        },
+        {
+            "mal_id": 16,
+            "url": null,
+            "title": "I'm fed up!",
+            "title_japanese": "ムカつく!",
+            "title_romanji": "Mukatsuku! ",
+            "aired": "2008-04-19T00:00:00+00:00",
+            "score": 4.5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=48175"
+        },
+        {
+            "mal_id": 17,
+            "url": null,
+            "title": "Where to Aim",
+            "title_japanese": "目指すべきもの",
+            "title_romanji": "Mezasubekimono ",
+            "aired": "2008-04-26T00:00:00+00:00",
+            "score": 4.28,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=49521"
+        },
+        {
+            "mal_id": 18,
+            "url": null,
+            "title": "Alice's Dream, Everyone's Dream",
+            "title_japanese": "アリスの夢 みんなの夢",
+            "title_romanji": "Alice no Yume Minna no Yume ",
+            "aired": "2008-05-03T00:00:00+00:00",
+            "score": 4.39,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=52050"
+        },
+        {
+            "mal_id": 19,
+            "url": null,
+            "title": "Responsibility",
+            "title_japanese": "ケジメ",
+            "title_romanji": "Kejime ",
+            "aired": "2008-05-10T00:00:00+00:00",
+            "score": 4.57,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=52606"
+        },
+        {
+            "mal_id": 20,
+            "url": null,
+            "title": "Get out!",
+            "title_japanese": "出て行け!",
+            "title_romanji": "Dete Ike! ",
+            "aired": "2008-05-17T00:00:00+00:00",
+            "score": 4.4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=53212"
+        },
+        {
+            "mal_id": 21,
+            "url": null,
+            "title": "Trouble from the Start",
+            "title_japanese": "波乱の幕開け",
+            "title_romanji": "Haran no Makuake ",
+            "aired": "2008-05-24T00:00:00+00:00",
+            "score": 4.09,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=54941"
+        },
+        {
+            "mal_id": 22,
+            "url": null,
+            "title": "The Single Ball of Fate",
+            "title_japanese": "運命の1球",
+            "title_romanji": "Unmei no Ikkyuu ",
+            "aired": "2008-05-31T00:00:00+00:00",
+            "score": 4.56,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=56488"
+        },
+        {
+            "mal_id": 23,
+            "url": null,
+            "title": "One More Deciding Match",
+            "title_japanese": "もう一つの決戦",
+            "title_romanji": "Mouhitotsu no Kessen ",
+            "aired": "2008-06-07T00:00:00+00:00",
+            "score": 4.25,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=59044"
+        },
+        {
+            "mal_id": 24,
+            "url": null,
+            "title": "A Great Man",
+            "title_japanese": "偉大な男",
+            "title_romanji": "Idai na Otoko ",
+            "aired": "2008-06-14T00:00:00+00:00",
+            "score": 4.39,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=60120"
+        },
+        {
+            "mal_id": 25,
+            "url": null,
+            "title": "A Truly Worthy Rival",
+            "title_japanese": "ライバル)",
+            "title_romanji": "Honmono no Rival (本物の好敵手",
+            "aired": "2008-06-21T00:00:00+00:00",
+            "score": 4.54,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=60140"
+        },
+        {
+            "mal_id": 26,
+            "url": null,
+            "title": "An Oath",
+            "title_japanese": "誓い",
+            "title_romanji": "Chikai ",
+            "aired": "2008-06-28T00:00:00+00:00",
+            "score": 4.59,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=59669"
+        }
+    ]
+}

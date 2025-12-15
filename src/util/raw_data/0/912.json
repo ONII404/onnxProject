@@ -1,0 +1,856 @@
+{
+    "id": 912,
+    "fetched_at": "Sun Dec 14 14:17:47 2025",
+    "metadata": {
+        "mal_id": 912,
+        "url": "https://myanimelist.net/anime/912/Ninkuu",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1933/98140.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1933/98140t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1933/98140l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1933/98140.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1933/98140t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1933/98140l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Ninkuu"
+            },
+            {
+                "type": "Synonym",
+                "title": "Ninku"
+            },
+            {
+                "type": "Japanese",
+                "title": "忍空"
+            }
+        ],
+        "title": "Ninkuu",
+        "title_english": null,
+        "title_japanese": "忍空",
+        "title_synonyms": [
+            "Ninku"
+        ],
+        "type": "TV",
+        "source": "Manga",
+        "episodes": 55,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "1995-01-14T00:00:00+00:00",
+            "to": "1996-02-24T00:00:00+00:00",
+            "prop": {
+                "from": {
+                    "day": 14,
+                    "month": 1,
+                    "year": 1995
+                },
+                "to": {
+                    "day": 24,
+                    "month": 2,
+                    "year": 1996
+                }
+            },
+            "string": "Jan 14, 1995 to Feb 24, 1996"
+        },
+        "duration": "24 min per ep",
+        "rating": "PG-13 - Teens 13 or older",
+        "score": 7,
+        "scored_by": 2015,
+        "rank": 4544,
+        "popularity": 7679,
+        "members": 8141,
+        "favorites": 29,
+        "synopsis": "In the war, a group of warriors called Ninku fought against the Imperial Army and almost annihilated it. But in the end, the Ninku lost and got shattered. After the war, the imperial army established themselves as the defender of the people with the help of propaganda. They also managed to get the people to think the Ninku were the villains and had started the war. Fusuke looks like a child but he is the former captain of the first Ninku division. His mother was taken during the war and after the Ninku were defeated, he goes on a journey to find her. On his journey he meets Aicho and Touji, both also former Ninku captains, and together they fight against the imperial army that tries to kill the last remaining Ninkus.\n\nThe ninku is a clan of extinct ninjas who command esoteric and powerful techniques, hence a lot of other groups are constantly trying to steal their techniques to take over the country. Their primary target is Fusuke, a weird looking kid but one of the most powerful Ninku ninja. Fusuke, together with other Ninku ninja with different specialties must fight those threat that caused the downfall of the Ninku clan.\n\n(Source: ANN)",
+        "background": "",
+        "season": "winter",
+        "year": 1995,
+        "broadcast": {
+            "day": "Saturdays",
+            "time": "18:30",
+            "timezone": "Asia/Tokyo",
+            "string": "Saturdays at 18:30 (JST)"
+        },
+        "producers": [
+            {
+                "mal_id": 127,
+                "type": "anime",
+                "name": "Yomiko Advertising",
+                "url": "https://myanimelist.net/anime/producer/127/Yomiko_Advertising"
+            },
+            {
+                "mal_id": 169,
+                "type": "anime",
+                "name": "Fuji TV",
+                "url": "https://myanimelist.net/anime/producer/169/Fuji_TV"
+            }
+        ],
+        "licensors": [],
+        "studios": [
+            {
+                "mal_id": 1,
+                "type": "anime",
+                "name": "Studio Pierrot",
+                "url": "https://myanimelist.net/anime/producer/1/Studio_Pierrot"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 2,
+                "type": "anime",
+                "name": "Adventure",
+                "url": "https://myanimelist.net/anime/genre/2/Adventure"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [],
+        "demographics": [
+            {
+                "mal_id": 27,
+                "type": "anime",
+                "name": "Shounen",
+                "url": "https://myanimelist.net/anime/genre/27/Shounen"
+            }
+        ],
+        "relations": [
+            {
+                "relation": "Adaptation",
+                "entry": [
+                    {
+                        "mal_id": 11361,
+                        "type": "manga",
+                        "name": "Ninku",
+                        "url": "https://myanimelist.net/manga/11361/Ninku"
+                    }
+                ]
+            },
+            {
+                "relation": "Side Story",
+                "entry": [
+                    {
+                        "mal_id": 2851,
+                        "type": "anime",
+                        "name": "Ninkuu (Movie)",
+                        "url": "https://myanimelist.net/anime/2851/Ninkuu_Movie"
+                    }
+                ]
+            },
+            {
+                "relation": "Other",
+                "entry": [
+                    {
+                        "mal_id": 16345,
+                        "type": "anime",
+                        "name": "Ninkuu: Knife no Bohyou",
+                        "url": "https://myanimelist.net/anime/16345/Ninkuu__Knife_no_Bohyou"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [
+                "\"輝きは君の中に (Kagayaki wa Kimi no Nakani; Radiance is inside of You)\" by Yume Suzuki"
+            ],
+            "endings": [
+                "1: \"Soredemo Ashita wa Yatte Kuru\" by Yume Suzuki",
+                "2: \"Sora-no-namae\" by Yume Suzuki",
+                "3: \"Sorezoreno Ashitae\" by Yume Suzuki"
+            ]
+        },
+        "external": [
+            {
+                "name": "Official Site",
+                "url": "http://pierrot.jp/title/ninku/"
+            },
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=712"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=2603"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": [
+        {
+            "mal_id": 1,
+            "url": null,
+            "title": "Fūsuke the Rat!",
+            "title_japanese": "子忍の風助！",
+            "title_romanji": "Ne-nin no Fuusuke! ",
+            "aired": "1995-01-14T00:00:00+00:00",
+            "score": 4.1,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=259769"
+        },
+        {
+            "mal_id": 2,
+            "url": null,
+            "title": "Enter the Rooster Captain",
+            "title_japanese": "酉忍隊長登場",
+            "title_romanji": "Tori-nin Taichou Toujou ",
+            "aired": "1995-01-21T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 3,
+            "url": null,
+            "title": "Touji of the Land!",
+            "title_japanese": "大地の橙次！",
+            "title_romanji": "Daichi no Touji! ",
+            "aired": "1995-01-28T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 4,
+            "url": null,
+            "title": "The Attackers",
+            "title_japanese": "襲撃者たち",
+            "title_romanji": "Shuugekisha-tachi ",
+            "aired": "1995-02-04T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 5,
+            "url": null,
+            "title": "The Victor's Smoke!",
+            "title_japanese": "勝身煙たつ！",
+            "title_romanji": "Kachimi-kemuri Tatsu! ",
+            "aired": "1995-02-11T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 6,
+            "url": null,
+            "title": "The Terrifying Castle Fortress",
+            "title_japanese": "恐怖の要塞城",
+            "title_romanji": "Kyoufu no Yousai-jou ",
+            "aired": "1995-02-18T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 7,
+            "url": null,
+            "title": "Kisumi of the Ice!",
+            "title_japanese": "氷の黄純！",
+            "title_romanji": "Koori no Kisumi! ",
+            "aired": "1995-02-25T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 8,
+            "url": null,
+            "title": "The Sealed Heart",
+            "title_japanese": "閉ざされた心",
+            "title_romanji": "Tozasareta Kokoro ",
+            "aired": "1995-03-04T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 9,
+            "url": null,
+            "title": "Mother's Lullaby",
+            "title_japanese": "母の子守唄",
+            "title_romanji": "Haha no Komoriuta ",
+            "aired": "1995-03-11T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 10,
+            "url": null,
+            "title": "Sad Parting",
+            "title_japanese": "悲しい別れ",
+            "title_romanji": "Kanashii Wakare ",
+            "aired": "1995-03-18T00:00:00+00:00",
+            "score": 5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2191618"
+        },
+        {
+            "mal_id": 11,
+            "url": null,
+            "title": "The Trial",
+            "title_japanese": "苦狼門の試練",
+            "title_romanji": null,
+            "aired": "1995-03-25T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 12,
+            "url": null,
+            "title": "The Way to Become Strong",
+            "title_japanese": "強くなる方法",
+            "title_romanji": "Tsuyoku naru Houhou ",
+            "aired": "1995-04-01T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 13,
+            "url": null,
+            "title": "A Distant Promise!",
+            "title_japanese": "遠い約束！",
+            "title_romanji": "Tooi Yakusoku! ",
+            "aired": "1995-04-08T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 14,
+            "url": null,
+            "title": "Overcoming the Pain",
+            "title_japanese": "痛みを越えて",
+            "title_romanji": "Itami wo Koete ",
+            "aired": "1995-04-15T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 15,
+            "url": null,
+            "title": "True Courage",
+            "title_japanese": "本当の勇気!",
+            "title_romanji": null,
+            "aired": "1995-04-22T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 16,
+            "url": null,
+            "title": "The Legendary Forest",
+            "title_japanese": "伝説の森！",
+            "title_romanji": "Densetsu no Mori! ",
+            "aired": "1995-04-29T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 17,
+            "url": null,
+            "title": "The Ninku Wolves Trap",
+            "title_japanese": "忍空狼の罠！",
+            "title_romanji": "Ninkuurou no Wana! ",
+            "aired": "1995-05-06T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 18,
+            "url": null,
+            "title": "Desperation!!",
+            "title_japanese": "絶体絶命!",
+            "title_romanji": "Zettai Zetsumei!! ",
+            "aired": "1995-05-13T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 19,
+            "url": null,
+            "title": "The End of a Fierce Battle",
+            "title_japanese": "激闘の果てに",
+            "title_romanji": "Gekitou no Hate ni ",
+            "aired": "1995-05-20T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 20,
+            "url": null,
+            "title": "A Dolphin and a Boy",
+            "title_japanese": "イルカと少年",
+            "title_romanji": "Iruka to Shounen ",
+            "aired": "1995-05-27T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 21,
+            "url": null,
+            "title": "Hellish Cave",
+            "title_japanese": "地獄の洞くつ",
+            "title_romanji": "Jigoku no Doukutsu ",
+            "aired": "1995-06-03T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 22,
+            "url": null,
+            "title": "The Terrifying Thunder Fist",
+            "title_japanese": "雷鳴拳の恐怖",
+            "title_romanji": "Raimei Ken no Kyoufu ",
+            "aired": "1995-06-10T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 23,
+            "url": null,
+            "title": "Sekirai of the Flame!",
+            "title_japanese": "炎の赤雷！",
+            "title_romanji": "Honou no Sekirai! ",
+            "aired": "1995-06-17T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 24,
+            "url": null,
+            "title": "Rebellion for Freedom",
+            "title_japanese": "自由への反乱",
+            "title_romanji": "Jiyuu e no Hanran ",
+            "aired": "1995-06-24T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 25,
+            "url": null,
+            "title": "Father and Son!",
+            "title_japanese": "父と子！",
+            "title_romanji": "Chichi to Ko! ",
+            "aired": "1995-07-01T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 26,
+            "url": null,
+            "title": "Farewell Hiroyuki",
+            "title_japanese": "さらばヒロユキ",
+            "title_romanji": "Saraba Hiroyuki ",
+            "aired": "1995-07-08T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 27,
+            "url": null,
+            "title": "The feng shui Valley!",
+            "title_japanese": "風水の谷！",
+            "title_romanji": "Fuusui no Tani! ",
+            "aired": "1995-07-15T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 28,
+            "url": null,
+            "title": "The Demonic Trio!",
+            "title_japanese": "魔の三獣士！",
+            "title_romanji": "Ma no Sanjuushi! ",
+            "aired": "1995-07-22T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 29,
+            "url": null,
+            "title": "The Sky Dragon Appears!",
+            "title_japanese": "天空龍現る！",
+            "title_romanji": "Tenkuu Ryuu Arawaru! ",
+            "aired": "1995-07-29T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 30,
+            "url": null,
+            "title": "The Shapeless Sniper",
+            "title_japanese": "姿なき狙撃者",
+            "title_romanji": "Sugata naki Sogekisha ",
+            "aired": "1995-08-05T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 31,
+            "url": null,
+            "title": "Break Through the Barrier",
+            "title_japanese": "包囲網を破れ",
+            "title_romanji": "Houimou wo Yabure ",
+            "aired": "1995-08-12T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 32,
+            "url": null,
+            "title": "The Awakened Sekirai!!",
+            "title_japanese": "目覚めろ赤雷!",
+            "title_romanji": "Mezamero Sekirai!! ",
+            "aired": "1995-08-19T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1851986"
+        },
+        {
+            "mal_id": 33,
+            "url": null,
+            "title": "Prologue to Crisis",
+            "title_japanese": "危機への序章",
+            "title_romanji": "Kiki e no Joshou ",
+            "aired": "1995-08-26T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 34,
+            "url": null,
+            "title": "The Magic that Summons Death",
+            "title_japanese": "死を呼ぶ幻！",
+            "title_romanji": "Shi wo Yobu Maboroshi! ",
+            "aired": "1995-09-02T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 35,
+            "url": null,
+            "title": "The Heroe of the Sky!",
+            "title_japanese": "大空の勇者！",
+            "title_romanji": "Oozora no Yuusha! ",
+            "aired": "1995-09-09T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 36,
+            "url": null,
+            "title": "The Mysterious Boy",
+            "title_japanese": "謎の少年!!",
+            "title_romanji": "Nazo no Shounen!! ",
+            "aired": "1995-09-16T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 37,
+            "url": null,
+            "title": "A Departing Promise",
+            "title_japanese": "別れの約束",
+            "title_romanji": "Wakare no Yakusoku ",
+            "aired": "1995-09-23T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 38,
+            "url": null,
+            "title": "The Cape of feng shui!",
+            "title_japanese": "風水の岬！",
+            "title_romanji": "Fuusui no Misaki! ",
+            "aired": "1995-10-07T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 39,
+            "url": null,
+            "title": "The Crushed Ice!? The Sky Dragon Reappears",
+            "title_japanese": "砕けた氷!?天空龍再び!!",
+            "title_romanji": "Kudaketa Kouri!? Tenkuu Ryuu Futatabi!! ",
+            "aired": "1995-10-14T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 40,
+            "url": null,
+            "title": "Clash of Techniques! Fog vs Wind",
+            "title_japanese": "技激突！霧使いVS風使い",
+            "title_romanji": "Waza Gekitotsu Kiri Tsukai tai Fuu Tsukai ",
+            "aired": "1995-10-28T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 41,
+            "url": null,
+            "title": "Rihoko's Tears, Father's Hometown",
+            "title_japanese": "里穂子の涙・父のおもかげ",
+            "title_romanji": null,
+            "aired": "1995-11-04T00:00:00+00:00",
+            "score": 5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2198483"
+        },
+        {
+            "mal_id": 42,
+            "url": null,
+            "title": "The Fist of Wrath! The Man who Slashes Ninku",
+            "title_japanese": "怒りの拳！忍空斬りの男",
+            "title_romanji": "Ikari no Ken! Ninkuu Kiri no Otoko ",
+            "aired": "1995-11-11T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 43,
+            "url": null,
+            "title": "The Horror Building! The Mysterious Haunted House",
+            "title_japanese": "恐怖の館！謎の幽霊屋敷",
+            "title_romanji": "Kyoufu no Yakata! Nazo no Yuurei Yashiki ",
+            "aired": "1995-11-18T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 44,
+            "url": null,
+            "title": "A Clash!? Friendship with a Shuriken User",
+            "title_japanese": "対決!?手裏剣使いの友情",
+            "title_romanji": "Taiketsu!? Shuriken Tsukai no Yuujou ",
+            "aired": "1995-11-25T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 45,
+            "url": null,
+            "title": "Miss Ninku! Operation Breakthrough!",
+            "title_japanese": "ミス忍空！検問突破作戦!",
+            "title_romanji": "Miss Ninku! Kenmon Toppa Sakusen! ",
+            "aired": "1995-12-02T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 46,
+            "url": null,
+            "title": "Assassin of the Night! The Sealed Technique",
+            "title_japanese": "月夜の刺客！封じられた技",
+            "title_romanji": null,
+            "aired": "1995-12-09T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 47,
+            "url": null,
+            "title": "To the Capital! The Rebels of Justice",
+            "title_japanese": "首都へ！正義の反乱者たち",
+            "title_romanji": "Shuto e! Seigi no Hanransha-tachi ",
+            "aired": "1995-12-16T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 48,
+            "url": null,
+            "title": "Revived Memories! The Man who Kidnapped Mother",
+            "title_japanese": "蘇る記憶!母をさらった男",
+            "title_romanji": "Yomigaeru Kioku! Haha wo Saratta Otoko ",
+            "aired": "1995-12-23T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 49,
+            "url": null,
+            "title": "The Unleashed Power! Time of the Decisive Battle",
+            "title_japanese": "解き放たれた力！決戦の時",
+            "title_romanji": "Tokihanatareta Chikara! Kessen no Toki ",
+            "aired": "1996-01-13T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 50,
+            "url": null,
+            "title": "Transcend the Powers, Fuusuke! Maximum Air Power!!",
+            "title_japanese": "力を越えろ風助！最大空力!!",
+            "title_romanji": "Chikara wo Koero Fuusuke! Saidai Kuuryoku!! ",
+            "aired": "1996-01-20T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 51,
+            "url": null,
+            "title": "The Employed Bodyguard! Duel in the Evening",
+            "title_japanese": "雇われ用心棒！夕日の決闘",
+            "title_romanji": null,
+            "aired": "1996-01-27T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 52,
+            "url": null,
+            "title": "Defeating Fuusuke's Robbery! The Mystery of the Masked Man",
+            "title_japanese": "風助の強盗退治！仮面男の謎",
+            "title_romanji": "Fuusuke no Goutou Taiji! Kamen Otoko no Nazo ",
+            "aired": "1996-02-03T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 53,
+            "url": null,
+            "title": "Stage of Friendship! Hiroyuki's Secret",
+            "title_japanese": "友情の舞台！ヒロユキの秘密",
+            "title_romanji": "Yuujou no Butai! Hiroyuki no Himitsu ",
+            "aired": "1996-02-10T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 54,
+            "url": null,
+            "title": "The Missing Wad of Bills!! Who is the Culprit?!",
+            "title_japanese": "消えた札束!!悪者は誰だ?!",
+            "title_romanji": null,
+            "aired": "1996-02-17T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 55,
+            "url": null,
+            "title": "Fuusuke becomes a Movie Star?!",
+            "title_japanese": "風助、映画スターになる?!",
+            "title_romanji": "Fuusuke, Movie Star ni naru?! ",
+            "aired": "1996-02-24T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1853560"
+        }
+    ]
+}

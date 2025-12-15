@@ -1,0 +1,362 @@
+{
+    "id": 682,
+    "fetched_at": "Sun Dec 14 13:59:42 2025",
+    "metadata": {
+        "mal_id": 682,
+        "url": "https://myanimelist.net/anime/682/Otogi_Story_Tenshi_no_Shippo",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/10/21092.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/10/21092t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/10/21092l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/10/21092.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/10/21092t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/10/21092l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": "https://www.youtube-nocookie.com/embed/hO07K8Kafus?enablejsapi=1&wmode=opaque&autoplay=1",
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Otogi Story Tenshi no Shippo"
+            },
+            {
+                "type": "Synonym",
+                "title": "Angel's Tail"
+            },
+            {
+                "type": "Synonym",
+                "title": "Fairy Tale Angel Tail"
+            },
+            {
+                "type": "Synonym",
+                "title": "Angel Tails"
+            },
+            {
+                "type": "Japanese",
+                "title": "おとぎストーリー　天使のしっぽ"
+            },
+            {
+                "type": "English",
+                "title": "Angel Tales"
+            }
+        ],
+        "title": "Otogi Story Tenshi no Shippo",
+        "title_english": "Angel Tales",
+        "title_japanese": "おとぎストーリー　天使のしっぽ",
+        "title_synonyms": [
+            "Angel's Tail",
+            "Fairy Tale Angel Tail",
+            "Angel Tails"
+        ],
+        "type": "TV",
+        "source": "Original",
+        "episodes": 12,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "2001-10-04T00:00:00+00:00",
+            "to": "2001-12-20T00:00:00+00:00",
+            "prop": {
+                "from": {
+                    "day": 4,
+                    "month": 10,
+                    "year": 2001
+                },
+                "to": {
+                    "day": 20,
+                    "month": 12,
+                    "year": 2001
+                }
+            },
+            "string": "Oct 4, 2001 to Dec 20, 2001"
+        },
+        "duration": "22 min per ep",
+        "rating": "PG-13 - Teens 13 or older",
+        "score": 6.49,
+        "scored_by": 6555,
+        "rank": 7385,
+        "popularity": 5734,
+        "members": 16823,
+        "favorites": 26,
+        "synopsis": "Goro's down on his luck. He keeps losing jobs and has little money. One day he meets a fortune-teller outside of a pet store who predicts that his luck will change. That night three girls appear in his appartment claiming to be his guardian angels. Soon a total of twelve girls appear to help him, each one a reincarnation of a deceased pet once owned by Goro. \n\n(Source: ANN)",
+        "background": "",
+        "season": "fall",
+        "year": 2001,
+        "broadcast": {
+            "day": "Thursdays",
+            "time": "18:30",
+            "timezone": "Asia/Tokyo",
+            "string": "Thursdays at 18:30 (JST)"
+        },
+        "producers": [
+            {
+                "mal_id": 104,
+                "type": "anime",
+                "name": "Lantis",
+                "url": "https://myanimelist.net/anime/producer/104/Lantis"
+            },
+            {
+                "mal_id": 3172,
+                "type": "anime",
+                "name": "Arts Pro",
+                "url": "https://myanimelist.net/anime/producer/3172/Arts_Pro"
+            }
+        ],
+        "licensors": [
+            {
+                "mal_id": 233,
+                "type": "anime",
+                "name": "Bandai Entertainment",
+                "url": "https://myanimelist.net/anime/producer/233/Bandai_Entertainment"
+            }
+        ],
+        "studios": [
+            {
+                "mal_id": 122,
+                "type": "anime",
+                "name": "Tokyo Kids",
+                "url": "https://myanimelist.net/anime/producer/122/Tokyo_Kids"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 4,
+                "type": "anime",
+                "name": "Comedy",
+                "url": "https://myanimelist.net/anime/genre/4/Comedy"
+            },
+            {
+                "mal_id": 10,
+                "type": "anime",
+                "name": "Fantasy",
+                "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+            },
+            {
+                "mal_id": 22,
+                "type": "anime",
+                "name": "Romance",
+                "url": "https://myanimelist.net/anime/genre/22/Romance"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [
+            {
+                "mal_id": 35,
+                "type": "anime",
+                "name": "Harem",
+                "url": "https://myanimelist.net/anime/genre/35/Harem"
+            }
+        ],
+        "demographics": [],
+        "relations": [
+            {
+                "relation": "Sequel",
+                "entry": [
+                    {
+                        "mal_id": 684,
+                        "type": "anime",
+                        "name": "Tenshi no Shippo Chu!",
+                        "url": "https://myanimelist.net/anime/684/Tenshi_no_Shippo_Chu"
+                    }
+                ]
+            },
+            {
+                "relation": "Side Story",
+                "entry": [
+                    {
+                        "mal_id": 683,
+                        "type": "anime",
+                        "name": "Otogi Story Tenshi no Shippo Specials",
+                        "url": "https://myanimelist.net/anime/683/Otogi_Story_Tenshi_no_Shippo_Specials"
+                    }
+                ]
+            },
+            {
+                "relation": "Character",
+                "entry": [
+                    {
+                        "mal_id": 1037,
+                        "type": "anime",
+                        "name": "Saint Beast: Seijuu Kourin-hen",
+                        "url": "https://myanimelist.net/anime/1037/Saint_Beast__Seijuu_Kourin-hen"
+                    }
+                ]
+            },
+            {
+                "relation": "Other",
+                "entry": [
+                    {
+                        "mal_id": 2485,
+                        "type": "anime",
+                        "name": "Doku Tenshi no Shippo",
+                        "url": "https://myanimelist.net/anime/2485/Doku_Tenshi_no_Shippo"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [
+                "\"Tenshi no Shippo\" by P.E.T.S."
+            ],
+            "endings": [
+                "\"One Drop\" by Sakura Nogawa"
+            ]
+        },
+        "external": [
+            {
+                "name": "Official Site",
+                "url": "http://www.wonderfarm.co.jp/shippo/index.html"
+            },
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=175"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=1196"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "http://en.wikipedia.org/wiki/Angel_Tales"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": [
+        {
+            "mal_id": 1,
+            "url": null,
+            "title": "Unforgettable Bonds",
+            "title_japanese": "忘れえぬ絆",
+            "title_romanji": "Wasureenu Kizuna ",
+            "aired": "2001-10-04T00:00:00+00:00",
+            "score": 4.29,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=265939"
+        },
+        {
+            "mal_id": 2,
+            "url": null,
+            "title": "I'm Not Afraid of Trauma",
+            "title_japanese": "トラウマなんて、こわくない!",
+            "title_romanji": "Trauma Nante, Kowakunai! ",
+            "aired": "2001-10-11T00:00:00+00:00",
+            "score": 4.11,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=265940"
+        },
+        {
+            "mal_id": 3,
+            "url": null,
+            "title": "Let Me Help You, Master!",
+            "title_japanese": "お世話はおまかせ、ご主人様!",
+            "title_romanji": "Osewa wa Omakase, Goshujin-sama! ",
+            "aired": "2001-10-18T00:00:00+00:00",
+            "score": 4.7,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=265942"
+        },
+        {
+            "mal_id": 4,
+            "url": null,
+            "title": "I Can't Bear a Goodbye",
+            "title_japanese": "いやだよ、サヨナラ……",
+            "title_romanji": "Iya da yo, Sayonara...... ",
+            "aired": "2001-10-25T00:00:00+00:00",
+            "score": 4.2,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=265944"
+        },
+        {
+            "mal_id": 5,
+            "url": null,
+            "title": "Please Remember, Master",
+            "title_japanese": "思い出して、ご主人様",
+            "title_romanji": "Omoidashite, Goshujin-sama ",
+            "aired": "2001-11-01T00:00:00+00:00",
+            "score": 4.57,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=265945"
+        },
+        {
+            "mal_id": 6,
+            "url": null,
+            "title": "The Master of the Soba Restaurant",
+            "title_japanese": "おソバ屋さんのご主人様",
+            "title_romanji": "Osobaya-san no Goshujin-sama ",
+            "aired": "2001-11-08T00:00:00+00:00",
+            "score": 4.78,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=265946"
+        },
+        {
+            "mal_id": 9,
+            "url": null,
+            "title": "Feelings That Have Started to Sprout",
+            "title_japanese": "芽生えはじめたキモチ",
+            "title_romanji": "Mebae Hajimeta Kimochi ",
+            "aired": "2001-11-29T00:00:00+00:00",
+            "score": 4.38,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1351118"
+        },
+        {
+            "mal_id": 10,
+            "url": null,
+            "title": "I Will Protect You Even if it Means Sacrificing Myself!",
+            "title_japanese": "この身にかえてもお守りします!",
+            "title_romanji": "Kono Mukuro ni Kaete mo Omamori Shimasu! ",
+            "aired": "2001-12-06T00:00:00+00:00",
+            "score": 3.78,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1351190"
+        },
+        {
+            "mal_id": 11,
+            "url": null,
+            "title": "Separation Always Occurs Suddenly",
+            "title_japanese": "…別れはいつも、突然に",
+            "title_romanji": "...Owakare wa Itsumo, Touzen ni ",
+            "aired": "2001-12-13T00:00:00+00:00",
+            "score": 4.25,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1351195"
+        },
+        {
+            "mal_id": 12,
+            "url": null,
+            "title": "Master, We Love You!",
+            "title_japanese": "ご主人様、だ～いすきっ!",
+            "title_romanji": "Goshujin-sama, Da~isuki! ",
+            "aired": "2001-12-20T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=52557"
+        }
+    ]
+}

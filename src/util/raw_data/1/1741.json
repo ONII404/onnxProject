@@ -1,0 +1,215 @@
+{
+    "id": 1741,
+    "fetched_at": "Sun Dec 14 16:47:58 2025",
+    "metadata": {
+        "mal_id": 1741,
+        "url": "https://myanimelist.net/anime/1741/Hit_wo_Nerae_Specials",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/3/5357.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/3/5357t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/3/5357l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/3/5357.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/3/5357t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/3/5357l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Hit wo Nerae! Specials"
+            },
+            {
+                "type": "Synonym",
+                "title": "Smash Hit! Specials"
+            },
+            {
+                "type": "Japanese",
+                "title": "ヒットをねらえ!"
+            }
+        ],
+        "title": "Hit wo Nerae! Specials",
+        "title_english": null,
+        "title_japanese": "ヒットをねらえ!",
+        "title_synonyms": [
+            "Smash Hit! Specials"
+        ],
+        "type": "Special",
+        "source": "Original",
+        "episodes": 4,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "2004-05-19T00:00:00+00:00",
+            "to": "2004-06-30T00:00:00+00:00",
+            "prop": {
+                "from": {
+                    "day": 19,
+                    "month": 5,
+                    "year": 2004
+                },
+                "to": {
+                    "day": 30,
+                    "month": 6,
+                    "year": 2004
+                }
+            },
+            "string": "May 19, 2004 to Jun 30, 2004"
+        },
+        "duration": "14 min per ep",
+        "rating": "PG-13 - Teens 13 or older",
+        "score": 5.43,
+        "scored_by": 889,
+        "rank": 12869,
+        "popularity": 12242,
+        "members": 2112,
+        "favorites": 0,
+        "synopsis": "DVD only specials.",
+        "background": "",
+        "season": null,
+        "year": null,
+        "broadcast": {
+            "day": null,
+            "time": null,
+            "timezone": null,
+            "string": null
+        },
+        "producers": [
+            {
+                "mal_id": 40,
+                "type": "anime",
+                "name": "m.o.e.",
+                "url": "https://myanimelist.net/anime/producer/40/moe"
+            }
+        ],
+        "licensors": [],
+        "studios": [
+            {
+                "mal_id": 75,
+                "type": "anime",
+                "name": "Imagin",
+                "url": "https://myanimelist.net/anime/producer/75/Imagin"
+            },
+            {
+                "mal_id": 1383,
+                "type": "anime",
+                "name": "Studio Live",
+                "url": "https://myanimelist.net/anime/producer/1383/Studio_Live"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 4,
+                "type": "anime",
+                "name": "Comedy",
+                "url": "https://myanimelist.net/anime/genre/4/Comedy"
+            },
+            {
+                "mal_id": 9,
+                "type": "anime",
+                "name": "Ecchi",
+                "url": "https://myanimelist.net/anime/genre/9/Ecchi"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [],
+        "demographics": [],
+        "relations": [
+            {
+                "relation": "Parent Story",
+                "entry": [
+                    {
+                        "mal_id": 964,
+                        "type": "anime",
+                        "name": "Hit wo Nerae!",
+                        "url": "https://myanimelist.net/anime/964/Hit_wo_Nerae"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [],
+            "endings": []
+        },
+        "external": [
+            {
+                "name": "Official Site",
+                "url": "http://www.ponycanyon.co.jp/pc-moe/hit/index.html"
+            },
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=1532"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "http://en.wikipedia.org/wiki/Hit_wo_Nerae"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": [
+        {
+            "mal_id": 1,
+            "url": null,
+            "title": "Let's Do It!",
+            "title_japanese": "やるぞー!",
+            "title_romanji": "Yaru zoo! ",
+            "aired": "2004-05-19T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 2,
+            "url": null,
+            "title": "Women!",
+            "title_japanese": "おんなー!",
+            "title_romanji": "Onna! ",
+            "aired": "2004-06-02T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 3,
+            "url": null,
+            "title": "No Way!",
+            "title_japanese": "まさかー!",
+            "title_romanji": "Masaka! ",
+            "aired": "2004-06-16T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 4,
+            "url": null,
+            "title": "Yoohoo!",
+            "title_japanese": "やっほー!",
+            "title_romanji": "Yaho! ",
+            "aired": "2004-06-30T00:00:00+00:00",
+            "score": 3,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1797414"
+        }
+    ]
+}

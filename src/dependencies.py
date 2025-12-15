@@ -1,0 +1,52 @@
+from fastapi import Header, HTTPException, status, Depends
+from typing import Optional
+from sqlalchemy import create_engine
+from sqlalchemy.ext.declarative import declarative_base
+from sqlalchemy.orm import sessionmaker
+
+
+# =================
+# Database setup
+# =================
+SQLALCHEMY_DATABASE_URL = "sqlite:///./onnxProject.db"
+
+engine = create_engine(
+    SQLALCHEMY_DATABASE_URL, connect_args={"check_same_thread": False}
+)
+SessionLocal = sessionmaker(autocommit=False, autoflush=False, bind=engine)
+
+Base = declarative_base()
+
+
+def get_db():
+    db = SessionLocal()
+    try:
+        yield db
+    finally:
+        db.close()
+
+
+# =================
+# Auth functions
+# =================
+
+
+def get_current_user(x_token: Optional[str] = Header(None)):
+    """
+    Candado simple para desarrollo.
+    Solo permite acceso si el header es: x-token: secreto-super-seguro
+    """
+    if x_token != "secreto-super-seguro":
+        raise HTTPException(status_code=401, detail="Token inválido o faltante.")
+
+    # Devuelve un dict simulando un usuario admin (para desarrollo)
+    return {"username": "admin_dev", "is_admin": True}
+
+
+def get_current_admin_user(current_user: dict = Depends(get_current_user)):
+    if not current_user.get("is_admin"):
+        raise HTTPException(
+            status_code=status.HTTP_403_FORBIDDEN,
+            detail="Acceso denegado: solo administradores",
+        )
+    return current_user

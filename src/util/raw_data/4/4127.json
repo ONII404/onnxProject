@@ -1,0 +1,191 @@
+{
+    "id": 4127,
+    "fetched_at": "Sun Dec 14 21:29:49 2025",
+    "metadata": {
+        "mal_id": 4127,
+        "url": "https://myanimelist.net/anime/4127/Shion",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1011/116810.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1011/116810t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1011/116810l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1011/116810.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1011/116810t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1011/116810l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Shion"
+            },
+            {
+                "type": "Japanese",
+                "title": "シオン"
+            },
+            {
+                "type": "English",
+                "title": "Sion"
+            }
+        ],
+        "title": "Shion",
+        "title_english": "Sion",
+        "title_japanese": "シオン",
+        "title_synonyms": [],
+        "type": "OVA",
+        "source": "Visual novel",
+        "episodes": 4,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "2008-03-28T00:00:00+00:00",
+            "to": "2010-01-23T00:00:00+00:00",
+            "prop": {
+                "from": {
+                    "day": 28,
+                    "month": 3,
+                    "year": 2008
+                },
+                "to": {
+                    "day": 23,
+                    "month": 1,
+                    "year": 2010
+                }
+            },
+            "string": "Mar 28, 2008 to Jan 23, 2010"
+        },
+        "duration": "29 min per ep",
+        "rating": "Rx - Hentai",
+        "score": 6.47,
+        "scored_by": 1963,
+        "rank": null,
+        "popularity": 8964,
+        "members": 5575,
+        "favorites": 31,
+        "synopsis": "Based on the game by Lilith Mist.",
+        "background": "",
+        "season": null,
+        "year": null,
+        "broadcast": {
+            "day": null,
+            "time": null,
+            "timezone": null,
+            "string": null
+        },
+        "producers": [
+            {
+                "mal_id": 195,
+                "type": "anime",
+                "name": "Pixy",
+                "url": "https://myanimelist.net/anime/producer/195/Pixy"
+            }
+        ],
+        "licensors": [],
+        "studios": [
+            {
+                "mal_id": 1463,
+                "type": "anime",
+                "name": "Anime Antenna Iinkai",
+                "url": "https://myanimelist.net/anime/producer/1463/Anime_Antenna_Iinkai"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 1,
+                "type": "anime",
+                "name": "Action",
+                "url": "https://myanimelist.net/anime/genre/1/Action"
+            },
+            {
+                "mal_id": 10,
+                "type": "anime",
+                "name": "Fantasy",
+                "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+            },
+            {
+                "mal_id": 12,
+                "type": "anime",
+                "name": "Hentai",
+                "url": "https://myanimelist.net/anime/genre/12/Hentai"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [],
+        "demographics": [],
+        "relations": [
+            {
+                "relation": "Other",
+                "entry": [
+                    {
+                        "mal_id": 10256,
+                        "type": "anime",
+                        "name": "Shion Special",
+                        "url": "https://myanimelist.net/anime/10256/Shion_Special"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [],
+            "endings": [
+                "\"akashi\" by love rock"
+            ]
+        },
+        "external": [
+            {
+                "name": "Official Site",
+                "url": "http://www.pixy-soft.com/product/product08_01.html"
+            },
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=5836"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=9684"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": [
+        {
+            "mal_id": 1,
+            "url": null,
+            "title": "Cruel Magic Angels",
+            "title_japanese": "残酷な魔法の天使",
+            "title_romanji": "Zankoku na Mahou no Tenshi ",
+            "aired": "2008-03-28T00:00:00+00:00",
+            "score": 4.29,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=637551"
+        },
+        {
+            "mal_id": 2,
+            "url": null,
+            "title": "Magical Girl Dilemma",
+            "title_japanese": "窮地の魔法少女",
+            "title_romanji": "Kyuuchi no Mahou Shoujo ",
+            "aired": "2008-09-20T00:00:00+00:00",
+            "score": 5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1727036"
+        }
+    ]
+}

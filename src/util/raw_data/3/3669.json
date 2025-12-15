@@ -1,0 +1,183 @@
+{
+    "id": 3669,
+    "fetched_at": "Sun Dec 14 20:04:54 2025",
+    "metadata": {
+        "mal_id": 3669,
+        "url": "https://myanimelist.net/anime/3669/Duel_Masters_Movie_1__Yami_no_Shiro_no_Maryuuou",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/9/22612.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/9/22612t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/9/22612l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/9/22612.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/9/22612t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/9/22612l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Duel Masters Movie 1: Yami no Shiro no Maryuuou"
+            },
+            {
+                "type": "Synonym",
+                "title": "Gekijouban Duel Masters: Yami no Shiro no Maryuuou [Curse of the Deathphoenix]"
+            },
+            {
+                "type": "Synonym",
+                "title": "Duel Masters Movie 1 - Rule the Duel"
+            },
+            {
+                "type": "Japanese",
+                "title": "劇場版デュエル・マスターズ 闇の城の魔龍凰[カース・オブ・ザ・デスフェニックス]"
+            },
+            {
+                "type": "English",
+                "title": "Duel Masters: Curse of the Death Phoenix"
+            },
+            {
+                "type": "Spanish",
+                "title": "Duel Master: Acepta el Duelo"
+            }
+        ],
+        "title": "Duel Masters Movie 1: Yami no Shiro no Maryuuou",
+        "title_english": "Duel Masters: Curse of the Death Phoenix",
+        "title_japanese": "劇場版デュエル・マスターズ 闇の城の魔龍凰[カース・オブ・ザ・デスフェニックス]",
+        "title_synonyms": [
+            "Gekijouban Duel Masters: Yami no Shiro no Maryuuou [Curse of the Deathphoenix]",
+            "Duel Masters Movie 1 - Rule the Duel"
+        ],
+        "type": "Movie",
+        "source": "Original",
+        "episodes": 1,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "2005-03-12T00:00:00+00:00",
+            "to": null,
+            "prop": {
+                "from": {
+                    "day": 12,
+                    "month": 3,
+                    "year": 2005
+                },
+                "to": {
+                    "day": null,
+                    "month": null,
+                    "year": null
+                }
+            },
+            "string": "Mar 12, 2005"
+        },
+        "duration": "45 min",
+        "rating": "PG - Children",
+        "score": 5.85,
+        "scored_by": 567,
+        "rank": 11086,
+        "popularity": 13105,
+        "members": 1613,
+        "favorites": 1,
+        "synopsis": null,
+        "background": "The film was released alongside the movie, \"Rockman.EXE: The Program of Light and Darkness\", as well as also featuring some special guest characters from Rockman.EXE.",
+        "season": null,
+        "year": null,
+        "broadcast": {
+            "day": null,
+            "time": null,
+            "timezone": null,
+            "string": null
+        },
+        "producers": [
+            {
+                "mal_id": 3087,
+                "type": "anime",
+                "name": "Shogakukan Productions",
+                "url": "https://myanimelist.net/anime/producer/3087/Shogakukan_Productions"
+            }
+        ],
+        "licensors": [],
+        "studios": [
+            {
+                "mal_id": 101,
+                "type": "anime",
+                "name": "Studio Hibari",
+                "url": "https://myanimelist.net/anime/producer/101/Studio_Hibari"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 2,
+                "type": "anime",
+                "name": "Adventure",
+                "url": "https://myanimelist.net/anime/genre/2/Adventure"
+            },
+            {
+                "mal_id": 10,
+                "type": "anime",
+                "name": "Fantasy",
+                "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [
+            {
+                "mal_id": 11,
+                "type": "anime",
+                "name": "Strategy Game",
+                "url": "https://myanimelist.net/anime/genre/11/Strategy_Game"
+            }
+        ],
+        "demographics": [
+            {
+                "mal_id": 15,
+                "type": "anime",
+                "name": "Kids",
+                "url": "https://myanimelist.net/anime/genre/15/Kids"
+            }
+        ],
+        "relations": [
+            {
+                "relation": "Parent Story",
+                "entry": [
+                    {
+                        "mal_id": 1685,
+                        "type": "anime",
+                        "name": "Duel Masters",
+                        "url": "https://myanimelist.net/anime/1685/Duel_Masters"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [],
+            "endings": []
+        },
+        "external": [
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=1911"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=4926"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": []
+}

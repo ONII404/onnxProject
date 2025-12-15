@@ -1,0 +1,187 @@
+{
+    "id": 2633,
+    "fetched_at": "Sun Dec 14 18:46:29 2025",
+    "metadata": {
+        "mal_id": 2633,
+        "url": "https://myanimelist.net/anime/2633/The☆Doraemons__Dokidoki_Kikansha_Daibakusou",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/4/59531.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/4/59531t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/4/59531l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/4/59531.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/4/59531t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/4/59531l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "The☆Doraemons: Dokidoki Kikansha Daibakusou!"
+            },
+            {
+                "type": "Synonym",
+                "title": "The Doraemons: Dokidoki Wildcat Engine"
+            },
+            {
+                "type": "Japanese",
+                "title": "ザ☆ドラえもんズ ドキドキ機関車大爆走！"
+            }
+        ],
+        "title": "The☆Doraemons: Dokidoki Kikansha Daibakusou!",
+        "title_english": null,
+        "title_japanese": "ザ☆ドラえもんズ ドキドキ機関車大爆走！",
+        "title_synonyms": [
+            "The Doraemons: Dokidoki Wildcat Engine"
+        ],
+        "type": "Movie",
+        "source": "Unknown",
+        "episodes": 1,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "2000-03-11T00:00:00+00:00",
+            "to": null,
+            "prop": {
+                "from": {
+                    "day": 11,
+                    "month": 3,
+                    "year": 2000
+                },
+                "to": {
+                    "day": null,
+                    "month": null,
+                    "year": null
+                }
+            },
+            "string": "Mar 11, 2000"
+        },
+        "duration": "17 min",
+        "rating": "PG - Children",
+        "score": 6.51,
+        "scored_by": 1106,
+        "rank": 7289,
+        "popularity": 11858,
+        "members": 2356,
+        "favorites": 0,
+        "synopsis": null,
+        "background": "",
+        "season": null,
+        "year": null,
+        "broadcast": {
+            "day": null,
+            "time": null,
+            "timezone": null,
+            "string": null
+        },
+        "producers": [],
+        "licensors": [],
+        "studios": [
+            {
+                "mal_id": 247,
+                "type": "anime",
+                "name": "Shin-Ei Animation",
+                "url": "https://myanimelist.net/anime/producer/247/Shin-Ei_Animation"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 2,
+                "type": "anime",
+                "name": "Adventure",
+                "url": "https://myanimelist.net/anime/genre/2/Adventure"
+            },
+            {
+                "mal_id": 4,
+                "type": "anime",
+                "name": "Comedy",
+                "url": "https://myanimelist.net/anime/genre/4/Comedy"
+            },
+            {
+                "mal_id": 10,
+                "type": "anime",
+                "name": "Fantasy",
+                "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+            },
+            {
+                "mal_id": 24,
+                "type": "anime",
+                "name": "Sci-Fi",
+                "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [],
+        "demographics": [
+            {
+                "mal_id": 15,
+                "type": "anime",
+                "name": "Kids",
+                "url": "https://myanimelist.net/anime/genre/15/Kids"
+            },
+            {
+                "mal_id": 27,
+                "type": "anime",
+                "name": "Shounen",
+                "url": "https://myanimelist.net/anime/genre/27/Shounen"
+            }
+        ],
+        "relations": [
+            {
+                "relation": "Parent Story",
+                "entry": [
+                    {
+                        "mal_id": 2471,
+                        "type": "anime",
+                        "name": "Doraemon (1979)",
+                        "url": "https://myanimelist.net/anime/2471/Doraemon_1979"
+                    }
+                ]
+            },
+            {
+                "relation": "Other",
+                "entry": [
+                    {
+                        "mal_id": 7045,
+                        "type": "anime",
+                        "name": "Doraemon Movie 21: Nobita no Taiyou Ou Densetsu",
+                        "url": "https://myanimelist.net/anime/7045/Doraemon_Movie_21__Nobita_no_Taiyou_Ou_Densetsu"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [],
+            "endings": [
+                "\"Bokura no Genki (ぼくらの元気)\" by Mitsuko Horie"
+            ]
+        },
+        "external": [
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=7765"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=3931"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": []
+}

@@ -1,0 +1,180 @@
+{
+    "id": 1058,
+    "fetched_at": "Sun Dec 14 14:30:14 2025",
+    "metadata": {
+        "mal_id": 1058,
+        "url": "https://myanimelist.net/anime/1058/Kidou_Shinsengumi_Moeyo_Ken",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/2/29756.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/2/29756t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/2/29756l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/2/29756.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/2/29756t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/2/29756l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Kidou Shinsengumi Moeyo Ken"
+            },
+            {
+                "type": "Japanese",
+                "title": "機動新撰組　萌えよ剣"
+            },
+            {
+                "type": "English",
+                "title": "Moeyo Ken"
+            }
+        ],
+        "title": "Kidou Shinsengumi Moeyo Ken",
+        "title_english": "Moeyo Ken",
+        "title_japanese": "機動新撰組　萌えよ剣",
+        "title_synonyms": [],
+        "type": "OVA",
+        "source": "Game",
+        "episodes": 4,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "2003-11-19T00:00:00+00:00",
+            "to": "2004-02-18T00:00:00+00:00",
+            "prop": {
+                "from": {
+                    "day": 19,
+                    "month": 11,
+                    "year": 2003
+                },
+                "to": {
+                    "day": 18,
+                    "month": 2,
+                    "year": 2004
+                }
+            },
+            "string": "Nov 19, 2003 to Feb 18, 2004"
+        },
+        "duration": "25 min per ep",
+        "rating": "PG-13 - Teens 13 or older",
+        "score": 5.64,
+        "scored_by": 701,
+        "rank": 12138,
+        "popularity": 12012,
+        "members": 2260,
+        "favorites": 1,
+        "synopsis": "Set in the Meiji era, Kidou Shinsengumi Moeyo Ken tells the story of Kondou Yuuko, Hijikata Toshie and Okita Kaoru. These three are the daughters of former Shinsengumi members and, in the same fashion as their fathers were, they get called upon to protect Japan from its current problems. Much of their work deals with vanquishing the mysterious paranormal phenomena springing up ever more frequently in the Kyoto area and defending the city from any other dangers that may arise.",
+        "background": "",
+        "season": null,
+        "year": null,
+        "broadcast": {
+            "day": null,
+            "time": null,
+            "timezone": null,
+            "string": null
+        },
+        "producers": [
+            {
+                "mal_id": 144,
+                "type": "anime",
+                "name": "Pony Canyon",
+                "url": "https://myanimelist.net/anime/producer/144/Pony_Canyon"
+            }
+        ],
+        "licensors": [
+            {
+                "mal_id": 97,
+                "type": "anime",
+                "name": "ADV Films",
+                "url": "https://myanimelist.net/anime/producer/97/ADV_Films"
+            }
+        ],
+        "studios": [
+            {
+                "mal_id": 63,
+                "type": "anime",
+                "name": "Trinet Entertainment",
+                "url": "https://myanimelist.net/anime/producer/63/Trinet_Entertainment"
+            },
+            {
+                "mal_id": 78,
+                "type": "anime",
+                "name": "Picture Magic",
+                "url": "https://myanimelist.net/anime/producer/78/Picture_Magic"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 2,
+                "type": "anime",
+                "name": "Adventure",
+                "url": "https://myanimelist.net/anime/genre/2/Adventure"
+            },
+            {
+                "mal_id": 4,
+                "type": "anime",
+                "name": "Comedy",
+                "url": "https://myanimelist.net/anime/genre/4/Comedy"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [
+            {
+                "mal_id": 13,
+                "type": "anime",
+                "name": "Historical",
+                "url": "https://myanimelist.net/anime/genre/13/Historical"
+            }
+        ],
+        "demographics": [],
+        "relations": [
+            {
+                "relation": "Parent Story",
+                "entry": [
+                    {
+                        "mal_id": 511,
+                        "type": "anime",
+                        "name": "Kidou Shinsengumi Moeyo Ken TV",
+                        "url": "https://myanimelist.net/anime/511/Kidou_Shinsengumi_Moeyo_Ken_TV"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [
+                "\"Moeyo Ken\" by Ai Orikasa"
+            ],
+            "endings": []
+        },
+        "external": [
+            {
+                "name": "Official Site",
+                "url": "http://www.mmv.co.jp/special/moeyo_ken/"
+            },
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=1222"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=3164"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": []
+}

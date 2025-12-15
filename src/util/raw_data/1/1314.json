@@ -1,0 +1,166 @@
+{
+    "id": 1314,
+    "fetched_at": "Sun Dec 14 15:43:20 2025",
+    "metadata": {
+        "mal_id": 1314,
+        "url": "https://myanimelist.net/anime/1314/DT_Eightron",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1053/138466.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1053/138466t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1053/138466l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1053/138466.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1053/138466t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1053/138466l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "DT Eightron"
+            },
+            {
+                "type": "Japanese",
+                "title": "ＤＴエイトロン"
+            },
+            {
+                "type": "English",
+                "title": "DT Eightron"
+            }
+        ],
+        "title": "DT Eightron",
+        "title_english": "DT Eightron",
+        "title_japanese": "ＤＴエイトロン",
+        "title_synonyms": [],
+        "type": "TV",
+        "source": "Original",
+        "episodes": 26,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "1998-04-18T00:00:00+00:00",
+            "to": "1998-11-06T00:00:00+00:00",
+            "prop": {
+                "from": {
+                    "day": 18,
+                    "month": 4,
+                    "year": 1998
+                },
+                "to": {
+                    "day": 6,
+                    "month": 11,
+                    "year": 1998
+                }
+            },
+            "string": "Apr 18, 1998 to Nov 6, 1998"
+        },
+        "duration": "25 min per ep",
+        "rating": "PG-13 - Teens 13 or older",
+        "score": 6.25,
+        "scored_by": 929,
+        "rank": 8889,
+        "popularity": 10886,
+        "members": 3106,
+        "favorites": 8,
+        "synopsis": "Shu is from Datania, a country that makes young children work. He and his friends were trying to escape when they met the Returners. The Returners are some kind of rebels to Datania. Shu goes with the Returners to fight Zero, Nines, and his men who are after DT, a special substance inside humans.\n\n(Source: ANN)",
+        "background": "",
+        "season": "spring",
+        "year": 1998,
+        "broadcast": {
+            "day": "Saturdays",
+            "time": "02:45",
+            "timezone": "Asia/Tokyo",
+            "string": "Saturdays at 02:45 (JST)"
+        },
+        "producers": [
+            {
+                "mal_id": 169,
+                "type": "anime",
+                "name": "Fuji TV",
+                "url": "https://myanimelist.net/anime/producer/169/Fuji_TV"
+            }
+        ],
+        "licensors": [],
+        "studios": [
+            {
+                "mal_id": 14,
+                "type": "anime",
+                "name": "Sunrise",
+                "url": "https://myanimelist.net/anime/producer/14/Sunrise"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 1,
+                "type": "anime",
+                "name": "Action",
+                "url": "https://myanimelist.net/anime/genre/1/Action"
+            },
+            {
+                "mal_id": 24,
+                "type": "anime",
+                "name": "Sci-Fi",
+                "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [],
+        "demographics": [],
+        "relations": [
+            {
+                "relation": "Adaptation",
+                "entry": [
+                    {
+                        "mal_id": 93235,
+                        "type": "manga",
+                        "name": "DT Eightron",
+                        "url": "https://myanimelist.net/manga/93235/DT_Eightron"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [
+                "\"Hi wa Mata Nobori Kurikaesu (陽はまたのぼりくりかえす)\" by Dragon Ash"
+            ],
+            "endings": [
+                "\"Onaji Hoshi (おなじ星)\" by Jungle Smile"
+            ]
+        },
+        "external": [
+            {
+                "name": "Official Site",
+                "url": "http://www.sunrise-inc.co.jp/datacard/card0144.htm"
+            },
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=3311"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=2186"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "http://en.wikipedia.org/wiki/DT_Eightron"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": []
+}

@@ -1,0 +1,177 @@
+{
+    "id": 1905,
+    "fetched_at": "Sun Dec 14 17:56:51 2025",
+    "metadata": {
+        "mal_id": 1905,
+        "url": "https://myanimelist.net/anime/1905/Harukanaru_Toki_no_Naka_de__Hachiyou_Shou_Specials",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/7/30559.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/7/30559t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/7/30559l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/7/30559.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/7/30559t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/7/30559l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Harukanaru Toki no Naka de: Hachiyou Shou Specials"
+            },
+            {
+                "type": "Synonym",
+                "title": "Harukanaru Toki no Naka de: Character Endings"
+            },
+            {
+                "type": "Synonym",
+                "title": "In a Distant Time: Character Endings"
+            },
+            {
+                "type": "Japanese",
+                "title": "遙かなる時空の中で〜八葉抄〜 1〜9"
+            }
+        ],
+        "title": "Harukanaru Toki no Naka de: Hachiyou Shou Specials",
+        "title_english": null,
+        "title_japanese": "遙かなる時空の中で〜八葉抄〜 1〜9",
+        "title_synonyms": [
+            "Harukanaru Toki no Naka de: Character Endings",
+            "In a Distant Time: Character Endings"
+        ],
+        "type": "Special",
+        "source": "Visual novel",
+        "episodes": 8,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "2005-09-23T00:00:00+00:00",
+            "to": "2006-04-16T00:00:00+00:00",
+            "prop": {
+                "from": {
+                    "day": 23,
+                    "month": 9,
+                    "year": 2005
+                },
+                "to": {
+                    "day": 16,
+                    "month": 4,
+                    "year": 2006
+                }
+            },
+            "string": "Sep 23, 2005 to Apr 16, 2006"
+        },
+        "duration": "5 min per ep",
+        "rating": "PG-13 - Teens 13 or older",
+        "score": 6.34,
+        "scored_by": 993,
+        "rank": 8318,
+        "popularity": 10891,
+        "members": 3104,
+        "favorites": 2,
+        "synopsis": "Short clips about what happens after the TV series.",
+        "background": "",
+        "season": null,
+        "year": null,
+        "broadcast": {
+            "day": null,
+            "time": null,
+            "timezone": null,
+            "string": null
+        },
+        "producers": [],
+        "licensors": [],
+        "studios": [
+            {
+                "mal_id": 96,
+                "type": "anime",
+                "name": "Yumeta Company",
+                "url": "https://myanimelist.net/anime/producer/96/Yumeta_Company"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 10,
+                "type": "anime",
+                "name": "Fantasy",
+                "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+            },
+            {
+                "mal_id": 22,
+                "type": "anime",
+                "name": "Romance",
+                "url": "https://myanimelist.net/anime/genre/22/Romance"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [
+            {
+                "mal_id": 13,
+                "type": "anime",
+                "name": "Historical",
+                "url": "https://myanimelist.net/anime/genre/13/Historical"
+            },
+            {
+                "mal_id": 62,
+                "type": "anime",
+                "name": "Isekai",
+                "url": "https://myanimelist.net/anime/genre/62/Isekai"
+            },
+            {
+                "mal_id": 78,
+                "type": "anime",
+                "name": "Time Travel",
+                "url": "https://myanimelist.net/anime/genre/78/Time_Travel"
+            }
+        ],
+        "demographics": [],
+        "relations": [
+            {
+                "relation": "Prequel",
+                "entry": [
+                    {
+                        "mal_id": 247,
+                        "type": "anime",
+                        "name": "Harukanaru Toki no Naka de: Hachiyou Shou",
+                        "url": "https://myanimelist.net/anime/247/Harukanaru_Toki_no_Naka_de__Hachiyou_Shou"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [],
+            "endings": []
+        },
+        "external": [
+            {
+                "name": "Official Site",
+                "url": "http://www.tv-tokyo.co.jp/anime/haruka/"
+            },
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=2580"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "http://en.wikipedia.org/wiki/Harukanaru_Toki_no_Naka_de"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": []
+}

@@ -1,0 +1,475 @@
+{
+    "id": 1878,
+    "fetched_at": "Sun Dec 14 17:54:20 2025",
+    "metadata": {
+        "mal_id": 1878,
+        "url": "https://myanimelist.net/anime/1878/Kaze_no_Shoujo_Emily",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1176/150473.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1176/150473t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1176/150473l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1176/150473.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1176/150473t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1176/150473l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Kaze no Shoujo Emily"
+            },
+            {
+                "type": "Synonym",
+                "title": "Kaze no Shojo Emily"
+            },
+            {
+                "type": "Synonym",
+                "title": "Emily of the New Moon"
+            },
+            {
+                "type": "Japanese",
+                "title": "風の少女エミリー"
+            }
+        ],
+        "title": "Kaze no Shoujo Emily",
+        "title_english": null,
+        "title_japanese": "風の少女エミリー",
+        "title_synonyms": [
+            "Kaze no Shojo Emily",
+            "Emily of the New Moon"
+        ],
+        "type": "TV",
+        "source": "Novel",
+        "episodes": 26,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "2007-04-07T00:00:00+00:00",
+            "to": "2007-09-29T00:00:00+00:00",
+            "prop": {
+                "from": {
+                    "day": 7,
+                    "month": 4,
+                    "year": 2007
+                },
+                "to": {
+                    "day": 29,
+                    "month": 9,
+                    "year": 2007
+                }
+            },
+            "string": "Apr 7, 2007 to Sep 29, 2007"
+        },
+        "duration": "25 min per ep",
+        "rating": "G - All Ages",
+        "score": 7.35,
+        "scored_by": 2983,
+        "rank": 2676,
+        "popularity": 7484,
+        "members": 8721,
+        "favorites": 29,
+        "synopsis": "Based on the Emily of New Moon novel by Lucy Maud Montgomery. Emily is an orphan who gets sent to live with her relatives on Prince Edward Island, after her father dies. In New Moon she lives with her Aunt Elizabeth, Aunt Laura, and Cousin Jimmy, and learns to adapt with the help of her imagination and new friends. \n\n(Source: ANN)",
+        "background": "",
+        "season": "spring",
+        "year": 2007,
+        "broadcast": {
+            "day": null,
+            "time": null,
+            "timezone": null,
+            "string": "Unknown"
+        },
+        "producers": [
+            {
+                "mal_id": 111,
+                "type": "anime",
+                "name": "NHK",
+                "url": "https://myanimelist.net/anime/producer/111/NHK"
+            }
+        ],
+        "licensors": [],
+        "studios": [
+            {
+                "mal_id": 73,
+                "type": "anime",
+                "name": "TMS Entertainment",
+                "url": "https://myanimelist.net/anime/producer/73/TMS_Entertainment"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 8,
+                "type": "anime",
+                "name": "Drama",
+                "url": "https://myanimelist.net/anime/genre/8/Drama"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [
+            {
+                "mal_id": 13,
+                "type": "anime",
+                "name": "Historical",
+                "url": "https://myanimelist.net/anime/genre/13/Historical"
+            }
+        ],
+        "demographics": [],
+        "relations": [],
+        "theme": {
+            "openings": [
+                "\"Kaze no Shoujo\" by Horie Mitsuko"
+            ],
+            "endings": [
+                "\"Kaze no Soramimi\" by EPO"
+            ]
+        },
+        "external": [
+            {
+                "name": "Official Site",
+                "url": "http://www3.nhk.or.jp/anime/emily/"
+            },
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=4895"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=7475"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "http://en.wikipedia.org/wiki/Emily_of_New_Moon"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": [
+        {
+            "mal_id": 1,
+            "url": null,
+            "title": "The Girl of the Wind",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": "2007-04-07T00:00:00+00:00",
+            "score": 4.38,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1595184"
+        },
+        {
+            "mal_id": 2,
+            "url": null,
+            "title": "Pride of the Murrays",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": "2007-04-14T00:00:00+00:00",
+            "score": 4.67,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1595330"
+        },
+        {
+            "mal_id": 3,
+            "url": null,
+            "title": "Eccentric Ilse",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": "2007-04-21T00:00:00+00:00",
+            "score": 5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1595349"
+        },
+        {
+            "mal_id": 4,
+            "url": null,
+            "title": "A Sketch of Four",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": "2007-04-28T00:00:00+00:00",
+            "score": 4.71,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1595601"
+        },
+        {
+            "mal_id": 5,
+            "url": null,
+            "title": "First Time on Stage",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": "2007-05-05T00:00:00+00:00",
+            "score": 5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1644900"
+        },
+        {
+            "mal_id": 6,
+            "url": null,
+            "title": "The Poisoned Apple Incident",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": "2007-05-12T00:00:00+00:00",
+            "score": 4.5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1644904"
+        },
+        {
+            "mal_id": 7,
+            "url": null,
+            "title": "My Favourite Woods",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": "2007-05-19T00:00:00+00:00",
+            "score": 4.83,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1597396"
+        },
+        {
+            "mal_id": 8,
+            "url": null,
+            "title": "Mother's Room",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": "2007-05-26T00:00:00+00:00",
+            "score": 5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1645026"
+        },
+        {
+            "mal_id": 9,
+            "url": null,
+            "title": "The Missing Diamond",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": "2007-06-02T00:00:00+00:00",
+            "score": 4.67,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1645149"
+        },
+        {
+            "mal_id": 10,
+            "url": null,
+            "title": "The Dreamweavers",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": "2007-06-09T00:00:00+00:00",
+            "score": 5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=39294"
+        },
+        {
+            "mal_id": 11,
+            "url": null,
+            "title": "A Contest of Honour",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": "2007-06-16T00:00:00+00:00",
+            "score": 4.86,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=39296"
+        },
+        {
+            "mal_id": 12,
+            "url": null,
+            "title": "The Only Song in the World",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": "2007-06-23T00:00:00+00:00",
+            "score": 5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1645320"
+        },
+        {
+            "mal_id": 13,
+            "url": null,
+            "title": "Christmas at the Murray's",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": "2007-06-30T00:00:00+00:00",
+            "score": 5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1645436"
+        },
+        {
+            "mal_id": 14,
+            "url": null,
+            "title": "A Picnic by the Sea",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": "2007-07-07T00:00:00+00:00",
+            "score": 4.5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=104417"
+        },
+        {
+            "mal_id": 15,
+            "url": null,
+            "title": "The Haunted House",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": "2007-07-14T00:00:00+00:00",
+            "score": 3.6,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=112407"
+        },
+        {
+            "mal_id": 16,
+            "url": null,
+            "title": "Summer Memories",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": "2007-07-21T00:00:00+00:00",
+            "score": 5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1598655"
+        },
+        {
+            "mal_id": 17,
+            "url": null,
+            "title": "Ilse's Secret",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": "2007-07-28T00:00:00+00:00",
+            "score": 5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1418761"
+        },
+        {
+            "mal_id": 18,
+            "url": null,
+            "title": "Rhoda's Trap",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": "2007-08-04T00:00:00+00:00",
+            "score": 5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1647391"
+        },
+        {
+            "mal_id": 19,
+            "url": null,
+            "title": "Emily's Failure",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": "2007-08-11T00:00:00+00:00",
+            "score": 5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1599041"
+        },
+        {
+            "mal_id": 20,
+            "url": null,
+            "title": "Growing Up",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": "2007-08-18T00:00:00+00:00",
+            "score": 5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1647693"
+        },
+        {
+            "mal_id": 21,
+            "url": null,
+            "title": "Our Dreams",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": "2007-08-25T00:00:00+00:00",
+            "score": 5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1599857"
+        },
+        {
+            "mal_id": 22,
+            "url": null,
+            "title": "Confession Under the Snow",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": "2007-09-01T00:00:00+00:00",
+            "score": 5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1600074"
+        },
+        {
+            "mal_id": 23,
+            "url": null,
+            "title": "Departing Heart",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": "2007-09-08T00:00:00+00:00",
+            "score": 5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1648136"
+        },
+        {
+            "mal_id": 24,
+            "url": null,
+            "title": "Those Who are Left Behind",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": "2007-09-15T00:00:00+00:00",
+            "score": 5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1600423"
+        },
+        {
+            "mal_id": 25,
+            "url": null,
+            "title": "The Snow is Now Melting",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": "2007-09-22T00:00:00+00:00",
+            "score": 5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1648217"
+        },
+        {
+            "mal_id": 26,
+            "url": null,
+            "title": "The Advent of Spring",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": "2007-09-29T00:00:00+00:00",
+            "score": 5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1600438"
+        }
+    ]
+}

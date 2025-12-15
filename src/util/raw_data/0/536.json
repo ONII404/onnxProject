@@ -1,0 +1,229 @@
+{
+    "id": 536,
+    "fetched_at": "Sun Dec 14 13:47:31 2025",
+    "metadata": {
+        "mal_id": 536,
+        "url": "https://myanimelist.net/anime/536/Slayers__The_Motion_Picture",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/10/2644.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/10/2644t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/10/2644l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/10/2644.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/10/2644t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/10/2644l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Slayers: The Motion Picture"
+            },
+            {
+                "type": "Synonym",
+                "title": "Slayers Perfect"
+            },
+            {
+                "type": "Synonym",
+                "title": "Gekijouban Slayers"
+            },
+            {
+                "type": "Synonym",
+                "title": "Slayers Movie 1"
+            },
+            {
+                "type": "Japanese",
+                "title": "劇場版スレイヤーズ"
+            },
+            {
+                "type": "English",
+                "title": "Slayers: The Motion Picture"
+            }
+        ],
+        "title": "Slayers: The Motion Picture",
+        "title_english": "Slayers: The Motion Picture",
+        "title_japanese": "劇場版スレイヤーズ",
+        "title_synonyms": [
+            "Slayers Perfect",
+            "Gekijouban Slayers",
+            "Slayers Movie 1"
+        ],
+        "type": "Movie",
+        "source": "Light novel",
+        "episodes": 1,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "1995-07-29T00:00:00+00:00",
+            "to": null,
+            "prop": {
+                "from": {
+                    "day": 29,
+                    "month": 7,
+                    "year": 1995
+                },
+                "to": {
+                    "day": null,
+                    "month": null,
+                    "year": null
+                }
+            },
+            "string": "Jul 29, 1995"
+        },
+        "duration": "1 hr 4 min",
+        "rating": "PG-13 - Teens 13 or older",
+        "score": 7.25,
+        "scored_by": 14231,
+        "rank": 3190,
+        "popularity": 4787,
+        "members": 26487,
+        "favorites": 26,
+        "synopsis": "In this prequel movie to the Slayers televison series, Lina Inverse travels to Mipross Island with her rival/traveling companion Naga the Serpent. While they originally came for the hot springs, they soon find them selves mixed up in a conspiracy involving a mazoku named Joyrock. Years ago, he killed all of the elves that inhabited the island and absorbed their power. They are soon joined by an old mage named Rowdy Gabriev, who was in love with one of the elves slaughtered and also wants to defeat Joyrock. \n\n(Source: ANN)",
+        "background": "",
+        "season": null,
+        "year": null,
+        "broadcast": {
+            "day": null,
+            "time": null,
+            "timezone": null,
+            "string": null
+        },
+        "producers": [
+            {
+                "mal_id": 113,
+                "type": "anime",
+                "name": "Kadokawa Shoten",
+                "url": "https://myanimelist.net/anime/producer/113/Kadokawa_Shoten"
+            },
+            {
+                "mal_id": 165,
+                "type": "anime",
+                "name": "Marubeni",
+                "url": "https://myanimelist.net/anime/producer/165/Marubeni"
+            }
+        ],
+        "licensors": [
+            {
+                "mal_id": 97,
+                "type": "anime",
+                "name": "ADV Films",
+                "url": "https://myanimelist.net/anime/producer/97/ADV_Films"
+            }
+        ],
+        "studios": [
+            {
+                "mal_id": 7,
+                "type": "anime",
+                "name": "J.C.Staff",
+                "url": "https://myanimelist.net/anime/producer/7/JCStaff"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 2,
+                "type": "anime",
+                "name": "Adventure",
+                "url": "https://myanimelist.net/anime/genre/2/Adventure"
+            },
+            {
+                "mal_id": 4,
+                "type": "anime",
+                "name": "Comedy",
+                "url": "https://myanimelist.net/anime/genre/4/Comedy"
+            },
+            {
+                "mal_id": 10,
+                "type": "anime",
+                "name": "Fantasy",
+                "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [],
+        "demographics": [],
+        "relations": [
+            {
+                "relation": "Prequel",
+                "entry": [
+                    {
+                        "mal_id": 1170,
+                        "type": "anime",
+                        "name": "Slayers Specials",
+                        "url": "https://myanimelist.net/anime/1170/Slayers_Specials"
+                    }
+                ]
+            },
+            {
+                "relation": "Sequel",
+                "entry": [
+                    {
+                        "mal_id": 534,
+                        "type": "anime",
+                        "name": "Slayers",
+                        "url": "https://myanimelist.net/anime/534/Slayers"
+                    },
+                    {
+                        "mal_id": 869,
+                        "type": "anime",
+                        "name": "Slayers Return",
+                        "url": "https://myanimelist.net/anime/869/Slayers_Return"
+                    }
+                ]
+            },
+            {
+                "relation": "Adaptation",
+                "entry": [
+                    {
+                        "mal_id": 723,
+                        "type": "manga",
+                        "name": "Slayers: Super Explosive Demon Story",
+                        "url": "https://myanimelist.net/manga/723/Slayers__Super_Explosive_Demon_Story"
+                    },
+                    {
+                        "mal_id": 8876,
+                        "type": "manga",
+                        "name": "Slayers",
+                        "url": "https://myanimelist.net/manga/8876/Slayers"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [],
+            "endings": [
+                "\"Midnight Blue\" by Megumi Hayashibara"
+            ]
+        },
+        "external": [
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=349"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=488"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "http://en.wikipedia.org/wiki/Slayers:_The_Motion_Picture"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": []
+}

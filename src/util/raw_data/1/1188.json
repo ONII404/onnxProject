@@ -1,0 +1,444 @@
+{
+    "id": 1188,
+    "fetched_at": "Sun Dec 14 15:33:43 2025",
+    "metadata": {
+        "mal_id": 1188,
+        "url": "https://myanimelist.net/anime/1188/Momoiro_Sisters",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/7/15422.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/7/15422t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/7/15422l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/7/15422.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/7/15422t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/7/15422l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Momoiro Sisters"
+            },
+            {
+                "type": "Synonym",
+                "title": "Pink Sisters"
+            },
+            {
+                "type": "Japanese",
+                "title": "ももいろシスターズ"
+            }
+        ],
+        "title": "Momoiro Sisters",
+        "title_english": null,
+        "title_japanese": "ももいろシスターズ",
+        "title_synonyms": [
+            "Pink Sisters"
+        ],
+        "type": "TV",
+        "source": "4-koma manga",
+        "episodes": 23,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "1998-08-26T00:00:00+00:00",
+            "to": "1998-10-06T00:00:00+00:00",
+            "prop": {
+                "from": {
+                    "day": 26,
+                    "month": 8,
+                    "year": 1998
+                },
+                "to": {
+                    "day": 6,
+                    "month": 10,
+                    "year": 1998
+                }
+            },
+            "string": "Aug 26, 1998 to Oct 6, 1998"
+        },
+        "duration": "6 min per ep",
+        "rating": "PG-13 - Teens 13 or older",
+        "score": 6.1,
+        "scored_by": 1235,
+        "rank": 9708,
+        "popularity": 10352,
+        "members": 3627,
+        "favorites": 3,
+        "synopsis": "Momoko is a high school student, trying to live up to her older sister Sakura. Sakura works in an office along with many other co-workers. The two sisters, and their friends, experience the everyday hardships and situations of being a woman. \n\n(Source: ANN)",
+        "background": "",
+        "season": "summer",
+        "year": 1998,
+        "broadcast": {
+            "day": null,
+            "time": null,
+            "timezone": null,
+            "string": "Unknown"
+        },
+        "producers": [],
+        "licensors": [],
+        "studios": [
+            {
+                "mal_id": 37,
+                "type": "anime",
+                "name": "Studio Deen",
+                "url": "https://myanimelist.net/anime/producer/37/Studio_Deen"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 4,
+                "type": "anime",
+                "name": "Comedy",
+                "url": "https://myanimelist.net/anime/genre/4/Comedy"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [],
+        "demographics": [
+            {
+                "mal_id": 42,
+                "type": "anime",
+                "name": "Seinen",
+                "url": "https://myanimelist.net/anime/genre/42/Seinen"
+            }
+        ],
+        "relations": [
+            {
+                "relation": "Sequel",
+                "entry": [
+                    {
+                        "mal_id": 53084,
+                        "type": "anime",
+                        "name": "Momoiro Sisters: Idol Densetsu Momoko!?",
+                        "url": "https://myanimelist.net/anime/53084/Momoiro_Sisters__Idol_Densetsu_Momoko"
+                    }
+                ]
+            },
+            {
+                "relation": "Adaptation",
+                "entry": [
+                    {
+                        "mal_id": 18084,
+                        "type": "manga",
+                        "name": "Momoiro Sisters",
+                        "url": "https://myanimelist.net/manga/18084/Momoiro_Sisters"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [
+                "\"Margaret\" by Mikiko Sato"
+            ],
+            "endings": []
+        },
+        "external": [
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=194"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=1327"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "https://ja.wikipedia.org/wiki/%E3%82%82%E3%82%82%E3%81%84%E3%82%8D%E3%82%B7%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%BA"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": [
+        {
+            "mal_id": 1,
+            "url": null,
+            "title": "Let's Begin",
+            "title_japanese": "LET'S BEGIN",
+            "title_romanji": "Let's Begin ",
+            "aired": "1998-08-25T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1833533"
+        },
+        {
+            "mal_id": 2,
+            "url": null,
+            "title": "Exciting Summer Diet",
+            "title_japanese": "ドキドキ夏のダイエット",
+            "title_romanji": "Dokidoki Natsu no Diet ",
+            "aired": "1998-08-27T00:00:00+00:00",
+            "score": 4.5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1833534"
+        },
+        {
+            "mal_id": 3,
+            "url": null,
+            "title": "Beautiful Girls Die Young, Unlucky Young Lady",
+            "title_japanese": "美人薄命悲運の乙女",
+            "title_romanji": "Bijin Hakumei Hiun no Otome ",
+            "aired": "1998-08-28T00:00:00+00:00",
+            "score": 5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1833543"
+        },
+        {
+            "mal_id": 4,
+            "url": null,
+            "title": "Probably One Day",
+            "title_japanese": "いつかきっと…",
+            "title_romanji": "Itsuka Kitto... ",
+            "aired": "1998-09-01T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1833545"
+        },
+        {
+            "mal_id": 5,
+            "url": null,
+            "title": "Yukari-chan's Tough Times",
+            "title_japanese": "ゆかりちゃんの悩めるお年頃",
+            "title_romanji": "Yukari-chan no Nayameru Otoshigoro ",
+            "aired": "1998-09-02T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1833548"
+        },
+        {
+            "mal_id": 6,
+            "url": null,
+            "title": "Lunch is Love's Symplony",
+            "title_japanese": "お弁当は、愛のシンフォニー",
+            "title_romanji": "Obentou wa, Ai no Symphony ",
+            "aired": "1998-09-03T00:00:00+00:00",
+            "score": 4.5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1833551"
+        },
+        {
+            "mal_id": 7,
+            "url": null,
+            "title": "Happy Valentine",
+            "title_japanese": "ハッピーバレンタイン",
+            "title_romanji": "Happy Valentine ",
+            "aired": "1998-09-04T00:00:00+00:00",
+            "score": 3.67,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1833552"
+        },
+        {
+            "mal_id": 8,
+            "url": null,
+            "title": "Midsummer Love Love Fire",
+            "title_japanese": "真夏のラブラブファイヤー",
+            "title_romanji": "Manatsu no Love Love Fire ",
+            "aired": "1998-09-08T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1833554"
+        },
+        {
+            "mal_id": 9,
+            "url": null,
+            "title": "I Have Made a Boyfriend!",
+            "title_japanese": "カレシ、できました!",
+            "title_romanji": "Kareshi, Dekimashita! ",
+            "aired": "1998-09-09T00:00:00+00:00",
+            "score": 4.33,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1833555"
+        },
+        {
+            "mal_id": 10,
+            "url": null,
+            "title": "Aa First Kiss!",
+            "title_japanese": "ああ、初キッス",
+            "title_romanji": "Aa, Hatsu Kiss ",
+            "aired": "1998-09-10T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1833559"
+        },
+        {
+            "mal_id": 11,
+            "url": null,
+            "title": "The First Wet One",
+            "title_japanese": "はじめてのぬめぬめ",
+            "title_romanji": "Hajimete no Numenume ",
+            "aired": "1998-09-11T00:00:00+00:00",
+            "score": 4.67,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1833560"
+        },
+        {
+            "mal_id": 12,
+            "url": null,
+            "title": "Docking of Love",
+            "title_japanese": "愛のドッキング",
+            "title_romanji": "Ai no Docking ",
+            "aired": "1998-09-16T00:00:00+00:00",
+            "score": 4.33,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1833562"
+        },
+        {
+            "mal_id": 13,
+            "url": null,
+            "title": "Super Big-breast Hot-spring",
+            "title_japanese": "モーレツ巨乳温泉",
+            "title_romanji": "Mouretsu Kyonyuu Onsen ",
+            "aired": "1998-09-17T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1833563"
+        },
+        {
+            "mal_id": 14,
+            "url": null,
+            "title": "I Think I've Done It...",
+            "title_japanese": "できちゃったみたい…",
+            "title_romanji": "Dekichatta Mitai... ",
+            "aired": "1998-09-18T00:00:00+00:00",
+            "score": 3.33,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1833565"
+        },
+        {
+            "mal_id": 15,
+            "url": null,
+            "title": "The Dreamed Marriage Retirement",
+            "title_japanese": "夢見る結婚引退?!",
+            "title_romanji": "Yumemiru Kekkon Intai?! ",
+            "aired": "1998-09-22T00:00:00+00:00",
+            "score": 3.33,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1833575"
+        },
+        {
+            "mal_id": 16,
+            "url": null,
+            "title": "Now Let's Focus on Reality!",
+            "title_japanese": "さて、現実を直視しよう",
+            "title_romanji": "Sate, Genjitsu wo Chokushi Shiyou ",
+            "aired": "1998-09-23T00:00:00+00:00",
+            "score": 3.33,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1833578"
+        },
+        {
+            "mal_id": 17,
+            "url": null,
+            "title": "Let's go Hunting with Rin-chan!",
+            "title_japanese": "リンちゃんといっしょにカモ狩りにいこう!",
+            "title_romanji": "Rin-chan to Issho ni Kamo Kari ni Ikou! ",
+            "aired": "1998-09-24T00:00:00+00:00",
+            "score": 3,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1833667"
+        },
+        {
+            "mal_id": 18,
+            "url": null,
+            "title": "When I turned to the Side, You were there",
+            "title_japanese": "横を見れば君がいた",
+            "title_romanji": "Yoko wo Mireba Kimi ga Ita ",
+            "aired": "1998-09-25T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1833668"
+        },
+        {
+            "mal_id": 19,
+            "url": null,
+            "title": "Washed Away...",
+            "title_japanese": "流されて…",
+            "title_romanji": "Nagasarete... ",
+            "aired": "1998-09-29T00:00:00+00:00",
+            "score": 3.67,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1833671"
+        },
+        {
+            "mal_id": 20,
+            "url": null,
+            "title": "The Jungle Queen",
+            "title_japanese": "密林の女王",
+            "title_romanji": "Mitsurin no Joou ",
+            "aired": "1998-09-30T00:00:00+00:00",
+            "score": 3.33,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1833678"
+        },
+        {
+            "mal_id": 21,
+            "url": null,
+            "title": "Blue Coral Reef",
+            "title_japanese": "青い珊瑚礁",
+            "title_romanji": "Aoi Sangoshou ",
+            "aired": "1998-10-01T00:00:00+00:00",
+            "score": 3.33,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1833681"
+        },
+        {
+            "mal_id": 22,
+            "url": null,
+            "title": "Its a School Festival! Everyone Help!",
+            "title_japanese": "文化祭だヨ!全員集合!!",
+            "title_romanji": "Bunkasai da yo! Zenin Shuugou!! ",
+            "aired": "1998-10-02T00:00:00+00:00",
+            "score": 3,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1833684"
+        },
+        {
+            "mal_id": 23,
+            "url": null,
+            "title": "Haunted House of Love",
+            "title_japanese": "恋のおバケ屋敷",
+            "title_romanji": "Koi no Obakeyashiki ",
+            "aired": "1998-10-06T00:00:00+00:00",
+            "score": 4.67,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1833687"
+        }
+    ]
+}

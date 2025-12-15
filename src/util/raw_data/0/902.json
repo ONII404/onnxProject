@@ -1,0 +1,208 @@
+{
+    "id": 902,
+    "fetched_at": "Sun Dec 14 14:16:49 2025",
+    "metadata": {
+        "mal_id": 902,
+        "url": "https://myanimelist.net/anime/902/Dragon_Ball_Z_Movie_09__Ginga_Girigiri_Bucchigiri_no_Sugoi_Yatsu",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1730/93672.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1730/93672t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1730/93672l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1730/93672.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1730/93672t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1730/93672l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": "https://www.youtube-nocookie.com/embed/3fUgaCPNUXE?enablejsapi=1&wmode=opaque&autoplay=1",
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Dragon Ball Z Movie 09: Ginga Girigiri!! Bucchigiri no Sugoi Yatsu"
+            },
+            {
+                "type": "Japanese",
+                "title": "ドラゴンボールZ 銀河ギリギリ!!ぶっちぎりの凄い奴"
+            },
+            {
+                "type": "English",
+                "title": "Dragon Ball Z: Bojack Unbound"
+            },
+            {
+                "type": "German",
+                "title": "Dragon Ball Z Film 9: Super-Saiyajin Son Gohan"
+            },
+            {
+                "type": "Spanish",
+                "title": "Dragon Ball Z Película 9: ¡La Vía Láctea al Límite! Un Tipo Super Increíble"
+            },
+            {
+                "type": "French",
+                "title": "Dragon Ball Z Film 9: Les Mercenaires de L'space"
+            }
+        ],
+        "title": "Dragon Ball Z Movie 09: Ginga Girigiri!! Bucchigiri no Sugoi Yatsu",
+        "title_english": "Dragon Ball Z: Bojack Unbound",
+        "title_japanese": "ドラゴンボールZ 銀河ギリギリ!!ぶっちぎりの凄い奴",
+        "title_synonyms": [],
+        "type": "Movie",
+        "source": "Manga",
+        "episodes": 1,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "1993-07-10T00:00:00+00:00",
+            "to": null,
+            "prop": {
+                "from": {
+                    "day": 10,
+                    "month": 7,
+                    "year": 1993
+                },
+                "to": {
+                    "day": null,
+                    "month": null,
+                    "year": null
+                }
+            },
+            "string": "Jul 10, 1993"
+        },
+        "duration": "50 min",
+        "rating": "PG-13 - Teens 13 or older",
+        "score": 7.12,
+        "scored_by": 81932,
+        "rank": 3960,
+        "popularity": 1924,
+        "members": 131645,
+        "favorites": 67,
+        "synopsis": "Mr. Money is holding another Tenka'ichi Budokai and Mr. Satan invites everyone in the world to join in. Little does he know that Bojack, an ancient villain who has escaped his prison, is competing. Since Goku is currently dead, it is up to Gohan, Vegeta, and Trunks to defeat Bojack and his henchman.",
+        "background": "",
+        "season": null,
+        "year": null,
+        "broadcast": {
+            "day": null,
+            "time": null,
+            "timezone": null,
+            "string": null
+        },
+        "producers": [],
+        "licensors": [
+            {
+                "mal_id": 102,
+                "type": "anime",
+                "name": "Funimation",
+                "url": "https://myanimelist.net/anime/producer/102/Funimation"
+            }
+        ],
+        "studios": [
+            {
+                "mal_id": 18,
+                "type": "anime",
+                "name": "Toei Animation",
+                "url": "https://myanimelist.net/anime/producer/18/Toei_Animation"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 1,
+                "type": "anime",
+                "name": "Action",
+                "url": "https://myanimelist.net/anime/genre/1/Action"
+            },
+            {
+                "mal_id": 2,
+                "type": "anime",
+                "name": "Adventure",
+                "url": "https://myanimelist.net/anime/genre/2/Adventure"
+            },
+            {
+                "mal_id": 4,
+                "type": "anime",
+                "name": "Comedy",
+                "url": "https://myanimelist.net/anime/genre/4/Comedy"
+            },
+            {
+                "mal_id": 10,
+                "type": "anime",
+                "name": "Fantasy",
+                "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+            },
+            {
+                "mal_id": 24,
+                "type": "anime",
+                "name": "Sci-Fi",
+                "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [],
+        "demographics": [
+            {
+                "mal_id": 27,
+                "type": "anime",
+                "name": "Shounen",
+                "url": "https://myanimelist.net/anime/genre/27/Shounen"
+            }
+        ],
+        "relations": [
+            {
+                "relation": "Parent Story",
+                "entry": [
+                    {
+                        "mal_id": 813,
+                        "type": "anime",
+                        "name": "Dragon Ball Z",
+                        "url": "https://myanimelist.net/anime/813/Dragon_Ball_Z"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [
+                "\"Cha-La Head-Cha-La\" by Hironobu Kageyama"
+            ],
+            "endings": [
+                "\"Ginga o Koete Rising High (銀河を超えてライジング・ハイ)\" by Hironobu Kageyama"
+            ]
+        },
+        "external": [
+            {
+                "name": "Official Site",
+                "url": "http://lineup.toei-anim.co.jp/ja/movie/movie_dragonball_ginga/"
+            },
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=1069"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=987"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "http://en.wikipedia.org/wiki/Dragon_Ball_Z:_Bojack_Unbound"
+            }
+        ],
+        "streaming": [
+            {
+                "name": "Crunchyroll",
+                "url": "http://www.crunchyroll.com/series-283693"
+            }
+        ]
+    },
+    "episodes": []
+}

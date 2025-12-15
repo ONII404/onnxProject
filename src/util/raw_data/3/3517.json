@@ -1,0 +1,143 @@
+{
+    "id": 3517,
+    "fetched_at": "Sun Dec 14 19:41:07 2025",
+    "metadata": {
+        "mal_id": 3517,
+        "url": "https://myanimelist.net/anime/3517/New_Hal___Bons",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/4/5879.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/4/5879t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/4/5879l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/4/5879.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/4/5879t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/4/5879l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "New Hal & Bons"
+            },
+            {
+                "type": "Synonym",
+                "title": "New Hal and Bons"
+            },
+            {
+                "type": "Japanese",
+                "title": "ＮＥＷ ハル＆ボンス"
+            }
+        ],
+        "title": "New Hal & Bons",
+        "title_english": null,
+        "title_japanese": "ＮＥＷ ハル＆ボンス",
+        "title_synonyms": [
+            "New Hal and Bons"
+        ],
+        "type": "OVA",
+        "source": "Unknown",
+        "episodes": 9,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "2006-05-27T00:00:00+00:00",
+            "to": null,
+            "prop": {
+                "from": {
+                    "day": 27,
+                    "month": 5,
+                    "year": 2006
+                },
+                "to": {
+                    "day": null,
+                    "month": null,
+                    "year": null
+                }
+            },
+            "string": "May 27, 2006"
+        },
+        "duration": "6 min per ep",
+        "rating": "PG-13 - Teens 13 or older",
+        "score": 5.16,
+        "scored_by": 169,
+        "rank": 13562,
+        "popularity": 17841,
+        "members": 514,
+        "favorites": 0,
+        "synopsis": "A continuation of Hal and Bons.",
+        "background": "",
+        "season": null,
+        "year": null,
+        "broadcast": {
+            "day": null,
+            "time": null,
+            "timezone": null,
+            "string": null
+        },
+        "producers": [
+            {
+                "mal_id": 378,
+                "type": "anime",
+                "name": "Grasshoppa!",
+                "url": "https://myanimelist.net/anime/producer/378/Grasshoppa"
+            }
+        ],
+        "licensors": [],
+        "studios": [],
+        "genres": [
+            {
+                "mal_id": 4,
+                "type": "anime",
+                "name": "Comedy",
+                "url": "https://myanimelist.net/anime/genre/4/Comedy"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [],
+        "demographics": [],
+        "relations": [
+            {
+                "relation": "Prequel",
+                "entry": [
+                    {
+                        "mal_id": 3516,
+                        "type": "anime",
+                        "name": "Hal & Bons",
+                        "url": "https://myanimelist.net/anime/3516/Hal___Bons"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [],
+            "endings": []
+        },
+        "external": [
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=5313"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=7203"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": []
+}

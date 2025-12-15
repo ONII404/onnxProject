@@ -1,0 +1,828 @@
+{
+    "id": 2108,
+    "fetched_at": "Sun Dec 14 18:11:19 2025",
+    "metadata": {
+        "mal_id": 2108,
+        "url": "https://myanimelist.net/anime/2108/RockmanEXE_Axess",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1409/133686.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1409/133686t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1409/133686l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1409/133686.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1409/133686t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1409/133686l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Rockman.EXE Axess"
+            },
+            {
+                "type": "Synonym",
+                "title": "Rockman EXE Axess"
+            },
+            {
+                "type": "Japanese",
+                "title": "ロックマンエグゼ Axess"
+            },
+            {
+                "type": "English",
+                "title": "MegaMan NT Warrior: Axess"
+            }
+        ],
+        "title": "Rockman.EXE Axess",
+        "title_english": "MegaMan NT Warrior: Axess",
+        "title_japanese": "ロックマンエグゼ Axess",
+        "title_synonyms": [
+            "Rockman EXE Axess"
+        ],
+        "type": "TV",
+        "source": "Game",
+        "episodes": 51,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "2003-10-04T00:00:00+00:00",
+            "to": "2004-09-25T00:00:00+00:00",
+            "prop": {
+                "from": {
+                    "day": 4,
+                    "month": 10,
+                    "year": 2003
+                },
+                "to": {
+                    "day": 25,
+                    "month": 9,
+                    "year": 2004
+                }
+            },
+            "string": "Oct 4, 2003 to Sep 25, 2004"
+        },
+        "duration": "24 min per ep",
+        "rating": "PG - Children",
+        "score": 7.14,
+        "scored_by": 9022,
+        "rank": 3849,
+        "popularity": 5503,
+        "members": 18850,
+        "favorites": 50,
+        "synopsis": "Netto's father Yuuichirou Hikari has made a scientific breakthrough by introducing the \"synchro chips\". If an operator and his or her navi are in a special enviroment known as a \"dimensional area\", they can fuse together in the real world via a technique called \"cross fusion\"! Yuuichirou's first test subject, Misaki Gorou, attempts the process and sadly fails. Netto offers to try with Rockman, but his father forbids it. Cross Fusion puts enormous strain on the operator's health, and battling in the real world could mean death. \n\n(Source: Official Site)",
+        "background": "",
+        "season": "fall",
+        "year": 2003,
+        "broadcast": {
+            "day": null,
+            "time": null,
+            "timezone": null,
+            "string": "Unknown"
+        },
+        "producers": [
+            {
+                "mal_id": 16,
+                "type": "anime",
+                "name": "TV Tokyo",
+                "url": "https://myanimelist.net/anime/producer/16/TV_Tokyo"
+            },
+            {
+                "mal_id": 3087,
+                "type": "anime",
+                "name": "Shogakukan Productions",
+                "url": "https://myanimelist.net/anime/producer/3087/Shogakukan_Productions"
+            }
+        ],
+        "licensors": [
+            {
+                "mal_id": 119,
+                "type": "anime",
+                "name": "VIZ Media",
+                "url": "https://myanimelist.net/anime/producer/119/VIZ_Media"
+            }
+        ],
+        "studios": [
+            {
+                "mal_id": 27,
+                "type": "anime",
+                "name": "Xebec",
+                "url": "https://myanimelist.net/anime/producer/27/Xebec"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 1,
+                "type": "anime",
+                "name": "Action",
+                "url": "https://myanimelist.net/anime/genre/1/Action"
+            },
+            {
+                "mal_id": 2,
+                "type": "anime",
+                "name": "Adventure",
+                "url": "https://myanimelist.net/anime/genre/2/Adventure"
+            },
+            {
+                "mal_id": 4,
+                "type": "anime",
+                "name": "Comedy",
+                "url": "https://myanimelist.net/anime/genre/4/Comedy"
+            },
+            {
+                "mal_id": 24,
+                "type": "anime",
+                "name": "Sci-Fi",
+                "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [
+            {
+                "mal_id": 11,
+                "type": "anime",
+                "name": "Strategy Game",
+                "url": "https://myanimelist.net/anime/genre/11/Strategy_Game"
+            }
+        ],
+        "demographics": [],
+        "relations": [
+            {
+                "relation": "Prequel",
+                "entry": [
+                    {
+                        "mal_id": 1710,
+                        "type": "anime",
+                        "name": "Rockman.EXE",
+                        "url": "https://myanimelist.net/anime/1710/RockmanEXE"
+                    }
+                ]
+            },
+            {
+                "relation": "Sequel",
+                "entry": [
+                    {
+                        "mal_id": 2109,
+                        "type": "anime",
+                        "name": "Rockman.EXE Stream",
+                        "url": "https://myanimelist.net/anime/2109/RockmanEXE_Stream"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [
+                "1: \"Futatsu no Mirai\" by Michihiro Kuroda"
+            ],
+            "endings": [
+                "1: \"Hikari Todoku Basho\" by Kumiko Higa and Akiko Kimura"
+            ]
+        },
+        "external": [
+            {
+                "name": "Official Site",
+                "url": "http://www.tv-tokyo.co.jp/anime/rockmanexe_axess/"
+            },
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=1143"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=2982"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "http://en.wikipedia.org/wiki/MegaMan_NT_Warrior"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": [
+        {
+            "mal_id": 1,
+            "url": null,
+            "title": "Cross Fusion!",
+            "title_japanese": "クロスフュージョン！",
+            "title_romanji": "Cross Fusion! ",
+            "aired": "2003-10-04T00:00:00+00:00",
+            "score": 4.36,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1415708"
+        },
+        {
+            "mal_id": 2,
+            "url": null,
+            "title": "NetCity No More!",
+            "title_japanese": "ネットシティ消滅！",
+            "title_romanji": "Net City Shoumetsu! ",
+            "aired": "2003-10-11T00:00:00+00:00",
+            "score": 4.14,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1415944"
+        },
+        {
+            "mal_id": 3,
+            "url": null,
+            "title": "Jabajaba, Dangerous Foam!",
+            "title_japanese": "ジャバジャバやばい水の泡！",
+            "title_romanji": "Jabajaba Yabai Mizu no Awa! ",
+            "aired": "2003-10-18T00:00:00+00:00",
+            "score": 4.5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1416020"
+        },
+        {
+            "mal_id": 4,
+            "url": null,
+            "title": "Soul Unison!",
+            "title_japanese": "ソウルユニゾン！",
+            "title_romanji": "Soul Unison! ",
+            "aired": "2003-10-25T00:00:00+00:00",
+            "score": 4.5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1416030"
+        },
+        {
+            "mal_id": 5,
+            "url": null,
+            "title": "Metal Hot Spring! Ow It's Hot!",
+            "title_japanese": "メタル温泉アッチッチ！",
+            "title_romanji": "Metal Onsen Acchicchi! ",
+            "aired": "2003-11-01T00:00:00+00:00",
+            "score": 4.67,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1416319"
+        },
+        {
+            "mal_id": 6,
+            "url": null,
+            "title": "The Most Dangerous Ball Game!",
+            "title_japanese": "最も危険な球技！",
+            "title_romanji": "Mottomo Kiken na Kyuugi! ",
+            "aired": "2003-11-08T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1417086"
+        },
+        {
+            "mal_id": 7,
+            "url": null,
+            "title": "Electronic Flower Garden!",
+            "title_japanese": "電子の花園！",
+            "title_romanji": "Denshi no Hanazono! ",
+            "aired": "2003-11-15T00:00:00+00:00",
+            "score": 4.67,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1417096"
+        },
+        {
+            "mal_id": 8,
+            "url": null,
+            "title": "Friendship in the Mirror",
+            "title_japanese": "鏡のなかの友情",
+            "title_romanji": "Kagami no Naka no Yuujou ",
+            "aired": "2003-11-22T00:00:00+00:00",
+            "score": 4.5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1417410"
+        },
+        {
+            "mal_id": 9,
+            "url": null,
+            "title": "Dekao Returns",
+            "title_japanese": "帰ってきたデカオ",
+            "title_romanji": "Kaette Kita Dekao ",
+            "aired": "2003-11-29T00:00:00+00:00",
+            "score": 4.25,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1417794"
+        },
+        {
+            "mal_id": 10,
+            "url": null,
+            "title": "Threat of the DarkChips!",
+            "title_japanese": "ダークチップの脅威",
+            "title_romanji": "Dark Chip no Kyoui! ",
+            "aired": "2003-12-06T00:00:00+00:00",
+            "score": 4.25,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1417884"
+        },
+        {
+            "mal_id": 11,
+            "url": null,
+            "title": "Beat the Safecracker!",
+            "title_japanese": "金庫破りをやっつけろ！",
+            "title_romanji": "Kinkoyaburi wo Yattsukero! ",
+            "aired": "2003-12-13T00:00:00+00:00",
+            "score": 4.6,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1418251"
+        },
+        {
+            "mal_id": 12,
+            "url": null,
+            "title": "The Steel Sniper",
+            "title_japanese": "鋼鉄のスナイパー",
+            "title_romanji": "Koutetsu no Sniper ",
+            "aired": "2003-12-20T00:00:00+00:00",
+            "score": 4.2,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1418261"
+        },
+        {
+            "mal_id": 13,
+            "url": null,
+            "title": "CrossFusion for All!",
+            "title_japanese": "クロスフュージョン消滅！",
+            "title_romanji": "CrossFusion Shoumetsu! ",
+            "aired": "2003-12-27T00:00:00+00:00",
+            "score": 4.2,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1419397"
+        },
+        {
+            "mal_id": 14,
+            "url": null,
+            "title": "The Purloined Princess",
+            "title_japanese": "盗まれたプリンセス",
+            "title_romanji": "Nusumareta Princess ",
+            "aired": "2004-01-10T00:00:00+00:00",
+            "score": 4.25,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1419497"
+        },
+        {
+            "mal_id": 15,
+            "url": null,
+            "title": "The Incredible Guts!",
+            "title_japanese": "超人ガッツ！",
+            "title_romanji": "Incredible Guts! ",
+            "aired": "2004-01-17T00:00:00+00:00",
+            "score": 4.33,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1420558"
+        },
+        {
+            "mal_id": 16,
+            "url": null,
+            "title": "Cute! Demon?",
+            "title_japanese": "カワイイ！悪魔？",
+            "title_romanji": "Kawaii! Akuma? ",
+            "aired": "2004-01-24T00:00:00+00:00",
+            "score": 4.5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1420567"
+        },
+        {
+            "mal_id": 17,
+            "url": null,
+            "title": "The Assaulting Beastman!",
+            "title_japanese": "強襲ビーストマン！",
+            "title_romanji": "Kyoushuu Beastman! ",
+            "aired": "2004-01-31T00:00:00+00:00",
+            "score": 4.5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1420958"
+        },
+        {
+            "mal_id": 18,
+            "url": null,
+            "title": "The Man from Sharo",
+            "title_japanese": "シャーロから来た男",
+            "title_romanji": "Shaaro kara Kita Otoko ",
+            "aired": "2004-02-07T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1425071"
+        },
+        {
+            "mal_id": 19,
+            "url": null,
+            "title": "SearchSoul!",
+            "title_japanese": "サーチソウル！",
+            "title_romanji": "Search Soul ",
+            "aired": "2004-02-14T00:00:00+00:00",
+            "score": 4.5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1425168"
+        },
+        {
+            "mal_id": 20,
+            "url": null,
+            "title": "Dark Secret",
+            "title_japanese": "ダークチップをよこせ！",
+            "title_romanji": "Dark Chip wo Yokose! ",
+            "aired": "2004-02-21T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1432048"
+        },
+        {
+            "mal_id": 21,
+            "url": null,
+            "title": "ShadeMan's Ambition",
+            "title_japanese": "シェードマンの野望",
+            "title_romanji": "Shademan no Yabou ",
+            "aired": "2004-02-28T00:00:00+00:00",
+            "score": 4.4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1442135"
+        },
+        {
+            "mal_id": 22,
+            "url": null,
+            "title": "Bubbleman's Great Friend Strategy",
+            "title_japanese": "バブルマンの友達大作戦",
+            "title_romanji": "Bubbleman no Tomodachi Daisakusen ",
+            "aired": "2004-03-06T00:00:00+00:00",
+            "score": 4.2,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1490465"
+        },
+        {
+            "mal_id": 23,
+            "url": null,
+            "title": "Super Energy of Terror",
+            "title_japanese": "戦慄の超エネルギー",
+            "title_romanji": "Senritsu no Chou Energy ",
+            "aired": "2004-03-13T00:00:00+00:00",
+            "score": 4.33,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1490778"
+        },
+        {
+            "mal_id": 24,
+            "url": null,
+            "title": "Red Hot Magma Fight",
+            "title_japanese": "灼熱マグマの戦い",
+            "title_romanji": "Shakunetsu Magma no Tatakai ",
+            "aired": "2004-03-20T00:00:00+00:00",
+            "score": 4.4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1491157"
+        },
+        {
+            "mal_id": 25,
+            "url": null,
+            "title": "VideoMan Returns!",
+            "title_japanese": "ビデオマン、リターンズ！",
+            "title_romanji": "Videoman, Returns! ",
+            "aired": "2004-03-27T00:00:00+00:00",
+            "score": 4.5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1491374"
+        },
+        {
+            "mal_id": 26,
+            "url": null,
+            "title": "Memory of the Blue Flame",
+            "title_japanese": "青き炎の記憶",
+            "title_romanji": "Aoki Honoo no Kioku ",
+            "aired": "2004-04-03T00:00:00+00:00",
+            "score": 4.4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1491430"
+        },
+        {
+            "mal_id": 27,
+            "url": null,
+            "title": "Decisive Battle! Nebula Base",
+            "title_japanese": "決戦！ネビュラ基地",
+            "title_romanji": "Kessen! Nebula Kichi ",
+            "aired": "2004-04-10T00:00:00+00:00",
+            "score": 4.33,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1491969"
+        },
+        {
+            "mal_id": 28,
+            "url": null,
+            "title": "Wavering Heart",
+            "title_japanese": "揺れる心",
+            "title_romanji": "Yureru Kokoro ",
+            "aired": "2004-04-17T00:00:00+00:00",
+            "score": 4.4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1492003"
+        },
+        {
+            "mal_id": 29,
+            "url": null,
+            "title": "Enzan VS Blues",
+            "title_japanese": "炎山ＶＳブルース",
+            "title_romanji": "Enzan vs. Blues ",
+            "aired": "2004-04-24T00:00:00+00:00",
+            "score": 4.67,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1492031"
+        },
+        {
+            "mal_id": 30,
+            "url": null,
+            "title": "Lovey-Dovey Aquaman",
+            "title_japanese": "ラブラブアクアマン",
+            "title_romanji": "Love Love Aquaman ",
+            "aired": "2004-05-01T00:00:00+00:00",
+            "score": 4.8,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1492039"
+        },
+        {
+            "mal_id": 31,
+            "url": null,
+            "title": "Object Junkman from the Satellite",
+            "title_japanese": "衛星からの物体J[ジャンクマン]",
+            "title_romanji": "Eisei kara no Buttai Junkman ",
+            "aired": "2004-05-08T00:00:00+00:00",
+            "score": 4.4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1492274"
+        },
+        {
+            "mal_id": 32,
+            "url": null,
+            "title": "Revival! Commander Beef",
+            "title_japanese": "復活！ビーフ司令",
+            "title_romanji": "Fukkatsu! Beef-shirei ",
+            "aired": "2004-05-15T00:00:00+00:00",
+            "score": 4.5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1492368"
+        },
+        {
+            "mal_id": 33,
+            "url": null,
+            "title": "Cross Fusion #0",
+            "title_japanese": "クロスフュージョン０号",
+            "title_romanji": "Cross Fusion 0 Gou ",
+            "aired": "2004-05-22T00:00:00+00:00",
+            "score": 4.5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1492374"
+        },
+        {
+            "mal_id": 34,
+            "url": null,
+            "title": "Wanted: PrismMan",
+            "title_japanese": "指名手配はプリズマン",
+            "title_romanji": "Shimei Tehai wa Prisman ",
+            "aired": "2004-05-29T00:00:00+00:00",
+            "score": 4.5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1492583"
+        },
+        {
+            "mal_id": 35,
+            "url": null,
+            "title": "Nebula's Great Invasion!",
+            "title_japanese": "ネビュラ大侵攻！",
+            "title_romanji": "Nebula Daishinkou! ",
+            "aired": "2004-06-05T00:00:00+00:00",
+            "score": 4.4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1492742"
+        },
+        {
+            "mal_id": 36,
+            "url": null,
+            "title": "Completion! New Style PET!",
+            "title_japanese": "完成！新型ＰＥＴ！",
+            "title_romanji": "Kansei! Shingata PET! ",
+            "aired": "2004-06-12T00:00:00+00:00",
+            "score": 4.6,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1493048"
+        },
+        {
+            "mal_id": 37,
+            "url": null,
+            "title": "Mysterious Masked Navi",
+            "title_japanese": "謎の覆面ナビ",
+            "title_romanji": "Nazo no Fukumen Navi ",
+            "aired": "2004-06-19T00:00:00+00:00",
+            "score": 4.4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1493056"
+        },
+        {
+            "mal_id": 38,
+            "url": null,
+            "title": "Flying to Shiisaa Island",
+            "title_japanese": "飛んでシーサーアイランド",
+            "title_romanji": "Tonde Scissor Island ",
+            "aired": "2004-06-26T00:00:00+00:00",
+            "score": 3.8,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1493292"
+        },
+        {
+            "mal_id": 39,
+            "url": null,
+            "title": "Go to Hell by Train?!",
+            "title_japanese": "列車でGO to hell!?",
+            "title_romanji": "Ressha de Go to Hell!? ",
+            "aired": "2004-07-03T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1493587"
+        },
+        {
+            "mal_id": 40,
+            "url": null,
+            "title": "Hero of the Earth's Bowels",
+            "title_japanese": "地の底の英雄",
+            "title_romanji": "Chi no Soko no Eiyuu ",
+            "aired": "2004-07-10T00:00:00+00:00",
+            "score": 4.2,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1493665"
+        },
+        {
+            "mal_id": 41,
+            "url": null,
+            "title": "Allegro",
+            "title_japanese": "アレグロ",
+            "title_romanji": "Allegro ",
+            "aired": "2004-07-17T00:00:00+00:00",
+            "score": 4.6,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1493897"
+        },
+        {
+            "mal_id": 42,
+            "url": null,
+            "title": "Maylu's First Date",
+            "title_japanese": "メイルの初デート",
+            "title_romanji": "Maylu no Hatsu Date ",
+            "aired": "2004-07-24T00:00:00+00:00",
+            "score": 4.33,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1493974"
+        },
+        {
+            "mal_id": 43,
+            "url": null,
+            "title": "Top and Grandchild",
+            "title_japanese": "コマとマゴ",
+            "title_romanji": "Koma to Mago ",
+            "aired": "2004-07-31T00:00:00+00:00",
+            "score": 3.8,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1494217"
+        },
+        {
+            "mal_id": 44,
+            "url": null,
+            "title": "Fear of Summer Vacation",
+            "title_japanese": "夏休みの恐怖",
+            "title_romanji": "Natsuyasumi no Kyoufu ",
+            "aired": "2004-08-07T00:00:00+00:00",
+            "score": 4.17,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1494296"
+        },
+        {
+            "mal_id": 45,
+            "url": null,
+            "title": "Rush Runs Away",
+            "title_japanese": "ラッシュの家出",
+            "title_romanji": "Rush no Iede ",
+            "aired": "2004-08-14T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1494300"
+        },
+        {
+            "mal_id": 46,
+            "url": null,
+            "title": "The Great NetPolice Battle!",
+            "title_japanese": "ネット警察大攻防戦！",
+            "title_romanji": "Net Keisatsu Daikoubousen! ",
+            "aired": "2004-08-21T00:00:00+00:00",
+            "score": 4.75,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1494594"
+        },
+        {
+            "mal_id": 47,
+            "url": null,
+            "title": "A Message from Outer Space",
+            "title_japanese": "宇宙からのメッセージ",
+            "title_romanji": "Uchuu kara no Message ",
+            "aired": "2004-08-28T00:00:00+00:00",
+            "score": 4.25,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1494602"
+        },
+        {
+            "mal_id": 48,
+            "url": null,
+            "title": "Mariko and Yuriko",
+            "title_japanese": "まりことゆりこ",
+            "title_romanji": "Mariko to Yuriko ",
+            "aired": "2004-09-04T00:00:00+00:00",
+            "score": 4.5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1494665"
+        },
+        {
+            "mal_id": 49,
+            "url": null,
+            "title": "Farewell Blues",
+            "title_japanese": "さらば　ブルース",
+            "title_romanji": "Saraba Blues ",
+            "aired": "2004-09-11T00:00:00+00:00",
+            "score": 5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1494674"
+        },
+        {
+            "mal_id": 50,
+            "url": null,
+            "title": "Dark VS Dark",
+            "title_japanese": "ダーク対ダークの決戦",
+            "title_romanji": "Dark tai Dark no Kessen ",
+            "aired": "2004-09-18T00:00:00+00:00",
+            "score": 4.83,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1494954"
+        },
+        {
+            "mal_id": 51,
+            "url": null,
+            "title": "Where the Light Reaches",
+            "title_japanese": "光とどく場所",
+            "title_romanji": "Hikari Todoku Basho ",
+            "aired": "2004-09-25T00:00:00+00:00",
+            "score": 4.43,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1495030"
+        }
+    ]
+}

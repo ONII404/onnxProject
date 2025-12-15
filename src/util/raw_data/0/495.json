@@ -1,0 +1,551 @@
+{
+    "id": 495,
+    "fetched_at": "Sun Dec 14 13:44:10 2025",
+    "metadata": {
+        "mal_id": 495,
+        "url": "https://myanimelist.net/anime/495/Bakuretsu_Hunters",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1607/96463.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1607/96463t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1607/96463l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1607/96463.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1607/96463t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1607/96463l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Bakuretsu Hunters"
+            },
+            {
+                "type": "Synonym",
+                "title": "Spell Wars: Sorcerer Hunters Revenge"
+            },
+            {
+                "type": "Japanese",
+                "title": "爆れつハンター"
+            },
+            {
+                "type": "English",
+                "title": "Sorcerer Hunters"
+            },
+            {
+                "type": "French",
+                "title": "Sorcerer Hunters"
+            }
+        ],
+        "title": "Bakuretsu Hunters",
+        "title_english": "Sorcerer Hunters",
+        "title_japanese": "爆れつハンター",
+        "title_synonyms": [
+            "Spell Wars: Sorcerer Hunters Revenge"
+        ],
+        "type": "TV",
+        "source": "Manga",
+        "episodes": 26,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "1995-10-03T00:00:00+00:00",
+            "to": "1996-03-26T00:00:00+00:00",
+            "prop": {
+                "from": {
+                    "day": 3,
+                    "month": 10,
+                    "year": 1995
+                },
+                "to": {
+                    "day": 26,
+                    "month": 3,
+                    "year": 1996
+                }
+            },
+            "string": "Oct 3, 1995 to Mar 26, 1996"
+        },
+        "duration": "23 min per ep",
+        "rating": "R - 17+ (violence & profanity)",
+        "score": 6.64,
+        "scored_by": 7702,
+        "rank": 6484,
+        "popularity": 4907,
+        "members": 24995,
+        "favorites": 48,
+        "synopsis": "For as long as anyone can remember, the Spooner Continent has been under the dominion of ruthless sorcerers. Obeying no laws but their own, they see humans as nothing more than tools to fulfill their dark magical rituals. The rest of the terrified population can do little to resist their cruel overlords.\n\nYet, even in the most trying times, hope persists. A small group of brave individuals has begun to fight back against this tyranny. In their quest for justice against the sorcerers who have gone too far, brothers Carrot and Marron Glace, sisters Tira and Chocolate Misu, and warrior Gateau Mocha travel across the land, challenging the sorcerers' reign and igniting flames of rebellion.\n\n[Written by MAL Rewrite]",
+        "background": "",
+        "season": "fall",
+        "year": 1995,
+        "broadcast": {
+            "day": "Tuesdays",
+            "time": "18:00",
+            "timezone": "Asia/Tokyo",
+            "string": "Tuesdays at 18:00 (JST)"
+        },
+        "producers": [
+            {
+                "mal_id": 64,
+                "type": "anime",
+                "name": "Sotsu",
+                "url": "https://myanimelist.net/anime/producer/64/Sotsu"
+            },
+            {
+                "mal_id": 166,
+                "type": "anime",
+                "name": "Movic",
+                "url": "https://myanimelist.net/anime/producer/166/Movic"
+            },
+            {
+                "mal_id": 717,
+                "type": "anime",
+                "name": "TV Tokyo Music",
+                "url": "https://myanimelist.net/anime/producer/717/TV_Tokyo_Music"
+            }
+        ],
+        "licensors": [
+            {
+                "mal_id": 97,
+                "type": "anime",
+                "name": "ADV Films",
+                "url": "https://myanimelist.net/anime/producer/97/ADV_Films"
+            },
+            {
+                "mal_id": 467,
+                "type": "anime",
+                "name": "Discotek Media",
+                "url": "https://myanimelist.net/anime/producer/467/Discotek_Media"
+            }
+        ],
+        "studios": [
+            {
+                "mal_id": 27,
+                "type": "anime",
+                "name": "Xebec",
+                "url": "https://myanimelist.net/anime/producer/27/Xebec"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 2,
+                "type": "anime",
+                "name": "Adventure",
+                "url": "https://myanimelist.net/anime/genre/2/Adventure"
+            },
+            {
+                "mal_id": 4,
+                "type": "anime",
+                "name": "Comedy",
+                "url": "https://myanimelist.net/anime/genre/4/Comedy"
+            },
+            {
+                "mal_id": 10,
+                "type": "anime",
+                "name": "Fantasy",
+                "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+            },
+            {
+                "mal_id": 9,
+                "type": "anime",
+                "name": "Ecchi",
+                "url": "https://myanimelist.net/anime/genre/9/Ecchi"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [],
+        "demographics": [
+            {
+                "mal_id": 27,
+                "type": "anime",
+                "name": "Shounen",
+                "url": "https://myanimelist.net/anime/genre/27/Shounen"
+            }
+        ],
+        "relations": [
+            {
+                "relation": "Sequel",
+                "entry": [
+                    {
+                        "mal_id": 808,
+                        "type": "anime",
+                        "name": "Bakuretsu Hunters OVA",
+                        "url": "https://myanimelist.net/anime/808/Bakuretsu_Hunters_OVA"
+                    }
+                ]
+            },
+            {
+                "relation": "Adaptation",
+                "entry": [
+                    {
+                        "mal_id": 140,
+                        "type": "manga",
+                        "name": "Bakuretsu Hunters",
+                        "url": "https://myanimelist.net/manga/140/Bakuretsu_Hunters"
+                    }
+                ]
+            },
+            {
+                "relation": "Spin-Off",
+                "entry": [
+                    {
+                        "mal_id": 1228,
+                        "type": "anime",
+                        "name": "Chivas 1-2-3",
+                        "url": "https://myanimelist.net/anime/1228/Chivas_1-2-3"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [
+                "\"What's up Guys\" by Megumi Hayashibara and Shinnosuke Furumoto"
+            ],
+            "endings": [
+                "\"Mask\" by Masami Okui"
+            ]
+        },
+        "external": [
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=701"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=85"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "http://en.wikipedia.org/wiki/Bakuretsu_Hunter"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": [
+        {
+            "mal_id": 1,
+            "url": null,
+            "title": "Float-Bridge of Love",
+            "title_japanese": "愛のなんぱ橋",
+            "title_romanji": "Ai no Nanpa Kyou ",
+            "aired": "1995-10-03T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1508464"
+        },
+        {
+            "mal_id": 2,
+            "url": null,
+            "title": "Red Flower of Life",
+            "title_japanese": "命召しませ紅花 [あかきはな]",
+            "title_romanji": "Inochi Meshimase Akaki Hana ",
+            "aired": "1995-10-10T00:00:00+00:00",
+            "score": 4.09,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1247503"
+        },
+        {
+            "mal_id": 3,
+            "url": null,
+            "title": "Unwritten Laws about Light and Dark",
+            "title_japanese": "影と光の不文律",
+            "title_romanji": "Kage to Hikari no Fubun Ritsu ",
+            "aired": "1995-10-17T00:00:00+00:00",
+            "score": 3.75,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1248453"
+        },
+        {
+            "mal_id": 4,
+            "url": null,
+            "title": "Fireworks Competition of Love",
+            "title_japanese": "愛の花火大会だ",
+            "title_romanji": "Ai no Hanabi Daikai da ",
+            "aired": "1995-10-24T00:00:00+00:00",
+            "score": 3.83,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1249103"
+        },
+        {
+            "mal_id": 5,
+            "url": null,
+            "title": "A Dreamy Girl at Lakeside",
+            "title_japanese": "湖畔の夢女",
+            "title_romanji": "Kohan no Yume Shoujo ",
+            "aired": "1995-10-31T00:00:00+00:00",
+            "score": 4.09,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1250429"
+        },
+        {
+            "mal_id": 6,
+            "url": null,
+            "title": "Heresy of Love is Crystal",
+            "title_japanese": "異端の愛は水晶 [クリスタル]",
+            "title_romanji": "Itan no Ai wa Crystal ",
+            "aired": "1995-11-07T00:00:00+00:00",
+            "score": 3,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1250587"
+        },
+        {
+            "mal_id": 7,
+            "url": null,
+            "title": "Love, as it Drifts",
+            "title_japanese": "愛、流れるまま",
+            "title_romanji": "Ai, Nagareru mama ",
+            "aired": "1995-11-14T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1251641"
+        },
+        {
+            "mal_id": 8,
+            "url": null,
+            "title": "The Forbidden Fire",
+            "title_japanese": "禁じられた炎",
+            "title_romanji": "Kinjirareta Honoo ",
+            "aired": "1995-11-21T00:00:00+00:00",
+            "score": 4.33,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1251783"
+        },
+        {
+            "mal_id": 9,
+            "url": null,
+            "title": "Labyrinth Opera House",
+            "title_japanese": "迷宮への歌劇場 [オペラハウス]",
+            "title_romanji": "Meikyuu e no Opera House ",
+            "aired": "1995-11-28T00:00:00+00:00",
+            "score": 3.67,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1252489"
+        },
+        {
+            "mal_id": 10,
+            "url": null,
+            "title": "To Love a Vagabond",
+            "title_japanese": "恋すれど風来坊",
+            "title_romanji": "Koisuredo Fuuraibou ",
+            "aired": "1995-12-05T00:00:00+00:00",
+            "score": 3.75,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1253413"
+        },
+        {
+            "mal_id": 11,
+            "url": null,
+            "title": "Forbidden Fruit",
+            "title_japanese": "許されざる果実",
+            "title_romanji": "Yurusarezaru Kajitsu ",
+            "aired": "1995-12-12T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1254599"
+        },
+        {
+            "mal_id": 12,
+            "url": null,
+            "title": "The Fossilized Warrior",
+            "title_japanese": "化石の勇者",
+            "title_romanji": "Kaseki no Yuusha ",
+            "aired": "1995-12-19T00:00:00+00:00",
+            "score": 4.33,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1255423"
+        },
+        {
+            "mal_id": 13,
+            "url": null,
+            "title": "In Between Dreams and Reality",
+            "title_japanese": "夢と現 [うつつ] の間 [はざま] で",
+            "title_romanji": "Yume to Utsutsu no Hazama de ",
+            "aired": "1995-12-26T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 14,
+            "url": null,
+            "title": "God's a Big Fool",
+            "title_japanese": "神様は大たわけ",
+            "title_romanji": "Kamisama wa Daitawake ",
+            "aired": "1996-01-02T00:00:00+00:00",
+            "score": 4.5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1960609"
+        },
+        {
+            "mal_id": 15,
+            "url": null,
+            "title": "The First Reunion",
+            "title_japanese": "初めての再会",
+            "title_romanji": "Hajimete no Saikai ",
+            "aired": "1996-01-09T00:00:00+00:00",
+            "score": 4.4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1545071"
+        },
+        {
+            "mal_id": 16,
+            "url": null,
+            "title": "The Great Hospital of Love",
+            "title_japanese": "愛の大病院だ",
+            "title_romanji": "Ai no Dai Byouin Da ",
+            "aired": "1996-01-16T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 17,
+            "url": null,
+            "title": "Big Mama Once Again",
+            "title_japanese": "マム、再び...",
+            "title_romanji": "Mum, Futatabi... ",
+            "aired": "1996-01-23T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 18,
+            "url": null,
+            "title": "The Gods Within",
+            "title_japanese": "秘められし神々",
+            "title_romanji": "Himerareshi Kamigami ",
+            "aired": "1996-01-30T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 19,
+            "url": null,
+            "title": "Darling is a Love-Stricken Ass",
+            "title_japanese": "まほろばの恋人[ダーリン]",
+            "title_romanji": "Mahoroba no Darling ",
+            "aired": "1996-02-06T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 20,
+            "url": null,
+            "title": "The Boy Has Seen It",
+            "title_japanese": "少年は見た",
+            "title_romanji": "Shounen wa Mita ",
+            "aired": "1996-02-13T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 21,
+            "url": null,
+            "title": "A Sleepless Night",
+            "title_japanese": "眠れない夜",
+            "title_romanji": "Nemurenai Yoru ",
+            "aired": "1996-02-20T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 22,
+            "url": null,
+            "title": "Sorcerer Hunter Spirits",
+            "title_japanese": "法族狩り精神 [ソーサラーハンター·スピリッツ]",
+            "title_romanji": "Sorcerer Hunter Spirits ",
+            "aired": "1996-02-27T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 23,
+            "url": null,
+            "title": "The Foible of Kindness",
+            "title_japanese": "優しさの敗北",
+            "title_romanji": "Yashisa no Haiboku ",
+            "aired": "1996-03-05T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 24,
+            "url": null,
+            "title": "Overture of Destruction",
+            "title_japanese": "破滅への序曲",
+            "title_romanji": "Hametsu e no Jokyoku ",
+            "aired": "1996-03-12T00:00:00+00:00",
+            "score": 4.67,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1973275"
+        },
+        {
+            "mal_id": 25,
+            "url": null,
+            "title": "The Awakening of the Destroyer",
+            "title_japanese": "破壊神復活",
+            "title_romanji": "Hakaishin Fukkatsu ",
+            "aired": "1996-03-19T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2194223"
+        },
+        {
+            "mal_id": 26,
+            "url": null,
+            "title": "A Forgotten Piece from the Future",
+            "title_japanese": "未来からの忘れ物",
+            "title_romanji": "Mirai kara no Wasuremono ",
+            "aired": "1996-03-26T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2194226"
+        }
+    ]
+}

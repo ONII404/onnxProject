@@ -1,0 +1,188 @@
+{
+    "id": 1613,
+    "fetched_at": "Sun Dec 14 16:37:08 2025",
+    "metadata": {
+        "mal_id": 1613,
+        "url": "https://myanimelist.net/anime/1613/Jikuu_Ihoujin_Kyoko__Chocola_ni_Omakase",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1/1613.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1/1613t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1/1613l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1/1613.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1/1613t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1/1613l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Jikuu Ihoujin Kyoko: Chocola ni Omakase!"
+            },
+            {
+                "type": "Synonym",
+                "title": "Time Stranger Kyoko: Leave it to Chocola"
+            },
+            {
+                "type": "Synonym",
+                "title": "Time Stranger Kyoko: Chocola ni Omakase!"
+            },
+            {
+                "type": "Japanese",
+                "title": "時空異邦人KYOKO ちょこらにおまかせ！"
+            }
+        ],
+        "title": "Jikuu Ihoujin Kyoko: Chocola ni Omakase!",
+        "title_english": null,
+        "title_japanese": "時空異邦人KYOKO ちょこらにおまかせ！",
+        "title_synonyms": [
+            "Time Stranger Kyoko: Leave it to Chocola",
+            "Time Stranger Kyoko: Chocola ni Omakase!"
+        ],
+        "type": "OVA",
+        "source": "Manga",
+        "episodes": 1,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "2001-08-02T00:00:00+00:00",
+            "to": null,
+            "prop": {
+                "from": {
+                    "day": 2,
+                    "month": 8,
+                    "year": 2001
+                },
+                "to": {
+                    "day": null,
+                    "month": null,
+                    "year": null
+                }
+            },
+            "string": "Aug 2, 2001"
+        },
+        "duration": "11 min",
+        "rating": "G - All Ages",
+        "score": 5.46,
+        "scored_by": 1521,
+        "rank": 12770,
+        "popularity": 10968,
+        "members": 3035,
+        "favorites": 4,
+        "synopsis": "Preparing a party for her anniversary with the King, when he failed to show up Chocola decided to run away from the castle.",
+        "background": "",
+        "season": null,
+        "year": null,
+        "broadcast": {
+            "day": null,
+            "time": null,
+            "timezone": null,
+            "string": null
+        },
+        "producers": [
+            {
+                "mal_id": 10,
+                "type": "anime",
+                "name": "Production I.G",
+                "url": "https://myanimelist.net/anime/producer/10/Production_IG"
+            },
+            {
+                "mal_id": 139,
+                "type": "anime",
+                "name": "Nihon Ad Systems",
+                "url": "https://myanimelist.net/anime/producer/139/Nihon_Ad_Systems"
+            },
+            {
+                "mal_id": 1365,
+                "type": "anime",
+                "name": "Shueisha",
+                "url": "https://myanimelist.net/anime/producer/1365/Shueisha"
+            }
+        ],
+        "licensors": [],
+        "studios": [
+            {
+                "mal_id": 80,
+                "type": "anime",
+                "name": "Trans Arts",
+                "url": "https://myanimelist.net/anime/producer/80/Trans_Arts"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 4,
+                "type": "anime",
+                "name": "Comedy",
+                "url": "https://myanimelist.net/anime/genre/4/Comedy"
+            },
+            {
+                "mal_id": 10,
+                "type": "anime",
+                "name": "Fantasy",
+                "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [],
+        "demographics": [],
+        "relations": [
+            {
+                "relation": "Adaptation",
+                "entry": [
+                    {
+                        "mal_id": 86,
+                        "type": "manga",
+                        "name": "Time Stranger Kyoko",
+                        "url": "https://myanimelist.net/manga/86/Time_Stranger_Kyoko"
+                    }
+                ]
+            },
+            {
+                "relation": "Other",
+                "entry": [
+                    {
+                        "mal_id": 1056,
+                        "type": "anime",
+                        "name": "Good Morning Call",
+                        "url": "https://myanimelist.net/anime/1056/Good_Morning_Call"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [],
+            "endings": []
+        },
+        "external": [
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=723"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=1058"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "http://en.wikipedia.org/wiki/Time_Stranger_Kyoko"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": []
+}

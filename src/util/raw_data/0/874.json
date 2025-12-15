@@ -1,0 +1,884 @@
+{
+    "id": 874,
+    "fetched_at": "Sun Dec 14 14:14:35 2025",
+    "metadata": {
+        "mal_id": 874,
+        "url": "https://myanimelist.net/anime/874/Digimon_Tamers",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/7/73696.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/7/73696t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/7/73696l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/7/73696.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/7/73696t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/7/73696l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Digimon Tamers"
+            },
+            {
+                "type": "Synonym",
+                "title": "Digimon: Digital Monsters 03"
+            },
+            {
+                "type": "Japanese",
+                "title": "デジモンテイマーズ"
+            },
+            {
+                "type": "English",
+                "title": "Digimon Tamers"
+            },
+            {
+                "type": "Spanish",
+                "title": "Digimon 3"
+            }
+        ],
+        "title": "Digimon Tamers",
+        "title_english": "Digimon Tamers",
+        "title_japanese": "デジモンテイマーズ",
+        "title_synonyms": [
+            "Digimon: Digital Monsters 03"
+        ],
+        "type": "TV",
+        "source": "Original",
+        "episodes": 51,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "2001-04-01T00:00:00+00:00",
+            "to": "2002-03-31T00:00:00+00:00",
+            "prop": {
+                "from": {
+                    "day": 1,
+                    "month": 4,
+                    "year": 2001
+                },
+                "to": {
+                    "day": 31,
+                    "month": 3,
+                    "year": 2002
+                }
+            },
+            "string": "Apr 1, 2001 to Mar 31, 2002"
+        },
+        "duration": "25 min per ep",
+        "rating": "PG - Children",
+        "score": 7.65,
+        "scored_by": 129349,
+        "rank": 1489,
+        "popularity": 1301,
+        "members": 209366,
+        "favorites": 2041,
+        "synopsis": "Ten-year-old Takato Matsuda loves playing the Digimon card game with his friends and immersing himself in its imaginative world. One morning, he finds an unfamiliar blue card in his collection and swipes it through his card reader. Little does he know, his decision leads to its transformation into a D-Ark Digivice. When the mysterious device scans his designs for an original Digimon named Guilmon, it generates a Digi-Egg that later hatches into a living version of his own creation!\n\nAlthough Takato is thrilled to have a real Digimon, his idealized fantasy shatters when he realizes that his rambunctious new companion requires constant supervision. Adding to his troubles, Guilmon is targeted by Ruki Makino, a rival tamer who commands her partner, Renamon, to gain power by defeating other Digimon and absorbing their data. Luckily, Takato finds allies in his schoolmate Li Jianliang and his sassy Digimon partner Terriermon to help him on his journey as a real-life tamer.\n\nWith sinister foes appearing at an alarming rate, Takato must strengthen his bond with Guilmon to protect both the human world and the Digital World.\n\n[Written by MAL Rewrite]",
+        "background": "Digimon Tamers is the first anime of the franchise to depart from the original storyline established in Digimon Adventure and Digimon Adventure 02. The trading cards used by the characters in the show are based on cards in the real life Digimon Trading Card Game.",
+        "season": "spring",
+        "year": 2001,
+        "broadcast": {
+            "day": "Sundays",
+            "time": "09:00",
+            "timezone": "Asia/Tokyo",
+            "string": "Sundays at 09:00 (JST)"
+        },
+        "producers": [
+            {
+                "mal_id": 127,
+                "type": "anime",
+                "name": "Yomiko Advertising",
+                "url": "https://myanimelist.net/anime/producer/127/Yomiko_Advertising"
+            },
+            {
+                "mal_id": 169,
+                "type": "anime",
+                "name": "Fuji TV",
+                "url": "https://myanimelist.net/anime/producer/169/Fuji_TV"
+            }
+        ],
+        "licensors": [
+            {
+                "mal_id": 841,
+                "type": "anime",
+                "name": "Saban Entertainment",
+                "url": "https://myanimelist.net/anime/producer/841/Saban_Entertainment"
+            },
+            {
+                "mal_id": 1163,
+                "type": "anime",
+                "name": "Flatiron Film Company",
+                "url": "https://myanimelist.net/anime/producer/1163/Flatiron_Film_Company"
+            }
+        ],
+        "studios": [
+            {
+                "mal_id": 18,
+                "type": "anime",
+                "name": "Toei Animation",
+                "url": "https://myanimelist.net/anime/producer/18/Toei_Animation"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 2,
+                "type": "anime",
+                "name": "Adventure",
+                "url": "https://myanimelist.net/anime/genre/2/Adventure"
+            },
+            {
+                "mal_id": 4,
+                "type": "anime",
+                "name": "Comedy",
+                "url": "https://myanimelist.net/anime/genre/4/Comedy"
+            },
+            {
+                "mal_id": 10,
+                "type": "anime",
+                "name": "Fantasy",
+                "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [
+            {
+                "mal_id": 62,
+                "type": "anime",
+                "name": "Isekai",
+                "url": "https://myanimelist.net/anime/genre/62/Isekai"
+            }
+        ],
+        "demographics": [],
+        "relations": [
+            {
+                "relation": "Sequel",
+                "entry": [
+                    {
+                        "mal_id": 3033,
+                        "type": "anime",
+                        "name": "Digimon Tamers: Bousou Digimon Tokkyuu",
+                        "url": "https://myanimelist.net/anime/3033/Digimon_Tamers__Bousou_Digimon_Tokkyuu"
+                    }
+                ]
+            },
+            {
+                "relation": "Adaptation",
+                "entry": [
+                    {
+                        "mal_id": 2389,
+                        "type": "manga",
+                        "name": "Digimon Tamers",
+                        "url": "https://myanimelist.net/manga/2389/Digimon_Tamers"
+                    }
+                ]
+            },
+            {
+                "relation": "Side Story",
+                "entry": [
+                    {
+                        "mal_id": 3032,
+                        "type": "anime",
+                        "name": "Digimon Tamers: Boukensha-tachi no Tatakai",
+                        "url": "https://myanimelist.net/anime/3032/Digimon_Tamers__Boukensha-tachi_no_Tatakai"
+                    }
+                ]
+            },
+            {
+                "relation": "Spin-Off",
+                "entry": [
+                    {
+                        "mal_id": 552,
+                        "type": "anime",
+                        "name": "Digimon Adventure",
+                        "url": "https://myanimelist.net/anime/552/Digimon_Adventure"
+                    },
+                    {
+                        "mal_id": 1313,
+                        "type": "anime",
+                        "name": "Digimon Adventure 02",
+                        "url": "https://myanimelist.net/anime/1313/Digimon_Adventure_02"
+                    },
+                    {
+                        "mal_id": 1132,
+                        "type": "anime",
+                        "name": "Digimon Frontier",
+                        "url": "https://myanimelist.net/anime/1132/Digimon_Frontier"
+                    },
+                    {
+                        "mal_id": 859,
+                        "type": "anime",
+                        "name": "Digimon Savers",
+                        "url": "https://myanimelist.net/anime/859/Digimon_Savers"
+                    },
+                    {
+                        "mal_id": 8624,
+                        "type": "anime",
+                        "name": "Digimon Xros Wars",
+                        "url": "https://myanimelist.net/anime/8624/Digimon_Xros_Wars"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [
+                "\"The Biggest Dreamer\" by Kouji Wada"
+            ],
+            "endings": [
+                "1: \"My Tomorrow\" by AiM (eps 1-23)",
+                "2: \"Days~Aijou to Nichijou~\" by AiM (eps 24-51)"
+            ]
+        },
+        "external": [
+            {
+                "name": "Official Site",
+                "url": "http://www.toei-anim.co.jp/tv/digimon_t/"
+            },
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=562"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=2171"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "http://en.wikipedia.org/wiki/Digimon_Tamers"
+            }
+        ],
+        "streaming": [
+            {
+                "name": "Crunchyroll",
+                "url": "http://www.crunchyroll.com/series-230332"
+            }
+        ]
+    },
+    "episodes": [
+        {
+            "mal_id": 1,
+            "url": "https://myanimelist.net/anime/874/Digimon_Tamers/episode/1",
+            "title": "Guilmon Comes Alive",
+            "title_japanese": "ギルモン誕生! 僕の考えたデジモン",
+            "title_romanji": "Guilmon Tanjou! Boku no Kangaeta Digimon ",
+            "aired": "2001-04-01T00:00:00+00:00",
+            "score": 4.38,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=122578"
+        },
+        {
+            "mal_id": 2,
+            "url": "https://myanimelist.net/anime/874/Digimon_Tamers/episode/2",
+            "title": "Digimon, Digimon Everywhere",
+            "title_japanese": "君はぼくのともだち テリアモン登場!",
+            "title_romanji": "Kimi wa Boku no Tomodachi, Terriermon Toujou! ",
+            "aired": "2001-04-08T00:00:00+00:00",
+            "score": 4.22,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=122589"
+        },
+        {
+            "mal_id": 3,
+            "url": "https://myanimelist.net/anime/874/Digimon_Tamers/episode/3",
+            "title": "To Fight or Not to Fight",
+            "title_japanese": "レナモン対ギルモン!戦いこそがデジモンの命",
+            "title_romanji": "Renamon Tai Guilmon! Tatakai Koso ga Digimon no Inochi ",
+            "aired": "2001-04-15T00:00:00+00:00",
+            "score": 4.42,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=126084"
+        },
+        {
+            "mal_id": 4,
+            "url": "https://myanimelist.net/anime/874/Digimon_Tamers/episode/4",
+            "title": "It Came from the Other Side",
+            "title_japanese": "テイマーの試練!ゴリモンを倒せ!",
+            "title_romanji": "Tamer no Shiren! Gorimon o Taose! ",
+            "aired": "2001-04-22T00:00:00+00:00",
+            "score": 4.38,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1970459"
+        },
+        {
+            "mal_id": 5,
+            "url": "https://myanimelist.net/anime/874/Digimon_Tamers/episode/5",
+            "title": "Dream a Little Dream",
+            "title_japanese": "くるっくるーん!クルモンと遊ぼ!",
+            "title_romanji": "Kurukkuruun! Culumon to Asobo! ",
+            "aired": "2001-04-29T00:00:00+00:00",
+            "score": 4.28,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1238609"
+        },
+        {
+            "mal_id": 6,
+            "url": "https://myanimelist.net/anime/874/Digimon_Tamers/episode/6",
+            "title": "O Partner, Where Art Thou?",
+            "title_japanese": "パートナーの意味 レナモン進化!",
+            "title_romanji": "Partner no Imi, Renamon Shinka! ",
+            "aired": "2001-05-06T00:00:00+00:00",
+            "score": 4.28,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=572445"
+        },
+        {
+            "mal_id": 7,
+            "url": "https://myanimelist.net/anime/874/Digimon_Tamers/episode/7",
+            "title": "Now You See It, Now You Don't",
+            "title_japanese": "ギルモンが危ない! ぼくの町の冒険",
+            "title_romanji": "Guilmon ga Abunai! Boku no Machi no Bouken ",
+            "aired": "2001-05-13T00:00:00+00:00",
+            "score": 4.31,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=572767"
+        },
+        {
+            "mal_id": 8,
+            "url": "https://myanimelist.net/anime/874/Digimon_Tamers/episode/8",
+            "title": "A Question of Trust",
+            "title_japanese": "ギルモン進化!西新宿大決戦",
+            "title_romanji": "Guilmon Shinka! Nishi Shinjuku Daikessen ",
+            "aired": "2001-05-20T00:00:00+00:00",
+            "score": 4.16,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=572831"
+        },
+        {
+            "mal_id": 9,
+            "url": "https://myanimelist.net/anime/874/Digimon_Tamers/episode/9",
+            "title": "Not as Seen on TV",
+            "title_japanese": "ギルモンに戻って! グラウモン騒動",
+            "title_romanji": "Guilmon ni Modotte! Growmon Soudou ",
+            "aired": "2001-05-27T00:00:00+00:00",
+            "score": 3.9,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1346944"
+        },
+        {
+            "mal_id": 10,
+            "url": "https://myanimelist.net/anime/874/Digimon_Tamers/episode/10",
+            "title": "The Icemon Cometh",
+            "title_japanese": "レナモンは友達!留姫の迷い",
+            "title_romanji": "Renamon wa Tomodachi! Ruki no Mayoi ",
+            "aired": "2001-06-03T00:00:00+00:00",
+            "score": 4.4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1171043"
+        },
+        {
+            "mal_id": 11,
+            "url": "https://myanimelist.net/anime/874/Digimon_Tamers/episode/11",
+            "title": "Much Ado About Musyamon",
+            "title_japanese": "新宿大ガード 1分30秒の対決!",
+            "title_romanji": "Shinjuku Dai Guard, Ippun 30 Byou no Taiketsu! ",
+            "aired": "2001-06-10T00:00:00+00:00",
+            "score": 4.03,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=576017"
+        },
+        {
+            "mal_id": 12,
+            "url": "https://myanimelist.net/anime/874/Digimon_Tamers/episode/12",
+            "title": "Divided They Stand",
+            "title_japanese": "留姫とレナモン きずなの危機!",
+            "title_romanji": "Ruki to Renamon, Kizuna no Kiki! ",
+            "aired": "2001-06-17T00:00:00+00:00",
+            "score": 4.31,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=576153"
+        },
+        {
+            "mal_id": 13,
+            "url": "https://myanimelist.net/anime/874/Digimon_Tamers/episode/13",
+            "title": "Juggernaut",
+            "title_japanese": "デジモン捕獲指令! 災いの予感",
+            "title_romanji": "Digimon Hokaku Shirei! Wazawai no Yokan ",
+            "aired": "2001-06-24T00:00:00+00:00",
+            "score": 4.1,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=576159"
+        },
+        {
+            "mal_id": 14,
+            "url": "https://myanimelist.net/anime/874/Digimon_Tamers/episode/14",
+            "title": "Grow Mon Grow",
+            "title_japanese": "テイマーよ立て! メガログラウモン超進化",
+            "title_romanji": "Tamer yo Tate! MegaloGrowmon Chou Shinka ",
+            "aired": "2001-07-01T00:00:00+00:00",
+            "score": 4.37,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=576229"
+        },
+        {
+            "mal_id": 15,
+            "url": "https://myanimelist.net/anime/874/Digimon_Tamers/episode/15",
+            "title": "Snakes, Trains, and Digimon",
+            "title_japanese": "巨大ヘビ出現! 大江戸線大パニック",
+            "title_romanji": "Kyodai Hebi Shutsugen! Ooedo-Sen Dai Panic ",
+            "aired": "2001-07-08T00:00:00+00:00",
+            "score": 4.27,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=274277"
+        },
+        {
+            "mal_id": 16,
+            "url": "https://myanimelist.net/anime/874/Digimon_Tamers/episode/16",
+            "title": "Back to Nature, Back to Battle",
+            "title_japanese": "街の灯を守れ! デジモンたちの危険なキャンプ",
+            "title_romanji": "Machi no Akari o Mamore! Digimon-tachi no Kiken na Camp ",
+            "aired": "2001-07-15T00:00:00+00:00",
+            "score": 3.73,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=579987"
+        },
+        {
+            "mal_id": 17,
+            "url": "https://myanimelist.net/anime/874/Digimon_Tamers/episode/17",
+            "title": "Duel with the Deva",
+            "title_japanese": "ブルーカードを追え! ラピッドモン電光石火",
+            "title_romanji": "Blue Card o Oe! Rapidmon Denkousekka ",
+            "aired": "2001-07-29T00:00:00+00:00",
+            "score": 4.08,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=613991"
+        },
+        {
+            "mal_id": 18,
+            "url": "https://myanimelist.net/anime/874/Digimon_Tamers/episode/18",
+            "title": "Digital Beauty",
+            "title_japanese": "美しき進化! 月光に舞うタオモン",
+            "title_romanji": "Utsukushiki Shinka! Gekkou ni Mau Taomon ",
+            "aired": "2001-08-05T00:00:00+00:00",
+            "score": 4.28,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=580969"
+        },
+        {
+            "mal_id": 19,
+            "url": "https://myanimelist.net/anime/874/Digimon_Tamers/episode/19",
+            "title": "Impmon's Last Stand",
+            "title_japanese": "強くなりたい! 這い上がれインプモン",
+            "title_romanji": "Tsuyoku Naritai! Haiagare Impmon ",
+            "aired": "2001-08-12T00:00:00+00:00",
+            "score": 4.43,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=581023"
+        },
+        {
+            "mal_id": 20,
+            "url": "https://myanimelist.net/anime/874/Digimon_Tamers/episode/20",
+            "title": "Out of the Blue",
+            "title_japanese": "切り札はコレだ! 友情のブルーカード",
+            "title_romanji": "Kirifuda wa Kore Da! Yuujou no Blue Card ",
+            "aired": "2001-08-19T00:00:00+00:00",
+            "score": 4.24,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=581031"
+        },
+        {
+            "mal_id": 21,
+            "url": "https://myanimelist.net/anime/874/Digimon_Tamers/episode/21",
+            "title": "Jeri's Quest",
+            "title_japanese": "樹莉のパートナー!? 私のレオモン様",
+            "title_romanji": "Juri no Partner!? Watashi no Leomon-sama ",
+            "aired": "2001-08-26T00:00:00+00:00",
+            "score": 4.23,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=581139"
+        },
+        {
+            "mal_id": 22,
+            "url": "https://myanimelist.net/anime/874/Digimon_Tamers/episode/22",
+            "title": "The Boar Wars",
+            "title_japanese": "ヴィカラーラモン登場 僕たちの街を守れ!",
+            "title_romanji": "Vikaramon Toujou, Boku-tachi no Machi o Mamore! ",
+            "aired": "2001-09-02T00:00:00+00:00",
+            "score": 4.38,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=581207"
+        },
+        {
+            "mal_id": 23,
+            "url": "https://myanimelist.net/anime/874/Digimon_Tamers/episode/23",
+            "title": "A World Apart",
+            "title_japanese": "デジモン総出撃! 風に向かって進め",
+            "title_romanji": "Digimon Soushutsugeki! Kaze ni Mukatte Susume ",
+            "aired": "2001-09-09T00:00:00+00:00",
+            "score": 4.41,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=581439"
+        },
+        {
+            "mal_id": 24,
+            "url": "https://myanimelist.net/anime/874/Digimon_Tamers/episode/24",
+            "title": "The Journey Begins",
+            "title_japanese": "デジタルワールドへ...旅立ちの日",
+            "title_romanji": "Digital World e... Tabidachi no Hi ",
+            "aired": "2001-09-16T00:00:00+00:00",
+            "score": 4.48,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=581447"
+        },
+        {
+            "mal_id": 25,
+            "url": "https://myanimelist.net/anime/874/Digimon_Tamers/episode/25",
+            "title": "Brave New Digital World",
+            "title_japanese": "デジタルワールド突入! さらば僕たちの街",
+            "title_romanji": "Digital World Totsunyuu! Saraba Boku-tachi no Machi ",
+            "aired": "2001-09-23T00:00:00+00:00",
+            "score": 4.36,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=280007"
+        },
+        {
+            "mal_id": 26,
+            "url": "https://myanimelist.net/anime/874/Digimon_Tamers/episode/26",
+            "title": "Kazu and Kenta's Excellent Adventure",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 3.81,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=582121"
+        },
+        {
+            "mal_id": 27,
+            "url": "https://myanimelist.net/anime/874/Digimon_Tamers/episode/27",
+            "title": "Motorcycle Madness",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 4.34,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=582133"
+        },
+        {
+            "mal_id": 28,
+            "url": "https://myanimelist.net/anime/874/Digimon_Tamers/episode/28",
+            "title": "Blame it on Ryo",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 4.12,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=582559"
+        },
+        {
+            "mal_id": 29,
+            "url": "https://myanimelist.net/anime/874/Digimon_Tamers/episode/29",
+            "title": "Goliath",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 4.15,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=582783"
+        },
+        {
+            "mal_id": 30,
+            "url": "https://myanimelist.net/anime/874/Digimon_Tamers/episode/30",
+            "title": "The Imperfect Storm",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 4.38,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=583031"
+        },
+        {
+            "mal_id": 31,
+            "url": "https://myanimelist.net/anime/874/Digimon_Tamers/episode/31",
+            "title": "Kazu's Upgrade",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 4.07,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=583301"
+        },
+        {
+            "mal_id": 32,
+            "url": "https://myanimelist.net/anime/874/Digimon_Tamers/episode/32",
+            "title": "Shibumi Speaks",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 4.36,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=583307"
+        },
+        {
+            "mal_id": 33,
+            "url": "https://myanimelist.net/anime/874/Digimon_Tamers/episode/33",
+            "title": "Rabbit Transit",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 4.44,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=583345"
+        },
+        {
+            "mal_id": 34,
+            "url": "https://myanimelist.net/anime/874/Digimon_Tamers/episode/34",
+            "title": "Lionheart",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 4.75,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=583351"
+        },
+        {
+            "mal_id": 35,
+            "url": "https://myanimelist.net/anime/874/Digimon_Tamers/episode/35",
+            "title": "Give a Little Bit",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 4.71,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=621493"
+        },
+        {
+            "mal_id": 36,
+            "url": "https://myanimelist.net/anime/874/Digimon_Tamers/episode/36",
+            "title": "The Battle Within",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 4.44,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=583769"
+        },
+        {
+            "mal_id": 37,
+            "url": "https://myanimelist.net/anime/874/Digimon_Tamers/episode/37",
+            "title": "No Mon Is An Island",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 4.42,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=586309"
+        },
+        {
+            "mal_id": 38,
+            "url": "https://myanimelist.net/anime/874/Digimon_Tamers/episode/38",
+            "title": "Azulongmon Explains It All",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 4.42,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=586907"
+        },
+        {
+            "mal_id": 39,
+            "url": "https://myanimelist.net/anime/874/Digimon_Tamers/episode/39",
+            "title": "Song of Sakuyamon",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 4.46,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=586935"
+        },
+        {
+            "mal_id": 40,
+            "url": "https://myanimelist.net/anime/874/Digimon_Tamers/episode/40",
+            "title": "Janyu's Ark",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 4.33,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=586937"
+        },
+        {
+            "mal_id": 41,
+            "url": "https://myanimelist.net/anime/874/Digimon_Tamers/episode/41",
+            "title": "Homeward Bound",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 4.43,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=586969"
+        },
+        {
+            "mal_id": 42,
+            "url": "https://myanimelist.net/anime/874/Digimon_Tamers/episode/42",
+            "title": "Reunion",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 4.24,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=587279"
+        },
+        {
+            "mal_id": 43,
+            "url": "https://myanimelist.net/anime/874/Digimon_Tamers/episode/43",
+            "title": "Beezlemon's Big Day",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 4.7,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=287858"
+        },
+        {
+            "mal_id": 44,
+            "url": "https://myanimelist.net/anime/874/Digimon_Tamers/episode/44",
+            "title": "The Messenger",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 4.45,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=587393"
+        },
+        {
+            "mal_id": 45,
+            "url": "https://myanimelist.net/anime/874/Digimon_Tamers/episode/45",
+            "title": "The D-Reaper's Disguise",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 4.51,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=587449"
+        },
+        {
+            "mal_id": 46,
+            "url": "https://myanimelist.net/anime/874/Digimon_Tamers/episode/46",
+            "title": "When Is A Mon Justimon",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 4.39,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=587461"
+        },
+        {
+            "mal_id": 47,
+            "url": "https://myanimelist.net/anime/874/Digimon_Tamers/episode/47",
+            "title": "His Kingdom For A Horse",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 4.52,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=587841"
+        },
+        {
+            "mal_id": 48,
+            "url": "https://myanimelist.net/anime/874/Digimon_Tamers/episode/48",
+            "title": "Shadow of the Beast King",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 4.6,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=588149"
+        },
+        {
+            "mal_id": 49,
+            "url": "https://myanimelist.net/anime/874/Digimon_Tamers/episode/49",
+            "title": "D-Reaper's Feast",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 4.46,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=588155"
+        },
+        {
+            "mal_id": 50,
+            "url": "https://myanimelist.net/anime/874/Digimon_Tamers/episode/50",
+            "title": "Jeri Fights Back",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 4.63,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=588163"
+        },
+        {
+            "mal_id": 51,
+            "url": "https://myanimelist.net/anime/874/Digimon_Tamers/episode/51",
+            "title": "Such Sweet Sorrow",
+            "title_japanese": null,
+            "title_romanji": null,
+            "aired": null,
+            "score": 4.53,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=304173"
+        }
+    ]
+}

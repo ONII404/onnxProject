@@ -1,0 +1,181 @@
+{
+    "id": 4067,
+    "fetched_at": "Sun Dec 14 20:56:13 2025",
+    "metadata": {
+        "mal_id": 4067,
+        "url": "https://myanimelist.net/anime/4067/Shin_Megami_Tensei_Devil_Children",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1812/96501.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1812/96501t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1812/96501l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1812/96501.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1812/96501t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1812/96501l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Shin Megami Tensei Devil Children"
+            },
+            {
+                "type": "Japanese",
+                "title": "真・女神転生 デビチル"
+            }
+        ],
+        "title": "Shin Megami Tensei Devil Children",
+        "title_english": null,
+        "title_japanese": "真・女神転生 デビチル",
+        "title_synonyms": [],
+        "type": "TV",
+        "source": "Game",
+        "episodes": 50,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "2000-10-07T00:00:00+00:00",
+            "to": "2001-09-29T00:00:00+00:00",
+            "prop": {
+                "from": {
+                    "day": 7,
+                    "month": 10,
+                    "year": 2000
+                },
+                "to": {
+                    "day": 29,
+                    "month": 9,
+                    "year": 2001
+                }
+            },
+            "string": "Oct 7, 2000 to Sep 29, 2001"
+        },
+        "duration": "23 min per ep",
+        "rating": "PG - Children",
+        "score": 6.49,
+        "scored_by": 954,
+        "rank": 7395,
+        "popularity": 10247,
+        "members": 3747,
+        "favorites": 3,
+        "synopsis": "A series based off of the Shin Megami Tensei: Devil Children franchise.",
+        "background": "",
+        "season": "fall",
+        "year": 2000,
+        "broadcast": {
+            "day": "Saturdays",
+            "time": "07:30",
+            "timezone": "Asia/Tokyo",
+            "string": "Saturdays at 07:30 (JST)"
+        },
+        "producers": [],
+        "licensors": [],
+        "studios": [
+            {
+                "mal_id": 1846,
+                "type": "anime",
+                "name": "Tokyo Movie",
+                "url": "https://myanimelist.net/anime/producer/1846/Tokyo_Movie"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 1,
+                "type": "anime",
+                "name": "Action",
+                "url": "https://myanimelist.net/anime/genre/1/Action"
+            },
+            {
+                "mal_id": 2,
+                "type": "anime",
+                "name": "Adventure",
+                "url": "https://myanimelist.net/anime/genre/2/Adventure"
+            },
+            {
+                "mal_id": 10,
+                "type": "anime",
+                "name": "Fantasy",
+                "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [],
+        "demographics": [
+            {
+                "mal_id": 15,
+                "type": "anime",
+                "name": "Kids",
+                "url": "https://myanimelist.net/anime/genre/15/Kids"
+            }
+        ],
+        "relations": [
+            {
+                "relation": "Sequel",
+                "entry": [
+                    {
+                        "mal_id": 4068,
+                        "type": "anime",
+                        "name": "Shin Megami Tensei Devil Children: Light & Dark",
+                        "url": "https://myanimelist.net/anime/4068/Shin_Megami_Tensei_Devil_Children__Light___Dark"
+                    }
+                ]
+            },
+            {
+                "relation": "Adaptation",
+                "entry": [
+                    {
+                        "mal_id": 5443,
+                        "type": "manga",
+                        "name": "Shin Megami Tensei Devil Children",
+                        "url": "https://myanimelist.net/manga/5443/Shin_Megami_Tensei_Devil_Children"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [
+                "1: \"Go-Round\" by Nao Itou",
+                "2: \"LOVE SICK\" by FAIRY FORE (eps 41-50)"
+            ],
+            "endings": [
+                "1 \"~Aurora Healing\" by PlantinA Forest",
+                "2: \"アイドル ～IDOLL～\" by FAIRY FORE (eps 41-50)"
+            ]
+        },
+        "external": [
+            {
+                "name": "Official Site",
+                "url": "http://www.tms-e.com/library/on_air_back/devil/"
+            },
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=1967"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=1847"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "http://en.wikipedia.org/wiki/Devil_Children"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": []
+}

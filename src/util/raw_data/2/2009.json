@@ -1,0 +1,189 @@
+{
+    "id": 2009,
+    "fetched_at": "Sun Dec 14 18:04:12 2025",
+    "metadata": {
+        "mal_id": 2009,
+        "url": "https://myanimelist.net/anime/2009/Yawara__Zutto_Kimi_no_Koto_ga",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1/2125.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1/2125t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1/2125l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1/2125.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1/2125t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1/2125l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Yawara!: Zutto Kimi no Koto ga..."
+            },
+            {
+                "type": "Synonym",
+                "title": "Yawara! Atlanta Special"
+            },
+            {
+                "type": "Japanese",
+                "title": "YAWARA! ずっと君のことが…。"
+            }
+        ],
+        "title": "Yawara!: Zutto Kimi no Koto ga...",
+        "title_english": null,
+        "title_japanese": "YAWARA! ずっと君のことが…。",
+        "title_synonyms": [
+            "Yawara! Atlanta Special"
+        ],
+        "type": "TV Special",
+        "source": "Manga",
+        "episodes": 1,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "1996-07-19T00:00:00+00:00",
+            "to": null,
+            "prop": {
+                "from": {
+                    "day": 19,
+                    "month": 7,
+                    "year": 1996
+                },
+                "to": {
+                    "day": null,
+                    "month": null,
+                    "year": null
+                }
+            },
+            "string": "Jul 19, 1996"
+        },
+        "duration": "1 hr 32 min",
+        "rating": "PG-13 - Teens 13 or older",
+        "score": 7.15,
+        "scored_by": 1552,
+        "rank": 3774,
+        "popularity": 10157,
+        "members": 3886,
+        "favorites": 3,
+        "synopsis": "Yawara Inokuma competes for Japan in the Atlanta Olympic Games as she meets with several familiar faces throughout the tournament.\n\n(Source: ANN)",
+        "background": "",
+        "season": null,
+        "year": null,
+        "broadcast": {
+            "day": null,
+            "time": null,
+            "timezone": null,
+            "string": null
+        },
+        "producers": [
+            {
+                "mal_id": 99,
+                "type": "anime",
+                "name": "Kitty Films",
+                "url": "https://myanimelist.net/anime/producer/99/Kitty_Films"
+            }
+        ],
+        "licensors": [],
+        "studios": [
+            {
+                "mal_id": 11,
+                "type": "anime",
+                "name": "Madhouse",
+                "url": "https://myanimelist.net/anime/producer/11/Madhouse"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 4,
+                "type": "anime",
+                "name": "Comedy",
+                "url": "https://myanimelist.net/anime/genre/4/Comedy"
+            },
+            {
+                "mal_id": 22,
+                "type": "anime",
+                "name": "Romance",
+                "url": "https://myanimelist.net/anime/genre/22/Romance"
+            },
+            {
+                "mal_id": 30,
+                "type": "anime",
+                "name": "Sports",
+                "url": "https://myanimelist.net/anime/genre/30/Sports"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [
+            {
+                "mal_id": 54,
+                "type": "anime",
+                "name": "Combat Sports",
+                "url": "https://myanimelist.net/anime/genre/54/Combat_Sports"
+            }
+        ],
+        "demographics": [
+            {
+                "mal_id": 42,
+                "type": "anime",
+                "name": "Seinen",
+                "url": "https://myanimelist.net/anime/genre/42/Seinen"
+            }
+        ],
+        "relations": [
+            {
+                "relation": "Prequel",
+                "entry": [
+                    {
+                        "mal_id": 691,
+                        "type": "anime",
+                        "name": "Yawara!",
+                        "url": "https://myanimelist.net/anime/691/Yawara"
+                    }
+                ]
+            },
+            {
+                "relation": "Adaptation",
+                "entry": [
+                    {
+                        "mal_id": 853,
+                        "type": "manga",
+                        "name": "Yawara!",
+                        "url": "https://myanimelist.net/manga/853/Yawara"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [],
+            "endings": [
+                "\"Today is another day\" by ZARD"
+            ]
+        },
+        "external": [
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=4267"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=7389"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": []
+}

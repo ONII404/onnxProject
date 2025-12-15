@@ -1,0 +1,547 @@
+{
+    "id": 1557,
+    "fetched_at": "Sun Dec 14 16:31:45 2025",
+    "metadata": {
+        "mal_id": 1557,
+        "url": "https://myanimelist.net/anime/1557/Shounen_Onmyouji",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1865/106109.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1865/106109t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1865/106109l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1865/106109.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1865/106109t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1865/106109l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Shounen Onmyouji"
+            },
+            {
+                "type": "Synonym",
+                "title": "The Young Spirit Master"
+            },
+            {
+                "type": "Synonym",
+                "title": "Teenager Onmyoji"
+            },
+            {
+                "type": "Synonym",
+                "title": "Shonen Onmyouji"
+            },
+            {
+                "type": "Japanese",
+                "title": "少年陰陽師"
+            },
+            {
+                "type": "English",
+                "title": "Shonen Onmyoji"
+            }
+        ],
+        "title": "Shounen Onmyouji",
+        "title_english": "Shonen Onmyoji",
+        "title_japanese": "少年陰陽師",
+        "title_synonyms": [
+            "The Young Spirit Master",
+            "Teenager Onmyoji",
+            "Shonen Onmyouji"
+        ],
+        "type": "TV",
+        "source": "Light novel",
+        "episodes": 26,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "2006-10-04T00:00:00+00:00",
+            "to": "2007-03-28T00:00:00+00:00",
+            "prop": {
+                "from": {
+                    "day": 4,
+                    "month": 10,
+                    "year": 2006
+                },
+                "to": {
+                    "day": 28,
+                    "month": 3,
+                    "year": 2007
+                }
+            },
+            "string": "Oct 4, 2006 to Mar 28, 2007"
+        },
+        "duration": "23 min per ep",
+        "rating": "PG-13 - Teens 13 or older",
+        "score": 7.53,
+        "scored_by": 20982,
+        "rank": 1941,
+        "popularity": 3183,
+        "members": 58768,
+        "favorites": 275,
+        "synopsis": "Masahiro is the grandson of the great onmyouji, Abe no Seimei. However, he lost his sixth sense that enables him to see supernatural beings, which is very important for an onmyouji. Thus, he is left with no choice but to try and pick a different career. But one day, a strange mononoke appears, which he names Mokkun, who shows him his true potential powers after fighting a demon. With the assistance of Mokkun, his quest to become the greatest onmyouji begins.",
+        "background": "",
+        "season": "fall",
+        "year": 2006,
+        "broadcast": {
+            "day": "Tuesdays",
+            "time": "02:30",
+            "timezone": "Asia/Tokyo",
+            "string": "Tuesdays at 02:30 (JST)"
+        },
+        "producers": [
+            {
+                "mal_id": 64,
+                "type": "anime",
+                "name": "Sotsu",
+                "url": "https://myanimelist.net/anime/producer/64/Sotsu"
+            },
+            {
+                "mal_id": 1363,
+                "type": "anime",
+                "name": "Marine Entertainment",
+                "url": "https://myanimelist.net/anime/producer/1363/Marine_Entertainment"
+            }
+        ],
+        "licensors": [
+            {
+                "mal_id": 102,
+                "type": "anime",
+                "name": "Funimation",
+                "url": "https://myanimelist.net/anime/producer/102/Funimation"
+            },
+            {
+                "mal_id": 1459,
+                "type": "anime",
+                "name": "Geneon Entertainment USA",
+                "url": "https://myanimelist.net/anime/producer/1459/Geneon_Entertainment_USA"
+            }
+        ],
+        "studios": [
+            {
+                "mal_id": 37,
+                "type": "anime",
+                "name": "Studio Deen",
+                "url": "https://myanimelist.net/anime/producer/37/Studio_Deen"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 1,
+                "type": "anime",
+                "name": "Action",
+                "url": "https://myanimelist.net/anime/genre/1/Action"
+            },
+            {
+                "mal_id": 37,
+                "type": "anime",
+                "name": "Supernatural",
+                "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [
+            {
+                "mal_id": 13,
+                "type": "anime",
+                "name": "Historical",
+                "url": "https://myanimelist.net/anime/genre/13/Historical"
+            },
+            {
+                "mal_id": 6,
+                "type": "anime",
+                "name": "Mythology",
+                "url": "https://myanimelist.net/anime/genre/6/Mythology"
+            }
+        ],
+        "demographics": [
+            {
+                "mal_id": 25,
+                "type": "anime",
+                "name": "Shoujo",
+                "url": "https://myanimelist.net/anime/genre/25/Shoujo"
+            }
+        ],
+        "relations": [
+            {
+                "relation": "Adaptation",
+                "entry": [
+                    {
+                        "mal_id": 12663,
+                        "type": "manga",
+                        "name": "Shounen Onmyouji",
+                        "url": "https://myanimelist.net/manga/12663/Shounen_Onmyouji"
+                    },
+                    {
+                        "mal_id": 154736,
+                        "type": "manga",
+                        "name": "Shounen Onmyouji",
+                        "url": "https://myanimelist.net/manga/154736/Shounen_Onmyouji"
+                    },
+                    {
+                        "mal_id": 12664,
+                        "type": "manga",
+                        "name": "Shounen Onmyouji",
+                        "url": "https://myanimelist.net/manga/12664/Shounen_Onmyouji"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [
+                "\"Egao no Wake\" by Kaori Hikita"
+            ],
+            "endings": [
+                "1: \"Yakusoku\" by Saori Kiuji",
+                "2: \"Roku Tousei\" by Kaida Yuki (eps 26)"
+            ]
+        },
+        "external": [
+            {
+                "name": "Official Site",
+                "url": "http://seimeinomago.net/web/"
+            },
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=4214"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=6703"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "http://en.wikipedia.org/wiki/Shounen_Onmyouji"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": [
+        {
+            "mal_id": 1,
+            "url": null,
+            "title": "This Boy, Seimei's Successor",
+            "title_japanese": "この少年、晴明の後継につき",
+            "title_romanji": "Kono Shounen, Seimei no Koukei Nitsuki ",
+            "aired": "2006-10-04T00:00:00+00:00",
+            "score": 3.59,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=286788"
+        },
+        {
+            "mal_id": 2,
+            "url": null,
+            "title": "When the Imperial Palace Burned",
+            "title_japanese": "だいり)燃ゆ",
+            "title_romanji": "Ouma ga Toki ni Dairi Moyu (逢魔(おうま)が時(どき)に内裏",
+            "aired": "2006-10-11T00:00:00+00:00",
+            "score": 3.6,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=286790"
+        },
+        {
+            "mal_id": 3,
+            "url": null,
+            "title": "Listen To The Voice When Afraid Of The Dark",
+            "title_japanese": "闇に怯える声をきけ",
+            "title_romanji": "Yami ni Obieru Koe wo Kike ",
+            "aired": "2006-10-18T00:00:00+00:00",
+            "score": 3.78,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=286791"
+        },
+        {
+            "mal_id": 4,
+            "url": null,
+            "title": "Search For The Shadow Of The Foreign Country",
+            "title_japanese": "異邦の影を探しだせ",
+            "title_romanji": "Ihou no Kage wo Sagashidase ",
+            "aired": "2006-10-26T00:00:00+00:00",
+            "score": 4.5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=286792"
+        },
+        {
+            "mal_id": 5,
+            "url": null,
+            "title": "Forcing Back the Ferocious Monsters",
+            "title_japanese": "猛る妖異を退けろ",
+            "title_romanji": "Takeru Youi wo Shirizokero ",
+            "aired": "2006-11-01T00:00:00+00:00",
+            "score": 4.13,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=127663"
+        },
+        {
+            "mal_id": 6,
+            "url": null,
+            "title": "Catching the Signs that Appear in the Dead of the Night",
+            "title_japanese": "夜陰に浮かぶ兆しを掴め",
+            "title_romanji": "Yoru Kage ni Ukabu Kizashi wo Tsukame ",
+            "aired": "2006-11-08T00:00:00+00:00",
+            "score": 4.17,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=286796"
+        },
+        {
+            "mal_id": 7,
+            "url": null,
+            "title": "The Hatred of the Woman Controlled by the Enemy",
+            "title_japanese": "おも)い",
+            "title_romanji": "Kanata ni Taguru Onna no Omoi (彼方に手繰る女の念",
+            "aired": "2006-11-15T00:00:00+00:00",
+            "score": 4.4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=286798"
+        },
+        {
+            "mal_id": 8,
+            "url": null,
+            "title": "Dispelling the Hatred that Reverberated at Kifune",
+            "title_japanese": "貴船に響く怨磋を止めろ",
+            "title_romanji": "Kifune ni Hibiku Ensa wo Tomero ",
+            "aired": "2006-10-22T00:00:00+00:00",
+            "score": 4.17,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=286803"
+        },
+        {
+            "mal_id": 9,
+            "url": null,
+            "title": "Shattering the Binding of the Curse of Darkness",
+            "title_japanese": "闇の呪縛を打ち砕け",
+            "title_romanji": "Yami no Jubaku wo Uchikudake ",
+            "aired": "2006-11-29T00:00:00+00:00",
+            "score": 4.5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=286840"
+        },
+        {
+            "mal_id": 10,
+            "url": null,
+            "title": "A Voice in Response to a Faint Wish",
+            "title_japanese": "いら)えの声を",
+            "title_romanji": "Awaki Negai ni Irae no Koe wo (淡き願いに応",
+            "aired": "2006-12-06T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=286843"
+        },
+        {
+            "mal_id": 11,
+            "url": null,
+            "title": "Hold the Symbol of the Vow Close to Heart",
+            "title_japanese": "しるし)を胸に抱け",
+            "title_romanji": "Chikai no Kokuin wo Mune ni Dake (誓いの刻印",
+            "aired": "2006-12-13T00:00:00+00:00",
+            "score": 4.25,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=286846"
+        },
+        {
+            "mal_id": 12,
+            "url": null,
+            "title": "Penetrate the Mirror Cage",
+            "title_japanese": "鏡の檻をつき破れ",
+            "title_romanji": "Kagami no Ori wo Tsuki Yabure ",
+            "aired": "2006-12-21T00:00:00+00:00",
+            "score": 4.6,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=286852"
+        },
+        {
+            "mal_id": 13,
+            "url": null,
+            "title": "The Catastrophic Song Brought by the Whirlwind",
+            "title_japanese": "辻風が運ぶ禍歌",
+            "title_romanji": "Tsujikaze ga Hakobu Magauta ",
+            "aired": "2006-12-27T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=286854"
+        },
+        {
+            "mal_id": 14,
+            "url": null,
+            "title": "It is Like the Full Moon to Wane",
+            "title_japanese": "満ちた月が欠けるが如く",
+            "title_romanji": "Michita Tsuki ga Kakeru ga Gotoku ",
+            "aired": "2007-01-04T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=286856"
+        },
+        {
+            "mal_id": 15,
+            "url": null,
+            "title": "Release the Catastrophic Chains",
+            "title_japanese": "禍つ鎖を解き放て",
+            "title_romanji": "Magatsu Kusari wo Tokihanate ",
+            "aired": "2007-01-10T00:00:00+00:00",
+            "score": 4.33,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=287000"
+        },
+        {
+            "mal_id": 16,
+            "url": null,
+            "title": "The Old Shadow Wanders in the Night",
+            "title_japanese": "古き影は夜に迷い",
+            "title_romanji": "Furuki Kage wa Yoru ni Mayoi ",
+            "aired": "2007-01-17T00:00:00+00:00",
+            "score": 4.5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2516"
+        },
+        {
+            "mal_id": 17,
+            "url": null,
+            "title": "Sleep Embraced by the Snow",
+            "title_japanese": "いだ)かれて眠れ",
+            "title_romanji": "Rikka ni Idakarete Nemure (六花に抱",
+            "aired": "2007-01-24T00:00:00+00:00",
+            "score": 4.46,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=4087"
+        },
+        {
+            "mal_id": 18,
+            "url": null,
+            "title": "That Reason is Not Known by Anyone",
+            "title_japanese": "その理由は誰知らず",
+            "title_romanji": "Sono Riyuu wa Dare Shirazu ",
+            "aired": "2007-01-31T00:00:00+00:00",
+            "score": 4.32,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=5001"
+        },
+        {
+            "mal_id": 19,
+            "url": null,
+            "title": "When the North Star is Clouded",
+            "title_japanese": "北辰に翳りさす時",
+            "title_romanji": "Hokushin ni Kageri Sasu Toki ",
+            "aired": "2007-02-06T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=5390"
+        },
+        {
+            "mal_id": 20,
+            "url": null,
+            "title": "Chase the Wind That Invites the Underworld",
+            "title_japanese": "いざな)う風を追え",
+            "title_romanji": "Yomi ni Sasou Kaze o Oe (黄泉に誘",
+            "aired": "2007-02-13T00:00:00+00:00",
+            "score": 4.31,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=7670"
+        },
+        {
+            "mal_id": 21,
+            "url": null,
+            "title": "Let the Bonds Hold in the Fires of Sin",
+            "title_japanese": "罪の焔に絆絶え",
+            "title_romanji": "Tsumi no Honoo ni Kizuna Tae ",
+            "aired": "2007-02-20T00:00:00+00:00",
+            "score": 4.5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=12058"
+        },
+        {
+            "mal_id": 22,
+            "url": null,
+            "title": "Everything for the Priestess",
+            "title_japanese": "すべては巫女の御為に",
+            "title_romanji": "Subete wa Miko no Ontame ni ",
+            "aired": "2007-02-27T00:00:00+00:00",
+            "score": 4.17,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=12266"
+        },
+        {
+            "mal_id": 23,
+            "url": null,
+            "title": "The Flame of Kagutsuchi Shines Majestically",
+            "title_japanese": "軻遇突智の焔は厳かに",
+            "title_romanji": "Kagutsuchi no Homura wa Ogosoka ni ",
+            "aired": "2007-03-07T00:00:00+00:00",
+            "score": 4.27,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=12267"
+        },
+        {
+            "mal_id": 24,
+            "url": null,
+            "title": "Winds of Twilight, Eyes of Daybreak",
+            "title_japanese": "黄昏の風、暁の瞳",
+            "title_romanji": "Tasogare no Kaze, Akatsuki no Hitomi ",
+            "aired": "2007-03-14T00:00:00+00:00",
+            "score": 4.56,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=15446"
+        },
+        {
+            "mal_id": 25,
+            "url": null,
+            "title": "A Dance of Junipers in a Whirl of Misfortune",
+            "title_japanese": "禍気の渦に伊吹舞う",
+            "title_romanji": "Shouki no Uzu ni Ibuki Mau ",
+            "aired": "2007-03-21T00:00:00+00:00",
+            "score": 4.44,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=26333"
+        },
+        {
+            "mal_id": 26,
+            "url": null,
+            "title": "Sharpen the Sword of Flame",
+            "title_japanese": "焔の刃を研ぎ澄ませ",
+            "title_romanji": "Homura no Yaiba wo Togisumase ",
+            "aired": "2007-03-28T00:00:00+00:00",
+            "score": 4.4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=26339"
+        }
+    ]
+}

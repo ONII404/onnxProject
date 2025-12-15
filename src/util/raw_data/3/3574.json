@@ -1,0 +1,178 @@
+{
+    "id": 3574,
+    "fetched_at": "Sun Dec 14 19:58:45 2025",
+    "metadata": {
+        "mal_id": 3574,
+        "url": "https://myanimelist.net/anime/3574/Switch",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/3/26316.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/3/26316t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/3/26316l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/3/26316.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/3/26316t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/3/26316l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Switch"
+            },
+            {
+                "type": "Japanese",
+                "title": "スイッチ"
+            }
+        ],
+        "title": "Switch",
+        "title_english": null,
+        "title_japanese": "スイッチ",
+        "title_synonyms": [],
+        "type": "OVA",
+        "source": "Manga",
+        "episodes": 2,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "2008-10-24T00:00:00+00:00",
+            "to": "2009-02-25T00:00:00+00:00",
+            "prop": {
+                "from": {
+                    "day": 24,
+                    "month": 10,
+                    "year": 2008
+                },
+                "to": {
+                    "day": 25,
+                    "month": 2,
+                    "year": 2009
+                }
+            },
+            "string": "Oct 24, 2008 to Feb 25, 2009"
+        },
+        "duration": "30 min per ep",
+        "rating": "PG-13 - Teens 13 or older",
+        "score": 6.83,
+        "scored_by": 11169,
+        "rank": 5351,
+        "popularity": 4694,
+        "members": 27839,
+        "favorites": 68,
+        "synopsis": "Two new members of Japan's Narcotics Control Department are tasked with dismantling the criminal network that supplies the deadly drug called Funny Angel (FA). While Haru Kurabayashi infiltrates the mafia branch that commercializes this drug, his partner Kai Etou starts working in a suspicious greenhouse that may harbor the FA production. As both agents grow closer to their objective, they are confronted with difficult choices that threaten to jeopardize the cover of each other.\n\n[Written by MAL Rewrite]",
+        "background": "",
+        "season": null,
+        "year": null,
+        "broadcast": {
+            "day": null,
+            "time": null,
+            "timezone": null,
+            "string": null
+        },
+        "producers": [
+            {
+                "mal_id": 61,
+                "type": "anime",
+                "name": "Frontier Works",
+                "url": "https://myanimelist.net/anime/producer/61/Frontier_Works"
+            }
+        ],
+        "licensors": [],
+        "studios": [
+            {
+                "mal_id": 60,
+                "type": "anime",
+                "name": "Actas",
+                "url": "https://myanimelist.net/anime/producer/60/Actas"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 1,
+                "type": "anime",
+                "name": "Action",
+                "url": "https://myanimelist.net/anime/genre/1/Action"
+            },
+            {
+                "mal_id": 7,
+                "type": "anime",
+                "name": "Mystery",
+                "url": "https://myanimelist.net/anime/genre/7/Mystery"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [
+            {
+                "mal_id": 39,
+                "type": "anime",
+                "name": "Detective",
+                "url": "https://myanimelist.net/anime/genre/39/Detective"
+            },
+            {
+                "mal_id": 68,
+                "type": "anime",
+                "name": "Organized Crime",
+                "url": "https://myanimelist.net/anime/genre/68/Organized_Crime"
+            }
+        ],
+        "demographics": [
+            {
+                "mal_id": 27,
+                "type": "anime",
+                "name": "Shounen",
+                "url": "https://myanimelist.net/anime/genre/27/Shounen"
+            }
+        ],
+        "relations": [
+            {
+                "relation": "Adaptation",
+                "entry": [
+                    {
+                        "mal_id": 1351,
+                        "type": "manga",
+                        "name": "Switch",
+                        "url": "https://myanimelist.net/manga/1351/Switch"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [
+                "\"Find out\" by MIRANOSAND"
+            ],
+            "endings": [
+                "\"Your Hand\" by MIRANOSAND"
+            ]
+        },
+        "external": [
+            {
+                "name": "Official Site",
+                "url": "http://ova-switch.com/"
+            },
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=6044"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=8722"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": []
+}

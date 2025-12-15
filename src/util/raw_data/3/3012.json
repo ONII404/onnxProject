@@ -1,0 +1,999 @@
+{
+    "id": 3012,
+    "fetched_at": "Sun Dec 14 19:12:11 2025",
+    "metadata": {
+        "mal_id": 3012,
+        "url": "https://myanimelist.net/anime/3012/Gekitou_Crush_Gear_Turbo",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1869/152913.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1869/152913t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1869/152913l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1869/152913.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1869/152913t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1869/152913l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Gekitou! Crush Gear Turbo"
+            },
+            {
+                "type": "Japanese",
+                "title": "激闘! クラッシュギアTURBO"
+            },
+            {
+                "type": "German",
+                "title": "Crush Gear Turbo"
+            }
+        ],
+        "title": "Gekitou! Crush Gear Turbo",
+        "title_english": null,
+        "title_japanese": "激闘! クラッシュギアTURBO",
+        "title_synonyms": [],
+        "type": "TV",
+        "source": "Original",
+        "episodes": 68,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "2001-10-07T00:00:00+00:00",
+            "to": "2003-01-26T00:00:00+00:00",
+            "prop": {
+                "from": {
+                    "day": 7,
+                    "month": 10,
+                    "year": 2001
+                },
+                "to": {
+                    "day": 26,
+                    "month": 1,
+                    "year": 2003
+                }
+            },
+            "string": "Oct 7, 2001 to Jan 26, 2003"
+        },
+        "duration": "25 min per ep",
+        "rating": "G - All Ages",
+        "score": 6.84,
+        "scored_by": 4270,
+        "rank": 5303,
+        "popularity": 7749,
+        "members": 7962,
+        "favorites": 38,
+        "synopsis": "After losing almost all their members the Tobita Crush Gear club is facing extinction. Kouya who dreams of being a Crush Gear Fighting Champion doesn't want to see the club become extinct and will do whatever he can to keep the club running and become a Cush Gear Champion.",
+        "background": "",
+        "season": "fall",
+        "year": 2001,
+        "broadcast": {
+            "day": null,
+            "time": null,
+            "timezone": null,
+            "string": "Unknown"
+        },
+        "producers": [
+            {
+                "mal_id": 23,
+                "type": "anime",
+                "name": "Bandai Visual",
+                "url": "https://myanimelist.net/anime/producer/23/Bandai_Visual"
+            }
+        ],
+        "licensors": [],
+        "studios": [
+            {
+                "mal_id": 14,
+                "type": "anime",
+                "name": "Sunrise",
+                "url": "https://myanimelist.net/anime/producer/14/Sunrise"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 30,
+                "type": "anime",
+                "name": "Sports",
+                "url": "https://myanimelist.net/anime/genre/30/Sports"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [],
+        "demographics": [],
+        "relations": [
+            {
+                "relation": "Sequel",
+                "entry": [
+                    {
+                        "mal_id": 19271,
+                        "type": "anime",
+                        "name": "Gekitou! Crush Gear Turbo: Kaizabaan no Chousen",
+                        "url": "https://myanimelist.net/anime/19271/Gekitou_Crush_Gear_Turbo__Kaizabaan_no_Chousen"
+                    }
+                ]
+            },
+            {
+                "relation": "Adaptation",
+                "entry": [
+                    {
+                        "mal_id": 16333,
+                        "type": "manga",
+                        "name": "Gekitou! Crush Gear Turbo",
+                        "url": "https://myanimelist.net/manga/16333/Gekitou_Crush_Gear_Turbo"
+                    }
+                ]
+            },
+            {
+                "relation": "Spin-Off",
+                "entry": [
+                    {
+                        "mal_id": 7048,
+                        "type": "anime",
+                        "name": "Crush Gear Nitro",
+                        "url": "https://myanimelist.net/anime/7048/Crush_Gear_Nitro"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [
+                "\"CRUSH GEAR FIGHT!!\" by JAM Project"
+            ],
+            "endings": [
+                "\"Ai da yo ne!!~Gear wo tsnagou\" by JAM Project"
+            ]
+        },
+        "external": [
+            {
+                "name": "Official Site",
+                "url": "http://www.sunrise-anime.jp/sunrise-inc/works/detail.php?cid=71"
+            },
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=2322"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=2169"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "http://en.wikipedia.org/wiki/Crush_Gear_Turbo"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": [
+        {
+            "mal_id": 1,
+            "url": null,
+            "title": "Burn! The Spirit of Gear Fighting",
+            "title_japanese": "燃えろ！ギアファイト魂",
+            "title_romanji": "Moero! Gear Fight Tamashii ",
+            "aired": "2001-10-07T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 2,
+            "url": null,
+            "title": "Find the Anpan Fighter!",
+            "title_japanese": "あんぱんファイターを探せ！",
+            "title_romanji": "Anpan Fighter wo Sagase! ",
+            "aired": "2001-10-14T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 3,
+            "url": null,
+            "title": "Genius Gear Master Jin!",
+            "title_japanese": "天才ギアマスター ジン!",
+            "title_romanji": "Tensai Gear Master Jin ",
+            "aired": "2001-10-21T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 4,
+            "url": null,
+            "title": "The Fourth Fighter",
+            "title_japanese": "４人目のファイター",
+            "title_romanji": "4 Hitome no Fighter ",
+            "aired": "2001-10-28T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 5,
+            "url": null,
+            "title": "Tobita Club's Crisis",
+            "title_japanese": "トビタクラブの危機",
+            "title_romanji": "Tobita Club no Kiki ",
+            "aired": "2001-11-04T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 6,
+            "url": null,
+            "title": "A Gear Betting Fight",
+            "title_japanese": "ギアを賭けたファイト",
+            "title_romanji": "Gear wo Kaketa Fight ",
+            "aired": "2001-11-11T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 7,
+            "url": null,
+            "title": "A Gift from My Brother",
+            "title_japanese": "兄からの贈り物",
+            "title_romanji": "Ani kara no Okurimono ",
+            "aired": "2001-11-18T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 8,
+            "url": null,
+            "title": "Takoyaki Battle Royale!",
+            "title_japanese": "タコ焼きバトルロイヤル！",
+            "title_romanji": "Takoyaki Battle Royal! ",
+            "aired": "2001-11-25T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 9,
+            "url": null,
+            "title": "Jirou's Old Wounds",
+            "title_japanese": "ジロウの古傷",
+            "title_romanji": "Jirou no Furukizu ",
+            "aired": "2001-12-02T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 10,
+            "url": null,
+            "title": "Calling a Genius a Genius!",
+            "title_japanese": "天才は天才を呼ぶ！",
+            "title_romanji": "Tensai wa Tensai wo Yobu! ",
+            "aired": "2001-12-09T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 11,
+            "url": null,
+            "title": "Obsession for Victory",
+            "title_japanese": "勝利への執念",
+            "title_romanji": "Shouri e no Shuunen ",
+            "aired": "2001-12-16T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 12,
+            "url": null,
+            "title": "The History's Strongest Gear, Gaiki",
+            "title_japanese": "史上最強のギア　鎧輝",
+            "title_romanji": "Shijou Saikyou no Gear Gaiki ",
+            "aired": "2001-12-23T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 13,
+            "url": null,
+            "title": "Friendship and Rivalry",
+            "title_japanese": "友情とライバル",
+            "title_romanji": "Yuujou to Rival ",
+            "aired": "2001-12-30T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 14,
+            "url": null,
+            "title": "Manganji's Ambition",
+            "title_japanese": "マンガンジの野望",
+            "title_romanji": "Manganji no Yabou ",
+            "aired": "2002-01-06T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 15,
+            "url": null,
+            "title": "The Swordmaster of Hokkaido - Takekura",
+            "title_japanese": "北の国の剣豪　武蔵!",
+            "title_romanji": "Kita no Kuni no Kengou Takekura! ",
+            "aired": "2002-01-13T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 16,
+            "url": null,
+            "title": "Struggle of Everyone!",
+            "title_japanese": "それぞれの闘い！",
+            "title_romanji": "Sorezore no Tatakai! ",
+            "aired": "2002-01-20T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 17,
+            "url": null,
+            "title": "Horror Illusion Cup",
+            "title_japanese": "恐怖のイリュージョン　カップ！",
+            "title_romanji": "Kyoufu no Illusion Cup! ",
+            "aired": "2002-01-27T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 18,
+            "url": null,
+            "title": "Garuda Eagle's Roots",
+            "title_japanese": "ガルダイーグルに吹く風",
+            "title_romanji": "Garuda Eagle ni Fuku Kaze ",
+            "aired": "2002-02-03T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 19,
+            "url": null,
+            "title": "Return of the Burning Octopus",
+            "title_japanese": "タコヤキングの逆襲！",
+            "title_romanji": "Takoyaking no Gyakushuu! ",
+            "aired": "2002-02-10T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 20,
+            "url": null,
+            "title": "Fly Garuda Eagle",
+            "title_japanese": "翔べ！ガルダイーグル！！",
+            "title_romanji": "Tobe! Garuda Eagle!! ",
+            "aired": "2002-02-17T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 21,
+            "url": null,
+            "title": "Attack of the Tobita Club",
+            "title_japanese": "トビタクラブ大進撃！",
+            "title_romanji": "Tobita Club Daishingeki! ",
+            "aired": "2002-02-24T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 22,
+            "url": null,
+            "title": "A Sad Victory",
+            "title_japanese": "哀しみの勝利",
+            "title_romanji": "Kanashimi no Shouri ",
+            "aired": "2002-03-03T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 23,
+            "url": null,
+            "title": "Hit the Right Spot",
+            "title_japanese": "その一点をねらえ！",
+            "title_romanji": "Sono Itten wo Nerae! ",
+            "aired": "2002-03-10T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 24,
+            "url": null,
+            "title": "No Regrets",
+            "title_japanese": "悔いなき一投！",
+            "title_romanji": "Kuinaki Ittou! ",
+            "aired": "2002-03-17T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 25,
+            "url": null,
+            "title": "The Choice of Friendship",
+            "title_japanese": "友よ、激闘の果てに！",
+            "title_romanji": "Tomo yo, Gekitou no Hate ni! ",
+            "aired": "2002-03-24T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 26,
+            "url": null,
+            "title": "Garuda Phoenix",
+            "title_japanese": "誕生！ガルダフェニックス！",
+            "title_romanji": "Tanjou! Garuda Phoenix! ",
+            "aired": "2002-03-31T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 27,
+            "url": null,
+            "title": "Kouya versus the Hyper Grandpa",
+            "title_japanese": "コウヤ対ハイパージィちゃん！",
+            "title_romanji": "Kouya Tai Hyper Jii-chan! ",
+            "aired": "2002-04-07T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 28,
+            "url": null,
+            "title": "My New Rival, Wang Hu",
+            "title_japanese": "新たなるライバル　王虎！",
+            "title_romanji": "Aratanaru Rival Wang Hu! ",
+            "aired": "2002-04-14T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 29,
+            "url": null,
+            "title": "Asian Cup Opening Match",
+            "title_japanese": "開幕！アジアカップ",
+            "title_romanji": "Kaimaku! Asia Cup ",
+            "aired": "2002-04-21T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 30,
+            "url": null,
+            "title": "Bravo Beetle Dash",
+            "title_japanese": "唸れ！ビートルダッシュ！！",
+            "title_romanji": "Unare! Beetle Dash!! ",
+            "aired": "2002-04-28T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 31,
+            "url": null,
+            "title": "The Black Phoenix Mystery",
+            "title_japanese": "ブラックガルダの謎",
+            "title_romanji": "Black Garuda no Nazo ",
+            "aired": "2002-05-05T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 32,
+            "url": null,
+            "title": "Past Memories",
+            "title_japanese": "時をかける絆",
+            "title_romanji": "Toki wo Kakeru Kizuna ",
+            "aired": "2002-05-12T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 33,
+            "url": null,
+            "title": "Collision! The Phoenix versus the Tiger",
+            "title_japanese": "激突！鳳凰（ガルダフェニックス） 対 猛虎（タイガレイド）",
+            "title_romanji": "Gekitotsu! Garuda Phoenix vs Tigeraid ",
+            "aired": "2002-05-19T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 34,
+            "url": null,
+            "title": "The Manganji Nightmare",
+            "title_japanese": "究極のファイター！万願寺三凱将!",
+            "title_romanji": "Kyuukyoku no Fighter! Manganji Sangaishou! ",
+            "aired": "2002-05-26T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 35,
+            "url": null,
+            "title": "Asia Cup Final - The Fated Match",
+            "title_japanese": "宿命の対決！アジアカップ最終決戦！",
+            "title_romanji": "Shukumei no Taiketsu! Asia Cup Saishuu Kessen! ",
+            "aired": "2002-06-02T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 36,
+            "url": null,
+            "title": "The Asia Cup Today Special",
+            "title_japanese": "アジアカップＴＯＤＡＹスペシャル！",
+            "title_romanji": "Asia Cup Today Special! ",
+            "aired": "2002-06-09T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 37,
+            "url": null,
+            "title": "The Ninja Gear Fighter",
+            "title_japanese": "忍者ファイター見参！",
+            "title_romanji": "Ninja Fighter Kenzan! ",
+            "aired": "2002-06-23T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 38,
+            "url": null,
+            "title": "The One Who Built Garuda Eagle",
+            "title_japanese": "ガルダイーグルを作った男",
+            "title_romanji": "Garuda Eagle wo Tsukutta Otoko ",
+            "aired": "2002-06-30T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 39,
+            "url": null,
+            "title": "Episode 39",
+            "title_japanese": "バルト海の荒鷲　ガレン！",
+            "title_romanji": "Balt-kai no Arawashi Gallen! ",
+            "aired": "2002-07-07T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 40,
+            "url": null,
+            "title": "The Gan Ryuu Jima Battle",
+            "title_japanese": "決闘！クラッシュ巌流島",
+            "title_romanji": "Kettou! Crush Ganryuu-jima ",
+            "aired": "2002-07-14T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 41,
+            "url": null,
+            "title": "The World Cup Championship",
+            "title_japanese": "ワールドカップ　新たなる戦い！",
+            "title_romanji": "World Cup Aratanaru Tatakai! ",
+            "aired": "2002-07-21T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 42,
+            "url": null,
+            "title": "The Flamboyant White Knights",
+            "title_japanese": "華麗なる白い騎士団",
+            "title_romanji": "Karei Naru Weiss Ritters ",
+            "aired": "2002-07-28T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 43,
+            "url": null,
+            "title": "A Strong Bond",
+            "title_japanese": "絆に結ばれたファイト！",
+            "title_romanji": "Kizuna ni Musubareta Fight! ",
+            "aired": "2002-08-04T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 44,
+            "url": null,
+            "title": "The Terrible Attack Begins!",
+            "title_japanese": "発動！恐怖の虎超氷撃！",
+            "title_romanji": "Hatsudou! Kyoufu no Huchaobingji!! ",
+            "aired": "2002-08-11T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 45,
+            "url": null,
+            "title": "Bearing the Strain",
+            "title_japanese": "受け継がれるもの",
+            "title_romanji": "Uketsugareru Mono ",
+            "aired": "2002-08-18T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 46,
+            "url": null,
+            "title": "U-YA's Secret",
+            "title_japanese": "Ｕ－ＹＡの秘密",
+            "title_romanji": "U-YA no Himitsu ",
+            "aired": "2002-08-25T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 47,
+            "url": null,
+            "title": "The Tears of Tiger Flare",
+            "title_japanese": "タイガフレアの涙",
+            "title_romanji": "Tiger Flare no Namida ",
+            "aired": "2002-09-01T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 48,
+            "url": null,
+            "title": "Grifeed, the Tercel",
+            "title_japanese": "荒鷲グリフィード、再び！",
+            "title_romanji": "Arawashi Grifeed, Futatabi! ",
+            "aired": "2002-09-08T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 49,
+            "url": null,
+            "title": "The Black Phoenix",
+            "title_japanese": "憎しみの黒き不死鳥",
+            "title_romanji": "Nikushimi no Kuroki Phoenix ",
+            "aired": "2002-09-15T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 50,
+            "url": null,
+            "title": "The Prince of Darkness, Cain",
+            "title_japanese": "破壊貴公子　ケイン",
+            "title_romanji": "Hakai Kikoushi Cain ",
+            "aired": "2002-09-22T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 51,
+            "url": null,
+            "title": "The Typhoon, Ark Cavalier",
+            "title_japanese": "疾風のアークキャバリアー！",
+            "title_romanji": "Shippuu no Ark Cavalier! ",
+            "aired": "2002-09-29T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 52,
+            "url": null,
+            "title": "The Heart Connection",
+            "title_japanese": "心を繋ぐファイト",
+            "title_romanji": "Kokoro wo Tsunagu Fight ",
+            "aired": "2002-10-06T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 53,
+            "url": null,
+            "title": "Secret Power",
+            "title_japanese": "秘められた力",
+            "title_romanji": "Himerareta Chikara ",
+            "aired": "2002-10-13T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 54,
+            "url": null,
+            "title": "Getting Even with the Ninja",
+            "title_japanese": "忍者ファイターを撃ち破れ！",
+            "title_romanji": "Ninja Fighter wo Uchiyabure! ",
+            "aired": "2002-10-20T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 55,
+            "url": null,
+            "title": "Fight with Pride",
+            "title_japanese": "誇りあるギアファイト",
+            "title_romanji": "Hokori Aru Gear Fight ",
+            "aired": "2002-10-27T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 56,
+            "url": null,
+            "title": "Kuroudo versus Kyousuke - The Final Showdown",
+            "title_japanese": "対決!クロウド対キョウスケ!",
+            "title_romanji": "Taiketsu! Kuroudo tai Kyousuke! ",
+            "aired": "2002-11-03T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 57,
+            "url": null,
+            "title": "The Ring of Friendship",
+            "title_japanese": "友情のリング",
+            "title_romanji": "Yuujou no Ring ",
+            "aired": "2002-11-10T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 58,
+            "url": null,
+            "title": "The One with the Victory in Hand",
+            "title_japanese": "勝利を掴む者",
+            "title_romanji": "Shouri wo Tsukamu Mono ",
+            "aired": "2002-11-17T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 59,
+            "url": null,
+            "title": "Jirou vs. U-YA! Castle Battle",
+            "title_japanese": "古城の対決！ジロウ対Ｕ－ＹＡ！",
+            "title_romanji": "Kojou no Taiketsu! Jirou tai U-YA! ",
+            "aired": "2002-11-24T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 60,
+            "url": null,
+            "title": "The Promised Fight",
+            "title_japanese": "約束のファイト",
+            "title_romanji": "Yakusoku no Fight ",
+            "aired": "2002-12-01T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 61,
+            "url": null,
+            "title": "My Friend, Hear the Heartbeat of My Gear",
+            "title_japanese": "友に届け！ギアの心",
+            "title_romanji": "Tomo ni Todoke! Gear no Kokoro ",
+            "aired": "2002-12-08T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 62,
+            "url": null,
+            "title": "Is He the Legendary Gear God?",
+            "title_japanese": "黒い森のギアマスター",
+            "title_romanji": "Kuroi Mori no Gear Master ",
+            "aired": "2002-12-15T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 63,
+            "url": null,
+            "title": "The Real Garuda",
+            "title_japanese": "ガルダの名の下に",
+            "title_romanji": "Garuda no Na no Shita ni ",
+            "aired": "2002-12-22T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 64,
+            "url": null,
+            "title": "The Gear Fight Between the Soul",
+            "title_japanese": "魂のギアファイト",
+            "title_romanji": "Tamashii no Gear Fight ",
+            "aired": "2002-12-29T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 65,
+            "url": null,
+            "title": "My Rival Forever",
+            "title_japanese": "永遠の好敵手",
+            "title_romanji": "Eien no Rival ",
+            "aired": "2003-01-05T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 66,
+            "url": null,
+            "title": "The Last Fight",
+            "title_japanese": "運命のラストファイト",
+            "title_romanji": "Unmei no Last Fight ",
+            "aired": "2003-01-12T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 67,
+            "url": null,
+            "title": "The Wind Sweeping Up in the Ring",
+            "title_japanese": "リングを翔ける疾風",
+            "title_romanji": "Ring wo Kakeru Kaze ",
+            "aired": "2003-01-19T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 68,
+            "url": null,
+            "title": "Shine! The Soul of the Gear!",
+            "title_japanese": "輝け！熱きギア魂！",
+            "title_romanji": "Kagayake! Atsuki Gear Tamashii! ",
+            "aired": "2003-01-26T00:00:00+00:00",
+            "score": 5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1516638"
+        }
+    ]
+}

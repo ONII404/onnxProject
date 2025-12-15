@@ -1,0 +1,1142 @@
+{
+    "id": 3312,
+    "fetched_at": "Sun Dec 14 19:27:46 2025",
+    "metadata": {
+        "mal_id": 3312,
+        "url": "https://myanimelist.net/anime/3312/Dr_Slump",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1475/116861.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1475/116861t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1475/116861l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1475/116861.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1475/116861t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1475/116861l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Dr. Slump"
+            },
+            {
+                "type": "Synonym",
+                "title": "Dr. Slump 2"
+            },
+            {
+                "type": "Synonym",
+                "title": "Doctor Slump"
+            },
+            {
+                "type": "Japanese",
+                "title": "ドクタースランプ"
+            }
+        ],
+        "title": "Dr. Slump",
+        "title_english": null,
+        "title_japanese": "ドクタースランプ",
+        "title_synonyms": [
+            "Dr. Slump 2",
+            "Doctor Slump"
+        ],
+        "type": "TV",
+        "source": "Manga",
+        "episodes": 74,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "1997-11-26T00:00:00+00:00",
+            "to": "1999-09-22T00:00:00+00:00",
+            "prop": {
+                "from": {
+                    "day": 26,
+                    "month": 11,
+                    "year": 1997
+                },
+                "to": {
+                    "day": 22,
+                    "month": 9,
+                    "year": 1999
+                }
+            },
+            "string": "Nov 26, 1997 to Sep 22, 1999"
+        },
+        "duration": "25 min per ep",
+        "rating": "PG-13 - Teens 13 or older",
+        "score": 6.98,
+        "scored_by": 8184,
+        "rank": 4628,
+        "popularity": 5394,
+        "members": 19903,
+        "favorites": 56,
+        "synopsis": "In Penguin Village, humans live alongside talking animals and objects. Senbei Norimaki is one of these humans, and he's an inventor with the lofty dream of creating the world's best robot girl. \n\nThe product of his efforts is Arale, but depending on your definition of perfect, she's anything but! Not only is Arale severely nearsighted, but she also has no common sense! At least she has super-strength, though that often proves to be a setback as well. \n\nAlthough she means well, Arale only causes trouble for her neighbors in the whimsical Penguin Village!",
+        "background": "",
+        "season": "fall",
+        "year": 1997,
+        "broadcast": {
+            "day": "Wednesdays",
+            "time": "19:00",
+            "timezone": "Asia/Tokyo",
+            "string": "Wednesdays at 19:00 (JST)"
+        },
+        "producers": [
+            {
+                "mal_id": 169,
+                "type": "anime",
+                "name": "Fuji TV",
+                "url": "https://myanimelist.net/anime/producer/169/Fuji_TV"
+            }
+        ],
+        "licensors": [],
+        "studios": [
+            {
+                "mal_id": 18,
+                "type": "anime",
+                "name": "Toei Animation",
+                "url": "https://myanimelist.net/anime/producer/18/Toei_Animation"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 4,
+                "type": "anime",
+                "name": "Comedy",
+                "url": "https://myanimelist.net/anime/genre/4/Comedy"
+            },
+            {
+                "mal_id": 24,
+                "type": "anime",
+                "name": "Sci-Fi",
+                "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [
+            {
+                "mal_id": 57,
+                "type": "anime",
+                "name": "Gag Humor",
+                "url": "https://myanimelist.net/anime/genre/57/Gag_Humor"
+            }
+        ],
+        "demographics": [
+            {
+                "mal_id": 27,
+                "type": "anime",
+                "name": "Shounen",
+                "url": "https://myanimelist.net/anime/genre/27/Shounen"
+            }
+        ],
+        "relations": [
+            {
+                "relation": "Adaptation",
+                "entry": [
+                    {
+                        "mal_id": 796,
+                        "type": "manga",
+                        "name": "Dr. Slump",
+                        "url": "https://myanimelist.net/manga/796/Dr_Slump"
+                    }
+                ]
+            },
+            {
+                "relation": "Side Story",
+                "entry": [
+                    {
+                        "mal_id": 30449,
+                        "type": "anime",
+                        "name": "Dr. Slump: Robot Taiketsu! Shukuteki Dr. Mashirito Toujou / Keen de Yuushou!? Penguin Grand Prix",
+                        "url": "https://myanimelist.net/anime/30449/Dr_Slump__Robot_Taiketsu_Shukuteki_Dr_Mashirito_Toujou___Keen_de_Yuushou_Penguin_Grand_Prix"
+                    },
+                    {
+                        "mal_id": 8550,
+                        "type": "anime",
+                        "name": "Dr. Slump Movie 10: Arale no Bikkuriman",
+                        "url": "https://myanimelist.net/anime/8550/Dr_Slump_Movie_10__Arale_no_Bikkuriman"
+                    },
+                    {
+                        "mal_id": 30450,
+                        "type": "anime",
+                        "name": "Dr. Slump: Hoyoyo! Arale no Himitsu Dai Koukai da yo!!",
+                        "url": "https://myanimelist.net/anime/30450/Dr_Slump__Hoyoyo_Arale_no_Himitsu_Dai_Koukai_da_yo"
+                    }
+                ]
+            },
+            {
+                "relation": "Spin-Off",
+                "entry": [
+                    {
+                        "mal_id": 8551,
+                        "type": "anime",
+                        "name": "Dr. Slump Movie 11: Dr. Mashirito & Abale-chan",
+                        "url": "https://myanimelist.net/anime/8551/Dr_Slump_Movie_11__Dr_Mashirito___Abale-chan"
+                    }
+                ]
+            },
+            {
+                "relation": "Alternative Version",
+                "entry": [
+                    {
+                        "mal_id": 2222,
+                        "type": "anime",
+                        "name": "Dr. Slump: Arale-chan",
+                        "url": "https://myanimelist.net/anime/2222/Dr_Slump__Arale-chan"
+                    }
+                ]
+            },
+            {
+                "relation": "Character",
+                "entry": [
+                    {
+                        "mal_id": 223,
+                        "type": "anime",
+                        "name": "Dragon Ball",
+                        "url": "https://myanimelist.net/anime/223/Dragon_Ball"
+                    },
+                    {
+                        "mal_id": 39368,
+                        "type": "anime",
+                        "name": "Dr. Slump N-cha! Arale no Oshioki! Idea Dorobou wo Yattsukechae",
+                        "url": "https://myanimelist.net/anime/39368/Dr_Slump_N-cha_Arale_no_Oshioki_Idea_Dorobou_wo_Yattsukechae"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [
+                "1: \"Kao Dekaai\" by Funta (eps 1-28)",
+                "2: \"Hello, I love you\" by YURIMARI (eps 29-61)",
+                "3: \"Arale! Parale!\" by Dr. Slump All Stars (eps 62-74)"
+            ],
+            "endings": [
+                "1: \"Hanage ga Chotto Tobidashiteiru\" by Funta (eps 1-33)",
+                "2: \"Let me go!\" by Favorite Blue (eps 34-45)",
+                "3: \"Anata ga Ite Watakushi ga Ite\" by Obocchaman-kun (eps 46-74)"
+            ]
+        },
+        "external": [
+            {
+                "name": "Official Site",
+                "url": "http://www.toei-anim.co.jp/lineup/tv/arale_2nd/"
+            },
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=532"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=972"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "http://en.wikipedia.org/wiki/Dr._Slump"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": [
+        {
+            "mal_id": 1,
+            "url": null,
+            "title": "Arale is Born!! / Let's Go to School",
+            "title_japanese": "アラレ誕生!! / 学校へ行こう",
+            "title_romanji": "Arale Tanjou!! / Gakkou e Ikou ",
+            "aired": "1997-11-26T00:00:00+00:00",
+            "score": 4.09,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1790652"
+        },
+        {
+            "mal_id": 2,
+            "url": null,
+            "title": "Time Slipper! / The Strange Baby",
+            "title_japanese": "タイムスリッパー! / ふしぎな赤ちゃん",
+            "title_romanji": "Time Slipper! / Fushigi na Akachan ",
+            "aired": "1997-12-03T00:00:00+00:00",
+            "score": 3.8,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1790653"
+        },
+        {
+            "mal_id": 3,
+            "url": null,
+            "title": "Arale's Missing Thing... / the Huge-Tiny Ray Gun!",
+            "title_japanese": "アラレにないもの... / デカチビ光線銃!",
+            "title_romanji": "Arale ni Nai Mono... / Dekachibi Kousenjuu! ",
+            "aired": "1997-12-10T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 4,
+            "url": null,
+            "title": "The Reality Machine / the Bear in a Cage",
+            "title_japanese": "本物マシーン / オリのクマさん",
+            "title_romanji": "Honmono Machine / Ori no Kuma-san ",
+            "aired": "1997-12-17T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 5,
+            "url": null,
+            "title": "Hurry for School Lunches! / Arale Flies in the Sky!!",
+            "title_japanese": "給食バンザイ! / アラレ空を飛ぶ!",
+            "title_romanji": "Kyuushoku Banzai! / Arale Sora wo Tobu!! ",
+            "aired": "1998-01-14T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 6,
+            "url": null,
+            "title": "The Scary King Niko-Chan / an SOS for Earth",
+            "title_japanese": "恐怖のニコちゃん大王 / 地球SOS!",
+            "title_romanji": "Kyoufu no Niko-chan Daiou / Chikyuu SOS! ",
+            "aired": "1998-01-21T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 7,
+            "url": null,
+            "title": "Turning in a Dropped Object / the Invisible Ph.D.",
+            "title_japanese": "落とし物を届けよう / 透明博士",
+            "title_romanji": "Otoshimono wo Todokeyou / Toumei Hakase ",
+            "aired": "1998-01-28T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 8,
+            "url": null,
+            "title": "Akane's Prank / Arale as a Gofer",
+            "title_japanese": "あかねのイタズラ / お使いアラレちゃん",
+            "title_romanji": "Akane no Itazura / Otsukai Arale-chan ",
+            "aired": "1998-02-04T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 9,
+            "url": null,
+            "title": "The Hero Suppaman / Storybook Machine",
+            "title_japanese": "英雄スッパマン / おとぎマシーン",
+            "title_romanji": "Eiyuu Suppaman / Otogi Machine ",
+            "aired": "1998-02-11T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 10,
+            "url": null,
+            "title": "Flashy Children / Bye Bye Wild Power!!",
+            "title_japanese": "てけてけチルドレン / バイバイめちゃんこパワー!!",
+            "title_romanji": "Teketeke Children / Bye Bye Mechanko Power!! ",
+            "aired": "1998-02-18T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 11,
+            "url": null,
+            "title": "Hello, Wonder Island / the Evil King Unmoh",
+            "title_japanese": "ハロー! 不思議島[ワンダーアイランド] / 大魔王ウンモー",
+            "title_romanji": "Harou! Wonder Island / Daimaou Unmou ",
+            "aired": "1998-02-25T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 12,
+            "url": null,
+            "title": "Arale Has Become Serious / Transformation! Pon Poko Gun",
+            "title_japanese": "マジメになったアラレ / 変身!ポンポコガン",
+            "title_romanji": "Majime ni Natta Arale / Henshin! Pon Poko Gun ",
+            "aired": "1998-03-04T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 13,
+            "url": null,
+            "title": "A Pathtic Date / Exciting Wild Land",
+            "title_japanese": "哀愁のほよよデート / わいわいワイルドランド",
+            "title_romanji": "Aishuu no Hoyoyo Date / Waiwai Wild Land ",
+            "aired": "1998-03-18T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 14,
+            "url": null,
+            "title": "SOS From Penguin Village / the Extraordinarily Fun Kintaman",
+            "title_japanese": "ペンギン村SOS / 怪傑キンタマン",
+            "title_romanji": "Pengin Mura SOS / Kaiketsu Kintaman ",
+            "aired": "1998-03-18T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 15,
+            "url": null,
+            "title": "Arale and Donbe / the Great Arale's Eyes Strategy",
+            "title_japanese": "アラレとドンベ / アラレ目大作戦",
+            "title_romanji": "Arale to Donbe / Arale Me Daisakusen ",
+            "aired": "1998-04-15T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 16,
+            "url": null,
+            "title": "A Nerve-Wracking Health Examination / the Convenient Machine Ohcha-Boy",
+            "title_japanese": "ドキドキ健康診断 / 便利マシーン!オーチャ君",
+            "title_romanji": "Dokidoki Kenkou Shindan / Benri Machine ",
+            "aired": "1998-04-22T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 17,
+            "url": null,
+            "title": "A Visit to Arale’s Classroom / Pisuke’s First Love",
+            "title_japanese": "アラレの授業参観 / はつこいピースケ",
+            "title_romanji": "Arale no Jugyou Sankan / Hatsukoi Piske ",
+            "aired": "1998-04-29T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 18,
+            "url": null,
+            "title": "Let's Go to Outer Space / Let's Attack an Outer Space Monster!",
+            "title_japanese": "宇宙へ行こう / 宇宙怪獣をやっつけろ!!",
+            "title_romanji": "Uchuu e Ikou / Uchuu kaijuu wo Tattsukero!! ",
+            "aired": "1998-05-06T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 19,
+            "url": null,
+            "title": "Dr. Senbei's Weak Point / Good Bye, Gatchan",
+            "title_japanese": "さよならガッちゃん! 宇宙からのたずね人",
+            "title_romanji": "Sayonara Gacchan! Uchuu kara no Tazunejin ",
+            "aired": "1998-05-13T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 20,
+            "url": null,
+            "title": "The Tiny Devil From Hell: Chivil",
+            "title_japanese": "地獄のチビッコ悪魔! チビルくん",
+            "title_romanji": "Jigoku Chibikko Akuma! Chibiru-kun ",
+            "aired": "1998-05-20T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 21,
+            "url": null,
+            "title": "A Transfer Student Comes! / Two Arales? Miss Copy",
+            "title_japanese": "転校生が来たッ!! / アラレがふたり!? コピーくん",
+            "title_romanji": "Tenkousei ga Kita!! / Arale ga Futari!? Copy-kun ",
+            "aired": "1998-05-27T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 22,
+            "url": null,
+            "title": "Miss Yamabuki Collapses: Arale’s Micro Exploration Team",
+            "title_japanese": "先生倒れる!! アラレのミクロ探検隊",
+            "title_romanji": "Sensei Taoreru!! Arale no Micro Tankentai ",
+            "aired": "1998-06-10T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 23,
+            "url": null,
+            "title": "Baby Senbei / \"I'll Show You How Bad I Can Be\": Arale Joins a Biker Gang",
+            "title_japanese": "わたしグレてやる! アラレ暴走族になる",
+            "title_romanji": "Watashi Gurete Yaru! Arale Bousouzoku ni Naru ",
+            "aired": "1998-06-17T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 24,
+            "url": null,
+            "title": "The Vampire Dranpire: The Great Uproar Over Love Blood Donations",
+            "title_japanese": "吸血鬼ドランパイア! 愛の献血大騒動",
+            "title_romanji": "Kyuuketsu Dranpire! Ai no Kenketsu Daisoudou ",
+            "aired": "1998-06-24T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 25,
+            "url": null,
+            "title": "The Idiot Who Kidnapped Arale!",
+            "title_japanese": "出た! アラレを誘かいしたアホなヤツ",
+            "title_romanji": "Deta! Arale wo Sasokaishita Aho na Yatsu ",
+            "aired": "1998-07-08T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 26,
+            "url": null,
+            "title": "Is It Really True? Senbei Is Getting Married",
+            "title_japanese": "ホントに本当!? 千兵衛さん結婚する",
+            "title_romanji": "Honto ni Honto!? Senbee-san Kekkon Suru ",
+            "aired": "1998-07-22T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 27,
+            "url": null,
+            "title": "Marriage! Going on a Strange Honeymoon?!",
+            "title_japanese": "結婚だ! チンコン旅行ってつおい!?",
+            "title_romanji": "Kekkon Da! Chinkon Ryokoutte Tsuyou!? ",
+            "aired": "1998-07-29T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 28,
+            "url": null,
+            "title": "He’s Even Stronger Than Arale! the Jungle Boy’s Power",
+            "title_japanese": "アラレよりつおいぞ! ジャングル少年のパワー",
+            "title_romanji": "Arale Yori Tsuyoizo! Jungle Shounen no Power ",
+            "aired": "1998-08-05T00:00:00+00:00",
+            "score": 5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1657461"
+        },
+        {
+            "mal_id": 29,
+            "url": null,
+            "title": "Has Gatchan Undergone a Great Transformation, Too? the Stealthy Helmet",
+            "title_japanese": "ガッちゃんも大変身!? コンコンヘルメット",
+            "title_romanji": "Gacchan mo Dahenshin!? Konkon Helmet ",
+            "aired": "1998-08-12T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 30,
+            "url": null,
+            "title": "Arale in the Nick of the Time Doctor Mashirito’s Counterattack!",
+            "title_japanese": "アラレ危機一髪! ドクターマシリトの逆襲!!",
+            "title_romanji": "Arale Kiki Ippatsu! Doctor Mashirito no Gyakushuu!! ",
+            "aired": "1998-08-19T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 31,
+            "url": null,
+            "title": "The Tun Family Has Come",
+            "title_japanese": "ニイハオ! 摘さん一家がやって来た",
+            "title_romanji": "Niihao! Tsun-san Ikka ga Yatte Kita ",
+            "aired": "1998-08-26T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 32,
+            "url": null,
+            "title": "What a Surprise! Super-Senchan in Urban Island",
+            "title_japanese": "驚き! スーパーセンちゃんin都会島",
+            "title_romanji": "Odoroki! Supersen-chan in Tokaitou ",
+            "aired": "1998-09-02T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 33,
+            "url": null,
+            "title": "Please God! Please Don't Quit, Mrs. Norimaki",
+            "title_japanese": "神様お願い!! みどり先生やめないで",
+            "title_romanji": "Kamisama Onegai!! Midori-sensei Yamenaide ",
+            "aired": "1998-09-09T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 34,
+            "url": null,
+            "title": "The Strongest Rival Appears!",
+            "title_japanese": "最強ライバル登場でございまーす!",
+            "title_romanji": "Saikyou Rival Toujou de Gaozaimasu! ",
+            "aired": "1998-10-14T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 35,
+            "url": null,
+            "title": "The Ultimate Love and Righteousness Arale in a Great Pinch!",
+            "title_japanese": "究極の愛と正義... アラレ大ピンチ!",
+            "title_romanji": "Kyuukyoku no Ai to Seigi... Arale Dai Pinch! ",
+            "aired": "1998-10-21T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 36,
+            "url": null,
+            "title": "From Today I Am Obochaman, the Warrior of Love!",
+            "title_japanese": "今日からボクは愛の戦士オボッチャマン!",
+            "title_romanji": "Kyou kara Boku wa Ai no Senshi Obocchaman! ",
+            "aired": "1998-10-28T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 37,
+            "url": null,
+            "title": "Arale and the New Teacher",
+            "title_japanese": "アラレと新任教師・愛の頭つき合戦",
+            "title_romanji": "Arale to Shinin Kyoushi Ai no Zutsuki Kassen ",
+            "aired": "1998-11-04T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 38,
+            "url": null,
+            "title": "Obochaman Gets Dumped by Arale",
+            "title_japanese": "アラレにフラれたオボッチャマン!!",
+            "title_romanji": "Arale ni Furareta Obocchaman!! ",
+            "aired": "1998-11-11T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 39,
+            "url": null,
+            "title": "Hoyoyo! I Took a Licking From Dr. Mashrito",
+            "title_japanese": "ホヨヨ! マシリトにやられちった",
+            "title_romanji": "Hoyoyo! Mashirito ni Yararechitta ",
+            "aired": "1998-11-18T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 40,
+            "url": null,
+            "title": "Handle With Care?! an Expensive Melon Explodes Wildly",
+            "title_japanese": "取り扱い注意!? 高級メロン大爆発!!",
+            "title_romanji": "Tori Atsukai Chuui!? Koukyuu Melon Daibakuhatsu ",
+            "aired": "1998-11-25T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 41,
+            "url": null,
+            "title": "Flying Through the Sky to Search for Obochaman!",
+            "title_japanese": "空を飛んでオボッチャマンを探せ!",
+            "title_romanji": "Sora wo Tonde Obocchaman wo Sakase! ",
+            "aired": "1998-12-02T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 42,
+            "url": null,
+            "title": "Hoyo?! Arale Has a New Friend",
+            "title_japanese": "ほよ!? アラレに新しいおともだち",
+            "title_romanji": "Hoyo!? Arale ni Atarashii Otomodachi ",
+            "aired": "1998-12-09T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 43,
+            "url": null,
+            "title": "Arale Goes to Planet Nikochan",
+            "title_japanese": "アラレちゃんニコチャン星に行く!!",
+            "title_romanji": "Arale-chan Niko-chan Sei ni Iku!! ",
+            "aired": "1998-12-16T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 44,
+            "url": null,
+            "title": "Saving Planet Nikochan With an Uncha Cannon",
+            "title_japanese": "んちゃ砲でニコチャン星を救えっ!!",
+            "title_romanji": "Ncha Hou de Niko-chan Sei wo Sukue!! ",
+            "aired": "1998-12-23T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 45,
+            "url": null,
+            "title": "Hoyo? Arale Has Become a Mother",
+            "title_japanese": "ほよ!? ママになったアラレちゃん",
+            "title_romanji": "Hoyo!? Mama ni Natta Arale-chan ",
+            "aired": "1998-12-23T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 46,
+            "url": null,
+            "title": "Hey…. Let Me Tell You Arale's Secret",
+            "title_japanese": "ねぇ... アラレの秘密おしえちゃう",
+            "title_romanji": "Nee... Arale no Himitsu Oshiechau ",
+            "aired": "1999-01-13T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 47,
+            "url": null,
+            "title": "Exciting Arale and Barsan of the Jungle",
+            "title_japanese": "わくわくアラレと密林のバーサン",
+            "title_romanji": "Wakuwaku Arale to Mitsurin no Baasan ",
+            "aired": "1999-01-20T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 48,
+            "url": null,
+            "title": "A Warning to Arale! Cars Don’t Stop Suddenly",
+            "title_japanese": "アラレに注意!車は急にとまれない",
+            "title_romanji": "Arale ni Chuui! Kuruma wa Kyuu ni Tomarenai ",
+            "aired": "1999-01-27T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 49,
+            "url": null,
+            "title": "It Will Be Springtime Soon. How About Falling Love, Arale?",
+            "title_japanese": "もうすぐ春ですね恋をしませんか...アラレ",
+            "title_romanji": "Mou Sugu Haru Desu ne Koi wo Shimasenka... Arale ",
+            "aired": "1999-02-03T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 50,
+            "url": null,
+            "title": "Arale Will Absolutely Become a Hero!",
+            "title_japanese": "アラレちゃん絶対ヒーローになる!",
+            "title_romanji": "Arale-chan Zettai Hero ni Naru! ",
+            "aired": "1999-02-10T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 51,
+            "url": null,
+            "title": "Arale's Party Takes a Trip to a Hot Spring",
+            "title_japanese": "アラレちゃん一行... 温泉旅行に行く",
+            "title_romanji": "Arale-chan Ikkou... Onsen Ryokou ni Iki ",
+            "aired": "1999-02-17T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 52,
+            "url": null,
+            "title": "From Today Arale Is a Wonderful Lady",
+            "title_japanese": "今日からアラレはすてきなレディ",
+            "title_romanji": "Kyou kara Arale wa Suteki na Lady ",
+            "aired": "1999-02-24T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 53,
+            "url": null,
+            "title": "Arale and an Enjoyable Pirate Family",
+            "title_japanese": "アラレちゃんとゆかいな海賊一家",
+            "title_romanji": "Arale-chan to Yukai na Kazoku Ikka ",
+            "aired": "1999-03-03T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 54,
+            "url": null,
+            "title": "Going to the Dragon King’s Palace With Arale on My Birthday",
+            "title_japanese": "お誕生日はアラレといっしょに竜宮城",
+            "title_romanji": "Otanjoubi wa Arale to Issho ni Ryuugoushou ",
+            "aired": "1999-03-10T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 55,
+            "url": null,
+            "title": "Ridiculously Wild: Arale as a Nurse",
+            "title_japanese": "ハチャメチャアラレの看護婦さん",
+            "title_romanji": "Hachamecha Arale no Kangofu-san ",
+            "aired": "1999-03-17T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 56,
+            "url": null,
+            "title": "The Super Secret: I Saw the True Form of the Great Monkey",
+            "title_japanese": "秘) 大ザルの正体を見た",
+            "title_romanji": "Chou (Hi) Oozaru no Shoutai o Mita (超 ",
+            "aired": "1999-04-14T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1790655"
+        },
+        {
+            "mal_id": 57,
+            "url": null,
+            "title": "Goku and Arale's Great Pinch at School",
+            "title_japanese": "悟空君アラレの学校で大ピンチ!",
+            "title_romanji": "Gokuu-kun Arale no Gakkou de Dai Pinch! ",
+            "aired": "1999-04-14T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1790658"
+        },
+        {
+            "mal_id": 58,
+            "url": null,
+            "title": "Arale and Goku's Super-Battle Is Beginning!",
+            "title_japanese": "始まるヨ! アラレと悟空スーパーバトル",
+            "title_romanji": "Hajimaru yo! Arale to Gokuu Super Battle ",
+            "aired": "1999-04-21T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1790659"
+        },
+        {
+            "mal_id": 59,
+            "url": null,
+            "title": "Bye-Cha to Goku, the Strongest Guy in This World!",
+            "title_japanese": "悟空バイチャ! この世で一番強いヤツ",
+            "title_romanji": "Gokuu Baicha! Kono Se de Ichiban Tsuyoi Yatsu ",
+            "aired": "1999-04-28T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1790660"
+        },
+        {
+            "mal_id": 60,
+            "url": null,
+            "title": "Arale Witnesses Taro's Death-Defying Love!",
+            "title_japanese": "アラレ目撃!! タロウ命がけの恋!?",
+            "title_romanji": "Arale Mokugeki!! Tarou Inochi Gake no Koi!? ",
+            "aired": "1999-05-12T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 61,
+            "url": null,
+            "title": "Arale Is Impressed! Penguin Village’s Bomb-Rodders!",
+            "title_japanese": "アラレ感激! ペンギン村爆走族!!",
+            "title_romanji": "Arale Kangeki!! Pengin Mura Bakusouzoku ",
+            "aired": "1999-05-26T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 62,
+            "url": null,
+            "title": "To Be Decided Tonight!? the New Mayor of Penguin Village",
+            "title_japanese": "今夜決定!? ペンギン村の新村長!!",
+            "title_romanji": "Konya Kettei!? Pengin Mura no Shinsonchou!! ",
+            "aired": "1999-06-02T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 63,
+            "url": null,
+            "title": "Arale's Hero: Suppaman Who Flies Through the Sky",
+            "title_japanese": "アラレのヒーロー! 空飛ぶスッパマン",
+            "title_romanji": "Arale no Hero! Soratobu Suppaman! ",
+            "aired": "1999-06-09T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 64,
+            "url": null,
+            "title": "Lots of Senbeis Put Arale in a Panic!?",
+            "title_japanese": "千兵衛だらけでアラレパニック!?",
+            "title_romanji": "Senbee Darake de Arale Panic!? ",
+            "aired": "1999-06-16T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 65,
+            "url": null,
+            "title": "A Diamond Larger Than a Turd",
+            "title_japanese": "ウンチよりでかいダイヤモンド!!",
+            "title_romanji": "Unchi Yori Dekai Diamond!! ",
+            "aired": "1999-06-23T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 66,
+            "url": null,
+            "title": "Arale the Fugitive! Rescue Gatchan!",
+            "title_japanese": "逃亡者アラレ! ガッちゃんを救え",
+            "title_romanji": "Toubousha Arala! Gacchan wo Sukue ",
+            "aired": "1999-07-07T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 67,
+            "url": null,
+            "title": "Has a Gorilla Become a Hanger-on at Arale's House?",
+            "title_japanese": "アラレん家にゴリラがいそうろう?",
+            "title_romanji": "Aralenka ni Gorilla ga Isourou? ",
+            "aired": "1999-07-14T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 68,
+            "url": null,
+            "title": "It's Summer! Its's the Sea! It's Arale! What?",
+            "title_japanese": "夏だ! 海だ! アラレだ! なんだ?",
+            "title_romanji": "Natsu Da! Arale Da! Nanda? ",
+            "aired": "1999-08-11T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 69,
+            "url": null,
+            "title": "Penguin Village's Rescue Team at Work 24 Hours!",
+            "title_japanese": "ペンギン村レスキュー隊24時!!",
+            "title_romanji": "Pengin Mura Rescue Tai 24-ji!! ",
+            "aired": "1999-08-18T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 70,
+            "url": null,
+            "title": "Midori Explodes at Senbei's Foolhardiness",
+            "title_japanese": "みどり爆発! 千兵衛のウンコたれ",
+            "title_romanji": "Midori Bakuhatsu! Senbee no Unkotare ",
+            "aired": "1999-08-25T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 71,
+            "url": null,
+            "title": "Midori Explodes at Senbei's Foolhardiness - Part 2",
+            "title_japanese": "みどり爆発! 千兵衛のウンコたれ2",
+            "title_romanji": "Midori Bakuhatsu! Senbee no Unkotare 2 ",
+            "aired": "1999-09-01T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 72,
+            "url": null,
+            "title": "Arale and Fearsome King in Karaoke Battle",
+            "title_japanese": "アラレと恐怖の大王... カラオケ合戦",
+            "title_romanji": "Arale to Kyoufu no Daiou... Karaoke Kassen ",
+            "aired": "1999-09-08T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 73,
+            "url": null,
+            "title": "Autumn of the Appetite: Gatchan Increases",
+            "title_japanese": "食欲の秋! ガッちゃんふえちった",
+            "title_romanji": "Shokuyoku no Aki! Gacchan Fuechitta ",
+            "aired": "1999-09-22T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 74,
+            "url": null,
+            "title": "Everyone Assembles: Okay, Bye-Cha",
+            "title_japanese": "みんな集合! せーのでバイチャ!!",
+            "title_romanji": "Minna Shuugou! See no de Baicha!! ",
+            "aired": "1999-09-22T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        }
+    ]
+}

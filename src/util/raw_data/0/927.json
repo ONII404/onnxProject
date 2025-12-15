@@ -1,0 +1,216 @@
+{
+    "id": 927,
+    "fetched_at": "Sun Dec 14 14:18:46 2025",
+    "metadata": {
+        "mal_id": 927,
+        "url": "https://myanimelist.net/anime/927/Transformers_Superlink",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1520/146389.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1520/146389t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1520/146389l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1520/146389.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1520/146389t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1520/146389l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Transformers Superlink"
+            },
+            {
+                "type": "Japanese",
+                "title": "トランスフォーマー スーパーリンク"
+            },
+            {
+                "type": "English",
+                "title": "Transformers Energon"
+            },
+            {
+                "type": "French",
+                "title": "Transformers Energon : La Bataille de L'Energon"
+            }
+        ],
+        "title": "Transformers Superlink",
+        "title_english": "Transformers Energon",
+        "title_japanese": "トランスフォーマー スーパーリンク",
+        "title_synonyms": [],
+        "type": "TV",
+        "source": "Other",
+        "episodes": 51,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "2004-01-09T00:00:00+00:00",
+            "to": "2004-12-24T00:00:00+00:00",
+            "prop": {
+                "from": {
+                    "day": 9,
+                    "month": 1,
+                    "year": 2004
+                },
+                "to": {
+                    "day": 24,
+                    "month": 12,
+                    "year": 2004
+                }
+            },
+            "string": "Jan 9, 2004 to Dec 24, 2004"
+        },
+        "duration": "24 min per ep",
+        "rating": "PG-13 - Teens 13 or older",
+        "score": 6.11,
+        "scored_by": 3154,
+        "rank": 9652,
+        "popularity": 8405,
+        "members": 6533,
+        "favorites": 16,
+        "synopsis": "It has been 10 years since the fateful battle with Unicron. Many of the Decepticons who fought in the battle against Unicron have joined forces with the Autobos to mine for Energon, an alternate energy source. But a new source of evil has a risen, Alpha Q who plans to steal the Energon from the Autobots with the help of Scorponok and the Terrorcons. This new evil is trying to revive Megatron and Unicron in order to rekindle the old flames of war. \n\n(Source: ANN)",
+        "background": "",
+        "season": "winter",
+        "year": 2004,
+        "broadcast": {
+            "day": "Fridays",
+            "time": "18:00",
+            "timezone": "Asia/Tokyo",
+            "string": "Fridays at 18:00 (JST)"
+        },
+        "producers": [],
+        "licensors": [
+            {
+                "mal_id": 465,
+                "type": "anime",
+                "name": "Hasbro",
+                "url": "https://myanimelist.net/anime/producer/465/Hasbro"
+            }
+        ],
+        "studios": [
+            {
+                "mal_id": 60,
+                "type": "anime",
+                "name": "Actas",
+                "url": "https://myanimelist.net/anime/producer/60/Actas"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 2,
+                "type": "anime",
+                "name": "Adventure",
+                "url": "https://myanimelist.net/anime/genre/2/Adventure"
+            },
+            {
+                "mal_id": 24,
+                "type": "anime",
+                "name": "Sci-Fi",
+                "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [
+            {
+                "mal_id": 18,
+                "type": "anime",
+                "name": "Mecha",
+                "url": "https://myanimelist.net/anime/genre/18/Mecha"
+            },
+            {
+                "mal_id": 29,
+                "type": "anime",
+                "name": "Space",
+                "url": "https://myanimelist.net/anime/genre/29/Space"
+            }
+        ],
+        "demographics": [],
+        "relations": [
+            {
+                "relation": "Prequel",
+                "entry": [
+                    {
+                        "mal_id": 1675,
+                        "type": "anime",
+                        "name": "Chou Robot Seimeitai Transformers Micron Densetsu",
+                        "url": "https://myanimelist.net/anime/1675/Chou_Robot_Seimeitai_Transformers_Micron_Densetsu"
+                    }
+                ]
+            },
+            {
+                "relation": "Sequel",
+                "entry": [
+                    {
+                        "mal_id": 928,
+                        "type": "anime",
+                        "name": "Transformers Galaxy Force",
+                        "url": "https://myanimelist.net/anime/928/Transformers_Galaxy_Force"
+                    }
+                ]
+            },
+            {
+                "relation": "Side Story",
+                "entry": [
+                    {
+                        "mal_id": 9528,
+                        "type": "anime",
+                        "name": "Transformers Superlink Special",
+                        "url": "https://myanimelist.net/anime/9528/Transformers_Superlink_Special"
+                    }
+                ]
+            },
+            {
+                "relation": "Alternative Version",
+                "entry": [
+                    {
+                        "mal_id": 928,
+                        "type": "anime",
+                        "name": "Transformers Galaxy Force",
+                        "url": "https://myanimelist.net/anime/928/Transformers_Galaxy_Force"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [
+                "\"Taiyou no Transform\" by Kitadani Hiroshi"
+            ],
+            "endings": [
+                "\"Calling you\" by Takayoshi Tanimoto"
+            ]
+        },
+        "external": [
+            {
+                "name": "Official Site",
+                "url": "http://www.tv-tokyo.co.jp/anime/transformer_s/"
+            },
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=1342"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=3243"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "http://en.wikipedia.org/wiki/Transformers:_Energon"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": []
+}

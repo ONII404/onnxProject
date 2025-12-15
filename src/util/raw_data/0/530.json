@@ -1,0 +1,804 @@
+{
+    "id": 530,
+    "fetched_at": "Sun Dec 14 13:46:49 2025",
+    "metadata": {
+        "mal_id": 530,
+        "url": "https://myanimelist.net/anime/530/Bishoujo_Senshi_Sailor_Moon",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1440/92258.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1440/92258t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1440/92258l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1440/92258.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1440/92258t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1440/92258l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": "https://www.youtube-nocookie.com/embed/UL_F6L1tSAM?enablejsapi=1&wmode=opaque&autoplay=1",
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Bishoujo Senshi Sailor Moon"
+            },
+            {
+                "type": "Synonym",
+                "title": "Pretty Soldier Sailor Moon"
+            },
+            {
+                "type": "Japanese",
+                "title": "美少女戦士セーラームーン"
+            },
+            {
+                "type": "English",
+                "title": "Sailor Moon"
+            },
+            {
+                "type": "German",
+                "title": "Sailor Moon"
+            },
+            {
+                "type": "Spanish",
+                "title": "Sailor Moon"
+            },
+            {
+                "type": "French",
+                "title": "Sailor Moon"
+            }
+        ],
+        "title": "Bishoujo Senshi Sailor Moon",
+        "title_english": "Sailor Moon",
+        "title_japanese": "美少女戦士セーラームーン",
+        "title_synonyms": [
+            "Pretty Soldier Sailor Moon"
+        ],
+        "type": "TV",
+        "source": "Manga",
+        "episodes": 46,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "1992-03-07T00:00:00+00:00",
+            "to": "1993-02-27T00:00:00+00:00",
+            "prop": {
+                "from": {
+                    "day": 7,
+                    "month": 3,
+                    "year": 1992
+                },
+                "to": {
+                    "day": 27,
+                    "month": 2,
+                    "year": 1993
+                }
+            },
+            "string": "Mar 7, 1992 to Feb 27, 1993"
+        },
+        "duration": "24 min per ep",
+        "rating": "PG-13 - Teens 13 or older",
+        "score": 7.75,
+        "scored_by": 199657,
+        "rank": 1219,
+        "popularity": 643,
+        "members": 408672,
+        "favorites": 10961,
+        "synopsis": "Usagi Tsukino is an average student and crybaby klutz who constantly scores low on her tests. Unexpectedly, her humdrum life is turned upside down when she saves a cat with a crescent moon on its head from danger. The cat, named Luna, later reveals that their meeting was not an accident: Usagi is destined to become Sailor Moon, a planetary guardian with the power to protect the Earth. Given a special brooch that allows her to transform, she must use her new powers to save the city from evil energy-stealing monsters sent by the malevolent Queen Beryl of the Dark Kingdom.\n\nBut getting accustomed to her powers and fighting villains are not the only things she has to worry about. She must find the lost princess of the Moon Kingdom, the other Sailor Guardians, and the Legendary Silver Crystal in order to save the planet from destruction.\n\n[Written by MAL Rewrite]",
+        "background": "The series won the 1992 Animage's Anime Grand Prix Award.",
+        "season": "spring",
+        "year": 1992,
+        "broadcast": {
+            "day": "Saturdays",
+            "time": "19:00",
+            "timezone": "Asia/Tokyo",
+            "string": "Saturdays at 19:00 (JST)"
+        },
+        "producers": [
+            {
+                "mal_id": 55,
+                "type": "anime",
+                "name": "TV Asahi",
+                "url": "https://myanimelist.net/anime/producer/55/TV_Asahi"
+            },
+            {
+                "mal_id": 2292,
+                "type": "anime",
+                "name": "Toei Advertising",
+                "url": "https://myanimelist.net/anime/producer/2292/Toei_Advertising"
+            }
+        ],
+        "licensors": [
+            {
+                "mal_id": 97,
+                "type": "anime",
+                "name": "ADV Films",
+                "url": "https://myanimelist.net/anime/producer/97/ADV_Films"
+            },
+            {
+                "mal_id": 119,
+                "type": "anime",
+                "name": "VIZ Media",
+                "url": "https://myanimelist.net/anime/producer/119/VIZ_Media"
+            },
+            {
+                "mal_id": 269,
+                "type": "anime",
+                "name": "DiC Entertainment",
+                "url": "https://myanimelist.net/anime/producer/269/DiC_Entertainment"
+            }
+        ],
+        "studios": [
+            {
+                "mal_id": 18,
+                "type": "anime",
+                "name": "Toei Animation",
+                "url": "https://myanimelist.net/anime/producer/18/Toei_Animation"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 22,
+                "type": "anime",
+                "name": "Romance",
+                "url": "https://myanimelist.net/anime/genre/22/Romance"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [
+            {
+                "mal_id": 66,
+                "type": "anime",
+                "name": "Mahou Shoujo",
+                "url": "https://myanimelist.net/anime/genre/66/Mahou_Shoujo"
+            }
+        ],
+        "demographics": [
+            {
+                "mal_id": 25,
+                "type": "anime",
+                "name": "Shoujo",
+                "url": "https://myanimelist.net/anime/genre/25/Shoujo"
+            }
+        ],
+        "relations": [
+            {
+                "relation": "Sequel",
+                "entry": [
+                    {
+                        "mal_id": 740,
+                        "type": "anime",
+                        "name": "Bishoujo Senshi Sailor Moon R",
+                        "url": "https://myanimelist.net/anime/740/Bishoujo_Senshi_Sailor_Moon_R"
+                    }
+                ]
+            },
+            {
+                "relation": "Adaptation",
+                "entry": [
+                    {
+                        "mal_id": 92,
+                        "type": "manga",
+                        "name": "Bishoujo Senshi Sailor Moon",
+                        "url": "https://myanimelist.net/manga/92/Bishoujo_Senshi_Sailor_Moon"
+                    }
+                ]
+            },
+            {
+                "relation": "Summary",
+                "entry": [
+                    {
+                        "mal_id": 8756,
+                        "type": "anime",
+                        "name": "Bishoujo Senshi Sailor Moon Memorial",
+                        "url": "https://myanimelist.net/anime/8756/Bishoujo_Senshi_Sailor_Moon_Memorial"
+                    }
+                ]
+            },
+            {
+                "relation": "Alternative Version",
+                "entry": [
+                    {
+                        "mal_id": 14751,
+                        "type": "anime",
+                        "name": "Bishoujo Senshi Sailor Moon Crystal",
+                        "url": "https://myanimelist.net/anime/14751/Bishoujo_Senshi_Sailor_Moon_Crystal"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [
+                "\"Moonlight Densetsu\" by DALI"
+            ],
+            "endings": [
+                "1: \"Heart Moving\" by Misae Takamatsu (eps 1-26)",
+                "2: \"Princess Moon\" by Ushio Hashimoto (eps 27-46)"
+            ]
+        },
+        "external": [
+            {
+                "name": "Official Site",
+                "url": "http://www.toei-anim.co.jp/lineup/tv/sailor_moon/"
+            },
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=235"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=363"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Sailor_Moon_(season_1)"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": [
+        {
+            "mal_id": 1,
+            "url": null,
+            "title": "The Crybaby: Usagi's Beautiful Transformation",
+            "title_japanese": "泣き虫うさぎの華麗なる変身",
+            "title_romanji": "Nakimushi Usagi no Karei Naru Henshin ",
+            "aired": "1992-03-07T00:00:00+00:00",
+            "score": 4.28,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=132833"
+        },
+        {
+            "mal_id": 2,
+            "url": null,
+            "title": "Punishment Awaits! The House of Fortune Is the Monster Mansion",
+            "title_japanese": "おしおきよ！占いハウスは妖魔の館",
+            "title_romanji": "Oshioki yo! Uranai House wa Youma no Yakata ",
+            "aired": "1992-03-14T00:00:00+00:00",
+            "score": 4.27,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=141807"
+        },
+        {
+            "mal_id": 3,
+            "url": null,
+            "title": "The Mysterious Sleeping Sickness: Protect the Girls in Love",
+            "title_japanese": "謎のねむり病、守れ乙女の恋する心",
+            "title_romanji": "Nazo no Nemuribyou, Mamore Otome no Koisuru Kokoro ",
+            "aired": "1992-03-21T00:00:00+00:00",
+            "score": 4.29,
+            "filler": true,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=251937"
+        },
+        {
+            "mal_id": 4,
+            "url": null,
+            "title": "Learn How to Be Skinny From Usagi",
+            "title_japanese": "うさぎが教えます！スリムになる法",
+            "title_romanji": "Usagi ga Oshiemasu! Surimu ni Naruhou ",
+            "aired": "1992-03-28T00:00:00+00:00",
+            "score": 3.77,
+            "filler": true,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=251941"
+        },
+        {
+            "mal_id": 5,
+            "url": null,
+            "title": "Scent of a Monster! Chanela Will Steal Your Love",
+            "title_japanese": "妖魔の香り！シャネーラは愛を盗む",
+            "title_romanji": "Youma no Kaori! Chanela wa Ai wo Nusume ",
+            "aired": "1992-04-11T00:00:00+00:00",
+            "score": 4.19,
+            "filler": true,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=253572"
+        },
+        {
+            "mal_id": 6,
+            "url": null,
+            "title": "Protect the Melody of Love: Usagi Plays Cupid",
+            "title_japanese": "守れ恋の曲！うさぎはキューピッド",
+            "title_romanji": "Mamore Koi no Melody! Usagi wa Cupid ",
+            "aired": "1992-04-18T00:00:00+00:00",
+            "score": 4.5,
+            "filler": true,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=253579"
+        },
+        {
+            "mal_id": 7,
+            "url": null,
+            "title": "Usagi Learns Her Lesson: Becoming a Star Is Hard Work",
+            "title_japanese": "うさぎ反省！スターの道はきびしい",
+            "title_romanji": "Usagi Hansei! Star no Michi wa Kibishii ",
+            "aired": "1992-04-25T00:00:00+00:00",
+            "score": 4.13,
+            "filler": true,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=253583"
+        },
+        {
+            "mal_id": 8,
+            "url": null,
+            "title": "The Girl Genius Is a Monster: The Brainwashing Cram School of Horror",
+            "title_japanese": "天才少女は妖魔なの？恐怖の洗脳塾",
+            "title_romanji": "Tensai Shojo wa Youma na no? Kyoufu no Sennoujuku ",
+            "aired": "1992-05-02T00:00:00+00:00",
+            "score": 4.52,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=253585"
+        },
+        {
+            "mal_id": 9,
+            "url": null,
+            "title": "Usagi's Disaster: Beware of the Clock of Confusion",
+            "title_japanese": "うさぎの災難！あわて時計にご用心",
+            "title_romanji": "Usagi no Sainan! Awate Tokei ni Goyoujin ",
+            "aired": "1992-05-09T00:00:00+00:00",
+            "score": 4.19,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=253593"
+        },
+        {
+            "mal_id": 10,
+            "url": null,
+            "title": "The Cursed Bus: Enter Mars, the Guardian of Fire",
+            "title_japanese": "呪われたバス！炎の戦士マーズ登場",
+            "title_romanji": "Norowareta Bus! Honou no Senshi Mars Toujou ",
+            "aired": "1992-05-16T00:00:00+00:00",
+            "score": 4.44,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=253599"
+        },
+        {
+            "mal_id": 11,
+            "url": null,
+            "title": "Usagi vs. Rei: Nightmare in Dream Land",
+            "title_japanese": "うさぎとレイ対決？夢ランドの悪夢",
+            "title_romanji": "Usagi to Rei Taiketsu? Yume Land no Akumu ",
+            "aired": "1992-05-23T00:00:00+00:00",
+            "score": 4.48,
+            "filler": true,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=253602"
+        },
+        {
+            "mal_id": 12,
+            "url": null,
+            "title": "I Want a Boyfriend: The Luxury Cruise Ship Is a Trap",
+            "title_japanese": "私だって彼が欲しい！豪華船のワナ",
+            "title_romanji": "Watashi datte Kare ga Hoshii! Goukasen no Wana ",
+            "aired": "1992-05-30T00:00:00+00:00",
+            "score": 4.18,
+            "filler": true,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=253610"
+        },
+        {
+            "mal_id": 13,
+            "url": null,
+            "title": "Girls Unite: The End of Jadeite",
+            "title_japanese": "女の子は団結よ！ジェダイトの最期",
+            "title_romanji": "Onna no ko wa Danketsu yo! Jadeite no Saigo ",
+            "aired": "1992-06-06T00:00:00+00:00",
+            "score": 4.25,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=253612"
+        },
+        {
+            "mal_id": 14,
+            "url": null,
+            "title": "A New Enemy Appears: Nephrite's Evil Crest",
+            "title_japanese": "新たなる強敵、ネフライト魔の紋章",
+            "title_romanji": "Arata Naru Kyouteki, Nephrite Ma no Monshou ",
+            "aired": "1992-06-13T00:00:00+00:00",
+            "score": 4.25,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=253619"
+        },
+        {
+            "mal_id": 15,
+            "url": null,
+            "title": "Usagi's Panic: Rei's First Date",
+            "title_japanese": "うさぎアセる！レイちゃん初デート",
+            "title_romanji": "Usagi Aseru! Rei-chan Hatsu Date ",
+            "aired": "1992-06-20T00:00:00+00:00",
+            "score": 4.41,
+            "filler": true,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=253625"
+        },
+        {
+            "mal_id": 16,
+            "url": null,
+            "title": "A Girl's Dream: Usagi Becomes a Bride",
+            "title_japanese": "純白ドレスの夢！うさぎ花嫁になる",
+            "title_romanji": "Junpaku Dress no Yume! Usagi Hanayome ni Naru ",
+            "aired": "1992-06-27T00:00:00+00:00",
+            "score": 4.19,
+            "filler": true,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=253627"
+        },
+        {
+            "mal_id": 17,
+            "url": null,
+            "title": "Usagi's a Model: The Flash of the Monster Camera",
+            "title_japanese": "モデルはうさぎ？妖魔カメラの熱写",
+            "title_romanji": "Model wa Usagi? Youma Camera no Nessha ",
+            "aired": "1992-07-04T00:00:00+00:00",
+            "score": 4.26,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=253635"
+        },
+        {
+            "mal_id": 18,
+            "url": null,
+            "title": "Shingo's Love: The Grieving Doll",
+            "title_japanese": "進悟の純情！哀しみのフランス人形",
+            "title_romanji": "Shingo no Junjou! Kanashimi no Furansu Ningyou ",
+            "aired": "1992-07-11T00:00:00+00:00",
+            "score": 4.31,
+            "filler": true,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=253636"
+        },
+        {
+            "mal_id": 19,
+            "url": null,
+            "title": "Usagi's Joy: A Love Letter From Tuxedo Mask",
+            "title_japanese": "うさぎ感激！タキシード仮面の恋文",
+            "title_romanji": "Usagi Kangeki! Tuxedo Kamen no Love Letter ",
+            "aired": "1992-07-25T00:00:00+00:00",
+            "score": 4.32,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=253644"
+        },
+        {
+            "mal_id": 20,
+            "url": null,
+            "title": "The Summer, the Beach, Youth and Ghosts",
+            "title_japanese": "夏よ海よ青春よ！おまけに幽霊もよ！",
+            "title_romanji": "Natsu yo Umi yo Seishun yo! Omake ni Yuurei mo yo! ",
+            "aired": "1992-08-01T00:00:00+00:00",
+            "score": 4.22,
+            "filler": true,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=253647"
+        },
+        {
+            "mal_id": 21,
+            "url": null,
+            "title": "Protect the Children's Dreams: Friendship Through Anime",
+            "title_japanese": "子供達の夢守れ！アニメに結ぶ友情",
+            "title_romanji": "Kodomo-tachi no Yume Mamore! Anime ni Musubu Yuujou ",
+            "aired": "1992-08-08T00:00:00+00:00",
+            "score": 4.36,
+            "filler": true,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=253657"
+        },
+        {
+            "mal_id": 22,
+            "url": null,
+            "title": "Romance Under the Moon: Usagi's First Kiss",
+            "title_japanese": "月下のロマンス！うさぎの初キッス",
+            "title_romanji": "Gekka no Romance! Usagi no Hatsu Kiss ",
+            "aired": "1992-08-15T00:00:00+00:00",
+            "score": 4.34,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=253661"
+        },
+        {
+            "mal_id": 23,
+            "url": null,
+            "title": "Wish Upon a Star: Naru's First Love",
+            "title_japanese": "流れ星に願いを！なるちゃんの純愛",
+            "title_romanji": "Nagareboshi ni Negai wo! Naru-chan no Junai ",
+            "aired": "1992-08-22T00:00:00+00:00",
+            "score": 4.33,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=253669"
+        },
+        {
+            "mal_id": 24,
+            "url": null,
+            "title": "Naru's Tears: Nephrite Dies for Love",
+            "title_japanese": "なるちゃん号泣！ネフライト愛の死",
+            "title_romanji": "Naru-chan Goukyuu! Nephrite Ai no Shi ",
+            "aired": "1992-08-29T00:00:00+00:00",
+            "score": 4.65,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=253672"
+        },
+        {
+            "mal_id": 25,
+            "url": null,
+            "title": "Jupiter, the Powerful Girl in Love",
+            "title_japanese": "恋する怪力少女、ジュピターちゃん",
+            "title_romanji": "Koisuru Kairiki Shoujo, Jupiter-chan ",
+            "aired": "1992-09-05T00:00:00+00:00",
+            "score": 4.56,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=253676"
+        },
+        {
+            "mal_id": 26,
+            "url": null,
+            "title": "Restore Naru's Smile: Usagi's Friendship",
+            "title_japanese": "なるちゃんに笑顔を！うさぎの友情",
+            "title_romanji": "Naru-chan ni Egao wo! Usagi no Yuujou ",
+            "aired": "1992-09-12T00:00:00+00:00",
+            "score": 4.43,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=254036"
+        },
+        {
+            "mal_id": 27,
+            "url": null,
+            "title": "Crushing on Ami: The Boy Who Can See The Future",
+            "title_japanese": "亜美ちゃんへの恋！？未来予知の少年",
+            "title_romanji": "Ami-chan e no Koi!? Mirai Yochi no Shounen ",
+            "aired": "1992-10-10T00:00:00+00:00",
+            "score": 4.36,
+            "filler": true,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=254039"
+        },
+        {
+            "mal_id": 28,
+            "url": null,
+            "title": "The Painting of Love: Usagi and Mamoru Get Closer",
+            "title_japanese": "恋のイラスト、うさぎと衛が接近？",
+            "title_romanji": "Koi no Irasuto, Usagi to Mamoru ga Sekkin? ",
+            "aired": "1992-10-17T00:00:00+00:00",
+            "score": 4.42,
+            "filler": true,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=254042"
+        },
+        {
+            "mal_id": 29,
+            "url": null,
+            "title": "Total Chaos: The Messy Love Rectangle",
+            "title_japanese": "大混戦！グチャグチャ恋の四角関係",
+            "title_romanji": "Daikonsen! Guchagucha Koi no Shikaku Kankei ",
+            "aired": "1992-10-24T00:00:00+00:00",
+            "score": 4.33,
+            "filler": true,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=254047"
+        },
+        {
+            "mal_id": 30,
+            "url": null,
+            "title": "Grandpa Loses Control: Rei in Danger",
+            "title_japanese": "お爺ちゃん乱心、レイちゃんの危機",
+            "title_romanji": "Ojii-chan Ranshin, Rei-chan no Kiki ",
+            "aired": "1992-10-31T00:00:00+00:00",
+            "score": 4.23,
+            "filler": true,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=254054"
+        },
+        {
+            "mal_id": 31,
+            "url": null,
+            "title": "Love and Chased: Luna's Worst Day Ever",
+            "title_japanese": "恋されて追われて！ルナの最悪の日",
+            "title_romanji": "Koisarete Owarete! Luna no Saiaku no Hi ",
+            "aired": "1992-11-07T00:00:00+00:00",
+            "score": 4.53,
+            "filler": true,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=78832"
+        },
+        {
+            "mal_id": 32,
+            "url": null,
+            "title": "Umino's Resolve: I'll Protect Naru",
+            "title_japanese": "海野の決心！なるちゃんは僕が守る",
+            "title_romanji": "Umino no Kesshin! Naru-chan wa Boku ga Mamoru ",
+            "aired": "1992-11-14T00:00:00+00:00",
+            "score": 4.29,
+            "filler": true,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=254068"
+        },
+        {
+            "mal_id": 33,
+            "url": null,
+            "title": "Enter Venus, the Last Sailor Guardian",
+            "title_japanese": "最後のセーラー戦士、ヴィーナス登場",
+            "title_romanji": "Saigo no Sailor Senshi, Venus Toujou ",
+            "aired": "1992-11-21T00:00:00+00:00",
+            "score": 4.53,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=254074"
+        },
+        {
+            "mal_id": 34,
+            "url": null,
+            "title": "The Shining Silver Crystal: The Moon Princess Appears",
+            "title_japanese": "光輝く銀水晶！月のプリンセス登場",
+            "title_romanji": "Hikari Kagayaku Ginzuishou! Tsuki no Princess Toujou ",
+            "aired": "1992-11-28T00:00:00+00:00",
+            "score": 4.71,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=141805"
+        },
+        {
+            "mal_id": 35,
+            "url": null,
+            "title": "Returning Memories: Usagi and Mamoru's Past",
+            "title_japanese": "よみがえる記憶！うさぎと衛の過去",
+            "title_romanji": "Yomigaeru Kioku! Usagi to Mamoru no Kako ",
+            "aired": "1992-12-05T00:00:00+00:00",
+            "score": 4.54,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=254079"
+        },
+        {
+            "mal_id": 36,
+            "url": null,
+            "title": "Usagi's Confusion: Is Tuxedo Mask Evil?",
+            "title_japanese": "うさぎ混乱！タキシード仮面は悪？",
+            "title_romanji": "Usagi Konran! Tuxedo Kamen wa Aku? ",
+            "aired": "1992-12-12T00:00:00+00:00",
+            "score": 4.25,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=254083"
+        },
+        {
+            "mal_id": 37,
+            "url": null,
+            "title": "Let's Become a Princess: Usagi's Bizarre Training",
+            "title_japanese": "めざせプリンセス？うさぎの珍特訓",
+            "title_romanji": "Mezase Princess? Usagi no Chin Tokkun ",
+            "aired": "1992-12-19T00:00:00+00:00",
+            "score": 4.35,
+            "filler": true,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=254085"
+        },
+        {
+            "mal_id": 38,
+            "url": null,
+            "title": "The Snow, the Mountains, Friendship and Monsters",
+            "title_japanese": "雪よ山よ友情よ！やっぱり妖魔もよ",
+            "title_romanji": "Yuki yo Yama yo Yuujou yo! Yappari Youma mo yo! ",
+            "aired": "1992-12-26T00:00:00+00:00",
+            "score": 4.29,
+            "filler": true,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=254089"
+        },
+        {
+            "mal_id": 39,
+            "url": null,
+            "title": "Paired with a Monster: Mako, the Ice Skating Queen",
+            "title_japanese": "妖魔とペア！？氷上の女王まこちゃん",
+            "title_romanji": "Youma to Pair!? Hyoujou no Joou Mako-chan ",
+            "aired": "1993-01-09T00:00:00+00:00",
+            "score": 4.31,
+            "filler": true,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=254093"
+        },
+        {
+            "mal_id": 40,
+            "url": null,
+            "title": "The Legendary Lake Yokai: The Bond of Usagi's Family",
+            "title_japanese": "湖の伝説妖怪！うさぎ家族のきずな",
+            "title_romanji": "Mizuumi no Densetsu Youkai! Usagi Kazoku no Kizuna ",
+            "aired": "1993-01-16T00:00:00+00:00",
+            "score": 4.47,
+            "filler": true,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=254095"
+        },
+        {
+            "mal_id": 41,
+            "url": null,
+            "title": "I Won't Run Away from Love Anymore: Ami vs. Mamoru",
+            "title_japanese": "もう恋から逃げない！亜美と衛対決",
+            "title_romanji": "Mou Koi kara Nigenai! Ami to Mamoru Taiketsu ",
+            "aired": "1993-01-23T00:00:00+00:00",
+            "score": 4.46,
+            "filler": true,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=254097"
+        },
+        {
+            "mal_id": 42,
+            "url": null,
+            "title": "Sailor Venus' Past: Minako's Tragic Love",
+            "title_japanese": "Ｓヴィーナスの過去、美奈子の悲劇",
+            "title_romanji": "Sailor Venus no Kako, Minako no Higeki ",
+            "aired": "1993-01-30T00:00:00+00:00",
+            "score": 4.33,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=147692"
+        },
+        {
+            "mal_id": 43,
+            "url": null,
+            "title": "Usagi Abandoned: The Falling-Out of the Sailor Guardians",
+            "title_japanese": "うさぎが孤立？Ｓ戦士達の大ゲンカ",
+            "title_romanji": "Usagi ga Koritsu? Sailor Senshi-tachi no Oogenka ",
+            "aired": "1993-02-06T00:00:00+00:00",
+            "score": 4.17,
+            "filler": true,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=254103"
+        },
+        {
+            "mal_id": 44,
+            "url": null,
+            "title": "Usagi's Awakening: A Message from the Distant Past",
+            "title_japanese": "うさぎの覚醒！超過去のメッセージ",
+            "title_romanji": "Usagi no Kakusei! Choukako no Message ",
+            "aired": "1993-02-13T00:00:00+00:00",
+            "score": 4.51,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=254104"
+        },
+        {
+            "mal_id": 45,
+            "url": null,
+            "title": "Death of the Sailor Guardians: The Tragic Final Battle",
+            "title_japanese": "セーラー戦士死す！悲壮なる最終戦",
+            "title_romanji": "Sailor Senshi Shisu! Hisou Naru Saishuusen ",
+            "aired": "1993-02-20T00:00:00+00:00",
+            "score": 4.68,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=254107"
+        },
+        {
+            "mal_id": 46,
+            "url": null,
+            "title": "Usagi's Eternal Wish: A Brand New Life",
+            "title_japanese": "うさぎの想いは永遠に！新しき転生",
+            "title_romanji": "Usagi no Omoi wa Towa ni! Atarashiki Tensei ",
+            "aired": "1993-02-27T00:00:00+00:00",
+            "score": 4.57,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=254110"
+        }
+    ]
+}

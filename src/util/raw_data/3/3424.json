@@ -1,0 +1,761 @@
+{
+    "id": 3424,
+    "fetched_at": "Sun Dec 14 19:34:56 2025",
+    "metadata": {
+        "mal_id": 3424,
+        "url": "https://myanimelist.net/anime/3424/Porphy_no_Nagai_Tabi",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/11/5585.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/11/5585t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/11/5585l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/11/5585.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/11/5585t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/11/5585l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Porphy no Nagai Tabi"
+            },
+            {
+                "type": "Synonym",
+                "title": "Porufi no Nagai Tabi"
+            },
+            {
+                "type": "Synonym",
+                "title": "The Long Journey of Porfyi"
+            },
+            {
+                "type": "Synonym",
+                "title": "Porfy's Long Journey"
+            },
+            {
+                "type": "Japanese",
+                "title": "ポルフィの長い旅"
+            },
+            {
+                "type": "English",
+                "title": "The Orphans of Simitra"
+            }
+        ],
+        "title": "Porphy no Nagai Tabi",
+        "title_english": "The Orphans of Simitra",
+        "title_japanese": "ポルフィの長い旅",
+        "title_synonyms": [
+            "Porufi no Nagai Tabi",
+            "The Long Journey of Porfyi",
+            "Porfy's Long Journey"
+        ],
+        "type": "TV",
+        "source": "Novel",
+        "episodes": 52,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "2008-01-06T00:00:00+00:00",
+            "to": "2008-12-28T00:00:00+00:00",
+            "prop": {
+                "from": {
+                    "day": 6,
+                    "month": 1,
+                    "year": 2008
+                },
+                "to": {
+                    "day": 28,
+                    "month": 12,
+                    "year": 2008
+                }
+            },
+            "string": "Jan 6, 2008 to Dec 28, 2008"
+        },
+        "duration": "24 min per ep",
+        "rating": "G - All Ages",
+        "score": 6.8,
+        "scored_by": 656,
+        "rank": 5548,
+        "popularity": 10274,
+        "members": 3712,
+        "favorites": 6,
+        "synopsis": "Porfy, his younger sister Mina, and their parents live a humble but happy life in the Grecian countryside. They've just started running a gas station, much to Porphy's joy, and it seems like only good things are in store for their future. However, a huge earthquake changes all that, leaving Porfy without a home or a family -- sans Mina, who seems to have disappeared in the commotion. Now, Porfy is determined to find his sister and be able to live together happily again.",
+        "background": "",
+        "season": "winter",
+        "year": 2008,
+        "broadcast": {
+            "day": "Sundays",
+            "time": "19:30",
+            "timezone": "Asia/Tokyo",
+            "string": "Sundays at 19:30 (JST)"
+        },
+        "producers": [],
+        "licensors": [],
+        "studios": [
+            {
+                "mal_id": 22,
+                "type": "anime",
+                "name": "Nippon Animation",
+                "url": "https://myanimelist.net/anime/producer/22/Nippon_Animation"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 8,
+                "type": "anime",
+                "name": "Drama",
+                "url": "https://myanimelist.net/anime/genre/8/Drama"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [
+            {
+                "mal_id": 13,
+                "type": "anime",
+                "name": "Historical",
+                "url": "https://myanimelist.net/anime/genre/13/Historical"
+            }
+        ],
+        "demographics": [],
+        "relations": [
+            {
+                "relation": "Summary",
+                "entry": [
+                    {
+                        "mal_id": 53637,
+                        "type": "anime",
+                        "name": "Porphy no Nagai Tabi Specials",
+                        "url": "https://myanimelist.net/anime/53637/Porphy_no_Nagai_Tabi_Specials"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [
+                "\"Porfy no Nagai Tabi (ポルフィの長い旅)\" by Ikuko"
+            ],
+            "endings": [
+                "\"Kimi e to Tsuzuku Michi (君へと続く道)\" by Da Capo"
+            ]
+        },
+        "external": [
+            {
+                "name": "Official Site",
+                "url": "http://www.nippon-animation.co.jp/new/hotinfo/0711porfy.htm"
+            },
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=5552"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=8954"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": [
+        {
+            "mal_id": 1,
+            "url": null,
+            "title": "The Letter From Papa",
+            "title_japanese": "父さんからの手紙",
+            "title_romanji": "Tou-san kara no Tegami ",
+            "aired": "2008-01-06T00:00:00+00:00",
+            "score": 3.86,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=10576"
+        },
+        {
+            "mal_id": 2,
+            "url": null,
+            "title": "A Friend Came to Visit",
+            "title_japanese": "友達がやってきた",
+            "title_romanji": "Tomodachi ga Yatte Kita ",
+            "aired": "2008-01-13T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=78639"
+        },
+        {
+            "mal_id": 3,
+            "url": null,
+            "title": "Picking up Papa",
+            "title_japanese": "父さんを迎えに",
+            "title_romanji": "Tou-san wo Mukae ni ",
+            "aired": "2008-01-20T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 4,
+            "url": null,
+            "title": "Mina's Birthday",
+            "title_japanese": "ミーナの誕生日",
+            "title_romanji": "Mina no Tanjoubi ",
+            "aired": "2008-01-27T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 5,
+            "url": null,
+            "title": "Our Station",
+            "title_japanese": "ぼくたちのステーション",
+            "title_romanji": "Bokutachi no Station ",
+            "aired": "2008-02-03T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 6,
+            "url": null,
+            "title": "The Girl Who Came From Italy",
+            "title_japanese": "イタリアから来た少女",
+            "title_romanji": "Italia kara Kita Shoujo ",
+            "aired": "2008-02-10T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1551107"
+        },
+        {
+            "mal_id": 7,
+            "url": null,
+            "title": "The Thing That Porphy Wants",
+            "title_japanese": "ポルフィの欲しいもの",
+            "title_romanji": "Porfy no Hoshii Mono ",
+            "aired": "2008-02-17T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2220344"
+        },
+        {
+            "mal_id": 8,
+            "url": null,
+            "title": "Late Night Operation",
+            "title_japanese": "真夜中の作戦",
+            "title_romanji": "Mayonaka no Sakusen ",
+            "aired": "2008-02-24T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 9,
+            "url": null,
+            "title": "A New World",
+            "title_japanese": "新しい世界",
+            "title_romanji": "Atarashii Sekai ",
+            "aired": "2008-03-02T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2220467"
+        },
+        {
+            "mal_id": 10,
+            "url": null,
+            "title": "A Summer Day",
+            "title_japanese": "夏の一日",
+            "title_romanji": "Natsu no Ichinichi ",
+            "aired": "2008-03-09T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 11,
+            "url": null,
+            "title": "Pump and Ice Cream",
+            "title_japanese": "ポンプとアイスクリー",
+            "title_romanji": "Porfy to Ice-cream ",
+            "aired": "2008-03-16T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 12,
+            "url": null,
+            "title": "The Fated Day",
+            "title_japanese": "運命の日",
+            "title_romanji": "Unmei no Hi ",
+            "aired": "2008-03-23T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 13,
+            "url": null,
+            "title": "Things Lost and Things Left Behind",
+            "title_japanese": "失ったもの残ったもの",
+            "title_romanji": "Ushinatta Mono Nokotta Mono ",
+            "aired": "2008-03-30T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1551568"
+        },
+        {
+            "mal_id": 14,
+            "url": null,
+            "title": "I'll Protect Mina",
+            "title_japanese": "ぼくはミーナを守る",
+            "title_romanji": "Boku wa Mina wo Mamoru ",
+            "aired": "2008-04-06T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 15,
+            "url": null,
+            "title": "Embracing the Memories",
+            "title_japanese": "思い出を抱きしめて",
+            "title_romanji": "Omoide wo Dakishimete ",
+            "aired": "2008-04-13T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 16,
+            "url": null,
+            "title": "Towards the Sea",
+            "title_japanese": "海の向こうへ",
+            "title_romanji": "Umi no Mukou e ",
+            "aired": "2008-04-20T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1551593"
+        },
+        {
+            "mal_id": 17,
+            "url": null,
+            "title": "The Pure White Departure",
+            "title_japanese": "真っ白な旅立",
+            "title_romanji": "Masshiro Na Tabidachi ",
+            "aired": "2008-04-27T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 18,
+            "url": null,
+            "title": "Farewell, Greece",
+            "title_japanese": "さよならギリシャ",
+            "title_romanji": "Sayonara Grecia ",
+            "aired": "2008-05-04T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 19,
+            "url": null,
+            "title": "At the Italian Docks",
+            "title_japanese": "イタリアの港で",
+            "title_romanji": "Italia no Minato de ",
+            "aired": "2008-05-11T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 20,
+            "url": null,
+            "title": "The City of Caverns",
+            "title_japanese": "洞窟の街",
+            "title_romanji": "Doukutsu no Machi ",
+            "aired": "2008-05-18T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1551617"
+        },
+        {
+            "mal_id": 21,
+            "url": null,
+            "title": "Dora's Farewell",
+            "title_japanese": "ドーラとの別れ",
+            "title_romanji": "Dora to no Wakare ",
+            "aired": "2008-05-25T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 22,
+            "url": null,
+            "title": "Continuing Down the Train Line",
+            "title_japanese": "線路はつづくよ",
+            "title_romanji": "Senro wa Tsuzuku yo ",
+            "aired": "2008-06-01T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 24,
+            "url": null,
+            "title": "The Place Where Smiles Come Back",
+            "title_japanese": "笑顔の帰る場所",
+            "title_romanji": "Egao no Kaeru Basho ",
+            "aired": "2008-06-15T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 25,
+            "url": null,
+            "title": "A Little Friendship in a Little City",
+            "title_japanese": "小さな街の小さな友情",
+            "title_romanji": "Chiisana Machi no Chiisana Yuujou ",
+            "aired": "2008-06-22T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 26,
+            "url": null,
+            "title": "If I Can Hear The Whistle",
+            "title_japanese": "汽笛がきこえたら",
+            "title_romanji": "Kiteki ga Kikoetara ",
+            "aired": "2008-06-29T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 27,
+            "url": null,
+            "title": "I Want You To Receive It",
+            "title_japanese": "あなたに届けたい",
+            "title_romanji": "Anata ni Todoketai ",
+            "aired": "2008-06-29T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 29,
+            "url": null,
+            "title": "The Letter",
+            "title_japanese": "手紙",
+            "title_romanji": "Tegami ",
+            "aired": "2008-07-20T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 31,
+            "url": null,
+            "title": "Somewhere In The City",
+            "title_japanese": "この街のどこかに",
+            "title_romanji": "Kono Machi no Dokoka ni ",
+            "aired": "2008-08-03T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 32,
+            "url": null,
+            "title": "Mina and Isabella",
+            "title_japanese": "ミーナとイザベラ",
+            "title_romanji": "Miina to Izabera ",
+            "aired": "2008-08-10T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 33,
+            "url": null,
+            "title": "Young Men Covered With Wounds",
+            "title_japanese": "傷だらけの少年たち",
+            "title_romanji": "Kizu Darake no Shounen-tachi ",
+            "aired": "2008-08-17T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=450213"
+        },
+        {
+            "mal_id": 34,
+            "url": null,
+            "title": "A Present To An Angel",
+            "title_japanese": "天使へのプレゼント",
+            "title_romanji": "Tenshi no Present ",
+            "aired": "2008-08-24T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 35,
+            "url": null,
+            "title": "The Believing Heart",
+            "title_japanese": "信じるこころ",
+            "title_romanji": "Shinjiru Kokoro ",
+            "aired": "2008-08-31T00:00:00+00:00",
+            "score": 3,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=452693"
+        },
+        {
+            "mal_id": 36,
+            "url": null,
+            "title": "The Mask Of Honesty",
+            "title_japanese": "仮面の素顔",
+            "title_romanji": "Kamen no Sugao ",
+            "aired": "2008-09-07T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1552159"
+        },
+        {
+            "mal_id": 37,
+            "url": null,
+            "title": "The Scenery That They See",
+            "title_japanese": "ふたりで見る景色",
+            "title_romanji": "Futari de Miru Keshiki ",
+            "aired": "2008-09-14T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2222801"
+        },
+        {
+            "mal_id": 38,
+            "url": null,
+            "title": "Scattering In The Wind",
+            "title_japanese": "風に散る",
+            "title_romanji": "Kaze ni Chiru ",
+            "aired": "2008-09-21T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1762372"
+        },
+        {
+            "mal_id": 39,
+            "url": null,
+            "title": "The Road That Leads To You",
+            "title_japanese": "君へと続く道",
+            "title_romanji": "Kimi e to Tsuzuku Michi ",
+            "aired": "2008-09-28T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 40,
+            "url": null,
+            "title": "Aiming For The Border",
+            "title_japanese": "国境を目指して",
+            "title_romanji": "Kokkyou wo Mezashite ",
+            "aired": "2008-10-05T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 41,
+            "url": null,
+            "title": "The Family in Southern France",
+            "title_japanese": "南フランスの家族",
+            "title_romanji": "Minami France no Kazoku ",
+            "aired": "2008-10-12T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1762289"
+        },
+        {
+            "mal_id": 42,
+            "url": null,
+            "title": "Love Taken Away",
+            "title_japanese": "奪われた愛",
+            "title_romanji": "Ubawareta Ai ",
+            "aired": "2008-10-19T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1552237"
+        },
+        {
+            "mal_id": 43,
+            "url": null,
+            "title": "Friends",
+            "title_japanese": "友よ",
+            "title_romanji": "Tomo Yo ",
+            "aired": "2008-10-26T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1552250"
+        },
+        {
+            "mal_id": 44,
+            "url": null,
+            "title": "Gaining Courage",
+            "title_japanese": "勇気をあげる",
+            "title_romanji": "Yuuki wo Ageru ",
+            "aired": "2008-07-02T00:00:00+00:00",
+            "score": 3,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1552264"
+        },
+        {
+            "mal_id": 45,
+            "url": null,
+            "title": "The Rose Blooming In The Alley",
+            "title_japanese": "路地裏に咲く薔薇",
+            "title_romanji": "Rojiura ni Saku Bara ",
+            "aired": "2008-11-10T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 46,
+            "url": null,
+            "title": "The Chance Meeting In Paris",
+            "title_japanese": "パリのめぐり逢い",
+            "title_romanji": "Paris no Meguriai ",
+            "aired": "2008-11-16T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 47,
+            "url": null,
+            "title": "The New Door",
+            "title_japanese": "新しい扉",
+            "title_romanji": "Atarashii Tobira ",
+            "aired": "2008-11-23T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 48,
+            "url": null,
+            "title": "The Fragment Of A Dream",
+            "title_japanese": "夢のかけら",
+            "title_romanji": "Yume no Kakera ",
+            "aired": "2008-11-30T00:00:00+00:00",
+            "score": 5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1762452"
+        },
+        {
+            "mal_id": 49,
+            "url": null,
+            "title": "Rendezvous",
+            "title_japanese": "ランデブー",
+            "title_romanji": "Rendezvous ",
+            "aired": "2008-12-07T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=2223711"
+        },
+        {
+            "mal_id": 50,
+            "url": null,
+            "title": "A Lie",
+            "title_japanese": "うそ",
+            "title_romanji": "Uso ",
+            "aired": "2008-12-14T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1664838"
+        },
+        {
+            "mal_id": 51,
+            "url": null,
+            "title": "The Wish",
+            "title_japanese": "願い",
+            "title_romanji": "Negai ",
+            "aired": "2008-12-21T00:00:00+00:00",
+            "score": null,
+            "filler": false,
+            "recap": false,
+            "forum_url": null
+        },
+        {
+            "mal_id": 52,
+            "url": null,
+            "title": "For This Moment",
+            "title_japanese": "この瞬間のために",
+            "title_romanji": "Kono Shunkan no Tame ni ",
+            "aired": "2008-12-28T00:00:00+00:00",
+            "score": 2,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1664862"
+        }
+    ]
+}

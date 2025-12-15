@@ -1,0 +1,357 @@
+{
+    "id": 1193,
+    "fetched_at": "Sun Dec 14 15:34:12 2025",
+    "metadata": {
+        "mal_id": 1193,
+        "url": "https://myanimelist.net/anime/1193/Happy_Seven__The_TV_Manga",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/12/5509.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/12/5509t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/12/5509l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/12/5509.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/12/5509t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/12/5509l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Happy Seven: The TV Manga"
+            },
+            {
+                "type": "Synonym",
+                "title": "Happy 7"
+            },
+            {
+                "type": "Japanese",
+                "title": "はっぴぃセブン ～ざ・テレビまんが～"
+            }
+        ],
+        "title": "Happy Seven: The TV Manga",
+        "title_english": null,
+        "title_japanese": "はっぴぃセブン ～ざ・テレビまんが～",
+        "title_synonyms": [
+            "Happy 7"
+        ],
+        "type": "TV",
+        "source": "Light novel",
+        "episodes": 13,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "2005-10-03T00:00:00+00:00",
+            "to": "2005-12-26T00:00:00+00:00",
+            "prop": {
+                "from": {
+                    "day": 3,
+                    "month": 10,
+                    "year": 2005
+                },
+                "to": {
+                    "day": 26,
+                    "month": 12,
+                    "year": 2005
+                }
+            },
+            "string": "Oct 3, 2005 to Dec 26, 2005"
+        },
+        "duration": "24 min per ep",
+        "rating": "PG - Children",
+        "score": 6.22,
+        "scored_by": 2283,
+        "rank": 9044,
+        "popularity": 8448,
+        "members": 6452,
+        "favorites": 7,
+        "synopsis": "Amano Sakogami is a girl who has an unnatural amount of bad luck. One day, she stumbles into the clubroom of the Better Fortune Research Organization, which consists of a boy and seven other girls who secretly use the power of the luck deities to fight against the Magatsugami, monsters who can affect a person's luck &amp; well-being. Amano soon becomes the club's manager, and joins the club in their fight against the Magatsugami and their controller, Kukitomoe.\n\n(Source: ANN)",
+        "background": "",
+        "season": "fall",
+        "year": 2005,
+        "broadcast": {
+            "day": null,
+            "time": null,
+            "timezone": null,
+            "string": "Unknown"
+        },
+        "producers": [
+            {
+                "mal_id": 63,
+                "type": "anime",
+                "name": "Trinet Entertainment",
+                "url": "https://myanimelist.net/anime/producer/63/Trinet_Entertainment"
+            },
+            {
+                "mal_id": 208,
+                "type": "anime",
+                "name": "Three Fat Samurai",
+                "url": "https://myanimelist.net/anime/producer/208/Three_Fat_Samurai"
+            }
+        ],
+        "licensors": [],
+        "studios": [
+            {
+                "mal_id": 101,
+                "type": "anime",
+                "name": "Studio Hibari",
+                "url": "https://myanimelist.net/anime/producer/101/Studio_Hibari"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 4,
+                "type": "anime",
+                "name": "Comedy",
+                "url": "https://myanimelist.net/anime/genre/4/Comedy"
+            },
+            {
+                "mal_id": 10,
+                "type": "anime",
+                "name": "Fantasy",
+                "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [
+            {
+                "mal_id": 23,
+                "type": "anime",
+                "name": "School",
+                "url": "https://myanimelist.net/anime/genre/23/School"
+            }
+        ],
+        "demographics": [],
+        "relations": [
+            {
+                "relation": "Adaptation",
+                "entry": [
+                    {
+                        "mal_id": 15983,
+                        "type": "manga",
+                        "name": "Gakuen Happy Seven",
+                        "url": "https://myanimelist.net/manga/15983/Gakuen_Happy_Seven"
+                    },
+                    {
+                        "mal_id": 96460,
+                        "type": "manga",
+                        "name": "Gakuen Happy Seven",
+                        "url": "https://myanimelist.net/manga/96460/Gakuen_Happy_Seven"
+                    }
+                ]
+            },
+            {
+                "relation": "Side Story",
+                "entry": [
+                    {
+                        "mal_id": 35297,
+                        "type": "anime",
+                        "name": "Happy Seven: The TV Manga - Chibi Chara Moshimo Gekijou",
+                        "url": "https://myanimelist.net/anime/35297/Happy_Seven__The_TV_Manga_-_Chibi_Chara_Moshimo_Gekijou"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [
+                "\"Akiramenaide\" by Little Non (eps 1-13)"
+            ],
+            "endings": [
+                "1: \"funny girl\" by YUKA (eps 1-8, 10-12)",
+                "2: \"Tomaranai Ame (止まらない雨)\" by Little Non (eps 9)",
+                "3: \"Akiramenaide\" by Little Non (eps 13)"
+            ]
+        },
+        "external": [
+            {
+                "name": "Official Site",
+                "url": "http://trinet.cata.jp/happy-7/"
+            },
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=3301"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=5870"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "http://en.wikipedia.org/wiki/Happy_Seven"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": [
+        {
+            "mal_id": 1,
+            "url": null,
+            "title": "Seven Lucky Girls",
+            "title_japanese": "七人の福娘",
+            "title_romanji": "Shichinin no Fukumusume ",
+            "aired": "2005-10-03T00:00:00+00:00",
+            "score": 4.4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=477005"
+        },
+        {
+            "mal_id": 2,
+            "url": null,
+            "title": "Exorcism Battle",
+            "title_japanese": "厄ばらい大決戦",
+            "title_romanji": "Yaku Barai Daikessen ",
+            "aired": "2005-10-10T00:00:00+00:00",
+            "score": 4.75,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1613688"
+        },
+        {
+            "mal_id": 3,
+            "url": null,
+            "title": "Laughter Brings Prosperity",
+            "title_japanese": "笑う門には福来る",
+            "title_romanji": "Warau Kado ni wa Fuku Kitaru ",
+            "aired": "2005-10-17T00:00:00+00:00",
+            "score": 4.75,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1616120"
+        },
+        {
+            "mal_id": 4,
+            "url": null,
+            "title": "The Excitement of Guys, Girls & Plastic Models",
+            "title_japanese": "男どき女どきプラモどき",
+            "title_romanji": "Otoko Doki Onna Doki PlaMo Doki ",
+            "aired": "2005-10-24T00:00:00+00:00",
+            "score": 4.75,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1616131"
+        },
+        {
+            "mal_id": 5,
+            "url": null,
+            "title": "Where There's Hardship, There's Good Fortune",
+            "title_japanese": "苦あれば福あり",
+            "title_romanji": "Ku Areba Fuku Ari ",
+            "aired": "2005-10-31T00:00:00+00:00",
+            "score": 4.5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1616195"
+        },
+        {
+            "mal_id": 6,
+            "url": null,
+            "title": "The Third Twin",
+            "title_japanese": "三人目の双子",
+            "title_romanji": "Sanninme no Futago ",
+            "aired": "2005-11-07T00:00:00+00:00",
+            "score": 4.75,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1616759"
+        },
+        {
+            "mal_id": 7,
+            "url": null,
+            "title": "After Disaster Comes Awakening",
+            "title_japanese": "禍転じて大覚醒",
+            "title_romanji": "Wazawai Tenjite Daikakusei ",
+            "aired": "2005-11-14T00:00:00+00:00",
+            "score": 4.6,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1617650"
+        },
+        {
+            "mal_id": 8,
+            "url": null,
+            "title": "Rival Clubs' Song Battle",
+            "title_japanese": "部活対抗歌合戦",
+            "title_romanji": "Bukatsu Taikou Utagassen ",
+            "aired": "2005-11-21T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1617660"
+        },
+        {
+            "mal_id": 9,
+            "url": null,
+            "title": "Art Brings Luck",
+            "title_japanese": "芸は福をさずける",
+            "title_romanji": "Gei wa Fuku wo Sazukeru ",
+            "aired": "2005-11-28T00:00:00+00:00",
+            "score": 4.67,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1617720"
+        },
+        {
+            "mal_id": 10,
+            "url": null,
+            "title": "The Rule Breaking Lucky Three!",
+            "title_japanese": "掟破りのらっきぃスリィ！",
+            "title_romanji": "Okite Yaburi no Lucky Three! ",
+            "aired": "2005-12-05T00:00:00+00:00",
+            "score": 4.8,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1617796"
+        },
+        {
+            "mal_id": 11,
+            "url": null,
+            "title": "The 'We Love You' of the Space Where Demons Cannot Be",
+            "title_japanese": "鬼の居ぬ間のウイ・ラブ・ユー",
+            "title_romanji": "Oni no Inuma no We Love You ",
+            "aired": "2005-12-12T00:00:00+00:00",
+            "score": 4.83,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1617805"
+        },
+        {
+            "mal_id": 12,
+            "url": null,
+            "title": "The Star of Bewitching Souls",
+            "title_japanese": "妖しき霊の星",
+            "title_romanji": "Ayashiki Rei no Hoshi ",
+            "aired": "2005-12-19T00:00:00+00:00",
+            "score": 4.83,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1617975"
+        },
+        {
+            "mal_id": 13,
+            "url": null,
+            "title": "All's Well That Ends Well",
+            "title_japanese": "終わりよければすべて良し",
+            "title_romanji": "Owari Yokereba Subete Yoshi ",
+            "aired": "2005-12-26T00:00:00+00:00",
+            "score": 5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1617993"
+        }
+    ]
+}

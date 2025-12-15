@@ -1,0 +1,984 @@
+{
+    "id": 3295,
+    "fetched_at": "Sun Dec 14 19:26:30 2025",
+    "metadata": {
+        "mal_id": 3295,
+        "url": "https://myanimelist.net/anime/3295/Yatterman",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/9/44217.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/9/44217t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/9/44217l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/9/44217.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/9/44217t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/9/44217l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Yatterman"
+            },
+            {
+                "type": "Synonym",
+                "title": "Yattaman New Series"
+            },
+            {
+                "type": "Synonym",
+                "title": "Yattaman Remake"
+            },
+            {
+                "type": "Synonym",
+                "title": "Yattaaman 2"
+            },
+            {
+                "type": "Synonym",
+                "title": "Yatterman (2008)"
+            },
+            {
+                "type": "Japanese",
+                "title": "ヤッターマン"
+            }
+        ],
+        "title": "Yatterman",
+        "title_english": null,
+        "title_japanese": "ヤッターマン",
+        "title_synonyms": [
+            "Yattaman New Series",
+            "Yattaman Remake",
+            "Yattaaman 2",
+            "Yatterman (2008)"
+        ],
+        "type": "TV",
+        "source": "Original",
+        "episodes": 60,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "2008-01-14T00:00:00+00:00",
+            "to": "2009-09-27T00:00:00+00:00",
+            "prop": {
+                "from": {
+                    "day": 14,
+                    "month": 1,
+                    "year": 2008
+                },
+                "to": {
+                    "day": 27,
+                    "month": 9,
+                    "year": 2009
+                }
+            },
+            "string": "Jan 14, 2008 to Sep 27, 2009"
+        },
+        "duration": "25 min per ep",
+        "rating": "G - All Ages",
+        "score": 6.52,
+        "scored_by": 1439,
+        "rank": 7208,
+        "popularity": 9051,
+        "members": 5411,
+        "favorites": 10,
+        "synopsis": "Remake of the Yatterman series.",
+        "background": "",
+        "season": "winter",
+        "year": 2008,
+        "broadcast": {
+            "day": null,
+            "time": null,
+            "timezone": null,
+            "string": "Unknown"
+        },
+        "producers": [],
+        "licensors": [],
+        "studios": [
+            {
+                "mal_id": 103,
+                "type": "anime",
+                "name": "Tatsunoko Production",
+                "url": "https://myanimelist.net/anime/producer/103/Tatsunoko_Production"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 2,
+                "type": "anime",
+                "name": "Adventure",
+                "url": "https://myanimelist.net/anime/genre/2/Adventure"
+            },
+            {
+                "mal_id": 4,
+                "type": "anime",
+                "name": "Comedy",
+                "url": "https://myanimelist.net/anime/genre/4/Comedy"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [
+            {
+                "mal_id": 20,
+                "type": "anime",
+                "name": "Parody",
+                "url": "https://myanimelist.net/anime/genre/20/Parody"
+            }
+        ],
+        "demographics": [],
+        "relations": [
+            {
+                "relation": "Adaptation",
+                "entry": [
+                    {
+                        "mal_id": 18829,
+                        "type": "manga",
+                        "name": "Yatterman",
+                        "url": "https://myanimelist.net/manga/18829/Yatterman"
+                    }
+                ]
+            },
+            {
+                "relation": "Side Story",
+                "entry": [
+                    {
+                        "mal_id": 25749,
+                        "type": "anime",
+                        "name": "Yatterman Specials",
+                        "url": "https://myanimelist.net/anime/25749/Yatterman_Specials"
+                    },
+                    {
+                        "mal_id": 6693,
+                        "type": "anime",
+                        "name": "Yatterman the Movie: Shin Yattermecha Dai Shuugou! Omocha no Kuni de Dai Ketsudan da Koron",
+                        "url": "https://myanimelist.net/anime/6693/Yatterman_the_Movie__Shin_Yattermecha_Dai_Shuugou_Omocha_no_Kuni_de_Dai_Ketsudan_da_Koron"
+                    }
+                ]
+            },
+            {
+                "relation": "Alternative Version",
+                "entry": [
+                    {
+                        "mal_id": 3008,
+                        "type": "anime",
+                        "name": "Time Bokan Series: Yatterman",
+                        "url": "https://myanimelist.net/anime/3008/Time_Bokan_Series__Yatterman"
+                    }
+                ]
+            },
+            {
+                "relation": "Character",
+                "entry": [
+                    {
+                        "mal_id": 29739,
+                        "type": "anime",
+                        "name": "Yatterman x Toshiba",
+                        "url": "https://myanimelist.net/anime/29739/Yatterman_x_Toshiba"
+                    },
+                    {
+                        "mal_id": 39249,
+                        "type": "anime",
+                        "name": "Pandora to Akubi",
+                        "url": "https://myanimelist.net/anime/39249/Pandora_to_Akubi"
+                    }
+                ]
+            },
+            {
+                "relation": "Other",
+                "entry": [
+                    {
+                        "mal_id": 8921,
+                        "type": "anime",
+                        "name": "Believe",
+                        "url": "https://myanimelist.net/anime/8921/Believe"
+                    },
+                    {
+                        "mal_id": 28155,
+                        "type": "anime",
+                        "name": "Yoru no Yatterman",
+                        "url": "https://myanimelist.net/anime/28155/Yoru_no_Yatterman"
+                    },
+                    {
+                        "mal_id": 39249,
+                        "type": "anime",
+                        "name": "Pandora to Akubi",
+                        "url": "https://myanimelist.net/anime/39249/Pandora_to_Akubi"
+                    }
+                ]
+            }
+        ],
+        "theme": {
+            "openings": [
+                "1: \"Yatterman no Uta (ヤッターマンの歌)\" by Otoyakichiemon (eps 1-10)",
+                "2: \"Yatterman no Uta (ヤッターマンの歌)\" by ET-KING (eps 11-17)",
+                "3: \"Yatterman no Uta (ヤッターマンの歌)\" by Yuki Nishio (eps 18-21, 23-28)",
+                "4: \"Yatterman no Uta (Enka Version) (ヤッターマンの歌 (演歌バージョン))\" by Yuki Nishio (eps 22)",
+                "5: \"Yatterman no Uta (ヤッターマンの歌)\" by Fudanjuku (eps 29-35)",
+                "6: \"Yatterman no Uta (ヤッターマンの歌)\" by Toshihiko Takamizawa (eps 36-59)",
+                "7: \"Yatterman no Uta (ヤッターマンの歌)\" by Masayuki Yamamoto (eps 60)"
+            ],
+            "endings": [
+                "1: \"diverge\" by mihimaru GT (eps 1-10)",
+                "2: \"Kaiki Nisshoku (皆既日蝕)\" by JULEPS  (eps 11-17)",
+                "3: \"Rensoukyoku (恋想曲)\" by Manami Kurose with 12 violinists (eps 18-24)",
+                "4: \"Ima (今)\" by ET-KING (eps 25-28)",
+                "5: \"GIVE ME UP\" by Nami Tamaki (eps 29-35)",
+                "6: \"Katsunda! (勝つんだ!)\" by Fudanjuku (eps 36-48)",
+                "7: \"Zero Kara Hajimeru Story (ZEROからはじめるストーリー)\" by Wakaba (eps 49-60)"
+            ]
+        },
+        "external": [
+            {
+                "name": "Official Site",
+                "url": "http://www.tatsunoko.co.jp/yatterman/"
+            },
+            {
+                "name": "AniDB",
+                "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=5522"
+            },
+            {
+                "name": "ANN",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=8783"
+            },
+            {
+                "name": "Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Yatterman#2008_television_series"
+            }
+        ],
+        "streaming": []
+    },
+    "episodes": [
+        {
+            "mal_id": 1,
+            "url": null,
+            "title": "The Birth of Yatterman!",
+            "title_japanese": "ヤッターマン 誕生だコロン!",
+            "title_romanji": "Yatterman Tanjou da Koron! ",
+            "aired": "2008-01-14T00:00:00+00:00",
+            "score": 3.76,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=11508"
+        },
+        {
+            "mal_id": 2,
+            "url": null,
+            "title": "Who's the Takoyaki King?",
+            "title_japanese": "ナニワのたこ焼王決定だコロン!",
+            "title_romanji": "Naniwa no Takoyaki-ou Kettei da Koron! ",
+            "aired": "2008-01-21T00:00:00+00:00",
+            "score": 3,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1384666"
+        },
+        {
+            "mal_id": 3,
+            "url": null,
+            "title": "Win the Stupidemy Awards!",
+            "title_japanese": "バカデミー賞を獲るのだコロン!",
+            "title_romanji": "Bacademy Shou wo Toru no da Koron! ",
+            "aired": "2008-01-28T00:00:00+00:00",
+            "score": 3,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1354094"
+        },
+        {
+            "mal_id": 4,
+            "url": null,
+            "title": "Snow Country Character 2008!",
+            "title_japanese": "北の国キャラ2008だコロン!",
+            "title_romanji": "Kita no Kuni Chara 2008 da Koron! ",
+            "aired": "2008-02-04T00:00:00+00:00",
+            "score": 3,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1349235"
+        },
+        {
+            "mal_id": 5,
+            "url": null,
+            "title": "The Prince and the Chocolate Castle!",
+            "title_japanese": "王子とチョコレート城だコロン!",
+            "title_romanji": "Ouji to Chocolate-jou da Koron! ",
+            "aired": "2008-02-11T00:00:00+00:00",
+            "score": 2.5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1384969"
+        },
+        {
+            "mal_id": 6,
+            "url": null,
+            "title": "Fashion in the Flower City!",
+            "title_japanese": "花の都のファッションだコロン!",
+            "title_romanji": "Hana no Miyako no Fashion da Koron! ",
+            "aired": "2008-02-18T00:00:00+00:00",
+            "score": 2,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1384976"
+        },
+        {
+            "mal_id": 7,
+            "url": null,
+            "title": "It's Tough Being Famous Sisters!",
+            "title_japanese": "セレブ姉妹もつらいよだコロン!",
+            "title_romanji": "Celeb Shimai mo Tsurai yo da Koron! ",
+            "aired": "2008-02-25T00:00:00+00:00",
+            "score": 3,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1384986"
+        },
+        {
+            "mal_id": 8,
+            "url": null,
+            "title": "Sneak into Odaiba TV!",
+            "title_japanese": "おだいばテレビに潜入だコロン!",
+            "title_romanji": "Odaiba Terebi ni Sennyuu da Koron! ",
+            "aired": "2008-03-03T00:00:00+00:00",
+            "score": 3,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1354101"
+        },
+        {
+            "mal_id": 9,
+            "url": null,
+            "title": "The Curse of Otankahmen!",
+            "title_japanese": "オタンカーメンの呪いだコロン!",
+            "title_romanji": "Otankerman no Noroi da Koron! ",
+            "aired": "2008-03-10T00:00:00+00:00",
+            "score": 3,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1385001"
+        },
+        {
+            "mal_id": 10,
+            "url": null,
+            "title": "Historical Drama Atsuhime!",
+            "title_japanese": "タイガードラマーアツヒメだコロン!",
+            "title_romanji": "Tiger Drummer Atsu-hime da Koron! ",
+            "aired": "2008-03-17T00:00:00+00:00",
+            "score": 2.5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1385014"
+        },
+        {
+            "mal_id": 11,
+            "url": null,
+            "title": "Miss Doronjo Is at That Age!",
+            "title_japanese": "ドロンジョ様はお年頃だコロン!",
+            "title_romanji": "Doronjo-sama wa Otoshigoro da Koron! ",
+            "aired": "2008-04-14T00:00:00+00:00",
+            "score": 3.67,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1349326"
+        },
+        {
+            "mal_id": 12,
+            "url": null,
+            "title": "Omotchama Is in Trouble!",
+            "title_japanese": "オモッチャマ危機一髪だコロン!",
+            "title_romanji": "Omocchama Kiki Ippatsu da Koron! ",
+            "aired": "2008-04-28T00:00:00+00:00",
+            "score": 3,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1385640"
+        },
+        {
+            "mal_id": 13,
+            "url": null,
+            "title": "The Hero on the Sugamo Train!",
+            "title_japanese": "ぶらり巣鴨のカリスマだコロン!",
+            "title_romanji": "Burari Sugamo no Charisma da Koron! ",
+            "aired": "2008-05-12T00:00:00+00:00",
+            "score": 3,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1385700"
+        },
+        {
+            "mal_id": 14,
+            "url": null,
+            "title": "The Arrival of Yatter-Pelican!",
+            "title_japanese": "ヤッターペリカン登場だコロン!",
+            "title_romanji": "Yatter Pelican Toujou da Koron! ",
+            "aired": "2008-05-19T00:00:00+00:00",
+            "score": 3,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1354097"
+        },
+        {
+            "mal_id": 15,
+            "url": null,
+            "title": "The Yattermechs Can't Get Along!",
+            "title_japanese": "ヤッターメカが仲間割れ? だコロン!",
+            "title_romanji": "Yatter Mecha ga Nakamaware? da Koron! ",
+            "aired": "2008-06-16T00:00:00+00:00",
+            "score": 3,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1385950"
+        },
+        {
+            "mal_id": 16,
+            "url": null,
+            "title": "Good Luck Looking For Son Goku!",
+            "title_japanese": "悟空探しはゴクウロウだコロン!",
+            "title_romanji": "Gokuu Sagashi wa Gokuurou da Koron! ",
+            "aired": "2008-06-23T00:00:00+00:00",
+            "score": 3,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1386327"
+        },
+        {
+            "mal_id": 17,
+            "url": null,
+            "title": "This Treasure Is Priceless!",
+            "title_japanese": "お宝鑑定ならプライスレスだコロン!",
+            "title_romanji": "Otakarakantei nara Priceless da Koron! ",
+            "aired": "2008-06-30T00:00:00+00:00",
+            "score": 3,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1386332"
+        },
+        {
+            "mal_id": 18,
+            "url": null,
+            "title": "In the Good Old Days",
+            "title_japanese": "OldDays下町の夕日だコロン!",
+            "title_romanji": "Old Days Shitamachi no Yuuhi da Koron! ",
+            "aired": "2008-07-07T00:00:00+00:00",
+            "score": 3,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1386394"
+        },
+        {
+            "mal_id": 19,
+            "url": null,
+            "title": "Fitness Freak",
+            "title_japanese": "無人島でブータレキャンプだコロン!",
+            "title_romanji": "Mujintou de Butare Camp da Koron! ",
+            "aired": "2008-07-14T00:00:00+00:00",
+            "score": 2.5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1386593"
+        },
+        {
+            "mal_id": 20,
+            "url": null,
+            "title": "Beauty and the Beach",
+            "title_japanese": "崖っぷちのトールーだコロン!",
+            "title_romanji": "Gakeppuchi no Toll Da Koron! ",
+            "aired": "2008-07-28T00:00:00+00:00",
+            "score": 2.5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1386656"
+        },
+        {
+            "mal_id": 21,
+            "url": null,
+            "title": "The Way Cool School",
+            "title_japanese": "はりきりホッター魔法の宝だコロン!",
+            "title_romanji": "Harikiri Hotter Mahou no Takara da Koron! ",
+            "aired": "2008-08-04T00:00:00+00:00",
+            "score": 3,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1386658"
+        },
+        {
+            "mal_id": 22,
+            "url": null,
+            "title": "Have No Fear, Yatterman is Here",
+            "title_japanese": "ご当地ヒーロー大活躍だコロン!",
+            "title_romanji": "Gotouchi Hero Daikatsuyaku da Koron! ",
+            "aired": "2008-08-11T00:00:00+00:00",
+            "score": 3,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1386664"
+        },
+        {
+            "mal_id": 23,
+            "url": null,
+            "title": "The Search for the Crystal Skull",
+            "title_japanese": "クリスタルスカル発見だコロン!",
+            "title_romanji": "Crystal Scar Hakken da Koron! ",
+            "aired": "2008-09-01T00:00:00+00:00",
+            "score": 3,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1386667"
+        },
+        {
+            "mal_id": 24,
+            "url": null,
+            "title": "Hail to the Chief",
+            "title_japanese": "USAの選挙は大接戦だコロン!",
+            "title_romanji": "USA no Senkyo wa Daisessen da Koron! ",
+            "aired": "2008-09-08T00:00:00+00:00",
+            "score": 3,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1386706"
+        },
+        {
+            "mal_id": 25,
+            "url": null,
+            "title": "20,000 Yatter-Leagues Under the Sea",
+            "title_japanese": "ヤッターアンコウ登場だコロン!",
+            "title_romanji": "Yatter Ankou Toujou da Koron! ",
+            "aired": "2008-11-10T00:00:00+00:00",
+            "score": 3,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1354417"
+        },
+        {
+            "mal_id": 26,
+            "url": null,
+            "title": "1, 2, 3 Yatter-Strikes, You're Out",
+            "title_japanese": "歴代三悪オールスター勢揃いだコロン!",
+            "title_romanji": "Rekidai Sanaku All-Star Seizoroi da Koron! ",
+            "aired": "2008-12-01T00:00:00+00:00",
+            "score": 2.5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1387261"
+        },
+        {
+            "mal_id": 27,
+            "url": null,
+            "title": "Big Trouble in Grand Old Edo",
+            "title_japanese": "決戦エド・はるみ江戸でグーだコロン!",
+            "title_romanji": "Kessen Edo Harumi Edo de Guu da Koron! ",
+            "aired": "2008-12-08T00:00:00+00:00",
+            "score": 3,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1356239"
+        },
+        {
+            "mal_id": 28,
+            "url": null,
+            "title": "Would You Like to Sing on a Star / A Yatter New Year",
+            "title_japanese": "年末SP紅白メカ合戦は大混乱だコロン!",
+            "title_romanji": "Nenmatsu Special Kouhaku Mecha Kassen wa Daikouran da Koron! ",
+            "aired": "2008-12-15T00:00:00+00:00",
+            "score": 2.5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1387685"
+        },
+        {
+            "mal_id": 29,
+            "url": null,
+            "title": "A Skating We Will Go",
+            "title_japanese": "フィギュアスケート女王決定だコロン!",
+            "title_romanji": "Figure Skate Joou Kettei da Koron! ",
+            "aired": "2009-02-02T00:00:00+00:00",
+            "score": 3,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1356820"
+        },
+        {
+            "mal_id": 30,
+            "url": null,
+            "title": "A Very Piggy Day",
+            "title_japanese": "バレンタインデーは工場見学だコロン!",
+            "title_romanji": "Valentine Day wa Koujou Kengaku da Koron! ",
+            "aired": "2009-02-09T00:00:00+00:00",
+            "score": 3,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1356823"
+        },
+        {
+            "mal_id": 31,
+            "url": null,
+            "title": "Yatter-Bull Appearance",
+            "title_japanese": "アイちゃんに恋のライバル? だコロン!",
+            "title_romanji": "Ai-chan ni Koi no Rival? Da Koron! ",
+            "aired": "2009-02-16T00:00:00+00:00",
+            "score": 3,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1357151"
+        },
+        {
+            "mal_id": 32,
+            "url": null,
+            "title": "Yatterman TV",
+            "title_japanese": "実録!? ドロンボー密着24時だコロン!",
+            "title_romanji": "Jitsuroku!? Doronbou Micchaku 24-ji da Koron! ",
+            "aired": "2009-02-23T00:00:00+00:00",
+            "score": 3,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1357156"
+        },
+        {
+            "mal_id": 33,
+            "url": null,
+            "title": "Theres No Business like Shogun Business",
+            "title_japanese": "なんでやねん! 大阪が首都? だコロン!",
+            "title_romanji": "Nandeyanen! Osaka ga Shuto? Da Koron! ",
+            "aired": "2009-03-02T00:00:00+00:00",
+            "score": 2.5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1387714"
+        },
+        {
+            "mal_id": 34,
+            "url": null,
+            "title": "Hassle in the Castle",
+            "title_japanese": "うそっ! ボヤッキーが引退? だコロン!",
+            "title_romanji": "Uso! Boyacky ga Intai? Da Koron! ",
+            "aired": "2009-03-09T00:00:00+00:00",
+            "score": 3,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1387719"
+        },
+        {
+            "mal_id": 35,
+            "url": null,
+            "title": "The Fifth Skull Ring Rumble",
+            "title_japanese": "さらばドロンボーついに解散だコロン!",
+            "title_romanji": "Saraba Doronbou Tsui ni Kaisan da Koron! ",
+            "aired": "2009-03-16T00:00:00+00:00",
+            "score": 3,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1357175"
+        },
+        {
+            "mal_id": 36,
+            "url": null,
+            "title": "New Mecha, New Adventure",
+            "title_japanese": "緊急出動! ヤッタージンベエだコロン!",
+            "title_romanji": "Kinkyuu Shutsudou! Yatter Jinbei da Koron! ",
+            "aired": "2009-04-05T00:00:00+00:00",
+            "score": 3,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1357184"
+        },
+        {
+            "mal_id": 37,
+            "url": null,
+            "title": "Ain't Seen Nothing Yeti",
+            "title_japanese": "ドクボンのヒマラヤ探検だコロン!",
+            "title_romanji": "Dokubon no Himalaya Tanken da Koron! ",
+            "aired": "2009-04-12T00:00:00+00:00",
+            "score": 3,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1357188"
+        },
+        {
+            "mal_id": 38,
+            "url": null,
+            "title": "A Menace in Venice",
+            "title_japanese": "新たなる敵ドクロリングハンターだコロン!",
+            "title_romanji": "Aratanaru Teki Dokurorin Hunter da Koron! ",
+            "aired": "2009-04-19T00:00:00+00:00",
+            "score": 3,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1357200"
+        },
+        {
+            "mal_id": 39,
+            "url": null,
+            "title": "Peril in Peru / Tomb with a View",
+            "title_japanese": "どうもモグラですが何か? だコロン!",
+            "title_romanji": "Doumo Mogura Desu ga Nanika? Da Koron! ",
+            "aired": "2009-04-26T00:00:00+00:00",
+            "score": 3,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1357214"
+        },
+        {
+            "mal_id": 40,
+            "url": null,
+            "title": "Episode 40",
+            "title_japanese": "宇宙飛行士はホームシック? だコロン!",
+            "title_romanji": "Uchuuhikoushi wa Homesick? Da Koron! ",
+            "aired": "2009-05-03T00:00:00+00:00",
+            "score": 3,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1388761"
+        },
+        {
+            "mal_id": 41,
+            "url": null,
+            "title": "Maui Owie!",
+            "title_japanese": "第2のドクハン! ハワイでアロハだコロン!",
+            "title_romanji": "Dai 2 no Dokuhan! Hawai de Aloha da Koron! ",
+            "aired": "2009-05-10T00:00:00+00:00",
+            "score": 3,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1388770"
+        },
+        {
+            "mal_id": 42,
+            "url": null,
+            "title": "Supermarket Showdown",
+            "title_japanese": "巨大スーパー激安戦争!?だコロン!",
+            "title_romanji": "Kyodai Super Gekiyasu Sensou!? Da Koron! ",
+            "aired": "2009-05-17T00:00:00+00:00",
+            "score": 3,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1388777"
+        },
+        {
+            "mal_id": 43,
+            "url": null,
+            "title": "To Win or Not to Win",
+            "title_japanese": "運動会でサルカニ合戦だコロン!",
+            "title_romanji": "Undoukai de Saru Kani Kassen da Koron! ",
+            "aired": "2009-05-24T00:00:00+00:00",
+            "score": 3,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1388788"
+        },
+        {
+            "mal_id": 44,
+            "url": null,
+            "title": "Ninja Nightmare",
+            "title_japanese": "忍者の数は何人じゃ!? だコロン!",
+            "title_romanji": "Ninja no Kazu wa Nannin Ja!? Da Koron! ",
+            "aired": "2009-05-31T00:00:00+00:00",
+            "score": 3,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1389190"
+        },
+        {
+            "mal_id": 45,
+            "url": null,
+            "title": "The Big Apple Grapple / Hot Time at the Big Apple",
+            "title_japanese": "七人のハイパーレスキューだコロン!",
+            "title_romanji": "Shichinin no Hyper Rescue da Koron! ",
+            "aired": "2009-06-07T00:00:00+00:00",
+            "score": 3,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1389194"
+        },
+        {
+            "mal_id": 46,
+            "url": null,
+            "title": "Getting Ready to Rumble",
+            "title_japanese": "大相撲ドロンボー場所だコロン!",
+            "title_romanji": "Oozumou Doronbou Basho da Koron! ",
+            "aired": "2009-06-14T00:00:00+00:00",
+            "score": 3,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1389337"
+        },
+        {
+            "mal_id": 47,
+            "url": null,
+            "title": "In the Land Down Under",
+            "title_japanese": "オーストラリアでポチッとなだコロン!",
+            "title_romanji": "Australia de Pochitto na da Koron! ",
+            "aired": "2009-06-21T00:00:00+00:00",
+            "score": 2,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1389341"
+        },
+        {
+            "mal_id": 48,
+            "url": null,
+            "title": "Yatta-Mecha Daizukan, da Koron",
+            "title_japanese": "ヤッターメカ大図鑑だコロン!",
+            "title_romanji": "Yatter Mecha Oozukan da Koron! ",
+            "aired": "2009-06-28T00:00:00+00:00",
+            "score": 3,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1389347"
+        },
+        {
+            "mal_id": 49,
+            "url": null,
+            "title": "A Little Tanabata Wish",
+            "title_japanese": "砂漠にかかる天の川だコロン!",
+            "title_romanji": "Sabaku ni Kakaru Ama no Kawa da Koron! ",
+            "aired": "2009-07-05T00:00:00+00:00",
+            "score": 3,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1389357"
+        },
+        {
+            "mal_id": 50,
+            "url": null,
+            "title": "Enter YatterDragon!",
+            "title_japanese": "その名もヤッタードラゴンなり! だコロン!",
+            "title_romanji": "Sono Na mo Yatter Dragon Nari! da Koron! ",
+            "aired": "2009-07-12T00:00:00+00:00",
+            "score": 3,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1357489"
+        },
+        {
+            "mal_id": 51,
+            "url": null,
+            "title": "By the Eclipse of the Sun",
+            "title_japanese": "ドクハン! 皆既日食でムキムキだコロン!",
+            "title_romanji": "Dokuhan! Kaikinisshoku de Mukimuki da Koron! ",
+            "aired": "2009-07-19T00:00:00+00:00",
+            "score": 3,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1357801"
+        },
+        {
+            "mal_id": 52,
+            "url": null,
+            "title": "Bull Fight",
+            "title_japanese": "闘牛バトルはモォーレツだコロン!",
+            "title_romanji": "Tougyuu Battle wa Mooretsu da Koron! ",
+            "aired": "2009-07-26T00:00:00+00:00",
+            "score": 2,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1389380"
+        },
+        {
+            "mal_id": 53,
+            "url": null,
+            "title": "Pearls of Wisdom",
+            "title_japanese": "ムフッ♥アフロの女神だコロン!",
+            "title_romanji": "Mufu Afro no Megami da Koron! ",
+            "aired": "2009-08-02T00:00:00+00:00",
+            "score": 3,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1358031"
+        },
+        {
+            "mal_id": 54,
+            "url": null,
+            "title": "Ghost of a Chance",
+            "title_japanese": "ホラ! 穴の秘密だコロン!",
+            "title_romanji": "Hora! Ana no Himitsu da Koron! ",
+            "aired": "2009-08-09T00:00:00+00:00",
+            "score": 3.67,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1389420"
+        },
+        {
+            "mal_id": 55,
+            "url": null,
+            "title": "Here Comes the Bride",
+            "title_japanese": "最強ドクハン! アイの運勢急上昇!? だコロン!",
+            "title_romanji": "Saikyou Dokuhan! Ai no Unsei Kyuujoushou!? da Koron! ",
+            "aired": "2009-08-16T00:00:00+00:00",
+            "score": 2.5,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1389424"
+        },
+        {
+            "mal_id": 56,
+            "url": null,
+            "title": "I've Been Fighting on the Railroad",
+            "title_japanese": "寝台特急オリオン出発進行だコロン!",
+            "title_romanji": "Shindai Tokkyuu Orion Shuppatsa Shinkou da Koron! ",
+            "aired": "2009-08-23T00:00:00+00:00",
+            "score": 3,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1389439"
+        },
+        {
+            "mal_id": 57,
+            "url": null,
+            "title": "Rumble in the Jungle",
+            "title_japanese": "ムシゴロウの昆虫王国だコロン!",
+            "title_romanji": "Mushigorou no Konchuu Oukoku da Koron! ",
+            "aired": "2009-09-06T00:00:00+00:00",
+            "score": 3,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1358047"
+        },
+        {
+            "mal_id": 58,
+            "url": null,
+            "title": "For Whom the Final Ring Tolls",
+            "title_japanese": "ヤッターメカ全滅! だコロン!",
+            "title_romanji": "Yatter Mecha Zenmetsu! Da Koron! ",
+            "aired": "2009-09-13T00:00:00+00:00",
+            "score": 3,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1358050"
+        },
+        {
+            "mal_id": 59,
+            "url": null,
+            "title": "Love Live, YatterKing",
+            "title_japanese": "ドクロストーン復活だコロン!",
+            "title_romanji": "Dokuro Stone Fukkatsu da Koron! ",
+            "aired": "2009-09-20T00:00:00+00:00",
+            "score": 3,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1358056"
+        },
+        {
+            "mal_id": 60,
+            "url": null,
+            "title": "The Final YatterBattle!",
+            "title_japanese": "さらばドロンボー 今度こそ解散だコロン!",
+            "title_romanji": "Saraba Doronbou Kondokoso Kaisan da Koron! ",
+            "aired": "2009-09-27T00:00:00+00:00",
+            "score": 4,
+            "filler": false,
+            "recap": false,
+            "forum_url": "https://myanimelist.net/forum/?topicid=1358061"
+        }
+    ]
+}
