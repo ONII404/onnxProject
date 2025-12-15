@@ -23,7 +23,7 @@ router = APIRouter(
 @router.get("/", response_model=List[schemas.SeriesPublic], summary="Listar series con filtros")
 def list_series(
     type: Optional[str] = None,
-    search: Optional[str] = Query(None, min_length=3, description="Search by title"),
+    search: Optional[str] = Query(None, min_length=1, description="Search by title"),
     genre: Optional[str] = None,
     adult: bool = False,  # Por defecto ocultar contenido R18
     limit: int = Query(20, ge=1, le=100), 
@@ -40,18 +40,17 @@ def list_series(
         except ValueError:
             raise HTTPException(status_code=400, detail="Tipo inválido. Opciones: anime, manga, novel, jav, doujin")
 
-    # Ocultar contenido adulto por defecto
+    # Hide adult content if not requested
     if not adult:
         query = query.filter(models.Series.is_adult == False)
 
-    # Búsqueda por título (en traducciones en español)
+    # Shearch by title in translations
     if search:
         query = query.join(models.SeriesTranslation).filter(
-            models.SeriesTranslation.title.ilike(f"%{search}%"),
-            models.SeriesTranslation.language == "es"
+            models.SeriesTranslation.title.ilike(f"%{search}%")
         )
 
-    # Filtro por género (slug)
+    # Filter by genre slug
     if genre:
         query = query.join(models.series_genres).join(models.Genre).filter(
             models.Genre.slug == genre.lower()
