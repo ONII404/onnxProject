@@ -4,13 +4,14 @@ from fastapi import APIRouter, Depends, HTTPException, Query, status
 from sqlalchemy.orm import Session, joinedload
 from typing import List, Optional
 
-import src.models.models as models
-import database
-import schemas
-import auth
+from src.schemas import groups as schemaGroups 
+from src.schemas import series as schemaSeries
+from src.schemas import chapters as schemaChapters
+from src.models import models as models
+from src import dependencies as database
+from src import dependencies as auth
 
-
-router = APIRouter(
+series = APIRouter(
     prefix="/series",
     tags=["Series"]
 )
@@ -20,7 +21,7 @@ router = APIRouter(
 #  LECTURA PÚBLICA
 # ==========================================
 
-@router.get("/", response_model=List[schemas.SeriesPublic], summary="Listar series con filtros")
+@series.get("/", response_model=List[schemaSeries.SeriesPublic], summary="Listar series con filtros")
 def list_series(
     type: Optional[str] = None,
     search: Optional[str] = Query(None, min_length=1, description="Search by title"),
@@ -59,7 +60,7 @@ def list_series(
     return query.offset(offset).limit(limit).all()
 
 
-@router.get("/{id}", response_model=schemas.SeriesPublic, summary="Obtener serie básica por ID")
+@series.get("/{id}", response_model=schemaSeries.SeriesPublic, summary="Obtener serie básica por ID")
 def get_series(id: int, db: Session = Depends(database.get_db)):
     serie = db.query(models.Series).filter(models.Series.id == id).first()
     if not serie:
@@ -67,7 +68,7 @@ def get_series(id: int, db: Session = Depends(database.get_db)):
     return serie
 
 
-@router.get("/{id}/full", response_model=schemas.SeriesFull, summary="Obtener serie completa con todo")
+@series.get("/{id}/full", response_model=schemaSeries.SeriesFull, summary="Obtener serie completa con todo")
 def get_series_full(id: int, db: Session = Depends(database.get_db)):
     serie = (
         db.query(models.Series)
@@ -91,9 +92,9 @@ def get_series_full(id: int, db: Session = Depends(database.get_db)):
 #  GESTIÓN DE SERIES (Solo Admin)
 # ==========================================
 
-@router.post("/", response_model=schemas.SeriesPublic, status_code=status.HTTP_201_CREATED, summary="Crear nueva serie")
+@series.post("/", response_model=schemaSeries.SeriesPublic, status_code=status.HTTP_201_CREATED, summary="Crear nueva serie")
 def create_series(
-    data: schemas.SeriesCreate,
+    data: schemaSeries.SeriesCreate,
     db: Session = Depends(database.get_db),
     current_user: dict = Depends(auth.get_current_admin_user)
 ):
@@ -130,10 +131,10 @@ def create_series(
     return db_series
 
 
-@router.patch("/{id}", response_model=schemas.SeriesPublic, summary="Actualizar serie (parcial)")
+@series.patch("/{id}", response_model=schemaSeries.SeriesPublic, summary="Actualizar serie (parcial)")
 def update_series(
     id: int,
-    data: schemas.SeriesUpdate,
+    data: schemaSeries.SeriesUpdate,
     db: Session = Depends(database.get_db),
     current_user: dict = Depends(auth.get_current_admin_user)
 ):
@@ -150,7 +151,7 @@ def update_series(
     return db_series
 
 
-@router.delete("/{id}", status_code=status.HTTP_204_NO_CONTENT, summary="Eliminar serie")
+@series.delete("/{id}", status_code=status.HTTP_204_NO_CONTENT, summary="Eliminar serie")
 def delete_series(
     id: int,
     db: Session = Depends(database.get_db),
@@ -169,7 +170,7 @@ def delete_series(
 #  GRUPOS (Temporadas, Volúmenes, etc.)
 # ==========================================
 
-@router.get("/{series_id}/groups", response_model=List[schemas.GroupResponse], summary="Listar grupos de una serie")
+@series.get("/{series_id}/groups", response_model=List[schemaGroups.GroupResponse], summary="Listar grupos de una serie")
 def get_groups_by_series(series_id: int, db: Session = Depends(database.get_db)):
     if not db.query(models.Series).filter(models.Series.id == series_id).first():
         raise HTTPException(status_code=404, detail="Serie no encontrada")
@@ -177,10 +178,10 @@ def get_groups_by_series(series_id: int, db: Session = Depends(database.get_db))
     return db.query(models.SeriesGroup).filter(models.SeriesGroup.series_id == series_id).all()
 
 
-@router.post("/{series_id}/groups", response_model=schemas.GroupResponse, summary="Crear grupo (temporada/volumen)")
+@series.post("/{series_id}/groups", response_model=schemaGroups.GroupResponse, summary="Crear grupo (temporada/volumen)")
 def create_group(
     series_id: int,
-    group_data: schemas.GroupCreate,
+    group_data: schemaGroups.GroupCreate,
     db: Session = Depends(database.get_db),
     current_user: dict = Depends(auth.get_current_admin_user)
 ):
@@ -219,7 +220,7 @@ def create_group(
 #  CAPÍTULOS
 # ==========================================
 
-@router.get("/{series_id}/groups/{group_id}/chapters", response_model=List[schemas.ChapterResponse], summary="Listar capítulos de un grupo")
+@series.get("/{series_id}/groups/{group_id}/chapters", response_model=List[schemaChapters.ChapterResponse], summary="Listar capítulos de un grupo")
 def get_chapters_by_group(series_id: int, group_id: int, db: Session = Depends(database.get_db)):
     db_group = db.query(models.SeriesGroup).filter(
         models.SeriesGroup.id == group_id,
@@ -232,11 +233,11 @@ def get_chapters_by_group(series_id: int, group_id: int, db: Session = Depends(d
     return db_group.chapters
 
 
-@router.post("/{series_id}/groups/{group_id}/chapters", response_model=schemas.ChapterResponse, summary="Crear capítulo")
+@series.post("/{series_id}/groups/{group_id}/chapters", response_model=schemaChapters.ChapterResponse, summary="Crear capítulo")
 def create_chapter(
     series_id: int,
     group_id: int,
-    chapter_data: schemas.ChapterCreate,
+    chapter_data: schemaChapters.ChapterCreate,
     db: Session = Depends(database.get_db),
     current_user: dict = Depends(auth.get_current_admin_user)
 ):

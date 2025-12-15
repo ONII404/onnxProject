@@ -1,9 +1,9 @@
 from fastapi import FastAPI
-from fastapi.routing import APIRoute  # ← Importante: esto es lo que necesitas
+from fastapi.routing import APIRoute
 
-import src.models.models as models
-import database
-from routers import series, users 
+from src.models import models
+from src.routers import series, users 
+from src import dependencies as database
 
 
 # 1. Crear Tablas (Si no existen)
@@ -25,8 +25,8 @@ app = FastAPI(
 
 
 # 3. Conectar los Routers
-app.include_router(series.router, tags=["Series"])
-app.include_router(users.router, tags=["Users"])
+app.include_router(series.series, tags=["Series"])
+app.include_router(users.users, tags=["Users"])
 
 
 @app.get("/")

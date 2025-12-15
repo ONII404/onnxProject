@@ -1,8 +1,10 @@
-# src/schemas/series.py
 from typing import List, Optional
-from pydantic import BaseModel, EmailStr, ConfigDict
-from datetime import datetime, date
-from .enum import MediaType, SeriesStatus, StaffRole, ExternalSource
+from pydantic import BaseModel, ConfigDict
+from datetime import datetime
+
+from src.schemas.common import ExternalLinkCreate, ExternalLinkResponse, GenreCreate, GenreResponse, StaffCreate, StaffResponse, TranslationCreate, TranslationResponse
+from src.schemas.groups import GroupCreate, GroupResponse
+from .enum import MediaType, SeriesStatus
 
 # =======================
 # SERIES - Lo principal que pedías

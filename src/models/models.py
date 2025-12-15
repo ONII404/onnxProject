@@ -6,7 +6,7 @@ from sqlalchemy import (
     Table, CheckConstraint
 )
 from sqlalchemy.orm import relationship
-from dependencies import Base 
+from src.dependencies import Base 
 
 # ==========================================
 # 1. ENUMS

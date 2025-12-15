@@ -1,15 +1,14 @@
-# routers/users.py
-
 from fastapi import APIRouter, Depends, HTTPException, status
 from sqlalchemy.orm import Session
 from typing import List
 
-import src.models.models as models
-import database
-import schemas
-import auth
+from src.models import models
+from src import dependencies as database
+from src import dependencies as auth
+from src.schemas import users as schemasUsers
 
-router = APIRouter(
+
+users = APIRouter(
     prefix="/users",
     tags=["Users"]
 )
@@ -19,14 +18,14 @@ router = APIRouter(
 #  PÚBLICO - Registro y perfil personal
 # ==========================================
 
-@router.post(
+@users.post(
     "/",
-    response_model=schemas.UserResponse,
+    response_model=schemasUsers.UserResponse,
     status_code=status.HTTP_201_CREATED,
     summary="Registrar nuevo usuario"
 )
 def create_user(
-    user_data: schemas.UserCreate,
+    user_data: schemasUsers.UserCreate,
     db: Session = Depends(database.get_db)
 ):
     """Registro público de nuevos usuarios"""
@@ -54,7 +53,7 @@ def create_user(
     return new_user
 
 
-@router.get("/me", response_model=schemas.UserResponse, summary="Ver mi perfil")
+@users.get("/me", response_model=schemasUsers.UserResponse, summary="Ver mi perfil")
 def read_current_user(
     current_user: dict = Depends(auth.get_current_user)
 ):
@@ -76,9 +75,9 @@ def read_current_user(
 #  PRIVADO - Solo usuario autenticado
 # ==========================================
 
-@router.patch("/me", response_model=schemas.UserResponse, summary="Actualizar mi perfil")
+@users.patch("/me", response_model=schemasUsers.UserResponse, summary="Actualizar mi perfil")
 def update_current_user(
-    update_data: schemas.UserUpdate,
+    update_data: schemasUsers.UserUpdate,
     current_user: dict = Depends(auth.get_current_user),
     db: Session = Depends(database.get_db)
 ):
@@ -104,7 +103,7 @@ def update_current_user(
     return db_user
 
 
-@router.delete("/me", status_code=status.HTTP_204_NO_CONTENT, summary="Eliminar mi cuenta")
+@users.delete("/me", status_code=status.HTTP_204_NO_CONTENT, summary="Eliminar mi cuenta")
 def delete_current_user(
     current_user: dict = Depends(auth.get_current_user),
     db: Session = Depends(database.get_db)
@@ -123,7 +122,7 @@ def delete_current_user(
 #  ADMIN - Solo administradores
 # ==========================================
 
-@router.get("/", response_model=List[schemas.UserResponse], summary="Listar todos los usuarios (Admin)")
+@users.get("/", response_model=List[schemasUsers.UserResponse], summary="Listar todos los usuarios (Admin)")
 def read_all_users(
     db: Session = Depends(database.get_db),
     admin_user: dict = Depends(auth.get_current_admin_user)
@@ -132,7 +131,7 @@ def read_all_users(
     return db.query(models.User).all()
 
 
-@router.delete("/{user_id}", status_code=status.HTTP_204_NO_CONTENT, summary="Eliminar usuario (Admin)")
+@users.delete("/{user_id}", status_code=status.HTTP_204_NO_CONTENT, summary="Eliminar usuario (Admin)")
 def delete_user(
     user_id: int,
     db: Session = Depends(database.get_db),
