@@ -3,9 +3,9 @@ from sqlalchemy.orm import Session
 from typing import List
 
 from src.models import users as modelsUsers
-from src.config import db as database
-from src import dependencies as auth
 from src.schemas import users as schemasUsers
+from src.config import db as database
+from src.config import auth
 
 
 users = APIRouter(

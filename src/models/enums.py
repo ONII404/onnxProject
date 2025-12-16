@@ -19,7 +19,7 @@ class GroupType(enum.Enum):
     VOLUME = "volume"
     PART = "part"
     ABSOLUTE = "absolute"
-
+ 
 class SeriesStatus(enum.Enum):
     ONGOING = "ongoing"
     FINISHED = "finished"

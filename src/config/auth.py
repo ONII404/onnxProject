@@ -1,15 +1,5 @@
 from fastapi import Header, HTTPException, status, Depends
 from typing import Optional
-from sqlalchemy import create_engine
-from sqlalchemy.ext.declarative import declarative_base
-from sqlalchemy.orm import sessionmaker
-
-
-
-
-# =================
-# Auth functions
-# =================
 
 
 def get_current_user(x_token: Optional[str] = Header(None)):

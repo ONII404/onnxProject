@@ -12,7 +12,7 @@ from src.models import series as modelsSeries
 from src.models import genres as modelsGenres
 from src.models import structure as modelsStructure
 from src.config import db as database
-from src import dependencies as auth
+from src.config import auth
 
 series = APIRouter(
     prefix="/series",
