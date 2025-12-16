@@ -2,8 +2,8 @@ from fastapi import APIRouter, Depends, HTTPException, status
 from sqlalchemy.orm import Session
 from typing import List
 
-from src.models import models
-from src import dependencies as database
+from src.models import users as modelsUsers
+from src.config import db as database
 from src import dependencies as auth
 from src.schemas import users as schemasUsers
 
@@ -30,19 +30,19 @@ def create_user(
 ):
     """Registro público de nuevos usuarios"""
     # Verificar si el email o username ya existe
-    if db.query(models.User).filter(models.User.email == user_data.email).first():
+    if db.query(modelsUsers.User).filter(modelsUsers.User.email == user_data.email).first():
         raise HTTPException(
             status_code=400,
             detail="El email ya está registrado"
         )
-    if db.query(models.User).filter(models.User.username == user_data.username).first():
+    if db.query(modelsUsers.User).filter(modelsUsers.User.username == user_data.username).first():
         raise HTTPException(
             status_code=400,
             detail="El nombre de usuario ya está en uso"
         )
 
     # Crear usuario (sin password por ahora - ver nota abajo)
-    new_user = models.User(
+    new_user = modelsUsers.User(
         username=user_data.username,
         email=user_data.email,
         is_admin=False  # Los nuevos usuarios nunca son admin
@@ -84,7 +84,7 @@ def update_current_user(
     """Permite al usuario actualizar su propio username o email"""
     # Buscar al usuario real (en futuro usarás el ID del JWT)
     # Por ahora usamos un placeholder - cuando implementes login real, cambia esto
-    db_user = db.query(models.User).filter(models.User.username == current_user["username"]).first()
+    db_user = db.query(modelsUsers.User).filter(modelsUsers.User.username == current_user["username"]).first()
     if not db_user:
         raise HTTPException(status_code=404, detail="Usuario no encontrado")
 
@@ -92,9 +92,9 @@ def update_current_user(
     for key, value in update_dict.items():
         if key in ["username", "email"]:
             # Validar unicidad
-            if key == "email" and db.query(models.User).filter(models.User.email == value, models.User.id != db_user.id).first():
+            if key == "email" and db.query(modelsUsers.User).filter(modelsUsers.User.email == value, modelsUsers.User.id != db_user.id).first():
                 raise HTTPException(status_code=400, detail="El email ya está en uso")
-            if key == "username" and db.query(models.User).filter(models.User.username == value, models.User.id != db_user.id).first():
+            if key == "username" and db.query(modelsUsers.User).filter(modelsUsers.User.username == value, modelsUsers.User.id != db_user.id).first():
                 raise HTTPException(status_code=400, detail="El nombre de usuario ya está en uso")
         setattr(db_user, key, value)
 
@@ -109,7 +109,7 @@ def delete_current_user(
     db: Session = Depends(database.get_db)
 ):
     """El usuario puede eliminar su propia cuenta"""
-    db_user = db.query(models.User).filter(models.User.username == current_user["username"]).first()
+    db_user = db.query(modelsUsers.User).filter(modelsUsers.User.username == current_user["username"]).first()
     if not db_user:
         raise HTTPException(status_code=404, detail="Usuario no encontrado")
 
@@ -128,7 +128,7 @@ def read_all_users(
     admin_user: dict = Depends(auth.get_current_admin_user)
 ):
     """Solo admins pueden ver la lista completa de usuarios"""
-    return db.query(models.User).all()
+    return db.query(modelsUsers.User).all()
 
 
 @users.delete("/{user_id}", status_code=status.HTTP_204_NO_CONTENT, summary="Eliminar usuario (Admin)")
@@ -138,7 +138,7 @@ def delete_user(
     admin_user: dict = Depends(auth.get_current_admin_user)
 ):
     """Admin puede eliminar cualquier cuenta"""
-    db_user = db.query(models.User).filter(models.User.id == user_id).first()
+    db_user = db.query(modelsUsers.User).filter(modelsUsers.User.id == user_id).first()
     if not db_user:
         raise HTTPException(status_code=404, detail="Usuario no encontrado")
     

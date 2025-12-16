@@ -1,13 +1,13 @@
 from fastapi import FastAPI
 from fastapi.routing import APIRoute
 
-from src.models import models
+from src.models import Base
 from src.routers import series, users 
-from src import dependencies as database
+from src.config import db as database
 
 
 # 1. Crear Tablas (Si no existen)
-models.Base.metadata.create_all(bind=database.engine)
+Base.metadata.create_all(bind=database.engine)
 
 
 # Función correcta para generar operationId limpio
