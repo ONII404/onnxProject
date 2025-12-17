@@ -1,3 +1,4 @@
+# src/models/genres.py
 from src.config.db import Base
 from sqlalchemy import Column, Integer, String, ForeignKey, UniqueConstraint
 from sqlalchemy.orm import relationship
@@ -9,6 +10,12 @@ class Genre(Base):
     slug = Column(String(50), unique=True, nullable=False)  # ej: "isekai", "ntr"
     
     translations = relationship("GenreTranslation", back_populates="genre", cascade="all, delete-orphan")
+
+    series = relationship(
+        "Series",
+        secondary="series_genres",        # ← string, no variable
+        back_populates="genres"
+    )
 
 class GenreTranslation(Base):
     __tablename__ = 'genre_translations'

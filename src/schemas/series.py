@@ -1,3 +1,4 @@
+# src/schemas/series.py
 from typing import List, Optional
 from pydantic import BaseModel, ConfigDict
 from datetime import datetime
