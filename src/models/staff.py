@@ -1,3 +1,4 @@
+# src/models/staff.py
 from src.config.db import Base
 from sqlalchemy import Column, Integer, String, Date, Text, ForeignKey, Enum, UniqueConstraint, CheckConstraint
 from sqlalchemy.orm import relationship

@@ -1,3 +1,4 @@
+# src/models/structure.py
 from datetime import datetime
 from src.config.db import Base
 from sqlalchemy import Column, DateTime, Integer, String, Text, Float, Date, ForeignKey, Enum, UniqueConstraint

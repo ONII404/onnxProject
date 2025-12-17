@@ -1,3 +1,4 @@
+# src/models/enums.py
 import enum
 
 class MediaType(enum.Enum):

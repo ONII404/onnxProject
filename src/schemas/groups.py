@@ -1,3 +1,4 @@
+# src/schemas/groups.py
 from datetime import date, datetime
 from typing import List, Optional
 from pydantic import BaseModel, ConfigDict

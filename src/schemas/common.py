@@ -1,3 +1,4 @@
+# src/schemas/common.py
 from datetime import datetime, date
 from pydantic import BaseModel, ConfigDict
 from typing import Optional

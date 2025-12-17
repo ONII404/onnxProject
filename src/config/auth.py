@@ -1,3 +1,4 @@
+# src/config/auth.py
 from fastapi import Header, HTTPException, status, Depends
 from typing import Optional
 

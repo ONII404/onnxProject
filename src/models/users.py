@@ -1,3 +1,4 @@
+# src/models/users.py
 from datetime import datetime
 from src.config.db import Base
 from sqlalchemy import Column, Integer, String, DateTime, Enum, Text, ForeignKey, UniqueConstraint, Boolean

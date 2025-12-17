@@ -1,5 +1,5 @@
+# src/models/__init__.py
 from src.config.db import Base
-
 from .enums import (
     MediaType, WatchStatus, GroupType, SeriesStatus,
     ReleaseStatus, ExternalSource, StaffRole, RelationType
